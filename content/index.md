@@ -14,6 +14,7 @@
 | Project Golem | [[project-golem]] | Node.js 自主 AI 代理系統，多後端+記憶+技能+Dashboard | ✅ |
 | Hermes Agent | [[hermes-agent]] | Nous Research 自我改進 Agent，學習閉環+跨 session 記憶 | ✅ |
 | MemPalace | [[mempalace]] | Local-first AI 記憶系統，宮殿索引+語意搜尋，96.6% R@5 | ✅ |
+| AutoResearch | [[autoresearch]] | Karpathy 自主 AI 研究專案，Agent 自動跑 LLM 訓練實驗 | ✅ |
 
 ## 概念關係圖
 
@@ -23,6 +24,7 @@ ai-workflow（總覽）
 │   └── mempalace（宮殿索引記憶系統）
 ├── agent-persona（Persona + Skill 設計）
 │   └── agent-skills-ecosystem（Skill 標準化）
+│       └── autoresearch（program.md = 超輕量 Skill）
 ├── prompt-security（安全面向）
 ├── project-golem（Node.js 自主 Agent）
 │   ├── agent-persona（多代理人格）
