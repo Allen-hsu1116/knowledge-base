@@ -105,6 +105,19 @@ Karpathy 的 Gist 是一份 **idea file**，設計來直接 copy-paste 給你的
 4. **知識複利**——每次提問都讓知識庫更強
 5. **工具不是重點**——資料夾結構和設定檔才是核心
 
+### 記憶系統對比
+
+不同的知識/記憶系統採取不同策略：
+
+| 系統 | 策略 | 核心做法 |
+|------|------|----------|
+| **Karpathy 方法論** | 編譯式 | raw → compile → wiki → lint，LLM 當編譯器 |
+| **MemPalace** | 索引式 | 原文逐字儲存 + 宮殿結構索引，不改寫 |
+| **Project Golem** | 向量式 | lancedb-pro 向量記憶 + 金字塔摘要 |
+| **Hermes Agent** | 建模式 | Honcho dialectic 建立使用者深層模型 |
+
+Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：MemPalace 負責精準找到原文，我們的知識庫負責概念整理和交叉連結。👉 詳見 [[mempalace]]、[[project-golem]]、[[hermes-agent]]
+
 ## 未來方向
 從 wiki 生成合成資料來微調 LLM，把知識「燒進」權重而不只是靠 context window。
 
@@ -112,6 +125,9 @@ Karpathy 的 Gist 是一份 **idea file**，設計來直接 copy-paste 給你的
 - [[agent-skills-ecosystem]] — Skill 格式標準化讓知識庫方法更容易部署
 - [[ai-workflow]] — AI 工作流整體趨勢
 - [[agent-persona]] — Persona 設計影響知識庫整理的風格和深度
+- [[mempalace]] — 宮殿索引記憶系統，跟我們的編譯式方法互補
+- [[project-golem]] — 向量式記憶系統（lancedb-pro）
+- [[hermes-agent]] — 建模式記憶（Honcho user modeling）
 
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md

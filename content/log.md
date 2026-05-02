@@ -31,6 +31,8 @@
 | 2026-05-02 | Ingest + Compile | GitHub: hermes-agent | wiki/hermes-agent.md | Nous Research 自我改進 Agent，學習閉環+跨 session 記憶 |
 | 2026-05-02 | Ingest + Compile | GitHub: mempalace | wiki/mempalace.md | Local-first AI 記憶系統，宮殿索引+語意搜尋 |
 | 2026-05-03 | Ingest + Compile | GitHub: autoresearch (karpathy) | wiki/autoresearch.md | 自主 AI 研究專案，Agent 自動跑 LLM 訓練實驗 |
+| 2026-05-03 | Ingest + Compile | GitHub: docling (docling-project) | wiki/docling.md | IBM 開源文件解析引擎，RAG 管線基礎 |
+| 2026-05-03 | Refactor | 概念頁加入專案精華+連結 | agent-persona, agent-skills-ecosystem, llm-knowledge-base, ai-workflow | 雙層結構：概念頁概覽，專案頁詳情 |
 
 **Lint 狀態**：尚未執行
 

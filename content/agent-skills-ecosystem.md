@@ -73,6 +73,10 @@ Google 官方出品，專注 Google Cloud：
 **Well-Architected Framework**
 - Security / Reliability / Cost Optimization
 
+### AutoResearch 的 program.md
+
+Karpathy 的 AutoResearch 專案將 program.md 視為超輕量 Skill：人類寫 Markdown 研究策略，Agent 在策略內自主修改 train.py 跑實驗。這是 Skill-driven autonomous research 的最早實例。👉 詳見 [[autoresearch]]
+
 ### 為什麼重要
 
 1. **標準化**：統一的 SKILL.md 格式，跨框架通用
@@ -95,6 +99,9 @@ OpenClaw 原生支援 SKILL.md 格式：
 - [[agent-persona]] — Persona 和 Skill 的搭配
 - [[ai-workflow]] — Skill 是 AI 工作流趨勢的具體實現
 - [[prompt-security]] — Skill 中的安全限制定義
+- [[hermes-agent]] — 相容 agentskills.io 開放標準
+- [[autoresearch]] — program.md 就是超輕量 Skill
+- [[project-golem]] — 自有技能系統，Dashboard 管理
 
 ## 來源
 - raw/2026-04-28-addyosmani-agent-skills.md

@@ -1,6 +1,12 @@
 # Project Golem
 
-> 一套 Node.js 驅動的自主 AI 代理系統，支援 Web Gemini、Ollama、LM Studio 多後端，內建長期記憶、技能系統、MCP 工具、多代理討論與 Web Dashboard。
+> Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）
+
+## 快速導航
+- 🧠 **人格與多代理** → [[agent-persona]]（InteractiveMultiAgent 圓桌討論）
+- 🛠 **技能系統** → [[agent-skills-ecosystem]]（自有技能 + Dashboard 管理）
+- 📚 **記憶系統** → [[llm-knowledge-base]]（lancedb-pro 向量記憶對比）
+- 🔄 **Agent 工作流** → [[ai-workflow]]
 
 ## 核心內容
 

@@ -50,6 +50,16 @@
 - Agent 有工具存取權時，安全問題更嚴重
 - 紅隊測試成為部署前的必要步驟
 
+**6. 自主研究**
+- AutoResearch 讓 Agent 自主跑 LLM 訓練實驗
+- program.md 驅動策略，Agent 在策略內自主迭代
+- 研究自動化從概念變成現實 👉 詳見 [[autoresearch]]
+
+**7. 文件解析基礎設施**
+- Docling 等工具把 PDF/DOCX/PPTX 等文件轉成結構化資料
+- 這是 RAG 和知識庫的「上游」基礎——沒有好的 parsing 就沒有好的知識庫
+- IBM 開源，59k ⭐，支援 MCP server 👉 詳見 [[docling]]
+
 ### 工具生態系
 
 | 工具類型 | 代表 | 用途 |
@@ -66,6 +76,11 @@
 - [[agent-persona]] — Persona-first 設計的深入探討
 - [[agent-skills-ecosystem]] — Skill 標準化生態系
 - [[prompt-security]] — AI 安全面向
+- [[autoresearch]] — 自主研究自動化
+- [[docling]] — 文件解析基礎設施
+- [[hermes-agent]] — 自我改進 Agent
+- [[project-golem]] — 自主 Agent 系統
+- [[mempalace]] — AI 記憶系統
 
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md

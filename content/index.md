@@ -15,13 +15,15 @@
 | Hermes Agent | [[hermes-agent]] | Nous Research 自我改進 Agent，學習閉環+跨 session 記憶 | ✅ |
 | MemPalace | [[mempalace]] | Local-first AI 記憶系統，宮殿索引+語意搜尋，96.6% R@5 | ✅ |
 | AutoResearch | [[autoresearch]] | Karpathy 自主 AI 研究專案，Agent 自動跑 LLM 訓練實驗 | ✅ |
+| Docling | [[docling]] | IBM 開源文件解析引擎，PDF/DOCX/PPTX→結構化資料，RAG 管線基礎 | ✅ |
 
 ## 概念關係圖
 
 ```
 ai-workflow（總覽）
 ├── llm-knowledge-base（知識管理自動化）
-│   └── mempalace（宮殿索引記憶系統）
+│   ├── mempalace（宮殿索引記憶系統）
+│   └── docling（文件解析基礎設施）
 ├── agent-persona（Persona + Skill 設計）
 │   └── agent-skills-ecosystem（Skill 標準化）
 │       └── autoresearch（program.md = 超輕量 Skill）

@@ -54,9 +54,9 @@
 
 每個人格包含：角色描述、專業背景、溝通風格、工作流程、產出標準。
 
-### OpenClaw 的實作
+### 各框架的實作方式
 
-OpenClaw 用檔案系統實作 Persona + Skill：
+**OpenClaw** — 用檔案系統實作 Persona + Skill：
 
 | 檔案 | 對應概念 | 內容 |
 |------|----------|------|
@@ -65,6 +65,12 @@ OpenClaw 用檔案系統實作 Persona + Skill：
 | AGENTS.md | 工作規範 | 流程和安全規則 |
 | MEMORY.md | 長期記憶 | 跨會話的知識 |
 | USER.md | 用戶畫像 | 了解服務對象 |
+
+**Hermes Agent** — Honcho dialectic user modeling：跨 session 建立使用者深層模型。Agent 不只記住你說過什麼，還建立對你的理解模型，隨著互動越來越精準。👉 詳見 [[hermes-agent]]
+
+**Project Golem** — InteractiveMultiAgent 多代理圓桌討論：多個人格角色同時參與討論，產出共識摘要。這是「AI 團隊協作」的具體實作。👉 詳見 [[project-golem]]
+
+**AutoResearch** — program.md 定義研究策略：人類寫 Markdown 指令，Agent 在策略內自主實驗。這是「Persona 給方向，Skill 給方法」的最簡範例。👉 詳見 [[autoresearch]]
 
 ## 關鍵洞見
 
@@ -77,6 +83,9 @@ OpenClaw 用檔案系統實作 Persona + Skill：
 - [[llm-knowledge-base]] — 知識庫是 Persona + Skill 的應用場景之一
 - [[agent-skills-ecosystem]] — Skill 的標準化格式和生態系
 - [[ai-workflow]] — AI 工作流整體趨勢
+- [[hermes-agent]] — Honcho 跨 session 使用者建模
+- [[project-golem]] — 多代理圓桌討論
+- [[autoresearch]] — program.md 策略驅動
 
 ## 來源
 - raw/2026-04-28-persona-skill-colleague.md

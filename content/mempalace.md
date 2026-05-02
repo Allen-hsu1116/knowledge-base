@@ -1,6 +1,12 @@
 # MemPalace
 
-> 本地優先的 AI 記憶系統，逐字儲存對話歷史，結構化宮殿索引 + 語意搜尋，LongMemEval 96.6% R@5 零 API 呼叫。
+> 本地優先 AI 記憶系統，逐字儲存對話歷史，結構化宮殿索引 + 語意搜尋，LongMemEval 96.6% R@5 零 API 呼叫。（詳細參考頁）
+
+## 快速導航
+- 📚 **記憶方法對比** → [[llm-knowledge-base]]（編譯式 vs 索引式）
+- 🛠 **MCP 整合** → [[project-golem]]（兩者都支援 MCP）
+- 🧠 **跨 session 記憶** → [[hermes-agent]]（Honchio 建模式互補）
+- 🔄 **Agent 工作流** → [[ai-workflow]]
 
 ## 核心內容
 

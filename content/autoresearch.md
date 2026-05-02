@@ -1,6 +1,11 @@
 # AutoResearch
 
-> Karpathy 的自主 AI 研究專案：AI Agent 在單 GPU 上自動跑 LLM 訓練實驗，修改程式碼→訓練 5 分鐘→檢查→保留或丟棄→重複。睡一覺起來就有 100 個實驗的日誌。
+> Karpathy 的自主 AI 研究專案：AI Agent 在單 GPU 上自動跑 LLM 訓練實驗，修改程式碼→訓練 5 分鐘→檢查→保留或丟棄→重複。program.md 就是超輕量 Skill。（詳細參考頁）
+
+## 快速導航
+- 🛠 **Skill 概念** → [[agent-skills-ecosystem]]（program.md = SKILL.md 的前身）
+- 🧠 **學習閉環** → [[hermes-agent]]（Hermes 自動改進 vs AutoResearch 人類定義策略）
+- 🔄 **Agent 工作流** → [[ai-workflow]]（研究自動化是 Agent 化極致形態）
 
 ## 核心內容
 
