@@ -32,6 +32,22 @@
 | RAGFlow | [[ragflow]] | RAG+Agent 引擎，有 OpenClaw Skill | llm-knowledge-base |
 | LiteLLM | [[litellm]] | 100+ LLM 統一 API Gateway | ai-workflow |
 
+## 教學影片頁
+
+> 李宏毅老師 AI Agent 課程系列。每部影片有字幕記錄 + 重點提煉。
+
+| 影片 | 檔案 | 簡介 | 所屬概念 |
+|------|------|------|----------|
+| 解剖小龍蝦 | [[2rcJdFuNbZQ]] | AI Agent 運作原理（OpenClaw 實例） | agent-persona, ai-workflow, prompt-security, agent-skills-ecosystem |
+| Context Engineering | [[urwDLyNa9FU]] | Agent 的核心：管理 LLM 看到的內容 | ai-workflow, agent-skills-ecosystem, prompt-security |
+| AI Agent 互動 | [[mmPmNezjCi0]] | 多 Agent 協作拓撲、狼人殺博弈 | ai-workflow, agent-persona, agent-skills-ecosystem, prompt-security |
+| AI Agent 工作衝擊 | [[VqB8zMujdjM]] | AI Agent 對學術研究的影響 | agent-persona, agent-skills-ecosystem, prompt-security |
+| Flash Attention | [[vXb2QYOUzl4]] | 少搬資料就是加速 | llm-knowledge-base, ai-workflow |
+| KV Cache | [[fDQaadKysSA]] | 存下來就不用重算 | llm-knowledge-base, ai-workflow, prompt-security |
+| Positional Embedding | [[Ll-wk8x3G_g]] | 位置編碼演進，Train Short Test Long | llm-knowledge-base, ai-workflow |
+| Harness Engineering | [[R6fZR_9kmIw]] | 駕馭工程，Agent 的控制與引導 | ai-workflow, agent-persona, agent-skills-ecosystem |
+| Self-Correction | [[m3i2mk5hs8U]] | 自我修正，Contrastive Decoding | llm-knowledge-base, ai-workflow |
+
 ## 概念關係圖
 
 ```

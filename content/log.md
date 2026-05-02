@@ -40,6 +40,7 @@
 | 2026-05-03 | Ingest + Compile | GitHub: cocoindex-io/cocoindex | wiki/cocoindex.md | 增量索引引擎，delta-only，Rust |
 | 2026-05-03 | Ingest + Compile | GitHub: infiniflow/ragflow | wiki/ragflow.md | RAG+Agent 引擎，有 OpenClaw Skill |
 | 2026-05-03 | Refactor | index.md 分成概念頁和專案頁兩區 | index.md | 修正混雜的列表 |
+| 2026-05-03 | Ingest + Compile | YouTube: 李宏毅 AI Agent 課程（9部） | wiki/2rcJdFuNbZQ.md 等 | 字幕→raw，重點→wiki，新增教學影片區 |
 
 **Lint 狀態**：尚未執行
 
