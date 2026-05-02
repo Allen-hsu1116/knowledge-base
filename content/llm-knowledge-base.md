@@ -115,6 +115,7 @@ Karpathy 的 Gist 是一份 **idea file**，設計來直接 copy-paste 給你的
 | **MemPalace** | 索引式 | 原文逐字儲存 + 宮殿結構索引，不改寫 |
 | **Project Golem** | 向量式 | lancedb-pro 向量記憶 + 金字塔摘要 |
 | **Hermes Agent** | 建模式 | Honcho dialectic 建立使用者深層模型 |
+| **OCR-Memory** | 視覺式 | 歷史軌跡渲染成圖片 + 視覺錨點檢索原文，ACL 2026 |
 
 Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：MemPalace 負責精準找到原文，我們的知識庫負責概念整理和交叉連結。👉 詳見 [[mempalace]]、[[project-golem]]、[[hermes-agent]]
 
@@ -128,6 +129,7 @@ Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：M
 - [[mempalace]] — 宮殿索引記憶系統，跟我們的編譯式方法互補
 - [[project-golem]] — 向量式記憶系統（lancedb-pro）
 - [[hermes-agent]] — 建模式記憶（Honcho user modeling）
+- [[ocr-memory]] — 視覺壓縮記憶（用圖片壓縮軌跡，ACL 2026）
 
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md

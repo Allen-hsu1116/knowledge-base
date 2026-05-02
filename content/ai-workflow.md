@@ -44,6 +44,7 @@
 - 跨會話的長期記憶成為標配
 - MEMORY.md、SOUL.md、USER.md 等持久上下文
 - 向量搜尋 + 關鍵字搜尋的混合模式
+- 新方法：OCR-Memory 用視覺壓縮記憶，省 token 且減少幻覺 👉 詳見 [[ocr-memory]]
 
 **5. 安全意識覺醒**
 - CL4R1T4S 等專案暴露了越獄風險
@@ -70,6 +71,8 @@
 | Persona 庫 | Agency Agents | AI 人格模板 |
 | Skill 庫 | agent-skills, google/skills | 能力模板 |
 | 安全研究 | CL4R1T4S | 紅隊測試 |
+| LLM Gateway | LiteLLM | 100+ LLM 統一 API |
+| 文件解析 | Docling | PDF/DOCX→結構化資料 |
 
 ## 相關概念
 - [[llm-knowledge-base]] — 知識管理自動化的具體方法
