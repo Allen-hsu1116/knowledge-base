@@ -73,6 +73,7 @@
 | 安全研究 | CL4R1T4S | 紅隊測試 |
 | LLM Gateway | LiteLLM | 100+ LLM 統一 API |
 | 文件解析 | Docling | PDF/DOCX→結構化資料 |
+| 個人助手框架 | OpenClaw | 多頻道 AI 助手，SKILL.md + 記憶 |
 
 ## 相關概念
 - [[llm-knowledge-base]] — 知識管理自動化的具體方法
@@ -84,6 +85,8 @@
 - [[hermes-agent]] — 自我改進 Agent
 - [[project-golem]] — 自主 Agent 系統
 - [[mempalace]] — AI 記憶系統
+- [[litellm]] — LLM 統一 API Gateway
+- [[openclaw]] — 個人助手框架（我們正在用的）
 
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md

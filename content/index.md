@@ -18,6 +18,7 @@
 | Docling | [[docling]] | IBM 開源文件解析引擎，PDF/DOCX/PPTX→結構化資料，RAG 管線基礎 | ✅ |
 | LiteLLM | [[litellm]] | 開源 AI Gateway，100+ LLM 統一 OpenAI 格式 API | ✅ |
 | OCR-Memory | [[ocr-memory]] | 視覺壓縮 Agent 記憶，圖片+錨點檢索原文，ACL 2026 | ✅ |
+| OpenClaw | [[openclaw]] | 個人 AI 助手框架，25+ 頻道，SKILL.md + 記憶 + Cron | ✅ |
 
 ## 概念關係圖
 
@@ -31,6 +32,10 @@ ai-workflow（總覽）
 │   └── agent-skills-ecosystem（Skill 標準化）
 │       └── autoresearch（program.md = 超輕量 Skill）
 ├── prompt-security（安全面向）
+├── openclaw（個人助手框架）
+│   ├── agent-persona（SOUL.md + SKILL.md）
+│   ├── agent-skills-ecosystem（ClawHub 技能庫）
+│   └── llm-knowledge-base（MEMORY.md + memory/）
 ├── project-golem（Node.js 自主 Agent）
 │   ├── agent-persona（多代理人格）
 │   ├── agent-skills-ecosystem（技能系統）

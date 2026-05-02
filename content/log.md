@@ -35,6 +35,7 @@
 | 2026-05-03 | Refactor | 概念頁加入專案精華+連結 | agent-persona, agent-skills-ecosystem, llm-knowledge-base, ai-workflow | 雙層結構：概念頁概覽，專案頁詳情 |
 | 2026-05-03 | Ingest + Compile | GitHub: litellm (BerriAI) | wiki/litellm.md | 開源 AI Gateway，100+ LLM 統一 API |
 | 2026-05-03 | Ingest + Compile | arXiv: OCR-Memory (2604.26622) | wiki/ocr-memory.md | 視覺壓縮 Agent 記憶，ACL 2026 |
+| 2026-05-03 | Ingest + Compile | GitHub: openclaw/openclaw | wiki/openclaw.md | 個人 AI 助手框架，我們正在用的 |
 
 **Lint 狀態**：尚未執行
 

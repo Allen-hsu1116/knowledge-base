@@ -56,7 +56,7 @@
 
 ### 各框架的實作方式
 
-**OpenClaw** — 用檔案系統實作 Persona + Skill：
+**OpenClaw** — 我們正在用的框架，用檔案系統實作 Persona + Skill：
 
 | 檔案 | 對應概念 | 內容 |
 |------|----------|------|
@@ -65,6 +65,8 @@
 | AGENTS.md | 工作規範 | 流程和安全規則 |
 | MEMORY.md | 長期記憶 | 跨會話的知識 |
 | USER.md | 用戶畫像 | 了解服務對象 |
+
+👉 詳見 [[openclaw]]
 
 **Hermes Agent** — Honcho dialectic user modeling：跨 session 建立使用者深層模型。Agent 不只記住你說過什麼，還建立對你的理解模型，隨著互動越來越精準。👉 詳見 [[hermes-agent]]
 
