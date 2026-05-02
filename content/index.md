@@ -12,20 +12,25 @@
 | Agent Skills 生態系 | [[agent-skills-ecosystem]] | SKILL.md 標準化和社群 Skill 庫 | ✅ |
 | Prompt 安全與越獄 | [[prompt-security]] | 越獄技術、防禦策略、Agent 安全 | ✅ |
 | Project Golem | [[project-golem]] | Node.js 自主 AI 代理系統，多後端+記憶+技能+Dashboard | ✅ |
+| Hermes Agent | [[hermes-agent]] | Nous Research 自我改進 Agent，學習閉環+跨 session 記憶 | ✅ |
+| MemPalace | [[mempalace]] | Local-first AI 記憶系統，宮殿索引+語意搜尋，96.6% R@5 | ✅ |
 
 ## 概念關係圖
 
 ```
 ai-workflow（總覽）
 ├── llm-knowledge-base（知識管理自動化）
+│   └── mempalace（宮殿索引記憶系統）
 ├── agent-persona（Persona + Skill 設計）
 │   └── agent-skills-ecosystem（Skill 標準化）
 ├── prompt-security（安全面向）
-└── project-golem（自主 AI Agent 系統實作）
-    ├── agent-persona（多代理人格）
-    ├── agent-skills-ecosystem（技能系統）
-    ├── llm-knowledge-base（記憶系統）
-    └── prompt-security（安全控管）
+├── project-golem（Node.js 自主 Agent）
+│   ├── agent-persona（多代理人格）
+│   ├── agent-skills-ecosystem（技能系統）
+│   └── llm-knowledge-base（記憶系統）
+└── hermes-agent（Python 自我改進 Agent）
+    ├── agent-skills-ecosystem（agentskills.io 相容）
+    └── mempalace（跨 session 記憶互補）
 ```
 
 ---
