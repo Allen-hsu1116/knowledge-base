@@ -1,8 +1,10 @@
 # 知識庫索引
 
-> 自動整理的知識庫目錄。每篇筆記對應一個概念或主題。
+> 自動整理的知識庫目錄。概念頁是閱讀入口，專案頁是深度參考。
 
-## 概念列表
+## 概念頁
+
+> 看概覽、看對比、看關聯。看到有趣的 👉 點進專案頁看詳細流程。
 
 | 概念 | 檔案 | 簡介 | 狀態 |
 |------|------|------|------|
@@ -11,14 +13,24 @@
 | AI Agent 人格設計 | [[agent-persona]] | Persona + Skill = AI 同事 | ✅ |
 | Agent Skills 生態系 | [[agent-skills-ecosystem]] | SKILL.md 標準化和社群 Skill 庫 | ✅ |
 | Prompt 安全與越獄 | [[prompt-security]] | 越獄技術、防禦策略、Agent 安全 | ✅ |
-| Project Golem | [[project-golem]] | Node.js 自主 AI 代理系統，多後端+記憶+技能+Dashboard | ✅ |
-| Hermes Agent | [[hermes-agent]] | Nous Research 自我改進 Agent，學習閉環+跨 session 記憶 | ✅ |
-| MemPalace | [[mempalace]] | Local-first AI 記憶系統，宮殿索引+語意搜尋，96.6% R@5 | ✅ |
-| AutoResearch | [[autoresearch]] | Karpathy 自主 AI 研究專案，Agent 自動跑 LLM 訓練實驗 | ✅ |
-| Docling | [[docling]] | IBM 開源文件解析引擎，PDF/DOCX/PPTX→結構化資料，RAG 管線基礎 | ✅ |
-| LiteLLM | [[litellm]] | 開源 AI Gateway，100+ LLM 統一 OpenAI 格式 API | ✅ |
-| OCR-Memory | [[ocr-memory]] | 視覺壓縮 Agent 記憶，圖片+錨點檢索原文，ACL 2026 | ✅ |
-| OpenClaw | [[openclaw]] | 個人 AI 助手框架，25+ 頻道，SKILL.md + 記憶 + Cron | ✅ |
+
+## 專案頁
+
+> 看詳細架構、安裝流程、使用方式。開頭有快速導航連回概念頁。
+
+| 專案 | 檔案 | 簡介 | 所屬概念 |
+|------|------|------|----------|
+| OpenClaw | [[openclaw]] | 個人 AI 助手框架，25+ 頻道 | agent-persona, agent-skills-ecosystem, llm-knowledge-base |
+| Project Golem | [[project-golem]] | Node.js 自主 AI 代理系統 | agent-persona, agent-skills-ecosystem, llm-knowledge-base |
+| Hermes Agent | [[hermes-agent]] | Nous Research 自我改進 Agent | agent-skills-ecosystem, llm-knowledge-base |
+| AutoResearch | [[autoresearch]] | Karpathy 自主 AI 研究專案 | agent-skills-ecosystem |
+| MemPalace | [[mempalace]] | Local-first AI 記憶系統 | llm-knowledge-base |
+| OCR-Memory | [[ocr-memory]] | 視覺壓縮 Agent 記憶，ACL 2026 | llm-knowledge-base |
+| OpenViking | [[openviking]] | Context Database，檔案系統範式 | llm-knowledge-base |
+| Docling | [[docling]] | IBM 開源文件解析引擎 | llm-knowledge-base |
+| CocoIndex | [[cocoindex]] | 增量索引引擎，delta-only | llm-knowledge-base |
+| RAGFlow | [[ragflow]] | RAG+Agent 引擎，有 OpenClaw Skill | llm-knowledge-base |
+| LiteLLM | [[litellm]] | 100+ LLM 統一 API Gateway | ai-workflow |
 
 ## 概念關係圖
 
@@ -27,7 +39,10 @@ ai-workflow（總覽）
 ├── llm-knowledge-base（知識管理自動化）
 │   ├── mempalace（宮殿索引記憶系統）
 │   ├── ocr-memory（視覺壓縮記憶）
-│   └── docling（文件解析基礎設施）
+│   ├── openviking（檔案系統 Context DB）
+│   ├── docling（文件解析基礎設施）
+│   ├── cocoindex（增量索引引擎）
+│   └── ragflow（RAG+Agent 引擎）
 ├── agent-persona（Persona + Skill 設計）
 │   └── agent-skills-ecosystem（Skill 標準化）
 │       └── autoresearch（program.md = 超輕量 Skill）

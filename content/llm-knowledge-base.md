@@ -116,6 +116,9 @@ Karpathy 的 Gist 是一份 **idea file**，設計來直接 copy-paste 給你的
 | **Project Golem** | 向量式 | lancedb-pro 向量記憶 + 金字塔摘要 |
 | **Hermes Agent** | 建模式 | Honcho dialectic 建立使用者深層模型 |
 | **OCR-Memory** | 視覺式 | 歷史軌跡渲染成圖片 + 視覺錨點檢索原文，ACL 2026 |
+| **OpenViking** | 檔案系統式 | L0/L1/L2 分層載入 + 目錄遞迴檢索，Volcengine 開源 |
+| **CocoIndex** | 增量索引式 | 宣告目標狀態，只跑 delta，Rust 引擎 |
+| **RAGFlow** | RAG+Agent 引擎 | 深度文件理解 + 模板分塊 + 接地引用，有 OpenClaw Skill |
 
 Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：MemPalace 負責精準找到原文，我們的知識庫負責概念整理和交叉連結。👉 詳見 [[mempalace]]、[[project-golem]]、[[hermes-agent]]
 
@@ -130,6 +133,9 @@ Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：M
 - [[project-golem]] — 向量式記憶系統（lancedb-pro）
 - [[hermes-agent]] — 建模式記憶（Honcho user modeling）
 - [[ocr-memory]] — 視覺壓縮記憶（用圖片壓縮軌跡，ACL 2026）
+- [[openviking]] — 檔案系統 Context DB（L0/L1/L2 分層載入）
+- [[cocoindex]] — 增量索引引擎（delta-only，Rust）
+- [[ragflow]] — RAG+Agent 引擎（深度文件理解 + 接地引用）
 
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md

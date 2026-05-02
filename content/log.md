@@ -36,6 +36,10 @@
 | 2026-05-03 | Ingest + Compile | GitHub: litellm (BerriAI) | wiki/litellm.md | 開源 AI Gateway，100+ LLM 統一 API |
 | 2026-05-03 | Ingest + Compile | arXiv: OCR-Memory (2604.26622) | wiki/ocr-memory.md | 視覺壓縮 Agent 記憶，ACL 2026 |
 | 2026-05-03 | Ingest + Compile | GitHub: openclaw/openclaw | wiki/openclaw.md | 個人 AI 助手框架，我們正在用的 |
+| 2026-05-03 | Ingest + Compile | GitHub: volcengine/OpenViking | wiki/openviking.md | Context DB，檔案系統範式，L0/L1/L2 分層 |
+| 2026-05-03 | Ingest + Compile | GitHub: cocoindex-io/cocoindex | wiki/cocoindex.md | 增量索引引擎，delta-only，Rust |
+| 2026-05-03 | Ingest + Compile | GitHub: infiniflow/ragflow | wiki/ragflow.md | RAG+Agent 引擎，有 OpenClaw Skill |
+| 2026-05-03 | Refactor | index.md 分成概念頁和專案頁兩區 | index.md | 修正混雜的列表 |
 
 **Lint 狀態**：尚未執行
 

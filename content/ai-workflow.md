@@ -74,6 +74,9 @@
 | LLM Gateway | LiteLLM | 100+ LLM 統一 API |
 | 文件解析 | Docling | PDF/DOCX→結構化資料 |
 | 個人助手框架 | OpenClaw | 多頻道 AI 助手，SKILL.md + 記憶 |
+| Context DB | OpenViking | 檔案系統範式，L0/L1/L2 分層 |
+| 增量索引 | CocoIndex | delta-only，Rust 引擎 |
+| RAG 引擎 | RAGFlow | RAG+Agent，有 OpenClaw Skill |
 
 ## 相關概念
 - [[llm-knowledge-base]] — 知識管理自動化的具體方法
@@ -87,6 +90,10 @@
 - [[mempalace]] — AI 記憶系統
 - [[litellm]] — LLM 統一 API Gateway
 - [[openclaw]] — 個人助手框架（我們正在用的）
+- [[openviking]] — Context DB（檔案系統範式）
+- [[cocoindex]] — 增量索引引擎
+- [[ragflow]] — RAG+Agent 引擎
+- [[ocr-memory]] — 視覺壓縮記憶
 
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md
