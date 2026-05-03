@@ -44,6 +44,19 @@
 
 **Lint 狀態**：尚未執行
 
+### 2026-05-03 補建
+
+**Ingest + Compile**：
+1. GitHub: rtk-ai/rtk — Rust CLI proxy，LLM token 省 60-90%
+2. GitHub: ZhuLinsen/daily_stock_analysis — A股/港股/美股 AI 分析系統
+
+**Compile**：
+- [[rtk]] ← 素材 1（token 優化、prompt 工程）
+- [[daily-stock-analysis]] ← 素材 2（LLM 應用、AI Agent）
+
+| 2026-05-03 | Ingest + Compile | GitHub: rtk-ai/rtk | wiki/rtk.md | CLI proxy，LLM token 省 60-90% |
+| 2026-05-03 | Ingest + Compile | GitHub: ZhuLinsen/daily_stock_analysis | wiki/daily-stock-analysis.md | A股/港股/美股 AI 分析系統 |
+
 ### 2026-05-02 詳細記錄
 
 **Ingest**：

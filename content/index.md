@@ -31,6 +31,8 @@
 | CocoIndex | [[cocoindex]] | 增量索引引擎，delta-only | llm-knowledge-base |
 | RAGFlow | [[ragflow]] | RAG+Agent 引擎，有 OpenClaw Skill | llm-knowledge-base |
 | LiteLLM | [[litellm]] | 100+ LLM 統一 API Gateway | ai-workflow |
+| RTK | [[rtk]] | CLI proxy，LLM token 消耗降 60-90% | llm-knowledge-base, ai-workflow, prompt-security |
+| Daily Stock Analysis | [[daily-stock-analysis]] | A股/港股/美股 AI 智能分析系統 | ai-workflow, llm-knowledge-base |
 
 ## 教學影片頁
 
