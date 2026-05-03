@@ -95,6 +95,17 @@
 - [[ragflow]] — RAG+Agent 引擎
 - [[ocr-memory]] — 視覺壓縮記憶
 
+## 相關影片
+- [[agent-anatomy-openclaw]] — 解剖小龍蝦：AI Agent 運作原理
+- [[context-engineering-basics]] — Context Engineering 基本概念
+- [[ai-agent-interaction]] — AI Agent 之間的互動
+- [[ai-agent-work-impact]] — AI Agent 對工作的衝擊
+- [[harness-engineering]] — Harness Engineering：駕馭工程
+- [[flash-attention]] — Flash Attention 加速推論
+- [[kv-cache]] — KV Cache 減少重算
+- [[positional-embedding-evolution]] — Positional Embedding 演進
+- [[self-correction]] — AI 自我修正
+
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md
 - raw/2026-04-28-andrej-karpathy-ai-how.md

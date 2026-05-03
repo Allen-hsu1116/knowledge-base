@@ -78,5 +78,12 @@ elder-plinius/CL4R1T4S（~2.8k stars）是 AI 安全研究專案：
 - [[agent-skills-ecosystem]] — Skill 中可以包含安全限制定義
 - [[llm-knowledge-base]] — 知識庫系統的安全設計考量
 
+## 相關影片
+- [[agent-anatomy-openclaw]] — 解剖小龍蝦：Prompt Injection 安全議題
+- [[context-engineering-basics]] — Context Collapse 風險
+- [[ai-agent-interaction]] — AI 社交的真實程度與信任問題
+- [[ai-agent-work-impact]] — AI 審稿的信任問題
+- [[kv-cache]] — Cache 定價與安全影響
+
 ## 來源
 - raw/2026-04-28-cl4r1t4s.md

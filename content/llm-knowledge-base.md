@@ -137,6 +137,13 @@ Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：M
 - [[cocoindex]] — 增量索引引擎（delta-only，Rust）
 - [[ragflow]] — RAG+Agent 引擎（深度文件理解 + 接地引用）
 
+## 相關影片
+- [[context-engineering-basics]] — Context Engineering：管理 LLM 看到的內容
+- [[kv-cache]] — KV Cache：存下來就不用重算
+- [[positional-embedding-evolution]] — Positional Embedding 演進
+- [[flash-attention]] — Flash Attention：少搬資料就是加速
+- [[self-correction]] — AI 自我修正
+
 ## 來源
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md
 - raw/2026-04-28-andrej-karpathy-ai-how.md

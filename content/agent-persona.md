@@ -89,6 +89,12 @@
 - [[project-golem]] — 多代理圓桌討論
 - [[autoresearch]] — program.md 策略驅動
 
+## 相關影片
+- [[agent-anatomy-openclaw]] — 解剖小龍蝦：AI Agent 運作原理
+- [[ai-agent-interaction]] — AI Agent 之間的互動
+- [[ai-agent-work-impact]] — AI Agent 對工作的衝擊
+- [[harness-engineering]] — Harness Engineering：駕馭工程
+
 ## 來源
 - raw/2026-04-28-persona-skill-colleague.md
 - raw/2026-04-28-agency-agents-144-personas.md

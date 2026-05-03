@@ -103,6 +103,12 @@ OpenClaw 原生支援 SKILL.md 格式：
 - [[autoresearch]] — program.md 就是超輕量 Skill
 - [[project-golem]] — 自有技能系統，Dashboard 管理
 
+## 相關影片
+- [[agent-anatomy-openclaw]] — 解剖小龍蝦：Skill 是 SOP 不是程式
+- [[context-engineering-basics]] — Context Engineering：Skill 按需載入
+- [[ai-agent-interaction]] — AI Agent 互動中的 Skill 運用
+- [[harness-engineering]] — Harness Engineering：Skill 作為引導工具
+
 ## 來源
 - raw/2026-04-28-addyosmani-agent-skills.md
 - raw/2026-04-28-google-skills.md
