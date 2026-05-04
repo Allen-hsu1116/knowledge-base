@@ -6,7 +6,7 @@
 - 🧠 **使用者建模** → [[agent-persona]]（Honcho dialectic user modeling）
 - 🛠 **Skill 標準** → [[agent-skills-ecosystem]]（相容 agentskills.io 開放標準）
 - 📚 **跨 session 記憶** → [[llm-knowledge-base]]（跟 MemPalace 方法互補）
-- 🔄 **Agent 工作流** → [[ai-workflow]]
+- 🔄 **Agent 工作流** → [[AI-Agent]]
 
 ## 核心內容
 
@@ -61,7 +61,7 @@ Hermes Agent 是 Nous Research（開源 LLM 模型知名團隊）推出的自主
 - [[agent-skills-ecosystem]] — Hermes 相容 agentskills.io 開放標準
 - [[project-golem]] — 另一個自主 Agent 系統（Node.js），可做對比
 - [[mempalace]] — AI 記憶系統，跟 Hermes 的跨 session 記憶概念互補
-- [[ai-workflow]] — Agent 化工作流趨勢的具體實作
+- [[AI-Agent]] — Agent 化工作流趨勢的具體實作
 
 ## 來源
 - raw/2026-05-02-hermes-agent.md

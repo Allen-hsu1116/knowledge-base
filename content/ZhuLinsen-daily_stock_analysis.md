@@ -2,6 +2,12 @@
 
 > 🤖 基於 AI 大模型的 A股/港股/美股自選股智能分析系統，每日自動分析並推送「決策儀表盤」
 
+## 快速導航
+
+- 🧠 **LLM** → [[LLM]]（使用大語言模型進行分析決策）
+- 🤖 **AI Agent** → [[AI-Agent]]（AI 驅動的自動化分析 agent）
+- 📝 **Prompt Engineering** → [[Prompt-Engineering]]（11 種策略 = 結構化 prompt）
+
 LLM-powered stock analysis system for A-share, HK, and US markets. Generates daily AI-powered decision dashboards with buy/sell signals, risk alerts, and multi-dimensional analysis.
 
 ## 核心特色
@@ -30,6 +36,7 @@ python main.py
 
 - [[AI Agent]] — AI 驅動的自動化分析 agent
 - [[LLM]] — 使用大語言模型進行分析決策
+- [[Prompt Engineering]] — 11 種策略是結構化 prompt 的實作
 
 ---
 

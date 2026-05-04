@@ -3,8 +3,8 @@
 > 系統化介紹 AI Agent 的核心技術——如何管理語言模型看到的內容，讓輸入長度合適（詳細參考頁）
 
 ## 快速導航
-- 🧠 **Context Engineering 定義** → [[ai-workflow]]（Agent 的核心就是大 F 函數，決定 LLM 看到什麼）
-- 🛠 **壓縮與記憶** → [[ai-workflow]]（LLM Summary、Observation Masking、外部記憶儲存）
+- 🧠 **Context Engineering 定義** → [[AI-Agent]]（Agent 的核心就是大 F 函數，決定 LLM 看到什麼）
+- 🛠 **壓縮與記憶** → [[AI-Agent]]（LLM Summary、Observation Masking、外部記憶儲存）
 - 🔧 **Agent Skills 與按需載入** → [[agent-skills-ecosystem]]（Skill、MCP-Zero 工具動態加載）
 - ⚠️ **Context Collapse 風險** → [[prompt-security]]（壓縮可能丟失關鍵指令，如 AI 刪郵件事件）
 
@@ -71,7 +71,13 @@
 - **Agentic CE**：讓 LLM 自己做 Context Engineering
 
 ## 相關概念
-← [[ai-workflow]] · [[agent-skills-ecosystem]] · [[prompt-security]] · [[llm-knowledge-base]]
+← [[AI-Agent]] · [[agent-skills-ecosystem]] · [[prompt-security]] · [[llm-knowledge-base]] · [[Context-Database]] · [[Token-Optimization]] · [[volcengine-OpenViking]]
+
+## 相關專案
+- [[volcengine-OpenViking]] — Context Database 的開源實作，L0/L1/L2 分層載入
+- [[mempalace]] — 宮殿索引式記憶系統
+- [[rtk]] — CLI proxy 壓縮 observation context
+- [[affaan-m-everything-claude-code]] — 含 Memory Optimization 功能
 
 ## 來源
 - raw/2026-05-03-urwDLyNa9FU.md

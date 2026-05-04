@@ -5,7 +5,7 @@
 ## 快速導航
 - 🛠 **Skill 概念** → [[agent-skills-ecosystem]]（program.md = SKILL.md 的前身）
 - 🧠 **學習閉環** → [[hermes-agent]]（Hermes 自動改進 vs AutoResearch 人類定義策略）
-- 🔄 **Agent 工作流** → [[ai-workflow]]（研究自動化是 Agent 化極致形態）
+- 🔄 **Agent 工作流** → [[AI-Agent]]（研究自動化是 Agent 化極致形態）
 
 ## 核心內容
 
@@ -52,7 +52,7 @@ AutoResearch 是 Andrej Karpathy（前 Tesla AI 總監、OpenAI 共同創辦人�
 - [[project-golem]] — Golem 的技能系統是 SKILL.md 概念的另一種實作
 - [[hermes-agent]] — 學習閉環概念可互補
 - [[agent-skills-ecosystem]] — program.md 就是 SKILL.md 的前身
-- [[ai-workflow]] — 自主研究是 Agent 化工作流的極致形態
+- [[AI-Agent]] — 自主研究是 Agent 化工作流的極致形態
 
 ### 為什麼重要
 ⭐ 78.5k stars 說明社群認可度極高。AutoResearch 代表的趨勢是：

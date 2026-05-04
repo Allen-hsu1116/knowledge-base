@@ -1,30 +1,91 @@
 # AI Tutoring
 
-> AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent 來創造互動式、自適應的學習體驗。
+> AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent 來創造互動式、自適應的學習體驗。從「看影片+做題」走向「跟 AI 對話學」。
 
-## 核心概念
+## 快速導航
 
-- **Book Engine**：將文件轉化為互動式學習體驗的「活書」編譯器
-- **TutorBot**：持久化的自主 AI 助教，能持續追蹤學習進度
-- **Question Bank**：帶書籤和分類的題庫系統，支援 @-mention 引用
-- **Co-Writer**：多文件協作寫作功能
-- **Skills System**：使用者自定義的教學行為技能
-- **Space Hub**：統一的上下文管理空間
+- 🎓 **DeepTutor** → [[HKUDS-DeepTutor]]（Agent-Native 個人化 AI 家教）
+- 🕸️ **Knowledge Graph** → [[Knowledge-Graph]]（知識圖譜是 AI Tutoring 的知識基礎）
+- 🔍 **RAG** → [[LLM]]（RAG 讓 AI 能基於特定教材回答問題）
+- 🤖 **AI Agent** → [[AI-Agent]]（TutorBot 是自主 Agent 層）
 
-## 為什麼重要
+## 為什麼 AI Tutoring 重要
 
-- 傳統線上課程是靜態的，AI Tutoring 是動態且自適應的
-- RAG + 知識圖譜讓 AI 能基於特定教材回答問題，而非泛泛而談
-- TutorBot 能持久記住學習者的進度和弱點，提供真正個人化的指導
+### 傳統線上教育的問題
+
+| 問題 | 說明 |
+|------|------|
+| **靜態內容** | 影片、PDF、投影片不會根據學習者調整 |
+| **無法互動** | 學生有問題只能自己查，沒人即時解答 |
+| **統一進度** | 所有人看同樣的內容，不管程度如何 |
+| **缺乏反饋** | 不知道自己哪裡不懂、哪裡需要加強 |
+
+### AI Tutoring 的解法
+
+| 能力 | 說明 | 實作 |
+|------|------|------|
+| **個人化** | 根據學習者畫像調整內容和難度 | TutorBot 動態記憶 |
+| **互動式** | 對話式學習，即時回答問題 | Book Engine 活書引擎 |
+| **自適應** | 根據學習表現調整教學策略 | 難度校準出題 |
+| **持續追蹤** | 記住學習者的弱點和進度 | 混合個人化引擎 |
+
+## 核心技術
+
+### Book Engine（活書引擎）
+
+把靜態文件變成互動式學習體驗。不只能讀，還能對話、測驗、探索。
+
+### TutorBot（自主家教）
+
+- 主動式多 agent 層
+- 透過可擴展 skills 部署家教能力
+- 持續追蹤學習進度
+- 統一多管道存取（CLI、Web、Discord、微信、飛書）
+
+### 混合個人化引擎
+
+**靜態知識錨定 + 動態多解析度記憶**：
+
+1. 靜態：基於教材和知識圖譜的基礎知識
+2. 動態：從互動歷史提煉學習者畫像
+3. 封閉教學迴路：引用式解題 ↔ 難度校準出題
+
+### Question Bank（題庫）
+
+- 書籤和分類系統
+- @-mention 引用支援
+- 多難度等級
+
+## TutorBench 評測
+
+學習者視角的評測基準，包含：
+- 引用式學習者畫像
+- 第一人稱互動協議
+- 從學習者角度衡量自適應家教效果
+
+## 主要專案
+
+- [[HKUDS-DeepTutor]] — Agent-Native 個人化 AI 家教
+  - Book Engine、TutorBot、RAG 整合
+  - 多 LLM Provider 支援（OpenAI、Anthropic、Gemini、Ollama 等）
+  - 論文：arXiv:2604.26962
+
+## 與其他領域的關係
+
+| 相關領域 | 關係 |
+|----------|------|
+| [[Knowledge-Graph]] | 知識圖譜是 AI Tutoring 的知識基礎 |
+| [[AI-Agent]] | TutorBot 是 Agent 架構的教學應用 |
+| [[MCP]] | MCP 讓 TutorBot 連接外部工具和資料 |
+| [[AI-Skills]] | Skills 定義 TutorBot 的教學行為 |
 
 ## 相關專案
 
-- [[HKUDS-DeepTutor|DeepTutor]] — HKUDS 開發的 Agent-Native 個人化教學助手，含 Book Engine、TutorBot、RAG 整合
+- [[HKUDS-DeepTutor]] — Agent-Native 個人化 AI 家教
 
 ## 相關概念
 
-- [[RAG]] — 檢索增強生成，AI Tutoring 的核心檢索技術
-- [[AI Agent]] — Agent 架構是 AI Tutoring 的實現基礎
+← [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ---
 

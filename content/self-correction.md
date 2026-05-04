@@ -4,7 +4,7 @@
 
 ## 快速導航
 - 🧠 **LLM 知識庫** → [[llm-knowledge-base]]（Contrastive Decoding 涉及模型內部 representation 和 logit 的操作）
-- 🛠 **AI 工作流** → [[ai-workflow]]（Generation + Verification 是 Agent 自我修正的 workflow 層實現）
+- 🛠 **AI 工作流** → [[AI-Agent]]（Generation + Verification 是 Agent 自我修正的 workflow 層實現）
 
 ## 核心內容
 
@@ -60,7 +60,7 @@
 - **REVISE**：把自我修正拆成錯誤偵測+錯誤修正兩步分開學
 
 ## 相關概念
-← [[llm-knowledge-base]] ← [[ai-workflow]]
+← [[llm-knowledge-base]] ← [[AI-Agent]]
 
 ## 來源
 - raw/2026-05-03-m3i2mk5hs8U.md

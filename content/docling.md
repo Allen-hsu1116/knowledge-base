@@ -55,7 +55,7 @@ docling --pipeline vlm --vlm-model granite_docling https://arxiv.org/pdf/2206.01
 ```
 
 ### 為什麼重要
-Docling 是 [[llm-knowledge-base]] 和 [[ai-workflow]] 的基礎設施層。沒有好的文件解析，就沒有好的知識庫和 RAG。它是「把非結構化文件變成結構化知識」的第一步。
+Docling 是 [[llm-knowledge-base]] 和 [[AI-Agent]] 的基礎設施層。沒有好的文件解析，就沒有好的知識庫和 RAG。它是「把非結構化文件變成結構化知識」的第一步。
 
 特別值得注意的是：
 - 59k ⭐ 說明這是社群公認的文件解析標準
@@ -66,7 +66,7 @@ Docling 是 [[llm-knowledge-base]] 和 [[ai-workflow]] 的基礎設施層。沒�
 ## 快速導航
 - 📚 **知識庫上游** → [[llm-knowledge-base]]（Docling 是知識管線的 parsing 層）
 - 🏰 **記憶系統** → [[mempalace]]（Docling 解析 → MemPalace 儲存/檢索）
-- 🔄 **Agent 工作流** → [[ai-workflow]]（文件解析是 RAG 管線的基礎）
+- 🔄 **Agent 工作流** → [[AI-Agent]]（文件解析是 RAG 管線的基礎）
 
 ## 來源
 - raw/2026-05-03-docling.md

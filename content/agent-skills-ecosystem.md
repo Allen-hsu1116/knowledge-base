@@ -97,11 +97,18 @@ OpenClaw 原生支援 SKILL.md 格式：
 ## 相關概念
 - [[llm-knowledge-base]] — 知識庫方法論的 Skill 化版本
 - [[agent-persona]] — Persona 和 Skill 的搭配
-- [[ai-workflow]] — Skill 是 AI 工作流趨勢的具體實現
+- [[AI-Agent]] — Skill 是 AI 工作流趨勢的具體實現
 - [[prompt-security]] — Skill 中的安全限制定義
 - [[hermes-agent]] — 相容 agentskills.io 開放標準
 - [[autoresearch]] — program.md 就是超輕量 Skill
 - [[project-golem]] — 自有技能系統，Dashboard 管理
+- [[AI-Skills]] — SKILL.md 格式概念頁
+- [[AI-Agent]] — AI Agent 概念總覽
+
+## 相關專案
+- [[affaan-m-everything-claude-code]] — 140K+ stars，含 Skills、Instincts、Security
+- [[sickn33-antigravity-awesome-skills]] — 1,443+ SKILL.md 技能庫
+- [[googleworkspace-cli]] — 40+ AI agent skills 內建
 
 ## 相關影片
 - [[agent-anatomy-openclaw]] — 解剖小龍蝦：Skill 是 SOP 不是程式

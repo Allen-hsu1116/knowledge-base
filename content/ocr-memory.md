@@ -5,7 +5,7 @@
 ## 快速導航
 - 📚 **記憶方法對比** → [[llm-knowledge-base]]（編譯式 vs 索引式 vs 視覺式）
 - 🏰 **不改寫原文** → [[mempalace]]（MemPalace 也是精確檢索而非摘要）
-- 🔄 **Agent 工作流** → [[ai-workflow]]（持久記憶是 Agent 化的關鍵需求）
+- 🔄 **Agent 工作流** → [[AI-Agent]]（持久記憶是 Agent 化的關鍵需求）
 
 ## 核心內容
 
@@ -50,7 +50,7 @@ OCR-Memory 的核心創新：**用圖片作為高密度經驗表示**。
 - **arXiv**：2604.26622v1
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[mempalace]] · [[ai-workflow]]
+← [[llm-knowledge-base]] · [[mempalace]] · [[AI-Agent]]
 
 ## 來源
 - raw/2026-05-03-ocr-memory.md

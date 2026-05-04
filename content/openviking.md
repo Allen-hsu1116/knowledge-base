@@ -41,7 +41,7 @@ OpenViking 的分層載入跟我們的雙層結構（概念頁+專案頁）異�
 - AGPL-3.0 授權
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[openclaw]] · [[cocoindex]]
+← [[llm-knowledge-base]] · [[openclaw]] · [[cocoindex]] · [[volcengine-OpenViking]]（專案頁）
 
 ## 來源
 - raw/2026-05-03-openviking.md

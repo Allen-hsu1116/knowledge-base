@@ -4,7 +4,7 @@
 
 ## 快速導航
 - 🧠 **AI Agent 架構與身分** → [[agent-persona]]（Agent 不是 LLM，是人與 LLM 之間的介面）
-- 🛠 **Context Engineering 核心技術** → [[ai-workflow]]（System Prompt、工具按需載入、記憶壓縮都是 Context Engineering）
+- 🛠 **Context Engineering 核心技術** → [[AI-Agent]]（System Prompt、工具按需載入、記憶壓縮都是 Context Engineering）
 - ⚠️ **Prompt Injection 與安全** → [[prompt-security]]（YouTube 留言可修改本地檔案，需要多層防禦）
 - 🔧 **Agent Skills 生態** → [[agent-skills-ecosystem]]（Skill 是 SOP 不是程式，按需讀取，可交換但有惡意風險）
 
@@ -64,7 +64,7 @@ LLM 覺得流程太繁瑣時，會要求 Agent 在地端寫腳本（如 tts_chec
 - **安全是分層的**：程式端硬限制 > LLM 指令 > 環境隔離
 
 ## 相關概念
-← [[agent-persona]] · [[ai-workflow]] · [[prompt-security]] · [[agent-skills-ecosystem]]
+← [[agent-persona]] · [[AI-Agent]] · [[prompt-security]] · [[agent-skills-ecosystem]]
 
 ## 來源
 - raw/2026-05-03-2rcJdFuNbZQ.md

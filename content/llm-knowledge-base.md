@@ -127,7 +127,7 @@ Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：M
 
 ## 相關概念
 - [[agent-skills-ecosystem]] — Skill 格式標準化讓知識庫方法更容易部署
-- [[ai-workflow]] — AI 工作流整體趨勢
+- [[AI-Agent]] — AI 工作流整體趨勢
 - [[agent-persona]] — Persona 設計影響知識庫整理的風格和深度
 - [[mempalace]] — 宮殿索引記憶系統，跟我們的編譯式方法互補
 - [[project-golem]] — 向量式記憶系統（lancedb-pro）
@@ -139,9 +139,9 @@ Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：M
 
 ## 相關影片
 - [[context-engineering-basics]] — Context Engineering：管理 LLM 看到的內容
-- [[kv-cache]] — KV Cache：存下來就不用重算
-- [[positional-embedding-evolution]] — Positional Embedding 演進
-- [[flash-attention]] — Flash Attention：少搬資料就是加速
+- [[llm-internals]] — KV Cache：存下來就不用重算
+- [[llm-internals]] — Positional Embedding 演進
+- [[llm-internals]] — Flash Attention：少搬資料就是加速
 - [[self-correction]] — AI 自我修正
 
 ## 來源

@@ -6,7 +6,7 @@
 - 🧠 **Persona + Skill** → [[agent-persona]]（OpenClaw 用 SOUL.md + SKILL.md 實作）
 - 🛠 **Skill 生態系** → [[agent-skills-ecosystem]]（OpenClaw 是 SKILL.md 格式的原生實作）
 - 📚 **記憶系統** → [[llm-knowledge-base]]（MEMORY.md + memory/ 就是知識庫方法論的實作）
-- 🔄 **Agent 工作流** → [[ai-workflow]]（多頻道 + 排程 + 子 Agent）
+- 🔄 **Agent 工作流** → [[AI-Agent]]（多頻道 + 排程 + 子 Agent）
 
 ## 核心內容
 
@@ -59,7 +59,7 @@ WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、BlueBu
 - Quartz 網站部署知識庫
 
 ## 相關概念
-← [[agent-persona]] · [[agent-skills-ecosystem]] · [[ai-workflow]] · [[llm-knowledge-base]]
+← [[agent-persona]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[llm-knowledge-base]]
 
 ## 來源
 - raw/2026-05-03-openclaw.md

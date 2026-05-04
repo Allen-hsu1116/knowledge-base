@@ -45,7 +45,10 @@
 - **人類的不可取代性**：在問題發想和實驗設計的早期介入，目前仍是產出高品質研究的關鍵
 
 ## 相關概念
-← [[agent-persona]]
+← [[agent-persona]] · [[AI-Agent]] · [[AI-Agent]] · [[ai-agent-interaction]]
+
+## 相關專案
+- [[santifer-career-ops]] — AI Agent 改變求職方式的實例
 
 ## 來源
 - raw/2026-05-03-VqB8zMujdjM.md

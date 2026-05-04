@@ -3,7 +3,7 @@
 > 語言模型不是不夠聰明，而是缺乏好的引導。Harness Engineering 透過認知框架、工具邊界、工作流程三個維度駕馭 AI Agent。
 
 ## 快速導航
-- 🧠 **AI 工作流** → [[ai-workflow]]（Harness 是 Agent 工作流的核心架構）
+- 🧠 **AI 工作流** → [[AI-Agent]]（Harness 是 Agent 工作流的核心架構）
 - 🛠 **Agent 人格** → [[agent-persona]]（agents.md 定義了 Agent 的認知框架和行為準則）
 - ⚡ **Agent Skills** → [[agent-skills-ecosystem]]（Skill 檔是 Agent 自我強化的關鍵機制）
 
@@ -38,7 +38,7 @@ Anthropic 用 steering vector 技術發現：模型有代表情緒的內部向�
 - **Meta Harness**：強模型幫弱模型設計 Harness 的實驗
 
 ## 相關概念
-← [[ai-workflow]] ← [[agent-persona]] ← [[agent-skills-ecosystem]]
+← [[AI-Agent]] ← [[agent-persona]] ← [[agent-skills-ecosystem]]
 
 ## 來源
 - raw/2026-05-03-R6fZR_9kmIw.md

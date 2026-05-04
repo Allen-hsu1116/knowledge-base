@@ -19,7 +19,7 @@
 
 **Compile（整理）**：
 - [[llm-knowledge-base]] ← 素材 1, 2, 7
-- [[ai-workflow]] ← 素材 1, 2, 3, 5
+- [[AI-Agent]] ← 素材 1, 2, 3, 5
 - [[agent-persona]] ← 素材 3, 5
 - [[agent-skills-ecosystem]] ← 素材 5, 6, 7, 8
 - [[prompt-security]] ← 素材 4
@@ -52,7 +52,7 @@
 
 **Compile**：
 - [[rtk]] ← 素材 1（token 優化、prompt 工程）
-- [[daily-stock-analysis]] ← 素材 2（LLM 應用、AI Agent）
+- [[ZhuLinsen-daily_stock_analysis]] ← 素材 2（LLM 應用、AI Agent）
 
 | 2026-05-03 | Ingest + Compile | GitHub: rtk-ai/rtk | wiki/rtk.md | CLI proxy，LLM token 省 60-90% |
 | 2026-05-03 | Ingest + Compile | GitHub: ZhuLinsen/daily_stock_analysis | wiki/daily-stock-analysis.md | A股/港股/美股 AI 分析系統 |

@@ -84,10 +84,18 @@
 ## 相關概念
 - [[llm-knowledge-base]] — 知識庫是 Persona + Skill 的應用場景之一
 - [[agent-skills-ecosystem]] — Skill 的標準化格式和生態系
-- [[ai-workflow]] — AI 工作流整體趨勢
+- [[AI-Agent]] — AI 工作流整體趨勢
 - [[hermes-agent]] — Honcho 跨 session 使用者建模
 - [[project-golem]] — 多代理圓桌討論
 - [[autoresearch]] — program.md 策略驅動
+- [[AI-Agent]] — AI Agent 概念總覽
+- [[AI-Skills]] — SKILL.md 格式詳解
+- [[MCP]] — Agent 使用工具的標準介面
+
+## 相關專案
+- [[affaan-m-everything-claude-code]] — 140K+ stars，Agent harness 效能優化系統
+- [[sickn33-antigravity-awesome-skills]] — 1,443+ SKILL.md 格式技能庫
+- [[HKUDS-nanobot]] — 超輕量 Agent，多頻道支援
 
 ## 相關影片
 - [[agent-anatomy-openclaw]] — 解剖小龍蝦：AI Agent 運作原理

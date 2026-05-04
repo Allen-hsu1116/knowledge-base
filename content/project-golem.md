@@ -6,7 +6,7 @@
 - 🧠 **人格與多代理** → [[agent-persona]]（InteractiveMultiAgent 圓桌討論）
 - 🛠 **技能系統** → [[agent-skills-ecosystem]]（自有技能 + Dashboard 管理）
 - 📚 **記憶系統** → [[llm-knowledge-base]]（lancedb-pro 向量記憶對比）
-- 🔄 **Agent 工作流** → [[ai-workflow]]
+- 🔄 **Agent 工作流** → [[AI-Agent]]
 
 ## 核心內容
 
@@ -40,7 +40,7 @@ Project Golem 不只是聊天機器人，更像是「個人 AI 作業系統」�
 ### 外部通道
 - Telegram：grammY bridge + circuit breaker 保護輪詢
 - Discord：原生支援
-- 與 [[ai-workflow]] 的 Agent 外部工具整合趨勢一致
+- 與 [[AI-Agent]] 的 Agent 外部工具整合趨勢一致
 
 ### MCP 工具整合
 - Dashboard 可新增、測試與檢視 stdio MCP server
@@ -79,7 +79,7 @@ project-golem-plus/
 ## 相關概念
 - [[agent-persona]] — Golem 的人格與多代理討論功能與 Persona 設計相關
 - [[agent-skills-ecosystem]] — Golem 的技能系統是 SKILL.md 概念的一種實作
-- [[ai-workflow]] — Golem 是 Agent 化工作流的具體案例
+- [[AI-Agent]] — Golem 是 Agent 化工作流的具體案例
 - [[llm-knowledge-base]] — Golem 的記憶系統可參考知識庫方法論
 - [[prompt-security]] — Golem 的安全控管與越獄防禦相關
 

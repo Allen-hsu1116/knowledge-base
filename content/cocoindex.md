@@ -4,7 +4,7 @@
 
 ## 快速導航
 - 📚 **知識方法論** → [[llm-knowledge-base]]（增量 vs 全量編譯）
-- 🔄 **Agent 工作流** → [[ai-workflow]]（增量是 Agent 化的基礎設施需求）
+- 🔄 **Agent 工作流** → [[AI-Agent]]（增量是 Agent 化的基礎設施需求）
 - 📄 **文件解析** → [[docling]]（Docling 解析 → CocoIndex 索引）
 - 🔍 **RAG 引擎** → [[ragflow]]（同為 RAG 管線工具）
 
@@ -63,7 +63,7 @@ CocoIndex 的增量設計跟我們的 raw→wiki→lint 循環概念一致：每
 - 7.5k stars
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[ai-workflow]] · [[docling]] · [[ragflow]]
+← [[llm-knowledge-base]] · [[AI-Agent]] · [[docling]] · [[ragflow]]
 
 ## 來源
 - raw/2026-05-03-cocoindex.md

@@ -74,16 +74,25 @@ elder-plinius/CL4R1T4S（~2.8k stars）是 AI 安全研究專案：
 5. 了解攻擊才能設計更好的防禦
 
 ## 相關概念
-- [[ai-workflow]] — Agent 安全是 AI 工作流的重要面向
+- [[AI-Agent]] — Agent 安全是 AI 工作流的重要面向
 - [[agent-skills-ecosystem]] — Skill 中可以包含安全限制定義
 - [[llm-knowledge-base]] — 知識庫系統的安全設計考量
+
+## 相關專案
+- [[affaan-m-everything-claude-code]] — 含 AgentShield 安全掃描功能
+- [[JuliusBrussee-caveman]] — Token 壓縮可能影響指令完整性
+
+## 相關概念
+- [[Prompt-Engineering]] — Prompt 工程概念總覽
+- [[LLM]] — LLM 概念總覽
+- [[AI-Agent]] — AI Agent 概念總覽
 
 ## 相關影片
 - [[agent-anatomy-openclaw]] — 解剖小龍蝦：Prompt Injection 安全議題
 - [[context-engineering-basics]] — Context Collapse 風險
 - [[ai-agent-interaction]] — AI 社交的真實程度與信任問題
 - [[ai-agent-work-impact]] — AI 審稿的信任問題
-- [[kv-cache]] — Cache 定價與安全影響
+- [[llm-internals]] — Cache 定價與安全影響
 
 ## 來源
 - raw/2026-04-28-cl4r1t4s.md

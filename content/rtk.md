@@ -4,7 +4,7 @@
 
 ## 快速導航
 - 🧠 **LLM 知識庫** → [[llm-knowledge-base]]（Token 優化是知識庫管理的核心問題）
-- 🛠 **AI 工作流** → [[ai-workflow]]（CLI proxy 是 Agent 工作流的加速器）
+- 🛠 **AI 工作流** → [[AI-Agent]]（CLI proxy 是 Agent 工作流的加速器）
 - ⚡ **Prompt 安全** → [[prompt-security]]（Token 壓縮可能影響指令完整性）
 
 ## 核心內容
@@ -34,7 +34,7 @@ curl -fsSL https://raw.githubusercontent.com/rtk-ai/rtk/refs/heads/master/instal
 ```
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[ai-workflow]] · [[prompt-security]]
+← [[llm-knowledge-base]] · [[AI-Agent]] · [[prompt-security]]
 
 ## 來源
 - raw/2026-05-03-rtk.md

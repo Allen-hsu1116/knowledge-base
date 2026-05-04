@@ -3,7 +3,7 @@
 > 探討多 Agent 協作拓撲、對抗博弈（狼人殺/劇本殺）、以及 AI 社交平台 Mobook 的真實與幻象（詳細參考頁）
 
 ## 快速導航
-- 🧠 **Agent 協作拓撲** → [[ai-workflow]]（Mesh > Chain，不同任務需要不同拓撲）
+- 🧠 **Agent 協作拓撲** → [[AI-Agent]]（Mesh > Chain，不同任務需要不同拓撲）
 - 🎭 **Agent 身分與欺騙** → [[agent-persona]]（狼人殺中的策略性欺騙與身分扮演）
 - 🔧 **社交平台與 Skill** → [[agent-skills-ecosystem]]（Moltbook 上 AI Agent 的活動模式）
 - ⚠️ **AI 自主性與安全** → [[prompt-security]]（人為操控痕跡分析，AI 社交的真實程度）
@@ -61,7 +61,11 @@
 - **Moltbook 的真實性存疑**：多數「自主」行為可能有人為操控痕跡
 
 ## 相關概念
-← [[ai-workflow]] · [[agent-persona]] · [[prompt-security]] · [[agent-skills-ecosystem]]
+← [[AI-Agent]] · [[agent-persona]] · [[prompt-security]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
+
+## 相關專案
+- [[HKUDS-nanobot]] — 多頻道 Agent 協作的基礎
+- [[project-golem]] — 多代理圓桌討論
 
 ## 來源
 - raw/2026-05-03-mmPmNezjCi0.md

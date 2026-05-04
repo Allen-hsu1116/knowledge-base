@@ -6,7 +6,7 @@
 - 📚 **記憶方法對比** → [[llm-knowledge-base]]（編譯式 vs 索引式）
 - 🛠 **MCP 整合** → [[project-golem]]（兩者都支援 MCP）
 - 🧠 **跨 session 記憶** → [[hermes-agent]]（Honchio 建模式互補）
-- 🔄 **Agent 工作流** → [[ai-workflow]]
+- 🔄 **Agent 工作流** → [[AI-Agent]]
 
 ## 核心內容
 
