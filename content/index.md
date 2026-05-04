@@ -1,88 +1,40 @@
-# 知識庫索引
+# LLM Knowledge Base Index
 
-> 自動整理的知識庫目錄。概念頁是閱讀入口，專案頁是深度參考。
+> 每日自動追蹤 LLM 熱門專案，持續更新。
 
 ## 概念頁
 
-> 看概覽、看對比、看關聯。看到有趣的 👉 點進專案頁看詳細流程。
-
-| 概念 | 檔案 | 簡介 | 狀態 |
-|------|------|------|------|
-| LLM 知識庫系統 | [[llm-knowledge-base]] | 用 LLM 當編譯器，raw→compile→wiki→lint 循環 | ✅ |
-| AI 工作流趨勢 | [[ai-workflow]] | Chatbot → Assistant → Agent 的演化 | ✅ |
-| AI Agent 人格設計 | [[agent-persona]] | Persona + Skill = AI 同事 | ✅ |
-| Agent Skills 生態系 | [[agent-skills-ecosystem]] | SKILL.md 標準化和社群 Skill 庫 | ✅ |
-| Prompt 安全與越獄 | [[prompt-security]] | 越獄技術、防禦策略、Agent 安全 | ✅ |
+| 概念 | 說明 |
+|------|------|
+| [[AI Agent]] | AI Agent 是能自主執行任務的 AI 系統，通常具備工具使用、記憶、規劃等能力。 |
+| [[AI Skills]] | AI Skills 是結構化的操作指令格式（SKILL.md），讓 AI coding agent 能以明確的上下文和規範來執行任務。 |
+| [[AI Tutoring]] | AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent。 |
+| [[Coding Agent CLI]] | Coding Agent CLI 是以終端機為主要介面的 AI 程式開發助手，提供完整工作流程。 |
+| [[Context Database]] | Context Database 是專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
+| [[Knowledge Graph]] | 知識圖譜以圖結構組織資訊，將實體與關係連結，讓機器能以結構化方式理解與檢索知識。 |
+| [[LLM]] | LLM（Large Language Model）是大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。 |
+| [[MCP]] | MCP（Model Context Protocol）是 Anthropic 提出的開放協議，讓 LLM 能透過統一介面連接外部工具和資料來源。 |
+| [[Prompt Engineering]] | Prompt Engineering 是設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
+| [[Token Optimization]] | Token Optimization 是降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
 
 ## 專案頁
 
-> 看詳細架構、安裝流程、使用方式。開頭有快速導航連回概念頁。
-
-| 專案 | 檔案 | 簡介 | 所屬概念 |
-|------|------|------|----------|
-| OpenClaw | [[openclaw]] | 個人 AI 助手框架，25+ 頻道 | agent-persona, agent-skills-ecosystem, llm-knowledge-base |
-| Project Golem | [[project-golem]] | Node.js 自主 AI 代理系統 | agent-persona, agent-skills-ecosystem, llm-knowledge-base |
-| Hermes Agent | [[hermes-agent]] | Nous Research 自我改進 Agent | agent-skills-ecosystem, llm-knowledge-base |
-| AutoResearch | [[autoresearch]] | Karpathy 自主 AI 研究專案 | agent-skills-ecosystem |
-| MemPalace | [[mempalace]] | Local-first AI 記憶系統 | llm-knowledge-base |
-| OCR-Memory | [[ocr-memory]] | 視覺壓縮 Agent 記憶，ACL 2026 | llm-knowledge-base |
-| OpenViking | [[openviking]] | Context Database，檔案系統範式 | llm-knowledge-base |
-| Docling | [[docling]] | IBM 開源文件解析引擎 | llm-knowledge-base |
-| CocoIndex | [[cocoindex]] | 增量索引引擎，delta-only | llm-knowledge-base |
-| RAGFlow | [[ragflow]] | RAG+Agent 引擎，有 OpenClaw Skill | llm-knowledge-base |
-| LiteLLM | [[litellm]] | 100+ LLM 統一 API Gateway | ai-workflow |
-| RTK | [[rtk]] | CLI proxy，LLM token 消耗降 60-90% | llm-knowledge-base, ai-workflow, prompt-security |
-| Daily Stock Analysis | [[daily-stock-analysis]] | A股/港股/美股 AI 智能分析系統 | ai-workflow, llm-knowledge-base |
-
-## 教學影片頁
-
-> AI 教學影片整理。每部影片有字幕記錄 + 重點提煉。來源不限單一作者。
-
-| 影片 | 檔案 | 簡介 | 所屬概念 |
-|------|------|------|----------|
-| 解剖小龍蝦 | [[agent-anatomy-openclaw]] | AI Agent 運作原理（OpenClaw 實例） | agent-persona, ai-workflow, prompt-security, agent-skills-ecosystem |
-| Context Engineering | [[context-engineering-basics]] | Agent 的核心：管理 LLM 看到的內容 | ai-workflow, agent-skills-ecosystem, prompt-security |
-| AI Agent 互動 | [[ai-agent-interaction]] | 多 Agent 協作拓撲、狼人殺博弈 | ai-workflow, agent-persona, agent-skills-ecosystem, prompt-security |
-| AI Agent 工作衝擊 | [[ai-agent-work-impact]] | AI Agent 對學術研究的影響 | agent-persona, agent-skills-ecosystem, prompt-security |
-| Flash Attention | [[flash-attention]] | 少搬資料就是加速 | llm-knowledge-base, ai-workflow |
-| KV Cache | [[kv-cache]] | 存下來就不用重算 | llm-knowledge-base, ai-workflow, prompt-security |
-| Positional Embedding | [[positional-embedding-evolution]] | 位置編碼演進，Train Short Test Long | llm-knowledge-base, ai-workflow |
-| Harness Engineering | [[harness-engineering]] | 駕馭工程，Agent 的控制與引導 | ai-workflow, agent-persona, agent-skills-ecosystem |
-| Self-Correction | [[self-correction]] | 自我修正，Contrastive Decoding | llm-knowledge-base, ai-workflow |
-
-## 概念關係圖
-
-```
-ai-workflow（總覽）
-├── llm-knowledge-base（知識管理自動化）
-│   ├── mempalace（宮殿索引記憶系統）
-│   ├── ocr-memory（視覺壓縮記憶）
-│   ├── openviking（檔案系統 Context DB）
-│   ├── docling（文件解析基礎設施）
-│   ├── cocoindex（增量索引引擎）
-│   └── ragflow（RAG+Agent 引擎）
-├── agent-persona（Persona + Skill 設計）
-│   └── agent-skills-ecosystem（Skill 標準化）
-│       └── autoresearch（program.md = 超輕量 Skill）
-├── prompt-security（安全面向）
-├── openclaw（個人助手框架）
-│   ├── agent-persona（SOUL.md + SKILL.md）
-│   ├── agent-skills-ecosystem（ClawHub 技能庫）
-│   └── llm-knowledge-base（MEMORY.md + memory/）
-├── project-golem（Node.js 自主 Agent）
-│   ├── agent-persona（多代理人格）
-│   ├── agent-skills-ecosystem（技能系統）
-│   └── llm-knowledge-base（記憶系統）
-└── hermes-agent（Python 自我改進 Agent）
-    ├── agent-skills-ecosystem（agentskills.io 相容）
-    └── mempalace（跨 session 記憶互補）
-```
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[affaan-m-everything-claude-code]] | ⭐172,098 | LLM, MCP, AI Agent | 2026-05-03 |
+| [[JuliusBrussee-caveman]] | ⭐52,506 | Prompt Engineering | 2026-05-03 |
+| [[santifer-career-ops]] | ⭐41,864 | AI Agent | 2026-05-03 |
+| [[HKUDS-nanobot]] | ⭐41,527 | AI Agent | 2026-05-03 |
+| [[googleworkspace-cli]] | ⭐25,672 | AI Agent | 2026-05-03 |
+| [[MemPalace-mempalace]] | ⭐50,787 | AI Agent, MCP | 2026-05-03 |
+| [[rtk-ai-rtk]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
+| [[ZhuLinsen-daily_stock_analysis]] | ⭐33,706 | LLM, AI Agent | 2026-05-03 |
+| [[safishamsi-graphify]] | ⭐41,860 | Knowledge Graph, RAG, MCP | 2026-05-04 |
+| [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+| [[Gitlawb-openclaude]] | ⭐25,668 | Coding Agent CLI, AI Agent, MCP | 2026-05-04 |
+| [[volcengine-OpenViking]] | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
+| [[HKUDS-DeepTutor]] | ⭐23,109 | AI Tutoring, RAG, AI Agent | 2026-05-04 |
 
 ---
 
-## 使用方式
-
-- **新增素材**：把原始資料丟進 `raw/`
-- **整理**：跟我說「整理知識庫」，我會讀取 `raw/` 並編譯成 `wiki/` 筆記
-- **查詢**：跟我說「查 [問題]」，我會搜尋 `wiki/` 回答
-- **Lint**：跟我說「lint 知識庫」，我會掃描矛盾和缺漏
+_此頁由 daily-llm-trending 自動維護_
