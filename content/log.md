@@ -44,6 +44,26 @@
 
 **Lint 狀態**：尚未執行
 
+### 2026-05-05
+
+**Ingest + Compile**：
+1. GitHub: Panniantong/Agent-Reach — AI Agent 網路能力腳手架
+2. GitHub: jackwener/OpenCLI — 網站→確定性 CLI
+3. GitHub: alibaba/OpenSandbox — 通用 AI 沙箱平台
+4. GitHub: hugohe3/ppt-master — AI 生成可編輯 PPT
+5. GitHub: saturndec/waoowaoo — AI 影視 Studio
+
+**Compile**：
+- [[Panniantong-Agent-Reach]] ← 素材 1
+- [[jackwener-OpenCLI]] ← 素材 2
+- [[volcengine-OpenSandbox]] ← 素材 3
+- [[hugohe3-ppt-master]] ← 素材 4
+- [[saturndec-waoowaoo]] ← 素材 5
+
+**Refactor**：
+- index.md 重寫：概念頁按主題分組（核心概念/工具協議/方法論/應用領域/底層技術），專案頁按功能分組（Agent 框架/記憶知識管理/效能壓縮/安全/應用/Skill 生態系/基礎設施）
+- SCHEMA.md 更新：專案頁模板固定為 9 個必備區塊（標題+摘要/快速導航/是什麼/核心特色/怎麼用/跟其他方案的關係/相關概念/來源/metadata）
+
 ### 2026-05-03 補建
 
 **Ingest + Compile**：
