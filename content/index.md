@@ -62,6 +62,9 @@ title: 知識庫總覽
 | [[googleworkspace-cli]] | ⭐25,672 | AI Agent, MCP, AI Skills | 2026-05-03 |
 | [[Panniantong-Agent-Reach]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
 | [[jackwener-OpenCLI]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
+| [[openai-codex-plugin-cc]] | ⭐17,527 | AI Agent, AI Skills, Coding Agent CLI | 2026-05-05 |
+| [[lsdefine-GenericAgent]] | ⭐9,199 | AI Agent, 自演化, Token Optimization | 2026-05-06 |
+| [[holaboss-ai-holaOS]] | ⭐4,757 | AI Agent, 環境工程, 記憶連續性 | 2026-05-06 |
 
 ### 🧠 記憶與知識管理
 
@@ -74,6 +77,8 @@ title: 知識庫總覽
 | [[ragflow]] | ⭐79,665 | RAG, AI Agent | 2026-05-03 |
 | [[docling]] | ⭐59,151 | RAG, 文件解析 | 2026-05-03 |
 | [[cocoindex]] | ⭐8,136 | RAG, 增量索引 | 2026-05-03 |
+| [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
+| [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
 
 ### ⚡ 效能與壓縮
 
@@ -93,6 +98,15 @@ title: 知識庫總覽
 | [[saturndec-waoowaoo]] | ⭐12,000 | AI Agent, AI Skills | 2026-05-05 |
 | [[hugohe3-ppt-master]] | ⭐11,300 | AI Agent, AI Skills | 2026-05-05 |
 | [[autoresearch]] | ⭐78,500 | AI Agent, AI Skills | 2026-05-03 |
+| [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
+| [[HKUDS-Vibe-Trading]] | ⭐5,120 | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
+| [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
+
+### 🔄 Agent 自演化
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[EvoMap-evolver]] | ⭐7,241 | AI Agent, GEP 協議, 自演化引擎 | 2026-05-06 |
 
 ### 🛠 Skill 生態系
 

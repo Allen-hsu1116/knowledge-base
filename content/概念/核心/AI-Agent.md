@@ -95,6 +95,16 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - 這是 RAG 和知識庫的「上游」基礎
 - 詳見 [[docling]]
 
+**8. Agent 自演化**
+- GenericAgent：技能自動結晶，越用越強（[[lsdefine-GenericAgent]]）
+- Evolver：GEP 協議把經驗編碼成 Gene，可審計可重用（[[EvoMap-evolver]]）
+- 兩者代表「結晶派」和「基因派」兩大自演化流派
+
+**9. Agent 作業系統**
+- holaOS 把電腦重新定義為人+Agent 共享環境（[[holaboss-ai-holaOS]]）
+- 環境工程：記憶不重置、目標不丟失、狀態不斷裂
+- Agent 在環境中持續運作、持續演化、完全可檢查
+
 ### Agent 工具生態系
 
 | 工具類型 | 代表 | 用途 |
@@ -125,6 +135,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 | [[HKUDS-nanobot]] | 超輕量個人 Agent | 41.5K |
 | [[Gitlawb-openclaude]] | 多模型 Coding Agent CLI | 25.7K |
 | [[sickn33-antigravity-awesome-skills]] | 1,443+ Agent Skills | 36.2K |
+| [[lsdefine-GenericAgent]] | 自演化 Agent，3K 行起家 | 9.2K |
+| [[EvoMap-evolver]] | GEP 自演化引擎 | 7.2K |
+| [[holaboss-ai-holaOS]] | Agent 作業系統 | 4.8K |
 
 ## 相關專案
 
@@ -138,6 +151,11 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[autoresearch]] — 自主研究 Agent
 - [[project-golem]] — 多代理系統
 - [[hermes-agent]] — 自我改進 Agent
+- [[lsdefine-GenericAgent]] — 自演化 Agent，技能自動結晶
+- [[EvoMap-evolver]] — GEP 自演化引擎
+- [[Narcooo-inkos]] — 自主小說寫作 Agent
+- [[HKUDS-Vibe-Trading]] — 個人交易 Agent
+- [[holaboss-ai-holaOS]] — Agent 作業系統
 
 ## 相關概念
 

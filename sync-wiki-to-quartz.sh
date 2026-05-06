@@ -65,6 +65,8 @@ copy_to "googleworkspace-cli.md"                "專案/Agent-框架與工具"
 copy_to "Panniantong-Agent-Reach.md"            "專案/Agent-框架與工具"
 copy_to "jackwener-OpenCLI.md"                  "專案/Agent-框架與工具"
 
+copy_to "openai-codex-plugin-cc.md"              "專案/Agent-框架與工具"
+
 # 專案 - 記憶與知識管理
 copy_to "mempalace.md"                          "專案/記憶與知識管理"
 copy_to "safishamsi-graphify.md"                "專案/記憶與知識管理"
@@ -73,6 +75,8 @@ copy_to "openviking.md"                         "專案/記憶與知識管理"
 copy_to "ragflow.md"                            "專案/記憶與知識管理"
 copy_to "docling.md"                            "專案/記憶與知識管理"
 copy_to "cocoindex.md"                          "專案/記憶與知識管理"
+copy_to "microsoft-markitdown.md"              "專案/記憶與知識管理"
+copy_to "datalab-to-chandra.md"                 "專案/記憶與知識管理"
 
 # 專案 - 效能與壓縮
 copy_to "JuliusBrussee-caveman.md"   "專案/效能與壓縮"
@@ -86,6 +90,7 @@ copy_to "HKUDS-DeepTutor.md"                    "專案/應用"
 copy_to "saturndec-waoowaoo.md"                 "專案/應用"
 copy_to "hugohe3-ppt-master.md"                 "專案/應用"
 copy_to "autoresearch.md"                        "專案/應用"
+copy_to "virattt-dexter.md"                       "專案/應用"
 
 # 專案 - Skill 生態系
 copy_to "sickn33-antigravity-awesome-skills.md" "專案/Skill-生態系"

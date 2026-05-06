@@ -6,14 +6,39 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
-## 2026-05-05
+## 2026-05-06
 
 **Ingest + Compile**：
+1. GitHub: lsdefine/GenericAgent — 極簡自演化 Agent，3K 行起家，技能自動結晶（⭐9,199）
+2. GitHub: EvoMap/evolver — GEP 驅動的 Agent 自演化引擎，Gene + Capsule + Event（⭐7,241）
+3. GitHub: Narcooo/inkos — 自主小說寫作 Agent，33 維度連續性審計 + 去 AI 味（⭐5,672）
+4. GitHub: HKUDS/Vibe-Trading — 個人交易 Agent，74 Skill + 27 Tool + 6 資料來源（⭐5,120）
+5. GitHub: holaboss-ai/holaOS — 開放 Agent 電腦，環境工程 + 記憶連續性（⭐4,757）
+
+**Compile**：
+- [[lsdefine-GenericAgent]] ← 素材 1
+- [[EvoMap-evolver]] ← 素材 2
+- [[Narcooo-inkos]] ← 素材 3
+- [[HKUDS-Vibe-Trading]] ← 素材 4
+- [[holaboss-ai-holaOS]] ← 素材 5
+
+**Refactor**：
+- index.md 新增「Agent 自演化」分類，加入 5 篇新專案頁
+
+## 2026-05-05
+
+**Ingest + Compile**（第一批）：
 1. GitHub: Panniantong/Agent-Reach — AI Agent 網路能力腳手架
 2. GitHub: jackwener/OpenCLI — 網站→確定性 CLI
 3. GitHub: alibaba/OpenSandbox — 通用 AI 沙箱平台
 4. GitHub: hugohe3/ppt-master — AI 生成可編輯 PPT
 5. GitHub: saturndec/waoowaoo — AI 影視 Studio
+
+**Ingest + Compile**（第二批）：
+6. GitHub: microsoft/markitdown — 文件轉 Markdown（⭐120,637）
+7. GitHub: virattt/dexter — 自主式 AI 金融研究 Agent
+8. GitHub: openai/codex-plugin-cc — Codex + Claude Code 協作插件
+9. GitHub: datalab-to/chandra — 高精確度 OCR（表格/手寫）
 
 **Compile**：
 - [[Panniantong-Agent-Reach]] ← 素材 1
