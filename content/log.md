@@ -6,6 +6,25 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-07
+
+**Ingest + Compile**：
+1. GitHub: AlexsJones/llmfit — Rust 終端工具，硬體感知 LLM 模型選擇器（⭐25,403）
+2. GitHub: RightNow-AI/openfang — Rust Agent 作業系統，7 個 Hands 自治排程（⭐17,219）
+3. GitHub: cft0808/edict — 三省六部多 Agent 協作，門下省審核封駁（⭐15,619）
+4. GitHub: tirth8205/code-review-graph — Tree-sitter 程式碼圖譜 + MCP，8.2x token 節省（⭐15,581）
+5. GitHub: heygen-com/hyperframes — HTML-native 影片渲染框架，AI-first（⭐15,232）
+
+**Compile**：
+- [[AlexsJones-llmfit]] ← 素材 1
+- [[RightNow-AI-openfang]] ← 素材 2
+- [[cft0808-edict]] ← 素材 3
+- [[tirth8205-code-review-graph]] ← 素材 4
+- [[heygen-com-hyperframes]] ← 素材 5
+
+**Refactor**：
+- index.md 新增 5 篇專案頁，llmfit 加入「效能與壓縮」分類，openfang+edict 加入「Agent 框架」，code-review-graph 加入「效能與壓縮」，hyperframes 加入「Skill 生態系」
+
 ## 2026-05-06
 
 **Ingest + Compile**：

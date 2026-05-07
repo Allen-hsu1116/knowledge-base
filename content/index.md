@@ -63,6 +63,8 @@ title: 知識庫總覽
 | [[Panniantong-Agent-Reach]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
 | [[jackwener-OpenCLI]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
 | [[openai-codex-plugin-cc]] | ⭐17,527 | AI Agent, AI Skills, Coding Agent CLI | 2026-05-05 |
+| [[RightNow-AI-openfang]] | ⭐17,219 | AI Agent, MCP, Knowledge Graph | 2026-05-07 |
+| [[cft0808-edict]] | ⭐15,619 | AI Agent, AI Skills, MCP | 2026-05-07 |
 | [[lsdefine-GenericAgent]] | ⭐9,199 | AI Agent, 自演化, Token Optimization | 2026-05-06 |
 | [[holaboss-ai-holaOS]] | ⭐4,757 | AI Agent, 環境工程, 記憶連續性 | 2026-05-06 |
 
@@ -87,6 +89,8 @@ title: 知識庫總覽
 | [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[rtk]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[litellm]] | ⭐45,703 | LLM, AI Gateway | 2026-05-03 |
+| [[AlexsJones-llmfit]] | ⭐25,403 | LLM, Token Optimization | 2026-05-07 |
+| [[tirth8205-code-review-graph]] | ⭐15,581 | Knowledge Graph, Token Optimization, MCP | 2026-05-07 |
 
 ### 📊 應用
 
@@ -113,6 +117,7 @@ title: 知識庫總覽
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+| [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 
 ### 🏗 基礎設施
 
