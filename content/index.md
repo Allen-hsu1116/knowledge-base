@@ -116,6 +116,7 @@ title: 知識庫總覽
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 

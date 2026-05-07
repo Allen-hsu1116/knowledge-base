@@ -14,6 +14,7 @@ title: 整理記錄
 3. GitHub: cft0808/edict — 三省六部多 Agent 協作，門下省審核封駁（⭐15,619）
 4. GitHub: tirth8205/code-review-graph — Tree-sitter 程式碼圖譜 + MCP，8.2x token 節省（⭐15,581）
 5. GitHub: heygen-com/hyperframes — HTML-native 影片渲染框架，AI-first（⭐15,232）
+6. GitHub: nexu-io/open-design — 開源版 Claude Design，31 Skills + 129 Design Systems + 16 CLI agent（⭐30,632）
 
 **Compile**：
 - [[AlexsJones-llmfit]] ← 素材 1

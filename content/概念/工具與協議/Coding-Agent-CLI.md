@@ -68,6 +68,7 @@ OpenClaude（[[Gitlawb-openclaude]]）是目前唯一同時支援**多模型 + M
 - [[affaan-m-everything-claude-code]] — Agent harness 效能優化系統
 - [[HKUDS-nanobot]] — 超輕量 Agent，多頻道支援
 - [[sickn33-antigravity-awesome-skills]] — 1,443+ Skills 可安裝到任何 CLI
+- [[open-design]] — 16 個 CLI agent 自動偵測 + 31 個設計 Skills 的開源設計工具
 
 ## 相關概念
 
