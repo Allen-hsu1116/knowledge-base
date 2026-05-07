@@ -15,7 +15,7 @@ rm -rf "$CONTENT_DIR/概念" "$CONTENT_DIR/專案" "$CONTENT_DIR/影片" 2>/dev/
 
 # 2. 建立子資料夾
 mkdir -p "$CONTENT_DIR/概念/核心" "$CONTENT_DIR/概念/工具與協議" "$CONTENT_DIR/概念/方法論" "$CONTENT_DIR/概念/應用與研究"
-mkdir -p "$CONTENT_DIR/專案/Agent-框架與工具" "$CONTENT_DIR/專案/記憶與知識管理" "$CONTENT_DIR/專案/效能與壓縮" "$CONTENT_DIR/專案/應用" "$CONTENT_DIR/專案/Skill-生態系" "$CONTENT_DIR/專案/基礎設施"
+mkdir -p "$CONTENT_DIR/專案/Agent-框架與工具" "$CONTENT_DIR/專案/記憶與知識管理" "$CONTENT_DIR/專案/效能與壓縮" "$CONTENT_DIR/專案/應用" "$CONTENT_DIR/專案/Skill-生態系" "$CONTENT_DIR/專案/基礎設施" "$CONTENT_DIR/專案/Agent-自演化"
 mkdir -p "$CONTENT_DIR/影片"
 
 # 3. 複製根目錄檔案
@@ -66,6 +66,10 @@ copy_to "Panniantong-Agent-Reach.md"            "專案/Agent-框架與工具"
 copy_to "jackwener-OpenCLI.md"                  "專案/Agent-框架與工具"
 
 copy_to "openai-codex-plugin-cc.md"              "專案/Agent-框架與工具"
+copy_to "lsdefine-GenericAgent.md"              "專案/Agent-框架與工具"
+copy_to "holaboss-ai-holaOS.md"                 "專案/Agent-框架與工具"
+copy_to "RightNow-AI-openfang.md"              "專案/Agent-框架與工具"
+copy_to "cft0808-edict.md"                     "專案/Agent-框架與工具"
 
 # 專案 - 記憶與知識管理
 copy_to "mempalace.md"                          "專案/記憶與知識管理"
@@ -77,11 +81,13 @@ copy_to "docling.md"                            "專案/記憶與知識管理"
 copy_to "cocoindex.md"                          "專案/記憶與知識管理"
 copy_to "microsoft-markitdown.md"              "專案/記憶與知識管理"
 copy_to "datalab-to-chandra.md"                 "專案/記憶與知識管理"
+copy_to "tirth8205-code-review-graph.md"       "專案/記憶與知識管理"
 
 # 專案 - 效能與壓縮
 copy_to "JuliusBrussee-caveman.md"   "專案/效能與壓縮"
 copy_to "rtk.md"                     "專案/效能與壓縮"
 copy_to "litellm.md"                  "專案/效能與壓縮"
+copy_to "AlexsJones-llmfit.md"        "專案/效能與壓縮"
 
 # 專案 - 應用
 copy_to "santifer-career-ops.md"               "專案/應用"
@@ -91,9 +97,13 @@ copy_to "saturndec-waoowaoo.md"                 "專案/應用"
 copy_to "hugohe3-ppt-master.md"                 "專案/應用"
 copy_to "autoresearch.md"                        "專案/應用"
 copy_to "virattt-dexter.md"                       "專案/應用"
+copy_to "HKUDS-Vibe-Trading.md"                "專案/應用"
+copy_to "Narcooo-inkos.md"                       "專案/應用"
+copy_to "EvoMap-evolver.md"                       "專案/應用"
 
 # 專案 - Skill 生態系
 copy_to "sickn33-antigravity-awesome-skills.md" "專案/Skill-生態系"
+copy_to "heygen-com-hyperframes.md"             "專案/Skill-生態系"
 
 # 專案 - 基礎設施
 copy_to "volcengine-OpenSandbox.md"  "專案/基礎設施"
@@ -106,6 +116,7 @@ copy_to "context-engineering-basics.md" "影片"
 copy_to "ai-agent-interaction.md"       "影片"
 copy_to "ai-agent-work-impact.md"       "影片"
 copy_to "harness-engineering.md"        "影片"
+copy_to "self-correction.md"             "影片"
 
 echo "✅ 同步完成"
 echo ""
