@@ -102,6 +102,7 @@ title: 知識庫總覽
 | [[saturndec-waoowaoo]] | ⭐12,000 | AI Agent, AI Skills | 2026-05-05 |
 | [[hugohe3-ppt-master]] | ⭐11,300 | AI Agent, AI Skills | 2026-05-05 |
 | [[autoresearch]] | ⭐78,500 | AI Agent, AI Skills | 2026-05-03 |
+| [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
 | [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
 | [[HKUDS-Vibe-Trading]] | ⭐5,120 | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
 | [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
@@ -119,12 +120,16 @@ title: 知識庫總覽
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
+| [[nidhinjs-prompt-master]] | ⭐7,257 | Prompt Engineering, Token Optimization | 2026-05-08 |
 
 ### 🏗 基礎設施
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[volcengine-OpenSandbox]] | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
+| [[jo-inc-camofox-browser]] | ⭐4,203 | AI Agent, 瀏覽器自動化 | 2026-05-08 |
+| [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
+| [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
 | [[project-golem]] | — | AI Agent, 記憶系統, MCP | 2026-05-02 |
 | [[hermes-agent]] | — | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
 

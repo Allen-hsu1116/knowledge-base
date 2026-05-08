@@ -6,6 +6,25 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-08
+
+**Ingest + Compile**：
+1. GitHub: Imbad0202/academic-research-skills — 學術研究技能套件，13 Agent 研究團隊（⭐4,927）
+2. GitHub: anthropics/claude-plugins-official — Anthropic 官方 Claude Code 插件目錄（⭐18,801）
+3. GitHub: can1357/oh-my-pi — 終端 AI Coding Agent，hash-anchored 編輯 + LSP（⭐4,108）
+4. GitHub: jo-inc/camofox-browser — AI Agent 隱身瀏覽器，繞過反爬蟲（⭐4,203）
+5. GitHub: nidhinjs/prompt-master — Claude skill 自動寫精準提示（⭐7,257）
+
+**Compile**：
+- [[Imbad0202-academic-research-skills]] ← 素材 1
+- [[anthropics-claude-plugins-official]] ← 素材 2
+- [[can1357-oh-my-pi]] ← 素材 3
+- [[jo-inc-camofox-browser]] ← 素材 4
+- [[nidhinjs-prompt-master]] ← 素材 5
+
+**Refactor**：
+- index.md 新增 5 篇專案頁，加入「Skill 生態系」「基礎設施」「應用」分類
+
 ## 2026-05-07
 
 **Ingest + Compile**：
