@@ -21,9 +21,11 @@ title: 整理記錄
 - [[can1357-oh-my-pi]] ← 素材 3
 - [[jo-inc-camofox-browser]] ← 素材 4
 - [[nidhinjs-prompt-master]] ← 素材 5
+- [[pymupdf4llm]] ← 素材 6
 
 **Refactor**：
 - index.md 新增 5 篇專案頁，加入「Skill 生態系」「基礎設施」「應用」分類
+- 新增 pymupdf4llm 至「記憶與知識管理」分類
 
 ## 2026-05-07
 

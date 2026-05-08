@@ -81,6 +81,7 @@ title: 知識庫總覽
 | [[cocoindex]] | ⭐8,136 | RAG, 增量索引 | 2026-05-03 |
 | [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
 | [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
+| [[pymupdf4llm]] | ⭐1,664 | RAG, 文件解析, OCR | 2026-05-08 |
 
 ### ⚡ 效能與壓縮
 
