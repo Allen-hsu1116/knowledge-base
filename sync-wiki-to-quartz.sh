@@ -66,6 +66,10 @@ copy_to "Panniantong-Agent-Reach.md"            "專案/Agent-框架與工具"
 copy_to "jackwener-OpenCLI.md"                  "專案/Agent-框架與工具"
 
 copy_to "openai-codex-plugin-cc.md"              "專案/Agent-框架與工具"
+copy_to "Imbad0202-academic-research-skills.md"    "專案/應用"
+copy_to "anthropics-claude-plugins-official.md"    "專案/基礎設施"
+copy_to "can1357-oh-my-pi.md"                     "專案/基礎設施"
+copy_to "jo-inc-camofox-browser.md"              "專案/基礎設施"
 copy_to "lsdefine-GenericAgent.md"              "專案/Agent-框架與工具"
 copy_to "holaboss-ai-holaOS.md"                 "專案/Agent-框架與工具"
 copy_to "RightNow-AI-openfang.md"              "專案/Agent-框架與工具"
@@ -82,6 +86,7 @@ copy_to "cocoindex.md"                          "專案/記憶與知識管理"
 copy_to "microsoft-markitdown.md"              "專案/記憶與知識管理"
 copy_to "datalab-to-chandra.md"                 "專案/記憶與知識管理"
 copy_to "tirth8205-code-review-graph.md"       "專案/記憶與知識管理"
+copy_to "pymupdf4llm.md"                        "專案/記憶與知識管理"
 
 # 專案 - 效能與壓縮
 copy_to "JuliusBrussee-caveman.md"   "專案/效能與壓縮"
@@ -104,8 +109,10 @@ copy_to "EvoMap-evolver.md"                       "專案/應用"
 # 專案 - Skill 生態系
 copy_to "sickn33-antigravity-awesome-skills.md" "專案/Skill-生態系"
 copy_to "heygen-com-hyperframes.md"             "專案/Skill-生態系"
+copy_to "nidhinjs-prompt-master.md"              "專案/Skill-生態系"
 
 # 專案 - 基礎設施
+copy_to "open-design.md"                        "專案/Skill-生態系"
 copy_to "volcengine-OpenSandbox.md"  "專案/基礎設施"
 copy_to "project-golem.md"           "專案/基礎設施"
 copy_to "hermes-agent.md"            "專案/基礎設施"
