@@ -87,6 +87,7 @@ title: 知識庫總覽
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[gemma4-mtp-drafters]] | ⭐— | Token Optimization, LLM 推理加速 | 2026-05-09 |
 | [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[rtk]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[litellm]] | ⭐45,703 | LLM, AI Gateway | 2026-05-03 |

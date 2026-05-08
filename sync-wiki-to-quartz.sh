@@ -37,7 +37,7 @@ PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openc
 # 專案 - 記憶與知識管理
 PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm"
 # 專案 - 效能與壓縮
-PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit"
+PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters"
 # 專案 - 應用
 PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills"
 # 專案 - Skill 生態系

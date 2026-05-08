@@ -6,6 +6,19 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-09
+
+**Ingest + Compile**：
+1. 文章: KOC — Google Gemma 4 MTP Drafters，投機解碼推理加速（Apache 2.0）
+
+**Compile**：
+- [[gemma4-mtp-drafters]] ← 素材 1
+
+**Refactor**：
+- index.md 新增 gemma4-mtp-drafters 至「效能與壓縮」分類
+- 回頭更新 Token-Optimization 頁面加入投機解碼相關概念
+- 回頭更新 llm-internals 頁面加入 MTP Drafters 連結
+
 ## 2026-05-08
 
 **Ingest + Compile**：

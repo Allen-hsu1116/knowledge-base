@@ -43,6 +43,14 @@
 - **目錄遞迴**（[[volcengine-OpenViking]]）：先定位目錄再搜尋，縮小範圍
 - **增量索引**（[[cocoindex]]）：只索引變更的部分，不重複處理
 
+### 4. 推理加速（不改品質）
+
+不壓縮 token，但讓推理更快，等同於每秒產出更多 token：
+
+- **投機解碼**（[[gemma4-mtp-drafters]]）：輕量草稿模型預測多個 token，主模型一次驗證，2-3x 加速，零品質損失
+- **Flash Attention**（[[llm-internals]]）：最佳化 attention 記憶體存取，數學等價，1.2-2x 加速
+- **量化（INT4/INT8）**：降低參數精度換速度，微小品質影響，1.5-2x 加速
+
 ## 效果對比
 
 | 方法 | 輸入省 % | 輸出省 % | 品質影響 |
@@ -54,14 +62,18 @@
 
 *graphify 測試數據
 
+| 投機解碼（MTP） | — | — | 零品質損失，2-3x 推理加速 |
+| Flash Attention | — | — | 數學等價，1.2-2x 加速 |
+
 ## 相關專案
 
 - [[rtk]] — Rust CLI proxy，攔截壓縮命令輸出
 - [[JuliusBrussee-caveman]] — 穴居人語 token 壓縮
+- [[gemma4-mtp-drafters]] — 投機解碼推理加速，零品質損失
 
 ## 相關概念
 
-← [[LLM]] · [[Prompt-Engineering]] · [[Context-Database]] · [[llm-knowledge-base]]
+← [[LLM]] · [[Prompt-Engineering]] · [[Context-Database]] · [[llm-knowledge-base]] · [[gemma4-mtp-drafters]]
 
 ---
 

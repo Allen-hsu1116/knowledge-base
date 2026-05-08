@@ -140,6 +140,17 @@ Self-Attention 的計算過程（Q·K 內積 → Softmax → Weighted Sum of V�
 | **KV Cache** | 重算太浪費 | 跨對話省 50%+ 成本 |
 | **Positional Embedding** | 位置資訊缺失 | 決定 context window 上限 |
 
+### 投機解碼：用推理加速解決記憶體頻寬瓶頸
+
+自迴歸生成的真正瓶頸不是計算力，而是記憶體頻寬 — 每個 token 都要把數十億參數從 VRAM 搬到運算單元。投機解碼（[[gemma4-mtp-drafters]]）的做法是：用輕量草稿模型（Drafter）快速預測多個 token，主模型一次平行驗證，同意就整段接受。Drafter 直接重用主模型的 KV Cache，不額外計算。
+
+| 技術 | 解決的問題 | 對 Agent 的影響 |
+|------|-----------|----------------|
+| **Flash Attention** | 搬資料太慢 | 長 context 推論更便宜 |
+| **KV Cache** | 重算太浪費 | 跨對話省 50%+ 成本 |
+| **Positional Embedding** | 位置資訊缺失 | 決定 context window 上限 |
+| **投機解碼（MTP）** | 記憶體頻寬瓶頸 | 推理速度 2-3x，零品質損失 |
+
 三者互相影響：
 - RoPE 的設計必須相容 KV Cache（否則無法部署）
 - Flash Attention 的 chunk 運算依賴 KV Cache 的分塊存取
@@ -147,7 +158,7 @@ Self-Attention 的計算過程（Q·K 內積 → Softmax → Weighted Sum of V�
 
 ## 相關概念
 
-← [[LLM]] · [[AI-Agent]] · [[llm-knowledge-base]] · [[Token-Optimization]]
+← [[LLM]] · [[AI-Agent]] · [[llm-knowledge-base]] · [[Token-Optimization]] · [[gemma4-mtp-drafters]]
 
 ## 來源
 
