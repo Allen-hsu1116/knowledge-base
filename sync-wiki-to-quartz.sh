@@ -1,7 +1,7 @@
 #!/bin/bash
 # sync-wiki-to-quartz.sh
 # 從 knowledge-base/wiki/ 同步內容到 Quartz 專案的 content/ 目錄
-# 維持資料夾結構讓 Explorer 有分類
+# 自動掃描 wiki/ 目錄，根據 index.md 分類歸檔
 
 QUARTZ_DIR="$(dirname "$0")"
 WIKI_DIR="$(dirname "$0")/../knowledge-base/wiki"
@@ -9,7 +9,7 @@ CONTENT_DIR="$QUARTZ_DIR/content"
 
 echo "🔄 同步 wiki → Quartz content/"
 
-# 1. 清空 content/ 的 .md 和子資料夾
+# 1. 清空 content/ 的 .md 和子資料夾（保留 index.md 和 log.md）
 find "$CONTENT_DIR" -name "*.md" ! -name "index.md" ! -name "log.md" -delete 2>/dev/null
 rm -rf "$CONTENT_DIR/概念" "$CONTENT_DIR/專案" "$CONTENT_DIR/影片" 2>/dev/null
 
@@ -22,109 +22,83 @@ mkdir -p "$CONTENT_DIR/影片"
 cp "$WIKI_DIR/index.md" "$CONTENT_DIR/"
 cp "$WIKI_DIR/log.md" "$CONTENT_DIR/"
 
-# 4. 分類複製
+# 4. 分類映射：檔名 → 目標資料夾
+# 概念 - 核心
+CONCEPT_CORE="AI-Agent LLM llm-internals Prompt-Engineering Token-Optimization"
+# 概念 - 工具與協議
+CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI"
+# 概念 - 方法論
+CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory"
+# 概念 - 應用與研究
+CONCEPT_APP="AI-Tutoring"
+
+# 專案 - Agent 框架與工具
+PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict"
+# 專案 - 記憶與知識管理
+PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm"
+# 專案 - 效能與壓縮
+PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit"
+# 專案 - 應用
+PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills"
+# 專案 - Skill 生態系
+PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master"
+# 專案 - 基礎設施
+PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser"
+# 專案 - Agent 自演化
+PROJ_EVO="EvoMap-evolver"
+
+# 影片
+VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction"
+
+# 5. 複製函數
 copy_to() {
-  if [ -f "$WIKI_DIR/$1" ]; then
-    cp "$WIKI_DIR/$1" "$CONTENT_DIR/$2/"
+  if [ -f "$WIKI_DIR/$1.md" ]; then
+    cp "$WIKI_DIR/$1.md" "$CONTENT_DIR/$2/"
   else
-    echo "⚠️  Missing: $1"
+    echo "⚠️  Missing: $1.md"
   fi
 }
 
-# 概念 - 核心
-copy_to "AI-Agent.md"                  "概念/核心"
-copy_to "LLM.md"                       "概念/核心"
-copy_to "llm-internals.md"             "概念/核心"
-copy_to "Prompt-Engineering.md"        "概念/核心"
-copy_to "Token-Optimization.md"        "概念/核心"
+# 複製概念頁
+for f in $CONCEPT_CORE; do copy_to "$f" "概念/核心"; done
+for f in $CONCEPT_TOOLS; do copy_to "$f" "概念/工具與協議"; done
+for f in $CONCEPT_METHOD; do copy_to "$f" "概念/方法論"; done
+for f in $CONCEPT_APP; do copy_to "$f" "概念/應用與研究"; done
 
-# 概念 - 工具與協議
-copy_to "MCP.md"                       "概念/工具與協議"
-copy_to "Context-Database.md"          "概念/工具與協議"
-copy_to "Knowledge-Graph.md"          "概念/工具與協議"
-copy_to "AI-Skills.md"                 "概念/工具與協議"
-copy_to "Coding-Agent-CLI.md"          "概念/工具與協議"
+# 複製專案頁
+for f in $PROJ_AGENT; do copy_to "$f" "專案/Agent-框架與工具"; done
+for f in $PROJ_MEM; do copy_to "$f" "專案/記憶與知識管理"; done
+for f in $PROJ_PERF; do copy_to "$f" "專案/效能與壓縮"; done
+for f in $PROJ_APP; do copy_to "$f" "專案/應用"; done
+for f in $PROJ_SKILL; do copy_to "$f" "專案/Skill-生態系"; done
+for f in $PROJ_INFRA; do copy_to "$f" "專案/基礎設施"; done
+for f in $PROJ_EVO; do copy_to "$f" "專案/Agent-自演化"; done
 
-# 概念 - 方法論
-copy_to "agent-persona.md"             "概念/方法論"
-copy_to "agent-skills-ecosystem.md"    "概念/方法論"
-copy_to "llm-knowledge-base.md"       "概念/方法論"
-copy_to "prompt-security.md"           "概念/方法論"
-copy_to "self-correction.md"           "概念/方法論"
-copy_to "ocr-memory.md"               "概念/方法論"
+# 複製影片頁
+for f in $VIDEO; do copy_to "$f" "影片"; done
 
-# 概念 - 應用與研究
-copy_to "AI-Tutoring.md"              "概念/應用與研究"
+# 6. 檢查孤兒頁（在 wiki/ 但沒被分類的）
+CLASSIFIED="$CONCEPT_CORE $CONCEPT_TOOLS $CONCEPT_METHOD $CONCEPT_APP $PROJ_AGENT $PROJ_MEM $PROJ_PERF $PROJ_APP $PROJ_SKILL $PROJ_INFRA $PROJ_EVO $VIDEO"
+ORPHANS=""
+for f in "$WIKI_DIR"/*.md; do
+  name=$(basename "$f" .md)
+  if [ "$name" != "index" ] && [ "$name" != "log" ]; then
+    if ! echo "$CLASSIFIED" | grep -qw "$name"; then
+      ORPHANS="$ORPHANS $name"
+    fi
+  fi
+done
 
-# 專案 - Agent 框架與工具
-copy_to "affaan-m-everything-claude-code.md"    "專案/Agent-框架與工具"
-copy_to "HKUDS-nanobot.md"                      "專案/Agent-框架與工具"
-copy_to "openclaw.md"                           "專案/Agent-框架與工具"
-copy_to "Gitlawb-openclaude.md"                 "專案/Agent-框架與工具"
-copy_to "googleworkspace-cli.md"                "專案/Agent-框架與工具"
-copy_to "Panniantong-Agent-Reach.md"            "專案/Agent-框架與工具"
-copy_to "jackwener-OpenCLI.md"                  "專案/Agent-框架與工具"
+if [ -n "$ORPHANS" ]; then
+  echo ""
+  echo "⚠️  以下 wiki 頁面未被分類到任何資料夾："
+  for name in $ORPHANS; do
+    echo "   - $name"
+  done
+  echo "請在 sync-wiki-to-quartz.sh 中加入對應的分類！"
+fi
 
-copy_to "openai-codex-plugin-cc.md"              "專案/Agent-框架與工具"
-copy_to "Imbad0202-academic-research-skills.md"    "專案/應用"
-copy_to "anthropics-claude-plugins-official.md"    "專案/基礎設施"
-copy_to "can1357-oh-my-pi.md"                     "專案/基礎設施"
-copy_to "jo-inc-camofox-browser.md"              "專案/基礎設施"
-copy_to "lsdefine-GenericAgent.md"              "專案/Agent-框架與工具"
-copy_to "holaboss-ai-holaOS.md"                 "專案/Agent-框架與工具"
-copy_to "RightNow-AI-openfang.md"              "專案/Agent-框架與工具"
-copy_to "cft0808-edict.md"                     "專案/Agent-框架與工具"
-
-# 專案 - 記憶與知識管理
-copy_to "mempalace.md"                          "專案/記憶與知識管理"
-copy_to "safishamsi-graphify.md"                "專案/記憶與知識管理"
-copy_to "volcengine-OpenViking.md"              "專案/記憶與知識管理"
-copy_to "openviking.md"                         "專案/記憶與知識管理"
-copy_to "ragflow.md"                            "專案/記憶與知識管理"
-copy_to "docling.md"                            "專案/記憶與知識管理"
-copy_to "cocoindex.md"                          "專案/記憶與知識管理"
-copy_to "microsoft-markitdown.md"              "專案/記憶與知識管理"
-copy_to "datalab-to-chandra.md"                 "專案/記憶與知識管理"
-copy_to "tirth8205-code-review-graph.md"       "專案/記憶與知識管理"
-copy_to "pymupdf4llm.md"                        "專案/記憶與知識管理"
-
-# 專案 - 效能與壓縮
-copy_to "JuliusBrussee-caveman.md"   "專案/效能與壓縮"
-copy_to "rtk.md"                     "專案/效能與壓縮"
-copy_to "litellm.md"                  "專案/效能與壓縮"
-copy_to "AlexsJones-llmfit.md"        "專案/效能與壓縮"
-
-# 專案 - 應用
-copy_to "santifer-career-ops.md"               "專案/應用"
-copy_to "ZhuLinsen-daily_stock_analysis.md"     "專案/應用"
-copy_to "HKUDS-DeepTutor.md"                    "專案/應用"
-copy_to "saturndec-waoowaoo.md"                 "專案/應用"
-copy_to "hugohe3-ppt-master.md"                 "專案/應用"
-copy_to "autoresearch.md"                        "專案/應用"
-copy_to "virattt-dexter.md"                       "專案/應用"
-copy_to "HKUDS-Vibe-Trading.md"                "專案/應用"
-copy_to "Narcooo-inkos.md"                       "專案/應用"
-copy_to "EvoMap-evolver.md"                       "專案/應用"
-
-# 專案 - Skill 生態系
-copy_to "sickn33-antigravity-awesome-skills.md" "專案/Skill-生態系"
-copy_to "heygen-com-hyperframes.md"             "專案/Skill-生態系"
-copy_to "nidhinjs-prompt-master.md"              "專案/Skill-生態系"
-
-# 專案 - 基礎設施
-copy_to "open-design.md"                        "專案/Skill-生態系"
-copy_to "volcengine-OpenSandbox.md"  "專案/基礎設施"
-copy_to "project-golem.md"           "專案/基礎設施"
-copy_to "hermes-agent.md"            "專案/基礎設施"
-
-# 影片
-copy_to "agent-anatomy-openclaw.md"     "影片"
-copy_to "context-engineering-basics.md" "影片"
-copy_to "ai-agent-interaction.md"       "影片"
-copy_to "ai-agent-work-impact.md"       "影片"
-copy_to "harness-engineering.md"        "影片"
-copy_to "self-correction.md"             "影片"
-
+echo ""
 echo "✅ 同步完成"
 echo ""
 echo "接下來可以："
