@@ -7,6 +7,7 @@
 - 🧠 **LLM** → [[LLM]]（MarkItDown 把非結構化文件轉成 LLM 能理解的 Markdown）
 - 🔌 **MCP** → [[MCP]]（MarkItDown 有 MCP Server 整合）
 - 🗄️ **RAG** → [[docling]]（兩者都是文件解析工具，MarkItDown 輕量、docling 功能更完整）
+- 📄 **PyMuPDF4LLM** → [[pymupdf4llm]]（PDF 專精，版面感知更強）
 
 ## 是什麼
 
@@ -39,13 +40,31 @@ print(result.text_content)
 |------|------|----------|----------|
 | **MarkItDown** | 輕量文件→Markdown | PDF/Office/圖片/音訊 | MCP Server |
 | **[[docling]]** | 完整文件解析框架 | PDF/DOCX/PPTX/HTML/圖片 | Docling Pipeline |
+| **[[pymupdf4llm]]** | PDF→LLM 友善格式（版面感知） | PDF 為主 | LlamaIndex + LangChain |
 | **[[datalab-to-chandra\|Chandra]]** | 高精確度 OCR | 表格/表單/手寫 | Python API |
 
-MarkItDown 勝在輕量和快速，適合簡單轉換場景；docling 功能更完整，適合複雜 RAG pipeline；Chandra 專攻 OCR 精確度，特別是表格和手寫。
+MarkItDown 勝在輕量和格式廣度，適合簡單轉換場景；docling 功能更完整，適合複雜 RAG pipeline；PyMuPDF4LLM 對 PDF 版面還原最深入；Chandra 專攻 OCR 精確度，特別是表格和手寫。
+
+### MarkItDown vs PyMuPDF4LLM
+
+| | **MarkItDown** | **PyMuPDF4LLM** |
+|---|---|---|
+| **定位** | 輕量通用，任何格式→Markdown | PDF 專精，版面感知還原 |
+| **底層引擎** | 純 Python | MuPDF C 引擎（快） |
+| **PDF 深度** | ⭐⭐ 基本提取，無版面重建 | ⭐⭐⭐ 版面重建、多欄、表格、閱讀順序 |
+| **格式廣度** | ⭐⭐⭐ PDF/Office/圖片/音訊/HTML | ⭐⭐ PDF 為主，Office 需 Pro |
+| **OCR** | 依賴外部（EXIF + 基本 OCR） | 智慧混合 OCR（只對需要區域做） |
+| **輸出格式** | Markdown | Markdown / JSON / 純文字 |
+| **頁面分塊** | ❌ 無內建分塊 | ✅ page_chunks 帶完整 metadata |
+| **框架整合** | MCP Server | LlamaIndex + LangChain |
+| **License** | MIT | AGPL-3.0 |
+| **Stars** | ⭐120,637 | ⭐1,664 |
+
+**搭配建議**：MarkItDown 處理非 PDF 格式（Office、音訊、圖片），PyMuPDF4LLM 處理需要精確版面還原的 PDF。
 
 ## 相關概念
 
-← [[LLM]] · [[MCP]] · [[docling]]
+← [[LLM]] · [[MCP]] · [[docling]] · [[pymupdf4llm]]
 
 ## 來源
 
