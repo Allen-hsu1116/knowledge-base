@@ -30,12 +30,12 @@ CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI"
 # 概念 - 方法論
 CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory"
 # 概念 - 應用與研究
-CONCEPT_APP="AI-Tutoring"
+CONCEPT_APP="AI-Tutoring document-parsing rag"
 
 # 專案 - Agent 框架與工具
 PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict"
 # 專案 - 記憶與知識管理
-PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm"
+PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch"
 # 專案 - 效能與壓縮
 PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters"
 # 專案 - 應用

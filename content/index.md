@@ -46,6 +46,8 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
+| [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
+| [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
 
 ---
 
@@ -82,6 +84,10 @@ title: 知識庫總覽
 | [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
 | [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
 | [[pymupdf4llm]] | ⭐1,664 | RAG, 文件解析, OCR | 2026-05-08 |
+| [[run-llama-ParseBench]] | ⭐468 | 文件解析, AI Agent, 評測基準 | 2026-05-09 |
+| [[LeDat98-NexusRAG]] | ⭐297 | RAG, Knowledge Graph, 文件解析 | 2026-05-09 |
+| [[aiptimizer-TurboOCR]] | ⭐264 | OCR, 文件解析, GPU 加速 | 2026-05-09 |
+| [[flamehaven01-Flamehaven-Filesearch]] | ⭐100 | RAG, 搜尋引擎, 自架式 | 2026-05-09 |
 
 ### ⚡ 效能與壓縮
 

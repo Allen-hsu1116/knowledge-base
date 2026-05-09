@@ -9,6 +9,23 @@ title: 整理記錄
 ## 2026-05-09
 
 **Ingest + Compile**：
+1. GitHub: run-llama/ParseBench — AI Agent 文件解析基準測試，五維度評測（⭐468）
+2. GitHub: LeDat98/NexusRAG — 混合式 RAG 系統，向量+知識圖譜+重排序（⭐297）
+3. GitHub: aiptimizer/TurboOCR — GPU 加速 OCR 伺服器，270img/s TensorRT（⭐264）
+4. GitHub: flamehaven01/Flamehaven-Filesearch — 自架式 RAG 搜尋引擎，34 格式 BM25+混合搜尋（⭐100）
+
+**Compile**：
+- [[run-llama-ParseBench]] ← 素材 1
+- [[LeDat98-NexusRAG]] ← 素材 2
+- [[aiptimizer-TurboOCR]] ← 素材 3
+- [[flamehaven01-Flamehaven-Filesearch]] ← 素材 4
+
+**Refactor**：
+- index.md 新增 4 專案至「記憶與知識管理」分類
+- 新增概念頁：document-parsing（文件解析）、rag（RAG）
+- known-repos.json 新增 4 repo + 2 concepts
+
+**Ingest + Compile**：
 1. 文章: KOC — Google Gemma 4 MTP Drafters，投機解碼推理加速（Apache 2.0）
 
 **Compile**：
