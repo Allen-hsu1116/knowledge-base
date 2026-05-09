@@ -8,6 +8,18 @@ title: 整理記錄
 
 ## 2026-05-09
 
+**Ingest + Compile** (手動)：
+1. 文章: Printing Press — Markdown 轉書籍 CLI 工具
+
+**Compile**：
+- [[printing-press]] ← 素材 1
+
+**Refactor**：
+- index.md 新增 printing-press 至「基礎設施」分類
+- known-repos.json 新增 printing-press
+
+---
+
 **Ingest + Compile**：
 1. GitHub: run-llama/ParseBench — AI Agent 文件解析基準測試，五維度評測（⭐468）
 2. GitHub: LeDat98/NexusRAG — 混合式 RAG 系統，向量+知識圖譜+重排序（⭐297）

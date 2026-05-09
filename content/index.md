@@ -140,6 +140,7 @@ title: 知識庫總覽
 | [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
 | [[jo-inc-camofox-browser]] | ⭐4,203 | AI Agent, 瀏覽器自動化 | 2026-05-08 |
 | [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
+| [[printing-press]] | ⭐30+ | Prompt Engineering, 文件轉換 | 2026-05-09 |
 
 ---
 
