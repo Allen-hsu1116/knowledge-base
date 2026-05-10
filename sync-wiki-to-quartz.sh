@@ -28,20 +28,20 @@ CONCEPT_CORE="AI-Agent LLM llm-internals Prompt-Engineering Token-Optimization"
 # 概念 - 工具與協議
 CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI"
 # 概念 - 方法論
-CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory"
+CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
 # 概念 - 應用與研究
-CONCEPT_APP="AI-Tutoring document-parsing rag"
+CONCEPT_APP="AI-Tutoring document-parsing rag flash-attention kv-cache positional-embedding-evolution cl4r1t4s"
 
 # 專案 - Agent 框架與工具
-PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI"
+PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo"
 # 專案 - 記憶與知識管理
-PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch"
+PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7"
 # 專案 - 效能與壓縮
-PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters"
+PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters rtk-ai-rtk"
 # 專案 - 應用
-PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills"
+PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master"
 # 專案 - Skill 生態系
-PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master openmythos"
+PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos"
 # 專案 - 模型推論與部署
 PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers"
 # 專案 - 向量資料庫
@@ -49,12 +49,12 @@ PROJ_VEC="Milvus Qdrant Chroma"
 # 專案 - 多媒體與爬蟲
 PROJ_MEDIA="Whisper Crawl4AI"
 # 專案 - 基礎設施
-PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura"
+PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura agent-reach opencli opensandbox claude-code-boris-cherny-advanced-techniques"
 # 專案 - Agent 自演化
 PROJ_EVO="EvoMap-evolver"
 
 # 影片
-VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction"
+VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction flash-attention kv-cache positional-embedding-evolution"
 
 # 5. 複製函數
 copy_to() {
