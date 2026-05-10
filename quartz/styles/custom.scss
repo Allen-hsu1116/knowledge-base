@@ -2,18 +2,11 @@
 
 // put your custom CSS here!
 
-// Prevent date columns from wrapping
+// Prevent date and link columns from wrapping, without forcing min-width (avoids horizontal scrollbar)
 table {
   th, td {
     &:nth-last-child(1),
     &:nth-last-child(2) {
-      white-space: nowrap;
-      min-width: 7rem;
-    }
-  }
-  // Ensure all table cells don't unnecessarily wrap short content
-  td {
-    &:last-child {
       white-space: nowrap;
     }
   }
