@@ -5,7 +5,6 @@ stars: 5741
 language: JavaScript
 github: https://github.com/yizhiyanhua-ai/fireworks-tech-graph
 created: 2026-04-10
-tags: [diagram, visualization, claude-code, prompt-engineering]
 ---
 
 # fireworks-tech-graph

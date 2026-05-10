@@ -1,7 +1,6 @@
 ---
 source: https://github.com/thedotmack/claude-mem
 date: 2026-05-09
-tags: [memory, claude-code, persistence, context-management, mcp]
 ---
 
 # claude-mem — Claude Code 持久記憶壓縮系統

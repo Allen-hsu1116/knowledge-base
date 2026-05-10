@@ -1,7 +1,6 @@
 ---
 source: https://github.com/bytedance/deer-flow
 date: 2026-05-09
-tags: [bytedance, agent, orchestration, deep-research, sandbox, skills, memory]
 ---
 
 # DeerFlow 2.0 — 字節跳動開源 Super Agent 框架

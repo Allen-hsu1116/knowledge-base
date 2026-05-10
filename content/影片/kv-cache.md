@@ -1,7 +1,6 @@
 ---
 source: https://www.youtube.com/watch?v=fDQaadKysSA
 date: 2026-05-03
-tags: [youtube, kv-cache, inference-optimization, gpu-memory, transformer, llm-speed, gqa, mla, sliding-window, lee-hung-yi]
 author: 李宏毅 (Hung-yi Lee)
 channel: Hung-yi Lee
 ---

@@ -1,7 +1,6 @@
 ---
 source: https://github.com/ruvnet/ruflo
 date: 2026-05-09
-tags: [agent, orchestration, claude-code, multi-agent, swarm, memory, federation]
 ---
 
 # Ruflo — 多 Agent AI 編排平台

@@ -1,7 +1,6 @@
 ---
 title: NexusRAG
 created: 2026-05-09
-tags: [rag, knowledge-graph, document-parsing, vector-search, ai-agent]
 ---
 
 # NexusRAG — 混合式 RAG 系統（向量搜尋 + 知識圖譜 + 交叉編碼器重排）

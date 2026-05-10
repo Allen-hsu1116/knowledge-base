@@ -1,7 +1,6 @@
 ---
 title: TurboOCR
 created: 2026-05-09
-tags: [ocr, document-parsing, gpu, tensorrt, cpp]
 ---
 
 # TurboOCR — GPU 加速 OCR 伺服器（270 張/秒，TensorRT FP16 + PP-OCRv5）

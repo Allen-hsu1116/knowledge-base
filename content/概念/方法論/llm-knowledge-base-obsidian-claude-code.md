@@ -1,7 +1,6 @@
 ---
 source: https://www.bnext.com.tw/article/90530/llm-knowledge-base-obsidian-claude-code
 date: 2026-04-28
-tags: [llm, knowledge-base, obsidian, claude-code, karpathy, ai-workflow]
 ---
 
 # LLM 知識庫系統：Karpathy 的方法（中文報導版）

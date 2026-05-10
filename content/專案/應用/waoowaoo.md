@@ -1,7 +1,6 @@
 ---
 source: https://github.com/saturndec/waoowaoo
 date: 2026-05-05
-tags: [ai, video-production, short-drama, manga, storyboard, chinese]
 ---
 
 # waoowaoo AI 影視 Studio — AI 短劇/漫畫視頻製作

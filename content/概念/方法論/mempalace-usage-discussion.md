@@ -1,7 +1,6 @@
 ---
 source: discord-conversation
 date: 2026-05-07
-tags: [MemPalace, RAG, memory, knowledge-graph, MCP]
 channel: 乖乖學習吧
 ---
 

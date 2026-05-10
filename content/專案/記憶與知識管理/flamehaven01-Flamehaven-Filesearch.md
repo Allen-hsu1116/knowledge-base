@@ -1,7 +1,6 @@
 ---
 title: Flamehaven-Filesearch
 created: 2026-05-09
-tags: [rag, search, self-hosted, document-parsing, bm25]
 ---
 
 # Flamehaven-Filesearch — 自架式 RAG 搜尋引擎（34 格式，BM25+混合搜尋，多 LLM）

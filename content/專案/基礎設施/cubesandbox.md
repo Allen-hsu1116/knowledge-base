@@ -5,7 +5,6 @@ stars: 5184
 language: Rust
 github: https://github.com/TencentCloud/CubeSandbox
 created: 2026-04-10
-tags: [sandbox, ai-agent, security, kvm, rust]
 ---
 
 # CubeSandbox

@@ -1,7 +1,6 @@
 ---
 source: https://github.com/rtk-ai/rtk
 date: 2026-05-09
-tags: [token-optimization, cli, rust, proxy, llm-efficiency]
 ---
 
 # RTK (Rust Token Killer) — LLM Token 消耗削減 60-90%

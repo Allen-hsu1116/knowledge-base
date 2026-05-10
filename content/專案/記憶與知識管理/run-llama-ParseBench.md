@@ -1,7 +1,6 @@
 ---
 title: ParseBench
 created: 2026-05-09
-tags: [document-parsing, benchmark, ai-agent, evaluation]
 ---
 
 # ParseBench — AI Agent 用的文件解析基準測試

@@ -1,7 +1,6 @@
 ---
 source: https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
 date: 2026-04-28
-tags: [karpathy, ai-workflow, knowledge-base, claude-code, agent-browser]
 ---
 
 # Karpathy 同款「AI 知識庫」完整拆解

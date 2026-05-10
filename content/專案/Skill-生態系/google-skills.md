@@ -1,7 +1,6 @@
 ---
 source: https://github.com/google/skills
 date: 2026-04-28
-tags: [google, agent-skills, gcp, cloud, skill-framework]
 ---
 
 # google/skills — Google 產品與技術的 Agent Skills

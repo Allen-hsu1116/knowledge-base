@@ -1,7 +1,6 @@
 ---
 source: https://github.com/alibaba/OpenSandbox
 date: 2026-05-05
-tags: [sandbox, alibaba, docker, kubernetes, agent, mcp, code-execution]
 ---
 
 # OpenSandbox — 阿里巴巴開源 AI 沙箱平台

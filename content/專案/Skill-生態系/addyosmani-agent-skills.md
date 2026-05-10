@@ -1,7 +1,6 @@
 ---
 source: https://github.com/addyosmani/agent-skills
 date: 2026-04-28
-tags: [agent-skills, open-source, skill-framework, ai-tools, coding-agent]
 ---
 
 # addyosmani/agent-skills — 通用 Agent Skills 集合

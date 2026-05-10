@@ -5,7 +5,6 @@ stars: 11146
 language: Rust
 github: https://github.com/h4ckf0r0day/obscura
 created: 2026-04-13
-tags: [browser, web-scraping, ai-agent, headless, rust]
 ---
 
 # Obscura

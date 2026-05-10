@@ -1,7 +1,6 @@
 ---
 title: RAG（檢索增強生成）
 created: 2026-05-09
-tags: [rag, vector-search, knowledge-graph, hybrid-search]
 ---
 
 # RAG（檢索增強生成）

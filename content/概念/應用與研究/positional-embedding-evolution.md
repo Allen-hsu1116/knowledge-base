@@ -1,7 +1,6 @@
 ---
 source: https://www.youtube.com/watch?v=Ll-wk8x3G_g
 date: 2026-05-03
-tags: [youtube, positional-embedding, transformer, rope, sinusoidal, alibi, attention, self-attention, lee-hung-yi]
 author: 李宏毅 (Hung-yi Lee)
 channel: Hung-yi Lee
 ---

@@ -1,7 +1,6 @@
 ---
 source: https://github.com/MemPalace/mempalace
 date: 2026-05-09
-tags: [memory, RAG, local-first, knowledge-graph, MCP, chromadb, agent]
 ---
 
 # MemPalace — 本地優先 AI 記憶系統

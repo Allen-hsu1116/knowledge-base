@@ -1,7 +1,6 @@
 ---
 source: https://github.com/hugohe3/ppt-master
 date: 2026-05-05
-tags: [ppt, powerpoint, ai-generation, python, presentation]
 ---
 
 # PPT Master — AI 生成原可編輯 PPTX

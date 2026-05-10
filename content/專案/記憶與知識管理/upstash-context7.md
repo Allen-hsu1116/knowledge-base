@@ -1,7 +1,6 @@
 ---
 source: https://github.com/upstash/context7
 date: 2026-05-09
-tags: [documentation, llm, mcp, context, upstash, code-editor]
 ---
 
 # Context7 — LLM 專用的即時文件查詢平台

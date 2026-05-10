@@ -1,7 +1,6 @@
 ---
 source: https://www.blocktempo.com/agency-agents-github-84k-stars-144-ai-employee-personas-open-source/
 date: 2026-04-28
-tags: [agent-persona, agency-agents, open-source, ai-employee, ai-workflow]
 ---
 
 # Agency Agents：144 個 AI 員工人格開源

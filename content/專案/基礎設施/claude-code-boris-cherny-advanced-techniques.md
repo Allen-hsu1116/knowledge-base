@@ -1,7 +1,6 @@
 ---
 source: https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/
 date: 2026-05-06
-tags: [claude-code, ai-tools, productivity, boris-cherny, advanced-techniques, automation, git-worktree, context-management]
 author: 科技翰林院
 ---
 

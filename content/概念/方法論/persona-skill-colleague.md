@@ -1,7 +1,6 @@
 ---
 source: https://www.bnext.com.tw/article/90638/persona-skill-colleague
 date: 2026-04-28
-tags: [persona, agent, skill, colleague, ai-identity, prompt-engineering]
 ---
 
 # 用 Persona + Skill 打造 AI 同事

@@ -1,7 +1,6 @@
 ---
 source: https://github.com/forrestchang/andrej-karpathy-skills
 date: 2026-04-28
-tags: [karpathy, knowledge-base, agent-skills, obsidian, claude-code]
 ---
 
 # forrestchang/andrej-karpathy-skills — Karpathy 知識庫 Skill 版

@@ -5,7 +5,6 @@ stars: 5885
 language: TypeScript
 github: https://github.com/getagentseal/codeburn
 created: 2026-04-13
-tags: [coding-agent, token-tracking, cost-optimization, cli]
 ---
 
 # CodeBurn

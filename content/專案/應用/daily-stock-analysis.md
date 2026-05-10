@@ -1,7 +1,6 @@
 ---
 source: https://github.com/ZhuLinsen/daily_stock_analysis
 date: 2026-05-03
-tags: [github, llm, ai-agent, stock-analysis, python, github-actions]
 author: ZhuLinsen
 ---
 

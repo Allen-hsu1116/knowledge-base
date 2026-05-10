@@ -1,7 +1,6 @@
 ---
 source: https://github.com/jackwener/OpenCLI
 date: 2026-05-05
-tags: [cli, browser-automation, agent, electron, cdp, deterministic]
 ---
 
 # OpenCLI — 網站/瀏覽器變 CLI 介面

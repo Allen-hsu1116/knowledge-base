@@ -1,7 +1,6 @@
 ---
 source: https://github.com/docling-project/docling
 date: 2026-05-03
-tags: [document-parsing, pdf, rag, mcp, ibm, open-source, python, docling]
 ---
 
 # Docling

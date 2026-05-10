@@ -1,7 +1,6 @@
 ---
 source: https://www.youtube.com/watch?v=vXb2QYOUzl4
 date: 2026-05-03
-tags: [youtube, flash-attention, inference-optimization, gpu-computing, transformer, llm-speed, lee-hung-yi]
 author: 李宏毅 (Hung-yi Lee)
 channel: Hung-yi Lee
 ---

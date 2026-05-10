@@ -5,7 +5,6 @@ stars: 12286
 language: Python
 github: https://github.com/kyegomez/OpenMythos
 created: 2026-04-18
-tags: [llm, transformer, recurrent-depth, moe, open-source]
 ---
 
 # OpenMythos

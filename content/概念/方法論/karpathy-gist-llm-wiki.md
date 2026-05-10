@@ -1,7 +1,6 @@
 ---
 source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 date: 2026-04-28
-tags: [karpathy, llm-wiki, prompt-template, knowledge-base, raw-compile-wiki-lint]
 ---
 
 # Karpathy 原始 Gist：LLM Wiki 完整 prompt
