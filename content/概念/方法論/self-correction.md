@@ -63,4 +63,4 @@
 ← [[llm-knowledge-base]] ← [[AI-Agent]]
 
 ## 來源
-- raw/2026-05-03-m3i2mk5hs8U.md
+- raw/2026-05-03-self-correction.md

@@ -41,4 +41,4 @@ Anthropic 用 steering vector 技術發現：模型有代表情緒的內部向�
 ← [[AI-Agent]] ← [[agent-persona]] ← [[agent-skills-ecosystem]]
 
 ## 來源
-- raw/2026-05-03-R6fZR_9kmIw.md
+- raw/2026-05-03-harness-engineering.md

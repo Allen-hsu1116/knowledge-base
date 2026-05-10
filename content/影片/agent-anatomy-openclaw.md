@@ -67,4 +67,4 @@ LLM 覺得流程太繁瑣時，會要求 Agent 在地端寫腳本（如 tts_chec
 ← [[agent-persona]] · [[AI-Agent]] · [[prompt-security]] · [[agent-skills-ecosystem]]
 
 ## 來源
-- raw/2026-05-03-2rcJdFuNbZQ.md
+- raw/2026-05-03-agent-anatomy-openclaw.md

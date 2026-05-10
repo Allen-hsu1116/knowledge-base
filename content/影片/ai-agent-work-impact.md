@@ -51,4 +51,4 @@
 - [[santifer-career-ops]] — AI Agent 改變求職方式的實例
 
 ## 來源
-- raw/2026-05-03-VqB8zMujdjM.md
+- raw/2026-05-03-ai-agent-work-impact.md
