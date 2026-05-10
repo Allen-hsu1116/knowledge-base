@@ -8,6 +8,28 @@ title: 整理記錄
 
 ## 2026-05-10
 
+**Lint**（知識庫定期掃描）：
+
+修復問題：
+1. **斷掉的 cross-link**：Knowledge-Graph.md 中的 `[[]]` 空連結 → 改為 `[[WikiLink]]`
+2. **重複段落**：網頁爬蟲.md 有重複的「爬蟲核心流程」和「AI Agent 的爬蟲需求」→ 合併去重
+3. **Stars 欄位更新**：
+   - addyosmani-agent-skills：⭐— → ⭐37,914
+   - project-golem：— → ⭐590
+   - hermes-agent：— → ⭐141,768
+   - daily-stock-analysis：⭐— → ⭐34,945
+   - gemma4-mtp-drafters：標註為研究文章（非 GitHub 專案）
+4. **格式修復**：index.md 中 `[[sgl-project-sglang|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang\|SGLang]]`
+
+未修復（需人工確認）：
+1. **重複專案頁**：ppt-master.md vs hugohe3-ppt-master.md、waoowaoo.md vs saturndec-waoowaoo.md、daily-stock-analysis.md vs ZhuLinsen-daily_stock_analysis.md、rtk.md vs rtk-ai-rtk.md、opensandbox.md vs volcengine-OpenSandbox.md — 同一專案有兩頁（一頁是概念/概念頁，一頁是 9 區塊專案頁），建議合併
+2. **未整理 raw 素材**：35 個 raw 檔案未被 wiki 引用
+3. **Raw 檔名不規範**：13 個 raw 檔案缺少日期前綴
+4. **未完成 9 區塊模板**：EvoMap-evolver、HKUDS-Vibe-Trading、LeDat98-NexusRAG、MCP、Narcooo-inkos 等 15+ 專案頁缺少部分區塊
+5. **概念頁缺模板**：模型推論與部署、網頁爬蟲、語音辨識（0/7）
+
+---
+
 **Ingest + Compile**（TensorRT-LLM + SGLang）：
 1. GitHub: NVIDIA/TensorRT-LLM — NVIDIA 官方 LLM 推論加速框架（⭐13,598）
 2. GitHub: sgl-project/sglang — 高效能 LLM 服務框架，RadixAttention（⭐27,589）

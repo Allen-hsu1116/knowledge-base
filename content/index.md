@@ -69,7 +69,7 @@ title: 知識庫總覽
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
-| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐— | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
+| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐37,914 | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
 | [[affaan-m-everything-claude-code]] | ⭐172,098 | AI Agent, AI Skills, Prompt Security, Token Optimization | 2026-05-03 |
@@ -127,7 +127,7 @@ title: 知識庫總覽
 | [[llama-cpp\|llama.cpp]] | ⭐109,260 | LLM, 推論加速, 本地部署 | 2026-05-10 |
 | [[vLLM]] | ⭐79,515 | LLM, 推論加速 | 2026-05-10 |
 | [[NVIDIA-TensorRT-LLM]] | ⭐13,598 | LLM, 推論加速, GPU 最佳化 | 2026-05-10 |
-| [[sgl-project-sglang|SGLang]] | ⭐27,589 | LLM, 推論加速, 多模態 | 2026-05-10 |
+| [[sgl-project-sglang\|SGLang]] | ⭐27,589 | LLM, 推論加速, 多模態 | 2026-05-10 |
 
 ### 🔍 向量資料庫
 
@@ -157,7 +157,7 @@ title: 知識庫總覽
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[gemma4-mtp-drafters]] | ⭐— | Token Optimization, LLM 推理加速 | 2026-05-09 |
+| [[gemma4-mtp-drafters]] | ⭐—（研究文章，非 GitHub 專案） | Token Optimization, LLM 推理加速 | 2026-05-09 |
 | [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[rtk]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[rtk-ai-rtk\|RTK (Rust Token Killer)]] | ⭐40,072 | Token 優化, CLI, Rust | 2026-05-09 |
@@ -175,7 +175,7 @@ title: 知識庫總覽
 | [[HKUDS-DeepTutor]] | ⭐23,109 | AI Tutoring, RAG, AI Agent | 2026-05-04 |
 | [[waoowaoo\|waoowaoo AI 影視 Studio]] | ⭐12,000 | AI, 短劇, 影片製作 | 2026-05-05 |
 | [[ppt-master\|PPT Master]] | ⭐11,300 | AI, PPT, 可編輯 | 2026-05-05 |
-| [[daily-stock-analysis\|Daily Stock Analysis]] | ⭐— | LLM, 股市分析, GitHub Actions | 2026-05-03 |
+| [[daily-stock-analysis\|Daily Stock Analysis]] | ⭐34,945 | LLM, 股市分析, GitHub Actions | 2026-05-03 |
 | [[saturndec-waoowaoo]] | ⭐12,000 | AI Agent, AI Skills | 2026-05-05 |
 | [[hugohe3-ppt-master]] | ⭐11,300 | AI Agent, AI Skills | 2026-05-05 |
 | [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
@@ -202,8 +202,8 @@ title: 知識庫總覽
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[project-golem]] | — | AI Agent, 記憶系統, MCP | 2026-05-02 |
-| [[hermes-agent]] | — | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
+| [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
+| [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
 | [[opensandbox\|OpenSandbox]] | ⭐10,400 | 沙箱, 阿里巴巴, Docker, K8s | 2026-05-05 |
 | [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
 | [[volcengine-OpenSandbox]] | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
