@@ -40,6 +40,8 @@ python -m vllm.entrypoints.openai.api_server --model meta-llama/Meta-Llama-3-8B
 |------|------|------|
 | [[Ollama]] | 本地推理 | vLLM 適合生產/高吞吐，Ollama 適合個人/原型 |
 | [[llama-cpp]] | 推論引擎 | vLLM 重 GPU 高吞吐，llama.cpp 重 CPU 本地推理 |
+| [[sgl-project-sglang]] | 服務框架 | vLLM 和 SGLang 是直接競品；SGLang 有 RadixAttention 前綴快取優勢 |
+| [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | vLLM 更通用，TensorRT-LLM 在 NVIDIA GPU 上更快 |
 | [[huggingface-transformers]] | 模型框架 | vLLM 使用 HuggingFace 模型定義 |
 | [[llm-internals]] | 概念頁 | PagedAttention 解決了 KV Cache 的記憶體碎片問題 |
 

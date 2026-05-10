@@ -43,7 +43,7 @@ PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor sat
 # 專案 - Skill 生態系
 PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos"
 # 專案 - 模型推論與部署
-PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers"
+PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers NVIDIA-TensorRT-LLM sgl-project-sglang"
 # 專案 - 向量資料庫
 PROJ_VEC="Milvus Qdrant Chroma"
 # 專案 - 多媒體與爬蟲

@@ -8,6 +8,21 @@ title: 整理記錄
 
 ## 2026-05-10
 
+**Ingest + Compile**（TensorRT-LLM + SGLang）：
+1. GitHub: NVIDIA/TensorRT-LLM — NVIDIA 官方 LLM 推論加速框架（⭐13,598）
+2. GitHub: sgl-project/sglang — 高效能 LLM 服務框架，RadixAttention（⭐27,589）
+
+**Compile**：
+- [[NVIDIA-TensorRT-LLM]] ← 素材 1
+- [[sgl-project-sglang]] ← 素材 2
+
+**Refactor**：
+- index.md 新增 2 專案至「模型推論與部署」分類
+- known-repos.json 新增 NVIDIA-TensorRT-LLM 和 sgl-project-sglang
+- 回頭更新 LLM.md、llm-internals.md、Token-Optimization.md、litellm.md、vLLM.md、Ollama.md 的比較表和交叉連結
+
+---
+
 **Ingest + Compile**（歷史知名專案補充）：
 1. GitHub: Significant-Gravitas/AutoGPT — 自主 AI Agent 框架，2023 年引爆 Agent 浪潮（⭐184,119）
 2. GitHub: langchain-ai/langchain — LLM 應用開發框架，100+ 整合（⭐136,262）

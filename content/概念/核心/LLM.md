@@ -56,6 +56,8 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 - [[Ollama]] — 本地一鍵運行 LLM（⭐171K）
 - [[llama-cpp\|llama.cpp]] — C/C++ 推論引擎，消費級硬體可跑（⭐109K）
 - [[vLLM]] — 高吞吐推論引擎，PagedAttention（⭐79.5K）
+- [[sgl-project-sglang\|SGLang]] — 高效能服務框架，RadixAttention 前綴快取（⭐27.6K）
+- [[NVIDIA-TensorRT-LLM]] — NVIDIA 官方推論加速，GPU 深度最佳化（⭐13.6K）
 - [[huggingface-transformers\|Hugging Face Transformers]] — 模型定義框架，100 萬+ 模型（⭐160K）
 - [[litellm]] — LLM Gateway，100+ Provider 統一 API（⭐45.7K）
 

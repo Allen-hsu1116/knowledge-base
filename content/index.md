@@ -112,14 +112,30 @@ title: 知識庫總覽
 
 ### 🧠 模型推論與部署
 
+| 概念頁 | 說明 |
+|--------|------|
+| [[模型推論與部署]] | LLM 從訓練到服務：推論優化、部署架構、成本控制 |
+| [[flash-attention\|Flash Attention]] | 減少 GPU HBM↔SRAM 搬運次數 |
+| [[kv-cache\|KV Cache]] | 避免重算 K/V，衍生 GQA/MLA/Sliding Window |
+| [[positional-embedding-evolution\|位置編碼演進]] | Sinusoidal → ALiBi → RoPE |
+| [[rtk-ai-rtk\|RTK]] | 減少 LLM token 消耗 60-90% |
+
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[Ollama]] | ⭐171,080 | LLM, 本地部署 | 2026-05-10 |
 | [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |
 | [[llama-cpp\|llama.cpp]] | ⭐109,260 | LLM, 推論加速, 本地部署 | 2026-05-10 |
 | [[vLLM]] | ⭐79,515 | LLM, 推論加速 | 2026-05-10 |
+| [[NVIDIA-TensorRT-LLM]] | ⭐13,598 | LLM, 推論加速, GPU 最佳化 | 2026-05-10 |
+| [[sgl-project-sglang|SGLang]] | ⭐27,589 | LLM, 推論加速, 多模態 | 2026-05-10 |
 
 ### 🔍 向量資料庫
+
+| 概念頁 | 說明 |
+|--------|------|
+| [[向量資料庫]] | 儲存和檢索 embeddings 的專用資料庫，RAG 基礎設施 |
+| [[rag\|RAG]] | 檢索增強生成 |
+| [[MemPalace-mempalace\|MemPalace]] | 本地優先 AI 記憶系統（ChromaDB） |
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
@@ -132,7 +148,10 @@ title: 知識庫總覽
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
+| [[語音辨識]] | — | ASR/TTS 技術和模型 | — |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
+| [[web-scraping\|網頁爬取]] | — | 從網頁自動提取資料 | — |
+| [[網頁爬蟲]] | — | 系統化瀏覽和收集網頁資料 | — |
 
 ### ⚡ 效能與壓縮
 
@@ -186,6 +205,7 @@ title: 知識庫總覽
 | [[project-golem]] | — | AI Agent, 記憶系統, MCP | 2026-05-02 |
 | [[hermes-agent]] | — | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
 | [[opensandbox\|OpenSandbox]] | ⭐10,400 | 沙箱, 阿里巴巴, Docker, K8s | 2026-05-05 |
+| [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
 | [[volcengine-OpenSandbox]] | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
 | [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
 | [[jo-inc-camofox-browser]] | ⭐4,203 | AI Agent, 瀏覽器自動化 | 2026-05-08 |
@@ -194,6 +214,7 @@ title: 知識庫總覽
 | [[codeburn\|CodeBurn]] | ⭐5,885 | AI Skills, 程式碼優化 | 2026-05-09 |
 | [[cubesandbox\|CubeSandbox]] | ⭐5,184 | 沙箱, Rust, 程式碼執行 | 2026-05-09 |
 | [[fireworks-tech-graph\|Fireworks Tech Graph]] | ⭐5,741 | Knowledge Graph, JavaScript | 2026-05-09 |
+| [[visualization\|資料視覺化]] | — | 將數據轉為圖形表示 | — |
 | [[obscura\|Obscura]] | ⭐11,146 | 隱私, Rust, 瀏覽器 | 2026-05-09 |
 | [[openmythos\|OpenMythos]] | ⭐12,286 | AI, 神話, Python | 2026-05-09 |
 

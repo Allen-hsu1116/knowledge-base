@@ -47,7 +47,9 @@ response = chat(model='gemma3', messages=[{'role': 'user', 'content': 'Hello!'}]
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[llama-cpp]] | 推論引擎 | Ollama 底層使用 llama.cpp 做推理 |
-| [[vllm]] | 服務引擎 | Ollama 適合個人/原型，vLLM 適合生產/高吞吐 |
+| [[vLLM]] | 服務引擎 | Ollama 適合個人/原型，vLLM 適合生產/高吞吐 |
+| [[sgl-project-sglang]] | 服務框架 | SGLang 適合生產部署，Ollama 適合本地 |
+| [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | TensorRT-LLM 適合大規模 NVIDIA GPU 部署 |
 | [[huggingface-transformers]] | 模型框架 | Ollama 支援 HuggingFace 模型格式 |
 | [[litellm]] | LLM Gateway | LiteLLM 可以統一管理 Ollama 和雲端 API |
 

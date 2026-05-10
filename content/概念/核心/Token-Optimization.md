@@ -74,6 +74,8 @@
 - [[Ollama]] — 本地推理，API 成本降至零
 - [[llama-cpp\|llama.cpp]] — 本地推論引擎，消費級硬體可跑
 - [[vLLM]] — 高吞吐服務，PagedAttention 降記憶體成本
+- [[sgl-project-sglang|SGLang]] — RadixAttention 前綴快取降重複成本
+- [[NVIDIA-TensorRT-LLM]] — NVIDIA GPU 深度最佳化，最高吞吐
 
 ## 相關概念
 
