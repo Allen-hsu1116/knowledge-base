@@ -2,11 +2,10 @@
 
 // put your custom CSS here!
 
-// Prevent date and link columns from wrapping, without forcing min-width (avoids horizontal scrollbar)
+// Prevent date column from wrapping (avoids horizontal scrollbar on narrow tables like 概念)
 table {
   th, td {
-    &:nth-last-child(1),
-    &:nth-last-child(2) {
+    &:last-child {
       white-space: nowrap;
     }
   }
