@@ -2,11 +2,20 @@
 
 // put your custom CSS here!
 
-// Prevent date column from wrapping (avoids horizontal scrollbar on narrow tables like 概念)
+// Prevent date column from wrapping
 table {
   th, td {
     &:last-child {
       white-space: nowrap;
     }
+  }
+}
+
+// Remove horizontal scrollbar caused by table margin exceeding container
+.table-container {
+  overflow-x: hidden;
+
+  & > table {
+    margin: 1rem 0;
   }
 }
