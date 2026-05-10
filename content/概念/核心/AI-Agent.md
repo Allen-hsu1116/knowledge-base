@@ -132,6 +132,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 | 框架 | 特色 | Stars |
 |------|------|-------|
 | [[affaan-m-everything-claude-code]] | Agent harness 效能優化 | 172K |
+| [[AutoGPT]] | 自主 Agent 框架 | 184K |
+| [[LangChain]] | LLM 應用開發框架 | 136K |
+| [[CrewAI]] | 多 Agent 角色扮演協作 | 51K |
 | [[HKUDS-nanobot]] | 超輕量個人 Agent | 41.5K |
 | [[Gitlawb-openclaude]] | 多模型 Coding Agent CLI | 25.7K |
 | [[sickn33-antigravity-awesome-skills]] | 1,443+ Agent Skills | 36.2K |

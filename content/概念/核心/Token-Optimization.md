@@ -59,6 +59,7 @@
 | Caveman（穴居人語） | — | 75% | 可讀性下降 |
 | Context 分層（L0/L1/L2） | 60-80% | — | 無影響 |
 | 知識庫編譯 | 71.5x* | — | 反而更好 |
+| 本地推理（Ollama） | — | — | API 成本降至零 |
 
 *graphify 測試數據
 
@@ -70,6 +71,9 @@
 - [[rtk]] — Rust CLI proxy，攔截壓縮命令輸出
 - [[JuliusBrussee-caveman]] — 穴居人語 token 壓縮
 - [[gemma4-mtp-drafters]] — 投機解碼推理加速，零品質損失
+- [[Ollama]] — 本地推理，API 成本降至零
+- [[llama-cpp\|llama.cpp]] — 本地推論引擎，消費級硬體可跑
+- [[vLLM]] — 高吞吐服務，PagedAttention 降記憶體成本
 
 ## 相關概念
 

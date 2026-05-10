@@ -48,6 +48,7 @@ title: 知識庫總覽
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
+| [[LLM\|LLM 底層與生態]] | 推論加速、本地部署、模型框架等 LLM 基礎設施。 |
 
 ---
 
@@ -69,6 +70,9 @@ title: 知識庫總覽
 | [[holaboss-ai-holaOS]] | ⭐4,757 | AI Agent, 環境工程, 記憶連續性 | 2026-05-06 |
 | [[RightNow-AI-openfang]] | ⭐17,219 | AI Agent, MCP, Knowledge Graph | 2026-05-07 |
 | [[cft0808-edict]] | ⭐15,619 | AI Agent, AI Skills, MCP | 2026-05-07 |
+| [[AutoGPT]] | ⭐184,119 | AI Agent, 自主規劃 | 2026-05-10 |
+| [[LangChain]] | ⭐136,262 | AI Agent, LLM, RAG | 2026-05-10 |
+| [[CrewAI]] | ⭐51,031 | AI Agent, 多 Agent 協作 | 2026-05-10 |
 
 ### 🧠 記憶與知識管理
 
@@ -88,6 +92,30 @@ title: 知識庫總覽
 | [[LeDat98-NexusRAG]] | ⭐297 | RAG, Knowledge Graph, 文件解析 | 2026-05-09 |
 | [[aiptimizer-TurboOCR]] | ⭐264 | OCR, 文件解析, GPU 加速 | 2026-05-09 |
 | [[flamehaven01-Flamehaven-Filesearch]] | ⭐100 | RAG, 搜尋引擎, 自架式 | 2026-05-09 |
+
+### 🧠 模型推論與部署
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[Ollama]] | ⭐171,080 | LLM, 本地部署 | 2026-05-10 |
+| [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |
+| [[llama-cpp\|llama.cpp]] | ⭐109,260 | LLM, 推論加速, 本地部署 | 2026-05-10 |
+| [[vLLM]] | ⭐79,515 | LLM, 推論加速 | 2026-05-10 |
+
+### 🔍 向量資料庫
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
+| [[Qdrant]] | ⭐31,189 | RAG, 向量資料庫 | 2026-05-10 |
+| [[Chroma]] | ⭐27,889 | RAG, 向量資料庫 | 2026-05-10 |
+
+### 🎯 多媒體與爬蟲
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
+| [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
 
 ### ⚡ 效能與壓縮
 

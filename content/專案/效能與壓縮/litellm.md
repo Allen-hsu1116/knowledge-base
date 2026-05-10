@@ -46,6 +46,8 @@ docker run -p 4000:4000 ghcr.io/berriai/litellm:main-latest
 | [[project-golem]] | Golem 支援 Gemini/Ollama/LM Studio，LiteLLM 可以作為統一 API 層 |
 | [[hermes-agent]] | Hermes 用 OpenRouter，LiteLLM 是更底層的 Gateway |
 | [[AI-Agent]] | 多模型切換是 Agent 工作流的基礎設施需求 |
+| [[Ollama]] | LiteLLM 可統一管理 Ollama 本地模型和雲端 API |
+| [[vLLM]] | LiteLLM 可作為 vLLM 前面的 API Gateway |
 
 ### 授權
 MIT License（開源部分），有 Enterprise Tier

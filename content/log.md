@@ -6,6 +6,48 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-10
+
+**Ingest + Compile**（歷史知名專案補充）：
+1. GitHub: Significant-Gravitas/AutoGPT — 自主 AI Agent 框架，2023 年引爆 Agent 浪潮（⭐184,119）
+2. GitHub: langchain-ai/langchain — LLM 應用開發框架，100+ 整合（⭐136,262）
+3. GitHub: crewAIInc/crewAI — 多 Agent 角色扮演協作框架（⭐51,031）
+4. GitHub: ollama/ollama — 本地一鍵運行 LLM（⭐171,080）
+5. GitHub: vllm-project/vllm — 高吞吐 LLM 推論引擎，PagedAttention 發明者（⭐79,515）
+6. GitHub: ggerganov/llama.cpp — C/C++ LLM 推論引擎，消費級硬體可跑（⭐109,260）
+7. GitHub: huggingface/transformers — 模型定義框架，100 萬+ 模型檢查點（⭐160,425）
+8. GitHub: milvus-io/milvus — 高效能雲原生向量資料庫（⭐44,202）
+9. GitHub: qdrant/qdrant — Rust 向量搜尋引擎（⭐31,189）
+10. GitHub: chroma-core/chroma — 極簡 AI 向量資料庫（⭐27,889）
+11. GitHub: openai/whisper — OpenAI 開源語音辨識模型（⭐99,208）
+12. GitHub: unclecode/crawl4ai — LLM 友善網頁爬蟲（⭐65,284）
+
+**Compile**：
+- [[AutoGPT]] ← 素材 1
+- [[LangChain]] ← 素材 2
+- [[CrewAI]] ← 素材 3
+- [[Ollama]] ← 素材 4
+- [[vLLM]] ← 素材 5
+- [[llama-cpp]] ← 素材 6
+- [[huggingface-transformers]] ← 素材 7
+- [[Milvus]] ← 素材 8
+- [[Qdrant]] ← 素材 9
+- [[Chroma]] ← 素材 10
+- [[Whisper]] ← 素材 11
+- [[Crawl4AI]] ← 素材 12
+
+**Refactor**：
+- index.md 新增 3 個新分類：模型推論與部署、向量資料庫、多媒體與爬蟲
+- AutoGPT、LangChain、CrewAI 加入現有「Agent 框架與工具」分類
+- known-repos.json 新增 12 repo
+- 回頭更新 LLM 頁面（加入推論引擎和模型框架）
+- 回頭更新 AI-Agent 頁面（加入 AutoGPT、LangChain、CrewAI）
+- 回頭更新 rag 頁面（加入向量資料庫）
+- 回頭更新 llm-internals 頁面（加入 vLLM PagedAttention、llama.cpp）
+- 回頭更新 Token-Optimization 頁面（加入本地推理降成本）
+
+---
+
 ## 2026-05-09
 
 **Ingest + Compile** (手動)：

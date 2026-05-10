@@ -15,7 +15,7 @@ rm -rf "$CONTENT_DIR/概念" "$CONTENT_DIR/專案" "$CONTENT_DIR/影片" 2>/dev/
 
 # 2. 建立子資料夾
 mkdir -p "$CONTENT_DIR/概念/核心" "$CONTENT_DIR/概念/工具與協議" "$CONTENT_DIR/概念/方法論" "$CONTENT_DIR/概念/應用與研究"
-mkdir -p "$CONTENT_DIR/專案/Agent-框架與工具" "$CONTENT_DIR/專案/記憶與知識管理" "$CONTENT_DIR/專案/效能與壓縮" "$CONTENT_DIR/專案/應用" "$CONTENT_DIR/專案/Skill-生態系" "$CONTENT_DIR/專案/基礎設施" "$CONTENT_DIR/專案/Agent-自演化"
+mkdir -p "$CONTENT_DIR/專案/Agent-框架與工具" "$CONTENT_DIR/專案/記憶與知識管理" "$CONTENT_DIR/專案/效能與壓縮" "$CONTENT_DIR/專案/應用" "$CONTENT_DIR/專案/Skill-生態系" "$CONTENT_DIR/專案/基礎設施" "$CONTENT_DIR/專案/Agent-自演化" "$CONTENT_DIR/專案/模型推論與部署" "$CONTENT_DIR/專案/向量資料庫" "$CONTENT_DIR/專案/多媒體與爬蟲"
 mkdir -p "$CONTENT_DIR/影片"
 
 # 3. 複製根目錄檔案
@@ -33,7 +33,7 @@ CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-s
 CONCEPT_APP="AI-Tutoring document-parsing rag"
 
 # 專案 - Agent 框架與工具
-PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict"
+PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI"
 # 專案 - 記憶與知識管理
 PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch"
 # 專案 - 效能與壓縮
@@ -41,9 +41,15 @@ PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafte
 # 專案 - 應用
 PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills"
 # 專案 - Skill 生態系
-PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master"
+PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master openmythos"
+# 專案 - 模型推論與部署
+PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers"
+# 專案 - 向量資料庫
+PROJ_VEC="Milvus Qdrant Chroma"
+# 專案 - 多媒體與爬蟲
+PROJ_MEDIA="Whisper Crawl4AI"
 # 專案 - 基礎設施
-PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser"
+PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura"
 # 專案 - Agent 自演化
 PROJ_EVO="EvoMap-evolver"
 
@@ -73,12 +79,15 @@ for f in $PROJ_APP; do copy_to "$f" "專案/應用"; done
 for f in $PROJ_SKILL; do copy_to "$f" "專案/Skill-生態系"; done
 for f in $PROJ_INFRA; do copy_to "$f" "專案/基礎設施"; done
 for f in $PROJ_EVO; do copy_to "$f" "專案/Agent-自演化"; done
+for f in $PROJ_INFER; do copy_to "$f" "專案/模型推論與部署"; done
+for f in $PROJ_VEC; do copy_to "$f" "專案/向量資料庫"; done
+for f in $PROJ_MEDIA; do copy_to "$f" "專案/多媒體與爬蟲"; done
 
 # 複製影片頁
 for f in $VIDEO; do copy_to "$f" "影片"; done
 
 # 6. 檢查孤兒頁（在 wiki/ 但沒被分類的）
-CLASSIFIED="$CONCEPT_CORE $CONCEPT_TOOLS $CONCEPT_METHOD $CONCEPT_APP $PROJ_AGENT $PROJ_MEM $PROJ_PERF $PROJ_APP $PROJ_SKILL $PROJ_INFRA $PROJ_EVO $VIDEO"
+CLASSIFIED="$CONCEPT_CORE $CONCEPT_TOOLS $CONCEPT_METHOD $CONCEPT_APP $PROJ_AGENT $PROJ_MEM $PROJ_PERF $PROJ_APP $PROJ_SKILL $PROJ_INFRA $PROJ_EVO $PROJ_INFER $PROJ_VEC $PROJ_MEDIA $VIDEO"
 ORPHANS=""
 for f in "$WIKI_DIR"/*.md; do
   name=$(basename "$f" .md)

@@ -23,13 +23,35 @@ RAG（Retrieval-Augmented Generation）是一種讓 LLM 在生成回答前先檢
 
 ## 相關專案
 
+### RAG 引擎
+
 | 專案 | 說明 | Stars |
 |------|------|-------|
 | [[ragflow]] | 開源 RAG 引擎 | ⭐79k |
 | [[LeDat98-NexusRAG]] | 混合式 RAG 系統，向量+知識圖譜+重排序 | ⭐297 |
 | [[flamehaven01-Flamehaven-Filesearch]] | 自架式 RAG 搜尋引擎，BM25+混合搜尋 | ⭐100 |
+
+### 文件解析
+
+| 專案 | 說明 | Stars |
+|------|------|-------|
 | [[docling]] | IBM 開源文件解析庫 | ⭐59k |
+| [[microsoft-markitdown]] | Microsoft 文件轉 Markdown | ⭐120k |
 | [[run-llama-ParseBench]] | 文件解析基準測試 | ⭐468 |
+
+### 向量資料庫
+
+| 專案 | 說明 | Stars |
+|------|------|-------|
+| [[Milvus]] | 高效能雲原生向量資料庫，十億級搜尋 | ⭐44.2k |
+| [[Qdrant]] | Rust 高效能向量搜尋引擎 | ⭐31.2k |
+| [[Chroma]] | 極簡 AI 向量資料庫，4 個核心 API | ⭐27.9k |
+
+### 網頁資料採集
+
+| 專案 | 說明 | Stars |
+|------|------|-------|
+| [[Crawl4AI]] | LLM 友善網頁爬蟲，網頁→Markdown | ⭐65.3k |
 
 ## 相關概念
 

@@ -30,6 +30,7 @@ tags: [document-parsing, ocr, rag, evaluation]
 | [[aiptimizer-TurboOCR]] | GPU 加速 OCR 伺服器，270img/s TensorRT FP16 | ⭐264 |
 | [[pymupdf4llm]] | PyMuPDF 的 LLM 友善封裝 | ⭐1.6k |
 | [[flamehaven01-Flamehaven-Filesearch]] | 自架式 RAG 搜尋引擎，34 格式解析 | ⭐100 |
+| [[Crawl4AI]] | LLM 友善網頁爬蟲，網頁→Markdown | ⭐65.3k |
 
 ## 相關概念
 

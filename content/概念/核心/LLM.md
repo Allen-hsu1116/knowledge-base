@@ -51,6 +51,20 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 - [[affaan-m-everything-claude-code]] — Agent harness 效能優化系統
 - [[sickn33-antigravity-awesome-skills]] — 1,443+ AI Skills
 
+### 推論與部署
+
+- [[Ollama]] — 本地一鍵運行 LLM（⭐171K）
+- [[llama-cpp\|llama.cpp]] — C/C++ 推論引擎，消費級硬體可跑（⭐109K）
+- [[vLLM]] — 高吞吐推論引擎，PagedAttention（⭐79.5K）
+- [[huggingface-transformers\|Hugging Face Transformers]] — 模型定義框架，100 萬+ 模型（⭐160K）
+- [[litellm]] — LLM Gateway，100+ Provider 統一 API（⭐45.7K）
+
+### Agent 框架
+
+- [[AutoGPT]] — 自主 Agent 框架，2023 年引爆 Agent 浪潮（⭐184K）
+- [[LangChain]] — LLM 應用開發框架，100+ 整合（⭐136K）
+- [[CrewAI]] — 多 Agent 角色扮演協作框架（⭐51K）
+
 ## 相關概念
 
 ← [[AI-Agent]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]]
