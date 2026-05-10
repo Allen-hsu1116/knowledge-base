@@ -2,10 +2,16 @@
 
 // put your custom CSS here!
 
-// Prevent date column from wrapping
+// Prevent date columns from wrapping
+// 專案/影片表格有 4 欄，日期是第 3 或第 4 欄
+// 概念表格只有 2 欄，不影響
 table {
   th, td {
     &:last-child {
+      white-space: nowrap;
+    }
+    // 4-column tables: date is column 3 (nth-child(3))
+    &:nth-child(3) {
       white-space: nowrap;
     }
   }
