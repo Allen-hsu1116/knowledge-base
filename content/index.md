@@ -53,6 +53,7 @@ title: 知識庫總覽
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
+| [[self-rag\|Self-RAG]] | 讓 LLM 自己決定何時檢索、自我審查生成品質 — RAG 的反思進化版。ICLR 2024 Oral。 |
 
 ---
 

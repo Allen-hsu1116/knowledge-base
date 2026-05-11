@@ -30,6 +30,12 @@ RAG（Retrieval-Augmented Generation）是一種讓 LLM 在生成回答前先檢
 | [[LeDat98-NexusRAG]] | 混合式 RAG 系統，向量+知識圖譜+重排序 | ⭐297 |
 | [[flamehaven01-Flamehaven-Filesearch]] | 自架式 RAG 搜尋引擎，BM25+混合搜尋 | ⭐100 |
 
+### RAG 研究與方法
+
+| 專案 | 說明 | Stars |
+|------|------|-------|
+| [[self-rag]] | 按需檢索 + 自我審查反思 token，ICLR 2024 Oral | ⭐2.4k |
+
 ### 文件解析
 
 | 專案 | 說明 | Stars |

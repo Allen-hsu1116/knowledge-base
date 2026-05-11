@@ -21,6 +21,18 @@ title: 整理記錄
 
 ---
 
+**Ingest + Compile**：
+2. GitHub: AkariAsai/self-rag — Self-RAG: 讓 LLM 學會自我反思的 RAG 框架，ICLR 2024 Oral（⭐2,377）
+
+**Compile**：
+- [[self-rag]] ← 素材 2
+
+**Refactor**：
+- index.md 概念區「應用與研究」新增 Self-RAG
+- 回頭更新 rag.md 新增「RAG 研究與方法」分類
+
+---
+
 ## 2026-05-10
 
 **Lint**（知識庫定期掃描）：
