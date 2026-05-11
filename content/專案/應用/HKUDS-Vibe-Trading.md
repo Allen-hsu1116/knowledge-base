@@ -118,12 +118,13 @@ Vibe-Trading 在近期版本做了大量安全加固：
 
 ## 與其他方案的關係
 
-[[virattt-dexter]] 是另一個 AI 金融 Agent，偏研究分析。[[ZhuLinsen-daily_stock_analysis]] 偏 A 股每日分析。Vibe-Trading 偏實戰交易 — 從研究到回測到執行的全管線。
+[[virattt-dexter]] 是另一個 AI 金融 Agent，偏研究分析。[[ZhuLinsen-daily_stock_analysis]] 偏 A 股每日分析。[[anthropics-financial-services|Anthropic FS]] 是 Anthropic 官方的金融服務 Agent 庫，做分析師工作產出（模型、備忘錄、簡報）。Vibe-Trading 偏實戰交易 — 從研究到回測到執行的全管線。
 
-三者的定位差異：
+四者的定位差異：
 - **daily_stock_analysis**：每日行情 + 新聞 + LLM 決策儀表盤
 - **Dexter**：自主式金融研究 Agent
 - **Vibe-Trading**：完整交易 Agent（研究 + 回測 + 風控 + 執行）
+- **Anthropic FS**：分析師團隊（10 個專業 Agent + 11 個 MCP 連接器）
 
 [[HKUDS-nanobot]] 和 [[HKUDS-DeepTutor]] 都是 HKUDS 的作品，Vibe-Trading 延續了該實驗室「極致精簡但功能完整」的風格。
 
@@ -145,4 +146,4 @@ Vibe-Trading 在近期版本做了大量安全加固：
 - [PyPI](https://pypi.org/project/vibe-trading-ai/)
 - [Discord](https://discord.gg/2vDYc2w5)
 
-← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[virattt-dexter]]
+← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[virattt-dexter]] · [[anthropics-financial-services|Anthropic FS]]

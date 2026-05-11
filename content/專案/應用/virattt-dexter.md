@@ -56,15 +56,17 @@ print(report.reasoning_trace)  # 完整推理過程
 
 ## 跟其他方案的關係
 
-| 方案 | 定位 | SEC Filing | 多步推理 | 決策儀表盤 | 策略回測 |
-|------|------|-----------|---------|-----------|---------|
-| **Dexter** | 深度研究 | ✅ | ✅ CoT | ❌ | ❌ |
-| **daily_stock_analysis** | 決策儀表盤 | ❌ | ❌ | ✅ | ✅ |
-| **傳統平台** | 數據查詢 | 手動 | ❌ | ⚠️ | ⚠️ |
+| 方案 | 定位 | SEC Filing | 多步推理 | 決策儀表盤 | 策略回測 | Agent 數 |
+|------|------|-----------|---------|-----------|---------|--------|
+| **Dexter** | 深度研究 | ✅ | ✅ CoT | ❌ | ❌ | 1 |
+| **daily_stock_analysis** | 決策儀表盤 | ❌ | ❌ | ✅ | ✅ | — |
+| **Anthropic FS** | 金融工作流 | ❌ | ✅ | ❌ | ❌ | 10 |
+| **傳統平台** | 數據查詢 | 手動 | ❌ | ⚠️ | ⚠️ | — |
 
 - **vs [[ZhuLinsen-daily_stock_analysis]]**：Dexter 做深度研究（閱讀 SEC filing、多步驟推理），daily_stock_analysis 做決策儀表盤（技術面+基本面+新聞聚合+策略回測）。兩者互補：先用 Dexter 做深度研究，再用 daily_stock_analysis 做交易決策
+- **vs [[anthropics-financial-services|Anthropic FS]]**：Anthropic FS 是 10 個專業工作流 Agent + 11 個 MCP 數據連接器的生態系，Dexter 是單一自主研究 Agent。Anthropic FS 做分析師工作產出（模型、備忘錄、簡報），Dexter 做深度 SEC 研究
 - **vs 傳統金融數據平台**（Bloomberg、Wind）：Dexter 用 LLM 自主推理，不需要人類逐步操作。傳統平台只提供數據，分析靠人
-- **定位差異**：Dexter 是「研究員」，daily_stock_analysis 是「交易員」
+- **定位差異**：Dexter 是「研究員」，daily_stock_analysis 是「交易員」，Anthropic FS 是「分析師團隊」
 
 ## 相關概念
 

@@ -6,6 +6,21 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-11
+
+**Ingest + Compile**：
+1. GitHub: anthropics/financial-services — Anthropic 官方金融服務 Agent 庫，10 Agent + 40+ Skill + 11 MCP 連接器（⭐18,951）
+
+**Compile**：
+- [[anthropics-financial-services]] ← 素材 1
+
+**Refactor**：
+- index.md 新增至「應用」分類
+- 回頭更新 virattt-dexter.md 比較表（加入 Anthropic FS 欄位）和定位描述
+- 回頭更新 HKUDS-Vibe-Trading.md 比較段落（加入 Anthropic FS 定位差異）和交叉連結
+
+---
+
 ## 2026-05-10
 
 **Lint**（知識庫定期掃描）：

@@ -61,6 +61,7 @@
 
 ## 相關概念
 ← [[llm-knowledge-base]] ← [[AI-Agent]]
+→ [[AI-Self-Growth]]（自我修正的下一步：AI 能否跨越盧比孔河？）
 
 ## 來源
 - raw/2026-05-03-self-correction.md

@@ -28,7 +28,7 @@ CONCEPT_CORE="AI-Agent LLM llm-internals Prompt-Engineering Token-Optimization"
 # 概念 - 工具與協議
 CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI sandbox"
 # 概念 - 方法論
-CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
+CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ai-self-growth ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
 # 概念 - 應用與研究
 CONCEPT_APP="AI-Tutoring document-parsing rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
 
@@ -39,7 +39,7 @@ PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow
 # 專案 - 效能與壓縮
 PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters rtk-ai-rtk"
 # 專案 - 應用
-PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master"
+PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master anthropics-financial-services"
 # 專案 - Skill 生態系
 PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos"
 # 專案 - 模型推論與部署
@@ -54,7 +54,7 @@ PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-
 PROJ_EVO="EvoMap-evolver"
 
 # 影片
-VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction flash-attention kv-cache positional-embedding-evolution"
+VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction ai-self-growth flash-attention kv-cache positional-embedding-evolution"
 
 # 5. 複製函數
 copy_to() {
