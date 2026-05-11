@@ -3,9 +3,9 @@
 > AI 能否不依賴人類而自行成長？「跨越盧比孔河」的不可逆轉折點在哪？— 李宏毅 2026 新作
 
 ## 快速導航
-- 🔄 **自我修正** → [[Self-Correction]]（自我修正是自我成長的前一步：先能修正，才能成長）
+- 🔄 **自我修正** → [[self-correction|Self-Correction 自我修正]]（自我修正是自我成長的前一步：先能修正，才能成長）
 - 🧠 **LLM 底層** → [[llm-internals]]（推論加速技術是模型自我最佳化的基礎）
-- 🤖 **AI Agent** → [[AI-Agent]]（Agent 自主性的終極問題就是自我成長）
+- 🤖 **AI Agent** → [[AI-Agent|AI Agent]]（Agent 自主性的終極問題就是自我成長）
 
 ## 核心問題
 
@@ -24,7 +24,7 @@
 
 ## 與相關主題的連結
 
-- **Self-Correction** → [[Self-Correction]]：自我修正是自我成長的必要條件，但非充分條件
+- **Self-Correction** → [[self-correction|Self-Correction 自我修正]]：自我修正是自我成長的必要條件，但非充分條件
 - **AI Agent 對工作衝擊** → [[ai-agent-work-impact]]：自我成長的 AI 將大幅加速對工作的衝擊
 - **Harness Engineering** → [[harness-engineering]]：人類引導 AI 的方法，可能是延緩「跨越盧比孔河」的關鍵
 

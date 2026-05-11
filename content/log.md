@@ -315,3 +315,40 @@ title: 整理記錄
 - 補充 prompt 模板到 llm-knowledge-base.md
 - 建立 CLAUDE.md Schema + outputs/
 - 初始化知識庫結構
+## [2026-05-12] lint | 知識庫 lint 修復
+
+### 修復項目
+
+1. **斷掉的 cross-link 修復**：
+   - `[[AI-Self-Growth]]` → `[[ai-self-growth|AI 自我成長]]`（大小寫不符檔名）
+   - `[[Self-Correction]]` → `[[self-correction|Self-Correction 自我修正]]`（大小寫不符檔名）
+   - `[[AI-Agent]]` → `[[AI-Agent|AI Agent]]`（補上 alias）
+   - 修正 `ai-self-growth.md` 和 `index.md` 中的 cross-link
+
+2. **重複檔案刪除**：
+   - 移除 case-insensitive FS 造成的重複檔（AI-Self-Growth.md、Self-Correction.md）
+   - 從 Quartz 快取恢復了 ai-self-growth.md 和 self-correction.md
+
+3. **孤兒頁加入 index.md**：
+   - 新增 `karpathy-gist-llm-wiki`、`karpathy-skills`、`andrej-karpathy-ai-how` 到方法論區
+   - 其餘 7 個孤兒頁為 alias/redirect 頁，不需要加入 index
+
+4. **重複條目移除**：
+   - 移除 `hermes-agent` 在基礎設施表格中的重複行
+
+5. **Alias redirect 頁**（正常，不需修復）：
+   - MemPalace-mempalace → mempalace
+   - agent-reach → Panniantong-Agent-Reach
+   - opencli → jackwener-OpenCLI
+   - opensandbox → volcengine-OpenSandbox
+   - ppt-master → hugohe3-ppt-master
+   - rtk-ai-rtk → rtk
+   - waoowaoo → saturndec-waoowaoo
+
+### 未修復項目（需人工判斷或大量工作）
+
+- 27 個 raw 素材未被 wiki 引用（需要 compile）
+- 31 個專案頁缺少部分 9 區塊模板欄位
+- 43 個 wiki 頁面缺少 raw/ 來源引用（概念頁屬正常，專案頁需要補）
+- openclaw.md 缺少「是什麼」「核心特色」「怎麼用」「跟其他方案的關係」區塊
+- rag.md、document-parsing.md 缺少大部分 9 區塊模板欄位
