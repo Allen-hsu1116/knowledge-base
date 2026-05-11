@@ -162,13 +162,13 @@ title: 知識庫總覽
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
 | [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
 | [[HKUDS-Vibe-Trading]] | ⭐5,120 | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
 | [[saturndec-waoowaoo\|waoowaoo AI 影視 Studio]] | ⭐12,000 | AI, 短劇, 影片製作 | 2026-05-05 |
 | [[hugohe3-ppt-master\|PPT Master]] | ⭐11,300 | AI, PPT, 可編輯 | 2026-05-05 |
 | [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
-| [[anthropics-financial-services|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[HKUDS-DeepTutor]] | ⭐23,109 | AI Tutoring, RAG, AI Agent | 2026-05-04 |
 | [[daily-stock-analysis\|Daily Stock Analysis]] | ⭐34,945 | LLM, 股市分析, GitHub Actions | 2026-05-03 |
 | [[autoresearch]] | ⭐78,500 | AI Agent, AI Skills | 2026-05-03 |
