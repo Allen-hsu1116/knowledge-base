@@ -2,6 +2,10 @@
 
 > Karpathy 的自主 AI 研究專案：AI Agent 在單 GPU 上自動跑 LLM 訓練實驗，修改程式碼→訓練 5 分鐘→檢查→保留或丟棄→重複。program.md 就是超輕量 Skill。（詳細參考頁）
 
+## 專案資訊
+
+- **GitHub**: [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+
 ## 快速導航
 - 🛠 **Skill 概念** → [[agent-skills-ecosystem]]（program.md = SKILL.md 的前身）
 - 🧠 **學習閉環** → [[hermes-agent]]（Hermes 自動改進 vs AutoResearch 人類定義策略）

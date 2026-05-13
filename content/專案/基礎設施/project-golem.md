@@ -2,6 +2,10 @@
 
 > Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）
 
+## 專案資訊
+
+- **GitHub**: [Arvincreator/project-golem](https://github.com/Arvincreator/project-golem)
+
 ## 快速導航
 - 🧠 **人格與多代理** → [[agent-persona]]（InteractiveMultiAgent 圓桌討論）
 - 🛠 **技能系統** → [[agent-skills-ecosystem]]（自有技能 + Dashboard 管理）

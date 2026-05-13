@@ -2,6 +2,10 @@
 
 > Nous Research 自我改進 AI Agent，內建學習閉環：從經驗建立技能、技能自我改進、跨 session 記憶與使用者建模。（詳細參考頁）
 
+## 專案資訊
+
+- **GitHub**: [nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent)
+
 ## 快速導航
 - 🧠 **使用者建模** → [[agent-persona]]（Honcho dialectic user modeling）
 - 🛠 **Skill 標準** → [[agent-skills-ecosystem]]（相容 agentskills.io 開放標準）

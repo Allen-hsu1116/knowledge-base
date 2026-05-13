@@ -55,6 +55,8 @@ docker run -p 4000:4000 ghcr.io/berriai/litellm:main-latest
 MIT License（開源部分），有 Enterprise Tier
 
 ### 專案資訊
+
+- **GitHub**: [BerriAI/litellm](https://github.com/BerriAI/litellm)
 - ⭐ 20k+ stars
 - Y Combinator 公司（BerriAI）
 - Python SDK + Proxy Server

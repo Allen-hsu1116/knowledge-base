@@ -2,6 +2,10 @@
 
 > 領先的開源 RAG+Agent 引擎，深度文件理解 + 模板化分塊 + 接地引用，有 OpenClaw Skill 可直接操作。（詳細參考頁）
 
+## 專案資訊
+
+- **GitHub**: [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+
 ## 快速導航
 - 📚 **知識方法論** → [[llm-knowledge-base]]（RAG 是知識庫的工業級實作）
 - 📄 **文件解析** → [[docling]]（RAGFlow 支援 Docling 作為解析器）

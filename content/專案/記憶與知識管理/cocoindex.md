@@ -2,6 +2,10 @@
 
 > 增量索引引擎，為長期 Agent 提供持續新鮮的上下文。只跑 delta，不重跑全量。Python 宣告式 API + Rust 引擎。（詳細參考頁）
 
+## 專案資訊
+
+- **GitHub**: [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+
 ## 快速導航
 - 📚 **知識方法論** → [[llm-knowledge-base]]（增量 vs 全量編譯）
 - 🔄 **Agent 工作流** → [[AI-Agent]]（增量是 Agent 化的基礎設施需求）
