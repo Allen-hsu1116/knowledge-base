@@ -378,3 +378,12 @@ title: 整理記錄
 - **更新 index.md**: 應用與研究區新增 HiChunk
 - **更新 projects.md**: 記憶與知識管理區新增 HiChunk
 - **交叉連結**: RAG、文件解析、Knowledge Graph、cocoindex
+
+## [2026-05-13] ingest | DS4 + PDFCraft
+- **來源**: https://github.com/antirez/ds4, https://github.com/PDFCraftTool/pdfcraft
+- **新增概念頁**: ds4.md（DeepSeek V4 Flash 專用本地推論引擎）
+- **新增概念頁**: pdfcraft.md（瀏覽器端隱私優先 PDF 工具箱）
+- **新增 raw**: 2026-05-13-ds4.md, 2026-05-13-pdfcraft.md
+- **更新 index.md**: 核心區新增 DS4，應用與研究區新增 PDFCraft
+- **更新 projects.md**: 模型推論區新增 DS4，記憶與知識管理區新增 PDFCraft
+- **交叉連結**: DS4→LLM/llm-internals/Ollama/llama.cpp/vLLM, PDFCraft→文件解析/RAG/HiChunk/markitdown

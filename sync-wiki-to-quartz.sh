@@ -25,13 +25,13 @@ cp "$WIKI_DIR/projects.md" "$CONTENT_DIR/"
 
 # 4. 分類映射：檔名 → 目標資料夾
 # 概念 - 核心
-CONCEPT_CORE="AI-Agent LLM llm-internals Prompt-Engineering Token-Optimization"
+CONCEPT_CORE="AI-Agent LLM llm-internals ds4 Prompt-Engineering Token-Optimization"
 # 概念 - 工具與協議
 CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI sandbox"
 # 概念 - 方法論
 CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
 # 概念 - 應用與研究
-CONCEPT_APP="AI-Tutoring document-parsing hichunk rag self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
+CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
 
 # 專案 - Agent 框架與工具
 PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo"
