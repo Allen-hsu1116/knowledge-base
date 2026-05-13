@@ -162,10 +162,19 @@ title: 知識庫總覽
 | [[rtk\|RTK (Rust Token Killer)]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[litellm]] | ⭐45,703 | LLM, AI Gateway | 2026-05-03 |
+### 📖 學習資源
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
+| [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
+
 ### 📊 應用
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |
+| [[yikart-AiToEarn\|AiToEarn]] | ⭐11,864 | AI Agent, MCP, 內容變現 | 2026-05-13 |
 | [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
 | [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |

@@ -39,7 +39,7 @@ PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow
 # 專案 - 效能與壓縮
 PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters rtk-ai-rtk"
 # 專案 - 應用
-PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master anthropics-financial-services"
+PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master anthropics-financial-services HKUDS-AI-Trader yikart-AiToEarn"
 # 專案 - Skill 生態系
 PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos"
 # 專案 - 模型推論與部署
@@ -55,6 +55,10 @@ PROJ_EVO="EvoMap-evolver"
 
 # 影片
 VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction ai-self-growth flash-attention kv-cache positional-embedding-evolution"
+
+# 學習資源
+mkdir -p "$CONTENT_DIR/學習資源"
+PROJ_LEARN="rasbt-LLMs-from-scratch datawhalechina-hello-agents"
 
 # 5. 複製函數
 copy_to() {
@@ -82,12 +86,13 @@ for f in $PROJ_EVO; do copy_to "$f" "專案/Agent-自演化"; done
 for f in $PROJ_INFER; do copy_to "$f" "專案/模型推論與部署"; done
 for f in $PROJ_VEC; do copy_to "$f" "專案/向量資料庫"; done
 for f in $PROJ_MEDIA; do copy_to "$f" "專案/多媒體與爬蟲"; done
+for f in $PROJ_LEARN; do copy_to "$f" "學習資源"; done
 
 # 複製影片頁
 for f in $VIDEO; do copy_to "$f" "影片"; done
 
 # 6. 檢查孤兒頁（在 wiki/ 但沒被分類的）
-CLASSIFIED="$CONCEPT_CORE $CONCEPT_TOOLS $CONCEPT_METHOD $CONCEPT_APP $PROJ_AGENT $PROJ_MEM $PROJ_PERF $PROJ_APP $PROJ_SKILL $PROJ_INFRA $PROJ_EVO $PROJ_INFER $PROJ_VEC $PROJ_MEDIA $VIDEO"
+CLASSIFIED="$CONCEPT_CORE $CONCEPT_TOOLS $CONCEPT_METHOD $CONCEPT_APP $PROJ_AGENT $PROJ_MEM $PROJ_PERF $PROJ_APP $PROJ_SKILL $PROJ_INFRA $PROJ_EVO $PROJ_INFER $PROJ_VEC $PROJ_MEDIA $PROJ_LEARN $VIDEO"
 ORPHANS=""
 for f in "$WIKI_DIR"/*.md; do
   name=$(basename "$f" .md)

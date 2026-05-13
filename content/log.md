@@ -6,6 +6,24 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-13
+
+**Ingest + Compile**：
+1. GitHub: rasbt/LLMs-from-scratch — 從零開始用 PyTorch 實作 ChatGPT 等級的 LLM，Sebastian Raschka 著作官方程式碼庫（⭐93,785）
+2. GitHub: datawhalechina/hello-agents — Datawhale 社區出品系統性 AI Agent 學習教程，從理論到實戰（⭐48,233）
+3. GitHub: HKUDS/AI-Trader — 100% 全自動 Agent-Native 交易平台，AI Agent 直接參與金融市場（⭐16,611）
+4. GitHub: yikart/AiToEarn — 用 AI 賺錢的一站式內容變現平台，支援 10+ 社群平台（⭐11,864）
+
+**Compile**：
+- [[rasbt-LLMs-from-scratch]] ← 素材 1
+- [[datawhalechina-hello-agents]] ← 素材 2
+- [[HKUDS-AI-Trader]] ← 素材 3
+- [[yikart-AiToEarn]] ← 素材 4
+
+**排除**：apernet/hysteria（proxy 工具，非 LLM 相關）
+
+---
+
 ## 2026-05-11
 
 **Ingest + Compile**：
