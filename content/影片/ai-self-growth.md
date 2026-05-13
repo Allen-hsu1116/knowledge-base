@@ -1,7 +1,6 @@
 ---
 source: https://www.youtube.com/watch?v=s06mSAGN4gM
 date: 2026-05-11
-tags: [youtube, ai-self-growth, self-improvement, ai-safety, scaling, lee-hung-yi]
 author: 李宏毅 (Hung-yi Lee)
 channel: Hung-yi Lee
 video_date: 2026-05-10
