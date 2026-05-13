@@ -370,3 +370,11 @@ title: 整理記錄
 - 43 個 wiki 頁面缺少 raw/ 來源引用（概念頁屬正常，專案頁需要補）
 - openclaw.md 缺少「是什麼」「核心特色」「怎麼用」「跟其他方案的關係」區塊
 - rag.md、document-parsing.md 缺少大部分 9 區塊模板欄位
+
+## [2026-05-13] ingest | HiChunk 階層式文件分塊框架
+- **來源**: https://github.com/TencentCloudADP/hichunk
+- **新增概念頁**: hichunk.md（HiChunk 階層式文件分塊框架）
+- **新增 raw**: 2026-05-13-hichunk.md
+- **更新 index.md**: 應用與研究區新增 HiChunk
+- **更新 projects.md**: 記憶與知識管理區新增 HiChunk
+- **交叉連結**: RAG、文件解析、Knowledge Graph、cocoindex

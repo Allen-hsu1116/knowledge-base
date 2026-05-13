@@ -45,6 +45,7 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[thedotmack-claude-mem\|claude-mem]] | ⭐73,800 | 記憶, Claude Code, MCP | 2026-05-09 |
+| [[hichunk\|HiChunk]] | ⭐96 | RAG, 文件分塊, 階層式結構化 | 2026-05-13 |
 | [[run-llama-ParseBench]] | ⭐468 | 文件解析, AI Agent, 評測基準 | 2026-05-09 |
 | [[LeDat98-NexusRAG]] | ⭐297 | RAG, Knowledge Graph, 文件解析 | 2026-05-09 |
 | [[aiptimizer-TurboOCR]] | ⭐264 | OCR, 文件解析, GPU 加速 | 2026-05-09 |
