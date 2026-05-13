@@ -21,6 +21,7 @@ mkdir -p "$CONTENT_DIR/影片"
 # 3. 複製根目錄檔案
 cp "$WIKI_DIR/index.md" "$CONTENT_DIR/"
 cp "$WIKI_DIR/log.md" "$CONTENT_DIR/"
+cp "$WIKI_DIR/projects.md" "$CONTENT_DIR/"
 
 # 4. 分類映射：檔名 → 目標資料夾
 # 概念 - 核心

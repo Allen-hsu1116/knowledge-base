@@ -1,0 +1,180 @@
+---
+title: 專案索引
+---
+
+# 專案索引
+
+> 知識庫收錄的所有專案、工具和資源，按功能分類排列。
+
+---
+
+## 🤖 Agent 框架與工具
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[AutoGPT]] | ⭐184,119 | AI Agent, 自主規劃 | 2026-05-10 |
+| [[LangChain]] | ⭐136,262 | AI Agent, LLM, RAG | 2026-05-10 |
+| [[CrewAI]] | ⭐51,031 | AI Agent, 多 Agent 協作 | 2026-05-10 |
+| [[RightNow-AI-openfang]] | ⭐17,219 | AI Agent, MCP, Knowledge Graph | 2026-05-07 |
+| [[cft0808-edict]] | ⭐15,619 | AI Agent, AI Skills, MCP | 2026-05-07 |
+| [[lsdefine-GenericAgent]] | ⭐9,199 | AI Agent, 自演化, Token Optimization | 2026-05-06 |
+| [[holaboss-ai-holaOS]] | ⭐4,757 | AI Agent, 環境工程, 記憶連續性 | 2026-05-06 |
+| [[Panniantong-Agent-Reach\|Agent Reach]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
+| [[jackwener-OpenCLI\|OpenCLI]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
+| [[openai-codex-plugin-cc]] | ⭐17,527 | AI Agent, AI Skills, Coding Agent CLI | 2026-05-05 |
+| [[Gitlawb-openclaude]] | ⭐25,668 | Coding Agent CLI, AI Agent, MCP | 2026-05-04 |
+| [[affaan-m-everything-claude-code]] | ⭐172,098 | AI Agent, AI Skills, Prompt Security, Token Optimization | 2026-05-03 |
+| [[HKUDS-nanobot]] | ⭐41,527 | AI Agent, MCP | 2026-05-03 |
+| [[googleworkspace-cli]] | ⭐25,672 | AI Agent, MCP, AI Skills | 2026-05-03 |
+| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐37,928 | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
+| [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
+| [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
+| [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
+
+## 🔄 Agent 編排與記憶
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[ruvnet-ruflo\|Ruflo]] | ⭐47,000 | 多Agent編排, Swarm, 聯邦通訊 | 2026-05-09 |
+| [[upstash-context7\|Context7]] | ⭐54,800 | LLM 文件查詢, MCP | 2026-05-09 |
+| [[bytedance-deer-flow\|DeerFlow 2.0]] | ⭐66,100 | Agent 編排, 子Agent, 沙箱 | 2026-05-09 |
+| [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | — | Claude Code, 生產力, 自動化 | 2026-05-06 |
+
+## 🧠 記憶與知識管理
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[thedotmack-claude-mem\|claude-mem]] | ⭐73,800 | 記憶, Claude Code, MCP | 2026-05-09 |
+| [[run-llama-ParseBench]] | ⭐468 | 文件解析, AI Agent, 評測基準 | 2026-05-09 |
+| [[LeDat98-NexusRAG]] | ⭐297 | RAG, Knowledge Graph, 文件解析 | 2026-05-09 |
+| [[aiptimizer-TurboOCR]] | ⭐264 | OCR, 文件解析, GPU 加速 | 2026-05-09 |
+| [[flamehaven01-Flamehaven-Filesearch]] | ⭐100 | RAG, 搜尋引擎, 自架式 | 2026-05-09 |
+| [[pymupdf4llm]] | ⭐1,664 | RAG, 文件解析, OCR | 2026-05-08 |
+| [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
+| [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
+| [[safishamsi-graphify]] | ⭐41,860 | Knowledge Graph, RAG, MCP | 2026-05-04 |
+| [[volcengine-OpenViking]] | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
+| [[openviking\|OpenViking（概念頁）]] | — | Context Database, 檔案系統範式 | 2026-05-03 |
+| [[mempalace\|MemPalace]] | ⭐50,787 | AI Agent, MCP, 記憶, RAG, 知識圖譜 | 2026-05-03 |
+| [[ragflow]] | ⭐79,665 | RAG, AI Agent | 2026-05-03 |
+| [[docling]] | ⭐59,151 | RAG, 文件解析 | 2026-05-03 |
+| [[cocoindex]] | ⭐8,136 | RAG, 增量索引 | 2026-05-03 |
+
+## 🧠 模型推論與部署
+
+| 概念頁 | 說明 |
+|--------|------|
+| [[模型推論與部署]] | LLM 從訓練到服務：推論優化、部署架構、成本控制 |
+| [[flash-attention\|Flash Attention]] | 減少 GPU HBM↔SRAM 搬運次數 |
+| [[kv-cache\|KV Cache]] | 避免重算 K/V，衍生 GQA/MLA/Sliding Window |
+| [[positional-embedding-evolution\|位置編碼演進]] | Sinusoidal → ALiBi → RoPE |
+| [[rtk\|RTK]] | 減少 LLM token 消耗 60-90% |
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |
+| [[llama-cpp\|llama.cpp]] | ⭐109,260 | LLM, 推論加速, 本地部署 | 2026-05-10 |
+| [[sgl-project-sglang\|SGLang]] | ⭐27,589 | LLM, 推論加速, 多模態 | 2026-05-10 |
+| [[Ollama]] | ⭐171,080 | LLM, 本地部署 | 2026-05-10 |
+| [[vLLM]] | ⭐79,515 | LLM, 推論加速 | 2026-05-10 |
+| [[NVIDIA-TensorRT-LLM]] | ⭐13,598 | LLM, 推論加速, GPU 最佳化 | 2026-05-10 |
+
+## 🔍 向量資料庫
+
+| 概念頁 | 說明 |
+|--------|------|
+| [[向量資料庫]] | 儲存和檢索 embeddings 的專用資料庫，RAG 基礎設施 |
+| [[rag\|RAG]] | 檢索增強生成 |
+| [[mempalace\|MemPalace]] | 本地優先 AI 記憶系統（ChromaDB） |
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
+| [[Qdrant]] | ⭐31,189 | RAG, 向量資料庫 | 2026-05-10 |
+| [[Chroma]] | ⭐27,889 | RAG, 向量資料庫 | 2026-05-10 |
+
+## 🎯 多媒體與爬蟲
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
+| [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
+| [[web-crawling\|Web Crawling]] | — | 系統化瀏覽和收集網頁資料 | — |
+| [[web-scraping\|網頁爬取]] | — | 從網頁自動提取資料 | — |
+| [[網頁爬蟲]] | — | 網頁爬蟲與爬取技術總覽 | — |
+| [[語音辨識]] | — | ASR/TTS 技術和模型 | — |
+
+## ⚡ 效能與壓縮
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[gemma4-mtp-drafters]] | ⭐—（研究文章，非 GitHub 專案） | Token Optimization, LLM 推理加速 | 2026-05-09 |
+| [[AlexsJones-llmfit]] | ⭐25,403 | LLM, Token Optimization | 2026-05-07 |
+| [[tirth8205-code-review-graph]] | ⭐15,581 | Knowledge Graph, Token Optimization, MCP | 2026-05-07 |
+| [[rtk\|RTK (Rust Token Killer)]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
+| [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
+| [[litellm]] | ⭐45,703 | LLM, AI Gateway | 2026-05-03 |
+
+## 📖 學習資源
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
+| [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
+
+## 📊 應用
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |
+| [[yikart-AiToEarn\|AiToEarn]] | ⭐11,864 | AI Agent, MCP, 內容變現 | 2026-05-13 |
+| [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
+| [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
+| [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
+| [[HKUDS-Vibe-Trading]] | ⭐5,120 | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
+| [[saturndec-waoowaoo\|waoowaoo AI 影視 Studio]] | ⭐12,000 | AI, 短劇, 影片製作 | 2026-05-05 |
+| [[hugohe3-ppt-master\|PPT Master]] | ⭐11,300 | AI, PPT, 可編輯 | 2026-05-05 |
+| [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
+| [[HKUDS-DeepTutor]] | ⭐23,109 | AI Tutoring, RAG, AI Agent | 2026-05-04 |
+| [[daily-stock-analysis\|Daily Stock Analysis]] | ⭐34,945 | LLM, 股市分析, GitHub Actions | 2026-05-03 |
+| [[autoresearch]] | ⭐78,500 | AI Agent, AI Skills | 2026-05-03 |
+| [[ZhuLinsen-daily_stock_analysis]] | ⭐33,706 | LLM, AI Agent | 2026-05-03 |
+| [[santifer-career-ops]] | ⭐41,864 | AI Agent | 2026-05-03 |
+
+## 🔄 Agent 自演化
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[EvoMap-evolver]] | ⭐7,241 | AI Agent, GEP 協議, 自演化引擎 | 2026-05-06 |
+
+## 🛠 Skill 生態系
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[nidhinjs-prompt-master]] | ⭐7,257 | Prompt Engineering, Token Optimization | 2026-05-08 |
+| [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
+| [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
+| [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+
+## 🏗 基礎設施
+
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
+| [[obscura\|Obscura]] | ⭐11,146 | 隱私, Rust, 瀏覽器 | 2026-05-09 |
+| [[cubesandbox\|CubeSandbox]] | ⭐5,184 | 沙箱, Rust, 程式碼執行 | 2026-05-09 |
+| [[fireworks-tech-graph\|Fireworks Tech Graph]] | ⭐5,741 | Knowledge Graph, JavaScript | 2026-05-09 |
+| [[openmythos\|OpenMythos]] | ⭐12,286 | AI, 神話, Python | 2026-05-09 |
+| [[codeburn\|CodeBurn]] | ⭐5,885 | AI Skills, 程式碼優化 | 2026-05-09 |
+| [[printing-press]] | ⭐30+ | Prompt Engineering, 文件轉換 | 2026-05-09 |
+| [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
+| [[jo-inc-camofox-browser]] | ⭐4,203 | AI Agent, 瀏覽器自動化 | 2026-05-08 |
+| [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
+| [[volcengine-OpenSandbox\|OpenSandbox]] | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
+| [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
+| [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
+| [[visualization\|資料視覺化]] | — | 將數據轉為圖形表示 | — |
+| [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
+
+---
+
+_此頁由 daily-llm-trending 自動維護_
