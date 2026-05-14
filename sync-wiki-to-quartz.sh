@@ -42,7 +42,7 @@ PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafte
 # 專案 - 應用
 PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master anthropics-financial-services HKUDS-AI-Trader yikart-AiToEarn"
 # 專案 - Skill 生態系
-PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos"
+PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos obra-superpowers github-spec-kit K-Dense-AI-scientific-agent-skills"
 # 專案 - 模型推論與部署
 PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers NVIDIA-TensorRT-LLM sgl-project-sglang"
 # 專案 - 向量資料庫

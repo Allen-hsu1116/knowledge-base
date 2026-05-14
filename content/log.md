@@ -6,6 +6,22 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-14
+
+**Ingest + Compile**：
+1. GitHub: obra/superpowers — Agentic skills 框架與軟體開發方法論，TDD + subagent 驅動開發（⭐189,521）
+2. GitHub: github/spec-kit — GitHub 官方 Spec-Driven Development 工具組，規格驅動 AI coding agent（⭐98,382）
+3. GitHub: K-Dense-AI/scientific-agent-skills — 135 個科學研究技能，100+ 資料庫 + 70+ Python 套件（⭐21,122）
+
+**Compile**：
+- [[obra-superpowers]] ← 素材 1
+- [[github-spec-kit]] ← 素材 2
+- [[K-Dense-AI-scientific-agent-skills]] ← 素材 3
+
+**排除**：imthenachoman/How-To-Secure-A-Linux-Server（純 Linux 安全指南，非 LLM 相關）、apernet/hysteria（代理工具，非 LLM 相關）
+
+---
+
 ## 2026-05-13
 
 **Ingest + Compile**：

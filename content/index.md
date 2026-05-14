@@ -39,6 +39,9 @@ title: 知識庫總覽
 |------|------|
 | [[agent-persona\|AI Agent 人格設計]] | 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。 |
 | [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。 |
+| [[obra-superpowers\|Superpowers]] | Agentic skills 框架與軟體開發方法論，TDD + subagent 驅動開發（⭐189k）。 |
+| [[github-spec-kit\|Spec Kit]] | GitHub 官方 Spec-Driven Development 工具組，規格驅動 AI coding agent（⭐98k）。 |
+| [[K-Dense-AI-scientific-agent-skills\|Scientific Agent Skills]] | 135 個即插即用科學研究技能，支援 100+ 資料庫和 70+ Python 套件（⭐21k）。 |
 | [[cl4r1t4s\|CL4R1T4S]] | Prompt 越獄與安全研究：LLM 的 jailbreak 技術和防禦方法。 |
 | [[llm-knowledge-base\|LLM 知識庫系統]] | 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。 |
 | [[llm-knowledge-base-obsidian-claude-code\|LLM 知識庫中文報導]] | Claude Code + Obsidian 整理筆記！Karpathy 系統的中文完整拆解。 |
