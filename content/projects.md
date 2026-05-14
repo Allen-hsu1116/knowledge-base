@@ -124,6 +124,7 @@ title: 專案索引
 |------|-------|------|----------|
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
+| [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 
 ## 📊 應用
 

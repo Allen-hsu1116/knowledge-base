@@ -66,6 +66,13 @@ title: 知識庫總覽
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
 | [[self-rag\|Self-RAG]] | 讓 LLM 自己決定何時檢索、自我審查生成品質 — RAG 的反思進化版。ICLR 2024 Oral。 |
 
+### 🔬 從零理解 LLM
+
+| 概念 | 說明 |
+|------|------|
+| [[minimind\|MiniMind]] | 64M 參數從零訓練 LLM，2 小時完整流程，純 PyTorch 原生實現。 |
+| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 書籍+程式碼，逐章實作 LLM 每個組件，理論教學導向。 |
+
 ---
 
 ## 🎬 教學影片

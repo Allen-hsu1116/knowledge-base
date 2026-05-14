@@ -61,6 +61,11 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 - [[huggingface-transformers\|Hugging Face Transformers]] — 模型定義框架，100 萬+ 模型（⭐160K）
 - [[litellm]] — LLM Gateway，100+ Provider 統一 API（⭐45.7K）
 
+### 從零學 LLM
+
+- [[minimind|MiniMind]] — 64M 參數從零訓練 LLM，2 小時完整流程（⭐49.8K）
+- [[rasbt-LLMs-from-scratch|LLMs from Scratch]] — 書籍+程式碼，理論教學導向（⭐93.8K）
+
 ### Agent 框架
 
 - [[AutoGPT]] — 自主 Agent 框架，2023 年引爆 Agent 浪潮（⭐184K）
@@ -69,7 +74,7 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 
 ## 相關概念
 
-← [[AI-Agent]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]]
+← [[AI-Agent]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]] · [[minimind]]
 
 ---
 

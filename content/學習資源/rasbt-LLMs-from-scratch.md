@@ -24,6 +24,7 @@ date: 2026-05-13
 - [[llm-internals]] — LLM 內部機制深入探討
 - [[kv-cache]] — KV Cache 推論加速技術
 - [[flash-attention]] — Flash Attention 高效注意力機制
+- [[minimind|MiniMind]] — 64M 參數從零訓練 LLM 實作專案
 
 ## 詳細簡介
 
@@ -86,3 +87,12 @@ MIT License
 - [Amazon 購買連結](https://www.amazon.com/gp/product/1633437167)
 - [配套影片課程](https://www.manning.com/livevideo/master-and-build-large-language-models)
 - [續作：Build A Reasoning Model (From Scratch)](https://mng.bz/lZ5B)
+
+## 跟其他方案的關係
+
+| 專案 | 定位 | 參數量 | 特色 |
+|------|------|--------|------|
+| **LLMs from Scratch** | 書籍+程式碼，理論教學 | 各種規模 | 逐章實作、理論完整 |
+| [[minimind\|MiniMind]] | 從零訓練實作，完整流程 | 64M (Dense) / 198M (MoE) | 純 PyTorch、極低成本、全鏈路 |
+
+LLMs from Scratch 偏理論教學（書籍+Notebook），MiniMind 偏實作流程（2 小時從零訓練完整 LLM）。兩者互補：先讀 LLMs from Scratch 理解原理，再用 MiniMind 實際跑一遍完整訓練流程。

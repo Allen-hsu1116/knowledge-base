@@ -59,7 +59,7 @@ VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai
 
 # 學習資源
 mkdir -p "$CONTENT_DIR/學習資源"
-PROJ_LEARN="rasbt-LLMs-from-scratch datawhalechina-hello-agents"
+PROJ_LEARN="rasbt-LLMs-from-scratch datawhalechina-hello-agents minimind"
 
 # 5. 複製函數
 copy_to() {

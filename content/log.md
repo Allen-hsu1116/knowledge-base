@@ -9,6 +9,20 @@ title: 整理記錄
 ## 2026-05-14
 
 **Ingest + Compile**：
+1. GitHub: jingyaogong/minimind — 從零開始訓練 64M 參數的小型 LLM，單卡 3090 兩小時可復現，完整覆蓋 Pretrain→SFT→RLHF 全流程（⭐49,797）
+
+**Compile**：
+- [[minimind]] ← 素材 1
+- 更新 [[LLM]]：新增「從零學 LLM」區塊，加入 MiniMind 連結
+- 更新 [[rasbt-LLMs-from-scratch]]：新增「跟其他方案的關係」比較表，加入 MiniMind
+- 更新 [[index.md]]：新增「從零理解 LLM」區塊
+- 更新 [[projects.md]]：新增 MiniMind 到學習資源分類
+
+---
+
+## 2026-05-14
+
+**Ingest + Compile**：
 1. GitHub: obra/superpowers — Agentic skills 框架與軟體開發方法論，TDD + subagent 驅動開發（⭐189,521）
 2. GitHub: github/spec-kit — GitHub 官方 Spec-Driven Development 工具組，規格驅動 AI coding agent（⭐98,382）
 3. GitHub: K-Dense-AI/scientific-agent-skills — 135 個科學研究技能，100+ 資料庫 + 70+ Python 套件（⭐21,122）
