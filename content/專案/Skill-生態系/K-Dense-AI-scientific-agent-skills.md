@@ -6,7 +6,6 @@ stars: 21122
 language: Python
 created: 2025-10-19
 added: 2026-05-14
-tags: [agent-skills, scientific-computing, drug-discovery, bioinformatics, research]
 ---
 
 # Scientific Agent Skills

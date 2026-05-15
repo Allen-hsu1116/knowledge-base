@@ -6,7 +6,6 @@ stars: 98382
 language: Python
 created: 2025-08-21
 added: 2026-05-14
-tags: [spec-driven-development, coding-agent, AI-workflow, software-methodology]
 ---
 
 # Spec Kit

@@ -6,7 +6,6 @@ stars: 189521
 language: Shell
 created: 2025-10-09
 added: 2026-05-14
-tags: [coding-agent, agent-skills, TDD, software-methodology, subagent]
 ---
 
 # Superpowers
