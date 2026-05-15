@@ -36,7 +36,7 @@ CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag qmd self-rag 向�
 # 專案 - Agent 框架與工具
 PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo garrytan-gstack"
 # 專案 - 記憶與知識管理
-PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7 qmd"
+PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7"
 # 專案 - 效能與壓縮
 PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters rtk-ai-rtk"
 # 專案 - 應用
@@ -55,7 +55,7 @@ PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-
 PROJ_EVO="EvoMap-evolver"
 
 # 影片
-VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering self-correction ai-self-growth flash-attention kv-cache positional-embedding-evolution"
+VIDEO="agent-anatomy-openclaw context-engineering-basics ai-agent-interaction ai-agent-work-impact harness-engineering ai-self-growth flash-attention kv-cache positional-embedding-evolution"
 
 # 學習資源
 mkdir -p "$CONTENT_DIR/學習資源"
