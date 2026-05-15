@@ -21,8 +21,8 @@ title: 專案索引
 | [[cft0808-edict]] | ⭐15,619 | AI Agent, AI Skills, MCP | 2026-05-07 |
 | [[lsdefine-GenericAgent]] | ⭐9,199 | AI Agent, 自演化, Token Optimization | 2026-05-06 |
 | [[holaboss-ai-holaOS]] | ⭐4,757 | AI Agent, 環境工程, 記憶連續性 | 2026-05-06 |
-| [[Panniantong-Agent-Reach\|Agent Reach]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
-| [[jackwener-OpenCLI\|OpenCLI]] | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
+| [[Panniantong-Agent-Reach\|Agent Reach]]（[[agent-reach\|別名]]） | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
+| [[jackwener-OpenCLI\|OpenCLI]]（[[opencli\|別名]]） | ⭐18,700 | AI Agent, MCP, AI Skills | 2026-05-05 |
 | [[openai-codex-plugin-cc]] | ⭐17,527 | AI Agent, AI Skills, Coding Agent CLI | 2026-05-05 |
 | [[Gitlawb-openclaude]] | ⭐25,668 | Coding Agent CLI, AI Agent, MCP | 2026-05-04 |
 | [[affaan-m-everything-claude-code]] | ⭐172,098 | AI Agent, AI Skills, Prompt Security, Token Optimization | 2026-05-03 |
@@ -58,9 +58,9 @@ title: 專案索引
 | [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
 | [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
 | [[safishamsi-graphify]] | ⭐41,860 | Knowledge Graph, RAG, MCP | 2026-05-04 |
-| [[volcengine-OpenViking]] | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
+| [[volcengine-OpenViking]]（[[openviking\|概念頁]]） | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
 | [[openviking\|OpenViking（概念頁）]] | — | Context Database, 檔案系統範式 | 2026-05-03 |
-| [[mempalace\|MemPalace]] | ⭐50,787 | AI Agent, MCP, 記憶, RAG, 知識圖譜 | 2026-05-03 |
+| [[mempalace\|MemPalace]]（[[MemPalace-mempalace\|別名]]） | ⭐50,787 | AI Agent, MCP, 記憶, RAG, 知識圖譜 | 2026-05-03 |
 | [[ragflow]] | ⭐79,665 | RAG, AI Agent | 2026-05-03 |
 | [[docling]] | ⭐59,151 | RAG, 文件解析 | 2026-05-03 |
 | [[cocoindex]] | ⭐8,136 | RAG, 增量索引 | 2026-05-03 |
@@ -91,7 +91,7 @@ title: 專案索引
 |--------|------|
 | [[向量資料庫]] | 儲存和檢索 embeddings 的專用資料庫，RAG 基礎設施 |
 | [[rag\|RAG]] | 檢索增強生成 |
-| [[mempalace\|MemPalace]] | 本地優先 AI 記憶系統（ChromaDB） |
+| [[mempalace|MemPalace]]（[[MemPalace-mempalace|別名]]） | 本地優先 AI 記憶系統（ChromaDB） |
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
@@ -118,7 +118,7 @@ title: 專案索引
 | [[gemma4-mtp-drafters]] | ⭐—（研究文章，非 GitHub 專案） | Token Optimization, LLM 推理加速 | 2026-05-09 |
 | [[AlexsJones-llmfit]] | ⭐25,403 | LLM, Token Optimization | 2026-05-07 |
 | [[tirth8205-code-review-graph]] | ⭐15,581 | Knowledge Graph, Token Optimization, MCP | 2026-05-07 |
-| [[rtk\|RTK (Rust Token Killer)]] | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
+| [[rtk\|RTK (Rust Token Killer)]]（[[rtk-ai-rtk\|別名]]） | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[litellm]] | ⭐45,703 | LLM, AI Gateway | 2026-05-03 |
 
@@ -141,8 +141,8 @@ title: 專案索引
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
 | [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
 | [[HKUDS-Vibe-Trading]] | ⭐5,120 | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
-| [[saturndec-waoowaoo\|waoowaoo AI 影視 Studio]] | ⭐12,000 | AI, 短劇, 影片製作 | 2026-05-05 |
-| [[hugohe3-ppt-master\|PPT Master]] | ⭐11,300 | AI, PPT, 可編輯 | 2026-05-05 |
+| [[saturndec-waoowaoo\|waoowaoo AI 影視 Studio]]（[[waoowaoo\|別名]]） | ⭐12,000 | AI, 短劇, 影片製作 | 2026-05-05 |
+| [[hugohe3-ppt-master\|PPT Master]]（[[ppt-master\|別名]]） | ⭐11,300 | AI, PPT, 可編輯 | 2026-05-05 |
 | [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
 | [[HKUDS-DeepTutor]] | ⭐23,109 | AI Tutoring, RAG, AI Agent | 2026-05-04 |
 | [[daily-stock-analysis\|Daily Stock Analysis]] | ⭐34,945 | LLM, 股市分析, GitHub Actions | 2026-05-03 |
@@ -179,7 +179,7 @@ title: 專案索引
 | [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
 | [[jo-inc-camofox-browser]] | ⭐4,203 | AI Agent, 瀏覽器自動化 | 2026-05-08 |
 | [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
-| [[volcengine-OpenSandbox\|OpenSandbox]] | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
+| [[volcengine-OpenSandbox\|OpenSandbox]]（[[opensandbox\|別名]]） | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
 | [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
 | [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
 | [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
