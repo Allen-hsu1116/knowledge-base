@@ -34,7 +34,7 @@ CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-s
 CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag qmd self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
 
 # 專案 - Agent 框架與工具
-PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo garrytan-gstack"
+PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo garrytan-gstack llama-index"
 # 專案 - 記憶與知識管理
 PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7"
 # 專案 - 效能與壓縮

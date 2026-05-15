@@ -1,6 +1,6 @@
 # LangChain
 
-> LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。136K ⭐。
+> LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。137K ⭐。
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（LangChain 是 Agent 開發的主流框架之一）
@@ -17,8 +17,10 @@ LangChain 是 LLM 應用開發的事實標準框架，提供 Chain、Agent、RAG
 - **Agent**：讓 LLM 自主決定使用哪些工具（ReAct 模式）
 - **RAG**：內建檢索增強生成管線
 - **100+ 整合**：OpenAI、Anthropic、HuggingFace、各種向量資料庫等
+- **Deep Agents**：更高層 Agent 封裝，內建規劃、子 Agent、檔案系統等能力
 - **LangGraph**：低階 Agent 工作流框架，支援循環和狀態機
 - **LangSmith**：Agent 監控、除錯、評測平台
+- **100+ 整合**：OpenAI、Anthropic、HuggingFace、各種向量資料庫等
 
 ## 怎麼用
 
@@ -42,6 +44,7 @@ pip install langgraph
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
+| [[llama-index\|LlamaIndex]] | 資料/RAG 框架 | LangChain 偏工具串接和 Agent 編排，LlamaIndex 偏資料層 |
 | [[CrewAI]] | 多 Agent 協作 | CrewAI 完全獨立於 LangChain，專注角色分工 |
 | [[AutoGPT]] | 自主 Agent | LangChain 更偏工具串接，AutoGPT 更偏自主規劃 |
 | [[litellm]] | LLM Gateway | LangChain 可用 LiteLLM 統一呼叫多模型 |
@@ -49,7 +52,7 @@ pip install langgraph
 | [[Chroma]] / [[Qdrant]] / [[Milvus]] | 向量資料庫 | LangChain 內建這些向量資料庫的整合 |
 
 ## 相關概念
-← [[AI-Agent]] · [[LLM]] · [[rag]]
+← [[AI-Agent]] · [[LLM]] · [[rag]] · [[llama-index]]
 
 ## 來源
 - raw/2026-05-10-langchain.md
@@ -57,6 +60,6 @@ pip install langgraph
 ---
 
 - **GitHub**: https://github.com/langchain-ai/langchain
-- **Stars**: ⭐136,262
+- **Stars**: ⭐136,755
 - **License**: MIT
 - **收錄日期**: 2026-05-10

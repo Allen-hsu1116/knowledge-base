@@ -13,8 +13,9 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
+| [[llama-index\|LlamaIndex]] | ⭐49,422 | RAG, 資料框架, 文件解析 | 2026-05-15 |
 | [[AutoGPT]] | ⭐184,119 | AI Agent, 自主規劃 | 2026-05-10 |
-| [[LangChain]] | ⭐136,262 | AI Agent, LLM, RAG | 2026-05-10 |
+| [[LangChain]] | ⭐136,755 | AI Agent, LLM, RAG | 2026-05-10 |
 | [[CrewAI]] | ⭐51,031 | AI Agent, 多 Agent 協作 | 2026-05-10 |
 | [[RightNow-AI-openfang]] | ⭐17,219 | AI Agent, MCP, Knowledge Graph | 2026-05-07 |
 | [[cft0808-edict]] | ⭐15,619 | AI Agent, AI Skills, MCP | 2026-05-07 |

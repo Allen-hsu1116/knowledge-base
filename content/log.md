@@ -14,11 +14,19 @@ title: 整理記錄
 3. GitHub: roboflow/supervision ⭐38,878 — 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析
 4. GitHub: shiyu-coder/Kronos ⭐24,824 — 金融 K 線基礎模型，在 45+ 全球交易所資料上預訓練，AAAI 2026
 5. GitHub: tobi/qmd ⭐24,863 — 本地優先的混合搜尋引擎 CLI，BM25 + 向量 + LLM 重排序，支援 MCP Server
+6. GitHub: langchain-ai/langchain ⭐136,755 — 更新 Stars 數和 Deep Agents 資訊
+7. GitHub: run-llama/llama_index ⭐49,422 — LLM 資料框架，專注資料攝取、索引和查詢
 
 - 新增 wiki/qmd.md（概念頁）
+- 新增 wiki/llama-index.md（概念頁）
+- 更新 wiki/LangChain.md（Stars 更新 + Deep Agents + llama-index 比較）
 - 更新 wiki/rag.md 比較表和相關概念
 - 更新 wiki/index.md 概念區
-- 更新 wiki/projects.md 記憶與知識管理區塊
+- 更新 wiki/projects.md Agent 框架區塊
+- 修復 Quartz 重複檔名問題（qmd、self-correction）
+- 修復 sync 腳本 4 個孤兒頁分類
+- 修復 projects.md 日期排序
+- 所有首頁連結驗證通過
 
 **Compile**：
 - [[garrytan-gstack]] ← 素材 1
