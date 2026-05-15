@@ -6,6 +6,24 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-15
+
+**Ingest + Compile**：
+1. GitHub: garrytan/gstack ⭐96,762 — Garry Tan 的開源軟體工廠，把 Claude Code 變成 23 人虛擬工程團隊，支援 10 種 AI coding agent
+2. GitHub: ruvnet/RuView ⭐56,007 — 用 WiFi CSI 訊號實現穿牆人員偵測、生命體徵監測、姿態估計，ESP32-S3 邊緣裝置
+3. GitHub: roboflow/supervision ⭐38,878 — 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析
+4. GitHub: shiyu-coder/Kronos ⭐24,824 — 金融 K 線基礎模型，在 45+ 全球交易所資料上預訓練，AAAI 2026
+
+**Compile**：
+- [[garrytan-gstack]] ← 素材 1
+- [[ruvnet-RuView]] ← 素材 2
+- [[roboflow-supervision]] ← 素材 3
+- [[shiyu-coder-Kronos]] ← 素材 4
+- 更新 [[index.md]]：新增 4 個專案和相關概念
+- 更新 known-repos.json：新增 4 個 repo 和 6 個概念
+
+排除：Genymobile/scrcpy（非 AI/LLM 相關，純 Android 螢幕投影工具）
+
 ## 2026-05-14
 
 **Ingest + Compile**：

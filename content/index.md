@@ -40,6 +40,7 @@ title: 知識庫總覽
 | [[agent-persona\|AI Agent 人格設計]] | 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。 |
 | [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。 |
 | [[obra-superpowers\|Superpowers]] | Agentic skills 框架與軟體開發方法論，TDD + subagent 驅動開發（⭐189k）。 |
+| [[garrytan-gstack\|gstack]] | Garry Tan 的開源軟體工廠，把 Claude Code 變成 23 人虛擬工程團隊（⭐97k）。 |
 | [[github-spec-kit\|Spec Kit]] | GitHub 官方 Spec-Driven Development 工具組，規格驅動 AI coding agent（⭐98k）。 |
 | [[K-Dense-AI-scientific-agent-skills\|Scientific Agent Skills]] | 135 個即插即用科學研究技能，支援 100+ 資料庫和 70+ Python 套件（⭐21k）。 |
 | [[cl4r1t4s\|CL4R1T4S]] | Prompt 越獄與安全研究：LLM 的 jailbreak 技術和防禦方法。 |
@@ -64,6 +65,9 @@ title: 知識庫總覽
 | [[hichunk\|HiChunk]] | 騰訊優圖的階層式文件分塊框架，用微調 LLM 做多層級結構化 + Auto-Merge 檢索。 |
 | [[pdfcraft\|PDFCraft]] | 瀏覽器端隱私優先 PDF 工具箱，90+ 工具全在本地運作。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
+| [[roboflow-supervision\|supervision]] | 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析（⭐39k）。 |
+| [[ruvnet-RuView\|RuView]] | 用 WiFi 訊號實現穿牆人員偵測、生命體徵監測、姿態估計（⭐56k）。 |
+| [[shiyu-coder-Kronos\|Kronos]] | 金融 K 線基礎模型，45+ 交易所資料預訓練，AAAI 2026（⭐25k）。 |
 | [[self-rag\|Self-RAG]] | 讓 LLM 自己決定何時檢索、自我審查生成品質 — RAG 的反思進化版。ICLR 2024 Oral。 |
 
 ### 🔬 從零理解 LLM

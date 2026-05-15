@@ -30,6 +30,7 @@ title: 專案索引
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
 | [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
+| [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
 
 ## 🔄 Agent 編排與記憶
 
@@ -100,6 +101,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
 | [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
 | [[web-crawling\|Web Crawling]] | — | 系統化瀏覽和收集網頁資料 | — |
@@ -131,6 +133,7 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |
+| [[shiyu-coder-Kronos\|Kronos]] | ⭐24,824 | 金融預測, LLM 基礎模型, K 線 | 2026-05-15 |
 | [[yikart-AiToEarn\|AiToEarn]] | ⭐11,864 | AI Agent, MCP, 內容變現 | 2026-05-13 |
 | [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
@@ -178,6 +181,7 @@ title: 專案索引
 | [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
 | [[visualization\|資料視覺化]] | — | 將數據轉為圖形表示 | — |
 | [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
+| [[ruvnet-RuView\|RuView]] | ⭐56,007 | 嵌入式AI, WiFi感測, 電腦視覺 | 2026-05-15 |
 
 ---
 
