@@ -12,6 +12,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
 | [[AutoGPT]] | ⭐184,119 | AI Agent, 自主規劃 | 2026-05-10 |
 | [[LangChain]] | ⭐136,262 | AI Agent, LLM, RAG | 2026-05-10 |
 | [[CrewAI]] | ⭐51,031 | AI Agent, 多 Agent 協作 | 2026-05-10 |
@@ -30,7 +31,6 @@ title: 專案索引
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
 | [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
-| [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
 
 ## 🔄 Agent 編排與記憶
 
@@ -125,16 +125,16 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
-| [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 
 ## 📊 應用
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |
 | [[shiyu-coder-Kronos\|Kronos]] | ⭐24,824 | 金融預測, LLM 基礎模型, K 線 | 2026-05-15 |
+| [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |
 | [[yikart-AiToEarn\|AiToEarn]] | ⭐11,864 | AI Agent, MCP, 內容變現 | 2026-05-13 |
 | [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
@@ -168,6 +168,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ruvnet-RuView\|RuView]] | ⭐56,007 | 嵌入式AI, WiFi感測, 電腦視覺 | 2026-05-15 |
 | [[obscura\|Obscura]] | ⭐11,146 | 隱私, Rust, 瀏覽器 | 2026-05-09 |
 | [[cubesandbox\|CubeSandbox]] | ⭐5,184 | 沙箱, Rust, 程式碼執行 | 2026-05-09 |
 | [[fireworks-tech-graph\|Fireworks Tech Graph]] | ⭐5,741 | Knowledge Graph, JavaScript | 2026-05-09 |
@@ -179,10 +180,9 @@ title: 專案索引
 | [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
 | [[volcengine-OpenSandbox\|OpenSandbox]] | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
 | [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
+| [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
 | [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
 | [[visualization\|資料視覺化]] | — | 將數據轉為圖形表示 | — |
-| [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
-| [[ruvnet-RuView\|RuView]] | ⭐56,007 | 嵌入式AI, WiFi感測, 電腦視覺 | 2026-05-15 |
 
 ---
 

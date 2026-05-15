@@ -34,13 +34,13 @@ CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-s
 CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag qmd self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
 
 # 專案 - Agent 框架與工具
-PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo"
+PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo garrytan-gstack"
 # 專案 - 記憶與知識管理
 PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7 qmd"
 # 專案 - 效能與壓縮
 PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters rtk-ai-rtk"
 # 專案 - 應用
-PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master anthropics-financial-services HKUDS-AI-Trader yikart-AiToEarn"
+PROJ_APP="santifer-career-ops ZhuLinsen-daily_stock_analysis HKUDS-DeepTutor saturndec-waoowaoo hugohe3-ppt-master autoresearch virattt-dexter HKUDS-Vibe-Trading Narcooo-inkos Imbad0202-academic-research-skills daily-stock-analysis waoowaoo ppt-master anthropics-financial-services HKUDS-AI-Trader yikart-AiToEarn shiyu-coder-Kronos"
 # 專案 - Skill 生態系
 PROJ_SKILL="sickn33-antigravity-awesome-skills heygen-com-hyperframes open-design nidhinjs-prompt-master addyosmani-agent-skills google-skills agency-agents-144-personas openmythos obra-superpowers github-spec-kit K-Dense-AI-scientific-agent-skills"
 # 專案 - 模型推論與部署
@@ -48,9 +48,9 @@ PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers NVIDIA-TensorRT-LLM s
 # 專案 - 向量資料庫
 PROJ_VEC="Milvus Qdrant Chroma"
 # 專案 - 多媒體與爬蟲
-PROJ_MEDIA="Whisper Crawl4AI"
+PROJ_MEDIA="Whisper Crawl4AI roboflow-supervision"
 # 專案 - 基礎設施
-PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura agent-reach opencli opensandbox claude-code-boris-cherny-advanced-techniques"
+PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura agent-reach opencli opensandbox claude-code-boris-cherny-advanced-techniques ruvnet-RuView"
 # 專案 - Agent 自演化
 PROJ_EVO="EvoMap-evolver"
 
