@@ -115,6 +115,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jieba\|jieba 結巴分詞]] | ⭐34,952 | NLP, 中文分詞, 關鍵詞提取 | 2026-05-16 |
+| [[nltk\|NLTK]] | ⭐14,500 | NLP, 分詞, 詞性標注, 語料庫 | 2026-05-16 |
 | [[gemma4-mtp-drafters]] | ⭐—（研究文章，非 GitHub 專案） | Token Optimization, LLM 推理加速 | 2026-05-09 |
 | [[AlexsJones-llmfit]] | ⭐25,403 | LLM, Token Optimization | 2026-05-07 |
 | [[tirth8205-code-review-graph]] | ⭐15,581 | Knowledge Graph, Token Optimization, MCP | 2026-05-07 |

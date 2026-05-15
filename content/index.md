@@ -32,6 +32,8 @@ title: 知識庫總覽
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
+| [[jieba\|jieba 結巴分詞]] | Python 最流行的中文分詞套件，四種分詞模式 + 關鍵詞提取 + 詞性標注（⭐35k）。 |
+| [[nltk\|NLTK]] | Python 自然語言處理工具包，50+ 語料庫，分詞/標注/詞幹提取/句法分析（⭐14.5k）。 |
 
 ### 🛠 方法論
 

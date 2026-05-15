@@ -449,3 +449,11 @@ title: 整理記錄
 - **更新 index.md**: 核心區新增 DS4，應用與研究區新增 PDFCraft
 - **更新 projects.md**: 模型推論區新增 DS4，記憶與知識管理區新增 PDFCraft
 - **交叉連結**: DS4→LLM/llm-internals/Ollama/llama.cpp/vLLM, PDFCraft→文件解析/RAG/HiChunk/markitdown
+
+## 2026-05-16 jieba + NLTK 新增
+- 新增 jieba（⭐34,952）中文分詞套件
+- 新增 NLTK（⭐14,500）自然語言處理工具包
+- 新增到 projects.md（效能與壓縮分類）、index.md（工具與協議）
+- 更新 known-repos.json、sync-wiki-to-quartz.sh
+- 將 cron 搜尋門檻從 ⭐100 提高到 ⭐500
+- 統一 wiki 格式（進行中，子代理處理 25 個 cron 格式頁面）

@@ -27,7 +27,7 @@ cp "$WIKI_DIR/projects.md" "$CONTENT_DIR/"
 # 概念 - 核心
 CONCEPT_CORE="AI-Agent LLM llm-internals ds4 Prompt-Engineering Token-Optimization"
 # 概念 - 工具與協議
-CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI sandbox"
+CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI sandbox jieba nltk"
 # 概念 - 方法論
 CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
 # 概念 - 應用與研究
