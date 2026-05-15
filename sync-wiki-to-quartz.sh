@@ -31,12 +31,12 @@ CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI s
 # 概念 - 方法論
 CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
 # 概念 - 應用與研究
-CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
+CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag qmd self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
 
 # 專案 - Agent 框架與工具
 PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo"
 # 專案 - 記憶與知識管理
-PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7"
+PROJ_MEM="mempalace safishamsi-graphify volcengine-OpenViking openviking ragflow docling cocoindex microsoft-markitdown datalab-to-chandra tirth8205-code-review-graph pymupdf4llm run-llama-ParseBench LeDat98-NexusRAG aiptimizer-TurboOCR flamehaven01-Flamehaven-Filesearch MemPalace-mempalace thedotmack-claude-mem upstash-context7 qmd"
 # 專案 - 效能與壓縮
 PROJ_PERF="JuliusBrussee-caveman rtk litellm AlexsJones-llmfit gemma4-mtp-drafters rtk-ai-rtk"
 # 專案 - 應用

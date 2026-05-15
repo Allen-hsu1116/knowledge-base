@@ -65,6 +65,7 @@ title: 知識庫總覽
 | [[hichunk\|HiChunk]] | 騰訊優圖的階層式文件分塊框架，用微調 LLM 做多層級結構化 + Auto-Merge 檢索。 |
 | [[pdfcraft\|PDFCraft]] | 瀏覽器端隱私優先 PDF 工具箱，90+ 工具全在本地運作。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
+| [[qmd\|QMD]] | 本地優先的混合搜尋引擎，BM25 + 向量 + LLM 重排序，Tobi Lütke 開發（⭐24.9k）。 |
 | [[roboflow-supervision\|supervision]] | 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析（⭐39k）。 |
 | [[ruvnet-RuView\|RuView]] | 用 WiFi 訊號實現穿牆人員偵測、生命體徵監測、姿態估計（⭐56k）。 |
 | [[shiyu-coder-Kronos\|Kronos]] | 金融 K 線基礎模型，45+ 交易所資料預訓練，AAAI 2026（⭐25k）。 |

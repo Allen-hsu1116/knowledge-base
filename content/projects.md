@@ -45,6 +45,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[qmd\|QMD]] | ⭐24,863 | RAG, 本地搜尋引擎, MCP | 2026-05-15 |
 | [[hichunk\|HiChunk]] | ⭐96 | RAG, 文件分塊, 階層式結構化 | 2026-05-13 |
 | [[pdfcraft\|PDFCraft]] | ⭐5,771 | 文件解析, PDF, 隱私優先 | 2026-05-13 |
 | [[thedotmack-claude-mem\|claude-mem]] | ⭐73,800 | 記憶, Claude Code, MCP | 2026-05-09 |

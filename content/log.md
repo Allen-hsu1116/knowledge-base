@@ -13,6 +13,12 @@ title: 整理記錄
 2. GitHub: ruvnet/RuView ⭐56,007 — 用 WiFi CSI 訊號實現穿牆人員偵測、生命體徵監測、姿態估計，ESP32-S3 邊緣裝置
 3. GitHub: roboflow/supervision ⭐38,878 — 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析
 4. GitHub: shiyu-coder/Kronos ⭐24,824 — 金融 K 線基礎模型，在 45+ 全球交易所資料上預訓練，AAAI 2026
+5. GitHub: tobi/qmd ⭐24,863 — 本地優先的混合搜尋引擎 CLI，BM25 + 向量 + LLM 重排序，支援 MCP Server
+
+- 新增 wiki/qmd.md（概念頁）
+- 更新 wiki/rag.md 比較表和相關概念
+- 更新 wiki/index.md 概念區
+- 更新 wiki/projects.md 記憶與知識管理區塊
 
 **Compile**：
 - [[garrytan-gstack]] ← 素材 1
