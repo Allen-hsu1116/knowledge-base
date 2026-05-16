@@ -6,6 +6,19 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-16
+
+**Ingest**：
+1. GitHub: czlonkowski/n8n-mcp ⭐20,896 — MCP server for n8n，讓 AI 助手存取 1,650 個工作流節點 + 2,352 模板
+2. GitHub: tinyhumansai/openhuman ⭐9,051 — 開源個人 AI 助手桌面應用，118+ 整合 + Memory Tree + TokenJuice
+3. GitHub: supertone-inc/supertonic ⭐6,043 — 裝置端多語言 TTS 系統，ONNX Runtime 本機推論，31 種語言
+
+- 新增 wiki/czlonkowski-n8n-mcp.md
+- 新增 wiki/tinyhumansai-openhuman.md
+- 新增 wiki/supertone-inc-supertonic.md
+- 更新 known-repos.json（+3 repos, +3 concepts）
+- 更新 wiki/index.md
+
 ## 2026-05-15
 
 **Ingest + Compile**：

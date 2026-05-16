@@ -32,6 +32,8 @@ title: 知識庫總覽
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
+| [[czlonkowski-n8n-mcp\|n8n-MCP]] | MCP server for n8n，讓 AI 助手存取 1,650 個工作流節點 + 2,352 模板（⭐21k）。 |
+| [[tinyhumansai-openhuman\|OpenHuman]] | 開源個人 AI 助手桌面應用，118+ 整合 + Memory Tree + TokenJuice（⭐9.1k）。 |
 | [[jieba\|jieba 結巴分詞]] | Python 最流行的中文分詞套件，四種分詞模式 + 關鍵詞提取 + 詞性標注（⭐35k）。 |
 | [[nltk\|NLTK]] | Python 自然語言處理工具包，50+ 語料庫，分詞/標注/詞幹提取/句法分析（⭐14.5k）。 |
 
@@ -70,6 +72,7 @@ title: 知識庫總覽
 | [[qmd\|QMD]] | 本地優先的混合搜尋引擎，BM25 + 向量 + LLM 重排序，Tobi Lütke 開發（⭐24.9k）。 |
 | [[llama-index\|LlamaIndex]] | LLM 資料框架，專注資料攝取、索引和查詢，讓 LLM 連接私有資料（⭐49k）。 |
 | [[roboflow-supervision\|supervision]] | 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析（⭐39k）。 |
+| [[supertone-inc-supertonic\|Supertonic]] | 裝置端多語言 TTS 系統，ONNX Runtime 本機推論，31 種語言（⭐6k）。 |
 | [[ruvnet-RuView\|RuView]] | 用 WiFi 訊號實現穿牆人員偵測、生命體徵監測、姿態估計（⭐56k）。 |
 | [[shiyu-coder-Kronos\|Kronos]] | 金融 K 線基礎模型，45+ 交易所資料預訓練，AAAI 2026（⭐25k）。 |
 | [[self-rag\|Self-RAG]] | 讓 LLM 自己決定何時檢索、自我審查生成品質 — RAG 的反思進化版。ICLR 2024 Oral。 |
