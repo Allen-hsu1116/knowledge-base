@@ -45,6 +45,7 @@ Coding-Agent-CLI.md
 Context-Database.md
 Knowledge-Graph.md
 MCP.md
+embedded-AI.md
 "
 
 # --- 概念/方法論 ---
@@ -99,6 +100,8 @@ agency-agents-144-personas.md
 openclaw.md
 czlonkowski-n8n-mcp.md
 tinyhumansai-openhuman.md
+agent-reach.md
+opencli.md
 "
 
 # --- 專案/Agent-編排與記憶 ---
