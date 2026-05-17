@@ -57,7 +57,7 @@ title: 整理記錄
 - [[ruvnet-RuView]] ← 素材 2
 - [[roboflow-supervision]] ← 素材 3
 - [[shiyu-coder-Kronos]] ← 素材 4
-- 更新 [[index.md]]：新增 4 個專案和相關概念
+- 更新 index.md：新增 4 個專案和相關概念
 - 更新 known-repos.json：新增 4 個 repo 和 6 個概念
 
 排除：Genymobile/scrcpy（非 AI/LLM 相關，純 Android 螢幕投影工具）
@@ -71,8 +71,8 @@ title: 整理記錄
 - [[minimind]] ← 素材 1
 - 更新 [[LLM]]：新增「從零學 LLM」區塊，加入 MiniMind 連結
 - 更新 [[rasbt-LLMs-from-scratch]]：新增「跟其他方案的關係」比較表，加入 MiniMind
-- 更新 [[index.md]]：新增「從零理解 LLM」區塊
-- 更新 [[projects.md]]：新增 MiniMind 到學習資源分類
+- 更新 index.md：新增「從零理解 LLM」區塊
+- 更新 projects.md：新增 MiniMind 到學習資源分類
 
 ---
 
@@ -142,7 +142,7 @@ title: 整理記錄
 **Lint**（知識庫定期掃描）：
 
 修復問題：
-1. **斷掉的 cross-link**：Knowledge-Graph.md 中的 `[[]]` 空連結 → 改為 `[[WikiLink]]`
+1. **斷掉的 cross-link**：Knowledge-Graph.md 中的空連結 → 改為文字說明（非 WikiLink）
 2. **重複段落**：網頁爬蟲.md 有重複的「爬蟲核心流程」和「AI Agent 的爬蟲需求」→ 合併去重
 3. **Stars 欄位更新**：
    - addyosmani-agent-skills：⭐— → ⭐37,914
@@ -493,11 +493,11 @@ title: 整理記錄
    - printing-press.md（Markdown 轉書籍 CLI 工具，⭐30+）
    - embedded-AI.md（邊緣裝置 AI 概念頁）
 
-2. **修復 [[LlamaIndex]] 大小寫**：run-llama-ParseBench.md 中 `[[LlamaIndex]]` → `[[llama-index|LlamaIndex]]`
+2. **修復 LlamaIndex 大小寫**：run-llama-ParseBench.md 中 `LlamaIndex` 連結 → `llama-index|LlamaIndex`
 
 3. **AI-video-generation 加入 index.md**：加入生成式 AI 區塊
 
-4. **確認 [[WikiLink]] 為範例**：Knowledge-Graph.md 中 `` `[[WikiLink]]` `` 是代碼格式的範例說明，非斷連結
+4. **確認 WikiLink 為範例**：Knowledge-Graph.md 中的 WikiLink 連結是代碼格式的範例說明，非斷連結
 
 ### P1 修復（摘要補齊）
 - AI-video-generation.md ✅
