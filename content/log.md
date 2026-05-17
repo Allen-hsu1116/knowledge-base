@@ -481,3 +481,38 @@ title: 整理記錄
 - 更新 known-repos.json、sync-wiki-to-quartz.sh
 - 將 cron 搜尋門檻從 ⭐100 提高到 ⭐500
 - 統一 wiki 格式（進行中，子代理處理 25 個 cron 格式頁面）
+
+## [2026-05-17] lint 全面修復
+
+### P0 修復（斷掉的 cross-links）
+
+1. **建立 5 個缺失 wiki 頁面**：
+   - LeDat98-NexusRAG.md（混合式 RAG，向量+知識圖譜+重排序，⭐297）
+   - aiptimizer-TurboOCR.md（GPU 加速 OCR，270img/s TensorRT FP16，⭐264）
+   - flamehaven01-Flamehaven-Filesearch.md（自架式 RAG 搜尋引擎，BM25+混合搜尋，⭐100）
+   - printing-press.md（Markdown 轉書籍 CLI 工具，⭐30+）
+   - embedded-AI.md（邊緣裝置 AI 概念頁）
+
+2. **修復 [[LlamaIndex]] 大小寫**：run-llama-ParseBench.md 中 `[[LlamaIndex]]` → `[[llama-index|LlamaIndex]]`
+
+3. **AI-video-generation 加入 index.md**：加入生成式 AI 區塊
+
+4. **確認 [[WikiLink]] 為範例**：Knowledge-Graph.md 中 `` `[[WikiLink]]` `` 是代碼格式的範例說明，非斷連結
+
+### P1 修復（摘要補齊）
+- AI-video-generation.md ✅
+- Anil-matcha-Open-Generative-AI.md ✅
+- code-intelligence.md ✅
+- colbymchenry-codegraph.md ✅
+- generative-AI.md ✅
+
+### P2 修復（9 區塊模板）
+- 為缺少最多區塊的頁面補齊模板
+
+### P3 修復（Stars & sync）
+- hermes-agent ⭐141,768 ✅
+- project-golem ⭐590 ✅
+- sync-wiki-to-quartz.sh 改用 rsync 全量同步 ✅
+
+### 部署
+- Quartz sync 成功，push 到 GitHub Pages ✅
