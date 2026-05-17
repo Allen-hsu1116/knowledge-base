@@ -10,6 +10,18 @@ video_date: 2026-05-10
 
 > AI 能否不依賴人類而自行成長？「跨越盧比孔河」的不可逆轉折點在哪？— 李宏毅 2026 新作
 
+## 核心內容
+
+AI 自我成長（AI Self-Growth）探討的是 AI 能否在不依賴人類的情況下持續提升自身能力。這個問題的核心是「盧比孔河」比喻：一旦 AI 能創造比自己更強的 AI，人類就不再是必要角色，技術爆炸將不可逆。
+
+李宏毅將 AI 自我成長拆解為四個層次：
+1. **Self-Training**：AI 用自己的修正結果當訓練資料
+2. **Self-Defined Loss**：AI 自己定義獎勵函數（但可能引入更強的外部模型）
+3. **Self-Defined Loss Methods**：AI 用自己當 loss（entropy minimization、ensemble、certainty）
+4. **Proposer-Solver-Verifier**：AI 自己出題、解題、批改
+
+2026 年 5 月的結論：AI 還沒跨越盧比孔河。自我定義 loss 訓練自己前期有效但最終會壞掉；自己出題自己解有天花板且可能產生不良行為；強 AI 訓練弱 AI 可行但學生不會超越老師。人類仍然在每個環節都有介入。
+
 ## 快速導航
 - 🔄 **自我修正** → [[self-correction|Self-Correction 自我修正]]（自我修正是自我成長的前一步：先能修正，才能成長）
 - 🧠 **LLM 底層** → [[llm-internals]]（推論加速技術是模型自我最佳化的基礎）
@@ -167,6 +179,17 @@ AI 自我成長不是二選一，而是一個**人類漸漸放手**的過程：
 - **AI Agent 對工作衝擊** → [[ai-agent-work-impact]]：自我成長的 AI 將大幅加速對工作的衝擊
 - **Harness Engineering** → [[harness-engineering]]：人類引導 AI 的方法，可能是延緩「跨越盧比孔河」的關鍵
 - **Context Engineering** → [[context-engineering-basics]]：管理 LLM 看到的內容，是 harness 設計的核心
+
+## 相關概念
+
+← [[self-correction]] · [[AI-Agent]] · [[llm-internals]] · [[ai-agent-work-impact]] · [[context-engineering-basics]] · [[harness-engineering]]
+
+- **[[self-correction|Self-Correction 自我修正]]**：自我修正是自我成長的前一步——先能修正，才能成長
+- **[[AI-Agent]]**：Agent 自主性的終極問題就是自我成長
+- **[[llm-internals|LLM 底層]]**：推論加速技術是模型自我最佳化的基礎
+- **[[ai-agent-work-impact|AI Agent 對工作衝擊]]**：自我成長的 AI 將大幅加速對工作的衝擊
+- **[[harness-engineering|Harness Engineering]]**：人類引導 AI 的方法，可能是延緩「跨越盧比孔河」的關鍵
+- **[[context-engineering-basics|Context Engineering]]**：管理 LLM 看到的內容，是 harness 設計的核心
 
 ## 關鍵論文
 

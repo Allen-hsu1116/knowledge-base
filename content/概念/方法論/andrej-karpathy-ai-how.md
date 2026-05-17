@@ -7,6 +7,27 @@ date: 2026-04-28
 
 > 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
 
+## 核心內容
+
+Andrej Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法，核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。2026 年 4 月，Nick Spisak 拆解了 Karpathy 的方法，簡化為三個資料夾 + 一份 CLAUDE.md 設定檔的架構。
+
+### 三層架構
+
+- **raw/**：原始素材暫存區（文章、筆記、截圖、PDF），AI 讀但不改
+- **wiki/**：AI 整理後的知識庫，由 AI 全權維護，每個主題一份 .md
+- **outputs/**：AI 產出的回答、報告、分析
+
+### 關鍵原則
+
+1. **不整理**——人不擅長預先分類，AI 能秒級完成交叉比對
+2. **Schema 品質決定一切**——CLAUDE.md 寫清楚規則是唯一的前期投入
+3. **錯誤會複利**——AI 寫的錯存回知識庫會滾雪球，定期健康檢查是必要步驟
+4. **工具不是重點**——資料夾結構和設定檔才是核心
+
+### 與我們知識庫的關係
+
+我們的知識庫系統（raw→wiki→lint→compile）正是 Karpathy 方法的完整實作：raw 是原始素材，wiki 是 AI 整理後的概念筆記，CLAUDE.md（AGENTS.md）是 Schema。差異在於我們多了 lint 層做品質檢查和交叉連結。
+
 **來源**: 數位時代 BusinessNext
 **日期**: 2026.04.15
 **作者**: 李先泰
@@ -100,7 +121,20 @@ my-knowledge-base/
 - [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
 - [[agent-skills-ecosystem|Agent Skills 生態系]]
 
+## 相關概念
+
+- [[llm-knowledge-base|LLM 知識庫方法]] — 我們實作的知識庫系統，就是 Karpathy 方法的延伸
+- [[claude-code-boris-cheny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
+- [[agent-skills-ecosystem|Agent Skills 生態系]] — Skills 和知識庫是 Agent 的兩大支柱
+- [[MemPalace-mempalace|MemPalace]] — 另一種記憶系統實作，不改寫原文
+- [[context-engineering-basics|Context Engineering]] — 管理 LLM 看到的內容，是知識庫設計的核心
+- [[karpathy-skills|Karpathy Skills]] — Karpathy 的其他 AI 觀點
+
 ## 參考資料
 
 - [Nick Spisak X 貼文](https://x.com/nickspisak_/status/2040448463540830705)
 - [數位時代報導](https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how)
+- [Karpathy LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+## 來源
+- raw/2026-04-28-karpathy-ai-how.md

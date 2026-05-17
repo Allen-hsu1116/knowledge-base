@@ -91,3 +91,11 @@ MCP 統一了這些介面，讓工具開發者只需實作一次，就能被所�
 ---
 
 _此頁由 daily-llm-trending 自動維護_
+
+## 來源
+
+- raw/2026-05-09-mcp.md
+- [Model Context Protocol 官方規範](https://modelcontextprotocol.io/)
+- [Anthropic MCP 公告](https://www.anthropic.com/news/model-context-protocol)
+- [MCP Wikipedia](https://en.wikipedia.org/wiki/Model_Context_Protocol)
+- [MCP GitHub](https://github.com/modelcontextprotocol)
