@@ -12,6 +12,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
+| [[tinyhumansai-openhuman\|OpenHuman]] | ⭐9,051 | AI Agent, MCP, 記憶 | 2026-05-16 |
 | [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
 | [[llama-index\|LlamaIndex]] | ⭐49,422 | RAG, 資料框架, 文件解析 | 2026-05-15 |
 | [[AutoGPT]] | ⭐184,119 | AI Agent, 自主規劃 | 2026-05-10 |
@@ -49,6 +51,7 @@ title: 專案索引
 | [[qmd\|QMD]] | ⭐24,863 | RAG, 本地搜尋引擎, MCP | 2026-05-15 |
 | [[hichunk\|HiChunk]] | ⭐96 | RAG, 文件分塊, 階層式結構化 | 2026-05-13 |
 | [[pdfcraft\|PDFCraft]] | ⭐5,771 | 文件解析, PDF, 隱私優先 | 2026-05-13 |
+| [[self-rag\|Self-RAG]] | ⭐2,377 | RAG, 自我反思, 研究 | 2026-05-11 |
 | [[thedotmack-claude-mem\|claude-mem]] | ⭐73,800 | 記憶, Claude Code, MCP | 2026-05-09 |
 | [[run-llama-ParseBench]] | ⭐468 | 文件解析, AI Agent, 評測基準 | 2026-05-09 |
 | [[LeDat98-NexusRAG]] | ⭐297 | RAG, Knowledge Graph, 文件解析 | 2026-05-09 |
@@ -103,6 +106,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
+| [[supertone-inc-supertonic\|Supertonic]] | ⭐6,043 | TTS, 邊緣裝置, 語音合成 | 2026-05-16 |
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
 | [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
@@ -162,6 +167,10 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[colbymchenry-codegraph\|CodeGraph]] | ⭐2,530 | 程式碼智慧, Knowledge Graph, MCP | 2026-05-17 |
+| [[obra-superpowers\|Superpowers]] | ⭐189,521 | AI Skills, AI Agent, 方法論 | 2026-05-14 |
+| [[github-spec-kit\|Spec Kit]] | ⭐98,382 | AI Skills, Coding Agent CLI, Spec-Driven | 2026-05-14 |
+| [[K-Dense-AI-scientific-agent-skills\|Scientific Agent Skills]] | ⭐21,122 | AI Skills, AI Agent, 科學研究 | 2026-05-14 |
 | [[nidhinjs-prompt-master]] | ⭐7,257 | Prompt Engineering, Token Optimization | 2026-05-08 |
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
