@@ -19,7 +19,6 @@ title: 知識庫總覽
 | [[AI-Agent\|AI Agent]] | 能自主執行任務的 AI 系統，含工具使用、記憶、規劃、工作流趨勢。 |
 | [[LLM]] | 大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。 |
 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
-| [[ds4\|DS4]] | antirez 的 DeepSeek V4 Flash 專用本地推論引擎，Metal/CUDA 最佳化。 |
 | [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
 | [[Token-Optimization\|Token Optimization]] | 降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
 
@@ -32,10 +31,6 @@ title: 知識庫總覽
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
-| [[czlonkowski-n8n-mcp\|n8n-MCP]] | MCP server for n8n，讓 AI 助手存取 1,650 個工作流節點 + 2,352 模板（⭐21k）。 |
-| [[tinyhumansai-openhuman\|OpenHuman]] | 開源個人 AI 助手桌面應用，118+ 整合 + Memory Tree + TokenJuice（⭐9.1k）。 |
-| [[jieba\|jieba 結巴分詞]] | Python 最流行的中文分詞套件，四種分詞模式 + 關鍵詞提取 + 詞性標注（⭐35k）。 |
-| [[nltk\|NLTK]] | Python 自然語言處理工具包，50+ 語料庫，分詞/標注/詞幹提取/句法分析（⭐14.5k）。 |
 
 ### 🛠 方法論
 
@@ -43,10 +38,6 @@ title: 知識庫總覽
 |------|------|
 | [[agent-persona\|AI Agent 人格設計]] | 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。 |
 | [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。 |
-| [[obra-superpowers\|Superpowers]] | Agentic skills 框架與軟體開發方法論，TDD + subagent 驅動開發（⭐189k）。 |
-| [[garrytan-gstack\|gstack]] | Garry Tan 的開源軟體工廠，把 Claude Code 變成 23 人虛擬工程團隊（⭐97k）。 |
-| [[github-spec-kit\|Spec Kit]] | GitHub 官方 Spec-Driven Development 工具組，規格驅動 AI coding agent（⭐98k）。 |
-| [[K-Dense-AI-scientific-agent-skills\|Scientific Agent Skills]] | 135 個即插即用科學研究技能，支援 100+ 資料庫和 70+ Python 套件（⭐21k）。 |
 | [[cl4r1t4s\|CL4R1T4S]] | Prompt 越獄與安全研究：LLM 的 jailbreak 技術和防禦方法。 |
 | [[llm-knowledge-base\|LLM 知識庫系統]] | 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。 |
 | [[llm-knowledge-base-obsidian-claude-code\|LLM 知識庫中文報導]] | Claude Code + Obsidian 整理筆記！Karpathy 系統的中文完整拆解。 |
@@ -66,38 +57,20 @@ title: 知識庫總覽
 |------|------|
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
-| [[hichunk\|HiChunk]] | 騰訊優圖的階層式文件分塊框架，用微調 LLM 做多層級結構化 + Auto-Merge 檢索。 |
-| [[pdfcraft\|PDFCraft]] | 瀏覽器端隱私優先 PDF 工具箱，90+ 工具全在本地運作。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
-| [[qmd\|QMD]] | 本地優先的混合搜尋引擎，BM25 + 向量 + LLM 重排序，Tobi Lütke 開發（⭐24.9k）。 |
-| [[llama-index\|LlamaIndex]] | LLM 資料框架，專注資料攝取、索引和查詢，讓 LLM 連接私有資料（⭐49k）。 |
-| [[roboflow-supervision\|supervision]] | 電腦視覺可重用工具箱，模型無關的標註、追蹤、區域分析（⭐39k）。 |
-| [[supertone-inc-supertonic\|Supertonic]] | 裝置端多語言 TTS 系統，ONNX Runtime 本機推論，31 種語言（⭐6k）。 |
-| [[ruvnet-RuView\|RuView]] | 用 WiFi 訊號實現穿牆人員偵測、生命體徵監測、姿態估計（⭐56k）。 |
-| [[shiyu-coder-Kronos\|Kronos]] | 金融 K 線基礎模型，45+ 交易所資料預訓練，AAAI 2026（⭐25k）。 |
-| [[self-rag\|Self-RAG]] | 讓 LLM 自己決定何時檢索、自我審查生成品質 — RAG 的反思進化版。ICLR 2024 Oral。 |
 
 ### 🎨 生成式 AI
 
 | 概念 | 說明 |
 |------|------|
-| [[generative-AI|生成式 AI]] | 開源免費的 AI 圖片/影片生成平台，200+ 模型，無內容審查。 |
+| [[generative-AI|生成式 AI]] | 能夠生成新內容（圖片、影片、音訊、文字等）的 AI 技術，從訓練資料中學習分佈，創造前所未見的輸出。 |
 | [[AI-video-generation|AI 影片生成]] | AI 影片生成技術總覽：從文字到影片的生成模型、工具和方法。 |
-| [[Anil-matcha-Open-Generative-AI|Open Generative AI]] | 開源 AI 影片工作室，200+ 模型、4 大工作室、本地推論（⭐14.4k）。 |
 
 ### 🤖 程式碼智慧
 
 | 概念 | 說明 |
 |------|------|
 | [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
-| [[colbymchenry-codegraph|CodeGraph]] | Claude Code 的語意程式碼知識圖譜 MCP server，92% 更少工具呼叫（⭐2.5k）。 |
-
-### 🔬 從零理解 LLM
-
-| 概念 | 說明 |
-|------|------|
-| [[minimind\|MiniMind]] | 64M 參數從零訓練 LLM，2 小時完整流程，純 PyTorch 原生實現。 |
-| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 書籍+程式碼，逐章實作 LLM 每個組件，理論教學導向。 |
 
 ---
 
@@ -114,7 +87,7 @@ title: 知識庫總覽
 | [[self-correction]] | AI 能自我修正嗎？從 decoding、workflow 到 reasoning | 2026-04-25 | [YouTube](https://www.youtube.com/watch?v=m3i2mk5hs8U) |
 | [[harness-engineering]] | Harness Engineering：語言模型不是不夠聰明，只是沒有人類好好引導 | 2026-04-12 | [YouTube](https://www.youtube.com/watch?v=R6fZR_9kmIw) |
 | [[ai-agent-interaction]] | AI Agent (2/3)：AI Agent 之間可以有什麼樣的互動 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=mmPmNezjCi0) |
-| [[ai-agent-work-impact]] | AI Agent (3/3)：AI Agent 對工作帶來的衝擊 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=VqB8zMujdjM) |
+| [[ai-agent-work-impact]] | AI Agent (3/3)：AI Agent 對工作帶來的衝衝擊 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=VqB8zMujdjM) |
 | [[context-engineering-basics]] | AI Agent (1/3)：核心技術 Context Engineering 基本概念解說 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=urwDLyNa9FU) |
 | [[agent-anatomy-openclaw]] | 解剖小龍蝦：以 OpenClaw 為例介紹 AI Agent 運作原理 | 2026-03-09 | [YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ) |
 
