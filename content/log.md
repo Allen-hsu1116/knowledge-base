@@ -516,3 +516,33 @@ title: 整理記錄
 
 ### 部署
 - Quartz sync 成功，push 到 GitHub Pages ✅
+
+## [2026-05-17] 概念頁修復 — 移除專案條目
+
+從 index.md 概念區移除 21 個帶 ⭐ Stars 的專案條目（它們已在 projects.md 中）：
+
+**🧠 核心（移除 1 個）：**
+- DS4（⭐8.3k）→ 已在 projects.md 模型推論區
+
+**🔌 工具與協議（移除 4 個）：**
+- n8n-MCP（⭐21k）、OpenHuman（⭐9.1k）、jieba 結巴分詞（⭐35k）、NLTK（⭐14.5k）
+
+**🛠 方法論（移除 4 個）：**
+- Superpowers（⭐189k）、gstack（⭐97k）、Spec Kit（⭐98k）、Scientific Agent Skills（⭐21k）
+
+**📚 應用與研究（移除 8 個）：**
+- HiChunk（⭐96）、PDFCraft（⭐5.8k）、QMD（⭐24.9k）、LlamaIndex（⭐49k）
+- supervision（⭐39k）、Supertonic（⭐6k）、RuView（⭐56k）、Kronos（⭐25k）、Self-RAG（⭐2.4k）
+
+**🎨 生成式 AI（移除 1 個）：**
+- Open Generative AI（⭐14.4k）
+
+**🤖 程式碼智慧（移除 1 個）：**
+- CodeGraph（⭐2.5k）
+
+**🔬 從零理解 LLM（整區移除，2 個條目都是專案）：**
+- MiniMind（⭐49.8k）、LLMs from Scratch（⭐93.8k）
+
+保留純概念：CL4R1T4S（有 GitHub 但概念頁無 Stars）、Karpathy 相關頁（方法論/教學）、generative-AI 和 AI-video-generation（純概念頁）。
+
+概念區現在只有純概念條目，零 ⭐ Stars。
