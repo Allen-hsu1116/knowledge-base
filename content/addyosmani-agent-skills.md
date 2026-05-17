@@ -1,11 +1,21 @@
 ---
-source: https://github.com/addyosmani/agent-skills
-date: 2026-04-28
+title: addyosmani/agent-skills
+created: 2026-04-28
 ---
 
-# addyosmani/agent-skills — 通用 Agent Skills 集合
+# addyosmani/agent-skills
 
-> Addy Osmani 維護的 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。
+> Addy Osmani 維護的通用 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。⭐37.9k
+
+## 快速導航
+
+- 🛠 **AI Skills** → [[AI-Skills]]（Agent Skills 的概念頁）
+- 🌐 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Skills 生態系統觀）
+- 🔌 **MCP** → [[MCP]]（Skills 與 MCP 的工具整合）
+
+## 是什麼
+
+addyosmani/agent-skills 是 Addy Osmani 維護的 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。使用標準化的 SKILL.md 格式，可被任何支援 Agent Skills 的 coding agent 使用。
 
 **作者**: Addy Osmani（Google Chrome 團隊工程師）
 **GitHub**: https://github.com/addyosmani/agent-skills

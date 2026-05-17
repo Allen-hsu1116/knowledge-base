@@ -46,7 +46,7 @@ uv run parse-bench serve llamaparse_agentic
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[document-parsing]] | 文件解析概念 | ParseBench 是評測文件解析工具的基準 |
-| [[LlamaIndex]] | RAG 框架 | ParseBench 由 LlamaIndex 團隊開發 |
+| [[llama-index|LlamaIndex]] | RAG 框架 | ParseBench 由 LlamaIndex 團隊開發 |
 | [[docling]] | 文件解析 | Docling 是 ParseBench 評測的管線之一 |
 
 ## 相關概念

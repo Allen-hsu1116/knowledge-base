@@ -1,10 +1,23 @@
 ---
 title: HiChunk
+created: 2026-05-13
 ---
 
-# HiChunk 階層式文件分塊框架
+# HiChunk
 
-> 用微調 LLM 做多層級文件結構化，結合 Auto-Merge 檢索演算法，解決 RAG 中 chunking 造成的不完整資訊問題。— 騰訊優圖實驗室
+> 騰訊優圖的階層式文件分塊框架，用微調 LLM 做多層級結構化 + Auto-Merge 檢索，解決 RAG 中 chunking 造成的不完整資訊問題。⭐96
+
+## 快速導航
+
+- 🔍 **RAG** → [[rag]]（HiChunk 是 RAG 管線中的分塊步驟）
+- 📄 **文件解析** → [[document-parsing]]（文件分塊是文件解析的下游步驟）
+- 🕸️ **Knowledge Graph** → [[Knowledge-Graph]]（階層式分塊與知識圖譜的結構化理念相通）
+
+## 是什麼
+
+HiChunk 是騰訊優圖實驗室開發的階層式文件分塊框架。它用微調 LLM 做多層級文件結構化，結合 Auto-Merge 檢索演算法，解決 RAG 中 chunking 造成的不完整資訊問題。
+
+傳統固定大小分塊會截斷語義單元，HiChunk 透過 LLM 識別文件結構，保留標題、段落、列表等語義邊界。
 
 ## 快速導航
 - 🔍 **RAG** → [[rag|RAG]]: HiChunk 是 RAG 系統中 chunking 環節的改進

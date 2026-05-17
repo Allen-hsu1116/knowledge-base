@@ -1,11 +1,21 @@
 ---
-source: https://github.com/google/skills
-date: 2026-04-28
+title: Google Skills
+created: 2026-04-28
 ---
 
-# google/skills — Google 產品與技術的 Agent Skills
+# Google Skills
 
-> Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義。使用與 addyosmani/agent-skills 相同的 SKILL.md 格式和 skills.sh 分發標準。
+> Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐4.8k
+
+## 快速導航
+
+- 🛠 **AI Skills** → [[AI-Skills]]（Google Skills 是 Agent Skills 的官方實作）
+- 🌐 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Agent Skills 生態系的一部分）
+- 🔌 **MCP** → [[MCP]]（Skills 與 MCP 的工具整合）
+
+## 是什麼
+
+Google Skills 是 Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義。它使用與 addyosmani/agent-skills 相同的 SKILL.md 格式和 skills.sh 分發標準。
 
 **GitHub**: https://github.com/google/skills
 **Stars**: 4.8k | **Forks**: 291

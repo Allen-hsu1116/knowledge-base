@@ -82,6 +82,7 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[generative-AI|生成式 AI]] | 開源免費的 AI 圖片/影片生成平台，200+ 模型，無內容審查。 |
+| [[AI-video-generation|AI 影片生成]] | AI 影片生成技術總覽：從文字到影片的生成模型、工具和方法。 |
 | [[Anil-matcha-Open-Generative-AI|Open Generative AI]] | 開源 AI 影片工作室，200+ 模型、4 大工作室、本地推論（⭐14.4k）。 |
 
 ### 🤖 程式碼智慧

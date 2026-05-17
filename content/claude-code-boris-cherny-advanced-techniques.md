@@ -1,10 +1,20 @@
 ---
-source: https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/
-date: 2026-05-06
-author: 科技翰林院
+title: Claude Code 進階技巧
+created: 2026-05-06
 ---
 
-# Claude Code 之父 Boris Cherny 親授：8 個進階技巧
+# Claude Code 進階技巧
+
+> Claude Code 之父 Boris Cherny 親授 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。
+
+## 快速導航
+
+- 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]（Claude Code 是 Coding Agent CLI 的一種）
+- 🛠 **AI Skills** → [[AI-Skills]]（進階技巧與 Agent Skills 的理念相通）
+
+## 是什麼
+
+這是 Claude Code 之父 Boris Cherny 親授的 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。內容來自科技翰林院的中文整理報導。
 
 > Boris Cherny 是 Anthropic 的 Claude Code 負責人。Anthropic 內部導入後工程師產出量翻 200%，新人上手從 2-3 週縮短到 2-3 天。
 

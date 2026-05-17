@@ -1,11 +1,21 @@
 ---
-source: https://github.com/bytedance/deer-flow
-date: 2026-05-09
+title: DeerFlow 2.0
+created: 2026-05-09
 ---
 
-# DeerFlow 2.0 — 字節跳動開源 Super Agent 框架
+# DeerFlow 2.0
 
-> Deep Exploration and Efficient Research Flow 2.0：開源超級 Agent 框架，編排子 Agent、記憶和沙箱，透過可擴充 Skill 實現幾乎任何任務。
+> 字節跳動開源 Super Agent 框架，編排子 Agent、記憶和沙箱，透過可擴充 Skill 實現幾乎任何任務。⭐66.1k
+
+## 快速導航
+
+- 🤖 **AI Agent** → [[AI-Agent]]（DeerFlow 是多 Agent 編排框架）
+- 🔄 **Ruflo** → [[ruvnet-ruflo|Ruflo]]（另一個多 Agent 編排方案）
+- 🔌 **MCP** → [[MCP]]（DeerFlow 支援 MCP 整合）
+
+## 是什麼
+
+DeerFlow 2.0（Deep Exploration and Efficient Research Flow）是字節跳動開源的 Super Agent 框架。它編排子 Agent、記憶和沙箱，透過可擴充 Skill 實現幾乎任何任務。
 
 **GitHub**: https://github.com/bytedance/deer-flow
 **Stars**: ~66.1k | **License**: MIT
