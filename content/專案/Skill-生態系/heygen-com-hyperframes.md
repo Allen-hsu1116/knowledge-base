@@ -82,6 +82,8 @@ Slash commands（Claude Code）：
 
 
 
+## 怎麼用
+
 ### 安裝
 
 ```bash
