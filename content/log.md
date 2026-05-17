@@ -6,6 +6,17 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-17
+
+**Ingest**：
+1. GitHub: Anil-matcha/Open-Generative-AI ⭐14,436 — 開源 AI 影片工作室，200+ 模型、4 大工作室、本地推論
+2. GitHub: colbymchenry/codegraph ⭐2,530 — Claude Code 的語意程式碼知識圖譜 MCP server，92% 更少工具呼叫
+
+- 新增 wiki/Anil-matcha-Open-Generative-AI.md
+- 新增 wiki/colbymchenry-codegraph.md
+- 更新 known-repos.json（+2 repos, +3 concepts: generative-AI, AI-video-generation, code-intelligence）
+- 更新 wiki/index.md
+
 ## 2026-05-16
 
 **Ingest**：

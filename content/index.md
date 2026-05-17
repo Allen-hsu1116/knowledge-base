@@ -77,6 +77,20 @@ title: 知識庫總覽
 | [[shiyu-coder-Kronos\|Kronos]] | 金融 K 線基礎模型，45+ 交易所資料預訓練，AAAI 2026（⭐25k）。 |
 | [[self-rag\|Self-RAG]] | 讓 LLM 自己決定何時檢索、自我審查生成品質 — RAG 的反思進化版。ICLR 2024 Oral。 |
 
+### 🎨 生成式 AI
+
+| 概念 | 說明 |
+|------|------|
+| [[generative-AI|生成式 AI]] | 開源免費的 AI 圖片/影片生成平台，200+ 模型，無內容審查。 |
+| [[Anil-matcha-Open-Generative-AI|Open Generative AI]] | 開源 AI 影片工作室，200+ 模型、4 大工作室、本地推論（⭐14.4k）。 |
+
+### 🤖 程式碼智慧
+
+| 概念 | 說明 |
+|------|------|
+| [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
+| [[colbymchenry-codegraph|CodeGraph]] | Claude Code 的語意程式碼知識圖譜 MCP server，92% 更少工具呼叫（⭐2.5k）。 |
+
 ### 🔬 從零理解 LLM
 
 | 概念 | 說明 |

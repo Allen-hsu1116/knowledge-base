@@ -27,11 +27,11 @@ cp "$WIKI_DIR/projects.md" "$CONTENT_DIR/"
 # 概念 - 核心
 CONCEPT_CORE="AI-Agent LLM llm-internals ds4 Prompt-Engineering Token-Optimization"
 # 概念 - 工具與協議
-CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI sandbox jieba nltk"
+CONCEPT_TOOLS="MCP Context-Database Knowledge-Graph AI-Skills Coding-Agent-CLI sandbox jieba nltk code-intelligence"
 # 概念 - 方法論
 CONCEPT_METHOD="agent-persona agent-skills-ecosystem llm-knowledge-base prompt-security self-correction ocr-memory persona-skill-colleague mempalace-usage-discussion andrej-karpathy-ai-how karpathy-gist-llm-wiki karpathy-skills llm-knowledge-base-obsidian-claude-code"
 # 概念 - 應用與研究
-CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag qmd self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s"
+CONCEPT_APP="AI-Tutoring document-parsing hichunk pdfcraft rag qmd self-rag 向量資料庫 模型推論與部署 語音辨識 網頁爬蟲 web-crawling web-scraping visualization cl4r1t4s generative-AI AI-video-generation"
 
 # 專案 - Agent 框架與工具
 PROJ_AGENT="affaan-m-everything-claude-code HKUDS-nanobot openclaw Gitlawb-openclaude googleworkspace-cli Panniantong-Agent-Reach jackwener-OpenCLI openai-codex-plugin-cc lsdefine-GenericAgent holaboss-ai-holaOS RightNow-AI-openfang cft0808-edict AutoGPT LangChain CrewAI bytedance-deer-flow ruvnet-ruflo garrytan-gstack llama-index czlonkowski-n8n-mcp tinyhumansai-openhuman"
@@ -48,9 +48,9 @@ PROJ_INFER="Ollama llama-cpp vLLM huggingface-transformers NVIDIA-TensorRT-LLM s
 # 專案 - 向量資料庫
 PROJ_VEC="Milvus Qdrant Chroma"
 # 專案 - 多媒體與爬蟲
-PROJ_MEDIA="Whisper Crawl4AI roboflow-supervision supertone-inc-supertonic"
+PROJ_MEDIA="Whisper Crawl4AI roboflow-supervision supertone-inc-supertonic Anil-matcha-Open-Generative-AI"
 # 專案 - 基礎設施
-PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura agent-reach opencli opensandbox claude-code-boris-cherny-advanced-techniques ruvnet-RuView"
+PROJ_INFRA="volcengine-OpenSandbox project-golem hermes-agent anthropics-claude-plugins-official can1357-oh-my-pi jo-inc-camofox-browser printing-press codeburn cubesandbox fireworks-tech-graph obscura agent-reach opencli opensandbox claude-code-boris-cherny-advanced-techniques ruvnet-RuView colbymchenry-codegraph"
 # 專案 - Agent 自演化
 PROJ_EVO="EvoMap-evolver"
 
