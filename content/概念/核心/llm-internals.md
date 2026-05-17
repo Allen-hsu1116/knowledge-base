@@ -156,18 +156,23 @@ Self-Attention 的計算過程（Q·K 內積 → Softmax → Weighted Sum of V�
 - Flash Attention 的 chunk 運算依賴 KV Cache 的分塊存取
 - KV Cache 的大小限制決定了 Position Interpolation 的策略
 
-## 生產部署工具
+## 各框架的做法
 
-Flash Attention、KV Cache、Positional Embedding 是 Transformer 內部的技術創新。把它們用在生產環境，需要推論引擎：
+### 推論與部署
 
 | 工具 | 定位 | 特色 | Stars |
 |------|------|------|-------|
-| [[vLLM]] | 高吞吐服務引擎 | PagedAttention、Continuous Batching、分散式推論 | ⭐79.5K |
-| [[sgl-project-sglang\|SGLang]] | 高效能服務框架 | RadixAttention 前綴快取、跨硬體支援、多模態 | ⭐27.6K |
-| [[NVIDIA-TensorRT-LLM]] | NVIDIA GPU 專屬加速 | Tensor Core、FP8 量化、Disaggregated Serving、Expert Parallelism | ⭐13.6K |
-| [[llama-cpp\|llama.cpp]] | 本地推論引擎 | C/C++、GGUF 量化、CPU+GPU、MacBook 可跑 | ⭐109K |
-| [[Ollama]] | 本地一鍵部署 | 包裝 llama.cpp、模型庫、API | ⭐171K |
-| [[huggingface-transformers\|Transformers]] | 模型定義框架 | 100 萬+ 模型、跨框架相容 | ⭐160K |
+| 👉 [[vLLM]] | 高吞吐服務引擎 | PagedAttention、Continuous Batching、分散式推論 | ⭐79.5K |
+| 👉 [[sgl-project-sglang|SGLang]] | 高效能服務框架 | RadixAttention 前綴快取、跨硬體支援、多模態 | ⭐27.6K |
+| 👉 [[NVIDIA-TensorRT-LLM]] | NVIDIA GPU 專屬加速 | Tensor Core、FP8 量化、Disaggregated Serving | ⭐13.6K |
+| 👉 [[llama-cpp|llama.cpp]] | 本地推論引擎 | C/C++、GGUF 量化、CPU+GPU、MacBook 可跑 | ⭐109K |
+| 👉 [[Ollama]] | 本地一鍵部署 | 包裝 llama.cpp、模型庫、API | ⭐171K |
+| 👉 [[huggingface-transformers|Transformers]] | 模型定義框架 | 100 萬+ 模型、跨框架相容 | ⭐160K |
+| 👉 [[litellm]] | LLM Gateway | 100+ Provider 統一 API | ⭐45.7K |
+
+### 最佳化技術
+
+- 👉 [[gemma4-mtp-drafters]] — 投機解碼（MTP），用輕量 Drafter 加速推論
 
 ## 相關概念
 

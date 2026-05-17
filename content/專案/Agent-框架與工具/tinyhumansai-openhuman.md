@@ -7,17 +7,6 @@ date: 2026-05-16
 
 > 開源個人 AI 助手桌面應用——強調隱私、簡單、強大。內建 118+ 第三方整合、Memory Tree 知識庫、TokenJuice 壓縮、桌面吉祥物，以及本地優先架構。
 
-## 基本資訊
-
-| 項目 | 內容 |
-|------|------|
-| GitHub | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
-| Stars | ⭐9.1k |
-| Language | Rust (Tauri) + TypeScript |
-| 建立日期 | 2026-02-18 |
-| 收錄日期 | 2026-05-16 |
-| 授權 | 自訂開源授權 |
-
 ## 快速導航
 
 - [[AI-Agent]] — AI Agent 生態系
@@ -25,13 +14,9 @@ date: 2026-05-16
 - [[Token-Optimization]] — Token 優化策略
 - [[Coding-Agent-CLI]] — AI 程式開發工具
 
-## 詳細簡介
+## 是什麼
 
-OpenHuman 是一個開源的 agentic assistant，設計目標是成為個人的 AI 超級智慧。與大多數 AI 工具不同，它強調「UI-first」——不需要先搞設定，幾次點擊就能從安裝走到一個可用的 agent。它有一個桌面吉祥物（mascot），能說話、反應環境、甚至加入 Google Meet 會議作為真實參與者。
-
-專案受到 Karpathy 的 Obsidian-wiki 工作流啟發，核心是「Memory Tree + Obsidian Wiki」——本地優先的知識庫，所有連接的資料都被正規化為 ≤3k token 的 Markdown 片段，存入本機 SQLite，同時產出 Obsidian 相容的 vault。這讓 agent 能在幾分鐘內了解你的上下文，而非幾週。
-
-隱私是核心設計原則：所有工作流資料都留在裝置上，本地加密。模型路由支援遠端 LLM 和本地 Ollama，讓使用者可以在隱私和效能之間取得平衡。
+OpenHuman 是一個開源的 agentic assistant，設計目標是成為個人的 AI 超級智慧。與大多數 AI 工具不同，它強調「UI-first」——不需要先搞設定，幾次點擊就能從安裝走到一個可用的 agent。核心是「Memory Tree + Obsidian Wiki」本地優先知識庫，所有連接的資料都被正規化為 ≤3k token 的 Markdown 片段，存入本機 SQLite，同時產出 Obsidian 相容的 vault。隱私是核心設計原則：所有工作流資料都留在裝置上，本地加密。
 
 ## 核心特色
 
@@ -55,7 +40,7 @@ OpenHuman 是一個開源的 agentic assistant，設計目標是成為個人的 
 
 預設就包含網頁搜尋、網頁抓取、完整程式開發工具集（filesystem、git、lint、test、grep）、原生語音（STT 輸入、ElevenLabs TTS 輸出、吉祥物嘴型同步）、模型路由（自動分派 reasoning/fast/vision 任務）。也支援透過 Ollama 執行本地模型。
 
-## 安裝方式
+## 怎麼用
 
 **macOS / Linux x64：**
 ```bash
@@ -81,6 +66,24 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 
 需要 Node.js 24+、pnpm 10.10.0、Rust 1.93.0、CMake。
 
+## 跟其他方案的關係
+
+| 專案 | 定位 | 關係 |
+|------|------|------|
+| [[project-golem]] | 自主 AI Agent | 類似定位：都是個人 AI 作業系統，Golem 用 Node.js，OpenHuman 用 Rust/Tauri |
+| [[thedotmack-claude-mem]] | 記憶壓縮 | 互補：claude-mem 做 session 記憶，OpenHuman 的 Memory Tree 做長期知識 |
+| [[karpathy-gist-llm-wiki]] | LLM Wiki | 靈感來源：OpenHuman 的 Memory Tree 概念源自 Karpathy 的 wiki 方法論 |
+| [[litellm]] | LLM Gateway | 互補：OpenHuman 的模型路由可搭配 LiteLLM 統一 API |
+| Claude Desktop | 商業助手 | 對比：Claude Desktop 是閉源雲端，OpenHuman 是開源本地優先 |
+
+## 相關概念
+
+← [[AI-Agent]] · [[MCP]] · [[Token-Optimization]] · [[Coding-Agent-CLI]]
+
+## 來源
+
+- raw/2026-05-16-openhuman.md
+
 ## 技術棧
 
 - **Desktop Shell**: Tauri (Rust + CEF)
@@ -90,14 +93,6 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 - **Voice**: STT + ElevenLabs TTS
 - **Local AI**: Ollama
 
-## 授權
+---
 
-自訂開源授權（詳見 LICENSE 檔案）
-
-## 相關連結
-
-- [GitHub](https://github.com/tinyhumansai/openhuman)
-- [Docs](https://tinyhumans.gitbook.io/openhuman/)
-- [Website](https://tinyhumans.ai/openhuman)
-- [Discord](https://discord.tinyhumans.ai/)
-- [Product Hunt](https://www.producthunt.com/products/openhuman)
+GitHub: [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) · Stars: ⭐9.1k · License: 自訂開源 · 收錄日期: 2026-05-16

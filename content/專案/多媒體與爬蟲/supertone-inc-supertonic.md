@@ -25,37 +25,11 @@ date: 2026-05-16
 - [[LLM]] — 大語言模型
 - [[embedded-AI]] — 邊緣裝置 AI
 
-## 詳細簡介
+## 是什麼
 
-Supertonic 是 Supertone Inc. 開發的開源文字轉語音（TTS）系統，專為裝置端本地推論設計。基於 ONNX Runtime，它完全在使用者裝置上執行——不需要雲端服務、不需要 API 呼叫、沒有隱私外洩風險。這使得它特別適合隱私敏感場景和低延遲需求的應用。
+Supertonic 是 Supertone Inc. 開發的開源文字轉語音（TTS）系統，專為裝置端本地推論設計。基於 ONNX Runtime，所有語音合成都在使用者裝置上完成，不需要雲端服務、不需要 API 呼叫、沒有隱私外洩風險。Supertonic 3 支援 31 種語言，模型遠小於同級開源 TTS 系統，但在 CPU 上就能達到接近 A100 GPU 上大型基線模型的推論速度。
 
-Supertonic 3 是最新版本，支援 31 種語言（v2 僅支援 5 種），改善了朗讀準確度，減少了重複和跳過失敗，同時保持與 v2 相容的公共 ONNX 介面，讓現有整合可以無縫升級。模型大小遠小於同級開源 TTS 系統，但在 CPU 上就能達到接近 A100 GPU 上大型基線模型的推論速度。
-
-專案提供完整的跨平台 SDK：Python、Node.js、瀏覽器（onnxruntime-web）、Java、C++、C#、Go、Swift、Rust 和 iOS，幾乎涵蓋所有主流開發環境。
-
-## 核心特色
-
-### 裝置端 ONNX 推論
-
-基於 ONNX Runtime 執行，支援 CPU 和 GPU 推論。所有語音合成都在本機完成，不依賴任何雲端服務。這是 Supertonic 最根本的設計原則——隱私和低延遲的基礎。
-
-### 31 種語言支援
-
-Supertonic 3 從 v2 的 5 種語言大幅擴展到 31 種，涵蓋主要的全球語言。在 WER/CER 指標上，即使與 VoxCPM2 等大型 TTS 模型相比也保持在競爭力範圍內，同時維持輕量的裝置端部署路徑。
-
-### Voice Builder 語音克隆
-
-[Voice Builder](https://supertonic.supertone.ai/voice_builder) 讓使用者可以將自己的聲音轉換為可部署的邊緣原生 TTS 語音，並保有永久所有權。這使得客製化語音應用成為可能。
-
-### 跨平台 SDK
-
-提供 10 種語言/平台的 SDK：Python（pip install supertonic）、Node.js、瀏覽器、Java、C++、C#（.NET 9+）、Go、Swift、Rust、iOS。每個 SDK 都有完整的範例和建構指引。瀏覽器版本使用 onnxruntime-web 實現純客戶端推論。
-
-### 輕量高效
-
-模型大小遠小於同級開源 TTS 系統。在 CPU 上的推論速度甚至可與 A100 GPU 上運行的大型基線模型競爭，記憶體使用量大幅降低。支援 batch inference 提升吞吐量，輸出 16-bit WAV 格式。
-
-## 安裝方式
+## 怎麼用
 
 **Python SDK（最快上手）：**
 ```bash
@@ -93,23 +67,23 @@ cd nodejs && npm install && npm start
 cd web && npm install && npm run dev
 ```
 
-## 技術棧
+## 跟其他方案的關係
 
-- **Inference**: ONNX Runtime
-- **Model Format**: ONNX
-- **Audio Output**: 16-bit WAV
-- **Languages**: Swift, Python, TypeScript, Java, C++, C#, Go, Rust
-- **Model Hosting**: Hugging Face (Git LFS)
-- **Browser**: onnxruntime-web
+| 專案 | 定位 | 關係 |
+|------|------|------|
+| [[Ollama]] | 本地 LLM 部署 | 互補：Ollama 跑語言模型，Supertonic 跑語音合成 |
+| ElevenLabs | 雲端 TTS | 對比：ElevenLabs 需要雲端，Supertonic 全本地推論 |
+| Whisper | 語音辨識（STT） | 互補：Whisper 做 STT，Supertonic 做 TTS，組成完整語音管線 |
+| [[vLLM]] | 推論引擎 | 不同領域：vLLM 做 LLM 推論，Supertonic 做 TTS 推論 |
 
-## 授權
+## 相關概念
 
-開源授權（詳見 LICENSE 檔案）
+← [[語音辨識]] · [[模型推論與部署]] · [[LLM]] · [[embedded-AI]]
 
-## 相關連結
+## 來源
 
-- [GitHub](https://github.com/supertone-inc/supertonic)
-- [HuggingFace Demo (v3)](https://huggingface.co/spaces/Supertone/supertonic-3)
-- [HuggingFace Models (v3)](https://huggingface.co/Supertone/supertonic-3)
-- [Voice Builder](https://supertonic.supertone.ai/voice_builder)
-- [Python SDK Docs](https://supertone-inc.github.io/supertonic-py)
+- raw/2026-05-16-supertonic.md
+
+---
+
+GitHub: [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) · Stars: ⭐6.0k · License: 開源 · 收錄日期: 2026-05-16

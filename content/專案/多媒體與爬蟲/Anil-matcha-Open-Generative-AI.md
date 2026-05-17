@@ -90,9 +90,59 @@ npm run dev
 
 開源專案（查看 repo 中的 LICENSE）
 
-## 相關連結
+## 是什麼
 
-- [GitHub](https://github.com/Anil-matcha/Open-Generative-AI)
-- [線上版](https://muapi.ai/open-generative-ai)
-- [Discord](https://discord.gg/s7KW4fsqXK)
-- [Generative-Media-Skills（AI Agent 整合）](https://github.com/SamurAIGPT/Generative-Media-Skills)
+Open Generative AI 是一個開源免費的 AI 媒體生成工作室，把 Midjourney、Runway 等封閉平台的功能整合到單一介面。支援 200+ 生成式模型，涵蓋圖片、影片、唇形同步和電影工作室四大功能模組，無內容審查、無訂閱費用、可自架。桌面應用額外支援本地推論引擎（sd.cpp + Wan2GP），讓 Mac 使用者也能離線生成。
+
+## 怎麼用
+
+### 線上版（免安裝）
+
+直接訪問 [muapi.ai/open-generative-ai](https://muapi.ai/open-generative-ai) 即可使用所有功能。
+
+### 桌面版安裝
+
+```bash
+# 從 GitHub Releases 下載 DMG 安裝
+# https://github.com/Anil-matcha/Open-Generative-AI/releases
+
+# macOS 首次開啟需解除 Gatekeeper 限制
+xattr -cr "/Applications/Open Generative AI.app"
+
+# 從原始碼建置
+git clone https://github.com/Anil-matcha/Open-Generative-AI
+cd Open-Generative-AI
+npm install
+npm run dev
+```
+
+### AI Agent 整合
+
+透過 [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)，Claude Code、Codex 等 AI coding agent 可以直接從終端機驅動 200+ 模型。
+
+## 跟其他方案的關係
+
+Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway、Stability AI）的根本差異在於：完全開源、免費、可自架、無內容審查。封閉平台要月費且有限制，Open Generative AI 讓你用自己的硬體跑自己的模型。
+
+跟 [[AI-video-generation]] 專案（如 ComfyUI）相比：ComfyUI 是節點式工作流引擎（需要手動串接節點），Open Generative AI 是工作室式介面（選模型→生成→完成）。兩者定位不同：一個是工程師的瑞士刀，一個是創作者的快速工具。
+
+跟 [[heygen-com-hyperframes|Hyperframes]] 的差異：Hyperframes 是 Agent-first 的影片渲染框架（HTML → MP4），Open Generative AI 是模型聚合平台（200+ 模型 → 圖片/影片）。不同層次的工具。
+
+## 相關概念
+
+← [[generative-AI]] · [[AI-video-generation]] · [[AI-Agent]]
+
+## 來源
+
+- GitHub: https://github.com/Anil-matcha/Open-Generative-AI
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | https://github.com/Anil-matcha/Open-Generative-AI |
+| Stars | ⭐14,891 |
+| Language | JavaScript |
+| 建立日期 | 2023-05-09 |
+| 授權 | MIT |
+| 收錄日期 | 2026-05-17 |

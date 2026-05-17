@@ -5,10 +5,10 @@
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/RightNow-AI/openfang |
-| Stars | ⭐17,219 |
+| Stars | ⭐17,551 |
 | Language | Rust |
 | 建立日期 | 2026-02-24 |
-| 授權 | MIT |
+| 授權 | Apache-2.0 |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
@@ -55,8 +55,27 @@ OpenFang 在啟動速度、二進位大小、記憶體佔用上都大幅領先 P
 
 定義自己的 HAND.toml（工具、設定、系統提示詞），發布到 FangHub 社群市集。
 
+## 怎麼用
+
+### 安裝
+
 ```bash
-# 啟用 Researcher Hand，立刻開始工作
+# macOS / Linux
+curl -fsSL https://openfang.sh/install | sh
+openfang init
+openfang start
+# Dashboard: http://localhost:4200
+
+# Windows
+irm https://openfang.sh/install.ps1 | iex
+openfang init
+openfang start
+```
+
+### 啟用 Hands
+
+```bash
+# 啟用 Researcher Hand
 openfang hand activate researcher
 
 # 查看進度
@@ -72,20 +91,9 @@ openfang hand pause lead
 openfang hand list
 ```
 
-## 安裝方式
+### 自訂 Hand
 
-```bash
-# macOS / Linux
-curl -fsSL https://openfang.sh/install | sh
-openfang init
-openfang start
-# Dashboard: http://localhost:4200
-
-# Windows
-irm https://openfang.sh/install.ps1 | iex
-openfang init
-openfang start
-```
+定義自己的 HAND.toml（工具、設定、系統提示詞），發布到 FangHub 社群市集。
 
 ## 技術棧
 

@@ -60,11 +60,7 @@ code-review-graph install --platform kiro
 
 Tree-sitter 語法覆蓋：Python、TypeScript/TSX、JavaScript、Vue、Svelte、Go、Rust、Java、Scala、C#、Ruby、Kotlin、Swift、PHP、Solidity、C/C++、Dart、R、Perl、Lua、Zig、PowerShell、Julia，加上 Jupyter/Databricks notebook（.ipynb）多語言 cell 支援（Python、R、SQL）。
 
-### 多平台自動偵測
-
-`install` 指令一次設定全部：偵測你裝了哪些 AI coding tools（Codex、Claude Code、Cursor、Windsurf、Zed、Continue、OpenCode、Antigravity、Qwen、Qoder、Kiro），自動寫入正確的 MCP 配置和 graph-aware 指令注入。
-
-## 安裝方式
+## 怎麼用
 
 ```bash
 # pip
@@ -84,6 +80,18 @@ code-review-graph eval --all
 ```
 
 需求：Python 3.10+，建議安裝 uv（MCP 配置會優先使用 uvx）。
+
+### 多平台自動偵測
+
+`install` 指令一次設定全部：偵測你裝了哪些 AI coding tools（Codex、Claude Code、Cursor、Windsurf、Zed、Continue、OpenCode、Antigravity、Qwen、Qoder、Kiro），自動寫入正確的 MCP 配置和 graph-aware 指令注入。
+
+```bash
+# 指定平台
+code-review-graph install --platform codex
+code-review-graph install --platform claude-code
+code-review-graph install --platform cursor
+code-review-graph install --platform kiro
+```
 
 ## 技術棧
 

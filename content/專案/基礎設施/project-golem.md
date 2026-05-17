@@ -12,7 +12,32 @@
 - 📚 **記憶系統** → [[llm-knowledge-base]]（lancedb-pro 向量記憶對比）
 - 🔄 **Agent 工作流** → [[AI-Agent]]
 
-## 核心內容
+## 是什麼
+
+Project Golem 是一套以 Node.js 驅動的自主 AI 代理系統，定位是「個人 AI 作業系統」。它不只是聊天機器人，更整合了長期記憶、任務隊列、指令安全防護、Telegram/Discord bridge、瀏覽器操作、排程自省、技能熱載入，以及一個能直接操作 Golem 的網頁控制台。
+
+## 核心特色
+
+- **多後端大腦**：支援 Gemini（透過 Playwright 操控 Web Gemini）、Ollama（本機模型）、LM Studio
+- **長期記憶系統**：支援 lancedb-pro 向量記憶與原生記憶模式，金字塔式摘要、日記 rotate、備份還原
+- **技能系統**：內建核心技能，透過 Dashboard 開關、匯入、匯出
+- **多代理圓桌討論**：InteractiveMultiAgent 召集多角色產出共識摘要
+- **Web Dashboard**：Next.js 管理介面，終端對話、技能管理、人格市場、記憶搜尋、MCP 管理
+
+## 怎麼用
+
+```bash
+git clone https://github.com/Arvincreator/project-golem.git
+cd project-golem
+pnpm install
+pnpm run setup    # 初始設定
+pnpm run dev      # 啟動開發模式
+# Dashboard 預設 http://localhost:3000/dashboard
+```
+
+對話指令：`/new` 重開對話、`/model` 切換模型、`/skills` 列出技能、`/learn <功能>` 學習新技能
+
+## 跟其他方案的關係
 
 ### 定位
 Project Golem 不只是聊天機器人，更像是「個人 AI 作業系統」：長期記憶、任務隊列、指令安全防護、Telegram/Discord bridge、瀏覽器操作、排程自省、技能熱載入，以及一個能直接操作 Golem 的網頁控制台。
@@ -81,11 +106,6 @@ project-golem-plus/
 - `/learn <功能>`：讓 Golem 嘗試產生或學習新技能
 
 ## 相關概念
-- [[agent-persona]] — Golem 的人格與多代理討論功能與 Persona 設計相關
-- [[agent-skills-ecosystem]] — Golem 的技能系統是 SKILL.md 概念的一種實作
-- [[AI-Agent]] — Golem 是 Agent 化工作流的具體案例
-- [[llm-knowledge-base]] — Golem 的記憶系統可參考知識庫方法論
-- [[prompt-security]] — Golem 的安全控管與越獄防禦相關
 
 ## 來源
 - raw/2026-05-02-project-golem.md

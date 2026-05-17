@@ -5,7 +5,7 @@
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/cft0808/edict |
-| Stars | ⭐15,619 |
+| Stars | ⭐15,781 |
 | Language | Python |
 | 建立日期 | 2026-02-23 |
 | 授權 | MIT |
@@ -64,7 +64,9 @@ Edict（三省六部）是一個基於 OpenClaw 的多 Agent 協作系統，用�
 | 🏛️ 朝堂議政 | 多角色辯論，各部依職責發表專業意見 |
 | 🎬 上朝儀式 | 每日首次開啟的開場動畫 |
 
-## 安裝方式
+## 怎麼用
+
+### 安裝
 
 ```bash
 # Docker 一鍵體驗（預置模擬數據）
@@ -75,8 +77,11 @@ docker run -p 7891:7891 cft0808/edict
 git clone https://github.com/cft0808/edict.git
 cd edict
 chmod +x install.sh && ./install.sh
+```
 
-# 啟動
+### 啟動
+
+```bash
 chmod +x start.sh && ./start.sh
 # 或分別啟動
 bash scripts/run_loop.sh &

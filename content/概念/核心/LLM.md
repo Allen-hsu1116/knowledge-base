@@ -45,36 +45,36 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 - [[Token-Optimization]]：各種降低 token 消耗的技術
 - [[JuliusBrussee-caveman]]：「穴居人語」壓縮，省 75% output token
 
-## 相關專案
-
-- [[ZhuLinsen-daily_stock_analysis]] — LLM 驅動的股票分析系統
-- [[affaan-m-everything-claude-code]] — Agent harness 效能優化系統
-- [[sickn33-antigravity-awesome-skills]] — 1,443+ AI Skills
+## 各框架的做法
 
 ### 推論與部署
 
-- [[Ollama]] — 本地一鍵運行 LLM（⭐171K）
-- [[llama-cpp\|llama.cpp]] — C/C++ 推論引擎，消費級硬體可跑（⭐109K）
-- [[vLLM]] — 高吞吐推論引擎，PagedAttention（⭐79.5K）
-- [[sgl-project-sglang\|SGLang]] — 高效能服務框架，RadixAttention 前綴快取（⭐27.6K）
-- [[NVIDIA-TensorRT-LLM]] — NVIDIA 官方推論加速，GPU 深度最佳化（⭐13.6K）
-- [[huggingface-transformers\|Hugging Face Transformers]] — 模型定義框架，100 萬+ 模型（⭐160K）
-- [[litellm]] — LLM Gateway，100+ Provider 統一 API（⭐45.7K）
+- 👉 [[Ollama]] — 本地一鍵運行 LLM（⭐171K）
+- 👉 [[llama-cpp|llama.cpp]] — C/C++ 推論引擎，消費級硬體可跑（⭐109K）
+- 👉 [[vLLM]] — 高吞吐推論引擎，PagedAttention（⭐79.5K）
+- 👉 [[sgl-project-sglang|SGLang]] — 高效能服務框架，RadixAttention 前綴快取（⭐27.6K）
+- 👉 [[NVIDIA-TensorRT-LLM]] — NVIDIA 官方推論加速，GPU 深度最佳化（⭐13.6K）
+- 👉 [[huggingface-transformers|Hugging Face Transformers]] — 模型定義框架，100 萬+ 模型（⭐160K）
+- 👉 [[litellm]] — LLM Gateway，100+ Provider 統一 API（⭐45.7K）
 
 ### 從零學 LLM
 
-- [[minimind|MiniMind]] — 64M 參數從零訓練 LLM，2 小時完整流程（⭐49.8K）
-- [[rasbt-LLMs-from-scratch|LLMs from Scratch]] — 書籍+程式碼，理論教學導向（⭐93.8K）
+- 👉 [[minimind|MiniMind]] — 64M 參數從零訓練 LLM，2 小時完整流程（⭐49.8K）
+- 👉 [[rasbt-LLMs-from-scratch|LLMs from Scratch]] — 書籍+程式碼，理論教學導向（⭐93.8K）
 
 ### Agent 框架
 
-- [[AutoGPT]] — 自主 Agent 框架，2023 年引爆 Agent 浪潮（⭐184K）
-- [[LangChain]] — LLM 應用開發框架，100+ 整合（⭐136K）
-- [[CrewAI]] — 多 Agent 角色扮演協作框架（⭐51K）
+- 👉 [[AutoGPT]] — 自主 Agent 框架，2023 年引爆 Agent 浪潮（⭐184K）
+- 👉 [[LangChain]] — LLM 應用開發框架，100+ 整合（⭐136K）
+- 👉 [[CrewAI]] — 多 Agent 角色扮演協作框架（⭐51K）
 
 ## 相關概念
 
-← [[AI-Agent]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]] · [[minimind]]
+← [[AI-Agent]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]] · [[minimind]] · [[llm-internals]] · [[llm-knowledge-base]]
+
+## 來源
+
+- raw/ 目錄中多個 LLM 相關原始檔案
 
 ---
 

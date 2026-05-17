@@ -5,7 +5,7 @@ created: 2026-04-28
 
 # Google Skills
 
-> Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐4.8k
+> Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐9.6k
 
 ## 快速導航
 
@@ -15,15 +15,25 @@ created: 2026-04-28
 
 ## 是什麼
 
-Google Skills 是 Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義。它使用與 addyosmani/agent-skills 相同的 SKILL.md 格式和 skills.sh 分發標準。
+Google Skills 是 Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義。它使用與 addyosmani/agent-skills 相同的 SKILL.md 格式和 skills.sh 分發標準。每個 Skill 對應一項 Google 產品/技術，幫助 AI Agent 正確使用 Google Cloud 服務。
 
-**GitHub**: https://github.com/google/skills
-**Stars**: 4.8k | **Forks**: 291
-**授權**: Apache 2.0
+## 核心特色
 
-## 什麼是 Google Skills
+### 官方出品
 
-Google 官方出品的 Agent Skills 庫，每個 Skill 對應一項 Google 產品/技術，幫助 AI Agent 正確使用 Google Cloud 服務。
+Google 自己維護，品質有保證。每個 Skill 都是 Google 工程師撰寫和審核的。
+
+### 實用導向
+
+每個 Skill 對應真實的雲端服務，不是抽象概念。從 BigQuery 資料分析到 Cloud Run 部署，都是有具體使用場景的。
+
+### Recipe 模式
+
+不只教概念，還提供操作食譜（Recipe）。如 GCP 入門、GCP 認證、網路可觀測性等，讓 Agent 有具體操作步驟可遵循。
+
+### Well-Architected Framework
+
+涵蓋安全、可靠度、成本三大架構面向，不只是功能列表，而是架構最佳實踐。
 
 ### 收錄的 Skills
 
@@ -43,28 +53,40 @@ Google 官方出品的 Agent Skills 庫，每個 Skill 對應一項 Google 產�
 | Recipe: Authenticating to GCP | GCP 認證 |
 | Recipe: Network Observability | 網路可觀測性 |
 
-## 安裝方式
+## 怎麼用
 
 ```bash
+# 安裝所有 Google Skills
 npx skills add google/skills
+
+# 安裝特定 Skill
+npx skills add google/skills --skill bigquery-basics
+
+# 在 Claude Code 中使用
+# Skills 會自動被 Agent 讀取，不需要額外配置
 ```
 
-安裝時可選擇特定 Skill。
+## 跟其他方案的關係
 
-## 為什麼重要
+Google Skills 使用與 [[addyosmani-agent-skills|addyosmani/agent-skills]] 相同的 skills.sh 生態標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程（審查、除錯、優化），Google 版專注於 Google Cloud 服務。
 
-1. **官方出品**：Google 自己維護，品質有保證
-2. **實用導向**：每個 Skill 對應真實的雲端服務
-3. **Recipe 模式**：不只教概念，還提供操作食譜
-4. **Well-Architected Framework**：涵蓋安全、可靠度、成本三大架構面向
+跟 [[AI-Skills]] 概念的關係：Google Skills 是 Agent Skills 標準的官方實作，展示了大型科技公司也擁抱開放標準。它是 [[agent-skills-ecosystem|Agent Skills 生態系]] 的一部分。
 
-## 與其他專案的關係
+## 相關概念
 
-- 使用相同的 skills.sh 生態標準
-- 與 [[addyosmani-agent-skills|addyosmani/agent-skills]] 和 [[karpathy-skills|karpathy-skills]] 格式相容
-- 展示了大型科技公司也擁抱 Agent Skills 標準
-- 屬於 [[agent-skills-ecosystem|Agent Skills 生態系]] 的一環
+← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[MCP]] · [[addyosmani-agent-skills]]
 
-## 參考資料
+## 來源
 
-- [GitHub - google/skills](https://github.com/google/skills)
+- GitHub: https://github.com/google/skills
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | https://github.com/google/skills |
+| Stars | ⭐9,608 |
+| Language | Shell/Config |
+| 建立日期 | 2026-03-31 |
+| 授權 | Apache-2.0 |
+| 收錄日期 | 2026-04-28 |

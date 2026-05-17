@@ -20,9 +20,39 @@ addyosmani/agent-skills 是 Addy Osmani 維護的 Agent Skills 開源專案，�
 **作者**: Addy Osmani（Google Chrome 團隊工程師）
 **GitHub**: https://github.com/addyosmani/agent-skills
 
-## 什麼是 Agent Skills
+## 核心特色
 
-一種標準化的 AI 能力定義格式。每個 Skill 是一個資料夾，包含 `SKILL.md` 和相關檔案。`SKILL.md` 定義觸發條件、操作流程與輸出品質標準，Agent 讀取後便知道在什麼情境下使用這個 Skill。
+### 標準化 SKILL.md 格式
+
+每個 Skill 是一個資料夾，包含 SKILL.md（觸發條件、操作流程、品質標準）和相關模板。Agent 讀取 SKILL.md 後就知道在什麼情境下使用這個 Skill，不需要硬編碼行為。
+
+### 覆蓋軟體開發全流程
+
+收錄 9+ 核心技能，從程式碼審查、除錯、效能優化到安全加固，涵蓋開發者日常工作的關鍵場景。每個 Skill 都有明確的品質標準。
+
+### 一鍵安裝，跨框架通用
+
+`npx skills add addyosmani/agent-skills` 一行指令安裝，相容 OpenClaw、Claude Code、Codex 等主流 coding agent。使用 skills.sh 分發標準。
+
+### 品質導向設計
+
+每個 Skill 不只是功能清單，而是定義了產出的最低品質要求。Agent 必須達到品質標準才算完成任務。
+
+### 社群驅動，持續擴充
+
+開源貢獻模式，任何人可以提交新 Skill。Addy Osmani（Google Chrome 團隊工程師）親自維護品質。
+
+## 怎麼用
+
+### 安裝
+
+```bash
+# 安裝所有 Skills
+npx skills add addyosmani/agent-skills
+
+# 安裝特定 Skill
+npx skills add addyosmani/agent-skills --skill code-review
+```
 
 ### Skill 結構
 
@@ -41,41 +71,27 @@ skills/
 - **品質標準**：產出的最低品質要求
 - **注意事項**：限制和風險
 
-## 收錄的 Skills（部分）
+## 跟其他方案的關係
 
-| Skill | 說明 |
-|-------|------|
-| code-review | 程式碼審查 |
-| debugging | 除錯與錯誤恢復 |
-| performance | 效能優化 |
-| simplification | 重構與簡化 |
-| TDD | 測試驅動開發 |
-| api-design | API 設計 |
-| security | 安全加固 |
-| CI/CD | 自動化部署 |
-| frontend-engineering | 前端 UI 工程 |
+addyosmani/agent-skills 是 [[agent-skills-ecosystem|Agent Skills 生態系]] 的核心專案之一。它跟 [[google-skills|Google Skills]] 使用相同的 skills.sh 分發標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程，Google 版專注於 Google Cloud 服務。
 
-## 安裝方式
+格式上與 [[openclaw|OpenClaw]] 的 SKILL.md 完全相容，OpenClaw 使用者可以直接安裝使用。與 [[karpathy-skills|Karpathy Skills]] 相比，addyosmani 版更注重軟體工程實踐（審查、除錯、優化），Karpathy 版更注重研究自動化。
 
-```bash
-npx skills add addyosmani/agent-skills
-```
+## 相關概念
 
-安裝時可選擇特定 Skill 或全部安裝。
+← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[MCP]] · [[google-skills]]
 
-## 為什麼重要
+## 來源
 
-1. **標準化**：統一的 Skill 格式，跨框架通用
-2. **可組合**：Skill 之間可以互相搭配
-3. **社群驅動**：開源貢獻，持續擴充
-4. **品質導向**：每個 Skill 都有品質標準，不只是功能清單
+- GitHub: https://github.com/addyosmani/agent-skills
 
-## 與其他專案的關係
+---
 
-- 格式與 [[openclaw|OpenClaw]] 的 SKILL.md 相容
-- 與 [[google-skills|google/skills]] 使用相同的 skills.sh 分發標準
-- 是 [[agent-skills-ecosystem|Agent Skills 生態系]] 的核心專案之一
-
-## 參考資料
-
-- [GitHub - addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+| 項目 | 值 |
+|------|-----|
+| GitHub | https://github.com/addyosmani/agent-skills |
+| Stars | ⭐42,774 |
+| Language | Shell |
+| 建立日期 | 2026-02-15 |
+| 授權 | MIT |
+| 收錄日期 | 2026-04-28 |

@@ -5,10 +5,10 @@
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/heygen-com/hyperframes |
-| Stars | ⭐15,232 |
+| Stars | ⭐18,926 |
 | Language | TypeScript |
 | 建立日期 | 2026-03-10 |
-| 授權 | MIT |
+| 授權 | Apache-2.0 |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
@@ -80,18 +80,9 @@ Slash commands（Claude Code）：
 - `/gsap` — timeline 動畫
 - Adapter skills：`/animejs`、`/css-animations`、`/lottie`、`/three`、`/waapi`
 
-### Prompt 模式
 
-**冷啟動** — 描述你想要什麼：
-> Using /hyperframes, create a 10-second product intro with a fade-in title, a background video, and background music.
 
-**熱啟動** — 把現有內容變影片：
-> Summarize the attached PDF into a 45-second pitch video using /hyperframes.
-
-**迭代** — 像影片剪輯師一樣對話：
-> Make the title 2x bigger, swap to dark mode, and add a fade-out at the end.
-
-## 安裝方式
+### 安裝
 
 ```bash
 npx hyperframes init my-video
@@ -101,6 +92,24 @@ npx hyperframes render    # 渲染 MP4
 ```
 
 需求：Node.js >= 22、FFmpeg
+
+### 使用流程
+
+1. 初始化專案（自動安裝 skills）
+2. 撰寫 HTML composition（用 data attributes 標記時間軸）
+3. 瀏覽器預覽（live reload）
+4. 渲染成 MP4
+
+### Agent 驅動工作流
+
+**冷啟動** — 描述你想要什麼：
+> Using /hyperframes, create a 10-second product intro with a fade-in title, a background video, and background music.
+
+**熱啟動** — 把現有內容變影片：
+> Summarize the attached PDF into a 45-second pitch video using /hyperframes.
+
+**迭代** — 像影片剪輯師一樣對話：
+> Make the title 2x bigger, swap to dark mode, and add a fade-out at the end.
 
 ## 技術棧
 

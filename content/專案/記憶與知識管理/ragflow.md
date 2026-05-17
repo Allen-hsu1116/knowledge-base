@@ -13,12 +13,31 @@
 - 🦞 **OpenClaw Skill** → [[openclaw]]（RAGFlow 有官方 OpenClaw Skill）
 - 🛡️ **Prompt 安全** → [[prompt-security]]（接地引用減少幻覺）
 
-## 核心內容
+## 是什麼
 
-### 定位
-RAGFlow 是一個 RAG + Agent 引擎，融合收斂式上下文引擎（converged context engine）和預建 Agent 模板，把非結構化資料轉成高保真、生產就緒的 AI 系統。
+RAGFlow 是一個開源 RAG + Agent 引擎，融合收斂式上下文引擎和預建 Agent 模板，把非結構化資料轉成高保真、生產就緒的 AI 系統。它解決的核心問題是：如何讓 LLM 可靠地使用外部文件知識，而不產生幻覺。
 
-### 關鍵特性
+## 核心特色
+
+- **深度文件理解（DeepDoc）**：從複雜格式（表格、圖表、掃描件）提取知識
+- **模板化分塊**：智慧且可解釋的分塊策略，可視化分塊讓人類可介入修正
+- **接地引用**：減少幻覺，每個回答可追溯回原始文件
+- **Agent 工作流 + MCP**：內建 Agent 模板和 MCP 工具整合
+- **多資料來源**：支援 Word、PPT、Excel、圖片、掃描件、Confluence、S3、Notion 等
+
+## 怎麼用
+
+```bash
+# Docker 部署（需要 Docker 24.0.0+, Docker Compose v2.26.1+）
+git clone https://github.com/infiniflow/ragflow.git
+cd ragflow
+docker compose -f docker/docker-compose.yml up -d
+# 存取 http://localhost:9380
+```
+
+系統需求：CPU ≥ 4 cores, RAM ≥ 16GB, Disk ≥ 50GB
+
+## 跟其他方案的關係
 
 **品質保證**
 - 深度文件理解（DeepDoc）：從複雜格式提取知識

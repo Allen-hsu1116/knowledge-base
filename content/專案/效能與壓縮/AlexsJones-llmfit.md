@@ -5,7 +5,7 @@
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/AlexsJones/llmfit |
-| Stars | ⭐25,403 |
+| Stars | ⭐26,314 |
 | Language | Rust |
 | 建立日期 | 2026-02-15 |
 | 授權 | MIT |
@@ -58,7 +58,9 @@ c           → 開啟比較視圖
 p           → Plan Mode（硬體需求估算）
 ```
 
-## 安裝方式
+## 怎麼用
+
+### 安裝
 
 ```bash
 # macOS / Linux（Homebrew）
@@ -80,6 +82,18 @@ docker run ghcr.io/alexsjones/llmfit
 # 從原始碼編譯
 git clone https://github.com/AlexsJones/llmfit.git
 cd llmfit && cargo build --release
+```
+
+### 基本操作
+
+```bash
+# 啟動互動式 TUI
+llmfit
+
+# CLI 模式（非互動）
+llmfit list --top 10          # 列出前 10 推薦模型
+llmfit run --model llama3     # 啟動模型
+llmfit plan --model llama3    # Plan Mode：估算硬體需求
 ```
 
 ## 技術棧

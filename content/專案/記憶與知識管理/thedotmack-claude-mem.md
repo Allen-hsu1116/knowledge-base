@@ -10,9 +10,15 @@ date: 2026-05-09
 **GitHub**: https://github.com/thedotmack/claude-mem
 **Stars**: ~73.8k | **License**: Apache 2.0
 
-## 什麼是 claude-mem
+## 快速導航
 
-Claude-Mem 讓 Claude Code 的 context 跨 session 存活。自動捕捉工具使用觀察、產生語意摘要、讓未來的 session 可以存取。專案知識在 session 結束後仍然保留。
+- 🧠 **記憶系統** → [[llm-knowledge-base]]（claude-mem 是記憶壓縮的實作之一）
+- 🔧 **Agent 技能** → [[agent-skills-ecosystem]]（claude-mem 用 Skill 機制提供搜尋）
+- 📝 **知識管理** → [[karpathy-gist-llm-wiki]]（LLM Wiki 是另一種知識持久化方法）
+
+## 是什麼
+
+Claude-Mem 讓 Claude Code 的 context 跨 session 存活。它自動捕捉工具使用觀察、產生語意摘要、讓未來的 session 可以存取。專案知識在 session 結束後仍然保留，透過 3 層漸進式揭露工作流實現約 10x token 節省。
 
 ## 核心特色
 
@@ -43,26 +49,38 @@ Claude-Mem 讓 Claude Code 的 context 跨 session 存活。自動捕捉工具�
 
 約 10x token 節省：先過濾再取細節。
 
-## 安裝
+## 怎麼用
 
 ```bash
+# 安裝
 npx claude-mem install
-```
 
-或透過 plugin marketplace：
-```bash
+# 或透過 plugin marketplace
 /plugin marketplace add thedotmack/claude-mem
 /plugin install claude-mem
 ```
 
 也支援 Gemini CLI、OpenCode、OpenClaw Gateway。
 
-## 相關主題
+安裝後自動運作——5 個 Hook 會自動捕捉每次工具使用的觀察，產生摘要並存入 SQLite + Chroma。查詢時使用 `mem-search` skill 或 Web UI。
 
-- [[mempalace-usage-discussion|MemPalace 使用討論]]
-- [[MemPalace-mempalace|MemPalace]]
-- [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
+## 跟其他方案的關係
 
-## 參考資料
+| 專案 | 定位 | 關係 |
+|------|------|------|
+| [[karpathy-gist-llm-wiki]] | LLM Wiki | 對比：Wiki 用 markdown 檔案持久化知識，claude-mem 用 SQLite + 向量 DB |
+| [[project-golem]] | Agent 記憶系統 | 類似：Golem 用 lancedb-pro 向量記憶，claude-mem 用 Chroma |
+| [[llm-knowledge-base]] | 知識庫方法論 | 方法論層級：claude-mem 是方法論的一種實作 |
+| Claude Code 內建記憶 | 基礎方案 | 對比：內建 CLAUDE.md 是靜態的，claude-mem 是動態壓縮 |
 
-- [GitHub - thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 相關概念
+
+← [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[karpathy-gist-llm-wiki]]
+
+## 來源
+
+- raw/2026-05-09-claude-mem.md
+
+---
+
+GitHub: [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · Stars: ~73.8k · License: Apache 2.0 · 收錄日期: 2026-05-09

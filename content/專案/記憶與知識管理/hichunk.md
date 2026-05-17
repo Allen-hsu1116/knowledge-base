@@ -61,13 +61,55 @@ HiChunk 用 **階層式分塊**（每個 chunk 帶 level 標記）+ **Auto-Merge
 | LumberChunk | LC | 用 LLM 判斷分塊邊界 |
 | HiChunk | HC | 階層式分塊 + Auto-Merge |
 
+## 核心特色
+
+- **HiCBench 評估基準**：專門評估 chunking 品質的基準測試，合成 evidence-dense QA 對，比其他 RAG 基準更能評估分塊品質
+- **階層式分塊**：每個 chunk 帶 level 標記，表示在文件階層中的位置，支援動態調整檢索粒度
+- **Auto-Merge 檢索**：找到小粒度 chunk 後自動往上合併到更大粒度片段，確保檢索結果的資訊完整性
+- **微調 LLM 結構化**：用微調 LLM 識別文件結構，保留標題、段落、列表等語義邊界
+
+## 怎麼用
+
+```bash
+git clone https://github.com/TencentCloudADP/hichunk.git
+cd hichunk
+
+conda create -n HiChunk python=3.10
+conda activate HiChunk
+pip install -r requirements.txt
+python -c "import nltk; nltk.download('punkt_tab')"
+```
+
+從 [qasper](https://huggingface.co/datasets/allenai/qasper)、[gov-report](https://gov-report-data.github.io/)、[wiki-727k](https://github.com/koomri/text-segmentation) 下載原始資料集，修改 `origin_data_path` 後執行前處理。
+
+## 跟其他方案的關係
+
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| [[cocoindex]] | 增量索引 | 互補：CocoIndex 做增量向量索引，HiChunk 做結構化分塊 |
+| [[docling]] | 文件解析 | 上游：Docling 解析文件結構，HiChunk 在解析結果上做分塊 |
+| 語義分塊（SemanticChunk） | 分塊方法 | 對比：語義分塊缺乏層級結構，HiChunk 保留多層級 |
+| 固定大小分塊 | 分塊方法 | 對比：固定大小可能截斷語義單元，HiChunk 保留語義邊界 |
+
+## 相關概念
+
+← [[rag]] · [[document-parsing]] · [[Knowledge-Graph]] · [[cocoindex]]
+
+## 來源
+
+- raw/2026-05-xx-hichunk.md
+
 ## 專案資訊
 
 - **GitHub**: https://github.com/TencentCloudADP/hichunk
-- **Stars**: 96
+- **Stars**: ⭐96
 - **語言**: Python
 - **論文**: arXiv:2509.11552
 - **作者**: Wensheng Lu et al., Tencent Youtu Lab
+
+---
+
+GitHub: [TencentCloudADP/hichunk](https://github.com/TencentCloudADP/hichunk) · Stars: ⭐96 · License: Research · 收錄日期: 2026-05-13
 
 ## 與相關主題的連結
 
