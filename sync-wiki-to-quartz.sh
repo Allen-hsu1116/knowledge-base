@@ -73,6 +73,8 @@ document-parsing.md
 rag.md
 generative-AI.md
 AI-video-generation.md
+diffusion-model.md
+world-model.md
 code-intelligence.md
 "
 
@@ -168,6 +170,8 @@ Whisper.md
 supertone-inc-supertonic.md
 ruvnet-RuView.md
 Anil-matcha-Open-Generative-AI.md
+NVlabs-Sana.md
+BigBodyCobain-Shadowbroker.md
 web-crawling.md
 web-scraping.md
 網頁爬蟲.md

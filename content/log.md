@@ -6,6 +6,15 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-19
+
+| 動作 | 標題 | 摘要 |
+|------|------|------|
+| ingest | NVlabs-Sana | NVIDIA/MIT 高效擴散模型系列，4K 影像+影片生成，⭐6361 |
+| ingest | BigBodyCobain-Shadowbroker | 開源即時 OSINT 情報平台，60+ 情報源+AI Agent 通道，⭐7555 |
+| compile | index.md | 新增擴散模型、世界模型概念 |
+| compile | known-repos.json | +2 repos, +2 concepts |
+
 ## 2026-05-18
 
 **Ingest**：

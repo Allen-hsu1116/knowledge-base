@@ -107,7 +107,9 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
+|| [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
+|| [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7,555 | OSINT, AI Agent, 情報平台 | 2026-05-19 |
+|| [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
 | [[supertone-inc-supertonic\|Supertonic]] | ⭐6,043 | TTS, 邊緣裝置, 語音合成 | 2026-05-16 |
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
