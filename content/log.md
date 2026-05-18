@@ -6,6 +6,19 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-18
+
+**Ingest**：
+1. GitHub: microsoft/ai-agents-for-beginners ⭐62,542 — 微軟 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、MCP/A2A 協議
+2. GitHub: KeygraphHQ/shannon ⭐42,711 — 自主白箱 AI 滲透測試工具，原始碼分析 + 動態攻擊驗證
+
+- 新增 wiki/microsoft-ai-agents-for-beginners.md
+- 新增 wiki/KeygraphHQ-shannon.md
+- 更新 known-repos.json（+2 repos, +3 concepts: AI-Agent-Tutorial, pentesting, white-box-security）
+- 更新 wiki/index.md
+
+排除：oven-sh/bun（JS runtime，非 LLM）、TryGhost/Ghost（CMS，非 LLM）、calcom/cal.diy（排程工具，非 LLM）
+
 ## 2026-05-17
 
 **Ingest**：
