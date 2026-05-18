@@ -124,7 +124,7 @@ my-knowledge-base/
 ## 相關概念
 
 - [[llm-knowledge-base|LLM 知識庫方法]] — 我們實作的知識庫系統，就是 Karpathy 方法的延伸
-- [[claude-code-boris-cheny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
+- [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
 - [[agent-skills-ecosystem|Agent Skills 生態系]] — Skills 和知識庫是 Agent 的兩大支柱
 - [[MemPalace-mempalace|MemPalace]] — 另一種記憶系統實作，不改寫原文
 - [[context-engineering-basics|Context Engineering]] — 管理 LLM 看到的內容，是知識庫設計的核心

@@ -12,8 +12,9 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
+| [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐36,330 | Coding Agent CLI, AI Agent, 軟體 CLI 封裝 | 2026-05-18 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
+| [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
 | [[tinyhumansai-openhuman\|OpenHuman]] | ⭐9,051 | AI Agent, MCP, 記憶 | 2026-05-16 |
 | [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
 | [[llama-index\|LlamaIndex]] | ⭐49,422 | RAG, 資料框架, 文件解析 | 2026-05-15 |
@@ -40,6 +41,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[humanlayer-12-factor-agents\|12-Factor Agents]] | ⭐20,278 | Agent 設計原則, 工程實踐 | 2026-05-18 |
 | [[ruvnet-ruflo\|Ruflo]] | ⭐47,000 | 多Agent編排, Swarm, 聯邦通訊 | 2026-05-09 |
 | [[upstash-context7\|Context7]] | ⭐54,800 | LLM 文件查詢, MCP | 2026-05-09 |
 | [[bytedance-deer-flow\|DeerFlow 2.0]] | ⭐66,100 | Agent 編排, 子Agent, 沙箱 | 2026-05-09 |
@@ -107,9 +109,10 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-|| [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
-|| [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7,555 | OSINT, AI Agent, 情報平台 | 2026-05-19 |
-|| [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
+| [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
+| [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7,555 | OSINT, AI Agent, 情報平台 | 2026-05-19 |
+| [[KeygraphHQ-shannon\|Shannon]] | ⭐42,711 | 滲透測試, AI Agent, 白箱安全 | 2026-05-18 |
+| [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
 | [[supertone-inc-supertonic\|Supertonic]] | ⭐6,043 | TTS, 邊緣裝置, 語音合成 | 2026-05-16 |
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
@@ -136,6 +139,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
 | [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
@@ -185,6 +189,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[plausible-analytics\|Plausible Analytics]] | ⭐25,755 | 隱私分析, 網站統計, GDPR 合規 | 2026-05-18 |
+| [[CloakHQ-CloakBrowser\|CloakBrowser]] | ⭐14,651 | 隱私, 瀏覽器, 反偵測 | 2026-05-18 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[ruvnet-RuView\|RuView]] | ⭐56,007 | 嵌入式AI, WiFi感測, 電腦視覺 | 2026-05-15 |
 | [[obscura\|Obscura]] | ⭐11,146 | 隱私, Rust, 瀏覽器 | 2026-05-09 |

@@ -42,4 +42,4 @@ CloakBrowser 是從 Chromium C++ 原始碼層級修改指紋的隱形瀏覽器�
 
 - [[web-scraping]] — 隱形瀏覽器是進階爬蟲的基礎設施
 - [[web-crawling]] — 搭配 Crawl4AI 等 framework 使用
-- [[pentesting]] — 繞過 bot detection 是滲透測試的前置需求
+- [[KeygraphHQ-shannon]] — 繞過 bot detection 是滲透測試的前置需求

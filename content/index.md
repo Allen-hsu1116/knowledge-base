@@ -49,10 +49,9 @@ title: 知識庫總覽
 | [[ocr-memory\|OCR-Memory]] | 用視覺模態壓縮 Agent 長期記憶，把歷史軌跡渲染成圖片，透過視覺錨點精確檢索原文。 |
 | [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」：Persona 是方向，Skill 是方法，兩者缺一不可。 |
 | [[prompt-security\|Prompt 安全與越獄]] | 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。 |
-| [[pentesting\|AI 滲透測試]] | 用 AI Agent 自動化白箱滲透測試，結合原始碼分析與動態攻擊驗證。 |
-|| [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
-|| [[12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
-|| [[ai-self-growth|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
+| [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
+| [[12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
+| [[ai-self-growth|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
 
 ### 📚 應用與研究
 
@@ -67,10 +66,11 @@ title: 知識庫總覽
 
 | 概念 | 說明 |
 |------|------|
+| [[embedded-AI|邊緣裝置 AI]] | 在資源受限的邊緣裝置上部署 AI 模型，低延遲、隱私、離線運行。 |
 | [[generative-AI|生成式 AI]] | 能夠生成新內容（圖片、影片、音訊、文字等）的 AI 技術，從訓練資料中學習分佈，創造前所未見的輸出。 |
-|| [[AI-video-generation|AI 影片生成]] | AI 影片生成技術總覽：從文字到影片的生成模型、工具和方法。 |
-|| [[diffusion-model|擴散模型]] | 透過漸進去噪生成高品質內容的模型架構，Sana 等模型的核心技術。 |
-|| [[world-model|世界模型]] | 理解和模擬物理世界的 AI 模型，支援可控環境生成與具身智慧。 |
+| [[AI-video-generation|AI 影片生成]] | AI 影片生成技術總覽：從文字到影片的生成模型、工具和方法。 |
+| [[diffusion-model|擴散模型]] | 透過漸進去噪生成高品質內容的模型架構，Sana 等模型的核心技術。 |
+| [[world-model|世界模型]] | 理解和模擬物理世界的 AI 模型，支援可控環境生成與具身智慧。 |
 
 ### 🤖 程式碼智慧
 

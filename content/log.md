@@ -588,3 +588,31 @@ title: 整理記錄
 - agent-skills-ecosystem.md：加入 Matt Pocock Skills 和 Codex Complexity Optimizer 到相關專案
 - codeburn.md：加入 Matt Pocock Skills 和 Codex Complexity Optimizer 到比較表
 - projects.md：Agent 框架與工具（+CUA）、Skill 生態系（+Matt Pocock Skills +Codex Complexity Optimizer）、基礎設施（+CUA）
+
+## [2026-05-18] lint | 知識庫 lint 檢查與修復
+
+### 發現的問題
+1. ❌ 斷掉的 cross-links: CloakHQ-CloakBrowser → [[pentesting]]（不存在）、andrej-karpathy-ai-how → [[claude-code-boris-cheny-advanced-techniques]]（拼字錯誤 cheny→cherny）
+2. ❌ 孤兒頁 7 個：CloakHQ-CloakBrowser, HKUDS-CLI-Anything, KeygraphHQ-shannon, embedded-AI, humanlayer-12-factor-agents, microsoft-ai-agents-for-beginners, plausible-analytics
+3. ❌ projects.md 日期排序錯誤 3 處
+4. ❌ index.md 表格格式不一致（|| 和 ||| 混用）
+5. ❌ projects.md 表格格式不一致（|| 行）
+6. ⚠️ 專案頁 29 個缺區塊（底部 metadata 最常見）
+7. ⚠️ 概念頁 28 個缺區塊
+8. ⚠️ Stars 欄位 16 個問題（缺 Stars 或數值偏低）
+9. ⚠️ 未整理 raw 素材 4 個（AlexsJones-llmfit 有 wiki 但 raw 未被引用；CloakHQ-CloakBrowser, HKUDS-CLI-Anything, KeygraphHQ-shannon 的 raw 尚未編譯）
+
+### 已修復
+1. ✅ 修復 CloakHQ-CloakBrowser 的斷 link → [[KeygraphHQ-shannon]]
+2. ✅ 修復 andrej-karpathy-ai-how 拼字錯誤 cheny→cherny
+3. ✅ 移除 index.md 幽靈概念 [[pentesting]]（無對應 wiki 頁）
+4. ✅ 補齊 7 個孤兒頁到 index.md 或 projects.md
+5. ✅ 修復 projects.md 3 處日期排序
+6. ✅ 統一 index.md 表格格式
+7. ✅ 統一 projects.md 表格格式
+
+### 待處理
+- 29 個專案頁缺區塊（下一次 compile 時補齊）
+- 28 個概念頁缺區塊
+- 16 個 Stars 需更新（下次 lint 時批次查 GitHub API）
+- 4 個 raw 素材待 compile
