@@ -109,6 +109,8 @@ OpenClaw 原生支援 SKILL.md 格式：
 - [[affaan-m-everything-claude-code]] — 140K+ stars，含 Skills、Instincts、Security
 - [[sickn33-antigravity-awesome-skills]] — 1,443+ SKILL.md 技能庫
 - [[googleworkspace-cli]] — 40+ AI agent skills 內建
+- [[mattpocock-skills]] — 工程師實戰 Skills，強調對齊、術語、回饋、架構
+- [[Kappaemme-git-codex-complexity-optimizer]] — 演算法複雜度分析和優化報告 Skill
 
 ## 相關影片
 - [[agent-anatomy-openclaw]] — 解剖小龍蝦：Skill 是 SOP 不是程式

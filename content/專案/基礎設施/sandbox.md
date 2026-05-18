@@ -31,6 +31,7 @@
 |------|------|
 | [[opensandbox\|OpenSandbox (阿里巴巴)]] | 多語言 SDK + Docker/K8s runtime |
 | [[cubesandbox\|CubeSandbox]] | Rust 實現的輕量沙箱 |
+| [[trycua-cua\|CUA]] | 跨平台桌面沙箱 + macOS 驅動 |
 | E2B | 雲端沙箱服務 |
 | Modal | Serverless Python 沙箱 |
 
@@ -44,5 +45,6 @@
 ## 相關主題
 
 - [[opensandbox|OpenSandbox]]
+- [[trycua-cua|CUA]]
 - [[MCP|MCP 協議]]
 - [[AI-Agent|AI Agent]]

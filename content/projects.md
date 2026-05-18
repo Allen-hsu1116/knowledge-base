@@ -13,6 +13,7 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
+| [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[tinyhumansai-openhuman\|OpenHuman]] | ⭐9,051 | AI Agent, MCP, 記憶 | 2026-05-16 |
 | [[garrytan-gstack\|gstack]] | ⭐96,762 | Coding Agent CLI, AI Skills, Agent 工作流程 | 2026-05-15 |
 | [[llama-index\|LlamaIndex]] | ⭐49,422 | RAG, 資料框架, 文件解析 | 2026-05-15 |
@@ -167,6 +168,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
+| [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
 | [[colbymchenry-codegraph\|CodeGraph]] | ⭐2,530 | 程式碼智慧, Knowledge Graph, MCP | 2026-05-17 |
 | [[obra-superpowers\|Superpowers]] | ⭐189,521 | AI Skills, AI Agent, 方法論 | 2026-05-14 |
 | [[github-spec-kit\|Spec Kit]] | ⭐98,382 | AI Skills, Coding Agent CLI, Spec-Driven | 2026-05-14 |
@@ -180,6 +183,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[trycua-cua\|CUA]] | ⭐16,887 | 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[ruvnet-RuView\|RuView]] | ⭐56,007 | 嵌入式AI, WiFi感測, 電腦視覺 | 2026-05-15 |
 | [[obscura\|Obscura]] | ⭐11,146 | 隱私, Rust, 瀏覽器 | 2026-05-09 |
 | [[cubesandbox\|CubeSandbox]] | ⭐5,184 | 沙箱, Rust, 程式碼執行 | 2026-05-09 |

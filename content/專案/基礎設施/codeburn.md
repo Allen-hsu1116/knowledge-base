@@ -57,6 +57,8 @@ codeburn yield
 | [[Coding-Agent-CLI]] | Coding Agent 工具 | CodeBurn 追蹤 coding agent 的使用狀況 |
 | [[Token-Optimization]] | Token 優化 | CodeBurn 的 optimize 功能偵測 token 浪費 |
 | [[ai-agent-work-impact]] | AI 工作影響 | CodeBurn 的 yield 功能量化 AI 投資回報率 |
+| [[mattpocock-skills]] | 工程實踐 Skills | Matt Pocock 的 /caveman Skill 減少 token 用量 ~75%，與 CodeBurn 的 optimize 互補 |
+| [[Kappaemme-git-codex-complexity-optimizer]] | 演算法複雜度分析 | 分析程式碼複雜度，與 CodeBurn 的成本追蹤互補 |
 
 ## 相關概念
 
