@@ -11,13 +11,19 @@ title: 整理記錄
 **Ingest**：
 1. GitHub: microsoft/ai-agents-for-beginners ⭐62,542 — 微軟 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、MCP/A2A 協議
 2. GitHub: KeygraphHQ/shannon ⭐42,711 — 自主白箱 AI 滲透測試工具，原始碼分析 + 動態攻擊驗證
+3. GitHub: HKUDS/CLI-Anything ⭐36,330 — 一行指令把任何軟體包成 CLI harness，讓 AI Agent 直接操控
+4. GitHub: plausible/analytics ⭐25,755 — 開源隱私優先網站分析工具，無 Cookie 的 Google Analytics 替代
+5. GitHub: humanlayer/12-factor-agents ⭐20,278 — 借鏡 12 Factor Apps 的 Agent 工程化 12 條原則
+6. GitHub: CloakHQ/CloakBrowser ⭐14,651 — C++ 原始碼層級隱形 Chromium，通過 30+ 偵測服務
 
-- 新增 wiki/microsoft-ai-agents-for-beginners.md
-- 新增 wiki/KeygraphHQ-shannon.md
-- 更新 known-repos.json（+2 repos, +3 concepts: AI-Agent-Tutorial, pentesting, white-box-security）
+- 新增 wiki/HKUDS-CLI-Anything.md
+- 新增 wiki/plausible-analytics.md
+- 新增 wiki/humanlayer-12-factor-agents.md
+- 新增 wiki/CloakHQ-CloakBrowser.md
+- 更新 known-repos.json（+4 repos, +3 concepts: CLI-Anything, 12-factor-agents, CloakBrowser）
 - 更新 wiki/index.md
 
-排除：oven-sh/bun（JS runtime，非 LLM）、TryGhost/Ghost（CMS，非 LLM）、calcom/cal.diy（排程工具，非 LLM）
+排除：ggml-org/llama.cpp（已收錄為 ggerganov-llama-cpp）
 
 ## 2026-05-17
 
