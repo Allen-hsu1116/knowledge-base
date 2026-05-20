@@ -6,6 +6,18 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-20
+
+| 動作 | 標題 | 摘要 |
+|------|------|------|
+| ingest | affaan-m/ECC | Agent harness 效能優化系統，60+ agents / 232+ skills，跨 7+ 工具，⭐187,193 |
+| ingest | multica-ai/andrej-karpathy-skills | Karpathy 觀點啟發的 Claude Code 四大原則（思考先行、簡單優先、精準修改、目標驅動），⭐138,023 |
+| ingest | msitarzewski/agency-agents | 144+ 專業 AI agent 人格集合，跨 10+ 工具支援，⭐101,621 |
+| ingest | frappe/erpnext | 100% 開源 ERP 系統，涵蓋會計/訂單/製造/資產/專案，⭐34,279 |
+| ingest | Alishahryar1/free-claude-code | Claude Code 免費代理，10 個 provider 後端路由，⭐26,376 |
+| compile | index.md | 新增 ECC、Agent Harness 優化概念 |
+| compile | known-repos.json | +5 repos, +4 concepts |
+
 ## 2026-05-19
 
 | 動作 | 標題 | 摘要 |
