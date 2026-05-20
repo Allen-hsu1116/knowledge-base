@@ -159,6 +159,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[Narcooo-inkos]] — 自主小說寫作 Agent
 - [[HKUDS-Vibe-Trading]] — 個人交易 Agent
 - [[holaboss-ai-holaOS]] — Agent 作業系統
+- [[Mininglamp-AI-Mano-P]] — GUI-VLA 邊緣代理，純視覺桌面自動化
 
 ## 相關概念
 

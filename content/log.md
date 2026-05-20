@@ -616,3 +616,14 @@ title: 整理記錄
 - 28 個概念頁缺區塊
 - 16 個 Stars 需更新（下次 lint 時批次查 GitHub API）
 - 4 個 raw 素材待 compile
+
+## [2026-05-20] ingest | Mano-P
+
+手動加入老綸提供的 GitHub 連結：
+
+- 新增 raw/2026-05-20-Mininglamp-AI-Mano-P.md
+- 新增 wiki/Mininglamp-AI-Mano-P.md（專案頁）
+- 更新 wiki/AI-Agent.md（加入相關專案連結）
+- 更新 wiki/AI-Skills.md（加入 Mano-Skill 相關專案連結）
+- 更新 wiki/projects.md（新增 Mano-P 條目）
+- 更新 known-repos.json（+1 repo, +3 concepts: GUI-VLA, edge-AI, computer-use-agent）

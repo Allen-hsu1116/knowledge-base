@@ -71,6 +71,7 @@ Skills 的核心價值是跨 agent 平台通用。同一個 SKILL.md 可以在�
 - [[open-design]] — 31 個設計 Skills + 129 套 Design Systems，skill-driven 設計工作流
 - [[mattpocock-skills]] — 工程師實戰 Skills，強調對齊和架構
 - [[Kappaemme-git-codex-complexity-optimizer]] — 演算法複雜度分析 Skill
+- [[Mininglamp-AI-Mano-P]] — Mano-Skill：ClawHub/Claude Code 的 GUI 自動化 Skill
 
 ## 相關概念
 

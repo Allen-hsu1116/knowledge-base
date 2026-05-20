@@ -12,6 +12,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,063 | GUI-VLA, edge-AI, computer-use-agent, AI Agent | 2026-05-20 |
 | [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐36,330 | Coding Agent CLI, AI Agent, 軟體 CLI 封裝 | 2026-05-18 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
