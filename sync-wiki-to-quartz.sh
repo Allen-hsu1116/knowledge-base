@@ -104,6 +104,10 @@ czlonkowski-n8n-mcp.md
 tinyhumansai-openhuman.md
 agent-reach.md
 opencli.md
+Mininglamp-AI-Mano-P.md
+HKUDS-CLI-Anything.md
+affaan-m-ECC.md
+msitarzewski-agency-agents.md
 "
 
 # --- 專案/Agent-編排與記憶 ---
@@ -112,6 +116,7 @@ ruvnet-ruflo.md
 upstash-context7.md
 bytedance-deer-flow.md
 claude-code-boris-cherny-advanced-techniques.md
+humanlayer-12-factor-agents.md
 "
 
 # --- 專案/記憶與知識管理 ---
@@ -176,6 +181,7 @@ web-crawling.md
 web-scraping.md
 網頁爬蟲.md
 語音辨識.md
+KeygraphHQ-shannon.md
 "
 
 # --- 專案/效能與壓縮 ---
@@ -195,6 +201,7 @@ PROJECT_LEARN="
 minimind.md
 rasbt-LLMs-from-scratch.md
 datawhalechina-hello-agents.md
+microsoft-ai-agents-for-beginners.md
 "
 
 # --- 專案/應用 ---
@@ -233,6 +240,9 @@ obra-superpowers.md
 github-spec-kit.md
 K-Dense-AI-scientific-agent-skills.md
 colbymchenry-codegraph.md
+mattpocock-skills.md
+multica-ai-andrej-karpathy-skills.md
+Alishahryar1-free-claude-code.md
 "
 
 # --- 專案/基礎設施 ---
@@ -252,6 +262,11 @@ hermes-agent.md
 project-golem.md
 sandbox.md
 visualization.md
+plausible-analytics.md
+CloakHQ-CloakBrowser.md
+trycua-cua.md
+frappe-erpnext.md
+Kappaemme-git-codex-complexity-optimizer.md
 "
 
 # --- 影片 ---
