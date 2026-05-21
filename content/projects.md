@@ -31,6 +31,7 @@ title: 專案索引
 | [[openai-codex-plugin-cc]] | ⭐17,527 | AI Agent, AI Skills, Coding Agent CLI | 2026-05-05 |
 | [[Gitlawb-openclaude]] | ⭐25,668 | Coding Agent CLI, AI Agent, MCP | 2026-05-04 |
 | [[affaan-m-everything-claude-code]] | ⭐172,098 | AI Agent, AI Skills, Prompt Security, Token Optimization | 2026-05-03 |
+| [[rohitg00-agentmemory\|agentmemory]] | ⭐15,140 | AI Agent, MCP, 記憶, RAG | 2026-05-22 |
 | [[HKUDS-nanobot]] | ⭐41,527 | AI Agent, MCP | 2026-05-03 |
 | [[googleworkspace-cli]] | ⭐25,672 | AI Agent, MCP, AI Skills | 2026-05-03 |
 | [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐37,928 | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
@@ -112,6 +113,8 @@ title: 專案索引
 |------|-------|------|----------|
 | [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
 | [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7,555 | OSINT, AI Agent, 情報平台 | 2026-05-19 |
+| [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
+| [[opentoonz-opentoonz\|OpenToonz]] | ⭐6,347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
 | [[KeygraphHQ-shannon\|Shannon]] | ⭐42,711 | 滲透測試, AI Agent, 白箱安全 | 2026-05-18 |
 | [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
 | [[supertone-inc-supertonic\|Supertonic]] | ⭐6,043 | TTS, 邊緣裝置, 語音合成 | 2026-05-16 |
@@ -141,6 +144,7 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
+| [[rohitg00-ai-engineering-from-scratch\|AI Engineering from Scratch]] | ⭐9,567 | LLM, AI Agent, MCP, 教學 | 2026-05-22 |
 | [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
@@ -192,6 +196,7 @@ title: 專案索引
 |------|-------|------|----------|
 | [[plausible-analytics\|Plausible Analytics]] | ⭐25,755 | 隱私分析, 網站統計, GDPR 合規 | 2026-05-18 |
 | [[CloakHQ-CloakBrowser\|CloakBrowser]] | ⭐14,651 | 隱私, 瀏覽器, 反偵測 | 2026-05-18 |
+| [[rmyndharis-OpenWA\|OpenWA]] | ⭐4,864 | WhatsApp, API Gateway, 工作流自動化 | 2026-05-22 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[ruvnet-RuView\|RuView]] | ⭐56,007 | 嵌入式AI, WiFi感測, 電腦視覺 | 2026-05-15 |
 | [[obscura\|Obscura]] | ⭐11,146 | 隱私, Rust, 瀏覽器 | 2026-05-09 |
