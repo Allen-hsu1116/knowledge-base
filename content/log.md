@@ -652,3 +652,12 @@ title: 整理記錄
 - 更新 wiki/AI-Skills.md（加入 Mano-Skill 相關專案連結）
 - 更新 wiki/projects.md（新增 Mano-P 條目）
 - 更新 known-repos.json（+1 repo, +3 concepts: GUI-VLA, edge-AI, computer-use-agent）
+
+## 2026-05-22
+
+### 更新：multica-ai-andrej-karpathy-skills（Karpathy CLAUDE.md 12 條規則）
+
+- 來源：abmedia.io 報導 Mnilax 擴充版（4+8 條）
+- 更新 wiki/multica-ai-andrej-karpathy-skills.md（從 4 條擴充到 12 條完整版）
+- 新增 wiki/CLAUDE-md.md（概念頁）
+- 更新 known-repos.json（+1 concept: CLAUDE-md）

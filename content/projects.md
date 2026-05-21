@@ -31,6 +31,7 @@ title: 專案索引
 | [[openai-codex-plugin-cc]] | ⭐17,527 | AI Agent, AI Skills, Coding Agent CLI | 2026-05-05 |
 | [[Gitlawb-openclaude]] | ⭐25,668 | Coding Agent CLI, AI Agent, MCP | 2026-05-04 |
 | [[affaan-m-everything-claude-code]] | ⭐172,098 | AI Agent, AI Skills, Prompt Security, Token Optimization | 2026-05-03 |
+| [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md 規則]] | ⭐141,652 | AI Skills, Prompt Engineering, CLAUDE.md, Coding Agent CLI | 2026-05-20 |
 | [[rohitg00-agentmemory\|agentmemory]] | ⭐15,140 | AI Agent, MCP, 記憶, RAG | 2026-05-22 |
 | [[HKUDS-nanobot]] | ⭐41,527 | AI Agent, MCP | 2026-05-03 |
 | [[googleworkspace-cli]] | ⭐25,672 | AI Agent, MCP, AI Skills | 2026-05-03 |

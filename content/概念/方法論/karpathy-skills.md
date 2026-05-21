@@ -65,7 +65,7 @@ npx skills add forrestchang/andrej-karpathy-skills
 
 ## 相關概念
 
-← [[karpathy-gist-llm-wiki]] · [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[llm-knowledge-base-obsidian-claude-code]]
+← [[CLAUDE-md]] · [[karpathy-gist-llm-wiki]] · [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[llm-knowledge-base-obsidian-claude-code]]
 
 ## 來源
 
