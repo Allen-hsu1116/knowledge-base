@@ -80,6 +80,16 @@ title: 知識庫總覽
 |------|------|
 | [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
 
+### 📋 本日新增（2026-05-22）
+
+| 專案 | 說明 |
+|------|------|
+| [[trimstray-the-book-of-secret-knowledge\|The Book of Secret Knowledge]] | 系統管理/DevOps/資安工具與知識大全集，222k star。 |
+| [[affaan-m-ECC\|ECC]] | AI agent harness 性能優化 OS，跨 7+ harness，182k star。 |
+| [[multica-ai-andrej-karpathy-skills\|Karpathy Coding Guidelines]] | 單一 CLAUDE.md 把 Karpathy 的 LLM coding 觀察化為四條原則，143k star。 |
+| [[msitarzewski-agency-agents\|The Agency]] | 100+ 專業 AI agent 角色庫（含中國平台），104k star。 |
+| [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | Google 官方 Chrome DevTools MCP server，讓 agent 控制活瀏覽器，40k star。 |
+
 ---
 
 ## 🎬 教學影片

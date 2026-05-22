@@ -6,6 +6,23 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-22（下午 batch）
+
+**Ingest**：
+1. GitHub: trimstray/the-book-of-secret-knowledge ⭐222,443 — 系統管理/DevOps/資安工具與知識大全集
+2. GitHub: affaan-m/ECC ⭐188,164 — AI agent harness 性能優化 OS，跨 7+ harness
+3. GitHub: multica-ai/andrej-karpathy-skills ⭐143,191 — 單一 CLAUDE.md 把 Karpathy 的 LLM coding 觀察化為四條原則
+4. GitHub: msitarzewski/agency-agents ⭐103,672 — 100+ 專業 AI agent 角色庫（含中國平台）
+5. GitHub: ChromeDevTools/chrome-devtools-mcp ⭐40,488 — Google 官方 Chrome DevTools MCP server
+
+- 新增 wiki/trimstray-the-book-of-secret-knowledge.md
+- 新增 wiki/affaan-m-ECC.md
+- 新增 wiki/multica-ai-andrej-karpathy-skills.md
+- 新增 wiki/msitarzewski-agency-agents.md
+- 新增 wiki/ChromeDevTools-chrome-devtools-mcp.md
+- 更新 known-repos.json（+5 repos, +3 concepts）
+- 更新 wiki/index.md
+
 ## 2026-05-22
 
 || 動作 | 標題 | 摘要 |
