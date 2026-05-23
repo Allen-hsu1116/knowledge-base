@@ -6,6 +6,22 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-23
+
+**Ingest + Compile**：
+1. GitHub: Fincept-Corporation/FinceptTerminal ⭐22,646 — 機構級金融智慧平台，37 個 AI Agent + 100+ 數據連接器
+2. GitHub: karpathy/nn-zero-to-hero ⭐22,343 — Karpathy 神經網路課程，從 micrograd 到 GPT
+3. GitHub: Lum1104/Understand-Anything ⭐18,628 — 程式碼/知識庫轉互動式知識圖譜，多 Agent 流水線
+
+- 新增 wiki/FinceptTerminal.md
+- 新增 wiki/nn-zero-to-hero.md
+- 新增 wiki/Understand-Anything.md
+- 更新 known-repos.json（+3 repos, +3 concepts）
+- 更新 wiki/index.md
+- 更新 wiki/projects.md
+
+排除：yt-dlp/yt-dlp（影片下載工具，非 LLM/AI 相關）、odoo/odoo（ERP 系統，非 LLM/AI 相關）
+
 ## 2026-05-22（下午 batch）
 
 **Ingest**：

@@ -80,7 +80,15 @@ title: 知識庫總覽
 |------|------|
 | [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
 
-### 📋 本日新增（2026-05-22）
+### 📋 本日新增（2026-05-23）
+
+| 專案 | 說明 |
+|------|------|
+| [[FinceptTerminal\|Fincept Terminal]] | 機構級金融智慧平台，37 個 AI Agent + 100+ 數據連接器，⭐22,646。 |
+| [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | Karpathy 神經網路課程，從 micrograd 到 GPT 逐步建構，⭐22,343。 |
+| [[Understand-Anything\|Understand Anything]] | 程式碼/知識庫轉互動式知識圖譜，多 Agent 流水線，⭐18,628。 |
+
+### 📋 歷史新增（2026-05-22）
 
 | 專案 | 說明 |
 |------|------|
