@@ -163,7 +163,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 相關概念
 
-← [[MCP]] · [[AI-Skills]] · [[Context-Database]] · [[llm-knowledge-base]] · [[agent-persona]] · [[agent-skills-ecosystem]]
+← [[MCP]] · [[AI-Skills]] · [[Context-Database]] · [[llm-knowledge-base]] · [[agent-persona]] · [[agent-skills-ecosystem]] · [[open-webui-open-webui]] · [[walkinglabs-learn-harness-engineering]]
 
 ## 相關影片
 

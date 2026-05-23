@@ -49,7 +49,7 @@ results = client.search(collection_name="docs", data=query_vector, limit=5)
 | [[rag]] | 概念頁 | Milvus 是 RAG 系統的向量搜尋基礎設施 |
 
 ## 相關概念
-← [[rag]] · [[Knowledge-Graph]]
+← [[rag]] · [[Knowledge-Graph]] · [[open-webui-open-webui]]
 
 ## 來源
 - raw/2026-05-10-milvus.md

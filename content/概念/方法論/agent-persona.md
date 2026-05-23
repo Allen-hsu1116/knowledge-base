@@ -85,6 +85,7 @@
 - [[llm-knowledge-base]] — 知識庫是 Persona + Skill 的應用場景之一
 - [[agent-skills-ecosystem]] — Skill 的標準化格式和生態系
 - [[AI-Agent]] — AI 工作流整體趨勢
+- [[walkinglabs-learn-harness-engineering]] — Harness 課程，AGENTS.md 是 Harness 的認知框架部分
 - [[hermes-agent]] — Honcho 跨 session 使用者建模
 - [[project-golem]] — 多代理圓桌討論
 - [[autoresearch]] — program.md 策略驅動

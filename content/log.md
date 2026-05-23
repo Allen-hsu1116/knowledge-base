@@ -694,3 +694,17 @@ title: 整理記錄
 - 更新 wiki/multica-ai-andrej-karpathy-skills.md（從 4 條擴充到 12 條完整版）
 - 新增 wiki/CLAUDE-md.md（概念頁）
 - 更新 known-repos.json（+1 concept: CLAUDE-md）
+
+
+---
+
+## 2026-05-24 — Ingest 2 repos
+
+- **open-webui/open-webui** (⭐100k+) — 自架式 AI 平台，支援 Ollama + OpenAI API，內建 RAG
+  - 新增：`raw/2026-05-24-open-webui-open-webui.md`
+  - 新增：`wiki/open-webui-open-webui.md`
+  - Backlinks：AI-Agent.md, Chroma.md, Milvus.md
+- **walkinglabs/learn-harness-engineering** (⭐1k+) — Harness Engineering 課程，12 講 + 6 專案
+  - 新增：`raw/2026-05-24-walkinglabs-learn-harness-engineering.md`
+  - 新增：`wiki/walkinglabs-learn-harness-engineering.md`
+  - Backlinks：AI-Agent.md, harness-engineering.md, Coding-Agent-CLI.md, agent-persona.md, context-engineering-basics.md

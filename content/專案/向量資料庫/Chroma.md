@@ -51,7 +51,7 @@ results = collection.query(query_texts=["search query"], n_results=2)
 | [[rag]] | 概念頁 | Chroma 是 RAG 原型的首選向量資料庫 |
 
 ## 相關概念
-← [[rag]] · [[AI-Agent]]
+← [[rag]] · [[AI-Agent]] · [[open-webui-open-webui]]
 
 ## 來源
 - raw/2026-05-10-chroma.md

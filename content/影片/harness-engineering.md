@@ -38,7 +38,7 @@ Anthropic 用 steering vector 技術發現：模型有代表情緒的內部向�
 - **Meta Harness**：強模型幫弱模型設計 Harness 的實驗
 
 ## 相關概念
-← [[AI-Agent]] ← [[agent-persona]] ← [[agent-skills-ecosystem]]
+← [[AI-Agent]] ← [[agent-persona]] ← [[agent-skills-ecosystem]] ← [[walkinglabs-learn-harness-engineering]]
 
 ## 來源
 - raw/2026-05-03-harness-engineering.md

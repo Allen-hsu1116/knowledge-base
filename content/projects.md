@@ -39,6 +39,7 @@ title: 專案索引
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
 | [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
+| [[open-webui-open-webui\|Open WebUI]] | ⭐100k+ | LLM, AI Agent, RAG, 向量資料庫, 自架平台 | 2026-05-24 |
 
 ## 🔄 Agent 編排與記憶
 
@@ -147,6 +148,7 @@ title: 專案索引
 || [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | ⭐22,343 | LLM, 神經網路, 教學 | 2026-05-23 |
 || [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
 | [[rohitg00-ai-engineering-from-scratch\|AI Engineering from Scratch]] | ⭐9,567 | LLM, AI Agent, MCP, 教學 | 2026-05-22 |
+| [[walkinglabs-learn-harness-engineering\|Learn Harness Engineering]] | ⭐1k+ | Harness Engineering, AI Agent, Context Engineering, 課程 | 2026-05-24 |
 | [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |

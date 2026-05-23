@@ -71,6 +71,8 @@
 - **Agentic CE**：讓 LLM 自己做 Context Engineering
 
 ## 相關概念
+
+← [[walkinglabs-learn-harness-engineering]]
 ← [[AI-Agent]] · [[agent-skills-ecosystem]] · [[prompt-security]] · [[llm-knowledge-base]] · [[Context-Database]] · [[Token-Optimization]] · [[volcengine-OpenViking]]
 
 ## 相關專案
