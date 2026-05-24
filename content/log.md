@@ -8,6 +8,33 @@ title: 整理記錄
 
 ## 2026-05-25
 
+## [2026-05-24] lint | 知識庫 lint 掃描與修復
+
+### 發現問題
+1. **斷掉的 cross-links**: 30 個連結指向不存在的頁面（概念頁如 pentesting、LLMs-from-scratch 等）
+2. **孤兒頁**: 3 個頁面不在 index.md 或 projects.md（Alishahryar1-free-claude-code、CLAUDE-md、frappe-erpnext）
+3. **index.md 概念區混入專案條目**: 6 個帶 Stars 的條目出現在概念區（multica-ai-multica、mukul975-Anthropic-Cybersecurity-Skills 等）
+4. **WikiLink 大小寫不一致**: 2 個（log.md 中 AI-Self-Growth→ai-self-growth、Self-Correction→self-correction）
+5. **缺區塊頁面**: 58 個頁面缺少必要區塊（36 個專案頁缺快速導航/來源等，22 個概念頁缺核心內容/來源）
+6. **Missing Stars**: 10 個專案頁有 GitHub 連結但缺 Stars 欄位
+7. **raw 素材未整理**: 1 個（2026-05-22-abmedia-claude-md-12-rules.md）
+8. **缺交叉連結**: web-scraping 未連回 web-crawling
+
+### 修復動作
+1. ✅ 移除 index.md 概念區的 6 個帶 Stars 專案條目（改列於 projects.md）
+2. ✅ 新增 7 個專案到 projects.md（multica-ai-multica、mukul975、presenton-presenton、ChromeDevTools、affaan-m-ECC、msitarzewski-agency-agents、trimstray-the-book-of-secret-knowledge）
+3. ✅ 新增 2 個孤立專案到 projects.md（Alishahryar1-free-claude-code、frappe-erpnext）
+4. ✅ 新增 CLAUDE-md 到 index.md 概念區
+5. ✅ 修正 log.md 中的 WikiLink 大小寫問題
+6. ✅ 新增 web-scraping → web-crawling 交叉連結
+
+### 待辦（需手動處理）
+- 30 個斷掉的 cross-links 需要建立缺失的 wiki 頁面或修正連結
+- 58 個頁面缺區塊需補齊
+- 10 個專案頁需查詢 GitHub Stars
+- 1 個 raw 素材未整理
+
+
 **Ingest + Compile**：
 1. GitHub: multica-ai/multica ⭐31,926 — 開源 managed agents 平台，把 coding agents 變成真正的隊友
 2. GitHub: mukul975/Anthropic-Cybersecurity-Skills ⭐7,418 — 754 個結構化網安技能 for AI agents，5 框架對映
@@ -525,8 +552,8 @@ title: 整理記錄
 ### 修復項目
 
 1. **斷掉的 cross-link 修復**：
-   - `[[AI-Self-Growth]]` → `[[ai-self-growth|AI 自我成長]]`（大小寫不符檔名）
-   - `[[Self-Correction]]` → `[[self-correction|Self-Correction 自我修正]]`（大小寫不符檔名）
+   - `[[ai-self-growth]]` → `[[ai-self-growth|AI 自我成長]]`（大小寫不符檔名）
+   - `[[self-correction]]` → `[[self-correction|Self-Correction 自我修正]]`（大小寫不符檔名）
    - `[[AI-Agent]]` → `[[AI-Agent|AI Agent]]`（補上 alias）
    - 修正 `ai-self-growth.md` 和 `index.md` 中的 cross-link
 
@@ -665,7 +692,7 @@ title: 整理記錄
 ## [2026-05-18] lint | 知識庫 lint 檢查與修復
 
 ### 發現的問題
-1. ❌ 斷掉的 cross-links: CloakHQ-CloakBrowser → [[pentesting]]（不存在）、andrej-karpathy-ai-how → [[claude-code-boris-cheny-advanced-techniques]]（拼字錯誤 cheny→cherny）
+1. ❌ 斷掉的 cross-links: CloakHQ-CloakBrowser → [[pentesting]]（不存在）、andrej-karpathy-ai-how → [[claude-code-boris-cherny-advanced-techniques]]（拼字錯誤 cheny→cherny）
 2. ❌ 孤兒頁 7 個：CloakHQ-CloakBrowser, HKUDS-CLI-Anything, KeygraphHQ-shannon, embedded-AI, humanlayer-12-factor-agents, microsoft-ai-agents-for-beginners, plausible-analytics
 3. ❌ projects.md 日期排序錯誤 3 處
 4. ❌ index.md 表格格式不一致（|| 和 ||| 混用）

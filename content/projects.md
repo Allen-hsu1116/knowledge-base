@@ -12,6 +12,12 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[multica-ai-multica\|Multica]] | ⭐31,926 | AI Agent, Managed Agents, 多Agent協作 | 2026-05-24 |
+| [[mukul975-Anthropic-Cybersecurity-Skills\|Anthropic Cybersecurity Skills]] | ⭐7,418 | AI Skills, 網安, Cybersecurity | 2026-05-24 |
+| [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | ⭐40,000 | MCP, Browser, AI Agent | 2026-05-22 |
+| [[Alishahryar1-free-claude-code\|Free Claude Code]] | ⭐26,376 | Coding Agent CLI, LLM, AI Agent | 2026-05-20 |
+| [[affaan-m-ECC\|ECC]] | ⭐189,233 | AI Agent, Harness, Token Optimization | 2026-05-20 |
+| [[msitarzewski-agency-agents\|The Agency]] | ⭐104,521 | Agent Persona, AI Skills, 人格庫 | 2026-05-20 |
 | [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,063 | GUI-VLA, edge-AI, computer-use-agent, AI Agent | 2026-05-20 |
 | [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐36,330 | Coding Agent CLI, AI Agent, 軟體 CLI 封裝 | 2026-05-18 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
@@ -145,8 +151,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-|| [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | ⭐22,343 | LLM, 神經網路, 教學 | 2026-05-23 |
-|| [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
+| [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | ⭐22,343 | LLM, 神經網路, 教學 | 2026-05-23 |
+| [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
 | [[rohitg00-ai-engineering-from-scratch\|AI Engineering from Scratch]] | ⭐9,567 | LLM, AI Agent, MCP, 教學 | 2026-05-22 |
 | [[walkinglabs-learn-harness-engineering\|Learn Harness Engineering]] | ⭐1k+ | Harness Engineering, AI Agent, Context Engineering, 課程 | 2026-05-24 |
 | [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
@@ -157,13 +163,15 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-|| [[FinceptTerminal\|Fincept Terminal]] | ⭐22,646 | AI Agent, 金融預測, 金融分析 | 2026-05-23 |
-|| [[shiyu-coder-Kronos\|Kronos]] | ⭐24,824 | 金融預測, LLM 基礎模型, K 線 | 2026-05-15 |
+| [[presenton-presenton\|Presenton]] | ⭐6,369 | AI, PPT, 簡報生成 | 2026-05-24 |
+| [[FinceptTerminal\|Fincept Terminal]] | ⭐22,646 | AI Agent, 金融預測, 金融分析 | 2026-05-23 |
+| [[shiyu-coder-Kronos\|Kronos]] | ⭐24,824 | 金融預測, LLM 基礎模型, K 線 | 2026-05-15 |
 | [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |
 | [[yikart-AiToEarn\|AiToEarn]] | ⭐11,864 | AI Agent, MCP, 內容變現 | 2026-05-13 |
 | [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
 | [[Narcooo-inkos]] | ⭐5,672 | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
+| [[frappe-erpnext\|ERPNext]] | ⭐34,279 | ERP, 企業管理, 開源 | 2026-05-20 |
 | [[HKUDS-Vibe-Trading]] | ⭐5,120 | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
 | [[saturndec-waoowaoo\|waoowaoo AI 影視 Studio]]（[[waoowaoo\|別名]]） | ⭐12,000 | AI, 短劇, 影片製作 | 2026-05-05 |
 | [[hugohe3-ppt-master\|PPT Master]]（[[ppt-master\|別名]]） | ⭐11,300 | AI, PPT, 可編輯 | 2026-05-05 |
@@ -184,8 +192,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-|| [[Understand-Anything\|Understand Anything]] | ⭐18,628 | 程式碼智慧, Knowledge Graph, AI Agent | 2026-05-23 |
-|| [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
+| [[Understand-Anything\|Understand Anything]] | ⭐18,628 | 程式碼智慧, Knowledge Graph, AI Agent | 2026-05-23 |
+| [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
 | [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
 | [[colbymchenry-codegraph\|CodeGraph]] | ⭐2,530 | 程式碼智慧, Knowledge Graph, MCP | 2026-05-17 |
 | [[obra-superpowers\|Superpowers]] | ⭐189,521 | AI Skills, AI Agent, 方法論 | 2026-05-14 |
@@ -200,6 +208,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[trimstray-the-book-of-secret-knowledge\|The Book of Secret Knowledge]] | ⭐222,000 | DevOps, 資安, 系統管理, 工具全集 | 2026-05-22 |
 | [[plausible-analytics\|Plausible Analytics]] | ⭐25,755 | 隱私分析, 網站統計, GDPR 合規 | 2026-05-18 |
 | [[CloakHQ-CloakBrowser\|CloakBrowser]] | ⭐14,651 | 隱私, 瀏覽器, 反偵測 | 2026-05-18 |
 | [[rmyndharis-OpenWA\|OpenWA]] | ⭐4,864 | WhatsApp, API Gateway, 工作流自動化 | 2026-05-22 |

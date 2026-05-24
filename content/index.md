@@ -40,6 +40,7 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[agent-persona\|AI Agent 人格設計]] | 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。 |
+| [[CLAUDE-md\|CLAUDE.md]] | 用自然語言定義 AI 編碼助理的行為規範，是 Agent Skill 的核心載體。 |
 | [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。 |
 | [[cl4r1t4s\|CL4R1T4S]] | Prompt 越獄與安全研究：LLM 的 jailbreak 技術和防禦方法。 |
 | [[llm-knowledge-base\|LLM 知識庫系統]] | 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。 |
@@ -79,34 +80,6 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
-
-### 📋 本日新增（2026-05-25）
-
-| 專案 | 說明 |
-|------|------|
-| [[multica-ai-multica\|Multica]] | 開源 managed agents 平台，把 coding agents 變成真正的隊友，⭐31,926。 |
-| [[mukul975-Anthropic-Cybersecurity-Skills\|Anthropic Cybersecurity Skills]] | 754 個結構化網安技能 for AI agents，5 框架對映，⭐7,418。 |
-| [[presenton-presenton\|Presenton]] | 開源 AI 簡報產生器與 API，Gamma/Beautiful AI 自架替代，⭐6,369。 |
-
-### 📋 歷史新增（2026-05-23）
-
-| 專案 | 說明 |
-|------|------|
-| [[FinceptTerminal\|Fincept Terminal]] | 機構級金融智慧平台，37 個 AI Agent + 100+ 數據連接器，⭐22,646。 |
-| [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | Karpathy 神經網路課程，從 micrograd 到 GPT 逐步建構，⭐22,343。 |
-| [[Understand-Anything\|Understand Anything]] | 程式碼/知識庫轉互動式知識圖譜，多 Agent 流水線，⭐18,628。 |
-
-### 📋 歷史新增（2026-05-22）
-
-| 專案 | 說明 |
-|------|------|
-| [[trimstray-the-book-of-secret-knowledge\|The Book of Secret Knowledge]] | 系統管理/DevOps/資安工具與知識大全集，222k star。 |
-| [[affaan-m-ECC\|ECC]] | AI agent harness 性能優化 OS，跨 7+ harness，182k star。 |
-| [[multica-ai-andrej-karpathy-skills\|Karpathy Coding Guidelines]] | 單一 CLAUDE.md 把 Karpathy 的 LLM coding 觀察化為四條原則，143k star。 |
-| [[msitarzewski-agency-agents\|The Agency]] | 100+ 專業 AI agent 角色庫（含中國平台），104k star。 |
-| [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | Google 官方 Chrome DevTools MCP server，讓 agent 控制活瀏覽器，40k star。 |
-
----
 
 ## 🎬 教學影片
 
