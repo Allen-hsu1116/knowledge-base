@@ -80,7 +80,15 @@ title: 知識庫總覽
 |------|------|
 | [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
 
-### 📋 本日新增（2026-05-23）
+### 📋 本日新增（2026-05-25）
+
+| 專案 | 說明 |
+|------|------|
+| [[multica-ai-multica\|Multica]] | 開源 managed agents 平台，把 coding agents 變成真正的隊友，⭐31,926。 |
+| [[mukul975-Anthropic-Cybersecurity-Skills\|Anthropic Cybersecurity Skills]] | 754 個結構化網安技能 for AI agents，5 框架對映，⭐7,418。 |
+| [[presenton-presenton\|Presenton]] | 開源 AI 簡報產生器與 API，Gamma/Beautiful AI 自架替代，⭐6,369。 |
+
+### 📋 歷史新增（2026-05-23）
 
 | 專案 | 說明 |
 |------|------|

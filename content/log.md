@@ -6,6 +6,21 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-25
+
+**Ingest + Compile**：
+1. GitHub: multica-ai/multica ⭐31,926 — 開源 managed agents 平台，把 coding agents 變成真正的隊友
+2. GitHub: mukul975/Anthropic-Cybersecurity-Skills ⭐7,418 — 754 個結構化網安技能 for AI agents，5 框架對映
+3. GitHub: presenton/presenton ⭐6,369 — 開源 AI 簡報產生器與 API，Gamma/Beautiful AI 自架替代
+
+- 新增 wiki/multica-ai-multica.md
+- 新增 wiki/mukul975-Anthropic-Cybersecurity-Skills.md
+- 新增 wiki/presenton-presenton.md
+- 更新 known-repos.json（+3 repos, +5 concepts: managed-agents, cybersecurity-skills, MITRE-ATT&CK, AI-presentation, pptx-generation）
+- 更新 wiki/index.md
+
+排除：yt-dlp/yt-dlp（影片下載工具，非 LLM/AI 相關）、odoo/odoo（ERP 系統，非 LLM/AI 相關）
+
 ## 2026-05-23
 
 **Ingest + Compile**：
