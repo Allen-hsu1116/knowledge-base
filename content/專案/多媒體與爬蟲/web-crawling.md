@@ -9,6 +9,12 @@ aliases:
 
 網頁爬蟲（Web Crawling）是系統化地瀏覽和收集網頁資料的技術。與 Web Scraping 的差異：爬蟲強調系統化遍歷，爬取強調資料提取。
 
+## 快速導航
+
+- 🕷️ **網頁爬取** → [[web-scraping]]（資料提取為主）
+- 🤖 **Crawl4AI** → [[Crawl4AI]]（AI 友善爬蟲工具）
+- 🔌 **Agent Reach** → [[agent-reach]]（多平台 Agent 爬蟲）
+
 ## 核心流程
 
 1. 種子 URL：起始點
@@ -30,3 +36,6 @@ aliases:
 - [[web-scraping|網頁爬取]]
 - [[agent-reach|Agent Reach]]
 - [[Crawl4AI]]
+
+## 來源
+- Crawl4AI、Jina Reader、Agent Reach 等爬蟲工具文件

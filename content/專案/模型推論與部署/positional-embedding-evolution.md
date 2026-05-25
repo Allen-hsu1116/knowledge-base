@@ -12,6 +12,13 @@ channel: Hung-yi Lee
 **來源**: 李宏毅 YouTube 課程
 **影片**: https://www.youtube.com/watch?v=Ll-wk8x3G_g
 
+## 快速導航
+
+- ⚡ **Flash Attention** → [[flash-attention]]（減少記憶體搬運的最佳化）
+- 🗄️ **KV Cache** → [[kv-cache]]（避免重算 K/V 的快取機制）
+- 🧠 **LLM** → [[LLM]]（大型語言模型總覽）
+- 🔢 **RoPE** → 旋轉位置編碼（目前主流方法）
+
 ## 為什麼需要 Positional Embedding
 
 Self-Attention 是置換不變的（permutation invariant）：把輸入 token 順序打亂，輸出的 weighted sum 不變。「你打我」和「我打你」意義不同，但 attention 算出最後位置的 embedding 一樣。因此必須額外告訴 Transformer 每個 token 的位置。

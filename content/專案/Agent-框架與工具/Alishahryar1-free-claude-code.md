@@ -17,6 +17,12 @@ topics:
 
 Free Claude Code 是一個 Anthropic API 流量代理，將 Claude Code 的請求路由到 NVIDIA NIM、Kimi、Wafer、OpenRouter、DeepSeek、LM Studio、llama.cpp、Ollama 等替代 provider，讓你可以選擇免費、付費或本地模型。
 
+## 快速導航
+
+- 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI]]（AI 終端 coding 工具生態）
+- 🧠 **LLM 大模型** → [[LLM]]（多 provider 路由與模型選擇）
+- 🚀 **模型推論與部署** → [[模型推論與部署]]（本地與雲端推論方案）
+
 ## 核心特色
 
 - **10 個 provider 後端** — NVIDIA NIM, Kimi, Wafer, OpenRouter, DeepSeek, LM Studio, llama.cpp, Ollama, OpenCode Zen, Z.ai
@@ -41,3 +47,7 @@ Free Claude Code 是一個 Anthropic API 流量代理，將 Claude Code 的請�
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
 - [[LLM]] — 大語言模型
 - [[模型推論與部署]] — 模型推論與部署方案
+
+## 來源
+
+- raw/2026-05-20-Alishahryar1-free-claude-code.md

@@ -54,9 +54,9 @@ npx agentmemory
 | 方案 | 定位 | R@5 | 自動捕捉 | 搜尋方式 | 外部 DB |
 |------|------|-----|---------|---------|--------|
 | **agentmemory** | Coding Agent 記憶 | 95.2% | 12 hooks（零手動） | BM25+Vector+Graph | ❌ |
-| **[[mem0]]** | 通用 LLM 記憶 | 68.5% | 手動 add() | Vector+Graph | ✅ |
-| **[[Letta/MemGPT]]** | Agent 記憶管理 | 83.2% | Agent 自編輯 | Vector | ✅ |
-| **[[CLAUDE.md]]** | 手動上下文 | N/A | 手動編輯 | 載入全部 | ❌ |
+| **mem0** | 通用 LLM 記憶 | 68.5% | 手動 add() | Vector+Graph | ✅ |
+| **Letta/MemGPT** | Agent 記憶管理 | 83.2% | Agent 自編輯 | Vector | ✅ |
+| **[[CLAUDE-md\|CLAUDE.md]]** | 手動上下文 | N/A | 手動編輯 | 載入全部 | ❌ |
 
 - agentmemory 是 [[AI-Agent]] 在記憶管理領域的實作，使用 [[MCP]] 協議與各種 agent 通訊
 - 混合搜尋架構是 [[rag]] 的進化形 — BM25+Vector+Graph 三路混合搜尋

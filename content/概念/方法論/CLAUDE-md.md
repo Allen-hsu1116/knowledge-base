@@ -27,6 +27,31 @@ Anthropic 官方文件將 CLAUDE.md 定義為「advisory」（建議性）檔案
 - **Token budget** — 每條規則消耗 token，3 個範例 = 10 條規則的成本
 - **多層級** — 全域 `~/.claude/CLAUDE.md` + 專案級 `./CLAUDE.md` + 子目錄級
 
+## Karpathy 4 條 + 社群 8 條
+
+### 原始 4 條（Forrest Chang 整理自 Karpathy）
+1. **Think Before Coding** — 不做隱性假設，明說假設什麼；攤開 trade-off 討論；不確定就問
+2. **Simplicity First** — 寫能解決問題的最小程式碼；不寫推測性功能
+3. **Surgical Changes** — 只動該動的，不「順手改善」相鄰程式碼
+4. **Goal-Driven Execution** — 告訴 Claude「成功長什麼樣子」，不要告訴它步驟
+
+### 社群加 8 條（Mnilax，2026-05）
+5. 只把 Claude 用於需要判斷的任務 — 分類、起草、摘要交 Claude；確定性用一般程式碼
+6. Token budget 不是建議 — 單任務 4K、單 session 30K；接近 budget 要主動摘要重啟
+7. 衝突模式要點明選一個 — 取較新、較有測試的；混合是最差選擇
+8. 寫程式碼前先讀懂 — 讀 exports、caller、utility；「看起來無關」最危險
+9. 測試要驗證意圖不只行為 — 能在業務邏輯改變時失敗的測試才合格
+10. 多步驟任務要 checkpoint — 每步總結「做了什麼、驗證了什麼、剩什麼」
+11. 配合既有 codebase 慣例 — snake_case 就 snake_case；不認同當另一場討論
+12. 失敗要大聲 — 預設主動揭露不確定，不要藏起來
+
+### 不該做的事
+- 超過 14 條規則：合規率掉到 52%
+- 用範例代替規則：3 個範例 token 成本 = 10 條規則
+- 「Be careful / think hard」等抽象指令：合規率僅 30%
+- 叫 Claude「當資深工程師」：identity prompt 對行為改變無效
+- 依賴特定工具：「永遠用 eslint」在 eslint 未安裝時會靜默失敗
+
 ## 怎麼用
 
 ```bash
@@ -68,3 +93,6 @@ echo "- 只動你必須動的程式碼" >> CLAUDE.md
 | 官方插件 | 1 | [[anthropics-claude-plugins-official]] |
 | 進階技巧 | 1 | [[claude-code-boris-cherny-advanced-techniques]] |
 | 百科全書 | 1 | [[affaan-m-everything-claude-code]] |
+
+## 來源
+- raw/2026-05-22-abmedia-claude-md-12-rules.md

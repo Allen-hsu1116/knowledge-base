@@ -21,6 +21,12 @@ topics:
 
 完全自架的 AI 簡報生成工具——支援 10+ 種 LLM provider、MCP Server、自訂模板、PPTX 匯出，不鎖定 SaaS 不強迫訂閱。
 
+## 快速導航
+
+- 🧠 **生成式 AI** → [[generative-AI]]（AI 簡報生成的應用場景）
+- 🛠 **MCP 協議** → [[MCP]]（內建 MCP Server，agent 可直接生成簡報）
+- 🏠 **自架 AI 平台** → [[self-hosted-AI-platform]]（完全自架、資料在自己手上）
+
 ## 為什麼重要
 
 Gamma、Beautiful AI、Decktopus 都是 SaaS 鎖定的封閉平台。Presenton 是第一個開源（Apache 2.0）、完全自架的替代方案——你可以用自己的 API key、跑本地模型（Ollama）、客製模板和主題，簡報資料完全留在自己手上。內建 MCP Server 更讓 agent 可以透過 Model Context Protocol 直接生成簡報。
@@ -48,3 +54,7 @@ Gamma、Beautiful AI、Decktopus 都是 SaaS 鎖定的封閉平台。Presenton �
 - [[self-hosted-AI-platform]] — 與 Open-WebUI 同類：完全自架、資料在自己手上
 - [[AI-presentation]] — 新概念：AI 驅動的簡報產生工具
 - [[pptx-generation]] — 新概念：可程式化的 PPTX 生成
+
+## 來源
+
+- raw/2026-05-24-presenton-presenton.md

@@ -19,6 +19,12 @@ topics:
 
 ECC 是一個完整的 AI coding agent 優化系統，不只是設定檔，而是涵蓋 skills、instincts、memory optimization、continuous learning、security scanning 與 research-first development 的全套方案。經過 10+ 個月高強度日常使用打磨而成。
 
+## 快速導航
+
+- 🤖 **AI Agent** → [[AI-Agent]]（Agent 架構與 harness 優化）
+- 🧩 **AI Skills** → [[AI-Skills]]（232+ agent skills 與持續學習）
+- 🛡️ **提示安全** → [[prompt-security]]（AgentShield 安全掃描與防禦）
+
 ## 核心特色
 
 - **60+ agents、232+ skills、75+ legacy command shims** — 涵蓋各種開發場景
@@ -41,3 +47,7 @@ ECC 是一個完整的 AI coding agent 優化系統，不只是設定檔，而�
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
 - [[agent-skills-ecosystem]] — Agent 技能生態系
 - [[prompt-security]] — 提示安全與防禦
+
+## 來源
+
+- raw/2026-05-20-affaan-m-ECC.md

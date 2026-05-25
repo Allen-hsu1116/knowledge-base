@@ -21,6 +21,12 @@ topics:
 
 最大的開源 AI agent 網安技能庫——754 個技能覆蓋 26 個資安領域，每個技能同時對映 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF 五大框架。
 
+## 快速導航
+
+- 🧩 **AI Skills** → [[AI-Skills]]（754 個 AI agent 網安技能，遵循 agentskills.io 標準）
+- 🕵️ **滲透測試** → [[pentesting]]（紅隊與 Web 安全結構化 skill）
+- 🔗 **Agent Skills 生態** → [[agent-skills-ecosystem]]（支援多種 coding agent 的 skill 生態系）
+
 ## 為什麼重要
 
 全球網安人力缺口 480 萬（ISC2 2024）。AI agent 能幫忙補缺口——但前提是要有結構化的領域知識。這個庫不是腳本集合，而是 AI 原生的知識庫：每個 skill 遵循 agentskills.io 標準，YAML frontmatter 讓 agent 掃描全庫只要約 22k tokens，載入單一 skill 完整流程 500-2000 tokens。
@@ -51,5 +57,9 @@ skills/performing-memory-forensics-with-volatility3/
 - [[AI-Skills]] — 最直接的關聯：754 個 AI agent skills，遵循 agentskills.io 開放標準
 - [[agent-skills-ecosystem]] — 此庫是 agent skills 生態系的重要成員，支援 Claude Code、Copilot、Cursor、Gemini CLI 等
 - [[pentesting]] — 紅隊、滲透測試、Web 安全等領域的結構化 skill
-- [[cybersecurity-skills]] — 新概念：AI agent 專用的結構化網安知識庫
-- [[MITRE-ATT&CK]] — 全面對映 MITRE ATT&CK v18 的 14 tactics
+- [[mukul975-Anthropic-Cybersecurity-Skills|Anthropic Cybersecurity Skills]] — 新概念：AI agent 專用的結構化網安知識庫
+- MITRE ATT&CK — 全面對映 MITRE ATT&CK v18 的 14 tactics
+
+## 來源
+
+- raw/2026-05-24-mukul975-Anthropic-Cybersecurity-Skills.md

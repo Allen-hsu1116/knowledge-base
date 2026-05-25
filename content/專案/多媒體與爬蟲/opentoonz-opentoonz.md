@@ -52,8 +52,8 @@ cd opentoonz
 | 方案 | 定位 | 2D 動畫 | 3D | 開源 | 授權 |
 |------|------|---------|-----|------|------|
 | **OpenToonz** | 專業 2D 動畫 | ✅ | ❌ | ✅ | Modified BSD |
-| **[[Blender]]** | 3D 建模動畫 | 部分 | ✅ | ✅ | GPL |
-| **[[Synfig Studio]]** | 2D 向量動畫 | ✅ | ❌ | ✅ | GPL |
+| **Blender** | 3D 建模動畫 | 部分 | ✅ | ✅ | GPL |
+| **Synfig Studio** | 2D 向量動畫 | ✅ | ❌ | ✅ | GPL |
 
 - OpenToonz 在 [[generative-AI]] 時代仍定位為專業 2D 動畫創作核心工具
 - **vs Blender**：OpenToonz 專注 2D 動畫，Blender 專注 3D；兩者互補

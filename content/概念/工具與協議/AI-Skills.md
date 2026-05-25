@@ -77,6 +77,9 @@ Skills 的核心價值是跨 agent 平台通用。同一個 SKILL.md 可以在�
 
 ← [[CLAUDE-md]] · [[agent-skills-ecosystem]] · [[agent-persona]] · [[MCP]] · [[Prompt-Engineering]] · [[openclaw]]
 
+## 來源
+- 相關 GitHub/文章資料
+
 ---
 
 _此頁由 daily-llm-trending 自動維護_

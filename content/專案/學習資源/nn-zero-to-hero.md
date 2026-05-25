@@ -4,7 +4,7 @@
 
 ## 快速導航
 - 🧠 **LLM 底層技術** → [[LLM]]（Transformer 和 Tokenizer 是 LLM 核心）
-- 🛠 **LLM 從零開始** → [[LLMs-from-scratch]]（另一個從零學 LLM 的資源）
+- 🛠 **LLM 從零開始** → [[rasbt-LLMs-from-scratch|LLMs from Scratch]]（另一個從零學 LLM 的資源）
 - 🛠 **Karpathy AI 課程** → [[andrej-karpathy-ai-how]]（同一作者的 AI 教學）
 
 ## 是什麼
@@ -47,13 +47,13 @@ jupyter notebook
 | 資源 | 風格 | 深度 | 語言 |
 |------|------|------|------|
 | **nn-zero-to-hero** | 影片+notebook，手作 | 從 backprop 到 GPT | Python |
-| [[LLMs-from-scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
+| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
 | [[andrej-karpathy-ai-how]] | 影片 | AI 入門概覽 | 多語言 |
 
 三個資源可以互補：先看 ai-how 建立 AI 全貌理解，再用 nn-zero-to-hero 深入神經網路實作，最後用 LLMs-from-scratch 系統性學習完整的 LLM 建構流程。
 
 ## 相關概念
-← [[LLM]] · [[LLMs-from-scratch]] · [[andrej-karpathy-ai-how]] · [[kv-cache]] · [[positional-embedding-evolution]]
+← [[LLM]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[andrej-karpathy-ai-how]] · [[kv-cache]] · [[positional-embedding-evolution]]
 
 ## 來源
 - raw/2026-05-23-karpathy-nn-zero-to-hero.md

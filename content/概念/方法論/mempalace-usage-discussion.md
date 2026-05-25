@@ -8,6 +8,10 @@ channel: 乖乖學習吧
 
 > MemPalace 用三層結構化索引 + 知識圖譜，而不是改寫原文。設計目標是「對話記憶」，不是「文件檢索」。
 
+## 核心
+
+MemPalace 用三層結構化索引（Wing/Room/Drawer）搭配知識圖譜來管理對話記憶，設計目標是「對話記憶」而非「文件檢索」，與通用 RAG 有本質差異。
+
 ## MemPalace 怎麼建立關係？
 
 ### 1. 宮殿結構（Wings → Rooms → Drawers）
@@ -68,6 +72,9 @@ channel: 乖乖學習吧
 - [[MemPalace-mempalace|MemPalace 專案]]
 - [[rag|RAG 概念]]
 - [[Knowledge-Graph|知識圖譜]]
+
+## 來源
+- Discord 乖乖學習吧頻道討論（2026-05-07）
 
 ## 參考資料
 

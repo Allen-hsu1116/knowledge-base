@@ -87,6 +87,9 @@
 
 ← [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
+## 來源
+- raw/HKUDS-DeepTutor.md
+
 ---
 
 _此頁由 daily-llm-trending 自動維護_

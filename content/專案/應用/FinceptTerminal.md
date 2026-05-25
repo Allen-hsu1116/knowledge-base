@@ -4,7 +4,7 @@
 
 ## 快速導航
 - 🧠 **AI Agent** → [[AI-Agent]]（37 個金融 AI Agent）
-- 🛠 **AI 交易** → [[AI-Trader]]（AI 驅動的交易框架）
+- 🛠 **AI 交易** → [[HKUDS-AI-Trader|AI-Trader]]（AI 驅動的交易框架）
 - 🛠 **金融預測** → [[financial-forecasting]]（量化分析與預測）
 
 ## 是什麼
@@ -57,13 +57,13 @@ docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix fincept-ter
 | 工具 | 定位 | AI Agent 數 | 主要用途 |
 |------|------|-------------|----------|
 | **Fincept Terminal** | 全功能金融平台 | 37 | 機構級分析+交易+AI |
-| [[AI-Trader]] | AI 交易研究 | — | 學術級 AI 交易框架 |
+| [[HKUDS-AI-Trader\|AI-Trader]] | AI 交易研究 | — | 學術級 AI 交易框架 |
 | [[HKUDS-AI-Trader]] | AI 交易框架 | — | 研究型 AI 交易 |
 
 Fincept Terminal 與 AI-Trader 類似但更全面：後者偏學術研究，前者是生產級桌面應用，整合了交易、分析、AI Agent 和數據連接器於一身。
 
 ## 相關概念
-← [[AI-Agent]] · [[financial-forecasting]] · [[AI-Trader]] · [[HKUDS-AI-Trader]]
+← [[AI-Agent]] · [[financial-forecasting]] · [[HKUDS-AI-Trader|AI-Trader]] · [[HKUDS-AI-Trader]]
 
 ## 來源
 - raw/2026-05-23-Fincept-Corporation-FinceptTerminal.md

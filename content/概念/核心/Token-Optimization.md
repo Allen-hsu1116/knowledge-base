@@ -9,6 +9,10 @@
 - 🗄️ **分層載入** → [[Context-Database]]（L0/L1/L2 按需載入，減少 context 長度）
 - 🧠 **知識庫** → [[llm-knowledge-base]]（編譯式知識管理，降低檢索成本）
 
+## 核心
+
+Token Optimization 透過壓縮輸入、精簡輸出、分層載入等方式降低 LLM token 消耗，同時維持回應品質，是控制成本與延遲的關鍵技術。
+
 ## 為什麼 Token 優化很重要
 
 每次 LLM API 呼叫都按 token 計費，包括輸入（prompt）和輸出（completion）。一個典型的開發 session 可能消耗 100K+ tokens，如果沒有優化：
@@ -80,6 +84,9 @@
 ## 相關概念
 
 ← [[LLM]] · [[Prompt-Engineering]] · [[Context-Database]] · [[llm-knowledge-base]] · [[gemma4-mtp-drafters]]
+
+## 來源
+- 相關 GitHub/文章資料
 
 ---
 

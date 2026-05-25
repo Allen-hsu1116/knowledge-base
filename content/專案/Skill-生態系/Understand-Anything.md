@@ -70,7 +70,7 @@ Understand Anything 是一個 Claude Code 插件（也支援 Codex、Cursor、Ge
 | 工具 | 定位 | 核心功能 | 平台 |
 |------|------|----------|------|
 | **Understand-Anything** | 程式碼知識圖譜 | 多 Agent 分析+互動視覺化 | 12+ AI 工具 |
-| [[codegraph]] | 程式碼圖譜生成 | 自動生成依賴圖 | CLI |
+| [[colbymchenry-codegraph\|CodeGraph]] | 程式碼圖譜生成 | 自動生成依賴圖 | CLI |
 | [[colbymchenry-codegraph]] | 程式碼理解 | Claude Code 插件 | Claude Code |
 
 Understand-Anything 比 codegraph 更全面：不只生成依賴圖，還提供互動式 Dashboard、diff 影響分析、引導式導覽、知識庫分析和多 Agent 流水線。

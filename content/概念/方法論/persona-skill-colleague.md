@@ -11,6 +11,10 @@ date: 2026-04-28
 **日期**: 2026.04.11
 **作者**: 李先泰
 
+## 核心
+
+AI 工具從「助理」進化到「同事」的關鍵：Persona（人格）定義 AI 是誰、Skill（技能）定義 AI 怎麼做，兩者搭配才能讓 AI 在特定領域像真正的專業同事一樣工作。
+
 ## Persona：AI 是誰？
 
 Persona 是 AI 的身分設定，包含：
@@ -83,6 +87,9 @@ GitHub 上的 Agent Skills 專案：
 - [[agent-skills-ecosystem|Agent Skills 生態系]]
 - [[agency-agents-144-personas|Agency Agents 144 人格]]
 - [[agent-persona|Agent Persona]]
+
+## 來源
+- [數位時代 BusinessNext 報導](https://www.bnext.com.tw/article/90638/persona-skill-colleague)
 
 ## 參考資料
 

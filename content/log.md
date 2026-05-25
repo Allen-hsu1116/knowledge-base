@@ -6,7 +6,47 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-26
+
+### [2026-05-26] ingest | daily-llm-trending 自動收錄 5 個新專案
+
+- **codecrafters-io/build-your-own-x** ⭐504k — 從零重建技術的教學合集（28 類技術）
+- **666ghj/MiroFish** ⭐62k — 多 Agent 群體智慧預測引擎（GraphRAG + 社會模擬）
+- **earendil-works/pi** ⭐54k — AI agent harness monorepo（coding agent CLI + 統一 LLM API + TUI）
+- **blakeblackshear/frigate** ⭐33k — 本地即時物件偵測 NVR（Home Assistant 整合）
+- **manaflow-ai/cmux** ⭐19k — Ghostty-based macOS 終端機（為 AI coding agent 工作流設計）
+
+新增概念頁：simulation、GraphRAG、coding-agent-toolkit（已有則補強連結）
+
 ## 2026-05-25
+
+### [2026-05-25] lint | 知識庫 lint 待辦處理
+
+#### 處理 5/24 lint 待辦項目
+
+**斷掉的 cross-links（原 30 個 → 0 個）**:
+1. ✅ 建立 8 個概念頁：pentesting、financial-forecasting、computer-vision、workflow-automation、agent-harness-optimization、self-hosted-AI-platform、AI-presentation、pptx-generation
+2. ✅ 建立專案頁：ZhuLinsen-alphasift、ZhuLinsen-alphaevo
+3. ✅ 修正 10 個連結重定向：LLMs-from-scratch→rasbt-LLMs-from-scratch、AI-Agent-Tutorial→microsoft-ai-agents-for-beginners、AI-Trader→HKUDS-AI-Trader、12-factor-agents→humanlayer-12-factor-agents 等
+4. ✅ 轉純文字 8 個外部軟體名：Blender、Synfig Studio、Baileys、whatsapp-web.js、mem0、Letta/MemGPT 等
+5. ✅ 修正 index.md ECC→affaan-m-ECC
+
+**缺區塊頁面（原 58 個 → 0 個）**:
+1. ✅ 補齊 30+ 專案頁的快速導航和來源區塊（三批處理）
+2. ✅ 補齊 17 個概念頁的核心和來源區塊
+3. ✅ 含別名頁（sandbox、waoowaoo、web-scraping 等）指向主頁
+
+**Missing Stars（10 個概念頁，不需 Stars）**:
+- openclaw、claude-code-boris-cherny、openviking、web-crawling、web-scraping、網頁爬蟲、語音辨識、sandbox、visualization、gemma4-mtp-drafters — 皆為概念頁或文章，— 標註合理
+
+**raw 素材未整理（1 個 → 0 個）**:
+1. ✅ compile 2026-05-22-abmedia-claude-md-12-rules.md → CLAUDE-md.md（新增 Karpathy 4 條 + Mnilax 8 條區塊）
+
+#### 最終驗證
+- 斷掉的 cross-links: 0
+- 缺區塊頁面: 0
+- raw 素材未整理: 0
+- 總 wiki 頁數: 210
 
 ## [2026-05-24] lint | 知識庫 lint 掃描與修復
 

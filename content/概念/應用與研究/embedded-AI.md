@@ -33,3 +33,6 @@ created: 2026-05-17
 ## 相關概念
 
 ← [[模型推論與部署]] · [[LLM]] · [[supertone-inc-supertonic]]
+
+## 來源
+- 相關 GitHub/文章資料

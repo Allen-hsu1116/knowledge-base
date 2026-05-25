@@ -9,6 +9,11 @@
 
 系統管理、DevOps、資安研究者的瑞士刀——CLI/GUI/Web 工具、cheatsheet、one-liner 大全集。
 
+## 快速導航
+
+- 🕵️ **滲透測試** → [[pentesting]]（滲透測試章節是核心內容）
+- 🛠 **CLI 工具** → [[Coding-Agent-CLI]]（CLI 工具與 one-liner 大全）
+
 ## 摘要
 
 一個 222k star 的超大型知識彙整庫，涵蓋 CLI 工具（shell、編輯器、網路診斷）、GUI 工具、Web 工具、容器編排、滲透測試、shell one-liners 等 16 個主題章節。每個章節按類別整理數十到上百個工具連結與簡述，是系統管理與資安從業者的每日參考手冊。
@@ -25,3 +30,7 @@
 - [[Coding-Agent-CLI]] — CLI 工具章節的豐富參考清單
 
 _此頁由 daily-llm-trending 自動維護_
+
+## 來源
+
+- raw/2026-05-22-trimstray-the-book-of-secret-knowledge.md

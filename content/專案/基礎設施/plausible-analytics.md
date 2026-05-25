@@ -7,6 +7,11 @@
 **Language:** Elixir
 **Created:** 2018-12-04
 
+## 快速導航
+
+- 📊 **Open Design** → [[open-design]]（開源、透明、用戶可控的設計哲學）
+- 🔒 **Privacy** → 隱私優先的網站分析替代方案
+
 ## 一句話
 
 Plausible 是 GDPR/CCPA 合規的隱私優先網站分析工具，不使用 cookie、不儲存個人資料，用輕量腳本取代 Google Analytics。
@@ -38,3 +43,7 @@ Plausible 的核心理念是**隱私優先的分析**——測量流量而非個
 ## 相關概念
 
 - [[open-design]] — 開源、透明、用戶可控的設計哲學
+
+## 來源
+- [GitHub: plausible/analytics](https://github.com/plausible/analytics)
+- [Plausible Analytics 官網](https://plausible.io/)

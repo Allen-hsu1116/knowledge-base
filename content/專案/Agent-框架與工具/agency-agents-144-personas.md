@@ -7,6 +7,12 @@ date: 2026-04-28
 
 > 開源專案 Agency Agents 在 GitHub 獲得 8.4 萬星，提供 144 個預設 AI 員工人格（persona），讓任何人可以快速建立具備專業身分的 AI 同事。
 
+## 快速導航
+- 🎭 **Agent Persona** → [[agent-persona]]（Agency Agents 是 persona-first 設計的代表）
+- 🛠 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Persona 與 Skills 是 Agent 的兩大支柱）
+- 🤖 **AI Agent** → [[AI-Agent]]（Agency Agents 展示了多 Agent 人格協作）
+- 📋 **AI Skills** → [[AI-Skills]]（人格定義行為，Skills 定義操作）
+
 **來源**: 區塊客 BlockTempo
 **日期**: 2026.04
 **GitHub Stars**: 84k+
@@ -58,3 +64,6 @@ date: 2026-04-28
 ## 參考資料
 
 - [區塊客報導](https://www.blocktempo.com/agency-agents-github-84k-stars-144-ai-employee-personas-open-source/)
+
+## 來源
+- raw/2026-04-28-agency-agents-144-personas.md

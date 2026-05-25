@@ -80,3 +80,7 @@ MIT License
 - [課程設定指南](https://github.com/microsoft/ai-agents-for-beginners/tree/main/00-course-setup)
 - [Microsoft Foundry Discord](https://discord.gg/nTYy5BXMWG)
 - [Generative AI for Beginners（姊妹課程）](https://aka.ms/genai-beginners)
+
+## 來源
+- [GitHub: microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [Microsoft Learn AI Agents 文件](https://learn.microsoft.com/en-us/azure/ai-services/)

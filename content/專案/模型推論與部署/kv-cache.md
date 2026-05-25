@@ -9,6 +9,12 @@ channel: Hung-yi Lee
 
 > KV Cache 是推論加速的關鍵技術：把已算好的 Key/Value 存下來避免重算。但 KV Cache 會撐爆 GPU 記憶體，因此衍生出 GQA、MLA、Sliding Window、Streaming LLM、Pruning 等方法來節省空間。
 
+## 快速導航
+- ⚡ **Flash Attention** → [[flash-attention]]（KV Cache 優化的基礎技術）
+- 🧭 **位置編碼演進** → [[positional-embedding-evolution]]（Transformer 另一個關鍵組件）
+- 🧠 **LLM 總覽** → [[LLM]]（KV Cache 是現代 LLM 推論的必備技術）
+- ⚡ **Token 優化** → [[Token-Optimization]]（KV Cache 節省直接降低推論成本）
+
 **來源**: 李宏毅 YouTube 課程
 **影片**: https://www.youtube.com/watch?v=fDQaadKysSA
 
@@ -96,3 +102,6 @@ channel: Hung-yi Lee
 - [李宏毅 YouTube 課程](https://www.youtube.com/watch?v=fDQaadKysSA)
 - [Flash Attention 論文](https://arxiv.org/abs/2205.14135)
 - [Streaming LLM 論文](https://arxiv.org/abs/2309.17453)
+
+## 來源
+- raw/2026-05-03-kv-cache.md

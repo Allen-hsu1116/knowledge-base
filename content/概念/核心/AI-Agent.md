@@ -174,6 +174,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[harness-engineering]] — Harness Engineering：駕馭工程
 - [[self-correction]] — AI 自我修正
 
+## 來源
+- 相關 GitHub/文章資料
+
 ---
 
 _此頁由 daily-llm-trending 自動維護_

@@ -21,6 +21,13 @@
 | 樹狀圖 | 層級結構 |
 | 地圖 | 地理分佈 |
 
+## 快速導航
+
+- 🕸️ **Graphify** → [[safishamsi-graphify]]（知識圖譜視覺化工具）
+- 📈 **Tech Graph** → [[fireworks-tech-graph]]（技術關係圖）
+- 📊 **Daily Stock Analysis** → [[ZhuLinsen-daily_stock_analysis]]（即時資料面板）
+- 🧠 **Knowledge Graph** → [[Knowledge-Graph]]（知識圖譜概念頁）
+
 ## AI 時代的視覺化趨勢
 
 1. **AI 生成視覺化**：LLM 根據資料自動選擇圖表類型和配置
@@ -42,3 +49,6 @@
 
 - [[Knowledge-Graph|知識圖譜]]
 - [[daily-stock-analysis|Daily Stock Analysis]]
+
+## 來源
+- D3.js、Matplotlib、Observable 等視覺化工具文件

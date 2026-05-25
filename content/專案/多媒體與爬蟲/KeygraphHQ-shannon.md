@@ -93,3 +93,6 @@ npx @keygraph/shannon status
 - [OWASP Juice Shop 測試報告](https://github.com/KeygraphHQ/shannon/tree/main/sample-reports)
 - [Discord 社群](https://discord.gg/9ZqQPuhJB7)
 - [Keygraph 官網](https://keygraph.io/)
+
+## 來源
+- raw/2026-05-18-KeygraphHQ-shannon.md

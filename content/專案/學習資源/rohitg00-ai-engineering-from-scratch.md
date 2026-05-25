@@ -17,10 +17,10 @@ topics:
 
 ## 快速導航
 
-- 🧠 **LLM 從零打造** → [[LLMs-from-scratch]]（同作者 LLM 課程，本課程 Phase 10 延伸）
+- 🧠 **LLM 從零打造** → [[rasbt-LLMs-from-scratch|LLMs from Scratch]]（同作者 LLM 課程，本課程 Phase 10 延伸）
 - 🤖 **AI Agent** → [[AI-Agent]]（Phase 14-16 從 agent loop 到 autonomous swarms）
 - 🔧 **MCP** → [[MCP]]（Phase 13 從零打造 MCP server）
-- 📚 **學習路徑** → [[AI-Agent-Tutorial]]（完整的 AI agent 學習路徑）
+- 📚 **學習路徑** → [[microsoft-ai-agents-for-beginners|AI Agent 教學]]（完整的 AI agent 學習路徑）
 
 ## 是什麼
 
@@ -52,17 +52,17 @@ cd ai-engineering-from-scratch
 | 方案 | 定位 | 語言 | 深度 | Agent 實作 | 產出物 |
 |------|------|------|------|-----------|--------|
 | **AI Engineering from Scratch** | 全方位 AI 工程課程 | 4 語言 | 數學→Agent Swarm | ✅ Phase 14-16 | Skill/Agent/MCP |
-| **[[dair-ai/ML-Papers-Explained]]** | 論文解讀 | Python | 論文導向 | ❌ | 學習筆記 |
-| **[[labmlai/annotated_deep_learning_paper_implementations]]** | 論文實作 | Python | 論文實作 | ❌ | 程式碼 |
+| **dair-ai/ML-Papers-Explained** | 論文解讀 | Python | 論文導向 | ❌ | 學習筆記 |
+| **labmlai/annotated_deep_learning_paper_implementations** | 論文實作 | Python | 論文實作 | ❌ | 程式碼 |
 
-- AI Engineering from Scratch 是 [[AI-Agent-Tutorial]] 的完整實作
-- [[LLMs-from-scratch]] 是同作者的 LLM 從零打造課程，本課程 Phase 10 延伸
+- AI Engineering from Scratch 是 [[microsoft-ai-agents-for-beginners|AI Agent 教學]] 的完整實作
+- [[rasbt-LLMs-from-scratch|LLMs from Scratch]] 是同作者的 LLM 從零打造課程，本課程 Phase 10 延伸
 - **vs dair-ai/ML-Papers-Explained**：本課程不只是論文解讀，而是從數學基礎堆疊到完整系統
 - **vs labmlai/annotated_deep_learning_paper_implementations**：本課程有完整的 Agent 實作章節，不只是論文重實作
 
 ## 相關概念
 
-← [[LLMs-from-scratch]] · [[AI-Agent]] · [[MCP]] · [[AI-Agent-Tutorial]]
+← [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[AI-Agent]] · [[MCP]] · [[microsoft-ai-agents-for-beginners|AI Agent 教學]]
 
 ## 來源
 

@@ -20,7 +20,7 @@ topics:
 ## 快速導航
 
 - 🤖 **AI Agent 平台** → [[AI-Agent]]（Open WebUI 是 Agent 的前端與部署平台）
-- 📚 **RAG 檢索增強** → [[rag-flow]]（Open WebUI 內建 RAG 支援）
+- 📚 **RAG 檢索增強** → [[ragflow|RAGFlow]]（Open WebUI 內建 RAG 支援）
 - 🔍 **向量資料庫** → [[Milvus]]、[[Chroma]]、[[Qdrant]]（Open WebUI 支援 9 種向量資料庫）
 - 🛠 **文件解析** → [[docling]]、[[pymupdf4llm]]（Open WebUI 支援多種文件萃取引擎）
 - 🧩 **Pipeline 擴展** → [[AI-Skills]]（Pipelines 框架類似 Skills 層）
@@ -100,7 +100,7 @@ export HF_HUB_OFFLINE=1
 | 水平擴展 | ✅（Redis） | N/A | ❌ | ❌ | ❌ |
 | 開源 | ✅ | ❌ | ✅ | ❌ | ✅ |
 
-← [[AI-Agent]] · [[rag-flow]] · [[Ollama]] · [[Milvus]] · [[Chroma]] · [[docling]]
+← [[AI-Agent]] · [[ragflow|RAGFlow]] · [[Ollama]] · [[Milvus]] · [[Chroma]] · [[docling]]
 
 ## 來源
 

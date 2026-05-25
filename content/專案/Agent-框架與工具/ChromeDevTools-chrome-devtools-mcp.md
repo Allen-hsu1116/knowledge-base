@@ -9,6 +9,12 @@
 
 Chrome DevTools 的 MCP server——讓 coding agent 直接控制活瀏覽器，做效能分析、网络调试和可靠自動化。
 
+## 快速導航
+
+- 🛠 **MCP 協議** → [[MCP]]（Chrome DevTools 作為 MCP Server 標準封裝）
+- 🧠 **Coding Agent** → [[Coding-Agent-CLI]]（Agent 透過 DevTools 做瀏覽器 CLI 級調試）
+- 🤖 **AI Agent** → [[AI-Agent]]（Agent + 瀏覽器的整合模式）
+
 ## 摘要
 
 40k star，Google 官方出品。將 Chrome DevTools 能力暴露為 MCP server，讓 Claude Code、Cursor、Copilot、Codex、Antigravity 等 AI coding agent 可以：錄製 trace 取得效能洞察、分析網路請求、截圖、檢查 console（含 source-mapped stack trace）、用 puppeteer 做可靠自動化。支援 `--slim` 模式精簡工具集，也提供 CLI 模式。預設收集匿名使用統計，可 `--no-usage-statistics` 關閉。
@@ -26,3 +32,7 @@ Chrome DevTools 的 MCP server——讓 coding agent 直接控制活瀏覽器，
 - [[AI-Agent]] — agent + 瀏覽器的整合模式
 
 _此頁由 daily-llm-trending 自動維護_
+
+## 來源
+
+- raw/2026-05-22-ChromeDevTools-chrome-devtools-mcp.md

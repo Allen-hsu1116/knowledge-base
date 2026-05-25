@@ -11,6 +11,12 @@
 
 CLI-Anything 讓你用一行指令把任何軟體包成 CLI harness，讓 AI Agent（Claude Code、Pi、OpenClaw、Codex 等）可以直接呼叫操作——從 GIMP、Blender 到 LibreOffice、Zoom 都能 agent-native。
 
+## 快速導航
+
+- 🤖 **AI Agent** → [[AI-Agent]]（CLI 是 Agent 操作軟體的通用介面）
+- 🧩 **Agent Skills** → [[agent-skills-ecosystem]]（CLI-Hub 作為 skill 生態系中樞）
+- 🛠 **Coding Agent** → [[Coding-Agent-CLI]]（支援多種 Coding Agent 平台）
+
 ## 核心概念
 
 CLI-Anything 的主張是：**CLI 是人類與 AI Agent 之間的通用介面**。文字指令天然匹配 LLM 的輸入格式，結構化 JSON 輸出消除了解析複雜度，`--help` 自動產生 Agent 可發現的文件。
@@ -54,3 +60,7 @@ GIMP、Blender、LibreOffice、FreeCAD、Kdenlive、Shotcut、Inkscape、MuseSco
 - [[AI-Skills]] — 每個生成的 CLI 都附帶 AI 發現用的 SKILL.md
 - [[agent-skills-ecosystem]] — CLI-Hub 作為 skill 生態系的中樞
 - [[opencli]] — CLI-Anything 的精神一致：用 CLI 打通一切
+
+## 來源
+
+- raw/2026-05-18-HKUDS-CLI-Anything.md

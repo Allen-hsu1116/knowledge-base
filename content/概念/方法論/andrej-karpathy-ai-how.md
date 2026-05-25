@@ -7,6 +7,12 @@ date: 2026-04-28
 
 > 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
 
+## 快速導航
+- 🧠 **LLM 知識庫方法** → [[llm-knowledge-base]]（我們實作的 Karpathy 方法延伸）
+- 📝 **CLAUDE.md** → [[CLAUDE-md]]（知識庫的 Schema 設定檔）
+- 🔧 **Context Engineering** → [[context-engineering-basics]]（管理 LLM 看到的內容）
+- 🛠 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Skills 和知識庫是 Agent 兩大支柱）
+
 ## 核心內容
 
 Andrej Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法，核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。2026 年 4 月，Nick Spisak 拆解了 Karpathy 的方法，簡化為三個資料夾 + 一份 CLAUDE.md 設定檔的架構。
@@ -137,4 +143,4 @@ my-knowledge-base/
 - [Karpathy LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 ## 來源
-- raw/2026-04-28-karpathy-ai-how.md
+- raw/2026-04-28-andrej-karpathy-ai-how.md

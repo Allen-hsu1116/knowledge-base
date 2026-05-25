@@ -11,6 +11,12 @@
 
 借鏡 12 Factor Apps 的精神，提出 12 條打造可靠 LLM Agent 的工程原則——核心主張是好的 Agent 大部分是軟體，LLM 只在關鍵點 sprinkled in。
 
+## 快速導航
+
+- 🤖 **AI Agent** → [[AI-Agent]]（12-factor 是 Agent 工程化基礎原則）
+- 🔧 **Context Engineering** → [[context-engineering-basics]]（Factor 3: Own Your Context Window）
+- 🛠 **Prompt Engineering** → [[Prompt-Engineering]]（Factor 2: Own Your Prompts）
+
 ## 12 條原則
 
 1. **Natural Language → Tool Calls** — 用結構化 JSON tool calling 取代自由文字解析
@@ -40,3 +46,7 @@
 - [[Prompt-Engineering]] — Factor 2「Own Your Prompts」
 - [[MCP]] — 作者刻意不提但 tool calling 生態系相關
 - [[Coding-Agent-CLI]] — Agent 系統的 CLI 介面模式
+
+## 來源
+
+- raw/2026-05-18-humanlayer-12-factor-agents.md

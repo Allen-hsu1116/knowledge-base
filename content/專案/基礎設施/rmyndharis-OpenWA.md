@@ -55,8 +55,8 @@ npm run start
 | 方案 | 定位 | 開源 | 多帳號 | 自架 | n8n 整合 | 授權 |
 |------|------|------|--------|------|---------|------|
 | **OpenWA** | WhatsApp API Gateway | ✅ | ✅ | ✅ | ✅ | MIT |
-| **[[Baileys]]** | WhatsApp Web API 函式庫 | ✅ | ❌ | 自行整合 | ❌ | MIT |
-| **[[whatsapp-web.js]]** | WhatsApp Web 自動化 | ✅ | ❌ | 自行整合 | ❌ | Apache-2.0 |
+| **Baileys** | WhatsApp Web API 函式庫 | ✅ | ❌ | 自行整合 | ❌ | MIT |
+| **whatsapp-web.js** | WhatsApp Web 自動化 | ✅ | ❌ | 自行整合 | ❌ | Apache-2.0 |
 
 - OpenWA 是完整的 API Gateway（REST + Webhooks + 管理面板），而 Baileys 和 whatsapp-web.js 是底層函式庫
 - **vs Baileys**：OpenWA 封裝 Baileys 等底層函式庫，提供開箱即用的 Gateway 體驗

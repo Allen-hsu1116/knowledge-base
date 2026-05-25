@@ -9,6 +9,12 @@ channel: Hung-yi Lee
 
 > Flash Attention 是一種不改變 attention 計算結果、隨插即用的 Transformer 加速技術。核心想法：減少 GPU HBM ↔ SRAM 之間的資料搬運次數，將原本多次讀寫壓縮為少數幾次。
 
+## 快速導航
+- 💾 **KV Cache** → [[kv-cache]]（Flash Attention 是 KV Cache 優化的基礎）
+- 🧭 **位置編碼演進** → [[positional-embedding-evolution]]（Transformer 另一個關鍵組件）
+- 🧠 **LLM 總覽** → [[LLM]]（Flash Attention 是現代 LLM 的預設元件）
+- ⚡ **Token 優化** → [[Token-Optimization]]（Flash Attention 間接降低 token 推理成本）
+
 **來源**: 李宏毅 YouTube 課程
 **影片**: https://www.youtube.com/watch?v=vXb2QYOUzl4
 **原始論文**: Flash Attention (2022)
@@ -84,3 +90,6 @@ GPU 有兩種記憶體：
 
 - [Flash Attention 論文](https://arxiv.org/abs/2205.14135)
 - [李宏毅 YouTube 課程](https://www.youtube.com/watch?v=vXb2QYOUzl4)
+
+## 來源
+- raw/2026-05-03-flash-attention.md

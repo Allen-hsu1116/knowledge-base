@@ -18,6 +18,13 @@
 | 輕量 VM | gVisor, Kata Containers | 高 | 中 |
 | 完整 VM | Firecracker, QEMU | 最高 | 低 |
 
+## 快速導航
+
+- 🏖️ **OpenSandbox** → [[opensandbox]]（阿里巴巴開源沙箱專案）
+- 🎮 **CubeSandbox** → [[cubesandbox]]（Rust 輕量沙箱）
+- 🤖 **AI Agent** → [[AI-Agent]]（AI Agent 需要沙箱來安全執行程式碼）
+- 🔌 **MCP** → [[MCP]]（沙箱透過 MCP 連接 Agent）
+
 ## AI Agent 的沙箱需求
 
 - **程式碼執行**：安全地執行使用者或 Agent 產生的程式碼
@@ -48,3 +55,6 @@
 - [[trycua-cua|CUA]]
 - [[MCP|MCP 協議]]
 - [[AI-Agent|AI Agent]]
+
+## 來源
+- OpenSandbox、CubeSandbox、E2B 等沙箱專案文件

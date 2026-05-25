@@ -21,7 +21,7 @@ title: 知識庫總覽
 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
 | [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
 | [[Token-Optimization\|Token Optimization]] | 降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
-| [[ECC\|ECC]] | Agent harness 效能優化系統 — 跨 Claude Code/Codex/Cursor 等 7+ 工具的 skills、記憶、安全、持續學習。 |
+| [[affaan-m-ECC\|ECC]] | Agent harness 效能優化系統 — 跨 Claude Code/Codex/Cursor 等 7+ 工具的 skills、記憶、安全、持續學習。 |
 | [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token、記憶、安全、驗證迴圈。 |
 
 ### 🔌 工具與協議
@@ -53,7 +53,7 @@ title: 知識庫總覽
 | [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」：Persona 是方向，Skill 是方法，兩者缺一不可。 |
 | [[prompt-security\|Prompt 安全與越獄]] | 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。 |
 | [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
-| [[12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
+| [[humanlayer-12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
 | [[ai-self-growth|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
 
 ### 📚 應用與研究
@@ -61,7 +61,7 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
-| [[AI-Agent-Tutorial\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
+| [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
 
@@ -80,6 +80,8 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[code-intelligence|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
+| [[simulation|模擬]] | 用多 Agent 社會演化模擬推演未來事件。 |
+| [[GraphRAG]] | Knowledge Graph + RAG 結合，沿語義關聯路徑檢索。 |
 
 ## 🎬 教學影片
 

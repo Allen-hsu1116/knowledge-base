@@ -74,6 +74,9 @@ OpenClaude（[[Gitlawb-openclaude]]）是目前唯一同時支援**多模型 + M
 
 ← [[CLAUDE-md]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[walkinglabs-learn-harness-engineering]]
 
+## 來源
+- 相關 GitHub/文章資料
+
 ---
 
 _此頁由 daily-llm-trending 自動維護_

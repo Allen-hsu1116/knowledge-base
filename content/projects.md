@@ -12,6 +12,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[earendil-works-pi\|Pi Agent Harness]] | ⭐53,931 | Coding Agent CLI, Agent Skills, Agent Runtime | 2026-05-26 |
+| [[manaflow-ai-cmux\|cmux]] | ⭐19,020 | Coding Agent CLI, 終端機, AI Agent 通知 | 2026-05-26 |
 | [[multica-ai-multica\|Multica]] | ⭐31,926 | AI Agent, Managed Agents, 多Agent協作 | 2026-05-24 |
 | [[mukul975-Anthropic-Cybersecurity-Skills\|Anthropic Cybersecurity Skills]] | ⭐7,418 | AI Skills, 網安, Cybersecurity | 2026-05-24 |
 | [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | ⭐40,000 | MCP, Browser, AI Agent | 2026-05-22 |
@@ -152,6 +154,7 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | ⭐22,343 | LLM, 神經網路, 教學 | 2026-05-23 |
+| [[codecrafters-io-build-your-own-x\|Build Your Own X]] | ⭐504,263 | LLM, AI Tutoring, 從零手做 | 2026-05-26 |
 | [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
 | [[rohitg00-ai-engineering-from-scratch\|AI Engineering from Scratch]] | ⭐9,567 | LLM, AI Agent, MCP, 教學 | 2026-05-22 |
 | [[walkinglabs-learn-harness-engineering\|Learn Harness Engineering]] | ⭐1k+ | Harness Engineering, AI Agent, Context Engineering, 課程 | 2026-05-24 |
@@ -163,6 +166,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[666ghj-MiroFish\|MiroFish]] | ⭐62,147 | AI Agent, 世界模型, 群體智慧, 金融預測 | 2026-05-26 |
 | [[presenton-presenton\|Presenton]] | ⭐6,369 | AI, PPT, 簡報生成 | 2026-05-24 |
 | [[FinceptTerminal\|Fincept Terminal]] | ⭐22,646 | AI Agent, 金融預測, 金融分析 | 2026-05-23 |
 | [[shiyu-coder-Kronos\|Kronos]] | ⭐24,824 | 金融預測, LLM 基礎模型, K 線 | 2026-05-15 |
@@ -208,6 +212,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[blakeblackshear-frigate\|Frigate NVR]] | ⭐32,846 | 邊緣AI, 電腦視覺, 自架NVR | 2026-05-26 |
 | [[trimstray-the-book-of-secret-knowledge\|The Book of Secret Knowledge]] | ⭐222,000 | DevOps, 資安, 系統管理, 工具全集 | 2026-05-22 |
 | [[plausible-analytics\|Plausible Analytics]] | ⭐25,755 | 隱私分析, 網站統計, GDPR 合規 | 2026-05-18 |
 | [[CloakHQ-CloakBrowser\|CloakBrowser]] | ⭐14,651 | 隱私, 瀏覽器, 反偵測 | 2026-05-18 |

@@ -9,6 +9,10 @@
 - 🔍 **RAG** → [[LLM]]（知識圖譜是 RAG 的進化形態）
 - 📚 **知識庫方法論** → [[llm-knowledge-base]]（我們的知識庫方法論）
 
+## 核心
+
+知識圖譜以圖結構（節點與邊）組織資訊，讓機器能結構化地理解與檢索知識，比 flat RAG 更精準、更有效率。
+
 ## 什麼是知識圖譜
 
 知識圖譜是一種以圖結構組織資訊的方式。每個概念是**節點（Node）**，概念之間的關係是**邊（Edge）**。不同於 flat 文件或向量搜尋，知識圖譜能：
@@ -78,6 +82,12 @@ Claude Code skill，一行指令把任意資料夾轉成知識圖譜：
 ## 相關概念
 
 ← [[Context-Database]] · [[LLM]] · [[llm-knowledge-base]] · [[volcengine-OpenViking]]
+
+---
+
+## 來源
+- GraphRAG / Microsoft Research 等知識圖譜相關研究
+- [[safishamsi-graphify|graphify]] 實作經驗
 
 ---
 

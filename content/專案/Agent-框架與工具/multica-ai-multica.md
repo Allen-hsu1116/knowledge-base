@@ -21,6 +21,12 @@ topics:
 
 把 Claude Code、Codex、Hermes 等 coding agents 組織成像人類隊友一樣——指派任務、追蹤進度、累積技能，讓 AI agent 團隊自動化協作。
 
+## 快速導航
+
+- 🤖 **AI Agent** → [[AI-Agent]]（managed agent 團隊管理平台）
+- 🧩 **Agent Skills** → [[agent-skills-ecosystem]]（Reusable Skills 與技能生態）
+- 📋 **12-Factor Agents** → [[humanlayer-12-factor-agents|12-Factor Agents]]（Agent lifecycle management 設計原則）
+
 ## 為什麼重要
 
 過去用 coding agent 是「one-shot」：貼 prompt、等結果、手動重來。Multica 把 agent 變成 board 上的 first-class teammate——能接 issue、寫程式、回報 blocker、自動更新狀態。Squad 功能讓大團隊可以在 leader agent 下分派工作，routing 穩定不隨便。最關鍵的是 **Reusable Skills**：每次解決問題的方案都變成可複用的 skill，讓團隊能力隨時間複合成長。
@@ -46,5 +52,9 @@ topics:
 - [[AI-Agent]] — Multica 是 managed agent 基礎設施的最新發展：不只是單一 agent，而是 agent 團隊管理
 - [[Coding-Agent-CLI]] — 支援多種 coding agent CLI 作為 runtime，包含 Hermes
 - [[agent-skills-ecosystem]] — Reusable Skills 的概念與 agent skills 緊密相關
-- [[12-factor-agents]] — Multica 的 agent lifecycle management 呼應 12-factor agents 的設計原則
-- [[managed-agents]] — 首個把 managed 概念帶入 AI agent 的平台，從 one-shot prompt 進化到持久團隊成員
+- [[humanlayer-12-factor-agents|12-Factor Agents]] — Multica 的 agent lifecycle management 呼應 12-factor agents 的設計原則
+- [[multica-ai-multica|Multica]] — 首個把 managed 概念帶入 AI agent 的平台，從 one-shot prompt 進化到持久團隊成員
+
+## 來源
+
+- raw/2026-05-24-multica-ai-multica.md

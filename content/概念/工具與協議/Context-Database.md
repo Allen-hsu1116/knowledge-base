@@ -78,6 +78,9 @@ context/
 
 ← [[AI-Agent]] · [[LLM]] · [[Knowledge-Graph]] · [[llm-knowledge-base]] · [[openviking]]
 
+## 來源
+- 相關 GitHub/文章資料
+
 ---
 
 _此頁由 daily-llm-trending 自動維護_
