@@ -15,6 +15,7 @@ title: 專案索引
 | [[earendil-works-pi\|Pi Agent Harness]] | ⭐53,931 | Coding Agent CLI, Agent Skills, Agent Runtime | 2026-05-26 |
 | [[manaflow-ai-cmux\|cmux]] | ⭐19,020 | Coding Agent CLI, 終端機, AI Agent 通知 | 2026-05-26 |
 | [[multica-ai-multica\|Multica]] | ⭐31,926 | AI Agent, Managed Agents, 多Agent協作 | 2026-05-24 |
+| [[Donchitos-Claude-Code-Game-Studios\|Claude Code Game Studios]] | ⭐20,021 | Coding Agent, AI Skills, Game Dev, Multi-Agent | 2026-05-26 |
 | [[mukul975-Anthropic-Cybersecurity-Skills\|Anthropic Cybersecurity Skills]] | ⭐7,418 | AI Skills, 網安, Cybersecurity | 2026-05-24 |
 | [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | ⭐40,000 | MCP, Browser, AI Agent | 2026-05-22 |
 | [[Alishahryar1-free-claude-code\|Free Claude Code]] | ⭐26,376 | Coding Agent CLI, LLM, AI Agent | 2026-05-20 |
@@ -157,6 +158,8 @@ title: 專案索引
 | [[codecrafters-io-build-your-own-x\|Build Your Own X]] | ⭐504,263 | LLM, AI Tutoring, 從零手做 | 2026-05-26 |
 | [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62,542 | AI Agent, 教學課程, MCP | 2026-05-18 |
 | [[rohitg00-ai-engineering-from-scratch\|AI Engineering from Scratch]] | ⭐9,567 | LLM, AI Agent, MCP, 教學 | 2026-05-22 |
+| [[datawhalechina-easy-vibe\|Easy-Vibe]] | ⭐14,776 | Vibe Coding, AI Tutoring, Coding Education | 2026-05-26 |
+| [[teng-lin-notebooklm-py\|notebooklm-py]] | ⭐15,157 | NotebookLM, AI Skills, Research Automation | 2026-05-26 |
 | [[walkinglabs-learn-harness-engineering\|Learn Harness Engineering]] | ⭐1k+ | Harness Engineering, AI Agent, Context Engineering, 課程 | 2026-05-24 |
 | [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
@@ -226,7 +229,7 @@ title: 專案索引
 | [[codeburn\|CodeBurn]] | ⭐5,885 | AI Skills, 程式碼優化 | 2026-05-09 |
 | [[printing-press]] | ⭐30+ | Prompt Engineering, 文件轉換 | 2026-05-09 |
 | [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
-| [[jo-inc-camofox-browser]] | ⭐4,203 | AI Agent, 瀏覽器自動化 | 2026-05-08 |
+| [[jo-inc-camofox-browser\|Camofox Browser]] | ⭐5,829 | AI Agent, 瀏覽器自動化, 反偵測 | 2026-05-26 |
 | [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
 | [[volcengine-OpenSandbox\|OpenSandbox]]（[[opensandbox\|別名]]） | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
 | [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |

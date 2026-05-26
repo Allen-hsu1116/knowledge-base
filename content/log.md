@@ -800,3 +800,23 @@ title: 整理記錄
   - 新增：`raw/2026-05-24-walkinglabs-learn-harness-engineering.md`
   - 新增：`wiki/walkinglabs-learn-harness-engineering.md`
   - Backlinks：AI-Agent.md, harness-engineering.md, Coding-Agent-CLI.md, agent-persona.md, context-engineering-basics.md
+
+## 2026-05-26 — Ingest 3 repos + Update 1 repo
+
+- **datawhalechina/easy-vibe** (⭐14,776) — Vibe Coding 教程，三階段從零到 AI-Native 開發者，10 語言
+  - 新增：`raw/2026-05-26-datawhalechina-easy-vibe.md`
+  - 新增：`wiki/datawhalechina-easy-vibe.md`
+  - Backlinks：AI-Tutoring.md
+- **teng-lin/notebooklm-py** (⭐15,157) — Google NotebookLM 非官方 Python API × AI Skill
+  - 新增：`raw/2026-05-26-teng-lin-notebooklm-py.md`
+  - 新增：`wiki/teng-lin-notebooklm-py.md`
+  - Backlinks：AI-Agent.md, AI-Skills.md
+- **Donchitos/Claude-Code-Game-Studios** (⭐20,021) — Claude Code 遊戲開發工作室，49 agents × 73 skills
+  - 新增：`raw/2026-05-26-Donchitos-Claude-Code-Game-Studios.md`
+  - 新增：`wiki/Donchitos-Claude-Code-Game-Studios.md`
+  - Backlinks：AI-Agent.md, AI-Skills.md, Coding-Agent-CLI.md
+- **jo-inc/camofox-browser** (⭐5,829，原 ⭐4,203) — 更新：stars + frontmatter + 新功能
+  - 新增：`raw/2026-05-26-jo-inc-camofox-browser.md`
+  - 更新：`wiki/jo-inc-camofox-browser.md`（加 frontmatter、更新 stars、加 Cookie Import/YouTube Transcripts/Proxy+GeoIP）
+  - 更新：projects.md（stars 4,203→5,829）
+

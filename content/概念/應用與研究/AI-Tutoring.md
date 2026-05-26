@@ -85,7 +85,7 @@
 
 ## 相關概念
 
-← [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
+← [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[datawhalechina-easy-vibe]]
 
 ## 來源
 - raw/HKUDS-DeepTutor.md
