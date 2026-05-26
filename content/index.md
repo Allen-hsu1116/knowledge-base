@@ -97,8 +97,20 @@ title: 知識庫總覽
 | [[harness-engineering]] | Harness Engineering：語言模型不是不夠聰明，只是沒有人類好好引導 | 2026-04-12 | [YouTube](https://www.youtube.com/watch?v=R6fZR_9kmIw) |
 | [[ai-agent-interaction]] | AI Agent (2/3)：AI Agent 之間可以有什麼樣的互動 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=mmPmNezjCi0) |
 | [[ai-agent-work-impact]] | AI Agent (3/3)：AI Agent 對工作帶來的衝衝擊 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=VqB8zMujdjM) |
-| [[context-engineering-basics]] | AI Agent (1/3)：核心技術 Context Engineering 基本概念解說 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=urwDLyNa9FU) |
+| [[context-engineering-basics\|Context Engineering 基本概念]] | AI Agent (1/3)：核心技術 Context Engineering 基本概念解說 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=urwDLyNa9FU) |
 | [[agent-anatomy-openclaw]] | 解剖小龍蝦：以 OpenClaw 為例介紹 AI Agent 運作原理 | 2026-03-09 | [YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ) |
+
+---
+
+### 🆕 2026-05-26 新增
+
+| 專案 | Stars | 一句話 |
+|------|-------|--------|
+| [[anthropics-claude-cookbooks]] | ⭐44,023 | Anthropic 官方 Claude 實戰食譜集（RAG、Tool Use、多模態、子代理） |
+| [[paperless-ngx-paperless-ngx]] | ⭐41,336 | 開源文件管理系統，OCR + 全文搜尋 + 自動分類 |
+| [[moeru-ai-airi]] | ⭐39,726 | 開源 AI 虛擬夥伴（Neuro-sama 替代），WebGPU 建構 |
+| [[Leonxlnx-taste-skill]] | ⭐19,717 | 反模板 AI 前端技能框架，多風格變體 + 可調參數 |
+| [[anthropics-knowledge-work-plugins]] | ⭐15,460 | Anthropic 官方知識工作者插件集，11 角色 for Claude Cowork |
 
 ---
 

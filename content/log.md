@@ -8,6 +8,16 @@ title: 整理記錄
 
 ## 2026-05-26
 
+### [2026-05-26] ingest | daily-llm-trending 自動收錄 5 個新專案（第二批）
+
+- **anthropics/claude-cookbooks** ⭐44,023 — Anthropic 官方 Claude 實戰食譜集，Jupyter Notebook 格式，涵蓋 RAG、Tool Use、多模態、子代理
+- **paperless-ngx/paperless-ngx** ⭐41,336 — 開源文件管理系統，OCR + 全文搜尋 + 自動分類
+- **moeru-ai/airi** ⭐39,726 — 開源 AI 虛擬夥伴（Neuro-sama 替代），WebGPU/WebAudio 建構，可遊戲、聊天、直播
+- **Leonxlnx/taste-skill** ⭐19,717 — 反模板 AI 前端技能框架，多種風格變體 + 可調參數，讓 AI 生成更好的 UI
+- **anthropics/knowledge-work-plugins** ⭐15,460 — Anthropic 官方知識工作者插件集，11 角色插件 for Claude Cowork/Code
+
+新增概念頁：OCR、AI-companion、VTuber、frontend-design、Claude-Cowork（已有概念補強連結）
+
 ### [2026-05-26] ingest | daily-llm-trending 自動收錄 5 個新專案
 
 - **codecrafters-io/build-your-own-x** ⭐504k — 從零重建技術的教學合集（28 類技術）
