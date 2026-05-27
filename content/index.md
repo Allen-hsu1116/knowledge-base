@@ -102,6 +102,16 @@ title: 知識庫總覽
 
 ---
 
+### 🆕 2026-05-27 新增
+
+| 專案 | Stars | 一句話 |
+|------|-------|--------|
+| [[DigitalPlatDev-FreeDomain]] | ⭐167,376 | 免費域名註冊服務，50 萬+域名已註冊 |
+| [[jellyfin-jellyfin]] | ⭐52,381 | 開源媒體串流系統，Plex/Emby 的免費替代 |
+| [[twentyhq-twenty]] | ⭐46,861 | 開源 CRM，Salesforce 替代，程式碼定義 + AI 整合 |
+| [[Open-Dev-Society-OpenStock]] | ⭐12,114 | 開源股市追蹤平台，即時報價 + 個人化警報 |
+| [[Axorax-awesome-free-apps]] | ⭐5,268 | 免費 PC/行動 App 策展清單，數十大分類 |
+
 ### 🆕 2026-05-26 新增
 
 | 專案 | Stars | 一句話 |

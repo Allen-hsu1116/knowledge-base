@@ -6,6 +6,18 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-27
+
+### [2026-05-27] ingest | daily-llm-trending 自動收錄 5 個新專案
+
+- **DigitalPlatDev/FreeDomain** ⭐167,376 — 免費域名註冊服務，5 種免費頂級網域，50 萬+域名已註冊
+- **jellyfin/jellyfin** ⭐52,381 — 開源媒體串流系統，Plex/Emby 的完全免費替代
+- **twentyhq/twenty** ⭐46,861 — 排名第一的開源 CRM，Salesforce 替代，程式碼定義 + AI 整合
+- **Open-Dev-Society/OpenStock** ⭐12,114 — 開源股市追蹤平台，即時報價 + 個人化警報
+- **Axorax/awesome-free-apps** ⭐5,268 — 免費 PC/行動 App 策展清單，數十大分類
+
+新增概念：free-domain、self-hosted、media-streaming、CRM、open-source-business、AI-integration、stock-tracking、free-software
+
 ## 2026-05-26
 
 ### [2026-05-26] ingest | daily-llm-trending 自動收錄 5 個新專案（第二批）
