@@ -61,13 +61,11 @@ CONCEPT_FOLDER_MAP = {
     "🤖 程式碼智慧": "概念/應用與研究",
 }
 
-# --- 影片：固定清單 ---
+# --- 影片：只有真正的影片統整頁（有 YouTube 來源的）才放影片區 ---
+# 方法論頁面（如 self-correction, context-engineering-basics）屬於概念區，不放影片區
 VIDEO_SLUGS = [
     "ai-self-growth", "flash-attention", "kv-cache",
-    "positional-embedding-evolution", "self-correction",
-    "harness-engineering", "ai-agent-interaction",
-    "ai-agent-work-impact", "context-engineering-basics",
-    "agent-anatomy-openclaw",
+    "positional-embedding-evolution",
 ]
 
 def parse_wiki_links(line):
@@ -155,8 +153,31 @@ CONCEPTS_FOLDER_MAP = {
     "embedded-AI": "概念/應用與研究",
     "Computer-Use": "專案/Agent-框架與工具",
     "computer-use": "專案/Agent-框架與工具",
+    "computer-use-agent": "專案/Agent-框架與工具",
     "GUI-VLA": "專案/Agent-框架與工具",
     "edge-AI": "概念/應用與研究",
+    # --- New concept mappings (previously orphan) ---
+    "金融預測": "概念/應用與研究",
+    "financial-forecasting": "概念/應用與研究",
+    "電腦視覺": "專案/多媒體與爬蟲",
+    "computer-vision": "專案/多媒體與爬蟲",
+    "滲透測試": "專案/多媒體與爬蟲",
+    "pentesting": "專案/多媒體與爬蟲",
+    "self-hosted": "專案/基礎設施",
+    "self-hosted-AI-platform": "專案/基礎設施",
+    "自架 AI 平台": "專案/基礎設施",
+    "工作流自動化": "專案/基礎設施",
+    "workflow-automation": "專案/基礎設施",
+    "CRM": "專案/應用",
+    "open-source-business": "專案/基礎設施",
+    "free-domain": "專案/基礎設施",
+    "free-software": "專案/基礎設施",
+    "media-streaming": "專案/基礎設施",
+    "stock-tracking": "專案/應用",
+    "AI-integration": "專案/Agent-框架與工具",
+    "模型安全": "專案/模型推論與部署",
+    "寫作品質": "專案/Skill-生態系",
+    "文件管理": "專案/記憶與知識管理",
 }
 
 # known-repos.json 的 slug 對應分類
@@ -210,10 +231,31 @@ TITLE_KEYWORDS_FOLDER_MAP = {
     "transformer": "專案/模型推論與部署",
     # 學習資源
     "tutorial": "專案/學習資源", "beginner": "專案/學習資源",
-    "from scratch": "專案/學習資源",
+    "from scratch": "專案/學習資源", "tips": "專案/學習資源",
+    "english": "專案/學習資源", "cookbook": "專案/學習資源",
+    "cookbooks": "專案/學習資源",
     # 基礎設施
     "sandbox": "專案/基礎設施", "browser": "專案/基礎設施",
-    "erp": "專案/基礎設施",
+    "erp": "專案/基礎設施", "crm": "專案/應用",
+    "jellyfin": "專案/基礎設施", "domain": "專案/基礎設施",
+    "freedomain": "專案/基礎設施", "media": "專案/基礎設施",
+    "iii": "專案/基礎設施",
+    # 多媒體與爬蟲
+    "video": "專案/多媒體與爬蟲", "moneyprinter": "專案/多媒體與爬蟲",
+    "vision": "專案/多媒體與爬蟲", "presentation": "概念/應用與研究",
+    # 應用
+    "stock": "專案/應用", "alpha": "專案/應用",
+    "financial": "概念/應用與研究", "forecast": "概念/應用與研究",
+    "twenty": "專案/應用",
+    # Skill 生態系
+    "slop": "專案/Skill-生態系", "stop-slop": "專案/Skill-生態系",
+    "heretic": "專案/模型推論與部署",
+    # 自架平台
+    "self-hosted": "專案/基礎設施", "paperless": "專案/記憶與知識管理",
+    # 滲透測試 / 安全
+    "pentest": "專案/多媒體與爬蟲",
+    # 工作流
+    "automation": "專案/基礎設施", "workflow": "專案/基礎設施",
 }
 
 # 掃描還沒分類的 wiki 頁面，用 frontmatter keywords 和標題推斷分類
@@ -294,11 +336,10 @@ for fname in os.listdir(CONTENT_DIR):
     except Exception:
         pass
 
-# 加入影片
+# 加入影片（VIDEO_SLUGS 強制覆蓋，確保影片頁放在影片資料夾）
 for slug in VIDEO_SLUGS:
     filename = f"{slug}.md"
-    if filename not in file_to_folder:
-        file_to_folder[filename] = "影片"
+    file_to_folder[filename] = "影片"
 
 # 執行移動
 moved = 0

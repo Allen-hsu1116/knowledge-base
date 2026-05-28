@@ -55,6 +55,8 @@ title: 知識庫總覽
 | [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
 | [[ai-self-growth|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
+| [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
+| [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。透過認知框架、工具邊界、工作流程三維度駕馭 Agent。 |
 
 ### 📚 應用與研究
 
@@ -64,6 +66,11 @@ title: 知識庫總覽
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
+| [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
+| [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。 |
+| [[pentesting\|滲透測試]] | 模擬真實攻擊者手法，對系統進行授權的安全測試，找出可被利用的漏洞。 |
+| [[AI-presentation\|AI 簡報]] | 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。 |
+| [[pptx-generation\|PPTX 生成]] | 程式化生成 PowerPoint 簡報檔案，從模板、python-pptx 到 AI 驅動的全自動流程。 |
 
 ### 🎨 生成式 AI
 
@@ -83,6 +90,13 @@ title: 知識庫總覽
 | [[simulation|模擬]] | 用多 Agent 社會演化模擬推演未來事件。 |
 | [[GraphRAG]] | Knowledge Graph + RAG 結合，沿語義關聯路徑檢索。 |
 
+### 🏗 基礎設施概念
+
+| 概念 | 說明 |
+|------|------|
+| [[self-hosted-AI-platform\|自架 AI 平台]] | 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。 |
+| [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
+
 ## 🎬 教學影片
 
 全部來自 **李宏毅 (Hung-yi Lee)** — 台大電機系教授。
@@ -99,38 +113,6 @@ title: 知識庫總覽
 | [[ai-agent-work-impact]] | AI Agent (3/3)：AI Agent 對工作帶來的衝衝擊 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=VqB8zMujdjM) |
 | [[context-engineering-basics\|Context Engineering 基本概念]] | AI Agent (1/3)：核心技術 Context Engineering 基本概念解說 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=urwDLyNa9FU) |
 | [[agent-anatomy-openclaw]] | 解剖小龍蝦：以 OpenClaw 為例介紹 AI Agent 運作原理 | 2026-03-09 | [YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ) |
-
----
-
-### 🆕 2026-05-28 新增
-
-| 專案 | Stars | 一句話 |
-|------|-------|--------|
-| [[harry0703-MoneyPrinterTurbo]] | ⭐62,027 | AI 一鍵生成高清短視頻，自動文案+素材+字幕+配樂 |
-| [[byoungd-English-level-up-tips]] | ⭐46,667 | 離譜的英語學習指南，全方位方法論+AI輔助方案 |
-| [[p-e-w-heretic]] | ⭐22,010 | 全自動移除語言模型審查機制，directional ablation + Optuna |
-| [[iii-hq-iii]] | ⭐16,876 | 即時組合擴展觀測服務的統一平台，三原語模型 |
-| [[hardikpandya-stop-slop]] | ⭐5,700 | 移除 AI 寫作痕跡的 skill 檔案 |
-
-### 🆕 2026-05-27 新增
-
-| 專案 | Stars | 一句話 |
-|------|-------|--------|
-| [[DigitalPlatDev-FreeDomain]] | ⭐167,376 | 免費域名註冊服務，50 萬+域名已註冊 |
-| [[jellyfin-jellyfin]] | ⭐52,381 | 開源媒體串流系統，Plex/Emby 的免費替代 |
-| [[twentyhq-twenty]] | ⭐46,861 | 開源 CRM，Salesforce 替代，程式碼定義 + AI 整合 |
-| [[Open-Dev-Society-OpenStock]] | ⭐12,114 | 開源股市追蹤平台，即時報價 + 個人化警報 |
-| [[Axorax-awesome-free-apps]] | ⭐5,268 | 免費 PC/行動 App 策展清單，數十大分類 |
-
-### 🆕 2026-05-26 新增
-
-| 專案 | Stars | 一句話 |
-|------|-------|--------|
-| [[anthropics-claude-cookbooks]] | ⭐44,023 | Anthropic 官方 Claude 實戰食譜集（RAG、Tool Use、多模態、子代理） |
-| [[paperless-ngx-paperless-ngx]] | ⭐41,336 | 開源文件管理系統，OCR + 全文搜尋 + 自動分類 |
-| [[moeru-ai-airi]] | ⭐39,726 | 開源 AI 虛擬夥伴（Neuro-sama 替代），WebGPU 建構 |
-| [[Leonxlnx-taste-skill]] | ⭐19,717 | 反模板 AI 前端技能框架，多風格變體 + 可調參數 |
-| [[anthropics-knowledge-work-plugins]] | ⭐15,460 | Anthropic 官方知識工作者插件集，11 角色 for Claude Cowork |
 
 ---
 
