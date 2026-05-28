@@ -117,6 +117,7 @@ title: 專案索引
 | [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
 | [[Qdrant]] | ⭐31,189 | RAG, 向量資料庫 | 2026-05-10 |
 | [[Chroma]] | ⭐27,889 | RAG, 向量資料庫 | 2026-05-10 |
+| [[yichuan-w-LEANN\|LEANN]] | ⭐11,790 | RAG, 向量資料庫, MCP, 本地隱私 | 2026-05-28 |
 
 ## 🎯 多媒體與爬蟲
 
@@ -171,6 +172,7 @@ title: 專案索引
 |------|-------|------|----------|
 | [[666ghj-MiroFish\|MiroFish]] | ⭐62,147 | AI Agent, 世界模型, 群體智慧, 金融預測 | 2026-05-26 |
 | [[presenton-presenton\|Presenton]] | ⭐6,369 | AI, PPT, 簡報生成 | 2026-05-24 |
+| [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30,250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
 | [[FinceptTerminal\|Fincept Terminal]] | ⭐22,646 | AI Agent, 金融預測, 金融分析 | 2026-05-23 |
 | [[shiyu-coder-Kronos\|Kronos]] | ⭐24,824 | 金融預測, LLM 基礎模型, K 線 | 2026-05-15 |
 | [[HKUDS-AI-Trader\|AI-Trader]] | ⭐16,611 | AI Agent, MCP, 金融交易 | 2026-05-13 |

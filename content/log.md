@@ -842,3 +842,15 @@ title: 整理記錄
   - 更新：`wiki/jo-inc-camofox-browser.md`（加 frontmatter、更新 stars、加 Cookie Import/YouTube Transcripts/Proxy+GeoIP）
   - 更新：projects.md（stars 4,203→5,829）
 
+
+## 2026-05-28
+
+- **ingest** `yichuan-w-LEANN` — LEANN 低儲存向量索引（⭐11.8k），RAG on Everything, 97% 空間節省, MCP 原生整合
+  - raw: `raw/2026-05-28-yichuan-w-LEANN.md`
+  - wiki: `wiki/yichuan-w-LEANN.md`
+  - backlinks: 向量資料庫.md, rag.md
+
+- **ingest** `DayuanJiang-next-ai-draw-io` — Next AI Draw.io AI 驅動繪圖工具（⭐30.3k），自然語言建 draw.io 圖表, MCP Server
+  - raw: `raw/2026-05-28-DayuanJiang-next-ai-draw-io.md`
+  - wiki: `wiki/DayuanJiang-next-ai-draw-io.md`
+  - backlinks: projects.md 應用區

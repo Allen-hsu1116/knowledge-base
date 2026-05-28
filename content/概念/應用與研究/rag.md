@@ -105,7 +105,7 @@ docker compose -f docker/docker-compose.yml up -d
 
 ## 相關概念
 
-← [[document-parsing]] · [[Knowledge-Graph]] · [[AI-Agent]] · [[hichunk]] · [[cocoindex]] · [[qmd]]
+← [[document-parsing]] · [[Knowledge-Graph]] · [[AI-Agent]] · [[hichunk]] · [[cocoindex]] · [[qmd]] · [[yichuan-w-LEANN|LEANN]]
 
 ## 來源
 
