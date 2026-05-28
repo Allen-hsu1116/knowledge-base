@@ -47,6 +47,7 @@ title: 專案索引
 | [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐37,928 | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
+| [[microsoft-SkillOpt\|SkillOpt]] | ⭐1,415 | AI Skills, Prompt Engineering, Agent Optimization | 2026-05-28 |
 | [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
 | [[open-webui-open-webui\|Open WebUI]] | ⭐100k+ | LLM, AI Agent, RAG, 向量資料庫, 自架平台 | 2026-05-24 |
 

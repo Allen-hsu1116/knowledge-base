@@ -854,3 +854,8 @@ title: 整理記錄
   - raw: `raw/2026-05-28-DayuanJiang-next-ai-draw-io.md`
   - wiki: `wiki/DayuanJiang-next-ai-draw-io.md`
   - backlinks: projects.md 應用區
+
+- **ingest** `microsoft-SkillOpt` — SkillOpt 文字空間技能優化器（⭐1.4k），用訓練神經網路方式優化 LLM Agent 技能文件
+  - raw: `raw/2026-05-28-microsoft-SkillOpt.md`
+  - wiki: `wiki/microsoft-SkillOpt.md`
+  - backlinks: AI-Skills.md, projects.md (Skill 生態系區)
