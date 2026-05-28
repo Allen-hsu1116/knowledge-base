@@ -8,7 +8,6 @@ title: 專案索引
 
 ---
 
-
 ## 🤖 Agent 框架與工具
 
 | 專案 | Stars | 概念 | 收錄日期 |
@@ -51,8 +50,6 @@ title: 專案索引
 | [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐37,928 | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
-| [[openclaw\|OpenClaw]] | — | AI Agent, AI Skills, MCP | 2026-04-28 |
-
 
 ## 🔄 Agent 編排與記憶
 
@@ -62,8 +59,6 @@ title: 專案索引
 | [[ruvnet-ruflo\|Ruflo]] | ⭐47,000 | 多Agent編排, Swarm, 聯邦通訊 | 2026-05-09 |
 | [[upstash-context7\|Context7]] | ⭐54,800 | LLM 文件查詢, MCP | 2026-05-09 |
 | [[bytedance-deer-flow\|DeerFlow 2.0]] | ⭐66,100 | Agent 編排, 子Agent, 沙箱 | 2026-05-09 |
-| [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | — | Claude Code, 生產力, 自動化 | 2026-05-06 |
-
 
 ## 🧠 記憶與知識管理
 
@@ -83,18 +78,17 @@ title: 專案索引
 | [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
 | [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
 | [[safishamsi-graphify]] | ⭐41,860 | Knowledge Graph, RAG, MCP | 2026-05-04 |
-| [[volcengine-OpenViking]]（[[openviking\|概念頁]]） | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
-| [[openviking\|OpenViking（概念頁）]] | — | Context Database, 檔案系統範式 | 2026-05-03 |
+| [[volcengine-OpenViking]]（[[openviking|OpenViking]]） | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
+
 | [[mempalace\|MemPalace]]（[[MemPalace-mempalace\|別名]]） | ⭐50,787 | AI Agent, MCP, 記憶, RAG, 知識圖譜 | 2026-05-03 |
 | [[ragflow]] | ⭐79,665 | RAG, AI Agent | 2026-05-03 |
 | [[docling]] | ⭐59,151 | RAG, 文件解析 | 2026-05-03 |
 | [[cocoindex]] | ⭐8,136 | RAG, 增量索引 | 2026-05-03 |
 
-
 ## 🧠 模型推論與部署
 
-| 概念頁 | 說明 |
-|--------|------|
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
 | [[p-e-w-heretic\|Heretic]] | ⭐22,010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
 | [[ds4\|DS4]] | ⭐8,303 | LLM, 推論加速, 本地部署, DeepSeek | 2026-05-13 |
 | [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |
@@ -103,29 +97,15 @@ title: 專案索引
 | [[Ollama]] | ⭐171,080 | LLM, 本地部署 | 2026-05-10 |
 | [[vLLM]] | ⭐79,515 | LLM, 推論加速 | 2026-05-10 |
 | [[NVIDIA-TensorRT-LLM]] | ⭐13,598 | LLM, 推論加速, GPU 最佳化 | 2026-05-10 |
-| [[模型推論與部署]] | LLM 從訓練到服務：推論優化、部署架構、成本控制 |
-| [[flash-attention\|Flash Attention]] | 減少 GPU HBM↔SRAM 搬運次數 |
-| [[kv-cache\|KV Cache]] | 避免重算 K/V，衍生 GQA/MLA/Sliding Window |
-| [[positional-embedding-evolution\|位置編碼演進]] | Sinusoidal → ALiBi → RoPE |
-| [[rtk\|RTK]] | 減少 LLM token 消耗 60-90% |
-
-| 專案 | Stars | 概念 | 收錄日期 |
-
 
 ## 🔍 向量資料庫
 
-| 概念頁 | 說明 |
-|--------|------|
+| 專案 | Stars | 概念 | 收錄日期 |
+|------|-------|------|----------|
 | [[yichuan-w-LEANN\|LEANN]] | ⭐11,790 | RAG, 向量資料庫, MCP, 本地隱私 | 2026-05-28 |
 | [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
 | [[Qdrant]] | ⭐31,189 | RAG, 向量資料庫 | 2026-05-10 |
 | [[Chroma]] | ⭐27,889 | RAG, 向量資料庫 | 2026-05-10 |
-| [[向量資料庫]] | 儲存和檢索 embeddings 的專用資料庫，RAG 基礎設施 |
-| [[rag\|RAG]] | 檢索增強生成 |
-| [[mempalace|MemPalace]]（[[MemPalace-mempalace|別名]]） | 本地優先 AI 記憶系統（ChromaDB） |
-
-| 專案 | Stars | 概念 | 收錄日期 |
-
 
 ## 🎯 多媒體與爬蟲
 
@@ -142,13 +122,6 @@ title: 專案索引
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
 | [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
-| [[web-crawling\|Web Crawling]] | — | 系統化瀏覽和收集網頁資料 | — |
-| [[web-scraping\|網頁爬取]] | — | 從網頁自動提取資料 | — |
-| [[網頁爬蟲]] | — | 網頁爬蟲與爬取技術總覽 | — |
-| [[語音辨識]] | — | ASR/TTS 技術和模型 | — |
-| [[computer-vision\|電腦視覺]] | — | 讓電腦理解和處理視覺資訊 | — |
-| [[pentesting\|滲透測試]] | — | 模擬真實攻擊者手法的安全測試 | — |
-
 
 ## ⚡ 效能與壓縮
 
@@ -162,7 +135,6 @@ title: 專案索引
 | [[rtk\|RTK (Rust Token Killer)]]（[[rtk-ai-rtk\|別名]]） | ⭐40,072 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[JuliusBrussee-caveman]] | ⭐52,506 | Token Optimization, Prompt Engineering | 2026-05-03 |
 | [[litellm]] | ⭐45,703 | LLM, AI Gateway | 2026-05-03 |
-
 
 ## 📖 學習資源
 
@@ -181,14 +153,13 @@ title: 專案索引
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
 
-
 ## 📊 應用
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30,250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
-| [[ZhuLinsen-alphaevo\|AlphaEvo]] | — | 策略回測, 金融預測, 自演化 | 2026-05-28 |
-| [[ZhuLinsen-alphasift\|AlphaSift]] | — | 多因子選股, 股市掃描, 金融分析 | 2026-05-28 |
+| [[ZhuLinsen-alphaevo\|AlphaEvo]] | ⭐38,100 | 策略回測, 金融預測, 自演化 | 2026-05-28 |
+| [[ZhuLinsen-alphasift\|AlphaSift]] | ⭐38,100 | 多因子選股, 股市掃描, 金融分析 | 2026-05-28 |
 | [[Open-Dev-Society-OpenStock\|OpenStock]] | ⭐12,114 | 股市追蹤, 開源, 即時報價 | 2026-05-27 |
 | [[twentyhq-twenty\|Twenty]] | ⭐46,861 | CRM, 開源, AI 整合 | 2026-05-27 |
 | [[666ghj-MiroFish\|MiroFish]] | ⭐62,147 | AI Agent, 世界模型, 群體智慧, 金融預測 | 2026-05-26 |
@@ -211,13 +182,11 @@ title: 專案索引
 | [[ZhuLinsen-daily_stock_analysis]] | ⭐33,706 | LLM, AI Agent | 2026-05-03 |
 | [[santifer-career-ops]] | ⭐41,864 | AI Agent | 2026-05-03 |
 
-
 ## 🔄 Agent 自演化
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[EvoMap-evolver]] | ⭐7,241 | AI Agent, GEP 協議, 自演化引擎 | 2026-05-06 |
-
 
 ## 🛠 Skill 生態系
 
@@ -235,7 +204,6 @@ title: 專案索引
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
-
 
 ## 🏗 基礎設施
 
@@ -264,8 +232,6 @@ title: 專案索引
 | [[volcengine-OpenSandbox\|OpenSandbox]]（[[opensandbox\|別名]]） | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
 | [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
 | [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
-| [[sandbox\|沙箱]] | — | 程式碼執行的隔離環境，AI Agent 安全基礎 | — |
-| [[visualization\|資料視覺化]] | — | 將數據轉為圖形表示 | — |
 
 ---
 
