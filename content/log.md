@@ -6,6 +6,16 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-28
+
+### [2026-05-28] ingest | daily-llm-trending 自動收錄 5 個新專案
+
+- **harry0703/MoneyPrinterTurbo** ⭐62,027 — AI 一鍵生成高清短視頻，自動文案+素材+字幕+配樂
+- **byoungd/English-level-up-tips** ⭐46,667 — 離譜的英語學習指南，全方位方法論+AI輔助方案
+- **p-e-w/heretic** ⭐22,010 — 全自動移除語言模型審查機制，directional ablation + Optuna 優化
+- **iii-hq/iii** ⭐16,876 — 即時組合擴展觀測服務的統一平台，Worker/Function/Trigger 三原語
+- **hardikpandya/stop-slop** ⭐5,700 — 移除 AI 寫作痕跡的 skill 檔案，5 維度評分系統
+
 ## 2026-05-27
 
 ### [2026-05-27] ingest | daily-llm-trending 自動收錄 5 個新專案

@@ -102,6 +102,16 @@ title: 知識庫總覽
 
 ---
 
+### 🆕 2026-05-28 新增
+
+| 專案 | Stars | 一句話 |
+|------|-------|--------|
+| [[harry0703-MoneyPrinterTurbo]] | ⭐62,027 | AI 一鍵生成高清短視頻，自動文案+素材+字幕+配樂 |
+| [[byoungd-English-level-up-tips]] | ⭐46,667 | 離譜的英語學習指南，全方位方法論+AI輔助方案 |
+| [[p-e-w-heretic]] | ⭐22,010 | 全自動移除語言模型審查機制，directional ablation + Optuna |
+| [[iii-hq-iii]] | ⭐16,876 | 即時組合擴展觀測服務的統一平台，三原語模型 |
+| [[hardikpandya-stop-slop]] | ⭐5,700 | 移除 AI 寫作痕跡的 skill 檔案 |
+
 ### 🆕 2026-05-27 新增
 
 | 專案 | Stars | 一句話 |
