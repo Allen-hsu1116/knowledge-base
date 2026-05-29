@@ -33,6 +33,7 @@ title: 知識庫總覽
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
+| [[revfactory-harness\|Agent 團隊架構]] | 用領域描述自動產生 agent 團隊和 skill，六種架構模式涵蓋管線到階層委派。 |
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
 
 ### 🛠 方法論
@@ -57,6 +58,7 @@ title: 知識庫總覽
 | [[ai-self-growth|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
 | [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
 | [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。透過認知框架、工具邊界、工作流程三維度駕馭 Agent。 |
+| [[compound-engineering\|複利工程]] | 每次工程工作讓下一次更容易，非累積債務。80% 規劃審查 + 20% 執行的 Agent 工作流。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 
 ### 📚 應用與研究
@@ -70,9 +72,11 @@ title: 知識庫總覽
 | [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
 | [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。 |
 | [[pentesting\|滲透測試]] | 模擬真實攻擊者手法，對系統進行授權的安全測試，找出可被利用的漏洞。 |
+| [[arthurpanhku-DocSentinel\|SSDLC 安全評估]] | AI 驅動的安全軟體開發生命週期平台，LangGraph 編排六個安全 Agent 自動化評估。 |
 | [[web-crawling\|Web Crawling]] | 系統化瀏覽和收集網頁資料，是搜尋引擎和資料收集的基礎技術。 |
 | [[web-scraping\|網頁爬取]] | 從網頁自動提取結構化資料，補充 API 不足的資料來源。 |
 | [[語音辨識]] | ASR/TTS 技術和模型，語音轉文字與文字轉語音的 AI 應用。 |
+| [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | OpenMOSS 開源語音合成模型家族，涵蓋長語音、對話、語音設計、音效和即時串流五大場景。 |
 | [[AI-presentation\|AI 簡報]] | 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。 |
 | [[pptx-generation\|PPTX 生成]] | 程式化生成 PowerPoint 簡報檔案，從模板、python-pptx 到 AI 驅動的全自動流程。 |
 

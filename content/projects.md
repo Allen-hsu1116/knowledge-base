@@ -12,6 +12,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[EveryInc-compound-engineering-plugin\|Compound Engineering Plugin]] | ⭐17.8k | AI Skills, 複利工程, Coding Agent CLI | 2026-05-29 |
+| [[revfactory-harness\|Harness 團隊架構工廠]] | ⭐3.9k | AI Agent, Agent 團隊, Harness Engineering | 2026-05-29 |
 | [[microsoft-SkillOpt\|SkillOpt]] | ⭐1,415 | AI Skills, Prompt Engineering, Agent Optimization | 2026-05-28 |
 | [[earendil-works-pi\|Pi Agent Harness]] | ⭐53,931 | Coding Agent CLI, Agent Skills, Agent Runtime | 2026-05-26 |
 | [[manaflow-ai-cmux\|cmux]] | ⭐19,020 | Coding Agent CLI, 終端機, AI Agent 通知 | 2026-05-26 |
@@ -111,6 +113,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
 | [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | ⭐62,027 | AI, 影片生成, 工作流自動化 | 2026-05-28 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
 | [[opentoonz-opentoonz\|OpenToonz]] | ⭐6,347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
@@ -210,6 +213,7 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[iii-hq-iii\|iii]] | ⭐16,876 | 工作流自動化, 後端平台, Agent 友善 | 2026-05-28 |
+| [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |
 | [[DigitalPlatDev-FreeDomain\|FreeDomain]] | ⭐167,376 | 免費域名, 自架, 開源 | 2026-05-27 |
 | [[jellyfin-jellyfin\|Jellyfin]] | ⭐52,381 | 媒體串流, 自架平台, 開源 | 2026-05-27 |
 | [[Axorax-awesome-free-apps\|Awesome Free Apps]] | ⭐5,268 | 免費軟體, 工具策展, 開源 | 2026-05-27 |

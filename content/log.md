@@ -6,6 +6,15 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-29
+
+### [2026-05-29] ingest | daily-llm-trending 自動收錄 4 個新專案
+
+- **EveryInc/compound-engineering-plugin** ⭐17,771 — Claude Code/Codex/Cursor 複利工程插件，讓每次工作都讓下一次更容易
+- **revfactory/harness** ⭐3,887 — Claude Code 的團隊架構工廠，六種 agent 團隊模式自動生成
+- **OpenMOSS/MOSS-TTS** ⭐2,241 — 開源語音合成模型家族，五合一涵蓋長語音、對話、設計、音效、即時串流
+- **arthurpanhku/DocSentinel** ⭐88 — AI 驅動的 SSDLC 安全評估平台，LangGraph 編排六個安全 Agent
+
 ## 2026-05-28
 
 ### [2026-05-28] ingest | daily-llm-trending 自動收錄 5 個新專案
