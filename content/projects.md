@@ -12,6 +12,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent CLI, AI Agent, Git 工作流 | 2026-05-30 |
 | [[EveryInc-compound-engineering-plugin\|Compound Engineering Plugin]] | ⭐17.8k | AI Skills, 複利工程, Coding Agent CLI | 2026-05-29 |
 | [[revfactory-harness\|Harness 團隊架構工廠]] | ⭐3.9k | AI Agent, Agent 團隊, Harness Engineering | 2026-05-29 |
 | [[microsoft-SkillOpt\|SkillOpt]] | ⭐1,415 | AI Skills, Prompt Engineering, Agent Optimization | 2026-05-28 |
@@ -66,6 +67,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[run-llama-liteparse\|LiteParse]] | ⭐7.3k | 文件解析, PDF, OCR, Rust | 2026-05-30 |
 | [[paperless-ngx-paperless-ngx\|Paperless-ngx]] | ⭐41,336 | 文件管理, OCR, 自架平台 | 2026-05-26 |
 | [[qmd\|QMD]] | ⭐24,863 | RAG, 本地搜尋引擎, MCP | 2026-05-15 |
 | [[hichunk\|HiChunk]] | ⭐96 | RAG, 文件分塊, 階層式結構化 | 2026-05-13 |
@@ -212,6 +214,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |
 | [[iii-hq-iii\|iii]] | ⭐16,876 | 工作流自動化, 後端平台, Agent 友善 | 2026-05-28 |
 | [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |
 | [[DigitalPlatDev-FreeDomain\|FreeDomain]] | ⭐167,376 | 免費域名, 自架, 開源 | 2026-05-27 |
