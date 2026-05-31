@@ -6,6 +6,30 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-05-31
+
+### [2026-05-31] lint | 知識庫 lint 修復
+
+修復項目：
+- **frontmatter tags 殘留**：移除 `anthropics-knowledge-work-plugins.md` 和 `Leonxlnx-taste-skill.md` 的 `tags:` 欄位，改用 `topics:`（符合 Quartz 規範）
+- **projects.md 日期排序**：修正基礎設施區塊中 `arthurpanhku-DocSentinel`（2026-05-29）和 `iii-hq-iii`（2026-05-28）的排序
+- **斷掉的 cross-links 修復**：
+  - `[[擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
+  - `[[LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
+  - `[[n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
+  - `[[raw/...]]` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
+  - `[[CRM]]` `[[DNS]]` `[[NAS]]` — 拆掉非頁面 wikilink
+  - `[[Vibe-Coding]]` → 純文字 "Vibe Coding"
+  - `[[coding-agent-toolkit]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`
+- **孤兒頁修復**：
+  - 新增 `向量資料庫` 到 index.md 概念區
+  - index.md 的 web-crawling 條目加上 `[[網頁爬蟲]]` 引用
+  - 新增 `anthropics-knowledge-work-plugins` 和 `Leonxlnx-taste-skill` 到 projects.md Skill 生態系
+  - 新增 `openclaw` 到 projects.md 基礎設施
+- **index.md 無日期堆積區段** ✅
+- **概念區無帶 Stars 的專案條目** ✅
+- 同步部署到 Quartz/GitHub Pages ✅
+
 ## 2026-05-29
 
 ### [2026-05-29] ingest | daily-llm-trending 自動收錄 4 個新專案
