@@ -16,7 +16,7 @@ topics:
 
 > ⭐16.9k · 即時組合、擴展與觀測所有服務的統一平台，Worker / Function / Trigger 三原語打造後端基礎設施
 
-快速導航：[[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[n8n-mcp]] · [[observability|可觀測性]]
+快速導航：[[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
 
 ## 是什麼
 
@@ -62,7 +62,7 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 | Temporal | ⭐12k+ | 工作流引擎 | ❌ | ❌ | ✅ |
 | Fly.io | — | 雲平台 | ❌ | ❌ | ✅ |
 
-← [[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[n8n-mcp]] · [[observability|可觀測性]]
+← [[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
 
 ## 來源
 

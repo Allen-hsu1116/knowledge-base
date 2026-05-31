@@ -17,7 +17,7 @@ topics:
 
 > ⭐2.3k · 從下載資料到生成文字，一步步用 PyTorch 從零訓練自己的 LLM
 
-快速導航：[[LLMs-from-scratch]] · [[llm-internals|LLM 底層技術]] · [[huggingface-transformers|Hugging Face Transformers]] · [[minimind|MiniMind]]
+快速導航：[[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[llm-internals|LLM 底層技術]] · [[huggingface-transformers|Hugging Face Transformers]] · [[minimind|MiniMind]]
 
 ## 是什麼
 
@@ -90,7 +90,7 @@ python scripts/generate_text.py
 | nanoGPT | ⭐12k+ | PyTorch | 最簡 GPT 訓練 | Karpathy 出品 | MIT |
 | llm.c | ⭐25k+ | C/CUDA | 極致效能 | 去除 PyTorch 依賴 | MIT |
 
-← [[LLMs-from-scratch]] · [[llm-internals|LLM 底層技術]] · [[huggingface-transformers|Hugging Face Transformers]]
+← [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[llm-internals|LLM 底層技術]] · [[huggingface-transformers|Hugging Face Transformers]]
 
 ## 來源
 

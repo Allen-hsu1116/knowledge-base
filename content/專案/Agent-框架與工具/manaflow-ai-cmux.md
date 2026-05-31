@@ -23,7 +23,7 @@ cmux 是專為 AI coding agent 工作流設計的 macOS 原生終端機：當 Ag
 
 - 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI]]（終端機 AI 程式開發助手）
 - 🔗 **Agent Skills 生態** → [[agent-skills-ecosystem]]（AI coding agent 的 skill 標準）
-- 🧰 **Coding Agent 工具包** → [[coding-agent-toolkit]]（AI coding agent 的基礎建設）
+- 🧰 **Coding Agent 工具包** → [[Coding-Agent-CLI|Coding Agent CLI]]（AI coding agent 的基礎建設）
 
 ## 為什麼重要
 
@@ -42,7 +42,7 @@ AI coding agent 時代，終端機是人和 AI 的共同工作空間。但現有
 
 - [[Coding-Agent-CLI]] — cmux 不是 coding agent 本身，而是為 coding agent 設計的終端環境
 - [[agent-skills-ecosystem]] — Claude Code Teams 整合顯示 agent 工作流對終端的新需求
-- [[coding-agent-toolkit]] — 從終端層面補足 AI coding agent 的基礎建設
+- [[Coding-Agent-CLI|Coding Agent CLI]] — 從終端層面補足 AI coding agent 的基礎建設
 - [[earendil-works-pi|Pi Agent Harness]] — Pi 提供 agent runtime，cmux 提供終端 UI，互補
 - [[manaflow-ai-cmux|cmux]] — 新概念：為 AI coding agent 工作流設計的原生終端
 

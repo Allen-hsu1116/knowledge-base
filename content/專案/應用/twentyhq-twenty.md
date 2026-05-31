@@ -16,7 +16,7 @@ topics:
 
 > ⭐46.9k · 開源 CRM 的第一名，Salesforce 替代方案，為 AI 時代而生
 
-快速導航：[[CRM]] · [[open-source-business|開源商業模式]] · [[AI-integration|AI 整合]] · [[self-hosted|自架服務]]
+快速導航：CRM · [[open-source-business|開源商業模式]] · [[AI-integration|AI 整合]] · [[self-hosted|自架服務]]
 
 ## 是什麼
 
@@ -64,7 +64,7 @@ npx twenty app:publish
 | HubSpot | — | CRM | ❌ | ✅ | ❌ | ❌ |
 | [[frappe-erpnext|ERPNext]] | ⭐20k+ | ERP/CRM | ✅ | ❌ | ❌ Python | ✅ |
 
-← [[CRM]] · [[open-source-business|開源商業模式]] · [[AI-integration|AI 整合]] · [[self-hosted|自架服務]]
+← CRM · [[open-source-business|開源商業模式]] · [[AI-integration|AI 整合]] · [[self-hosted|自架服務]]
 
 ## 來源
 

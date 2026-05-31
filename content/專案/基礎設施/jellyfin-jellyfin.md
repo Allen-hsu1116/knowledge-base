@@ -15,7 +15,7 @@ topics:
 
 > ⭐52.4k · 開源免費的媒體管理與串流系統，Plex 和 Emby 的替代方案
 
-快速導航：[[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · [[NAS]]
+快速導航：[[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · NAS
 
 ## 是什麼
 
@@ -64,7 +64,7 @@ brew install --cask jellyfin
 | Emby | — | 媒體伺服器 | ❌ | ✅ | 部分 |
 | [[paperless-ngx-paperless-ngx|Paperless-ngx]] | ⭐41.3k | 文件管理 | ✅ | ✅ | ✅ |
 
-← [[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · [[NAS]]
+← [[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · NAS
 
 ## 來源
 

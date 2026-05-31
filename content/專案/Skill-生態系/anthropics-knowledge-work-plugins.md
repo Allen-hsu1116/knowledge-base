@@ -5,7 +5,7 @@ stars: 15460
 created: 2026-01-23
 language: Python
 date: 2026-05-26
-tags:
+topics:
   - AI-Skills
   - MCP
   - agent-skills-ecosystem

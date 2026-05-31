@@ -200,6 +200,8 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
+| [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |
+| [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐19,717 | AI Skills, Prompt Engineering, 前端設計 | 2026-05-26 |
 | [[Understand-Anything\|Understand Anything]] | ⭐18,628 | 程式碼智慧, Knowledge Graph, AI Agent | 2026-05-23 |
 | [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
 | [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
@@ -217,8 +219,8 @@ title: 專案索引
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |
-| [[iii-hq-iii\|iii]] | ⭐16,876 | 工作流自動化, 後端平台, Agent 友善 | 2026-05-28 |
 | [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |
+| [[iii-hq-iii\|iii]] | ⭐16,876 | 工作流自動化, 後端平台, Agent 友善 | 2026-05-28 |
 | [[DigitalPlatDev-FreeDomain\|FreeDomain]] | ⭐167,376 | 免費域名, 自架, 開源 | 2026-05-27 |
 | [[jellyfin-jellyfin\|Jellyfin]] | ⭐52,381 | 媒體串流, 自架平台, 開源 | 2026-05-27 |
 | [[Axorax-awesome-free-apps\|Awesome Free Apps]] | ⭐5,268 | 免費軟體, 工具策展, 開源 | 2026-05-27 |
@@ -240,6 +242,7 @@ title: 專案索引
 | [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
 | [[volcengine-OpenSandbox\|OpenSandbox]]（[[opensandbox\|別名]]） | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |
 | [[hermes-agent]] | ⭐141,768 | AI Agent, 學習閉環, 跨 session 記憶 | 2026-05-02 |
+| [[openclaw\|OpenClaw]] | — | AI Agent, Skill, MCP, 自架助手框架 | 2026-05-02 |
 | [[project-golem]] | ⭐590 | AI Agent, 記憶系統, MCP | 2026-05-02 |
 
 ---

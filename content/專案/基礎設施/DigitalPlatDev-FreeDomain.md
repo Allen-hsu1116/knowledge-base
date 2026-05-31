@@ -16,7 +16,7 @@ topics:
 
 > ⭐167k+ · 完全免費的域名註冊服務，讓每個人都能擁有自己的數位身份
 
-快速導航：[[free-domain|免費域名]] · [[self-hosted|自架服務]] · [[DNS]] · [[open-source-business|開源商業模式]]
+快速導航：[[free-domain|免費域名]] · [[self-hosted|自架服務]] · DNS · [[open-source-business|開源商業模式]]
 
 ## 是什麼
 
@@ -58,7 +58,7 @@ DigitalPlat FreeDomain 是一個由 DigitalPlat Foundation 維護的非營利免
 | DuckDNS | — | DDNS 服務 | ✅ | ❌ | ✅ |
 | 購買傳統域名 | — | 域名服務 | ❌ | ✅ | ❌ |
 
-← [[free-domain|免費域名]] · [[self-hosted|自架服務]] · [[DNS]] · [[open-source-business|開源商業模式]]
+← [[free-domain|免費域名]] · [[self-hosted|自架服務]] · DNS · [[open-source-business|開源商業模式]]
 
 ## 來源
 

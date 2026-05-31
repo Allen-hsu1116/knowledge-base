@@ -23,7 +23,7 @@ Pi 是一個 monorepo 形式的 AI agent harness，包含互動式 coding agent 
 
 - 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI]]（終端機 AI 程式開發助手）
 - 🔗 **Agent Skills 生態** → [[agent-skills-ecosystem]]（AI coding agent 的 skill 標準與生態系）
-- 🧰 **Coding Agent 工具包** → [[coding-agent-toolkit]]（AI coding agent 的基礎建設）
+- 🧰 **Coding Agent 工具包** → [[Coding-Agent-CLI|Coding Agent CLI]]（AI coding agent 的基礎建設）
 
 ## 為什麼重要
 
@@ -41,7 +41,7 @@ Pi 不只是一個 coding agent——它把 agent 開發的每層都做成了獨
 
 - [[Coding-Agent-CLI]] — Pi 是 coding agent CLI 的新競爭者，架構最完整
 - [[agent-skills-ecosystem]] — Pi 的 AGENTS.md 展現了 agent 技能標準化的方向
-- [[coding-agent-toolkit]] — 從統一 API 到 agent runtime 到 TUI，完整的 agent 工具包範例
+- [[Coding-Agent-CLI|Coding Agent CLI]] — 從統一 API 到 agent runtime 到 TUI，完整的 agent 工具包範例
 - [[earendil-works-pi|Pi Agent Harness]] — 新概念：monorepo 式的完整 AI agent 基礎建設
 
 ## 來源

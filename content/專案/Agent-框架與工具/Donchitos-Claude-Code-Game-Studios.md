@@ -78,7 +78,7 @@ claude
 
 ## 來源
 
-- 完整 README：[[raw/2026-05-26-Donchitos-Claude-Code-Game-Studios]]
+- 完整 README：raw/2026-05-26-Donchitos-Claude-Code-Game-Studios.md
 - GitHub: <https://github.com/Donchitos/Claude-Code-Game-Studios>
 
 ---

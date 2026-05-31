@@ -5,7 +5,7 @@ stars: 19717
 created: 2026-02-19
 language: Shell
 date: 2026-05-26
-tags:
+topics:
   - AI-Skills
   - Prompt-Engineering
   - agent-skills-ecosystem

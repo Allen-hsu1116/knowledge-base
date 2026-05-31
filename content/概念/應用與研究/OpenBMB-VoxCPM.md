@@ -18,7 +18,7 @@ topics:
 
 > ⭐22.8k · 無 tokenizer 的多語言 TTS 系統，支援語音設計、可控克隆與 48kHz 高品質音訊輸出
 
-快速導航：[[語音辨識]] · [[OpenMOSS-MOSS-TTS]] · [[supertone-inc-supertonic|Supertonic]] · [[擴散模型]]
+快速導航：[[語音辨識]] · [[OpenMOSS-MOSS-TTS]] · [[supertone-inc-supertonic|Supertonic]] · [[diffusion-model|擴散模型]]
 
 ## 是什麼
 
@@ -92,7 +92,7 @@ wav = model.generate(
 | XTTS (Coqui) | ⭐13k+ | 17 | ❌ | ✅ | 24kHz | MPL-2.0 |
 | Bark (Suno) | ⭐38k+ | 多語言 | ✅ | ❌ | 24kHz | MIT |
 
-← [[語音辨識]] · [[擴散模型]] · [[OpenMOSS-MOSS-TTS]]
+← [[語音辨識]] · [[diffusion-model|擴散模型]] · [[OpenMOSS-MOSS-TTS]]
 
 ## 來源
 

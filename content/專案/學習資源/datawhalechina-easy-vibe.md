@@ -12,7 +12,7 @@ topics: ["Vibe Coding", "AI Tutoring", "Coding Education"]
 
 ## 快速導航
 
-- 🎮 **Vibe Coding** → [[Vibe-Coding]]（用對話寫程式的新開發範式）
+- 🎮 **Vibe Coding** → Vibe Coding（用對話寫程式的新開發範式）
 - 🎓 **AI Tutoring** → [[AI-Tutoring]]（AI 驅動的個人化教學）
 - 🤖 **AI Agent** → [[AI-Agent]]（進階 Claude Code + Agent 工作流）
 - 🦞 **OpenClaw** → [[openclaw]]（easy-vibe 推薦的 Agent 學習路徑）
@@ -113,7 +113,7 @@ easy-vibe 不是替代工具，而是**教會你用這些工具**的教程。Cur
 
 ## 相關概念
 
-← [[AI-Tutoring]] · [[Vibe-Coding]]
+← [[AI-Tutoring]] · Vibe Coding
 
 - [[AI-Agent]]——Stage 3 教你用 Claude Code 做 Agent 工作流
 - [[AI-Skills]]——Claude Code Skills 是 Stage 3 核心主題
