@@ -115,6 +115,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22,759 | TTS, 語音合成, 語音克隆, 多語言, 擴散模型 | 2026-05-31 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
 | [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | ⭐62,027 | AI, 影片生成, 工作流自動化 | 2026-05-28 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
@@ -145,6 +146,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | ⭐2,258 | LLM, 從零訓練, 教學, Transformer | 2026-05-31 |
 | [[byoungd-English-level-up-tips\|English Level Up Tips]] | ⭐46,667 | AI Tutoring, 學習指南, 英語 | 2026-05-28 |
 | [[codecrafters-io-build-your-own-x\|Build Your Own X]] | ⭐504,263 | LLM, AI Tutoring, 從零手做 | 2026-05-26 |
 | [[datawhalechina-easy-vibe\|Easy-Vibe]] | ⭐14,776 | Vibe Coding, AI Tutoring, Coding Education | 2026-05-26 |
