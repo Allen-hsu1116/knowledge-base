@@ -57,6 +57,7 @@ npx agentmemory
 | **mem0** | 通用 LLM 記憶 | 68.5% | 手動 add() | Vector+Graph | ✅ |
 | **Letta/MemGPT** | Agent 記憶管理 | 83.2% | Agent 自編輯 | Vector | ✅ |
 | **[[CLAUDE-md\|CLAUDE.md]]** | 手動上下文 | N/A | 手動編輯 | 載入全部 | ❌ |
+| **[[supermemoryai-supermemory\|Supermemory]]** | AI 記憶平台 | #1 benchmarks | 自動+使用者畫像 | Vector+Memory+RAG | ✅ |
 
 - agentmemory 是 [[AI-Agent]] 在記憶管理領域的實作，使用 [[MCP]] 協議與各種 agent 通訊
 - 混合搜尋架構是 [[rag]] 的進化形 — BM25+Vector+Graph 三路混合搜尋
@@ -65,7 +66,7 @@ npx agentmemory
 
 ## 相關概念
 
-← [[AI-Agent]] · [[MCP]] · [[LLM]] · [[rag]]
+← [[AI-Agent]] · [[MCP]] · [[LLM]] · [[rag]] · [[supermemoryai-supermemory|Supermemory]]
 
 ## 來源
 

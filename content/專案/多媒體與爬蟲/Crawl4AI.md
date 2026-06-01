@@ -65,10 +65,11 @@ result = await crawler.arun(
 | [[microsoft-markitdown]] | 文件轉 Markdown | Office 文件 | Markdown | ✅ |
 | Scrapy | 通用爬蟲 | URL | HTML/JSON | ❌ 需手動處理 |
 | BeautifulSoup | HTML 解析 | HTML | 結構化 | ❌ 需手動清洗 |
+| [[D4Vinci-Scrapling|Scrapling]] | 自適應爬蟲 | URL | 結構化 | ✅ MCP 整合 |
 | [[rag]] | 概念頁 | — | — | Crawl4AI 是 RAG 的上游資料採集工具 |
 
 ## 相關概念
-← [[rag]] · [[document-parsing]] · [[AI-Agent]]
+← [[rag]] · [[document-parsing]] · [[AI-Agent]] · [[D4Vinci-Scrapling|Scrapling]]
 
 ## 來源
 - raw/2026-05-10-crawl4ai.md
