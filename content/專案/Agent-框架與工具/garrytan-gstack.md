@@ -26,6 +26,8 @@ gstack 的核心理念是「流程而非工具集」。每個 skill 不是孤立
 - **多 Agent 支援**：Claude Code、Codex CLI、Cursor、Gemini CLI 等 10 種 AI 編程 Agent
 - **OpenClaw 整合**：透過 ACP 協定深度整合，提供 4 個專門給 OpenClaw Agent 的會話式 skill
 - **設計工具鏈**：/design-consultation 從零建構設計系統、/design-shotgun 生成 4-6 個 AI 模擬原型、/design-html 轉成可直接上線的 HTML
+- **衝刺循環流程**：Think → Plan → Build → Review → Test → Ship → Reflect
+- **全 Markdown 驅動**：每個 skill 都是一份 Markdown 文件，透明可審計
 
 ## 怎麼用
 
@@ -36,6 +38,14 @@ cd ~/.claude/skills/gstack && ./setup
 
 # 指定其他 AI Agent
 cd ~/gstack && ./setup --host codex  # OpenAI Codex CLI
+
+# 使用 skill
+/office-hours    # YC 創業辦公時間模擬
+/plan-ceo-review # CEO 視角規劃審查
+/review          # 資深工程師 code review
+/qa              # QA 測試流程
+/cso             # 安全審計
+/ship            # 發布流程
 ```
 
 ## 跟其他方案的關係
@@ -45,6 +55,7 @@ cd ~/gstack && ./setup --host codex  # OpenAI Codex CLI
 | [[obra-superpowers]] | 開發方法論框架 | superpowers 偏方法論（先思考再動手），gstack 偬角色分工 |
 | [[github-spec-kit]] | 規格驅動開發 | spec-kit 偬規格文件，gstack 偬流程角色 |
 | [[Coding-Agent-CLI]] | Coding Agent 平台 | gstack 支援 10 種 coding agent 平台 |
+| [[AI-Skills]] | Agent Skills 標準 | gstack 的每個 skill 都遵循 Agent Skills 標準 |
 
 ## 相關概念
 

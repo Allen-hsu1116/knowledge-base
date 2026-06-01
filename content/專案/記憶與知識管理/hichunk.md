@@ -97,6 +97,7 @@ python -c "import nltk; nltk.download('punkt_tab')"
 
 ## 來源
 
+- [2026-05-13 素材](../raw/2026-05-13-hichunk.md)
 - raw/2026-05-xx-hichunk.md
 
 ## 專案資訊

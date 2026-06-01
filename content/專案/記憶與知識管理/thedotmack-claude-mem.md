@@ -79,7 +79,7 @@ npx claude-mem install
 
 ## 來源
 
-- raw/2026-05-09-claude-mem.md
+- [原始資料](../raw/2026-05-09-thedotmack-claude-mem.md)
 
 ---
 

@@ -28,7 +28,19 @@ GenericAgent 是一個極簡的自主 Agent 框架，核心只有約 3,000 行 P
 - **分層記憶系統**：L0 Meta Rules → L1 Long-term → L2 Short-term → L3 Working → L4 Session Archive，按時間粒度分層管理 token 效率
 - **極簡架構 + 系統級控制**：~3K 行核心、9 個原子工具、真實瀏覽器注入（保留登入 session）
 - **跨模型相容**：Claude、Gemini、Kimi、MiniMax 等主流模型
-- **Token 效率**：論文宣稱比其他框架省 6x token
+- **Token 效率**：論文宣稱比其他框架省 6x token，得益於分層記憶和極簡工具集
+
+### 九個原子工具
+
+1. 瀏覽器（真實注入，保留 session）
+2. 終端機
+3. 檔案系統
+4. 鍵鼠控制
+5. 螢幕視覺
+6. 手機（ADB）
+7. 技能結晶
+8. 技能回憶
+9. 自我反思
 
 ## 怎麼用
 
@@ -38,11 +50,16 @@ cd GenericAgent && pip install requests streamlit pywebview
 
 # 設定 API Key
 cp mykey_template.py mykey.py
-# 編輯 mykey.py
+# 編輯 mykey.py，填入你的 LLM API key
 
 # 啟動桌面 UI
 python launch.pyw
+
+# 或啟動 Web UI
+streamlit run web_ui.py
 ```
+
+技術論文：https://arxiv.org/abs/2604.17091
 
 ## 跟其他方案的關係
 
@@ -51,6 +68,12 @@ python launch.pyw
 | 程式碼量 | ~3K 行 | ~530K 行 | 大型閉源 |
 | 自演化 | 技能自動生長 | 插件生態系 | session 間無狀態 |
 | 瀏覽器控制 | 真實瀏覽器 | 沙箱/headless | 透過 MCP |
+| 記憶管理 | L0-L4 分層 | Context window | Session 內 |
+
+| 面向 | GenericAgent | [[mempalace]] | [[EvoMap-evolver]] |
+|------|-------------|-------------|---------------------|
+| 演化方式 | 技能結晶 | 記憶宮殿索引 | GEP 協議 |
+| 記憶結構 | L0-L4 分層 | 宮殿索引 | 基因表達 |
 
 ## 相關概念
 

@@ -135,4 +135,5 @@ Hyperframes 把 [[AI-Agent]] 的 HTML 能力直接轉換成影片生成能力，
 
 ## 來源
 
+- [原始資料](../raw/2026-05-07-heygen-com-hyperframes.md)
 - GitHub: https://github.com/heygen-com/hyperframes

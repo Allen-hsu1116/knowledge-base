@@ -13,11 +13,15 @@
 
 ## 快速導航
 
-- 🤖 **AI Agent** → [[AI-Agent]]（12-factor 是 Agent 工程化基礎原則）
-- 🔧 **Context Engineering** → [[context-engineering-basics]]（Factor 3: Own Your Context Window）
-- 🛠 **Prompt Engineering** → [[Prompt-Engineering]]（Factor 2: Own Your Prompts）
+- ⚡ [[AI-Agent]] · [[context-engineering-basics]] · [[Prompt-Engineering]]
 
-## 12 條原則
+## 是什麼
+
+12-Factor Agents 是一組由 Dex Horthy（HumanLayer 創辦人）提出的 12 條設計原則，指導如何打造可靠的 LLM Agent 軟體。靈感來自經典的 12 Factor Apps 方法論，核心洞見是：**好的 Agent 不是「給 prompt + tool bag 然後 loop」；而是大部分是軟體、LLM 只 sprinkled 在對的位置**。
+
+作者從與 100+ SaaS founders 的對話中總結出：多數框架帶你到 80% 品質，但要超越 80% 就得反向工程框架。最快的路是把 Agent 的模組化概念**融入既有產品**，而不是從零用框架重建。
+
+### 12 條原則
 
 1. **Natural Language → Tool Calls** — 用結構化 JSON tool calling 取代自由文字解析
 2. **Own Your Prompts** — 提示詞是你產品的一部分，不要交給框架黑盒
@@ -32,21 +36,60 @@
 11. **Trigger from Anywhere** — Agent 可以從任何地方被觸發
 12. **Stateless Reducer** — Agent 本身無狀態，像 reducer 一樣純粹
 
+## 核心特色
+
+- **框架中立** — 不綁定任何特定框架，原則適用於所有 LLM Agent 開發
+- **反框架偏見** — 主張融入既有產品而非從零重建
+- **軟體優先** — Agent 大部分是軟體，LLM 只在關鍵節點介入
+- **Tool Calling 為核心** — 結構化 JSON 輸出取代自由文字解析
+- **Context Engineering** — 主動管理 context window，而非被動堆疊
+- **生命週期管理** — Launch/Pause/Resume 簡單 API 控制 Agent 狀態
+- **人類介入即 Tool Call** — 把人類審核視為另一種工具呼叫
+- **Stateless 架構** — Agent 如同 reducer，狀態外部管理
+- **實戰導向** — 來自 100+ SaaS founders 的實際經驗總結
+
+## 怎麼用
+
+### 閱讀原則
+
+1. 進入 [GitHub repo](https://github.com/humanlayer/12-factor-agents)
+2. 每條原則有獨立的 markdown 文件詳細解釋
+3. 從 Factor 1 開始按順序閱讀
+
+### 應用原則
+
+- **新專案**：按 12 條原則設計 Agent 架構，特別是 Factor 1（Tool Calls）、Factor 3（Context Engineering）、Factor 12（Stateless Reducer）
+- **既有專案**：選擇性採用，將模組化概念融入既有程式碼
+- **框架選擇**：用原則評估框架是否符合你的需求
+
+### 相關資源
+
+- [AI Engineer World's Fair 演講](https://www.youtube.com/watch?v=8kMaTybvDUw)
+- [Deep Dive 影片](https://www.youtube.com/watch?v=yxJDyQ8v6P0)
+- [Tool Use Podcast](https://youtu.be/8bIHcttkOTE)
+
+## 跟其他方案的關係
+
+| 特性 | 12-Factor Agents | LangGraph | CrewAI | Anthropic Agent Pattern |
+|------|-----------------|-----------|--------|-------------------------|
+| 定位 | 設計原則/方法論 | 框架 | 框架 | 設計指南 |
+| 核心主張 | 軟體優先，LLM sprinkled | 圖狀工作流 | 多 Agent 協作 | 工具使用 + 迴圈 |
+| 框架依賴 | 無 | LangChain | CrewAI | 無 |
+| 人類介入 | Tool Call | 節點 | 節點 | Tool Use |
+| 狀態管理 | Stateless Reducer | 圖狀態 | 內建 | Agent 狀態 |
+| 可融入既有產品 | ✅ 推薦 | 困難 | 部分 | ✅ |
+| 學習曲線 | 低 | 中高 | 中 | 低 |
+
+## 相關概念
+
+← [[AI-Agent]] · [[context-engineering-basics]] · [[self-correction]] · [[Prompt-Engineering]] · [[MCP]]
+
 ## 核心洞見
 
 作者 Dex Horthy 從與 100+ SaaS founders 的對話中總結出：多數框架帶你到 80% 品質，但要超越 80% 就得反向工程框架。最快的路是把 Agent 的模組化概念**融入既有產品**，而不是從零用框架重建。
 
 關鍵轉念：好的 Agent 不是「給 prompt + tool bag 然後 loop」；而是**大部分是軟體、LLM 只 sprinkled 在對的位置**。
 
-## 相關概念
-
-- [[AI-Agent]] — 12-factor 是 Agent 工程化的基礎原則
-- [[context-engineering-basics]] — Factor 3「Own Your Context Window」直接相關
-- [[self-correction]] — Factor 9 compact errors 呼應自我修正機制
-- [[Prompt-Engineering]] — Factor 2「Own Your Prompts」
-- [[MCP]] — 作者刻意不提但 tool calling 生態系相關
-- [[Coding-Agent-CLI]] — Agent 系統的 CLI 介面模式
-
 ## 來源
 
-- raw/2026-05-18-humanlayer-12-factor-agents.md
+- [原始資料](../raw/2026-05-18-humanlayer-12-factor-agents.md)

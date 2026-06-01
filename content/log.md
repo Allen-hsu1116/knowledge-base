@@ -6,6 +6,23 @@ title: 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
+## 2026-06-01
+
+### [2026-06-01] ingest | 每日 LLM 熱門專案搜尋 — 新增 3 個 repo
+
+新增 repo：
+1. **D4Vinci/Scrapling** ⭐56.6k — 自適應網頁爬蟲框架 → wiki/D4Vinci-Scrapling.md → projects.md「🎯 多媒體與爬蟲」
+2. **supermemoryai/supermemory** ⭐23.3k — AI 記憶引擎 → wiki/supermemoryai-supermemory.md → projects.md「🧠 記憶與知識管理」
+3. **nesquena/hermes-webui** ⭐10k — Hermes Agent Web 介面 → wiki/nesquena-hermes-webui.md → projects.md「🤖 Agent 框架與工具」
+
+排除：
+- `developer-portfolios`：純 awesome-list
+- `github/docs`：GitHub 官方文件，非 LLM/AI 工具
+
+更新：
+- known-repos.json：新增 3 個 repo + 3 個概念
+- projects.md：3 個分類區各新增 1 筆
+
 ## 2026-05-31
 
 ### [2026-05-31] lint | 知識庫 lint 修復

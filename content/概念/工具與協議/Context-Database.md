@@ -4,11 +4,26 @@
 
 ## 快速導航
 
+- ⚡ [[AI-Agent]] · [[LLM]] · [[Knowledge-Graph]] · [[llm-knowledge-base]]
 - 🗄️ **OpenViking** → [[volcengine-OpenViking]]（Context Database 的開源實作）
 - 📝 **概念頁** → [[openviking]]（OpenViking 的方法論分析與對比）
 - 🧠 **知識庫方法論** → [[llm-knowledge-base]]（我們的雙層結構與 Context DB 的對比）
 - 🕸️ **Knowledge Graph** → [[Knowledge-Graph]]（知識圖譜是另一種 context 組織方式）
 - 🏛️ **MemPalace** → [[mempalace]]（宮殿索引式記憶系統）
+
+## 是什麼
+
+Context Database 是專為 AI Agent 設計的上下文資料庫，核心創新是**像管理本地檔案一樣管理上下文**。不同於傳統 RAG 的 flat 向量搜尋，Context Database 採用檔案系統範式——分層目錄、按需載入、視覺化檢索軌跡，讓 Agent 的記憶、資源和技能統一管理。
+
+Context Database 解決了 AI Agent 開發的五大上下文挑戰：碎片化（記憶散落各處）、需求暴增（長期任務產生大量上下文）、檢索效果差（flat 向量搜尋缺乏全局視角）、不可觀察（隱式檢索鏈像黑盒子）、記憶迭代有限（只有使用者互動記錄）。
+
+## 核心特色
+
+- **檔案系統範式**：像管理本地檔案一樣管理上下文，開發者熟悉的目錄結構和路徑語義，讓上下文管理直覺且可預測
+- **三層載入（Tiered Context Loading）**：L0 永遠載入（系統提示、角色設定）、L1 按需載入（當前對話、最近任務）、L2 搜尋載入（歷史記憶、資源索引），精確控制 token 消耗
+- **目錄遞迴檢索**：不只是向量搜尋，而是**目錄定位 + 語意搜尋**的雙重篩選，先縮小範圍再精確匹配，支援視覺化檢索軌跡
+- **可觀察性**：每次檢索都有視覺化軌跡，可以追蹤為什麼載入某段上下文，出錯時可以除錯
+- **統一管理**：記憶、資源、技能統一在一個檔案系統中，告別記憶在程式碼、資源在向量庫、技能散落各處的碎片化
 
 ## 解決的問題
 
@@ -22,36 +37,56 @@ AI Agent 開發面臨五大上下文挑戰：
 | **不可觀察** | 隱式檢索鏈像黑盒子 | 出錯時無法除錯 |
 | **記憶迭代有限** | 只有使用者互動記錄 | Agent 無法從任務中學習 |
 
-## 核心架構
+## 怎麼用
 
-### 檔案系統範式
-
-Context Database 的核心創新：**像管理本地檔案一樣管理上下文**。
+### Context Database 架構
 
 ```
 context/
 ├── L0/          # 系統層 — 永遠載入（角色設定、技能定義）
+│   ├── persona.md    # 角色定義
+│   ├── skills/       # 技能定義
+│   └── rules.md      # 行為規則
 ├── L1/          # Session 層 — 按需載入（當前對話、最近任務）
+│   ├── conversation/  # 當前對話摘要
+│   └── recent/       # 最近任務結果
 └── L2/          # 長期層 — 搜尋載入（歷史記憶、資源索引）
+    ├── knowledge/    # 歷史知識
+    └── resources/    # 資源索引
 ```
 
-### 三層載入（Tiered Context Loading）
+### 使用 OpenViking（開源實作）
 
-| 層級 | 內容 | 載入方式 | Token 消耗 |
-|------|------|----------|-----------|
-| **L0** | 系統提示、角色設定 | 永遠載入 | 固定 |
-| **L1** | 當前對話、最近任務 | 按需載入 | 中等 |
-| **L2** | 歷史記憶、資源索引 | 搜尋載入 | 按需 |
+```python
+# OpenViking 的 Context Database 使用方式
+from openviking import ContextDB
 
-### 目錄遞迴檢索
+db = ContextDB("./context")
 
-不只是向量搜尋，而是**目錄定位 + 語意搜尋**的雙重篩選：
+# L0 永遠載入：系統提示和角色設定
+system_context = db.load_l0()
 
-1. 先用目錄結構縮小範圍（如 `context/programming/python/`）
-2. 再用語意搜尋精確匹配
-3. 支援視覺化檢索軌跡，可追蹤每次檢索的路徑
+# L1 按需載入：當前對話相關上下文
+session_context = db.load_l1(task="code_review")
 
-## 與其他方法的對比
+# L2 搜尋載入：從歷史記憶中搜尋
+relevant_memory = db.search_l2(
+    query="authentication best practices",
+    max_tokens=2000
+)
+
+# 組合成完整上下文
+full_context = system_context + session_context + relevant_memory
+```
+
+### 常見使用場景
+
+- **長期運行 Agent**：跨 session 保持記憶，越用越懂使用者偏好
+- **多任務 Agent**：不同任務載入不同的 L1 上下文
+- **知識密集型任務**：從 L2 搜尋載入相關專業知識
+- **除錯與審計**：視覺化檢索軌跡，追蹤上下文來源
+
+## 跟其他方案的關係
 
 | 方法 | 策略 | 代表專案 | Token 效率 | 可觀察性 |
 |------|------|----------|-----------|----------|
@@ -79,6 +114,7 @@ context/
 ← [[AI-Agent]] · [[LLM]] · [[Knowledge-Graph]] · [[llm-knowledge-base]] · [[openviking]]
 
 ## 來源
+
 - 相關 GitHub/文章資料
 
 ---

@@ -21,37 +21,50 @@ Flamehaven Filesearch 是由 flamehaven01 開發的開源自架式 RAG 搜尋引
 
 ## 核心特色
 
-- **34 種文件格式**：支援 PDF、DOCX、PPTX、XLSX、圖片等 34 種常見文件格式
-- **BM25 + 混合搜尋**：關鍵字搜尋與語意搜尋融合，兼顧精確度和語意理解
-- **自架式部署**：Docker 一鍵部署，資料不離開本機
-- **文件解析管線**：內建完整的文件解析、分塊、索引流程
+- **34 種文件格式**：支援 PDF、DOCX、PPTX、XLSX、圖片等 34 種常見文件格式，涵蓋辦公文件和多媒體
+- **BM25 + 混合搜尋**：關鍵字搜尋與語意搜尋融合，兼顧精確度和語意理解，避免純向量搜尋的遺漏問題
+- **自架式部署**：Docker 一鍵部署，資料不離開本機，適合隱私敏感場景
+- **文件解析管線**：內建完整的文件解析、分塊、索引流程，從上傳到搜尋一條龍
 - **REST API**：標準 HTTP 介面，方便整合到現有系統
+- **問答模式**：除了搜尋，還支援 RAG 問答模式，直接從文件中生成答案
+- **即時索引**：文件上傳後自動解析和索引，支援增量更新
 
 ## 怎麼用
 
 ```bash
-# Docker 部署
+# Docker 部署（最簡單）
 docker run -p 8080:8080 flamehaven/filesearch
 
-# 索引文件
+# 索引文件目錄
 curl -X POST http://localhost:8080/index \
   -F "path=./documents"
 
-# 搜尋
+# 關鍵字搜尋
 curl http://localhost:8080/search?q=Flash+Attention
 
-# 問答
+# RAG 問答
 curl http://localhost:8080/query?q=什麼是RAG
+
+# 查看索引狀態
+curl http://localhost:8080/status
 ```
 
 ## 跟其他方案的關係
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[qmd\|QMD]] | 本地混合搜尋引擎 | QMD 側重 CLI 個人知識庫，Filesearch 側重企業文件搜尋 |
-| [[ragflow]] | 開源 RAG 引擎 | 同為 RAG 引擎，ragflow 功能更完整 |
+| [[qmd|QMD]] | 本地混合搜尋引擎 | QMD 側重 CLI 個人知識庫，Filesearch 側重企業文件搜尋 |
+| [[ragflow]] | 開源 RAG 引擎 | 同為 RAG 引擎，ragflow 功能更完整、社群更大 |
 | [[LeDat98-NexusRAG]] | 混合式 RAG | NexusRAG 側重知識圖譜，Filesearch 側重文件格式支援 |
 | [[microsoft-markitdown]] | 文件轉 Markdown | MarkItDown 只做轉換，Filesearch 做完整搜尋管線 |
+| [[cocoindex]] | 資料索引管線 | cocoindex 側重索引管線框架，Filesearch 是完整搜尋引擎 |
+
+## 適用場景
+
+- 企業內部知識庫搜尋（合約、規範、報告）
+- 法律文件檢索（判決書、法規、訴訟文件）
+- 學術論文搜尋與問答
+- 個人知識管理（Markdown、PDF 筆記）
 
 ## 相關概念
 

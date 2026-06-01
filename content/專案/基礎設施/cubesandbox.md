@@ -27,17 +27,43 @@ CubeSandbox 是騰訊雲推出的開源安全沙盒，專為 AI agent 執行程�
 - **eBPF 網路隔離**：CubeVS 在核心層級強制執行沙盒間網路隔離，無法被沙盒內程式碼繞過
 - **叢集與單節點部署**：CubeMaster 叢集排程 + Cubelet 節點管理
 
+### 架構組件
+
+- **CubeAPI**：高並發 REST API 閘道（Rust 實現），E2B 相容
+- **CubeMaster**：叢集編排器，資源排程
+- **CubeProxy**：反向代理，E2B 協議相容
+- **Cubelet**：運算節點本地排程，沙盒生命週期管理
+- **CubeVS**：eBPF 虛擬交換器，核心級網路隔離
+- **CubeHypervisor & CubeShim**：KVM MicroVM 管理，containerd Shim v2 API 整合
+
 ## 怎麼用
 
 ```bash
 # 一鍵安裝
 curl -sL https://github.com/tencentcloud/CubeSandbox/raw/master/deploy/one-click/online-install.sh | bash
 
-# Python 使用
+# 建立模板
+cubemastercli tpl create-from-image \
+  --image cube-sandbox-int.tencentcloudcr.com/cube-sandbox/sandbox-code:latest \
+  --writable-layer-size 1G \
+  --expose-port 49999 \
+  --expose-port 49983 \
+  --probe 49999
+
+# Python 使用（E2B SDK 相容）
 from e2b_code_interpreter import Sandbox
 with Sandbox.create(template=os.environ["CUBE_TEMPLATE_ID"]) as sandbox:
     result = sandbox.run_code("print('Hello from Cube Sandbox!')")
 ```
+
+效能對比：
+
+| 指標 | Docker | 傳統 VM | CubeSandbox |
+|------|--------|---------|-------------|
+| 隔離等級 | 低（共享核心） | 高（獨立核心） | 極高（獨立核心+eBPF） |
+| 啟動速度 | ~200ms | 數秒 | <60ms |
+| 記憶體開銷 | 低（共享核心） | 高（完整 OS） | 極低（<5MB） |
+| 部署密度 | 高 | 低 | 極高（單節點數千） |
 
 ## 跟其他方案的關係
 
@@ -45,6 +71,8 @@ with Sandbox.create(template=os.environ["CUBE_TEMPLATE_ID"]) as sandbox:
 |------|------|------|
 | [[AI-Agent]] | AI Agent 框架 | CubeSandbox 提供 Agent 的安全執行環境 |
 | [[MCP]] | 通信協議 | MCP 可用於 Agent 與沙盒間的通信 |
+| E2B | 沙盒平台 | CubeSandbox 原生相容 E2B SDK，可無縫遷移 |
+| Docker | 容器隔離 | CubeSandbox 用 MicroVM 取代 Docker，解決容器逃逸風險 |
 
 ## 相關概念
 

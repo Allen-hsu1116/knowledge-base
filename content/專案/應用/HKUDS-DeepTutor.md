@@ -15,11 +15,12 @@ DeepTutor 由港大數據科學實驗室（HKUDS）開發，是一個 Agent-Nati
 ## 核心特色
 
 - **混合個人化引擎** — 靜態知識錨定（教材 + 知識圖譜）+ 動態多解析度記憶（互動歷史提煉學習者畫像）
-- **封閉教學迴路** — 引用式解題 ↔ 難度校準出題，雙向耦合
+- **封閉教學迴路** — 引用式解題 ↔ 難度校準出題，雙向耦合，讓學習和評測形成正循環
 - **Book Engine（活書引擎）** — 把文件變成互動式學習體驗，不只是閱讀，而是對話、測驗、探索
 - **多文件協作寫作** — 跨多份文件的協作寫作工具，AI 協助整合和引用
 - **TutorBot（自主家教）** — 主動式多 agent 層，透過可擴展 skills 部署家教能力，統一多管道存取（CLI、Web、Discord、微信、飛書）
 - **TutorBench（評測基準）** — 學習者視角的評測基準，引用式學習者畫像 + 第一人稱互動協議
+- **互動式 HTML 視覺化** — Chart.js/SVG 圖表，讓學習內容視覺化
 
 ## 怎麼用
 
@@ -47,7 +48,20 @@ pip install -e .
 
 Embedding Provider：NVIDIA NIM、Gemini、OpenAI、Volcengine — 自動發現 embedding adapter。
 
+### 版本發展
+
+- v1.0.0：穩定版，RAG + WebSocket + 多 Provider 支援
+- v1.2.0：Book Engine 活書編譯器、多文件協作寫作
+- v1.3.6：Catalog 模型選擇、安全 RAG 重新索引、Skills editor 驗證
+
 ## 跟其他方案的關係
+
+| 專案 | 定位 | 關係 |
+|------|------|------|
+| [[HKUDS-Vibe-Trading]] | AI 交易 Agent | 同為 HKUDS 出品，Vibe-Trading 做交易，DeepTutor 做教育 |
+| 一般 AI 家教 | 單次問答 | DeepTutor 側重封閉教學迴路和個人化，不只是問答 |
+| Khan Academy AI | 線上教育 AI | DeepTutor 是開源可自架，Khan Academy 是封閉平台 |
+| [[Ollama]] | 本地 LLM | DeepTutor 支援 Ollama 作為本地 LLM Provider |
 
 DeepTutor 是 [[AI-Tutoring]] 的完整實作，使用 [[LLM]] 的文件抽取 + RAG 增強家教。TutorBot 是 [[AI-Agent]] 的自主 agent 層。技術棧為 Python 3.11+ 後端 + Next.js 16 前端，支援 Docker 部署，文件格式支援 PDF、DOCX、XLSX、PPTX。
 

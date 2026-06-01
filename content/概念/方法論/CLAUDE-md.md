@@ -12,6 +12,10 @@ topics:
 
 > Claude Code 的行為設定檔，放在專案根目錄，用自然語言告訴 Claude 該怎麼做、不該怎麼做。
 
+## 快速導航
+|
+- ⚡ [[Prompt-Engineering]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
+
 ## 是什麼
 
 CLAUDE.md 是 Anthropic Claude Code 的專案級設定檔，類似 `.cursorrules` 之於 Cursor。它是一個 Markdown 檔案，放在專案根目錄，用自然語言描述 Claude 的行為規範、專案慣例、和開發偏好。

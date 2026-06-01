@@ -9,6 +9,18 @@
 - 🔍 **RAG** → [[LLM]]（RAG 讓 AI 能基於特定教材回答問題）
 - 🤖 **AI Agent** → [[AI-Agent]]（TutorBot 是自主 Agent 層）
 
+## 是什麼
+
+AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent 來創造互動式、自適應的學習體驗。從「看影片+做題」走向「跟 AI 對話學」。
+
+## 核心特色
+
+### Socratic 引導式
+透過提問而非直接給答案，啟發學習者深度思考。
+
+### 自適應評測
+根據學習者表現動態調整難度和內容。
+
 ## 為什麼 AI Tutoring 重要
 
 ### 傳統線上教育的問題
@@ -69,6 +81,21 @@
   - Book Engine、TutorBot、RAG 整合
   - 多 LLM Provider 支援（OpenAI、Anthropic、Gemini、Ollama 等）
   - 論文：arXiv:2604.26962
+
+## 怎麼用
+
+### 使用 AI Tutor 平台
+1. 選擇適合的 AI Tutor 平台（如 DeepTutor）
+2. 定義學習目標和範圍
+3. 透過對話式互動進行學習
+4. 定期評估學習成效
+
+### 常見 AI Tutor 模式
+- Socratic 引導式：透過提問啟發思考
+- 解題示範式：逐步展示解題過程
+- 自適應測驗：根據表現動態調整難度
+
+## 跟其他方案的關係
 
 ## 與其他領域的關係
 

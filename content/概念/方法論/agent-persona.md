@@ -2,6 +2,25 @@
 
 > 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。
 
+## 快速導航
+- 🧠 **Persona 四要素** → 角色定位、溝通風格、決策偏好、經驗背景
+- 🛠 **Skill 與 Persona 的關係** → Persona 決定為什麼，Skill 決定怎麼做
+- 🏢 **三個層次** → 工具 → 助理 → 同事，層次越高自主性越高
+- 👥 **144 個 AI 員工人格** → Agency Agents 開源專案提供的預設人格庫
+
+## 是什麼
+
+Agent Persona 是 AI Agent 的角色設計方法論。核心概念很簡單：**只告訴 AI 做什麼是「工具」，告訴 AI 是誰才是「同事」**。Persona 定義 AI 的身分、風格、價值觀，Skill 定義 AI 的流程和品質標準。兩者搭配，讓 AI 在特定領域像真正的專業同事一樣工作，而不是泛泛的通才助理。
+
+這不是純理論——OpenClaw 用 SOUL.md 實作 Persona，Hermes Agent 用 Honcho 做跨 session 使用者建模，Agency Agents 提供 144 個預設人格，Project Golem 用多個 Persona 做圓桌討論。
+
+## 核心特色
+
+- **Persona 四要素**：角色定位（做什麼）、溝通風格（怎麼說話）、決策偏好（怎麼取捨）、經驗背景（「經歷」過什麼）
+- **三層次進化**：工具（你下指令，AI 執行）→ 助理（AI 有基本角色）→ 同事（AI 有明確 Persona + 多個 Skill）
+- **Skill 與 Persona 互補**：只有 Persona 沒有 Skill = 有方向沒方法；只有 Skill 沒有 Persona = 有方法沒立場
+- **開源人格庫降低門檻**：Agency Agents 8.4 萬星的專案提供 144 個預設人格，不需要從頭設計
+
 ## 核心內容
 
 ### 三個層次：工具 → 助理 → 同事
@@ -56,7 +75,7 @@
 
 ### 各框架的實作方式
 
-**OpenClaw** — 我們正在用的框架，用檔案系統實作 Persona + Skill：
+**OpenClaw** — 用檔案系統實作 Persona + Skill：
 
 | 檔案 | 對應概念 | 內容 |
 |------|----------|------|
@@ -73,6 +92,34 @@
 **Project Golem** — InteractiveMultiAgent 多代理圓桌討論：多個人格角色同時參與討論，產出共識摘要。這是「AI 團隊協作」的具體實作。👉 詳見 [[project-golem]]
 
 **AutoResearch** — program.md 定義研究策略：人類寫 Markdown 指令，Agent 在策略內自主實驗。這是「Persona 給方向，Skill 給方法」的最簡範例。👉 詳見 [[autoresearch]]
+
+## 怎麼用
+
+### 設計 Persona
+1. **定義角色定位**：你的 AI 在團隊中扮演什麼角色？不要說「萬能助理」
+2. **設定溝通風格**：直接用代碼回答？還是要詳細解釋？
+3. **明確決策偏好**：面對取捨時，AI 偏好簡單還是完美？
+4. **描述經驗背景**：讓 AI 有「踩過坑」的感覺，回答更有深度
+
+### 選擇框架
+- **OpenClaw**：最靈活，用檔案系統完全自定義
+- **Hermes Agent**：注重使用者建模，跨 session 理解使用者
+- **Agency Agents**：最快上手，144 個預設人格直接用
+
+### 避免的陷阱
+- Persona 太泛 = 沒有 Persona（「你是一個有用的助手」等於沒說）
+- 只有 Persona 沒有 Skill = AI 有立場但沒方法
+- Persona 不一致 = Agent 行為不可預測
+
+## 跟其他方案的關係
+
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| [[agent-skills-ecosystem]] | Skill 生態 | Skill 是 Persona 的搭配，定義 AI 怎麼做 |
+| [[AI-Agent]] | Agent 概念總覽 | Persona 是 Agent 的靈魂 |
+| [[agent-anatomy-openclaw]] | Agent 解剖 | SOUL.md 是 Persona 在 OpenClaw 中的實作 |
+| [[claude-code-boris-cherny-advanced-techniques]] | Claude Code 技巧 | CLAUDE.md 是 Claude Code 版的 Persona |
+| [[llm-knowledge-base]] | 知識庫方法 | Persona 影響知識庫整理的風格和深度 |
 
 ## 關鍵洞見
 

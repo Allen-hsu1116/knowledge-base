@@ -24,9 +24,17 @@ Spec Kit 是 GitHub 官方推出的開源工具組，實踐「Spec-Driven Develo
 
 - **Spec-Driven Development 工作流程**：五個核心階段：constitution → specify → plan → tasks → implement，每個階段都有對應的 slash command
 - **Specify CLI**：獨立命令列工具，負責專案初始化、版本管理、工具檢查
-- **Community Extensions 生態系**：數十個社群貢獻的擴展，涵蓋 CI/CD、專案管理同步、架構治理等
+- **Community Extensions 生態系**：數十個社群貢獻的擴展，涵蓋 CI/CD、專案管理同步（Jira/Azure DevOps）、架構治理等
 - **多平台 AI Coding Agent 支援**：Claude Code、Codex CLI、GitHub Copilot、Cursor 等
 - **Constitution-First 開發**：先建立專案原則，貫穿後續所有開發決策
+
+### 五個核心 Slash Commands
+
+- `/speckit.constitution` — 建立專案原則和開發規範
+- `/speckit.specify` — 用自然語言描述需求
+- `/speckit.plan` — 生成技術實作計畫
+- `/speckit.tasks` — 拆解為可執行任務清單
+- `/speckit.implement` — 按計畫逐步實作
 
 ## 怎麼用
 
@@ -36,6 +44,12 @@ uv tool install specify-cli --from git+https://github.com/github/spec-kit.git@vX
 
 # 在現有專案初始化
 specify init . --integration copilot
+
+# 完整 SDD 流程
+/specify    # 描述需求
+/plan       # 生成計畫
+/tasks      # 拆解任務
+/implement  # 逐步實作
 ```
 
 ## 跟其他方案的關係
@@ -45,6 +59,7 @@ specify init . --integration copilot
 | [[obra-superpowers]] | 開發方法論框架 | superpowers 偏方法論（先思考再動手），spec-kit 偏規格文件 |
 | [[garrytan-gstack]] | 角色分工框架 | gstack 偬流程角色，spec-kit 偬規格驅動 |
 | [[context-engineering-basics]] | Context 工程 | spec-kit 的核心就是 context engineering |
+| vibe coding | 開發方式 | spec-kit 是 vibe coding 的反面——先規格再動手 |
 
 ## 相關概念
 

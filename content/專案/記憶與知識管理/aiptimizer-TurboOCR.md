@@ -21,11 +21,13 @@ TurboOCR 是由 aiptimizer 開發的開源 GPU 加速 OCR 伺服器。它使用 
 
 ## 核心特色
 
-- **GPU 加速推論**：基於 NVIDIA TensorRT FP16，實現 270 img/s 的高吞吐量
-- **REST API 伺服器**：開箱即用的 HTTP 服務，方便整合到現有管線
-- **多語言支援**：支援中文、英文、日文等多語言 OCR
-- **高精度辨識**：結合版面分析和文字辨識，保留文件結構
-- **批次處理**：支援批次圖片提交，最大化 GPU 利用率
+- **GPU 加速推論**：基於 NVIDIA TensorRT FP16，實現 270 img/s 的高吞吐量，比 CPU 推論快數十倍
+- **REST API 伺服器**：開箱即用的 HTTP 服務，方便整合到現有管線，支援 JSON 回應格式
+- **多語言支援**：支援中文、英文、日文等多語言 OCR，適合亞洲文件場景
+- **高精度辨識**：結合版面分析和文字辨識，保留文件結構（表格、列表、標題層級）
+- **批次處理**：支援批次圖片提交，最大化 GPU 利用率，適合大量文件批次場景
+- **TensorRT FP16 推論**：半精度推論大幅提升吞吐量同時保持高辨識精度
+- **Docker 部署**：提供 Docker 映像檔，一行指令啟動服務
 
 ## 怎麼用
 
@@ -39,9 +41,15 @@ cd TurboOCR
 pip install -r requirements.txt
 python server.py --port 8000
 
-# API 呼叫
+# API 呼叫 — 單張圖片
 curl -X POST http://localhost:8000/ocr \
   -F "file=@document.png"
+
+# API 呼叫 — 批次處理
+curl -X POST http://localhost:8000/ocr/batch \
+  -F "files=@page1.png" \
+  -F "files=@page2.png" \
+  -F "files=@page3.png"
 ```
 
 ## 跟其他方案的關係
@@ -52,6 +60,8 @@ curl -X POST http://localhost:8000/ocr \
 | [[pymupdf4llm]] | PDF 轉文字 | PyMuPDF4LLM 側重 PDF 文字提取，TurboOCR 側重圖片 OCR |
 | [[run-llama-ParseBench]] | 文件解析評測 | ParseBench 可以評測 TurboOCR 的解析品質 |
 | [[microsoft-markitdown]] | 文件轉 Markdown | MarkItDown 側重格式轉換，TurboOCR 側重 OCR 辨識 |
+| [[docling]] | 文件解析 | Docling 提供完整解析管線，TurboOCR 可作為其中的 OCR 引擎 |
+| Tesseract | 傳統 OCR | Tesseract 是 CPU 推論，TurboOCR 利用 GPU 達到更高吞吐 |
 
 ## 相關概念
 

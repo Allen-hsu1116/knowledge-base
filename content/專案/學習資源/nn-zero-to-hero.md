@@ -42,13 +42,19 @@ jupyter notebook
 
 對應 YouTube 播放清單：[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCP2S7O69)
 
+建議學習順序：
+1. 先看 [[andrej-karpathy-ai-how]] 建立 AI 全貌理解
+2. 按課程順序逐一完成 notebook 和練習題
+3. 完成後用 [[rasbt-LLMs-from-scratch|LLMs from Scratch]] 系統性深究
+
 ## 跟其他方案的關係
 
 | 資源 | 風格 | 深度 | 語言 |
 |------|------|------|------|
 | **nn-zero-to-hero** | 影片+notebook，手作 | 從 backprop 到 GPT | Python |
-| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
+| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
 | [[andrej-karpathy-ai-how]] | 影片 | AI 入門概覽 | 多語言 |
+| [[minimind]] | 程式碼為主 | 極簡 LLM 實作 | Python |
 
 三個資源可以互補：先看 ai-how 建立 AI 全貌理解，再用 nn-zero-to-hero 深入神經網路實作，最後用 LLMs-from-scratch 系統性學習完整的 LLM 建構流程。
 

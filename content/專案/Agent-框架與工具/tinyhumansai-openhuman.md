@@ -93,6 +93,10 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 - **Voice**: STT + ElevenLabs TTS
 - **Local AI**: Ollama
 
+## 來源
+
+- [原始資料](../raw/2026-05-16-tinyhumansai-openhuman.md)
+
 ---
 
 GitHub: [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) · Stars: ⭐9.1k · License: 自訂開源 · 收錄日期: 2026-05-16

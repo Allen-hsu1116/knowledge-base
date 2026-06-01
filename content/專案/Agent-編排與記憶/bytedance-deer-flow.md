@@ -80,6 +80,7 @@ DeerFlow 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的差異在�
 
 ## 來源
 
+- [原始資料](../raw/2026-05-09-bytedance-deer-flow.md)
 - GitHub: https://github.com/bytedance/deer-flow
 
 ---

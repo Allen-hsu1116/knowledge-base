@@ -22,10 +22,14 @@ Scientific Agent Skills（原名 Claude Scientific Skills）是由 K-Dense 團�
 ## 核心特色
 
 - **135 個科學研究技能**：涵蓋 16 大領域，每個 skill 都包含完整的 SKILL.md 文件、實用程式碼範例、使用案例和最佳實踐
-- **100+ 科學與金融資料庫整合**：透過統一的 database-lookup skill 存取 78+ 公開資料庫，加上專用資料庫 skill
+- **100+ 科學與金融資料庫整合**：透過統一的 database-lookup skill 存取 78+ 公開資料庫（PubChem、ChEMBL、UniProt、COSMIC、ClinicalTrials.gov 等），加上專用資料庫 skill
 - **70+ 優化的 Python 套件技能**：為 RDKit、Scanpy、PyTorch Lightning、scikit-learn、PennyLane、Qiskit 等主流科學套件提供精心策劃的文件和範例
 - **多平台 Agent 支援**：遵循開放的 Agent Skills 標準，支援 Cursor、Claude Code、Codex、Gemini CLI 等
 - **K-Dense BYOK 桌面應用**：免費開源桌面應用，支援 40+ 模型、100+ 科學資料庫、135 個技能，資料留在本地
+
+### 16 大領域
+
+生物資訊學、化學資訊學、藥物發現、蛋白質體學、臨床研究、健康 AI、醫學影像、ML/AI、材料科學、物理學、工程學、資料分析、地理空間科學、實驗室自動化、科學傳播、多組學
 
 ## 怎麼用
 
@@ -40,6 +44,8 @@ gh skill install K-Dense-AI/scientific-agent-skills
 gh skill install K-Dense-AI/scientific-agent-skills scanpy
 ```
 
+在 Cursor、Claude Code 等 AI IDE 中安裝後，直接對話使用科學研究功能即可。
+
 ## 跟其他方案的關係
 
 | 專案 | 定位 | 關係 |
@@ -47,6 +53,8 @@ gh skill install K-Dense-AI/scientific-agent-skills scanpy
 | [[AI-Skills]] | 開放 Agent Skills 標準 | Scientific Agent Skills 基於此標準 |
 | [[agent-skills-ecosystem]] | Agent Skills 生態系 | 屬於生態系的重要一員 |
 | [[Coding-Agent-CLI]] | Coding Agent 平台 | 支援多種 coding agent 平台安裝 |
+| [[garrytan-gstack]] | 軟體工程 Skills | gstack 側重軟體工程，Scientific Skills 側重科學研究 |
+| [[addyosmani-agent-skills]] | 通用 Agent Skills | addyosmani 側重開發，K-Dense 側重科學 |
 
 ## 相關概念
 

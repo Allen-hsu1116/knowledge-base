@@ -64,6 +64,8 @@ npx twenty app:publish
 | HubSpot | — | CRM | ❌ | ✅ | ❌ | ❌ |
 | [[frappe-erpnext|ERPNext]] | ⭐20k+ | ERP/CRM | ✅ | ❌ | ❌ Python | ✅ |
 
+## 相關概念
+
 ← CRM · [[open-source-business|開源商業模式]] · [[AI-integration|AI 整合]] · [[self-hosted|自架服務]]
 
 ## 來源

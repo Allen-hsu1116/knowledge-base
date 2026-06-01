@@ -13,6 +13,21 @@ date: 2026-04-28
 - 🔧 **Context Engineering** → [[context-engineering-basics]]（管理 LLM 看到的內容）
 - 🛠 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Skills 和知識庫是 Agent 兩大支柱）
 
+## 是什麼
+
+Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法。核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。三個資料夾 + 一份 CLAUDE.md 設定檔，就能建構一個讓 LLM 自動整理和查詢的知識庫。
+
+## 核心特色
+
+### 極簡架構
+只需三個資料夾（raw、wiki、skills）和一份 CLAUDE.md，零配置即可開始。
+
+### AI 自動整理
+丟入原始素材，AI 自動編譯成結構化的 wiki 頁面。
+
+### 雙向連結
+概念之間透過 `[[]]` 語法自動串連，形成知識網路。
+
 ## 核心內容
 
 Andrej Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法，核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。2026 年 4 月，Nick Spisak 拆解了 Karpathy 的方法，簡化為三個資料夾 + 一份 CLAUDE.md 設定檔的架構。
@@ -120,6 +135,28 @@ my-knowledge-base/
 - **純資料夾版本**：最簡單，不需要額外工具
 - **Obsidian 版本**：多全文搜尋、筆記互連、圖譜視覺化功能
 - 核心邏輯一樣，差別只在最上層有沒有筆記 App 當介面
+
+## 怎麼用
+
+### 使用此知識庫
+1. Clone 或下載 repo
+2. 閱讀 `wiki/` 目錄下的概念頁面
+3. 參考 `raw/` 目錄下的原始素材
+4. 按需修改和擴充
+
+### 主要入口
+- `wiki/index.md`：知識庫首頁
+- `wiki/projects.md`：專案索引
+- `CLAUDE.md`：Agent 行為設定
+
+## 跟其他方案的關係
+
+| 方案 | 格式 | 自動整理 | 雙向連結 | AI 原生 |
+|------|------|----------|----------|---------|
+| **Karpathy 方法** | 三層資料夾 | ✅ | ✅ WikiLink | ✅ |
+| Notion/Obsidian | 單層筆記 | ❌ 手動 | ✅ | ❌ |
+| 傳統 Wiki | 單層頁面 | ❌ 手動 | ✅ | ❌ |
+| RAG Pipeline | 向量資料庫 | ⚠️ 半自動 | ❌ | ✅ |
 
 ## 相關主題
 

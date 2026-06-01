@@ -21,6 +21,17 @@ created: 2026-05-06
 **來源**: 科技翰林院
 **原文**: https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/
 
+## 核心特色
+
+- **平行執行多個 Session**：同時跑 3-5 個 Git Worktree，每個開一個獨立 Claude Code session，生產力最大化
+- **自我驗證迴圈**：讓 Claude Code 自己檢查自己（瀏覽器、測試套件、Docker logs），品質翻 2-3 倍
+- **Plan Mode 三階段**：Plan → 自我批評 → Auto-accept 執行，鎖定計畫才放手跑
+- **CLAUDE.md 飛輪效應**：每次犯錯就加一條規則，2,500 tokens 的精煉知識庫
+- **Context 管理**：400k 自動壓縮閾值，/rewind、/compact、/clear 三把斧
+- **自動化工具**：/loop、/schedule 和 Hooks 讓 Claude 持續運作
+- **委派模式**：不是 Pair Programming，而是給目標、限制、驗收標準、背景知識
+- **Custom Skills**：一天做超過一次的事就值得做成 Skill
+
 ## 1. 平行執行多個 Session（最大生產力提升）
 
 同時跑 3-5 個 Git Worktree，每個開一個獨立 Claude Code session：
@@ -91,17 +102,47 @@ Boris 的 prompt 技巧：
 
 判斷標準：一天做超過一次，就值得做成 Skill 或 Slash Command。
 
+## 怎麼用
+
+### 立即見效的技巧
+1. **開多個 Session**：用 Git Worktree 隔離，同時處理多個任務
+2. **設定自動驗證**：讓 Claude Code 用瀏覽器或測試套件自己檢查自己
+3. **建立 CLAUDE.md**：從犯錯紀錄開始，每次犯錯加一條
+
+### 中期優化
+4. **設定 400k 自動壓縮**：避免長對話崩潰
+5. **建立 Custom Skills**：把重複操作封裝成 Skill
+6. **設定 Hooks**：讓 Claude Code 在特定事件自動執行
+
+### 進階玩法
+7. **用 /batch 處理遷移任務**：一次改幾十個檔案
+8. **用 /schedule 做雲端排程**：關機也繼續跑
+
+## 跟其他方案的關係
+
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| [[agent-anatomy-openclaw]] | Agent 架構 | SOUL.md ≈ CLAUDE.md，都是 Persona/Context 的載體 |
+| [[AI-Skills]] | Skill 生態 | Custom Skills 是 SKILL.md 格式的一種實作 |
+| [[openclaw]] | OpenClaw 框架 | SOUL.md + SKILL.md 對應 CLAUDE.md + Custom Skills |
+| [[context-engineering-basics]] | Context Engineering | /compact、/rewind 都是 CE 技巧 |
+| [[llm-knowledge-base]] | 知識庫方法 | CLAUDE.md 是精煉後的知識庫，飛輪效應與知識庫 lint 一致 |
+
 ## 核心哲學
 
 **不要把 Claude Code 當聊天機器人，把它當成一支你在調度的工程師團隊。**
 
 如果只能帶走一件事：**先設好自動驗證**。
 
-## 相關主題
+## 相關概念
 
 - [[agent-skills-ecosystem|Agent Skills 生態系]]
 - [[openclaw|OpenClaw]]
+- [[AI-Skills]] — Skill 標準格式
+- [[context-engineering-basics]] — Context Engineering 核心技術
+- [[llm-knowledge-base]] — 知識庫方法論
 
-## 參考資料
+## 來源
 
 - [科技翰林院原文](https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/)
+- [原始資料](../raw/2026-05-06-claude-code-boris-cherny-advanced-techniques.md)

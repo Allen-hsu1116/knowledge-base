@@ -65,6 +65,7 @@ npm run dev   # 開啟 http://localhost:3000
 
 ## 來源
 
+- [2026-05-13 素材](../raw/2026-05-13-pdfcraft.md)
 - raw/2026-05-xx-pdfcraft.md
 
 ## 專案資訊
