@@ -61,7 +61,9 @@ title: 知識庫總覽
 | [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。透過認知框架、工具邊界、工作流程三維度駕馭 Agent。 |
 | [[compound-engineering\|複利工程]] | 每次工程工作讓下一次更容易，非累積債務。80% 規劃審查 + 20% 執行的 Agent 工作流。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
-| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | 從下載資料到生成文字，一步步用 PyTorch 從零訓練 LLM，完整可執行教學流程。 |
+|| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | 從下載資料到生成文字，一步步用 PyTorch 從零訓練 LLM，完整可執行教學流程。 |
+|| [[pbakaus-impeccable\|Impeccable]] | AI coding agent 的設計語言：7 領域參考 + 23 指令 + 反模式檢查，解決 AI 設計同質化。 |
+|| [[dmtrKovalenko-fff\|FFF]] | 專為人與 AI Agent 打造的 Rust 檔案搜尋工具：frecency 排序、模糊容錯、MCP server。 |
 
 ### 📚 應用與研究
 
@@ -72,7 +74,9 @@ title: 知識庫總覽
 || [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
-| [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
+|| [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
+|| [[TauricResearch-TradingAgents\|TradingAgents]] | 多 Agent LLM 金融交易框架，模擬真實交易公司多角色協作決策。 |
+|| [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | 150+ Notebook 的 ML 交易完整教學，從資料到回測的 ML4T 工作流程。 |
 | [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。 |
 | [[pentesting\|滲透測試]] | 模擬真實攻擊者手法，對系統進行授權的安全測試，找出可被利用的漏洞。 |
 | [[arthurpanhku-DocSentinel\|SSDLC 安全評估]] | AI 驅動的安全軟體開發生命週期平台，LangGraph 編排六個安全 Agent 自動化評估。 |

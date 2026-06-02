@@ -12,6 +12,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[dmtrKovalenko-fff\|FFF]] | ⭐7,176 | MCP, 檔案搜尋, AI Agent 工具, Neovim | 2026-06-02 |
 | [[nesquena-hermes-webui\|Hermes WebUI]] | ⭐9,981 | Coding Agent CLI, AI Agent, Web UI | 2026-06-01 |
 | [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent CLI, AI Agent, Git 工作流 | 2026-05-30 |
 | [[EveryInc-compound-engineering-plugin\|Compound Engineering Plugin]] | ⭐17.8k | AI Skills, 複利工程, Coding Agent CLI | 2026-05-29 |
@@ -149,6 +150,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | ⭐17,870 | ML, 金融交易, 教學, Jupyter Notebook | 2026-06-02 |
 | [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | ⭐2,258 | LLM, 從零訓練, 教學, Transformer | 2026-05-31 |
 | [[byoungd-English-level-up-tips\|English Level Up Tips]] | ⭐46,667 | AI Tutoring, 學習指南, 英語 | 2026-05-28 |
 | [[codecrafters-io-build-your-own-x\|Build Your Own X]] | ⭐504,263 | LLM, AI Tutoring, 從零手做 | 2026-05-26 |
@@ -167,6 +169,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐81,772 | AI Agent, 多Agent交易, LLM, 金融預測 | 2026-06-02 |
 | [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30,250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
 | [[ZhuLinsen-alphaevo\|AlphaEvo]] | ⭐38,100 | 策略回測, 金融預測, 自演化 | 2026-05-28 |
 | [[ZhuLinsen-alphasift\|AlphaSift]] | ⭐38,100 | 多因子選股, 股市掃描, 金融分析 | 2026-05-28 |
@@ -202,6 +205,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |
 | [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐19,717 | AI Skills, Prompt Engineering, 前端設計 | 2026-05-26 |
