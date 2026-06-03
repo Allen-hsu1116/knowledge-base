@@ -372,6 +372,45 @@ print(f"   分類資料夾：{folder_count} 個")
 print(f"   移動了 {moved} 個檔案到分類資料夾")
 PYTHON_SCRIPT
 
+# ============================================================
+# Step 3: YAML frontmatter 驗證（防止空的 --- 區塊導致 build 失敗）
+# ============================================================
+echo ""
+echo "🔍 驗證 YAML frontmatter..."
+
+BROKEN_FILES=""
+CHECKED=0
+
+for md in $(find "$CONTENT_DIR" -name '*.md' -type f); do
+    CHECKED=$((CHECKED + 1))
+    FIRST_LINE=$(head -1 "$md")
+    if [ "$FIRST_LINE" = "---" ]; then
+        # 找第二個 --- 的行號
+        CLOSE_LINE=$(awk '/^---$/ {if (NR>1) {print NR; exit}}' "$md")
+        if [ -z "$CLOSE_LINE" ]; then
+            # 沒有閉合的 ---
+            BROKEN_FILES="$BROKEN_FILES\n  ❌ $md (frontmatter 沒有閉合的 ---)"
+        elif [ "$CLOSE_LINE" = "2" ]; then
+            # 空的 frontmatter（第一行 ---，第二行也是 ---，沒有 key-value）
+            BROKEN_FILES="$BROKEN_FILES\n  ❌ $md (空的 frontmatter，會導致 Quartz build 失敗！)"
+        fi
+    fi
+done
+
+echo "   已檢查 $CHECKED 個 .md 檔案"
+
+if [ -n "$BROKEN_FILES" ]; then
+    echo ""
+    echo "⚠️⚠️⚠️ 發現 frontmatter 問題："
+    echo -e "$BROKEN_FILES"
+    echo ""
+    echo "🚫 請修復以上檔案再執行 npx quartz build / git push"
+    echo "   修復方式：補上完整 frontmatter，或移除空的 --- 區塊"
+    exit 1
+else
+    echo "✅ 所有 frontmatter 正常"
+fi
+
 echo ""
 echo "接下來可以："
 echo "  1. cd $SCRIPT_DIR && npx quartz build --serve  # 本地預覽"
