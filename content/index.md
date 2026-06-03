@@ -21,6 +21,10 @@ title: 知識庫總覽
 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
 | [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
 | [[Token-Optimization\|Token Optimization]] | 降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
+|| [[chopratejas-headroom\|Headroom]] | AI Agent 上下文壓縮層，60-95% token 節省，Library/Proxy/MCP 三模式，可逆壓縮。 |
+|| [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | 7 週漸進式 RAG 課程：從基礎設施到 Agentic RAG，用 arXiv 論文策展人為載體。 |
+|| [[reconurge-flowsint\|Flowsint]] | 開源 OSINT 圖譜調查平台，視覺化探索實體關聯，11 大類自動 enricher。 |
+|| [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | 開源語音互動 AI 陪伴系統，Live2D 形象、免持語音、完全離線。 |
 | [[affaan-m-ECC\|ECC]] | Agent harness 效能優化系統 — 跨 Claude Code/Codex/Cursor 等 7+ 工具的 skills、記憶、安全、持續學習。 |
 | [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token、記憶、安全、驗證迴圈。 |
 

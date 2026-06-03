@@ -909,3 +909,32 @@ title: 整理記錄
   - raw: `raw/2026-05-28-microsoft-SkillOpt.md`
   - wiki: `wiki/microsoft-SkillOpt.md`
   - backlinks: AI-Skills.md, projects.md (Skill 生態系區)
+
+
+## 2026-06-03
+
+- **ingest** `Open-LLM-VTuber/Open-LLM-VTuber` — 開源語音互動 AI 陪伴系統（⭐8.4k），Live2D 虛擬形象、免持語音、完全離線跨平台
+  - raw: `raw/2026-06-03-Open-LLM-VTuber-Open-LLM-VTuber.md`
+  - wiki: `wiki/Open-LLM-VTuber-Open-LLM-VTuber.md`
+  - projects.md: 多媒體與爬蟲區
+  - index.md: 核心概念區
+
+- **ingest** `chopratejas/headroom` — AI Agent 上下文壓縮層（⭐6.4k），60-95% token 節省、可逆壓縮、Library/Proxy/MCP 三模式
+  - raw: `raw/2026-06-03-chopratejas-headroom.md`
+  - wiki: `wiki/chopratejas-headroom.md`
+  - projects.md: Agent 框架與工具區
+  - index.md: 核心概念區
+
+- **ingest** `jamwithai/production-agentic-rag-course` — 7 週漸進式 RAG 課程（⭐6.4k），從基礎設施到 Agentic RAG，arXiv 論文策展人
+  - raw: `raw/2026-06-03-jamwithai-production-agentic-rag-course.md`
+  - wiki: `wiki/jamwithai-production-agentic-rag-course.md`
+  - projects.md: 學習資源區
+  - index.md: 核心概念區
+
+- **ingest** `reconurge/flowsint` — 開源 OSINT 圖譜調查平台（⭐4.5k），視覺化探索實體關聯、11 大類自動 enricher
+  - raw: `raw/2026-06-03-reconurge-flowsint.md`
+  - wiki: `wiki/reconurge-flowsint.md`
+  - projects.md: 基礎設施區
+  - index.md: 核心概念區
+
+known-repos.json: +4 repos, +4 concepts (VTuber, OSINT-graph-investigation, context-compression, agentic-RAG-course)

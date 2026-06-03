@@ -12,6 +12,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[chopratejas-headroom\|Headroom]] | ⭐6,416 | Token Optimization, Context 壓縮, MCP, AI Agent | 2026-06-03 |
 | [[dmtrKovalenko-fff\|FFF]] | ⭐7,176 | MCP, 檔案搜尋, AI Agent 工具, Neovim | 2026-06-02 |
 | [[nesquena-hermes-webui\|Hermes WebUI]] | ⭐9,981 | Coding Agent CLI, AI Agent, Web UI | 2026-06-01 |
 | [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent CLI, AI Agent, Git 工作流 | 2026-05-30 |
@@ -118,6 +119,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8.4k | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22,759 | TTS, 語音合成, 語音克隆, 多語言, 擴散模型 | 2026-05-31 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
@@ -150,6 +152,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | ⭐6,376 | RAG, Agentic RAG, OpenSearch, FastAPI, 課程 | 2026-06-03 |
 | [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | ⭐17,870 | ML, 金融交易, 教學, Jupyter Notebook | 2026-06-02 |
 | [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | ⭐2,258 | LLM, 從零訓練, 教學, Transformer | 2026-05-31 |
 | [[byoungd-English-level-up-tips\|English Level Up Tips]] | ⭐46,667 | AI Tutoring, 學習指南, 英語 | 2026-05-28 |
@@ -225,6 +228,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |
 | [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |
 | [[iii-hq-iii\|iii]] | ⭐16,876 | 工作流自動化, 後端平台, Agent 友善 | 2026-05-28 |
