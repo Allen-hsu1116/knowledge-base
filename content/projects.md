@@ -70,6 +70,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | ⭐23,272 | 文件解析, PDF, OCR, RAG, Bounding Box, 無障礙 | 2026-06-04 |
 | [[supermemoryai-supermemory\|Supermemory]] | ⭐23,342 | AI 記憶引擎, 使用者畫像, RAG, MCP | 2026-06-01 |
 | [[run-llama-liteparse\|LiteParse]] | ⭐7.3k | 文件解析, PDF, OCR, Rust | 2026-05-30 |
 | [[paperless-ngx-paperless-ngx\|Paperless-ngx]] | ⭐41,336 | 文件管理, OCR, 自架平台 | 2026-05-26 |
@@ -97,6 +98,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[lyogavin-airllm\|AirLLM]] | ⭐18,902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
 | [[p-e-w-heretic\|Heretic]] | ⭐22,010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
 | [[ds4\|DS4]] | ⭐8,303 | LLM, 推論加速, 本地部署, DeepSeek | 2026-05-13 |
 | [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |

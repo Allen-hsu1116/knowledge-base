@@ -75,7 +75,8 @@ title: 知識庫總覽
 |------|------|
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
-|| [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
+| [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
+| [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | 開源 #1 PDF 解析器，hybrid 模式 0.907 準確率，bounding box 全覆蓋，首個 Tagged PDF 自動化。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
 || [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
@@ -119,6 +120,7 @@ title: 知識庫總覽
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖與 AI 聊天於一體。 |
 | [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
 | [[模型推論與部署]] | LLM 從訓練到服務：推論加速、部署架構、成本控制。 |
+| [[lyogavin-airllm\|AirLLM]] | 分層推理讓 4GB GPU 跑 70B 模型，無損品質，可選量化 3x 加速。 |
 | [[visualization\|資料視覺化]] | 將數據轉為圖形表示，幫助理解趨勢、模式和異常。 |
 
 ## 🎬 教學影片
