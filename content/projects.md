@@ -70,6 +70,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | ⭐80k | OCR, 文件解析, LLM-Ready, RAG | 2026-06-05 |
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | ⭐23,272 | 文件解析, PDF, OCR, RAG, Bounding Box, 無障礙 | 2026-06-04 |
 | [[supermemoryai-supermemory\|Supermemory]] | ⭐23,342 | AI 記憶引擎, 使用者畫像, RAG, MCP | 2026-06-01 |
 | [[run-llama-liteparse\|LiteParse]] | ⭐7.3k | 文件解析, PDF, OCR, Rust | 2026-05-30 |
@@ -154,6 +155,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[lfnovo-open-notebook\|Open Notebook]] | ⭐25k | NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast | 2026-06-05 |
 | [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | ⭐6,376 | RAG, Agentic RAG, OpenSearch, FastAPI, 課程 | 2026-06-03 |
 | [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | ⭐17,870 | ML, 金融交易, 教學, Jupyter Notebook | 2026-06-02 |
 | [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | ⭐2,258 | LLM, 從零訓練, 教學, Transformer | 2026-05-31 |
@@ -210,6 +212,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mvanhorn-last30days-skill\|last30days]] | ⭐28k | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |

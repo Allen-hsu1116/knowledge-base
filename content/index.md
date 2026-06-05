@@ -38,6 +38,7 @@ title: 知識庫總覽
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
+| [[mvanhorn-last30days-skill\|last30days]] | AI Agent 社群搜尋引擎：14 個平台平行搜尋，用 upvote/like/真金評分，智能預研究 + 聚簇合併。 |
 | [[revfactory-harness\|Agent 團隊架構]] | 用領域描述自動產生 agent 團隊和 skill，六種架構模式涵蓋管線到階層委派。 |
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
 
@@ -75,6 +76,7 @@ title: 知識庫總覽
 |------|------|
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
+| [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | 百度開源 OCR + 文件 AI 引擎，PaddleOCR-VL 0.9B 達 96.3% SOTA，PP-StructureV3 版面解析，100+ 語言。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | 開源 #1 PDF 解析器，hybrid 模式 0.907 準確率，bounding box 全覆蓋，首個 Tagged PDF 自動化。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |
@@ -114,10 +116,11 @@ title: 知識庫總覽
 
 ### 🏗 基礎設施概念
 
-| 概念 | 說明 |
-|------|------|
+|| 概念 | 說明 |
+||------|------|
 || [[self-hosted-AI-platform\|自架 AI 平台]] | 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。 |
-| [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖與 AI 聊天於一體。 |
+|| [[lfnovo-open-notebook\|Open Notebook]] | NotebookLM 開源替代：隱私自架、18+ AI 供應商、1-4 人 Podcast、Docker 一鍵部署。 |
+|| [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]]
 | [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
 | [[模型推論與部署]] | LLM 從訓練到服務：推論加速、部署架構、成本控制。 |
 | [[lyogavin-airllm\|AirLLM]] | 分層推理讓 4GB GPU 跑 70B 模型，無損品質，可選量化 3x 加速。 |
