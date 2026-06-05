@@ -205,16 +205,16 @@ title: 整理記錄
 
 ## 2026-05-22
 
-|| 動作 | 標題 | 摘要 |
+| 動作 | 標題 | 摘要 |
 ||------|------|------|
-|| ingest | rohitg00/agentmemory | AI coding agent 持久化記憶系統，95.2% R@5，53 MCP tools，⭐15,140 |
-|| ingest | rohitg00/ai-engineering-from-scratch | 435 課 20 階段 AI 工程課程，四語言，每課產出 artifact，⭐9,567 |
-|| ingest | opentoonz/opentoonz | 吉卜力工作室客製化開源 2D 動畫軟體，⭐6,347 |
-|| ingest | HKUDS/ViMax | Agentic 影片生成框架，Director/Screenwriter/Producer 四合一，⭐6,064 |
-|| ingest | rmyndharis/OpenWA | 開源 WhatsApp API Gateway，pluggable 架構，⭐4,864 |
-|| compile | projects.md | +5 repos |
-|| compile | known-repos.json | +5 repos, +3 concepts |
-|| update | ZhuLinsen/daily_stock_analysis | 更新知識庫頁面：stars 33.7k→38.1k，新增 15 種策略（原 11 種）、Agent 問股（Web/Bot/API）、Web/桌面工作台、社交輿情、智能導入補全、AlphaSift/AlphaEvo 相關專案 |
+| ingest | rohitg00/agentmemory | AI coding agent 持久化記憶系統，95.2% R@5，53 MCP tools，⭐15,140 |
+| ingest | rohitg00/ai-engineering-from-scratch | 435 課 20 階段 AI 工程課程，四語言，每課產出 artifact，⭐9,567 |
+| ingest | opentoonz/opentoonz | 吉卜力工作室客製化開源 2D 動畫軟體，⭐6,347 |
+| ingest | HKUDS/ViMax | Agentic 影片生成框架，Director/Screenwriter/Producer 四合一，⭐6,064 |
+| ingest | rmyndharis/OpenWA | 開源 WhatsApp API Gateway，pluggable 架構，⭐4,864 |
+| compile | projects.md | +5 repos |
+| compile | known-repos.json | +5 repos, +3 concepts |
+| update | ZhuLinsen/daily_stock_analysis | 更新知識庫頁面：stars 33.7k→38.1k，新增 15 種策略（原 11 種）、Agent 問股（Web/Bot/API）、Web/桌面工作台、社交輿情、智能導入補全、AlphaSift/AlphaEvo 相關專案 |
 
 ## 2026-05-20
 

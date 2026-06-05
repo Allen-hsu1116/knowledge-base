@@ -21,10 +21,10 @@ title: 知識庫總覽
 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
 | [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
 | [[Token-Optimization\|Token Optimization]] | 降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
-|| [[chopratejas-headroom\|Headroom]] | AI Agent 上下文壓縮層，60-95% token 節省，Library/Proxy/MCP 三模式，可逆壓縮。 |
-|| [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | 7 週漸進式 RAG 課程：從基礎設施到 Agentic RAG，用 arXiv 論文策展人為載體。 |
-|| [[reconurge-flowsint\|Flowsint]] | 開源 OSINT 圖譜調查平台，視覺化探索實體關聯，11 大類自動 enricher。 |
-|| [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | 開源語音互動 AI 陪伴系統，Live2D 形象、免持語音、完全離線。 |
+| [[chopratejas-headroom\|Headroom]] | AI Agent 上下文壓縮層，60-95% token 節省，Library/Proxy/MCP 三模式，可逆壓縮。 |
+| [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | 7 週漸進式 RAG 課程：從基礎設施到 Agentic RAG，用 arXiv 論文策展人為載體。 |
+| [[reconurge-flowsint\|Flowsint]] | 開源 OSINT 圖譜調查平台，視覺化探索實體關聯，11 大類自動 enricher。 |
+| [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | 開源語音互動 AI 陪伴系統，Live2D 形象、免持語音、完全離線。 |
 | [[affaan-m-ECC\|ECC]] | Agent harness 效能優化系統 — 跨 Claude Code/Codex/Cursor 等 7+ 工具的 skills、記憶、安全、持續學習。 |
 | [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token、記憶、安全、驗證迴圈。 |
 
@@ -33,7 +33,7 @@ title: 知識庫總覽
 | 概念 | 說明 |
 |------|------|
 | [[AI-Skills\|AI Skills]] | 結構化的操作指令格式（SKILL.md），讓 AI coding agent 能以明確上下文和規範執行任務。 |
-|| [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為主要介面的 AI 程式開發助手，提供完整工作流程。 |
+| [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為主要介面的 AI 程式開發助手，提供完整工作流程。 |
 | [[anthropics-claude-code\|Claude Code]] | Anthropic 官方終端機 AI 編碼助手，用自然語言指令理解程式碼庫、自動執行任務。 |
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
@@ -66,9 +66,9 @@ title: 知識庫總覽
 | [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。透過認知框架、工具邊界、工作流程三維度駕馭 Agent。 |
 | [[compound-engineering\|複利工程]] | 每次工程工作讓下一次更容易，非累積債務。80% 規劃審查 + 20% 執行的 Agent 工作流。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
-|| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | 從下載資料到生成文字，一步步用 PyTorch 從零訓練 LLM，完整可執行教學流程。 |
-|| [[pbakaus-impeccable\|Impeccable]] | AI coding agent 的設計語言：7 領域參考 + 23 指令 + 反模式檢查，解決 AI 設計同質化。 |
-|| [[dmtrKovalenko-fff\|FFF]] | 專為人與 AI Agent 打造的 Rust 檔案搜尋工具：frecency 排序、模糊容錯、MCP server。 |
+| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | 從下載資料到生成文字，一步步用 PyTorch 從零訓練 LLM，完整可執行教學流程。 |
+| [[pbakaus-impeccable\|Impeccable]] | AI coding agent 的設計語言：7 領域參考 + 23 指令 + 反模式檢查，解決 AI 設計同質化。 |
+| [[dmtrKovalenko-fff\|FFF]] | 專為人與 AI Agent 打造的 Rust 檔案搜尋工具：frecency 排序、模糊容錯、MCP server。 |
 
 ### 📚 應用與研究
 
@@ -81,9 +81,9 @@ title: 知識庫總覽
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | 開源 #1 PDF 解析器，hybrid 模式 0.907 準確率，bounding box 全覆蓋，首個 Tagged PDF 自動化。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
-|| [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
-|| [[TauricResearch-TradingAgents\|TradingAgents]] | 多 Agent LLM 金融交易框架，模擬真實交易公司多角色協作決策。 |
-|| [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | 150+ Notebook 的 ML 交易完整教學，從資料到回測的 ML4T 工作流程。 |
+| [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
+| [[TauricResearch-TradingAgents\|TradingAgents]] | 多 Agent LLM 金融交易框架，模擬真實交易公司多角色協作決策。 |
+| [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | 150+ Notebook 的 ML 交易完整教學，從資料到回測的 ML4T 工作流程。 |
 | [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。 |
 | [[pentesting\|滲透測試]] | 模擬真實攻擊者手法，對系統進行授權的安全測試，找出可被利用的漏洞。 |
 | [[arthurpanhku-DocSentinel\|SSDLC 安全評估]] | AI 驅動的安全軟體開發生命週期平台，LangGraph 編排六個安全 Agent 自動化評估。 |
