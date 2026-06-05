@@ -938,3 +938,27 @@ title: 整理記錄
   - index.md: 核心概念區
 
 known-repos.json: +4 repos, +4 concepts (VTuber, OSINT-graph-investigation, context-compression, agentic-RAG-course)
+
+---
+
+### 2026-06-05
+
+- **ingest** `1weiho/open-slide` — Agent-native 簡報框架（⭐4.7k），TypeScript/React，1920×1080 固定畫布，內建 Claude Code 技能，Inspector comment loop
+  - raw: `raw/2026-06-05-1weiho-open-slide.md`
+  - wiki: `wiki/1weiho-open-slide.md`
+  - projects.md: Agent 框架與工具區
+  - backlinks: AI-Agent.md, AI-presentation.md, Coding-Agent-CLI.md
+
+- **ingest** `Google Cloud AI Agent Trends 2026` — 企業 agentic AI 五大趨勢報告（3,466 家企業調查），Agents for Employee/Workflow/Customers/Security/Scale
+  - raw: `raw/2026-06-05-google-cloud-ai-agent-trends-2026.md`
+  - wiki: `wiki/google-cloud-ai-agent-trends-2026.md`
+  - projects.md: 學習資源區
+  - backlinks: AI-Agent.md
+
+- **ingest** `NVIDIA LocateAnything` — 統一視覺定位框架，Parallel Box Decoding 一次解碼 box，138M+ 訓練樣本，speed-accuracy frontier 推進
+  - raw: `raw/2026-06-05-nvidia-locate-anything.md`
+  - wiki: `wiki/nvidia-locate-anything.md`
+  - projects.md: 模型推論與部署區
+  - backlinks: AI-Agent.md
+
+known-repos.json: +1 repo, +9 concepts (Presentation, Agent-Native, Agentic-AI, Agent-Workflow, Enterprise-AI, Vision-Language-Model, Parallel-Box-Decoding, Visual-Grounding, NVIDIA-Research)

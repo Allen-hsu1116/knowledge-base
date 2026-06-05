@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ## 相關概念
 
-← [[pptx-generation]] · [[self-hosted-AI-platform]] · [[AI-Agent]] · [[workflow-automation]] · [[document-parsing]]
+← [[pptx-generation]] · [[self-hosted-AI-platform]] · [[AI-Agent]] · [[workflow-automation]] · [[document-parsing]] · [[1weiho-open-slide|open-slide]]
 
 ## 來源
 

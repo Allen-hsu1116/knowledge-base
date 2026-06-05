@@ -12,6 +12,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[1weiho-open-slide\|open-slide]] | ⭐4,744 | AI Agent, Presentation, Agent-Native, React | 2026-06-05 |
 | [[chopratejas-headroom\|Headroom]] | ⭐6,416 | Token Optimization, Context 壓縮, MCP, AI Agent | 2026-06-03 |
 | [[dmtrKovalenko-fff\|FFF]] | ⭐7,176 | MCP, 檔案搜尋, AI Agent 工具, Neovim | 2026-06-02 |
 | [[nesquena-hermes-webui\|Hermes WebUI]] | ⭐9,981 | Coding Agent CLI, AI Agent, Web UI | 2026-06-01 |
@@ -99,6 +100,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
 | [[lyogavin-airllm\|AirLLM]] | ⭐18,902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
 | [[p-e-w-heretic\|Heretic]] | ⭐22,010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
 | [[ds4\|DS4]] | ⭐8,303 | LLM, 推論加速, 本地部署, DeepSeek | 2026-05-13 |
@@ -155,6 +157,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-cloud-ai-agent-trends-2026\|Google AI Agent Trends 2026]] | —（研究報告） | Agentic AI, AI Agent, Agent Workflow, Enterprise AI | 2026-06-05 |
 | [[lfnovo-open-notebook\|Open Notebook]] | ⭐25k | NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast | 2026-06-05 |
 | [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | ⭐6,376 | RAG, Agentic RAG, OpenSearch, FastAPI, 課程 | 2026-06-03 |
 | [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | ⭐17,870 | ML, 金融交易, 教學, Jupyter Notebook | 2026-06-02 |

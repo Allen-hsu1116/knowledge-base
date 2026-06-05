@@ -116,11 +116,11 @@ title: 知識庫總覽
 
 ### 🏗 基礎設施概念
 
-|| 概念 | 說明 |
-||------|------|
-|| [[self-hosted-AI-platform\|自架 AI 平台]] | 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。 |
-|| [[lfnovo-open-notebook\|Open Notebook]] | NotebookLM 開源替代：隱私自架、18+ AI 供應商、1-4 人 Podcast、Docker 一鍵部署。 |
-|| [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]]
+| 概念 | 說明 |
+|------|------|
+| [[self-hosted-AI-platform\|自架 AI 平台]] | 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。 |
+| [[lfnovo-open-notebook\|Open Notebook]] | NotebookLM 開源替代：隱私自架、18+ AI 供應商、1-4 人 Podcast、Docker 一鍵部署。 |
+| [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖與 AI 聊天於一體。 |
 | [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
 | [[模型推論與部署]] | LLM 從訓練到服務：推論加速、部署架構、成本控制。 |
 | [[lyogavin-airllm\|AirLLM]] | 分層推理讓 4GB GPU 跑 70B 模型，無損品質，可選量化 3x 加速。 |

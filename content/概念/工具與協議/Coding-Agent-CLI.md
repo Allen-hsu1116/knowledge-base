@@ -108,7 +108,7 @@ OpenClaude（[[Gitlawb-openclaude]]）是目前唯一同時支援**多模型 + M
 
 ## 相關概念
 
-← [[CLAUDE-md]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[walkinglabs-learn-harness-engineering]] · [[Donchitos-Claude-Code-Game-Studios]]
+← [[CLAUDE-md]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]] · [[Token-Optimization]] · [[walkinglabs-learn-harness-engineering]] · [[Donchitos-Claude-Code-Game-Studios]] · [[1weiho-open-slide|open-slide]]
 
 ## 來源
 
