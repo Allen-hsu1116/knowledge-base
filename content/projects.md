@@ -12,6 +12,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[CopilotKit-CopilotKit|CopilotKit]] | ⭐32.7k | AI Agent, Generative UI, AG-UI Protocol, React | 2026-06-06 |
+| [[github-copilot-sdk|GitHub Copilot SDK]] | ⭐9.2k | AI Agent, Agent SDK, MCP, BYOK | 2026-06-06 |
 | [[1weiho-open-slide\|open-slide]] | ⭐4,744 | AI Agent, Presentation, Agent-Native, React | 2026-06-05 |
 | [[chopratejas-headroom\|Headroom]] | ⭐6,416 | Token Optimization, Context 壓縮, MCP, AI Agent | 2026-06-03 |
 | [[dmtrKovalenko-fff\|FFF]] | ⭐7,176 | MCP, 檔案搜尋, AI Agent 工具, Neovim | 2026-06-02 |
@@ -124,6 +126,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NVIDIA-cosmos|NVIDIA Cosmos]] | ⭐9.4k | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
 | [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8.4k | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22,759 | TTS, 語音合成, 語音克隆, 多語言, 擴散模型 | 2026-05-31 |
