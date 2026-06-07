@@ -1,8 +1,17 @@
 ---
+
+
+title: 位置編碼演進：Absolute → Relative → RoPE → 無 Positional Embedding
+slug: positional-embedding-evolution
 source: https://www.youtube.com/watch?v=Ll-wk8x3G_g
 date: 2026-05-03
 author: 李宏毅 (Hung-yi Lee)
 channel: Hung-yi Lee
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # 位置編碼演進：Absolute → Relative → RoPE → 無 Positional Embedding

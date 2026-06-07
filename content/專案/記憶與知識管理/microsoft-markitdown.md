@@ -41,7 +41,7 @@ print(result.text_content)
 | **MarkItDown** | 輕量文件→Markdown | PDF/Office/圖片/音訊 | MCP Server |
 | **[[docling]]** | 完整文件解析框架 | PDF/DOCX/PPTX/HTML/圖片 | Docling Pipeline |
 | **[[pymupdf4llm]]** | PDF→LLM 友善格式（版面感知） | PDF 為主 | LlamaIndex + LangChain |
-| **[[datalab-to-chandra\|Chandra]]** | 高精確度 OCR | 表格/表單/手寫 | Python API |
+| **[[datalab-to-chandra|Chandra]]** | 高精確度 OCR | 表格/表單/手寫 | Python API |
 
 MarkItDown 勝在輕量和格式廣度，適合簡單轉換場景；docling 功能更完整，適合複雜 RAG pipeline；PyMuPDF4LLM 對 PDF 版面還原最深入；Chandra 專攻 OCR 精確度，特別是表格和手寫。
 

@@ -1,5 +1,8 @@
 ---
+
+
 title: Donchitos/Claude-Code-Game-Studios
+slug: Donchitos-Claude-Code-Game-Studios
 url: https://github.com/Donchitos/Claude-Code-Game-Studios
 stars: 20021
 created: 2026-05-26
@@ -9,6 +12,9 @@ topics:
   - AI Skills
   - Game Development
   - Multi-Agent
+
+
+updated: 2026-05-26
 ---
 
 # Claude Code Game Studios ⭐20k

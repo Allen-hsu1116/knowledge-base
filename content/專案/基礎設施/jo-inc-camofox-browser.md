@@ -1,5 +1,7 @@
 ---
+
 title: Camofox Browser
+slug: jo-inc-camofox-browser
 created: 2026-05-08
 updated: 2026-05-26
 stars: 5829
@@ -8,6 +10,7 @@ topics:
   - Anti-Detection
   - Browser
   - AI Agent
+
 ---
 
 # Camofox Browser

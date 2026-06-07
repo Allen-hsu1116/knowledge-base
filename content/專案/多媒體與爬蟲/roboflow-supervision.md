@@ -1,6 +1,17 @@
 ---
+
+
+
 title: supervision
+slug: roboflow-supervision
 created: 2026-05-15
+stars: '⭐38878'
+
+
+
+updated: 2026-05-15
+language: zh-TW
+topics: []
 ---
 
 # supervision

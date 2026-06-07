@@ -74,8 +74,8 @@ ASR Playground 線上試玩：<https://aka.ms/vibevoice-asr>
 | **VibeVoice-TTS** | — | TTS | 90 分鐘 | ✅ 4人 | 多語言 | — | — | MIT |
 | **VibeVoice-Realtime** | — | 串流 TTS | 10 分鐘 | ❌ | 9+ | — | ✅ 300ms | MIT |
 | [[Whisper]] | ⭐99.2k | ASR | ~30 秒 | ❌ | 99 | ❌ | ❌ | MIT |
-| [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22.8k | TTS | 可變 | ✅ | 30 | — | ✅ | Apache-2.0 |
-| [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS | 可變 | ❌ | 1+ | — | — | Apache-2.0 |
+| [[OpenBMB-VoxCPM|VoxCPM]] | ⭐22.8k | TTS | 可變 | ✅ | 30 | — | ✅ | Apache-2.0 |
+| [[OpenMOSS-MOSS-TTS|MOSS-TTS]] | ⭐2.2k | TTS | 可變 | ❌ | 1+ | — | — | Apache-2.0 |
 
 ← [[Whisper]] · [[OpenBMB-VoxCPM]] · [[語音辨識]] · [[OpenMOSS-MOSS-TTS]]
 

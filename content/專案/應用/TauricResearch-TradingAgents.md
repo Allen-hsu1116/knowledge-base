@@ -69,15 +69,16 @@ export ANTHROPIC_API_KEY=***
 | 方案 | 角色 | 多 Agent | LLM Provider | 回測 | 適合場景 |
 |------|------|---------|-------------|------|---------|
 | **TradingAgents** | 模擬交易公司 | ✅ 多角色辯論 | 多 Provider | 模擬交易所 | 研究、多角度決策 |
-| [[HKUDS-AI-Trader\|AI-Trader]] | 交易 Agent | 單 Agent | 單一 | 有限 | 輕量交易原型 |
-| [[HKUDS-Vibe-Trading\|Vibe Trading]] | 交易 Agent | 單 Agent | 單一 | 有限 | Vibe-based 交易 |
-| [[virattt-dexter\|Dexter]] | 金融研究 | 單 Agent | 多 Provider | ✅ | 財報研究 |
-| [[stefan-jansen-machine-learning-for-trading\|ML4T]] | 教學資源 | 無 | 傳統 ML | ✅ Zipline | 學習 ML 交易 |
+| [[HKUDS-AI-Trader|AI-Trader]] | 交易 Agent | 單 Agent | 單一 | 有限 | 輕量交易原型 |
+| [[HKUDS-Vibe-Trading|Vibe Trading]] | 交易 Agent | 單 Agent | 單一 | 有限 | Vibe-based 交易 |
+| [[virattt-dexter|Dexter]] | 金融研究 | 單 Agent | 多 Provider | ✅ | 財報研究 |
+| [[stefan-jansen-machine-learning-for-trading|ML4T]] | 教學資源 | 無 | 傳統 ML | ✅ Zipline | 學習 ML 交易 |
 
 ← [[HKUDS-AI-Trader|AI-Trader]] · [[financial-forecasting|金融預測]] 相關概念
 
 ## 來源
 
+- raw/2026-06-02-TauricResearch-TradingAgents.md
 - GitHub: [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - 論文: [arXiv 2412.20138](https://arxiv.org/abs/2412.20138)
 - Raw 檔案: [[raw/2026-06-02-TauricResearch-TradingAgents|原始資料]]

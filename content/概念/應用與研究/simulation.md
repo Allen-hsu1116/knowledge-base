@@ -1,5 +1,16 @@
 ---
+
+
+
 title: 模擬
+slug: simulation
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # 模擬

@@ -62,15 +62,16 @@ docker run -it ml4t
 | 方案 | 類型 | 涵蓋範圍 | LLM 整合 | 回測引擎 | 適合場景 |
 |------|------|---------|---------|---------|---------|
 | **ML4T** | 教學 + 程式碼 | ML 全流程 | ❌ 傳統 ML | ✅ Zipline | 系統學習 ML 交易 |
-| [[TauricResearch-TradingAgents\|TradingAgents]] | 框架 | 多 Agent 決策 | ✅ 多 Provider | ✅ 模擬交易所 | LLM 驅動交易決策 |
-| [[HKUDS-AI-Trader\|AI-Trader]] | Agent | 單 Agent | ✅ | 有限 | 輕量交易原型 |
-| [[daily-stock-analysis\|Daily Stock Analysis]] | 工具 | 股市分析 | ✅ | ❌ | 每日自動分析 |
-| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | 教學 | LLM 訓練 | N/A | ❌ | 學習 LLM 底層 |
+| [[TauricResearch-TradingAgents|TradingAgents]] | 框架 | 多 Agent 決策 | ✅ 多 Provider | ✅ 模擬交易所 | LLM 驅動交易決策 |
+| [[HKUDS-AI-Trader|AI-Trader]] | Agent | 單 Agent | ✅ | 有限 | 輕量交易原型 |
+| [[daily-stock-analysis|Daily Stock Analysis]] | 工具 | 股市分析 | ✅ | ❌ | 每日自動分析 |
+| [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]] | 教學 | LLM 訓練 | N/A | ❌ | 學習 LLM 底層 |
 
 ← [[TauricResearch-TradingAgents|TradingAgents]] · [[financial-forecasting|金融預測]] 相關概念
 
 ## 來源
 
+- raw/2026-06-02-stefan-jansen-machine-learning-for-trading.md
 - GitHub: [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
 - 書籍官網: [ml4trading.io](https://ml4trading.io)
 - Raw 檔案: [[raw/2026-06-02-stefan-jansen-machine-learning-for-trading|原始資料]]

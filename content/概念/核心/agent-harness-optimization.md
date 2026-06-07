@@ -1,8 +1,19 @@
 ---
+
+
+
 title: Agent Harness 優化
+slug: agent-harness-optimization
 aliases:
   - Agent Harness Optimization
   - Harness Engineering
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Agent Harness 優化

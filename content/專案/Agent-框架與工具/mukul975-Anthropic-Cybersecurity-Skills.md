@@ -1,5 +1,8 @@
 ---
+
+
 title: Anthropic Cybersecurity Skills
+slug: mukul975-Anthropic-Cybersecurity-Skills
 date: 2026-05-24
 stars: 7418
 repo: mukul975/Anthropic-Cybersecurity-Skills
@@ -11,6 +14,9 @@ topics:
   - agent-skills-ecosystem
   - cybersecurity-skills
   - MITRE-ATT&CK
+
+
+updated: TODO
 ---
 
 # Anthropic Cybersecurity Skills

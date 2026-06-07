@@ -1,5 +1,8 @@
 ---
+
+
 title: teng-lin/notebooklm-py
+slug: teng-lin-notebooklm-py
 created: 2026-05-26
 stars: 15157
 language: Python
@@ -7,6 +10,9 @@ topics:
   - NotebookLM
   - AI Skills
   - Research Automation
+
+
+updated: 2026-05-26
 ---
 
 # notebooklm-py ⭐15.2k

@@ -1,6 +1,14 @@
 ---
+
+
 title: Claude Code 進階技巧
+slug: claude-code-boris-cherny-advanced-techniques
 created: 2026-05-06
+
+
+updated: 2026-05-06
+language: zh-TW
+topics: []
 ---
 
 # Claude Code 進階技巧

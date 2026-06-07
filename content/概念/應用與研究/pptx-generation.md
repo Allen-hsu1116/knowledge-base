@@ -1,8 +1,16 @@
 ---
+
+
 title: PPTX 生成
+slug: pptx-generation
 aliases:
   - PPTX Generation
   - PowerPoint 生成
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # PPTX 生成

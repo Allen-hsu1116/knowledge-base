@@ -17,7 +17,7 @@ topics:
 
 > ⭐23.3k · AI 時代的記憶引擎，讓 AI 跨對話記住你
 
-快速導航：[[MCP]] · [[rag]] · [[agentmemory]]
+快速導航：[[MCP]] · [[rag]] · [[rohitg00-agentmemory]]
 
 ## 是什麼
 
@@ -94,7 +94,7 @@ pip install supermemory
 
 Supermemory 和其他記憶方案相比，最大差異是同時提供記憶提取、使用者畫像和 RAG 三合一的解決方案。claude-mem 專注 Claude 生態，agentmemory 偏通用 Agent 記憶，MemPalace 走知識圖譜路線。
 
-← [[MCP]] · [[rag]] · [[agentmemory]]
+← [[MCP]] · [[rag]] · [[rohitg00-agentmemory]]
 
 ## 來源
 

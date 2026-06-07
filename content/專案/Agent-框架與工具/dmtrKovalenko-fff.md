@@ -85,7 +85,7 @@ pi install npm:@ff-labs/pi-fff
 | ripgrep | CLI 搜尋 | ❌ | ❌ | ❌ | ❌ | 單次命令列搜尋 |
 | fzf | 互動式篩選 | ❌ | ✅ | ❌ | ❌ | 終端互動選檔 |
 | Telescope | Neovim 插件 | ❌ | ✅ | ❌ | ❌ | Neovim 模糊搜尋 |
-| [[qmd\|QMD]] | 搜尋 + RAG | ❌ | ✅ | ❌ | ✅ | 本地知識搜尋 |
+| [[qmd|QMD]] | 搜尋 + RAG | ❌ | ✅ | ❌ | ✅ | 本地知識搜尋 |
 
 ← [[MCP|MCP]] · [[coding-agent-toolkit|Coding Agent 工具]] 相關概念
 

@@ -1,5 +1,8 @@
 ---
+
+
 title: Frigate NVR
+slug: blakeblackshear-frigate
 date: 2026-05-25
 stars: 32846
 repo: blakeblackshear/frigate
@@ -9,6 +12,9 @@ topics:
   - embedded-AI
   - computer-vision
   - self-hosted-AI-platform
+
+
+updated: TODO
 ---
 
 # Frigate NVR

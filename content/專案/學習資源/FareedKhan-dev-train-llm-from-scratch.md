@@ -85,8 +85,8 @@ python scripts/generate_text.py
 | 方案 | Stars | 語言 | 特色1 | 特色2 | 授權 |
 |------|-------|------|-------|-------|------|
 | **Train LLM From Scratch** | ⭐2.3k | PyTorch | 完整從零到一流程 | 詳細 GPU 對照表 | MIT |
-| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93.8k | PyTorch | 書本式教學 | 涵蓋 GPT 系列 |Apache-2.0 |
-| [[codecrafters-io-build-your-own-x\|Build Your Own X]] | ⭐504.3k | 多語言 | 廣泛的 DIY 專案 | 社群貢獻 | 多種 |
+| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | ⭐93.8k | PyTorch | 書本式教學 | 涵蓋 GPT 系列 |Apache-2.0 |
+| [[codecrafters-io-build-your-own-x|Build Your Own X]] | ⭐504.3k | 多語言 | 廣泛的 DIY 專案 | 社群貢獻 | 多種 |
 | nanoGPT | ⭐12k+ | PyTorch | 最簡 GPT 訓練 | Karpathy 出品 | MIT |
 | llm.c | ⭐25k+ | C/CUDA | 極致效能 | 去除 PyTorch 依賴 | MIT |
 

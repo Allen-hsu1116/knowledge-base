@@ -34,9 +34,9 @@ LLM 底層技術是指讓大語言模型高效運行的核心演算法和硬體�
 | 工具 | 定位 | 特色 | Stars |
 |------|------|------|-------|
 | [[vLLM]] | 高吞吐服務引擎 | PagedAttention、Continuous Batching、分散式推論 | ⭐79.5K |
-| [[sgl-project-sglang\|SGLang]] | 高效能服務框架 | RadixAttention 前綴快取、跨硬體支援、多模態 | ⭐27.6K |
+| [[sgl-project-sglang|SGLang]] | 高效能服務框架 | RadixAttention 前綴快取、跨硬體支援、多模態 | ⭐27.6K |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA GPU 專屬加速 | Tensor Core、FP8 量化、Disaggregated Serving | ⭐13.6K |
-| [[llama-cpp\|llama.cpp]] | 本地推論引擎 | C/C++、GGUF 量化、CPU+GPU、MacBook 可跑 | ⭐109K |
+| [[llama-cpp|llama.cpp]] | 本地推論引擎 | C/C++、GGUF 量化、CPU+GPU、MacBook 可跑 | ⭐109K |
 | [[Ollama]] | 本地一鍵部署 | 包裝 llama.cpp、模型庫、API | ⭐171K |
 
 ### 快取最佳化實踐

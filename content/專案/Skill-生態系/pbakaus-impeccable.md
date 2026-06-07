@@ -12,7 +12,7 @@ topics: [design, ai-skills, frontend, agent-skill]
 
 > ⭐32.7k · 讓 AI coding agent 做出更好前端設計的設計語言，7 個領域參考 + 23 個指令 + 反模式檢查。
 
-快速導航：[[AI-Skills|AI Skills]] · [[frontend-design|前端設計]] · [[open-design|Open Design]] · [[Claude-Code|Claude Code]]
+快速導航：[[AI-Skills|AI Skills]] · [[frontend-design|前端設計]] · [[open-design|Open Design]] · [[anthropics-claude-code|Claude Code]]
 
 ## 是什麼
 
@@ -68,15 +68,16 @@ npx skills add pbakaus/impeccable
 | 方案 | 類型 | 反模式檢查 | 指令數 | 跨平台 | 適合場景 |
 |------|------|-----------|--------|--------|---------|
 | **Impeccable** | 設計 Skill | ✅ 27+12 | 23 | ✅ 多工具 | 前端設計品質提升 |
-| [[open-design\|Open Design]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 基本設計引導 |
-| [[Leonxlnx-taste-skill\|Taste Skill]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 前端品味引導 |
+| [[open-design|Open Design]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 基本設計引導 |
+| [[Leonxlnx-taste-skill|Taste Skill]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 前端品味引導 |
 | Anthropic frontend-design | 原始 Skill | ❌ | 少 | 限 Claude Code | 基礎設計規範 |
-| [[hardikpandya-stop-slop\|stop-slop]] | 寫作品質 | ❌ | 少 | 通用 | AI 寫作去模板化 |
+| [[hardikpandya-stop-slop|stop-slop]] | 寫作品質 | ❌ | 少 | 通用 | AI 寫作去模板化 |
 
 ← [[open-design|Open Design]] · [[AI-Skills|AI Skills]] 相關概念
 
 ## 來源
 
+- raw/2026-06-02-pbakaus-impeccable.md
 - GitHub: [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - 官網: [impeccable.style](https://impeccable.style)
 - Raw 檔案: [[raw/2026-06-02-pbakaus-impeccable|原始資料]]

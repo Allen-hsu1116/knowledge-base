@@ -1,6 +1,17 @@
 ---
+
+
+
 title: CodeBurn
+slug: codeburn
 created: 2026-05-09
+stars: '⭐5.9'
+
+
+
+updated: 2026-05-09
+language: zh-TW
+topics: []
 ---
 
 # CodeBurn

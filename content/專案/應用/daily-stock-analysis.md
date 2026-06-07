@@ -1,11 +1,20 @@
 ---
+
+
+
 title: 每日股票分析 (daily-stock-analysis)
+slug: daily-stock-analysis
 created: 2026-05-03
+stars: '⭐38.1k'
 updated: 2026-05-22
 topics:
   - stock-analysis
   - LLM
   - trading
+
+
+
+language: zh-TW
 ---
 
 # 每日股票分析 (daily-stock-analysis)

@@ -1,6 +1,15 @@
 ---
+
+
+title: OpenCLI
+slug: opencli
 aliases:
   - OpenCLI
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # OpenCLI

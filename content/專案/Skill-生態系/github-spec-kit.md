@@ -1,6 +1,17 @@
 ---
+
+
+
 title: Spec Kit
+slug: github-spec-kit
 created: 2026-05-14
+stars: '⭐98'
+
+
+
+updated: 2026-05-14
+language: zh-TW
+topics: []
 ---
 
 # Spec Kit

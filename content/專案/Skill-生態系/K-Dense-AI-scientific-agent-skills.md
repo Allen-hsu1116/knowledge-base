@@ -1,6 +1,17 @@
 ---
+
+
+
 title: Scientific Agent Skills
+slug: K-Dense-AI-scientific-agent-skills
 created: 2026-05-14
+stars: '⭐21'
+
+
+
+updated: 2026-05-14
+language: zh-TW
+topics: []
 ---
 
 # Scientific Agent Skills

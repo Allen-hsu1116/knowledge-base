@@ -1,7 +1,18 @@
 ---
+
+
+
 title: Context7
+slug: upstash-context7
 source: https://github.com/upstash/context7
 date: 2026-05-09
+
+stars: '⭐54.8k'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Context7

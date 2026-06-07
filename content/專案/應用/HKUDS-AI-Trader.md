@@ -1,6 +1,17 @@
 ---
+
+
+
 title: AI-Trader 智能體交易平台
+slug: HKUDS-AI-Trader
 created: 2026-05-13
+stars: '⭐16611'
+
+
+
+updated: 2026-05-13
+language: zh-TW
+topics: []
 ---
 
 # AI-Trader 智能體交易平台

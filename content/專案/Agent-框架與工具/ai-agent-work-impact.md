@@ -1,5 +1,13 @@
 ---
+
+
 title: AI Agent 對工作的衝擊（學術研究篇）
+slug: ai-agent-work-impact
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # AI Agent 對工作的衝擊（學術研究篇）

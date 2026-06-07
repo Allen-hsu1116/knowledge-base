@@ -1,5 +1,16 @@
 ---
+
+
+
 title: PDFCraft
+slug: pdfcraft
+
+stars: '⭐5.5k'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # PDFCraft — 瀏覽器端隱私優先 PDF 工具箱

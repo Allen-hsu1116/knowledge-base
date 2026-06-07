@@ -1,6 +1,18 @@
 ---
+
+
+
+title: Agency Agents：144 個 AI 員工人格開源
+slug: agency-agents-144-personas
 source: https://www.blocktempo.com/agency-agents-github-84k-stars-144-ai-employee-personas-open-source/
 date: 2026-04-28
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Agency Agents：144 個 AI 員工人格開源

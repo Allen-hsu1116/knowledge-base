@@ -1,5 +1,7 @@
 ---
+
 title: 股票智能分析系統 (daily_stock_analysis)
+slug: ZhuLinsen-daily_stock_analysis
 created: 2026-05-03
 updated: 2026-05-22
 stars: 38100
@@ -10,6 +12,7 @@ topics:
   - AI-Agent
   - trading
   - automation
+
 ---
 
 # 股票智能分析系統 (daily_stock_analysis)

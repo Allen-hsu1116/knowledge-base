@@ -1,6 +1,18 @@
 ---
+
+
+
+title: forrestchang/andrej-karpathy-skills — Karpathy 知識庫 Skill 版
+slug: karpathy-skills
 source: https://github.com/forrestchang/andrej-karpathy-skills
 date: 2026-04-28
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # forrestchang/andrej-karpathy-skills — Karpathy 知識庫 Skill 版

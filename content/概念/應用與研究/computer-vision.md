@@ -1,8 +1,16 @@
 ---
+
+
 title: 電腦視覺
+slug: computer-vision
 aliases:
   - Computer Vision
   - CV
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # 電腦視覺

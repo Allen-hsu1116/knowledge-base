@@ -1,6 +1,17 @@
 ---
+
+
+
 title: CubeSandbox
+slug: cubesandbox
 created: 2026-05-09
+stars: '⭐5.2'
+
+
+
+updated: 2026-05-09
+language: zh-TW
+topics: []
 ---
 
 # CubeSandbox

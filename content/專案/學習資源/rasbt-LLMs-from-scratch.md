@@ -1,6 +1,17 @@
 ---
+
+
+
 title: LLMs from Scratch
+slug: rasbt-LLMs-from-scratch
 created: 2026-05-13
+stars: '⭐93785'
+
+
+
+updated: 2026-05-13
+language: zh-TW
+topics: []
 ---
 
 # LLMs from Scratch

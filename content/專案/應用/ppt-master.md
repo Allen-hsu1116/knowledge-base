@@ -1,7 +1,19 @@
 ---
+
+
+
+title: PPT Master
+slug: ppt-master
 aliases:
   - ppt-master
   - PPT Master
+
+stars: '⭐11.3k'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # PPT Master

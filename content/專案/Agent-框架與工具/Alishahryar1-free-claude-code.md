@@ -1,4 +1,5 @@
 ---
+
 title: Free Claude Code
 slug: Alishahryar1-free-claude-code
 date: 2026-05-20
@@ -9,6 +10,8 @@ topics:
   - Coding-Agent-CLI
   - LLM
   - 模型推論與部署
+
+updated: TODO
 ---
 
 # Free Claude Code — 免費使用 Claude Code 的代理伺服器

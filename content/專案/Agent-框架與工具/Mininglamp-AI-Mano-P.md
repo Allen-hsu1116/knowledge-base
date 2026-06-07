@@ -1,74 +1,83 @@
+---
+title: Mano-P
+slug: Mininglamp-AI-Mano-P
+created: 2025-06-07
+updated: 2025-06-07
+stars: 2288
+language: Python/Model
+topics:
+  - VLA
+  - GUI-Agent
+  - Computer-Use
+  - Edge-AI
+  - OSWorld
+---
+
 # Mano-P
 
-> 開源 GUI-VLA 邊緣代理，純視覺驅動跨平台桌面自動化，資料全留本地
+> ⭐2.3k · 開源 GUI-VLA 智能體，OSWorld 基準測試第一名，可在 Apple M4 Mac mini/MacBook 本地運行推理，資料不離開設備。
 
 ## 快速導航
 
-- 🤖 **AI Agent** → [[AI-Agent]]（Mano-P 是 GUI 自動化方向的 Agent）
-- 👁️ **Computer Vision** → [[computer-vision]]（純視覺理解驅動 GUI 操作）
-- 🔧 **AI Skills** → [[AI-Skills]]（Mano-Skill 作為 ClawHub Skill 供其他 Agent 調用）
+- 🤖 [[AI-Agent]] — GUI 智能體應用
+- 🖥️ [[computer-use]] — 電腦操控技術
+- 🦾 [[trycua-cua]] — 另一個 CUA 智能體專案
+- ⚡ [[edge-ai]] — 邊緣 AI 部署
 
 ## 是什麼
 
-Mano-P 是明略科技（Mininglamp）開源的 GUI-VLA（Vision-Language-Action）邊緣代理專案。"Mano" 西班牙語意為「手』，"P" 代表 Private。核心定位是讓大型 GUI 操作模型在本地 Apple Silicon 裝置上運行，所有截圖和任務描述留在設備上不外傳。OSWorld specialized 榜單排名第一（58.2%）。
+**Mano-P** 是明略科技（Mininglamp）推出的開源 GUI-VLA（視覺-語言-動作）智能體專案，專為邊緣裝置設計。「Mano」是西班牙語的「手」，「P」代表 Private，強調隱私優先。它可以在 Apple M4 晶片的 Mac mini 或 MacBook 上完全本地運行推理，無需雲端 API，所有截圖和任務資料都在設備上處理。
+
+Mano-P 在 OSWorld 基準測試中達成 58.2% 成功率，排名第一（超過 opencua-72b 的 45.0%），在 WebRetriever Protocol I 測試中獲得 41.7 NavEval 分數，超越 Gemini 2.5 Pro 和 Claude 4.5 的 Computer Use 模式。
 
 ## 核心特色
 
-- **OSWorld #1**：72B 模型在 OSWorld specialized 榜單 58.2% 成功率，超越第二名 13.2 個百分點
-- **WebRetriever 領先**：41.7 NavEval，超越 Gemini 2.5 Pro CU 和 Claude 4.5 CU
-- **完全本地推理**：M4 晶片 + 32GB RAM 即可跑 4B 模型；72B 透過算力棒（USB 4.0）運行
-- **純視覺 GUI 操作**：不走 DOM/CDP/HTML，用螢幕截圖理解介面，適用桌面軟體、3D 應用、非標準 GUI
-- **think-act-verify 循環**：三階段漸進訓練（SFT → Offline RL → Online RL）+ 雙向自強化學習
-- **Cider INT8 加速**：W8A8/W4A8 激活量化 SDK，1.4x–2.2x prefill 加速，適用任何 MLX 模型
-- **Mano-AFK 自主建構**：從一句自然語言到完整部署測試修 bug 的應用，全程本地閉環
+- **🏆 OSWorld #1** — 58.2% 成功率，領先第二名 13.2 個百分點
+- **🔒 完全本地執行** — 在 Apple M4 + 32GB RAM 上運行，無需雲端 API，資料不外洩
+- **🚀 高效推理** — Mano-CUA-4B 在 Apple M5 Pro 達 ~80 tokens/s；搭配 Cider W8A8 量化，prefill 加速 12.7%
+- **🔄 自主長任務執行** — 支援數十到數百步的企業級業務流程自動化
+- **🛠️ Cider SDK** — 伴隨推論 SDK，提供 W8A8/W4A8 激活量化，MLX 不原生支援的加速原語
+- **🏗️ Mano-AFK** — 自主應用構建，從 PRD 到部署、測試、修復的完整循環
 
 ## 怎麼用
 
-**CLI 工具（mano-cua）**：
 ```bash
-# 安裝
-brew tap Mininglamp-AI/tap && brew install mano-cua
+# 安裝 Mano-P Skills（第一階段：Agent Skills）
+pip install mano-cua
 
-# 雲端模式（預設）
-mano-cua run "Open WeChat and tell FTY the meeting is postponed"
+# 使用 Mano-CUA Skills 構建智能 CUA 任務工作流
+# 在 OpenClaw 或 Claude Code 中使用
 
-# 本地模式
-mano-cua run "Open Safari and search for Python" --local
+# 第二階段：本地模型推理（Mac M4 + 32GB RAM）
+# 從 HuggingFace 或 ModelScope 下載模型
+# https://huggingface.co/Mininglamp-2718/Mano-CUA-4B-Thinking-1.1
+
+# Cider SDK 加速（INT8 量化推理）
+pip install cider-sdk
 ```
-
-**ClawHub Skill（給 AI Agent 用）**：
-```bash
-clawhub install mano-cua
-```
-
-**硬體需求**：
-- Mac mini / MacBook（M4 晶片 + 32GB RAM）— 跑 4B 模型
-- 任何 Mac + Mano-P 算力棒（USB 4.0+）— 跑 72B 模型
 
 ## 跟其他方案的關係
 
-| | Mano-P | OpenClaw | Manus | 傳統 RPA |
-|---|---|---|---|---|
-| **模型來源** | ✅ 內建邊緣模型 | ⚠️ 用戶自配 | ⚠️ 雲端 API | ❌ 無模型 |
-| **隱私** | ✅ 完全本地 | ⚠️ 雲端調用 | ⚠️ 雲端推理 | ✅ 可本地 |
-| **操控方式** | ✅ 純視覺 | ⚠️ CDP+CLI | ❌ HTML 解析 | ❌ 系統 API |
-| **適用範圍** | ✅ 所有 GUI 類型 | ✅ 多種應用 | ⚠️ 僅 Web | ⚠️ 特定系統 |
-
-Mano-P 的差異化在於「內建模型 + 純視覺 + 完全本地」三角組合。OpenClaw 需要使用者自己配模型，Manus 只能在 Web 上操作且走雲端，傳統 RPA 無法適應 UI 變化。Mano-P 特別適合高隱私場景（金融、醫療、企業內網）。
-
-👉 詳見 [[AI-Agent]]（Agent 架構總覽）
+| 專案 | 類型 | 邊緣推理 | OSWorld 成績 | 開源 | 語言 |
+|------|------|----------|-------------|------|------|
+| **Mano-P** | GUI-VLA Agent | ✅ Apple M4 | 58.2% #1 | ✅ Apache 2.0 | 中英 |
+| [[trycua-cua\|OpenCUA]] | CUA Agent | ❌ 需雲端 | 45.0% | ✅ | 英 |
+| [[Computer-Use|Claude Computer Use]] | 雲端 CUA | ❌ 雲端 | 31.3 | ❌ 商業 | 英 |
+| UI-TARS | GUI Agent | ❌ | 較低 | ✅ | 英 |
 
 ## 相關概念
 
-← [[AI-Agent]] · [[computer-vision]] · [[AI-Skills]]
+← [[AI-Agent]] · [[computer-use]] · [[trycua-cua]] · [[edge-ai]]
 
 ## 來源
 
-- raw/2026-05-20-Mininglamp-AI-Mano-P.md
+> 完整 README 見 [[raw/2025-06-07-Mininglamp-AI-Mano-P|raw 檔案]]
 
 ---
 
-- **GitHub**: https://github.com/Mininglamp-AI/Mano-P
-- **Stars**: ⭐2,063
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-20
+| 項目 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Mininglamp-AI/Mano-P |
+| Stars | ⭐ 2,288 |
+| License | Apache License 2.0 |
+| 收錄日期 | 2025-06-07 |

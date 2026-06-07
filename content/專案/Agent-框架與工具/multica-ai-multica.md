@@ -1,5 +1,8 @@
 ---
+
+
 title: Multica
+slug: multica-ai-multica
 date: 2026-05-24
 stars: 31926
 repo: multica-ai/multica
@@ -11,6 +14,9 @@ topics:
   - agent-skills-ecosystem
   - managed-agents
   - 12-factor-agents
+
+
+updated: TODO
 ---
 
 # Multica

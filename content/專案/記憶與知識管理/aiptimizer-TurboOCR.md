@@ -1,6 +1,17 @@
 ---
+
+
+
 title: TurboOCR
+slug: aiptimizer-TurboOCR
 created: 2026-05-09
+stars: '⭐264'
+
+
+
+updated: 2026-05-09
+language: zh-TW
+topics: []
 ---
 
 # TurboOCR

@@ -1,6 +1,17 @@
 ---
+
+
+
 title: OpenHuman
+slug: tinyhumansai-openhuman
 date: 2026-05-16
+
+stars: '⭐9.1k'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # OpenHuman

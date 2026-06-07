@@ -1,4 +1,5 @@
 ---
+
 title: Agency Agents
 slug: msitarzewski-agency-agents
 date: 2026-05-20
@@ -11,6 +12,8 @@ topics:
   - Coding-Agent-CLI
   - agent-persona
   - agent-skills-ecosystem
+
+updated: TODO
 ---
 
 # Agency Agents — A Complete AI Agency at Your Fingertips

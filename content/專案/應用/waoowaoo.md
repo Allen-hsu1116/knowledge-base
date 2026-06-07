@@ -1,6 +1,18 @@
 ---
+
+
+
+title: waoowaoo
+slug: waoowaoo
 aliases:
   - waoowaoo
+
+stars: '⭐12k'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # waoowaoo

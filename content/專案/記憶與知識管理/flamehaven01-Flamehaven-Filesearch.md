@@ -1,6 +1,17 @@
 ---
+
+
+
 title: Flamehaven Filesearch
+slug: flamehaven01-Flamehaven-Filesearch
 created: 2026-05-09
+stars: '⭐100'
+
+
+
+updated: 2026-05-09
+language: zh-TW
+topics: []
 ---
 
 # Flamehaven Filesearch

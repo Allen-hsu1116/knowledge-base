@@ -1,5 +1,8 @@
 ---
+
+
 title: cmux
+slug: manaflow-ai-cmux
 date: 2026-05-25
 stars: 19020
 repo: manaflow-ai/cmux
@@ -9,6 +12,9 @@ topics:
   - Coding-Agent-CLI
   - agent-skills-ecosystem
   - coding-agent-toolkit
+
+
+updated: TODO
 ---
 
 # cmux

@@ -1,5 +1,8 @@
 ---
+
+
 title: Leonxlnx/taste-skill
+slug: Leonxlnx-taste-skill
 url: https://github.com/Leonxlnx/taste-skill
 stars: 19717
 created: 2026-02-19
@@ -9,6 +12,9 @@ topics:
   - AI-Skills
   - Prompt-Engineering
   - agent-skills-ecosystem
+
+
+updated: 2026-02-19
 ---
 
 # Taste Skill — 反樣板 AI 前端框架

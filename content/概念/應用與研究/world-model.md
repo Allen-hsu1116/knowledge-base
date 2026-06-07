@@ -1,5 +1,13 @@
 ---
+
+
 title: 世界模型
+slug: world-model
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # 世界模型

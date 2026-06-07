@@ -1,5 +1,16 @@
 ---
+
+
+
 title: Codex Complexity Optimizer
+slug: Kappaemme-git-codex-complexity-optimizer
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Codex Complexity Optimizer

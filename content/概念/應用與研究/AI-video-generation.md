@@ -1,7 +1,12 @@
 ---
+
 title: AI 影片生成
 slug: AI-video-generation
 added: 2026-05-17
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # AI 影片生成

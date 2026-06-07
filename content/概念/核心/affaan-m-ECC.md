@@ -1,4 +1,5 @@
 ---
+
 title: ECC
 slug: affaan-m-ECC
 date: 2026-05-20
@@ -11,6 +12,8 @@ topics:
   - Coding-Agent-CLI
   - agent-skills-ecosystem
   - prompt-security
+
+updated: TODO
 ---
 
 # ECC — Agent Harness Performance Optimization System

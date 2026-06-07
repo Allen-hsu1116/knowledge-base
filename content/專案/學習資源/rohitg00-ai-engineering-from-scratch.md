@@ -1,5 +1,7 @@
 ---
+
 title: AI Engineering from Scratch
+slug: rohitg00-ai-engineering-from-scratch
 created: 2026-05-22
 updated: 2026-05-22
 stars: 9567
@@ -9,6 +11,7 @@ topics:
   - AI-Agent
   - MCP
   - AI-Agent-Tutorial
+
 ---
 
 # AI Engineering from Scratch

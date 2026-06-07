@@ -1,8 +1,19 @@
 ---
+
+
+
 title: AI 簡報
+slug: AI-presentation
 aliases:
   - AI Presentation
   - AI PPT
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # AI 簡報

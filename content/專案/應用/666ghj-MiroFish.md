@@ -1,5 +1,8 @@
 ---
+
+
 title: MiroFish
+slug: 666ghj-MiroFish
 date: 2026-05-25
 stars: 62147
 repo: 666ghj/MiroFish
@@ -10,6 +13,9 @@ topics:
   - world-model
   - simulation
   - financial-forecasting
+
+
+updated: TODO
 ---
 
 # MiroFish

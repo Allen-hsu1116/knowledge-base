@@ -1,5 +1,8 @@
 ---
+
+
 title: Pi Agent Harness
+slug: earendil-works-pi
 date: 2026-05-25
 stars: 53931
 repo: earendil-works/pi
@@ -9,6 +12,9 @@ topics:
   - Coding-Agent-CLI
   - agent-skills-ecosystem
   - coding-agent-toolkit
+
+
+updated: TODO
 ---
 
 # Pi Agent Harness

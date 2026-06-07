@@ -66,7 +66,7 @@ pages = loader.load()
 
 ### PyMuPDF4LLM vs MarkItDown
 
-| | **PyMuPDF4LLM** | **[[microsoft-markitdown\|MarkItDown]]** |
+| | **PyMuPDF4LLM** | **[[microsoft-markitdown|MarkItDown]]** |
 |---|---|---|
 | **定位** | PDF→LLM 友善格式，版面感知 | 任何格式→Markdown，輕量通用 |
 | **底層引擎** | MuPDF C 引擎（快） | 純 Python（輕量） |

@@ -1,6 +1,17 @@
 ---
+
+
+
 title: fireworks-tech-graph
+slug: fireworks-tech-graph
 created: 2026-05-09
+stars: '⭐5.7'
+
+
+
+updated: 2026-05-09
+language: zh-TW
+topics: []
 ---
 
 # fireworks-tech-graph

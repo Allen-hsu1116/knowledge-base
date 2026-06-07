@@ -58,7 +58,7 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 | 方案 | Stars | 類型 | Agent 整合 | 即時組合 | 多語言 SDK |
 |------|-------|------|-----------|---------|-----------|
 | **iii** | ⭐16.9k | 後端平台 | ✅ | ✅ | ✅ Node/Python/Rust |
-| [[n8n-mcp|n8n]] | ⭐70k+ | 工作流 | ✅ MCP | ❌ | ❌ |
+| [[czlonkowski-n8n-mcp|n8n]] | ⭐70k+ | 工作流 | ✅ MCP | ❌ | ❌ |
 | Temporal | ⭐12k+ | 工作流引擎 | ❌ | ❌ | ✅ |
 | Fly.io | — | 雲平台 | ❌ | ❌ | ✅ |
 

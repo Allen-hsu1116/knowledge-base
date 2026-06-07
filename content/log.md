@@ -1,10 +1,29 @@
 ---
+
 title: 整理記錄
+
+slug: log
+language: zh-TW
+topics: ["記錄", "日誌"]
 ---
 
 # 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
+
+## 2026-06-07
+
+### [2026-06-07] ingest | 批量新增 6 個 repo
+
+新增 repo：
+1. **Mininglamp-AI/Mano-P** ⭐2.3k — 開源 GUI-VLA 智能體，OSWorld #1 → wiki/Mininglamp-AI-Mano-P.md → projects.md「🤖 Agent 框架與工具」
+2. **linyqh/NarratoAI** ⭐9.7k — AI 影視解說+自動化剪輯工具 → wiki/linyqh-NarratoAI.md → projects.md「🎯 多媒體與爬蟲」
+3. **Shubhamsaboo/awesome-llm-apps** ⭐113.6k — 100+ 可直接運行的 LLM 應用模板 → wiki/Shubhamsaboo-awesome-llm-apps.md → projects.md「🤖 Agent 框架與工具」
+4. **feicaiclub/video-spec-builder** ⭐306 — 影片分鏡腳本 AI Skill → wiki/feicaiclub-video-spec-builder.md → projects.md「🎯 多媒體與爬蟲」
+5. **HKUDS/CLI-Anything** ⭐42.2k — 讓所有軟體 Agent 原生的 CLI 生成工具 → wiki/HKUDS-CLI-Anything.md → projects.md「🤖 Agent 框架與工具」（更新 stars）
+6. **harry0703/MoneyPrinterTurbo** ⭐80.7k — AI 短影片全自動生成 → wiki/harry0703-MoneyPrinterTurbo.md → projects.md「🎯 多媒體與爬蟲」（更新 stars）
+
+更新 backlinks：AI-Agent.md, projects.md, known-repos.json
 
 ## 2026-06-01
 
@@ -32,8 +51,8 @@ title: 整理記錄
 - **projects.md 日期排序**：修正基礎設施區塊中 `arthurpanhku-DocSentinel`（2026-05-29）和 `iii-hq-iii`（2026-05-28）的排序
 - **斷掉的 cross-links 修復**：
   - `[[擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
-  - `[[LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
-  - `[[n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
+  - `[[rasbt-LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
+  - `[[czlonkowski-n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
   - `[[raw/...]]` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
   - `[[CRM]]` `[[DNS]]` `[[NAS]]` — 拆掉非頁面 wikilink
   - `[[Vibe-Coding]]` → 純文字 "Vibe Coding"
@@ -400,7 +419,7 @@ title: 整理記錄
    - hermes-agent：— → ⭐141,768
    - daily-stock-analysis：⭐— → ⭐34,945
    - gemma4-mtp-drafters：標註為研究文章（非 GitHub 專案）
-4. **格式修復**：index.md 中 `[[sgl-project-sglang|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang\|SGLang]]`
+4. **格式修復**：index.md 中 `[[sgl-project-sglang|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang|SGLang]]`
 
 未修復（需人工確認）：
 1. **重複專案頁**：ppt-master.md vs hugohe3-ppt-master.md、waoowaoo.md vs saturndec-waoowaoo.md、daily-stock-analysis.md vs ZhuLinsen-daily_stock_analysis.md、rtk.md vs rtk-ai-rtk.md、opensandbox.md vs volcengine-OpenSandbox.md — 同一專案有兩頁（一頁是概念/概念頁，一頁是 9 區塊專案頁），建議合併

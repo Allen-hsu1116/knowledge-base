@@ -1,6 +1,17 @@
 ---
+
+
+
 title: n8n-MCP
+slug: czlonkowski-n8n-mcp
 date: 2026-05-16
+
+stars: '⭐21031'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # n8n-MCP

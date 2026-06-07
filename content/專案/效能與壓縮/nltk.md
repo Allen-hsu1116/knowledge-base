@@ -1,6 +1,17 @@
 ---
+
+
+
 title: NLTK
+slug: nltk
 created: 2026-05-16
+stars: ''  # TODO: add Stars count
+
+
+
+updated: 2026-05-16
+language: zh-TW
+topics: []
 ---
 
 # NLTK

@@ -1,5 +1,8 @@
 ---
+
+
 title: anthropics/knowledge-work-plugins
+slug: anthropics-knowledge-work-plugins
 url: https://github.com/anthropics/knowledge-work-plugins
 stars: 15460
 created: 2026-01-23
@@ -10,6 +13,9 @@ topics:
   - MCP
   - agent-skills-ecosystem
   - Prompt-Engineering
+
+
+updated: 2026-01-23
 ---
 
 # Knowledge Work Plugins — Claude 角色專用插件集

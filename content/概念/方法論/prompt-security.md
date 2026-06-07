@@ -5,7 +5,7 @@
 ## 快速導航
 
 - ⚡ [[AI-Agent]] · [[LLM]] · [[Prompt-Engineering]] · [[AI-Skills]]
-- 🛡️ **CL4R1T4S** → [[CL4R1T4S]]（越獄技術參考庫）
+- 🛡️ **CL4R1T4S** → [[cl4r1t4s]]（越獄技術參考庫）
 - 🧠 **AI Agent** → [[AI-Agent]]（Agent 安全是工作流的重要面向）
 - 📝 **Prompt Engineering** → [[Prompt-Engineering]]（安全設計是 Prompt 工程的一環）
 
@@ -115,7 +115,7 @@ CL4R1T4S（elder-plinius/CL4R1T4S，~2.8k stars）是 AI 安全研究專案：
 
 - [[affaan-m-everything-claude-code]] — 含 AgentShield 安全掃描功能
 - [[JuliusBrussee-caveman]] — Token 壓縮可能影響指令完整性
-- [[CL4R1T4S]] — AI 安全研究，越獄技術參考庫
+- [[cl4r1t4s]] — AI 安全研究，越獄技術參考庫
 
 ## 相關概念
 

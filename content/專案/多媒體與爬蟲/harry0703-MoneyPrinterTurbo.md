@@ -1,81 +1,87 @@
 ---
 title: MoneyPrinterTurbo
 slug: harry0703-MoneyPrinterTurbo
-created: 2024-03-11
-updated: 2026-05-28
-stars: 62027
+created: 2025-06-07
+updated: 2025-06-07
+stars: 80701
 language: Python
 topics:
-  - AI-video-generation
-  - generative-AI
+  - Video-Generation
+  - AI-Video
+  - Content-Automation
   - LLM
-  - content-automation
 ---
 
 # MoneyPrinterTurbo
 
-> ⭐62k · AI 驅動的全自動短影音生成器，輸入主題即可一鍵產出完整影片
+> ⭐80.7k · 只需提供影片主題或關鍵字，即可全自動生成影片文案、素材、字幕、背景音樂，合成高清短影片。
 
-快速導航：[[AI-video-generation|AI 影片生成]] · [[generative-AI|生成式 AI]] · [[LLM]] · [[content-automation|內容自動化]]
+## 快速導航
+
+- 🤖 [[AI-Agent]] — AI 自動化應用
+- 🎬 [[linyqh-NarratoAI]] — AI 影視解說+剪輯
+- 📋 [[feicaiclub-video-spec-builder]] — 影片分鏡腳本工具
+- ⚙️ [[workflow-automation]] — 工作流程自動化
 
 ## 是什麼
 
-MoneyPrinterTurbo 是一個基於 Python 的全自動短影音生成工具。使用者只需提供一個影片主題或關鍵詞，系統就會自動生成文案、搜尋素材、添加字幕和背景音樂，最終合成一條高清短影片。支援 9:16 豎屏和 16:9 橫屏兩種常見短影片格式。
+**MoneyPrinterTurbo** 是一款 AI 短影片全自動生成工具。只需提供一個影片主題或關鍵字，就能自動生成影片文案、從高清無版權素材庫匹配合適片段、生成字幕、配上背景音樂，最終合成高清短影片。
+
+支援 9:16 豎屏和 16:9 橫屏兩種格式，提供 Web UI 和 API 兩種操作方式。影片文案支援中文和英文，語音合成支援多種語音並可即時試聽。
 
 ## 核心特色
 
-- 🎬 **全自動流程**：從主題到成片，一鍵完成所有步驟
-- 🧠 **多模型支援**：OpenAI、DeepSeek、Moonshot、Gemini、Ollama 等 LLM 生成文案
-- 📐 **多尺寸輸出**：9:16 豎屏 / 16:9 橫屏任選
-- 🔊 **語音合成**：Edge TTS + Azure TTS，支援中英文語音
-- 📝 **字幕與配樂**：自動生成可自訂樣式的字幕，搭配背景音樂
-- 🖥️ **Web UI + API**：Streamlit 網頁介面 + FastAPI REST API，部署靈活
-- 📦 **批量生成**：支援一次生成多支影片
+- **🎯 一鍵全自動** — 主題/關鍵字 → 文案 → 素材 → 字幕 → 音樂 → 影片
+- **📐 多尺寸支援** — 豎屏 9:16 (1080×1920) 和橫屏 16:9 (1920×1080)
+- **📦 批量生成** — 一次生成多個影片，選最滿意的
+- **🎵 背景音樂** — 隨機或指定音樂，可調整音量
+- **🎬 字幕美化** — 字體、位置、顏色、大小、描邊全可調
+- **🤖 多模型支援** — OpenAI、DeepSeek、Ollama、通義千問、Gemini、文心一言等 10+ 種 LLM
+- **🖥️ Web UI + API** — 雙模式操作，MVC 架構代碼清晰
 
 ## 怎麼用
 
 ```bash
-# 安裝
-git clone https://github.com/harry0703/MoneyPrinterTurbo
+# 克隆專案
+git clone https://github.com/harry0703/MoneyPrinterTurbo.git
 cd MoneyPrinterTurbo
 
 # 安裝依賴
 pip install -r requirements.txt
 
-# 設定環境變數
-cp .env.example .env
-# 編輯 .env 填入 API Key（OpenAI / DeepSeek / Moonshot 等）
+# 複製設定檔
+cp config/config.example.toml config/config.toml
+# 編輯 config.toml 填入 API keys
 
 # 啟動 Web UI
-streamlit run webui/Main.py
+python webui.py
 
-# 或啟動 API 服務
+# 或使用 API 模式
 python main.py
 ```
 
-技術棧：Python、Streamlit（Web UI）、FastAPI（API）、ImageMagick（字幕渲染）、Whisper / Edge TTS（語音合成）、Pexels（素材來源）。
-
 ## 跟其他方案的關係
 
-| 方案 | Stars | 類型 | AI 影片 | 字幕生成 | 語音合成 | Web UI |
-|------|-------|------|---------|---------|---------|--------|
-| **MoneyPrinterTurbo** | ⭐62k | 全自動影片 | ✅ | ✅ | ✅ | ✅ |
-| 短影音剪輯軟體 | — | 手動剪輯 | ❌ | ❌ | ❌ | ✅ |
-| [[moeru-ai-airi|AIRI]] | ⭐39.7k | AI 虛擬角色 | ❌ | ❌ | ✅ | ✅ |
+| 專案 | 定位 | 自動文案 | 語音合成 | 字幕 | 批量 | 開源 |
+|------|------|---------|---------|------|------|------|
+| **MoneyPrinterTurbo** | 短影片全自動 | ✅ | ✅ 多語音 | ✅ | ✅ | ✅ MIT |
+| [[linyqh-NarratoAI\|NarratoAI]] | 影視解說+剪輯 | ✅ | ✅ 含克隆 | ✅ | ❌ | ✅ 非商用 |
+| [[feicaiclub-video-spec-builder\|video-spec-builder]] | 分鏡腳本 | ❌ | ❌ | ❌ | ❌ | ✅ MIT |
+| Pika/Sora | 影片生成模型 | ❌ | ❌ | ❌ | ❌ | ❌ 商業 |
 
-← [[AI-video-generation|AI 影片生成]] · [[generative-AI|生成式 AI]] · [[LLM]] · [[content-automation|內容自動化]]
+## 相關概念
+
+← [[AI-Agent]] · [[linyqh-NarratoAI]] · [[feicaiclub-video-spec-builder]] · [[workflow-automation]]
 
 ## 來源
 
-- GitHub: <https://github.com/harry0703/MoneyPrinterTurbo>
-- 原始 README: `raw/2026-05-28-harry0703-MoneyPrinterTurbo.md`
+> 完整 README 見 [[raw/2025-06-07-harry0703-MoneyPrinterTurbo|raw 檔案]]
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
-| Stars | ⭐62,027 |
-| License | — |
-| Language | Python |
-| 收錄日期 | 2026-05-28 |
+| 項目 | 資訊 |
+|------|------|
+| GitHub | https://github.com/harry0703/MoneyPrinterTurbo |
+| Stars | ⭐ 80,701 |
+| License | MIT License |
+| 收錄日期 | 2025-06-07 |

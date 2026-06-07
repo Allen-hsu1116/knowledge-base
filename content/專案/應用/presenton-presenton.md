@@ -1,5 +1,8 @@
 ---
+
+
 title: Presenton
+slug: presenton-presenton
 date: 2026-05-24
 stars: 6369
 repo: presenton/presenton
@@ -11,6 +14,9 @@ topics:
   - self-hosted-AI-platform
   - AI-presentation
   - pptx-generation
+
+
+updated: TODO
 ---
 
 # Presenton

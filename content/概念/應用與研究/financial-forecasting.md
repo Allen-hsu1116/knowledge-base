@@ -1,7 +1,15 @@
 ---
+
+
 title: 金融預測
+slug: financial-forecasting
 aliases:
   - Financial Forecasting
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # 金融預測

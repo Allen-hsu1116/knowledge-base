@@ -1,8 +1,16 @@
 ---
+
+
 title: 工作流自動化
+slug: workflow-automation
 aliases:
   - Workflow Automation
   - 工作流
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # 工作流自動化

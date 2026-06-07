@@ -1,6 +1,17 @@
 ---
+
+
+
 title: HiChunk
+slug: hichunk
 created: 2026-05-13
+stars: '⭐96'
+
+
+
+updated: 2026-05-13
+language: zh-TW
+topics: []
 ---
 
 # HiChunk

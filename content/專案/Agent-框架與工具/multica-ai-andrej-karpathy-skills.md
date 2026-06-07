@@ -1,5 +1,7 @@
 ---
+
 title: Karpathy CLAUDE.md 規則（4+8 條完整版）
+slug: multica-ai-andrej-karpathy-skills
 created: 2026-05-20
 updated: 2026-05-22
 stars: 141652
@@ -10,6 +12,7 @@ topics:
   - Prompt-Engineering
   - Coding-Agent-CLI
   - CLAUDE-md
+
 ---
 
 # Karpathy CLAUDE.md 規則（4+8 條完整版）

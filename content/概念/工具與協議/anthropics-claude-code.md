@@ -66,11 +66,11 @@ claude
 
 | 方案 | Stars | 類型 | 核心特色 | 平台 |
 |------|-------|------|----------|------|
-| **[[anthropics-claude-code\|Claude Code]]** | ⭐128k | Agentic CLI | 終端機原生、程式碼庫理解、Git 整合 | CLI, IDE, GitHub |
-| [[Alishahryar1-free-claude-code\|Free Claude Code]] | ⭐26k | 免費替代整理 | 免費 Coding Agent 資源彙整 | CLI |
-| [[affaan-m-everything-claude-code\|Everything Claude Code]] | ⭐172k | Skills 庫 | Claude Code 技能擴充大全 | CLI |
-| [[garrytan-gstack\|gstack]] | ⭐97k | Agent Skills | Agent 工作流程最佳化 | CLI |
-| [[open-webui-open-webui\|Open WebUI]] | ⭐100k+ | Web UI | 自架 LLM 介面、RAG 支援 | Web |
+| **[[anthropics-claude-code|Claude Code]]** | ⭐128k | Agentic CLI | 終端機原生、程式碼庫理解、Git 整合 | CLI, IDE, GitHub |
+| [[Alishahryar1-free-claude-code|Free Claude Code]] | ⭐26k | 免費替代整理 | 免費 Coding Agent 資源彙整 | CLI |
+| [[affaan-m-everything-claude-code|Everything Claude Code]] | ⭐172k | Skills 庫 | Claude Code 技能擴充大全 | CLI |
+| [[garrytan-gstack|gstack]] | ⭐97k | Agent Skills | Agent 工作流程最佳化 | CLI |
+| [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | Web UI | 自架 LLM 介面、RAG 支援 | Web |
 
 Claude Code 與 [[Coding-Agent-CLI|Coding Agent CLI]] 概念密切相關，是目前市場上最成熟的 agentic coding 工具之一。它與 [[MCP]] 協議整合，可以連接外部工具和資料來源。[[affaan-m-everything-claude-code|Everything Claude Code]] 是圍繞它建立的最大社群 Skills 庫。
 

@@ -82,7 +82,7 @@ lit batch-parse ./input-directory ./output-directory
 
 | 方案 | Stars | 語言 | 核心差異 | 本地運行 |
 |------|-------|------|----------|----------|
-| **[[run-llama-liteparse\|LiteParse]]** | ⭐7.3k | Rust | 快速基礎解析，bounding box，多語言綁定 | ✅ |
+| **[[run-llama-liteparse|LiteParse]]** | ⭐7.3k | Rust | 快速基礎解析，bounding box，多語言綁定 | ✅ |
 | [[docling|Docling]] | ⭐59k | Python | IBM 出品，深度結構化，複雜版面 | ✅ |
 | [[microsoft-markitdown|MarkItDown]] | ⭐121k | Python | 微軟出品，轉 Markdown 為主 | ✅ |
 | LlamaParse | ⭐— | SaaS | 雲端服務，支援複雜表格、手寫、掃描件 | ❌ |

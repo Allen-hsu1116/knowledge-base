@@ -1,5 +1,8 @@
 ---
+
+
 title: Build Your Own X
+slug: codecrafters-io-build-your-own-x
 date: 2026-05-25
 stars: 504263
 repo: codecrafters-io/build-your-own-x
@@ -9,6 +12,9 @@ topics:
   - LLM
   - AI-Tutoring
   - coding-agent-toolkit
+
+
+updated: TODO
 ---
 
 # Build Your Own X

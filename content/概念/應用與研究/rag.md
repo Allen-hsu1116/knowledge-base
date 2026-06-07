@@ -100,8 +100,8 @@ docker compose -f docker/docker-compose.yml up -d
 | 專案 | 說明 | Stars |
 |------|------|-------|
 | 👉 [[ragflow]] | 開源 RAG 引擎，深度文件理解 + 接地引用 | ⭐79k |
-| 👉 [[qmd\|QMD]] | 本地優先混合搜尋引擎，BM25+向量+LLM重排序 | ⭐24.9k |
-| 👉 [[llama-index\|LlamaIndex]] | LLM 資料框架，RAG 管線+文件解析+Agent | ⭐49.4k |
+| 👉 [[qmd|QMD]] | 本地優先混合搜尋引擎，BM25+向量+LLM重排序 | ⭐24.9k |
+| 👉 [[llama-index|LlamaIndex]] | LLM 資料框架，RAG 管線+文件解析+Agent | ⭐49.4k |
 | 👉 [[LeDat98-NexusRAG]] | 混合式 RAG 系統，向量+知識圖譜+重排序 | ⭐297 |
 | 👉 [[flamehaven01-Flamehaven-Filesearch]] | 自架式 RAG 搜尋引擎，BM25+混合搜尋 | ⭐100 |
 
