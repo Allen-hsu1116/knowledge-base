@@ -126,6 +126,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS | 2026-06-07 |
 | [[NVIDIA-cosmos|NVIDIA Cosmos]] | ⭐9.4k | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
 | [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8.4k | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |

@@ -79,6 +79,7 @@ title: 知識庫總覽
 | [[web-crawling\|Web Crawling]] | 系統化瀏覽和收集網頁資料，是搜尋引擎和資料收集的基礎技術。（詳見 [[網頁爬蟲]]） |
 | [[web-scraping\|網頁爬取]] | 從網頁自動提取結構化資料，補充 API 不足的資料來源。 |
 | [[語音辨識]] | ASR/TTS 技術和模型，語音轉文字與文字轉語音的 AI 應用。 |
+| [[microsoft-VibeVoice\|VibeVoice]] | 微軟開源前沿語音 AI 家族：60 分鐘長語音辨識 ASR + 90 分鐘多語者 TTS + 即時串流語音合成。 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | 無 tokenizer 的多語言 TTS 系統，支援語音設計、可控克隆與 48kHz 高品質音訊輸出。 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | OpenMOSS 開源語音合成模型家族，涵蓋長語音、對話、語音設計、音效和即時串流五大場景。 |
 | [[AI-presentation\|AI 簡報]] | 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。 |
