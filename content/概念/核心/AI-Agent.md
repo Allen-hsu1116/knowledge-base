@@ -188,7 +188,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 相關概念
 
-← [[MCP]] · [[AI-Skills]] · [[Context-Database]] · [[llm-knowledge-base]] · [[agent-persona]] · [[agent-skills-ecosystem]] · [[open-webui-open-webui]] · [[walkinglabs-learn-harness-engineering]] · [[Donchitos-Claude-Code-Game-Studios]] · [[teng-lin-notebooklm-py]] · [[1weiho-open-slide|open-slide]] · [[google-cloud-ai-agent-trends-2026]] · [[nvidia-locate-anything|LocateAnything]] · [[HKUDS-CLI-Anything]] · [[harry0703-MoneyPrinterTurbo]]
+← [[MCP]] · [[AI-Skills]] · [[Context-Database]] · [[llm-knowledge-base]] · [[agent-persona]] · [[agent-skills-ecosystem]] · [[open-webui-open-webui]] · [[walkinglabs-learn-harness-engineering]] · [[Donchitos-Claude-Code-Game-Studios]] · [[teng-lin-notebooklm-py]] · [[1weiho-open-slide|open-slide]] · [[google-cloud-ai-agent-trends-2026]] · [[nvidia-locate-anything|LocateAnything]] · [[HKUDS-CLI-Anything]] · [[harry0703-MoneyPrinterTurbo]] · [[Leonxlnx-taste-skill|Taste Skill]]
 
 ## 相關影片
 

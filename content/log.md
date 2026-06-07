@@ -981,3 +981,16 @@ known-repos.json: +4 repos, +4 concepts (VTuber, OSINT-graph-investigation, cont
   - backlinks: AI-Agent.md
 
 known-repos.json: +1 repo, +9 concepts (Presentation, Agent-Native, Agentic-AI, Agent-Workflow, Enterprise-AI, Vision-Language-Model, Parallel-Box-Decoding, Visual-Grounding, NVIDIA-Research)
+
+---
+
+## 2026-06-07 — taste-skill 更新
+
+- **leonxlnx/taste-skill** (⭐36,016, +16,299 ⬆️) — Anti-Slop Frontend Framework for AI Agents
+  - 已有 wiki 頁面從 v1 更新到 v2：brief inference、design-system map、GSAP code skeletons、redesign-audit protocol
+  - raw: `raw/2026-06-07-Leonxlnx-taste-skill.md`
+  - wiki: `wiki/Leonxlnx-taste-skill.md`
+  - projects.md: stars 更新 19,717 → 36,016
+  - 新增概念: Frontend
+
+known-repos.json: 214 repos, 224 concepts
