@@ -243,6 +243,12 @@ topics: ["專案", "索引"]
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+| [[anthropics-skills\|Anthropic Skills]] | ⭐147.9k | AI Skills, Frontend Design, Web Testing | 2026-06-08 |
+| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | ⭐88.8k | AI Skills, Frontend Design, UI/UX | 2026-06-08 |
+| [[openai-skills\|OpenAI Skills]] | ⭐21.7k | AI Skills, Figma, Design System | 2026-06-08 |
+| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | ⭐27.7k | AI Skills, Web Design, Accessibility | 2026-06-08 |
+| [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]] | ⭐2k | AI Skills, Design System, UI/UX | 2026-06-08 |
+| [[expo-skills\|Expo Skills]] | ⭐2k | AI Skills, Mobile, React Native | 2026-06-08 |
 
 ## 🏗 基礎設施
 

@@ -43,6 +43,8 @@ topics: ["知識庫", "總覽"]
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
 | [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為介面的 AI 程式開發助手，整合多模型、MCP、Skills 和 Agent Routing。 |
 | [[coding-agent-toolkit\|Coding Agent 工具包]] | 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。 |
+| [[Figma-Skills\|Figma Skills]] | AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。 |
+| [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | 前端設計 Agent Skill 總覽：Anthropic frontend-design、Vercel web-design-guidelines、SoftaWorks design-system-starter、Anthropic webapp-testing。 |
 
 ### 🛠 方法論
 
@@ -69,7 +71,7 @@ topics: ["知識庫", "總覽"]
 | [[EveryInc-compound-engineering-plugin\|複利工程]] | 每次工程工作讓下一次更容易，非累積債務。80% 規劃審查 + 20% 執行的 Agent 工作流。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
-| [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作。 |
+| [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
 | [[computer-use-agent\|Computer Use Agent]] | 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。 |
 | [[agent-trading\|Agent 交易]] | AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。 |
 

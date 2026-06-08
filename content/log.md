@@ -1,3 +1,26 @@
+## 2026-06-08（批次更新：AI Agent Skills 系列）
+
+### 更新
+- **anthropics-skills** — 加入 frontend-design 和 webapp-testing Skill 詳解（⭐ 147,937）
+- **vercel-labs-agent-skills** — 加入 web-design-guidelines Skill 詳解（⭐ 27,725）
+- **softaworks-agent-toolkit** — 加入 design-system-starter Skill 詳解（⭐ 1,979）
+- **openai-skills** — 加入 4 個 Figma Skill 詳解：figma、figma-use、figma-generate-design、figma-implement-design（⭐ 21,702）
+- **nextlevelbuilder-ui-ux-pro-max-skill** — 更新 stars、加入 v2.0 內容（⭐ 88,842）
+- **expo-skills** — 更新 README 內容和安裝說明（⭐ 2,038）
+
+### 新增概念頁
+- **Frontend-Design-Agent-Skills** — 前端設計 Agent Skill 總覽（Anthropic、Vercel、SoftaWorks 四大 Skill）
+- **Figma-Skills** — 已有頁面（OpenAI Figma 系列 4 個 Skill）
+
+### 來源
+- https://github.com/anthropics/skills (frontend-design, webapp-testing)
+- https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- https://github.com/vercel-labs/agent-skills (web-design-guidelines)
+- https://mcpservers.org/agent-skills/anthropic/webapp-testing
+- https://github.com/softaworks/agent-toolkit (design-system-starter)
+- https://github.com/openai/skills (figma, figma-use, figma-generate-design, figma-implement-design)
+- https://github.com/expo/skills
+
 ---
 
 title: 整理記錄
