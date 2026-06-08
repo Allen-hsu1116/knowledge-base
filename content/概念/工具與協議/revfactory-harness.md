@@ -77,10 +77,10 @@ thumbnail concepts.
 | 方案 | Stars | 類型 | 核心理念 | 層級 |
 |------|-------|------|----------|------|
 | **Harness** | ⭐3.9k | 團隊架構工廠 | 領域描述 → 6 種團隊模式選擇 → 生成 agent + skill | L3 Meta-Factory |
-| [[EveryInc-compound-engineering-plugin|Compound Engineering]] | ⭐17.8k | 工程流程插件 | 複利：每次工作讓下一次更容易 | L2 Skill |
-| [[affaan-m-ECC|ECC]] | ⭐189k | Harness 優化系統 | 跨工具的 skills、記憶、安全、持續學習 | L2 Cross-Harness |
+| [[EveryInc-compound-engineering-plugin\|Compound Engineering]] | ⭐17.8k | 工程流程插件 | 複利：每次工作讓下一次更容易 | L2 Skill |
+| [[affaan-m-ECC\|ECC]] | ⭐189k | Harness 優化系統 | 跨工具的 skills、記憶、安全、持續學習 | L2 Cross-Harness |
 | Archon | — | Runtime 配置工廠 | 確定性、可重複的 runtime 配置 | L3 Meta-Factory |
-| [[obra-superpowers|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | L2 Skill |
+| [[obra-superpowers\|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | L2 Skill |
 
 ← [[AI-Agent]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[harness-engineering|Harness Engineering 駕馭工程]]
 

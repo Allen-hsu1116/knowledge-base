@@ -62,8 +62,8 @@ claude mcp add drawio -- npx @next-ai-drawio/mcp-server@latest
 | 方案 | Stars | 類型 | AI 建圖 | MCP 支援 | 雲架構圖 |
 |------|-------|------|---------|---------|---------|
 | **Next AI Draw.io** | ⭐30.3k | 網頁應用 | ✅ | ✅ | ✅ |
-| [[presenton-presenton|Presenton]] | ⭐6.4k | PPT 生成 | ✅ | ❌ | ❌ |
-| [[hugohe3-ppt-master|PPT Master]] | ⭐11.3k | PPT 生成 | ✅ | ❌ | ❌ |
+| [[presenton-presenton\|Presenton]] | ⭐6.4k | PPT 生成 | ✅ | ❌ | ❌ |
+| [[hugohe3-ppt-master\|PPT Master]] | ⭐11.3k | PPT 生成 | ✅ | ❌ | ❌ |
 | Mermaid.js | — | 文字轉圖 | ❌ | ❌ | ❌ |
 
 ## 相關概念

@@ -64,7 +64,7 @@ curl http://localhost:8080/status
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[qmd|QMD]] | 本地混合搜尋引擎 | QMD 側重 CLI 個人知識庫，Filesearch 側重企業文件搜尋 |
+| [[qmd\|QMD]] | 本地混合搜尋引擎 | QMD 側重 CLI 個人知識庫，Filesearch 側重企業文件搜尋 |
 | [[ragflow]] | 開源 RAG 引擎 | 同為 RAG 引擎，ragflow 功能更完整、社群更大 |
 | [[LeDat98-NexusRAG]] | 混合式 RAG | NexusRAG 側重知識圖譜，Filesearch 側重文件格式支援 |
 | [[microsoft-markitdown]] | 文件轉 Markdown | MarkItDown 只做轉換，Filesearch 做完整搜尋管線 |

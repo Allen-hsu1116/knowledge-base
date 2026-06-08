@@ -91,9 +91,9 @@ CL4R1T4S 是由 elder-plinius（Pliny the Prompter）維護的 AI 安全研究�
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[prompt-security|Prompt 安全]] | 防禦方法 | CL4R1T4S 是攻擊參考，Prompt 安全是防禦方法 |
+| [[prompt-security\|Prompt 安全]] | 防禦方法 | CL4R1T4S 是攻擊參考，Prompt 安全是防禦方法 |
 | [[affaan-m-everything-claude-code]] | Claude Code 資源大全 | 包含 Prompt 安全相關資源 |
-| [[ai-agent-interaction|AI Agent 互動]] | Agent 互動安全 | 越獄風險在 Agent 場景更高 |
+| [[ai-agent-interaction\|AI Agent 互動]] | Agent 互動安全 | 越獄風險在 Agent 場景更高 |
 
 ## 相關概念
 

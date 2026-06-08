@@ -52,7 +52,7 @@ jupyter notebook
 | 資源 | 風格 | 深度 | 語言 |
 |------|------|------|------|
 | **nn-zero-to-hero** | 影片+notebook，手作 | 從 backprop 到 GPT | Python |
-| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
+| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
 | [[andrej-karpathy-ai-how]] | 影片 | AI 入門概覽 | 多語言 |
 | [[minimind]] | 程式碼為主 | 極簡 LLM 實作 | Python |
 

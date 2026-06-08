@@ -62,7 +62,7 @@ npx twenty app:publish
 | **Twenty** | ⭐46.9k | CRM | ✅ | ✅ | ✅ TypeScript | ✅ |
 | Salesforce | — | CRM | ❌ | ✅ | ❌ | ❌ |
 | HubSpot | — | CRM | ❌ | ✅ | ❌ | ❌ |
-| [[frappe-erpnext|ERPNext]] | ⭐20k+ | ERP/CRM | ✅ | ❌ | ❌ Python | ✅ |
+| [[frappe-erpnext\|ERPNext]] | ⭐20k+ | ERP/CRM | ✅ | ❌ | ❌ Python | ✅ |
 
 ## 相關概念
 

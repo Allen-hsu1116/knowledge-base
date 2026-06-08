@@ -64,7 +64,7 @@ Read https://ai4trade.ai/skill/ai4trade and register on the platform.
 |------|------|------|
 | [[HKUDS-Vibe-Trading]] | 完整交易 Agent | AI-Trader 偏平台，Vibe-Trading 偏 Agent |
 | [[HKUDS-nanobot]] | HKUDS 系列 | 同一實驗室作品，延續「極致精簡但功能完整」風格 |
-| [[ZhuLinsen-daily_stock_analysis|daily_stock_analysis]] | 決策儀表盤 | AI-Trader 偏交易平台，daily_stock_analysis 偏分析儀表盤 |
+| [[ZhuLinsen-daily_stock_analysis\|daily_stock_analysis]] | 決策儀表盤 | AI-Trader 偏交易平台，daily_stock_analysis 偏分析儀表盤 |
 | [[virattt-dexter]] | AI 金融研究 Agent | Dexter 偏研究分析，AI-Trader 偏交易平台 |
 | QuantConnect | 量化交易平台 | QuantConnect 偏傳統量化，AI-Trader 偏 Agent 原生交易 |
 

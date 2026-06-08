@@ -78,10 +78,10 @@ codex
 | 方案 | Stars | 類型 | 核心理念 | 平台支援 |
 |------|-------|------|----------|----------|
 | **Compound Engineering** | ⭐17.8k | 工程流程插件 | 複利：每次工作讓下一次更容易 | Claude Code, Codex, Cursor, Copilot, Droid |
-| [[affaan-m-ECC|ECC]] | ⭐189k | Harness 優化系統 | 跨工具的 skills、記憶、安全、持續學習 | Claude Code 為主 |
-| [[revfactory-harness|Harness]] | ⭐3.9k | Agent 團隊架構 | 6 種團隊模式自動產生 agent + skill | Claude Code |
-| [[github-spec-kit|Spec Kit]] | ⭐98k | 規格驅動開發 | 從 spec 到自動化驗證 | Claude Code, Codex, Cursor |
-| [[obra-superpowers|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | 多平台 |
+| [[affaan-m-ECC\|ECC]] | ⭐189k | Harness 優化系統 | 跨工具的 skills、記憶、安全、持續學習 | Claude Code 為主 |
+| [[revfactory-harness\|Harness]] | ⭐3.9k | Agent 團隊架構 | 6 種團隊模式自動產生 agent + skill | Claude Code |
+| [[github-spec-kit\|Spec Kit]] | ⭐98k | 規格驅動開發 | 從 spec 到自動化驗證 | Claude Code, Codex, Cursor |
+| [[obra-superpowers\|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | 多平台 |
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
 

@@ -72,7 +72,7 @@ eli5 on
 | Google Search | — | 傳統搜尋 | 1 個 | ❌ 編輯/PageRank | ❌ | 無原生 |
 | ChatGPT Search | — | AI 搜尋 | 1 個 | ❌ | ❌ | ChatGPT only |
 | Tavily | ⭐— | Agent 搜尋 API | 1 個 | ❌ | ❌ | API only |
-| [[upstash-context7|Context7]] | ⭐55k | LLM 文件查詢 | 文件為主 | ❌ | ❌ | MCP |
+| [[upstash-context7\|Context7]] | ⭐55k | LLM 文件查詢 | 文件為主 | ❌ | ❌ | MCP |
 
 last30days 的差異化在於「群眾評分 + 跨平台搜尋 + Agent 原生整合」三合一。其他方案只看 SEO 或單一來源，last30days 用 real people 的 real engagement 當排序依據。
 

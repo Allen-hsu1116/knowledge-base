@@ -87,8 +87,8 @@ wav = model.generate(
 | 方案 | Stars | 語言數 | 語音設計 | 克隆 | 音質 | 開源授權 |
 |------|-------|--------|----------|------|------|----------|
 | **VoxCPM2** | ⭐22.8k | 30 | ✅ 自然語言描述 | ✅ 可控 + 終極 | 48kHz | Apache-2.0 |
-| [[OpenMOSS-MOSS-TTS|MOSS-TTS]] | ⭐2.2k | 1+ | ✅ | ✅ | 多種 | Apache-2.0 |
-| [[supertone-inc-supertonic|Supertonic]] | ⭐6k | 多語言 | ❌ | ❌ | 可變 | 商用 |
+| [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | 1+ | ✅ | ✅ | 多種 | Apache-2.0 |
+| [[supertone-inc-supertonic\|Supertonic]] | ⭐6k | 多語言 | ❌ | ❌ | 可變 | 商用 |
 | XTTS (Coqui) | ⭐13k+ | 17 | ❌ | ✅ | 24kHz | MPL-2.0 |
 | Bark (Suno) | ⭐38k+ | 多語言 | ✅ | ❌ | 24kHz | MIT |
 

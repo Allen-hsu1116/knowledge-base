@@ -68,9 +68,9 @@ v1.0.0 有 breaking changes，建議重新部署而非原地升級。
 | 方案 | Stars | 類型 | 核心特色 | 離線 |
 |------|-------|------|----------|------|
 | **Open-LLM-VTuber** | ⭐8.4k | AI 陪伴 + Live2D | 語音互動 + 虛擬形象 | ✅ |
-| [[moeru-ai-airi|AIRI]] | ⭐39.7k | AI Agent + 自架平台 | Computer-Use Agent | ✅ |
-| [[Ollama|Ollama]] | ⭐171k | LLM 本地部署 | 模型管理和推論 | ✅ |
-| [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | LLM Web UI | RAG + 多模型管理 | ✅ |
+| [[moeru-ai-airi\|AIRI]] | ⭐39.7k | AI Agent + 自架平台 | Computer-Use Agent | ✅ |
+| [[Ollama\|Ollama]] | ⭐171k | LLM 本地部署 | 模型管理和推論 | ✅ |
+| [[open-webui-open-webui\|Open WebUI]] | ⭐100k+ | LLM Web UI | RAG + 多模型管理 | ✅ |
 
 ← [[語音辨識]] · [[self-hosted-AI-platform]] · [[Ollama]]
 

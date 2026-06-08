@@ -62,7 +62,7 @@ brew install --cask jellyfin
 | **Jellyfin** | ⭐52.4k | 媒體伺服器 | ✅ GPL-2.0 | ✅ | ✅ |
 | Plex | — | 媒體伺服器 | ❌ 部分開源 | ✅ | 部分 |
 | Emby | — | 媒體伺服器 | ❌ | ✅ | 部分 |
-| [[paperless-ngx-paperless-ngx|Paperless-ngx]] | ⭐41.3k | 文件管理 | ✅ | ✅ | ✅ |
+| [[paperless-ngx-paperless-ngx\|Paperless-ngx]] | ⭐41.3k | 文件管理 | ✅ | ✅ | ✅ |
 
 ← [[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · NAS
 

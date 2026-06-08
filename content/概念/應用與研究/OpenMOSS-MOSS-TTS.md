@@ -86,8 +86,8 @@ audio.save("output.wav")
 | 方案 | Stars | 類型 | 特色1 | 特色2 |
 |------|-------|------|-------|-------|
 | **MOSS-TTS** | ⭐2.2k | 開源 TTS 模型家族 | 5 個子模型涵蓋全場景 | 31 語言 + 語音克隆 |
-| [[Whisper|Whisper]] | ⭐99.2k | 語音辨識 | ASR 聽寫轉文字 | 多語言辨識 |
-| [[supertone-inc-supertonic|Supertonic]] | ⭐6k | 邊緣裝置 TTS | 裝置端語音合成 | 低延遲 |
+| [[Whisper\|Whisper]] | ⭐99.2k | 語音辨識 | ASR 聽寫轉文字 | 多語言辨識 |
+| [[supertone-inc-supertonic\|Supertonic]] | ⭐6k | 邊緣裝置 TTS | 裝置端語音合成 | 低延遲 |
 | ChatTTS | ⭐30k+ | 開源 TTS | 對話語音合成 | 中英文 |
 | Fish Speech | ⭐15k+ | 開源 TTS | 多語言語音克隆 | 串流推論 |
 

@@ -58,9 +58,9 @@ python main.py --stocks 600519,hk00700,AAPL
 | 專案 | Stars | 定位 | 選股篩選 | AI 輔助 | 生態整合 |
 |------|-------|------|---------|---------|---------|
 | **AlphaSift** | ⭐38.1k* | 多因子選股引擎 | ✅ | ✅ | ✅ DSA 生態系 |
-| [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] | ⭐38.1k | AI 股市分析儀表盤 | ✅ | ✅ | — |
-| [[ZhuLinsen-alphaevo|AlphaEvo]] | ⭐38.1k* | 策略回測引擎 | ❌ | ✅ | ✅ DSA 生態系 |
-| [[Open-Dev-Society-OpenStock|OpenStock]] | ⭐12.1k | 股市追蹤平台 | ❌ | ❌ | ❌ |
+| [[ZhuLinsen-daily_stock_analysis\|Daily Stock Analysis]] | ⭐38.1k | AI 股市分析儀表盤 | ✅ | ✅ | — |
+| [[ZhuLinsen-alphaevo\|AlphaEvo]] | ⭐38.1k* | 策略回測引擎 | ❌ | ✅ | ✅ DSA 生態系 |
+| [[Open-Dev-Society-OpenStock\|OpenStock]] | ⭐12.1k | 股市追蹤平台 | ❌ | ❌ | ❌ |
 
 > *Stars 數為 Daily Stock Analysis 主專案數據
 

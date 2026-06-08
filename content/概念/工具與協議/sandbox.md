@@ -120,9 +120,9 @@ curl -sL https://github.com/tencentcloud/CubeSandbox/raw/master/deploy/one-click
 
 | 專案 | 特色 | 隔離方式 |
 |------|------|----------|
-| [[opensandbox|OpenSandbox (阿里巴巴)]] | 多語言 SDK + Docker/K8s runtime | Docker, gVisor, Kata, Firecracker |
-| [[cubesandbox|CubeSandbox]] | Rust 實現，<60ms 冷啟動，<5MB 記憶體 | KVM MicroVM + eBPF 網路隔離 |
-| [[trycua-cua|CUA]] | 跨平台桌面沙箱 + macOS 驅動 | 虛擬化桌面環境 |
+| [[opensandbox\|OpenSandbox (阿里巴巴)]] | 多語言 SDK + Docker/K8s runtime | Docker, gVisor, Kata, Firecracker |
+| [[cubesandbox\|CubeSandbox]] | Rust 實現，<60ms 冷啟動，<5MB 記憶體 | KVM MicroVM + eBPF 網路隔離 |
+| [[trycua-cua\|CUA]] | 跨平台桌面沙箱 + macOS 驅動 | 虛擬化桌面環境 |
 | E2B | 雲端沙箱服務 | Firecracker microVM |
 | Modal | Serverless Python 沙箱 | 容器 |
 

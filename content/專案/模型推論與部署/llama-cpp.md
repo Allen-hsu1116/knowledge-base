@@ -55,10 +55,10 @@ llama.cpp 是本地 LLM 推理的基礎設施。它的價值在於讓任何人�
 |------|------|---------|------|
 | [[Ollama]] | 本地推理工具 | 消費級 | Ollama 底層使用 llama.cpp，提供更好的使用者體驗 |
 | [[vLLM]] | 高吞吐服務引擎 | 資料中心 GPU | llama.cpp 重 CPU 本地，vLLM 重 GPU 生產 |
-| [[sgl-project-sglang|SGLang]] | 服務框架 | 資料中心 GPU | SGLang 偏服務化部署，llama.cpp 偏本地推理 |
+| [[sgl-project-sglang\|SGLang]] | 服務框架 | 資料中心 GPU | SGLang 偏服務化部署，llama.cpp 偏本地推理 |
 | [[huggingface-transformers]] | 模型框架 | 通用 | llama.cpp 支援 HuggingFace 模型轉換為 GGUF |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA GPU 推論加速 | NVIDIA 資料中心 | TensorRT-LLM 在 NVIDIA 上更快，llama.cpp 更通用 |
-| [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可統一管理 llama.cpp 等本地模型 |
+| [[litellm\|LiteLLM]] | API Gateway | 通用 | LiteLLM 可統一管理 llama.cpp 等本地模型 |
 
 ## 相關概念
 ← [[llm-internals]] · [[LLM]] · [[Token-Optimization]]

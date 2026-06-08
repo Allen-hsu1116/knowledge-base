@@ -50,7 +50,7 @@ cd English-level-up-tips
 | 方案 | Stars | 類型 | AI 輔助 | 雙語支援 | 涵蓋範圍 |
 |------|-------|------|---------|---------|---------|
 | **English Level Up Tips** | ⭐46.7k | 電子書指南 | ✅ | ✅ | 聽說讀寫 |
-| [[Understand-Anything|Understand Anything]] | ⭐6.6k | 學習方法論 | ✅ | ❌ | 通用學習 |
+| [[Understand-Anything\|Understand Anything]] | ⭐6.6k | 學習方法論 | ✅ | ❌ | 通用學習 |
 | 傳統英語教材 | — | 書籍/課程 | ❌ | ❌ | 單一技能 |
 
 ← [[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education|自學資源]] · [[LLM]]

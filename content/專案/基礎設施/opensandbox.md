@@ -79,7 +79,7 @@ Agent 整合：支援 Claude Code、Gemini CLI、Codex CLI、Qwen Code、Kimi CL
 
 ## 跟其他方案的關係
 
-| 特色 | OpenSandbox | [[cubesandbox|E2B]] | Docker 直接跑 | Modal |
+| 特色 | OpenSandbox | [[cubesandbox\|E2B]] | Docker 直接跑 | Modal |
 |------|-------------|---------------------|--------------|-------|
 | 隔離層級 | gVisor / Kata / Firecracker | Firecracker microVM | cgroups + namespace | gVisor |
 | 多語言 SDK | 5 種 | Python / JS | — | Python |

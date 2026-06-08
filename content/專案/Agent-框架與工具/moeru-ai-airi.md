@@ -55,7 +55,7 @@ pnpm dev
 |------|-------|------|---------|---------|------|------|
 | **AIRI** | ⭐39.7k | AI 虛擬角色 | ✅ | ✅ | ✅ | ✅ |
 | Neuro-sama | — | AI 虛擬角色 | ✅ | ✅ | ❌ | ❌ |
-| [[open-webui-open-webui|Open WebUI]] | ⭐80k+ | LLM 介面 | ✅ | ❌ | ✅ | ✅ |
+| [[open-webui-open-webui\|Open WebUI]] | ⭐80k+ | LLM 介面 | ✅ | ❌ | ✅ | ✅ |
 | Character.AI | — | AI 角色聊天 | ✅ | ❌ | ❌ | ❌ |
 
 ← [[AI-Agent]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[computer-use-agent|電腦使用代理]] · [[generative-AI|生成式 AI]]

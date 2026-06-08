@@ -69,7 +69,7 @@ python -m vllm serve nvidia/Cosmos3-Nano --task generate
 | 方案 | Stars | 類型 | 世界理解 | 世界生成 | 動作建模 | 多模態 |
 |------|-------|------|---------|---------|---------|--------|
 | **NVIDIA Cosmos** | ⭐9.4k | 世界模型平台 | ✅ Reasoner | ✅ Generator | ✅ 多種動作空間 | 文字/影像/影片/聲音/動作 |
-| [[NVlabs-Sana|Sana]] | ⭐6.4k | 擴散模型 | ❌ | ✅ 圖片生成 | ❌ | 文字→圖片 |
+| [[NVlabs-Sana\|Sana]] | ⭐6.4k | 擴散模型 | ❌ | ✅ 圖片生成 | ❌ | 文字→圖片 |
 | GPT-4V | — | VLM | ✅ | ❌ | ❌ | 文字/影像 |
 | Sora | — | 影片生成 | ❌ | ✅ 影片 | ❌ | 文字/影像→影片 |
 | Genie 2 (DeepMind) | — | 世界模型 | ❌ | ✅ 互動環境 | ✅ 遊戲場景 | 文字/影像→互動 |

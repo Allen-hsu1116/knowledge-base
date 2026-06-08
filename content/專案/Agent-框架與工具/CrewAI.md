@@ -66,7 +66,7 @@ result = crew.kickoff(inputs={"topic": "AI Agents"})
 | [[LangChain]] | LLM 應用框架 | 單/多 | Chain/Agent 編排 | ✅ |
 | [[AutoGPT]] | 自主 Agent | 單 | 自主規劃 | ✅ 向量DB |
 | [[AI-Agent]] | 概念頁 | — | — | — |
-| [[openclaw|OpenClaw]] | 個人助手 | 單+子Agent | Cron + Skills | ✅ MEMORY.md |
+| [[openclaw\|OpenClaw]] | 個人助手 | 單+子Agent | Cron + Skills | ✅ MEMORY.md |
 
 CrewAI 之後，Agent 框架從「讓 LLM 自己跑」演進到「讓多個 LLM 角色分工合作」——如 CrewAI 的角色分工、Flows 的流程控制。
 

@@ -56,7 +56,7 @@ npm run dev
 | 方案 | Stars | 類型 | 即時數據 | 開源 | 警報系統 |
 |------|-------|------|---------|------|---------|
 | **OpenStock** | ⭐12.1k | 股市平台 | ✅ | ✅ | ✅ |
-| [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] | ⭐38.1k | AI 股市分析 | ✅ | ✅ | ✅ |
+| [[ZhuLinsen-daily_stock_analysis\|Daily Stock Analysis]] | ⭐38.1k | AI 股市分析 | ✅ | ✅ | ✅ |
 | Bloomberg Terminal | — | 金融終端 | ✅ | ❌ | ✅ |
 | TradingView | — | 圖表平台 | ✅ | ❌ | ✅ |
 

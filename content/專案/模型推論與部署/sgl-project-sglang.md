@@ -52,10 +52,10 @@ python -m sglang.launch_server.run_server \
 |------|------|---------|---------|
 | [[vLLM]] | 推論引擎 | NVIDIA/AMD GPU | PagedAttention、成熟生態 |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | NVIDIA GPU | NVIDIA 上最快 |
-| [[llama-cpp|llama.cpp]] | 本地推論 | CPU/GPU | 輕量、消費級硬體 |
+| [[llama-cpp\|llama.cpp]] | 本地推論 | CPU/GPU | 輕量、消費級硬體 |
 | [[Ollama]] | 本地部署 | CPU/GPU | 個人使用簡單 |
-| [[huggingface-transformers|Transformers]] | 模型框架 | 通用 | 模型定義樞紐 |
-| [[litellm|LiteLLM]] | API Gateway | 通用 | 可作為 SGLang 前面的統一 API 層 |
+| [[huggingface-transformers\|Transformers]] | 模型框架 | 通用 | 模型定義樞紐 |
+| [[litellm\|LiteLLM]] | API Gateway | 通用 | 可作為 SGLang 前面的統一 API 層 |
 
 SGLang 和 vLLM 是直接競品。SGLang 的 RadixAttention 在有多個請求共享前綴的場景（如 multi-turn conversation、few-shot prompting）下效能更優。vLLM 的 PagedAttention 在記憶體管理上更通用。TensorRT-LLM 在 NVIDIA GPU 上更快但限定硬體。
 

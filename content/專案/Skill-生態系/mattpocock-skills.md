@@ -62,11 +62,11 @@ npx skills@latest add mattpocock/skills
 
 | 方案 | 定位 | 與 Matt Pocock Skills 的關係 |
 |------|------|------------------------------|
-| [[github-spec-kit|Spec Kit]] | Spec 驅動開發 | Spec Kit 控制流程，Matt Pocock Skills 保留控制權、更小更可組合 |
-| [[obra-superpowers|Superpowers]] | 通用 Skills 庫 | Superpowers 偏全流程，Matt Pocock 偏工程實踐和除錯 |
-| [[addyosmani-agent-skills|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 偏全流程開發，Matt Pocock 強調對齊和架構 |
+| [[github-spec-kit\|Spec Kit]] | Spec 驅動開發 | Spec Kit 控制流程，Matt Pocock Skills 保留控制權、更小更可組合 |
+| [[obra-superpowers\|Superpowers]] | 通用 Skills 庫 | Superpowers 偏全流程，Matt Pocock 偏工程實踐和除錯 |
+| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 偏全流程開發，Matt Pocock 強調對齊和架構 |
 | [[AI-Skills]] | 概念層 | Matt Pocock Skills 是 AI Skills 格式的最佳實踐案例 |
-| [[codeburn|CodeBurn]] | 程式碼優化 | CodeBurn 偏效能優化，Matt Pocock 偏架構和流程 |
+| [[codeburn\|CodeBurn]] | 程式碼優化 | CodeBurn 偏效能優化，Matt Pocock 偏架構和流程 |
 
 ## 相關概念
 

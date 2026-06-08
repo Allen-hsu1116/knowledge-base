@@ -64,7 +64,7 @@ MCP Server 使用（讓 Agent 生成簡報）：
 
 ## 跟其他方案的關係
 
-| 特色 | Presenton | [[ppt-master|PPT Master]] | Gamma | Beautiful AI |
+| 特色 | Presenton | [[ppt-master\|PPT Master]] | Gamma | Beautiful AI |
 |------|-----------|-------------------------|--------|-------------|
 | 輸出格式 | PPTX + Web | 原生 PPTX（DrawingML） | Web 為主 | Web 為主 |
 | 可編輯性 | ✅ 可編輯 | ✅ 完全可編輯 | ⚠️ 有限 | ⚠️ 有限 |

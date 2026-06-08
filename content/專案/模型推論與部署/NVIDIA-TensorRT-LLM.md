@@ -54,11 +54,11 @@ python -m tensorrt_llm.entrypoints.openai.api_server --engine_dir ./engine
 | 專案 | 定位 | 硬體支援 | 特色 |
 |------|------|---------|------|
 | [[vLLM]] | 通用推論引擎 | 多廠牌 GPU | vLLM 更通用跨硬體，TensorRT-LLM 在 NVIDIA 上更快 |
-| [[sgl-project-sglang|SGLang]] | 推論引擎 | NVIDIA/AMD/TPU | SGLang 的 RadixAttention 是獨特優勢 |
-| [[llama-cpp|llama.cpp]] | 本地推論引擎 | CPU/GPU | llama.cpp 偏消費級硬體，TensorRT-LLM 偏資料中心 |
+| [[sgl-project-sglang\|SGLang]] | 推論引擎 | NVIDIA/AMD/TPU | SGLang 的 RadixAttention 是獨特優勢 |
+| [[llama-cpp\|llama.cpp]] | 本地推論引擎 | CPU/GPU | llama.cpp 偏消費級硬體，TensorRT-LLM 偏資料中心 |
 | [[Ollama]] | 本地部署 | CPU/GPU | Ollama 底層可用 llama.cpp，TensorRT-LLM 適合大規模部署 |
-| [[huggingface-transformers|Transformers]] | 模型框架 | 通用 | TensorRT-LLM 可從 HuggingFace 模型定義轉換 |
-| [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
+| [[huggingface-transformers\|Transformers]] | 模型框架 | 通用 | TensorRT-LLM 可從 HuggingFace 模型定義轉換 |
+| [[litellm\|LiteLLM]] | API Gateway | 通用 | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
 
 ## 相關概念
 ← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]

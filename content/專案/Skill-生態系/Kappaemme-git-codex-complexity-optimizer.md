@@ -72,10 +72,10 @@ Use $complexity-optimizer to analyze src/utils/ and identify O(n²) loops.
 
 | 方案 | 定位 | 與此專案的關係 |
 |------|------|--------------|
-| [[codeburn|CodeBurn]] | 程式碼優化 Skill | CodeBurn 偏 AI 輔助程式碼優化，此專案偏演算法複雜度分析 |
-| [[mattpocock-skills|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 的 `/improve-codebase-architecture` 偏架構層面，此專案偏演算法層面 |
+| [[codeburn\|CodeBurn]] | 程式碼優化 Skill | CodeBurn 偏 AI 輔助程式碼優化，此專案偏演算法複雜度分析 |
+| [[mattpocock-skills\|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 的 `/improve-codebase-architecture` 偏架構層面，此專案偏演算法層面 |
 | [[AI-Skills]] | 概念層 | Codex Complexity Optimizer 是 AI Skills 格式的一個實作 |
-| [[rtk-ai-rtk|RTK]] | Token 優化 | RTK 優化 token 消耗，此專案優化程式碼複雜度，互補關係 |
+| [[rtk-ai-rtk\|RTK]] | Token 優化 | RTK 優化 token 消耗，此專案優化程式碼複雜度，互補關係 |
 
 ## 相關概念
 

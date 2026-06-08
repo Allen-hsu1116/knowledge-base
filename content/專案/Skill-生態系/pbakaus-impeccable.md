@@ -68,10 +68,10 @@ npx skills add pbakaus/impeccable
 | 方案 | 類型 | 反模式檢查 | 指令數 | 跨平台 | 適合場景 |
 |------|------|-----------|--------|--------|---------|
 | **Impeccable** | 設計 Skill | ✅ 27+12 | 23 | ✅ 多工具 | 前端設計品質提升 |
-| [[open-design|Open Design]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 基本設計引導 |
-| [[Leonxlnx-taste-skill|Taste Skill]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 前端品味引導 |
+| [[open-design\|Open Design]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 基本設計引導 |
+| [[Leonxlnx-taste-skill\|Taste Skill]] | 設計 Skill | ❌ | 少 | 限 Claude Code | 前端品味引導 |
 | Anthropic frontend-design | 原始 Skill | ❌ | 少 | 限 Claude Code | 基礎設計規範 |
-| [[hardikpandya-stop-slop|stop-slop]] | 寫作品質 | ❌ | 少 | 通用 | AI 寫作去模板化 |
+| [[hardikpandya-stop-slop\|stop-slop]] | 寫作品質 | ❌ | 少 | 通用 | AI 寫作去模板化 |
 
 ← [[open-design|Open Design]] · [[AI-Skills|AI Skills]] 相關概念
 

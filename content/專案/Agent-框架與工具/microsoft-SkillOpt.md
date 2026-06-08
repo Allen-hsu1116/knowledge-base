@@ -67,8 +67,8 @@ pip install -e ".[webui]" && python -m skillopt_webui.app
 |------|-------|------|---------|------|---------|
 | **SkillOpt** | ⭐1.4k | 文字空間優化器 | Skill 文件 | best_skill.md | Validation gate |
 | [[CLAUDE-md]] | — | 規範文件 | AGENTS.md | CLAUDE.md | 無 |
-| [[openclaw|OpenClaw]] | — | Skill 庫 | Skill 定義 | SKILL.md | 無 |
-| [[obra-superpowers|Superpowers]] | ⭐189.5k | Skill 庫 | 方法論 | 技能文件 | 無 |
+| [[openclaw\|OpenClaw]] | — | Skill 庫 | Skill 定義 | SKILL.md | 無 |
+| [[obra-superpowers\|Superpowers]] | ⭐189.5k | Skill 庫 | 方法論 | 技能文件 | 無 |
 | [[affaan-m-everything-claude-code]] | ⭐172k | Skill/規則 | Prompt | 規則集 | 社群驗證 |
 
 ## 相關概念

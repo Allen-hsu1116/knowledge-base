@@ -91,10 +91,10 @@ sdk = CopilotKitSDK(
 | 方案 | Stars | 類型 | Generative UI | 多平台 | Agent 協議 | Human-in-Loop |
 |------|-------|------|--------------|--------|-----------|---------------|
 | **CopilotKit** | ⭐32.7k | Agent 前端框架 | ✅ 三種模式 | React/Angular/Vue/RN/Slack/Teams | ✅ AG-UI Protocol | ✅ |
-| [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | LLM 聊天介面 | ❌ | Web | ❌ | ❌ |
+| [[open-webui-open-webui\|Open WebUI]] | ⭐100k+ | LLM 聊天介面 | ❌ | Web | ❌ | ❌ |
 | [[LangChain]] | ⭐136.8k | Agent 編排框架 | ❌ | Python/JS | ❌ | ✅ |
-| [[anthropics-claude-code|Claude Code]] | ⭐128k | Coding Agent CLI | ❌ | CLI | ❌ | ✅ |
-| [[github-copilot-sdk|GitHub Copilot SDK]] | ⭐9.2k | Agent SDK | ❌ | Python/TS/Go/.NET/Java/Rust | ✅ Copilot CLI | ✅ |
+| [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent CLI | ❌ | CLI | ❌ | ✅ |
+| [[github-copilot-sdk\|GitHub Copilot SDK]] | ⭐9.2k | Agent SDK | ❌ | Python/TS/Go/.NET/Java/Rust | ✅ Copilot CLI | ✅ |
 
 CopilotKit 的差異化在於它是唯一把「Agent 和 UI 的互動」標準化的框架——AG-UI Protocol 讓 Agent 推送的不只是文字，而是完整的 UI 事件流；而 Generative UI 讓 Agent 能動態渲染元件，這是其他 Agent 框架（如 LangChain、CrewAI）在前端層做不到的。
 

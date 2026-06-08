@@ -69,10 +69,10 @@ cd ch04
 | 專案 | 定位 | 學習方式 | 適合對象 |
 |------|------|---------|---------|
 | LLMs from Scratch | 從零實作教學 | 逐章 PyTorch | 想理解 LLM 內部運作的人 |
-| [[minimind|MiniMind]] | 從零訓練實作 | 64M 參數完整訓練流程 | 想走完整訓練流程的人 |
+| [[minimind\|MiniMind]] | 從零訓練實作 | 64M 參數完整訓練流程 | 想走完整訓練流程的人 |
 | [[LLM]] | LLM 概念 | 概念頁 | 入門概覽 |
 | [[llm-internals]] | LLM 內部機制 | 進階概念 | 想深入內部機制的人 |
-| [[huggingface-transformers|Transformers]] | 模型框架 | 用高階 API | 想快速用模型的人 |
+| [[huggingface-transformers\|Transformers]] | 模型框架 | 用高階 API | 想快速用模型的人 |
 
 LLMs from Scratch 偏理論教學，MiniMind 偏實作流程，兩者互補。讀完本書後，可以過渡到 [[huggingface-transformers|Transformers]] 等框架的實際應用。
 

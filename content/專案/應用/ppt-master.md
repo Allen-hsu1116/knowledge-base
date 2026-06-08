@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ## 跟其他方案的關係
 
-| 特色 | PPT Master | [[presenton-presenton|Presenton]] | Gamma | Beautiful AI |
+| 特色 | PPT Master | [[presenton-presenton\|Presenton]] | Gamma | Beautiful AI |
 |------|-----------|----------------------------------|-------|-------------|
 | 輸出格式 | 原生 PPTX（DrawingML） | PPTX + Web | Web 為主 | Web 為主 |
 | 可編輯性 | ✅ 完全可編輯 | ✅ 可編輯 | ⚠️ 有限 | ⚠️ 有限 |

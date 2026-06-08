@@ -72,9 +72,9 @@ ECC 的 skills 目錄包含 232+ 個可攜式技能定義，每個都是 markdow
 | 方案 | 定位 | Skills/Agents | 安全掃描 | 持續學習 | Harness 支援 | 授權 |
 |------|------|-------------|----------|---------|-------------|------|
 | **ECC** | Harness 優化系統 | 232+ skills / 60+ agents | ✅ AgentShield | ✅ 自動提取 | 7+ | MIT |
-| [[msitarzewski-agency-agents|Agency Agents]] | Agent 人格集 | 144+ agents | ❌ | ❌ | 10+ | MIT |
-| [[anthropics-knowledge-work-plugins|Knowledge Work Plugins]] | 企業角色插件 | 11 plugins | ❌ | ❌ | Claude Cowork/Code | Apache-2.0 |
-| [[Leonxlnx-taste-skill|Taste Skill]] | 前端風格 skill | 多種風格變體 | ❌ | ❌ | 多工具 | MIT |
+| [[msitarzewski-agency-agents\|Agency Agents]] | Agent 人格集 | 144+ agents | ❌ | ❌ | 10+ | MIT |
+| [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | 企業角色插件 | 11 plugins | ❌ | ❌ | Claude Cowork/Code | Apache-2.0 |
+| [[Leonxlnx-taste-skill\|Taste Skill]] | 前端風格 skill | 多種風格變體 | ❌ | ❌ | 多工具 | MIT |
 
 - ECC 側重 **harness 效能最佳化與安全防禦**，Agency Agents 側重 **豐富角色人格**
 - ECC 的 AgentShield 是 [[prompt-security]] 領域的實際應用——掃描攻擊向量、沙箱化、sanitization、CVE 防禦

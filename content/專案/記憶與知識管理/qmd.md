@@ -67,10 +67,10 @@ qmd mcp --http --daemon    # HTTP 模式（共用常駐）
 | 專案 | 類型 | 搜尋方式 | 本地/雲端 | 重排序 | Stars |
 |------|------|----------|----------|--------|-------|
 | **QMD** | CLI 搜尋引擎 | BM25 + 向量 + LLM | 本地 | ✅ LLM reranker | ⭐24.9k |
-| [[ragflow|RAGFlow]] | RAG 引擎 | 混合 | 自架 | ✅ | ⭐79.7k |
-| [[cocoindex|CocoIndex]] | 增量索引 | 向量 | 自架 | ❌ | ⭐8.1k |
-| [[flamehaven01-Flamehaven-Filesearch|Flamehaven]] | 自架搜尋引擎 | 向量 | 自架 | ❌ | ⭐100 |
-| [[upstash-context7|Context7]] | LLM 文件查詢 | 向量 | 雲端 | ❌ | ⭐54.8k |
+| [[ragflow\|RAGFlow]] | RAG 引擎 | 混合 | 自架 | ✅ | ⭐79.7k |
+| [[cocoindex\|CocoIndex]] | 增量索引 | 向量 | 自架 | ❌ | ⭐8.1k |
+| [[flamehaven01-Flamehaven-Filesearch\|Flamehaven]] | 自架搜尋引擎 | 向量 | 自架 | ❌ | ⭐100 |
+| [[upstash-context7\|Context7]] | LLM 文件查詢 | 向量 | 雲端 | ❌ | ⭐54.8k |
 
 QMD 的定位是**個人/小型團隊的本地搜尋引擎**，跟 RAGFlow（大型 RAG 平台）、CocoIndex（增量索引管線）互補。QMD 強調的是「開箱即用」——一條指令就能建立索引和搜尋，不需要架設服務。
 

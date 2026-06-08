@@ -60,7 +60,7 @@ docker compose exec webserver createsuperuser
 | **Paperless-ngx** | ⭐41.3k | 文件管理 | ✅ | ✅ | ✅ | ✅ |
 | Paperless (原版) | ⭐7k+ | 文件管理 | ✅ | ✅ | ✅ | ✅ |
 | Mayan EDMS | ⭐3k+ | 文件管理 | ✅ | ✅ | ✅ | ✅ |
-| [[jellyfin-jellyfin|Jellyfin]] | ⭐52.4k | 媒體管理 | ❌ | ✅ | ✅ | ✅ |
+| [[jellyfin-jellyfin\|Jellyfin]] | ⭐52.4k | 媒體管理 | ❌ | ✅ | ✅ | ✅ |
 
 ← [[document-parsing|文件解析]] · [[ocr-memory|文字辨識]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[self-hosted|自架服務]]
 

@@ -60,7 +60,7 @@ app = graph.compile()
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[llama-index|LlamaIndex]] | 資料/RAG 框架 | LangChain 偏工具串接和 Agent 編排，LlamaIndex 偏資料層 |
+| [[llama-index\|LlamaIndex]] | 資料/RAG 框架 | LangChain 偏工具串接和 Agent 編排，LlamaIndex 偏資料層 |
 | [[CrewAI]] | 多 Agent 協作 | CrewAI 完全獨立於 LangChain，專注角色分工 |
 | [[AutoGPT]] | 自主 Agent | LangChain 更偏工具串接，AutoGPT 更偏自主規劃 |
 | [[litellm]] | LLM Gateway | LangChain 可用 LiteLLM 統一呼叫多模型 |

@@ -65,8 +65,8 @@ result = rag.query("什麼是 Flash Attention？")
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[ragflow]] | 開源 RAG 引擎 | 同為 RAG 引擎，ragflow 側重端到端管線 |
-| [[qmd|QMD]] | 本地混合搜尋引擎 | QMD 側重本地 CLI 搜尋，NexusRAG 側重知識圖譜 |
-| [[llama-index|LlamaIndex]] | LLM 資料框架 | LlamaIndex 是框架層，NexusRAG 是應用層 |
+| [[qmd\|QMD]] | 本地混合搜尋引擎 | QMD 側重本地 CLI 搜尋，NexusRAG 側重知識圖譜 |
+| [[llama-index\|LlamaIndex]] | LLM 資料框架 | LlamaIndex 是框架層，NexusRAG 是應用層 |
 | [[safishamsi-graphify]] | 知識圖譜 MCP | graphify 側重建圖，NexusRAG 側重檢索 |
 | [[self-rag]] | 自我反思 RAG | Self-RAG 側重生成品質審查，NexusRAG 側重檢索品質 |
 

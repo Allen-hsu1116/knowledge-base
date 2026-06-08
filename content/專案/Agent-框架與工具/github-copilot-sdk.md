@@ -95,10 +95,10 @@ console.log(response.text);
 | 方案 | Stars | 類型 | 語言支援 | BYOK | 自定義 Agent | MCP |
 |------|-------|------|---------|------|-------------|-----|
 | **GitHub Copilot SDK** | ⭐9.2k | Agent SDK | TS/Python/Go/.NET/Rust/Java | ✅ | ✅ | ✅ |
-| [[CopilotKit-CopilotKit|CopilotKit]] | ⭐32.7k | Agent 前端框架 | React/Angular/Vue/RN | ✅ | ✅ | ✅ AG-UI |
-| [[anthropics-claude-code|Claude Code]] | ⭐128k | Coding Agent CLI | CLI | ❌ | ✅ | ✅ |
+| [[CopilotKit-CopilotKit\|CopilotKit]] | ⭐32.7k | Agent 前端框架 | React/Angular/Vue/RN | ✅ | ✅ | ✅ AG-UI |
+| [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent CLI | CLI | ❌ | ✅ | ✅ |
 | [[LangChain]] | ⭐136.8k | Agent 編排框架 | Python/JS | ✅ | ✅ | ❌ |
-| [[czlonkowski-n8n-mcp|n8n MCP]] | ⭐20.9k | 工作流自動化 | GUI + API | ✅ | ✅ | ✅ |
+| [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20.9k | 工作流自動化 | GUI + API | ✅ | ✅ | ✅ |
 
 GitHub Copilot SDK 的差異化在於它是唯一一個把 Copilot CLI 的生產級 Agent 引擎用 6 種語言程式化暴露的 SDK——其他 Agent 框架要嘛只做前端 UI（CopilotKit）、要嘛只做編排邏輯（LangChain），而 Copilot SDK 是把「已經在幾十萬開發者手中驗證過的 Agent runtime」直接給你呼叫。
 

@@ -42,8 +42,8 @@ LLM 的核心能力包括：文字生成（寫作、翻譯、摘要、程式碼�
 |------|----------|------|
 | 本地開發 | [[Ollama]] | 一鍵運行，模型庫豐富 |
 | 高吞吐服務 | [[vLLM]] | PagedAttention、Continuous Batching |
-| 本地低資源 | [[llama-cpp|llama.cpp]] | C/C++，消費級硬體可跑 |
-| 企業部署 | [[sgl-project-sglang|SGLang]] | RadixAttention 前綴快取 |
+| 本地低資源 | [[llama-cpp\|llama.cpp]] | C/C++，消費級硬體可跑 |
+| 企業部署 | [[sgl-project-sglang\|SGLang]] | RadixAttention 前綴快取 |
 | GPU 深度最佳化 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 官方，最高吞吐 |
 | 多 Provider 統一 API | [[litellm]] | 100+ Provider 統一介面 |
 

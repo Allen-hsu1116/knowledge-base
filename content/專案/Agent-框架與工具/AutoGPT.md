@@ -55,7 +55,7 @@ docker compose run autogpt
 | AutoGPT | 自主 Agent | 單 | 自主規劃 | 向量DB | 先驅者，自主性最強 |
 | [[LangChain]] | LLM 應用框架 | 單/多 | Chain 編排 | 多種 | AutoGPT 更強調自主，LangChain 更強調串接 |
 | [[CrewAI]] | 多 Agent 協作 | 多 | 角色分工 | ✅ | AutoGPT 單 Agent 自主，CrewAI 多 Agent 協作 |
-| [[openclaw|OpenClaw]] | 個人助手 | 單+子Agent | SKILL.md | MEMORY.md | 更偏日常助手場景 |
+| [[openclaw\|OpenClaw]] | 個人助手 | 單+子Agent | SKILL.md | MEMORY.md | 更偏日常助手場景 |
 | [[AI-Agent]] | 概念頁 | — | — | — | AutoGPT 是 Agent 自主規劃的代表實作 |
 
 AutoGPT 之後，Agent 框架從「讓 LLM 自己跑」演進到「讓 LLM 在架構內跑」——如 CrewAI 的角色分工、LangChain 的 Chain 編排、OpenClaw 的 SKILL 定義。AutoGPT 的貢獻在於證明了 LLM 可以不只是對話工具，而是能自主完成複雜任務的系統。

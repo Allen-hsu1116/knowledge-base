@@ -104,11 +104,11 @@ ollama run llama3:8b
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[supertone-inc-supertonic|Supertonic]] | 裝置端 TTS | 典型的邊緣裝置 AI 應用——ONNX Runtime 本機推論 |
+| [[supertone-inc-supertonic\|Supertonic]] | 裝置端 TTS | 典型的邊緣裝置 AI 應用——ONNX Runtime 本機推論 |
 | [[Ollama]] | 本地 LLM 部署 | 邊緣裝置 AI 在 LLM 領域的實踐 |
-| [[llama-cpp|llama.cpp]] | 消費級硬體 LLM 推論 | 讓大型模型在邊緣裝置上可運行的關鍵技術 |
+| [[llama-cpp\|llama.cpp]] | 消費級硬體 LLM 推論 | 讓大型模型在邊緣裝置上可運行的關鍵技術 |
 | [[NVIDIA-TensorRT-LLM]] | GPU 推論加速 | 推論框架層的加速技術 |
-| [[ruvnet-RuView|RuView]] | 邊緣裝置電腦視覺 | ESP32-S3 上的 AI 推理應用 |
+| [[ruvnet-RuView\|RuView]] | 邊緣裝置電腦視覺 | ESP32-S3 上的 AI 推理應用 |
 
 ## 相關概念
 

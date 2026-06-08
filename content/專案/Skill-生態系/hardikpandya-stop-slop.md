@@ -62,7 +62,7 @@ cd stop-slop
 |------|-------|------|---------|-----------|------------|
 | **Stop Slop** | ⭐5.7k | Claude Skill | ✅ 5維度 | ✅ | ✅ |
 | 通用 writing prompt | — | Prompt 模板 | ❌ | ❌ | ✅ |
-| [[anthropics-claude-cookbooks|Claude Cookbooks]] | ⭐44k | 範例集 | ❌ | ❌ | ❌ |
+| [[anthropics-claude-cookbooks\|Claude Cookbooks]] | ⭐44k | 範例集 | ❌ | ❌ | ❌ |
 
 ← [[Prompt-Engineering]] · [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[LLM]]
 

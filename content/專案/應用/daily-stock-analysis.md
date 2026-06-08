@@ -70,7 +70,7 @@ python main.py --webui             # 啟動 Web 介面
 |------|------|------|------|------|------|------|
 | **[[ZhuLinsen-daily_stock_analysis]]** | 決策儀表盤 | A+港+美 | 15 種 | ✅ | 6 渠道 | GitHub Actions |
 | **[[HKUDS-AI-Trader]]** | AI 交易平台 | 多市場 | 策略框架 | ✅ | 有限 | 自架 |
-| **[[virattt-dexter|Dexter]]** | 深度研究 | 美股 SEC | ❌ | ❌ | ❌ | 本地 |
+| **[[virattt-dexter\|Dexter]]** | 深度研究 | 美股 SEC | ❌ | ❌ | ❌ | 本地 |
 
 - daily-stock-analysis 是 [[AI-Agent]] 在金融分析領域的概念框架
 - 其策略引擎是 [[Prompt-Engineering]] 結構化 prompt 的實踐——每個策略 = 一個精心設計的 prompt

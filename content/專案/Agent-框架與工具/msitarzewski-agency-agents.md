@@ -59,8 +59,8 @@ python convert.py --tool cursor --agent frontend-developer
 | 方案 | 定位 | agent 數量 | 工具支援 | 授權 |
 |------|------|-----------|---------|------|
 | **Agency Agents** | 完整 AI Agency 人格集 | 144+ | 10+ 工具 | MIT |
-| [[affaan-m-ECC|ECC]] | Harness 優化系統 | 60+ | 7+ harness | MIT |
-| [[anthropics-knowledge-work-plugins|Knowledge Work Plugins]] | 知識工作者角色插件 | 11 | Claude Cowork/Code | Apache-2.0 |
+| [[affaan-m-ECC\|ECC]] | Harness 優化系統 | 60+ | 7+ harness | MIT |
+| [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | 知識工作者角色插件 | 11 | Claude Cowork/Code | Apache-2.0 |
 | 單一工具內建 agent | 工具附帶角色 | 5-10 | 單一工具 | 各異 |
 
 - Agency Agents 側重**豐富的角色人格與跨工具相容**，[[affaan-m-ECC|ECC]] 側重 **harness 效能優化與運作機制**

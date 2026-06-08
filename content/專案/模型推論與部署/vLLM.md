@@ -53,11 +53,11 @@ vllm serve meta-llama/Meta-Llama-3-8B --enable-prefix-caching
 | 專案 | 定位 | 硬體需求 | 獨特優勢 |
 |------|------|---------|---------|
 | [[Ollama]] | 本地推理 | 消費級 | Ollama 適合個人/原型 |
-| [[llama-cpp|llama.cpp]] | 推論引擎 | CPU/GPU | llama.cpp 重 CPU 本地推理 |
-| [[sgl-project-sglang|SGLang]] | 服務框架 | 資料中心 | SGLang 有 RadixAttention 前綴快取 |
+| [[llama-cpp\|llama.cpp]] | 推論引擎 | CPU/GPU | llama.cpp 重 CPU 本地推理 |
+| [[sgl-project-sglang\|SGLang]] | 服務框架 | 資料中心 | SGLang 有 RadixAttention 前綴快取 |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | NVIDIA 資料中心 | TensorRT-LLM 在 NVIDIA 上更快 |
-| [[huggingface-transformers|Transformers]] | 模型框架 | 通用 | vLLM 使用 Transformers 模型定義 |
-| [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可作為 vLLM 前面的 Gateway |
+| [[huggingface-transformers\|Transformers]] | 模型框架 | 通用 | vLLM 使用 Transformers 模型定義 |
+| [[litellm\|LiteLLM]] | API Gateway | 通用 | LiteLLM 可作為 vLLM 前面的 Gateway |
 | [[llm-internals]] | 概念頁 | — | PagedAttention 是 KV Cache 管理的突破 |
 
 ## 相關概念

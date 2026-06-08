@@ -84,8 +84,8 @@ python main.py --webui          # 啟動 Web 工作台
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[ZhuLinsen-alphasift|AlphaSift]] | 多因子選股與全市場掃描 | daily_stock_analysis 做分析，AlphaSift 做選股 |
-| [[ZhuLinsen-alphaevo|AlphaEvo]] | 策略回測與自我進化 | daily_stock_analysis 做訊號，AlphaEvo 做驗證 |
+| [[ZhuLinsen-alphasift\|AlphaSift]] | 多因子選股與全市場掃描 | daily_stock_analysis 做分析，AlphaSift 做選股 |
+| [[ZhuLinsen-alphaevo\|AlphaEvo]] | 策略回測與自我進化 | daily_stock_analysis 做訊號，AlphaEvo 做驗證 |
 | [[HKUDS-AI-Trader]] | AI 交易平台 | daily_stock_analysis 偏分析儀表盤，AI-Trader 偏交易平台 |
 | [[HKUDS-Vibe-Trading]] | 完整交易 Agent | Vibe-Trading 偏 Agent 自主交易 |
 

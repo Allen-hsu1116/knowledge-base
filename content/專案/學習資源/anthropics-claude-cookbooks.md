@@ -59,7 +59,7 @@ jupyter notebook
 | 方案 | Stars | 類型 | Tool Use | 多模態 | 子代理 | 官方 |
 |------|-------|------|---------|--------|--------|------|
 | **Claude Cookbooks** | ⭐44k | 實戰範例集 | ✅ | ✅ | ✅ | ✅ Anthropic |
-| [[hardikpandya-stop-slop|Stop Slop]] | ⭐5.7k | Claude Skill | ❌ | ❌ | ❌ | ❌ |
+| [[hardikpandya-stop-slop\|Stop Slop]] | ⭐5.7k | Claude Skill | ❌ | ❌ | ❌ | ❌ |
 | OpenAI Cookbooks | ⭐60k+ | 實戰範例集 | ✅ | ✅ | ✅ | ✅ OpenAI |
 | LangChain Docs | — | 框架文件 | ✅ | ✅ | ✅ | ❌ |
 
