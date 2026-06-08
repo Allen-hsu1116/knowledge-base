@@ -146,7 +146,7 @@ Karpathy 的 AutoResearch 專案將 program.md 視為超輕量 Skill：人類寫
 
 ## 相關概念
 
-← [[AI-Skills]] · [[AI-Agent]] · [[agent-persona]] · [[MCP]] · [[Prompt-Engineering]] · [[openclaw]] · [[microsoft-SkillOpt|SkillOpt]]
+← [[AI-Skills]] · [[AI-Agent]] · [[agent-persona]] · [[MCP]] · [[Prompt-Engineering]] · [[openclaw]] · [[microsoft-SkillOpt|SkillOpt]] · [[nexu-io-open-design]]
 
 ## 相關影片
 

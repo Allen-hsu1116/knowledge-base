@@ -162,7 +162,7 @@ topics:
 
 ## 相關概念
 
-← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[Design-System]] · [[Figma-Agent-Skills]] · [[Web-Testing]]
+← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[Design-System]] · [[Figma-Agent-Skills]] · [[Web-Testing]] · [[nexu-io-open-design]]
 
 ## 來源
 
