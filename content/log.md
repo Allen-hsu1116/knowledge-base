@@ -1,3 +1,21 @@
+## 2026-06-09（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **aaif-goose-goose** — Goose 開源通用 AI Agent，桌面 + CLI + API（⭐ 48,112）
+- **luongnv89-claude-howto** — Claude Code 視覺化學習指南，10 模組（⭐ 35,777）
+- **danielmiessler-Personal_AI_Infrastructure** — Personal AI Infrastructure Life OS（⭐ 15,425）
+- **refactoringhq-tolaria** — Tolaria Markdown 知識庫管理桌面應用（⭐ 13,580）
+
+### 分類
+- 🤖 Agent 框架與工具：Goose、Personal AI Infrastructure
+- 📖 學習資源：Claude HowTo
+- 🧠 記憶與知識管理：Tolaria
+
+### 來源
+- GitHub Trending + Topic 搜尋（llm, ai-agent, mcp, etc.）
+
+---
+
 ## 2026-06-08（批次更新：AI Agent Skills 系列）
 
 ### 更新

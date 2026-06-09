@@ -17,6 +17,8 @@ topics: ["專案", "索引"]
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[aaif-goose-goose\|Goose]] | ⭐48k | AI Agent, MCP, ACP, 通用 Agent, Rust | 2026-06-09 |
+| [[danielmiessler-Personal_AI_Infrastructure\|Personal AI Infrastructure]] | ⭐15k | Life OS, Ideal State, Context Scaffolding, 記憶 | 2026-06-09 |
 | [[CopilotKit-CopilotKit\|CopilotKit]] | ⭐32.7k | AI Agent, Generative UI, AG-UI Protocol, React | 2026-06-06 |
 | [[github-copilot-sdk\|GitHub Copilot SDK]] | ⭐9.2k | AI Agent, Agent SDK, MCP, BYOK | 2026-06-06 |
 | [[1weiho-open-slide\|open-slide]] | ⭐4,744 | AI Agent, Presentation, Agent-Native, React | 2026-06-05 |
@@ -79,6 +81,7 @@ topics: ["專案", "索引"]
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[refactoringhq-tolaria\|Tolaria]] | ⭐14k | Markdown 知識庫, Git-first, AI Agent 整合, 桌面應用 | 2026-06-09 |
 | [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | ⭐80k | OCR, 文件解析, LLM-Ready, RAG | 2026-06-05 |
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | ⭐23,272 | 文件解析, PDF, OCR, RAG, Bounding Box, 無障礙 | 2026-06-04 |
 | [[supermemoryai-supermemory\|Supermemory]] | ⭐23,342 | AI 記憶引擎, 使用者畫像, RAG, MCP | 2026-06-01 |
@@ -169,6 +172,7 @@ topics: ["專案", "索引"]
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[luongnv89-claude-howto\|Claude HowTo]] | ⭐36k | Claude Code, 學習指南, Slash Commands, Skills, Hooks | 2026-06-09 |
 | [[google-cloud-ai-agent-trends-2026\|Google AI Agent Trends 2026]] | —（研究報告） | Agentic AI, AI Agent, Agent Workflow, Enterprise AI | 2026-06-05 |
 | [[lfnovo-open-notebook\|Open Notebook]] | ⭐25k | NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast | 2026-06-05 |
 | [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | ⭐6,376 | RAG, Agentic RAG, OpenSearch, FastAPI, 課程 | 2026-06-03 |

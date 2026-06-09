@@ -39,6 +39,7 @@ topics: ["知識庫", "總覽"]
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
 | [[mvanhorn-last30days-skill\|last30days]] | AI Agent 社群搜尋引擎：14 個平台平行搜尋，用 upvote/like/真金評分，智能預研究 + 聚簇合併。 |
+| [[aaif-goose-goose\|Goose]] | 開源通用 AI Agent，桌面 + CLI + API，支援 15+ LLM 提供商和 70+ MCP 擴展。 |
 | [[revfactory-harness\|Agent 團隊架構]] | 用領域描述自動產生 agent 團隊和 skill，六種架構模式涵蓋管線到階層委派。 |
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
 | [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為介面的 AI 程式開發助手，整合多模型、MCP、Skills 和 Agent Routing。 |
@@ -64,6 +65,7 @@ topics: ["知識庫", "總覽"]
 | [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」：Persona 是方向，Skill 是方法，兩者缺一不可。 |
 | [[prompt-security\|Prompt 安全與越獄]] | 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。 |
 | [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
+| [[danielmiessler-Personal_AI_Infrastructure\|Personal AI Infrastructure]] | Life Operating System：用 AI 放大人的能力，Ideal State 驅動，文字優先、無 RAG。 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
 | [[ai-self-growth\|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
 | [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
@@ -79,6 +81,7 @@ topics: ["知識庫", "總覽"]
 
 | 概念 | 說明 |
 |------|------|
+| [[luongnv89-claude-howto\|Claude HowTo]] | 視覺化範例驅動的 Claude Code 學習指南，10 個模組從新手到進階。 |
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
 | [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | 百度開源 OCR + 文件 AI 引擎，PaddleOCR-VL 0.9B 達 96.3% SOTA，PP-StructureV3 版面解析，100+ 語言。 |
@@ -130,6 +133,7 @@ topics: ["知識庫", "總覽"]
 | [[lfnovo-open-notebook\|Open Notebook]] | NotebookLM 開源替代：隱私自架、18+ AI 供應商、1-4 人 Podcast、Docker 一鍵部署。 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖與 AI 聊天於一體。 |
 | [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
+| [[refactoringhq-tolaria\|Tolaria]] | 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合。 |
 | [[self-hosted\|自架]] | 在自有基礎設施上部署和運行軟體，掌控隱私、客製化與成本。 |
 | [[open-source-business\|開源商業模式]] | 開源軟體的商業化策略：如何讓開源專案持續生存並獲利。 |
 | [[free-software\|免費軟體]] | 開源或免費的軟體工具，降低技術門檻、促進普及。 |
