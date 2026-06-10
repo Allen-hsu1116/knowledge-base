@@ -1,92 +1,83 @@
 ---
-
-
-
-title: 每日股票分析 (daily-stock-analysis)
-slug: daily-stock-analysis
-created: 2026-05-03
-stars: '⭐38.1k'
-updated: 2026-05-22
-topics:
-  - stock-analysis
-  - LLM
-  - trading
-
-
-
-language: zh-TW
+source: https://github.com/ZhuLinsen/daily_stock_analysis
+date: 2026-05-03
+author: ZhuLinsen
 ---
 
-# 每日股票分析 (daily-stock-analysis)
+# Daily Stock Analysis
 
-> LLM 驅動的股市分析概念 — 用 AI 大模型每日自動生成投資決策儀表盤
+> LLM 驅動的 A股/港股/美股智能分析系統。每日自動生成決策儀表盤，支援技術面+輿情+基本面多維分析，11 種內建策略，GitHub Actions 零成本運行。
 
 ## 快速導航
 
-- 📊 **代表專案** → [[ZhuLinsen-daily_stock_analysis]]（最完整實作，⭐38.1k）
-- 🤖 **AI Agent** → [[AI-Agent]]（自動化分析是 Agent 工作流）
-- 🧠 **LLM** → [[LLM]]（用大模型做綜合判斷）
+- 🤖 **AI Agent** → [[AI-Agent]]（自動化分析是 Agent 化工作流的一環）
+- 📊 **生成式 AI** → [[generative-AI]]（LLM 驅動的金融分析）
+- 🔌 **MCP** → [[MCP]]（可透過 MCP 擴充數據源）
 
 ## 是什麼
 
-每日股票分析是一種自動化工作流：定時拉取行情數據 → 多維度分析（技術面 + 基本面 + 輿情） → LLM 綜合判斷 → 推送決策報告。核心是「數據聚合 + 策略引擎 + LLM 推理 + 多渠道推送」的 pipeline。
-
-## 代表專案
-
-- → **[[ZhuLinsen-daily_stock_analysis]]** — 最完整的實作，⭐38.1k，覆蓋 A股/港股/美股，15 種內建策略，GitHub Actions 零成本運行，Web 工作台 + Agent 問股
+Daily Stock Analysis 是一個 LLM 驅動的股市分析系統，支援 A股、港股、美股、美股指數及常見 ETF。每日自動生成決策儀表盤，整合技術面、實時行情、籌碼分佈、新聞輿情、公告、資金流與基本面等多維度分析，內建 11 種策略，透過 GitHub Actions 零成本運行。
 
 ## 核心特色
 
-- **多源數據聚合**：技術面、行情、籌碼、輿情、公告、資金流、基本面 — 7 個維度
-- **策略引擎**：每種策略 = 一個結構化 prompt（均線、纏論、波浪、情緒週期等）
-- **LLM 推理**：多 LLM 路由，按成本品質選模型
-- **多渠道推送**：企業微信、飛書、Telegram、Discord、Slack、郵件
-- **回測驗證**：歷史分析事後驗證，計算準確率
-- **零成本運行**：GitHub Actions cron 自動執行，非交易日自動跳過
+### AI Decision Dashboard
+
+一句話核心結論 + 評分 + 買賣點位 + 風險警報 + 操作檢查清單。多維度分析：技術面、實時行情、籌碼分佈、新聞輿情、公告、資金流與基本面。
+
+### 11 種內建策略
+
+A股復盤、美股 Regime、均線、纏論、波浪、情緒週期等。Agent 問股：多輪策略對話，支持均線金叉/纏論/波浪等策略。
+
+### 多渠道推送
+
+企業微信、飛書、Telegram、Discord、Slack、郵件。
+
+### 零成本運行
+
+GitHub Actions 定時運行，無需伺服器。
 
 ## 怎麼用
 
-最完整的實作是 [[ZhuLinsen-daily_stock_analysis]]，典型使用流程：
-
 ```bash
-# 方式一：GitHub Actions（推薦，零成本）
-# 1. Fork 倉庫 → 2. 設定 Secrets → 3. 啟用 Actions → 自動每日分析
+# 複製專案
+git clone https://github.com/ZhuLinsen/daily_stock_analysis.git
+cd daily_stock_analysis
 
-# 方式二：本地運行
-git clone https://github.com/ZhuLinsen/daily_stock_analysis.git && cd daily_stock_analysis
+# 安裝依賴
 pip install -r requirements.txt
-cp .env.example .env && vim .env  # 設定 API keys
-python main.py                    # 單次分析
-python main.py --stocks 600519,hk00700,AAPL  # 指定股票
-python main.py --market-review    # 大盤復盤
 
-# 方式三：Web 工作台
-python main.py --webui             # 啟動 Web 介面
+# 設定環境變數
+cp .env.example .env
+# 編輯 .env 填入 API keys
+
+# 執行分析
+python main.py --stock 000001.SZ
+
+# GitHub Actions 零成本運行
+# 設定 GitHub Secrets 後，每日自動執行
 ```
 
 ## 跟其他方案的關係
 
-| 方案 | 定位 | 市場 | 策略 | 回測 | 推送 | 運行 |
-|------|------|------|------|------|------|------|
-| **[[ZhuLinsen-daily_stock_analysis]]** | 決策儀表盤 | A+港+美 | 15 種 | ✅ | 6 渠道 | GitHub Actions |
-| **[[HKUDS-AI-Trader]]** | AI 交易平台 | 多市場 | 策略框架 | ✅ | 有限 | 自架 |
-| **[[virattt-dexter\|Dexter]]** | 深度研究 | 美股 SEC | ❌ | ❌ | ❌ | 本地 |
+Daily Stock Analysis 是 [[AI-Agent]] 工作流在金融分析領域的具體應用。跟傳統量化平台（如聚寬、米筐）的差異：傳統平台需要寫策略程式碼，Daily Stock Analysis 用自然語言驅動 LLM 分析，降低使用門檻。
 
-- daily-stock-analysis 是 [[AI-Agent]] 在金融分析領域的概念框架
-- 其策略引擎是 [[Prompt-Engineering]] 結構化 prompt 的實踐——每個策略 = 一個精心設計的 prompt
-- 與 Dexter 互補：daily-stock-analysis 做交易決策（儀表盤、訊號、回測），Dexter 做深度研究（SEC filing、多步推理）
-
-## 跟相關概念的關係
-
-- [[AI-Agent]] — 自動化分析本質是 Agent 工作流
-- [[LLM]] — 用大模型做綜合判斷
-- [[Prompt-Engineering]] — 策略 = 結構化 prompt
-- [[HKUDS-AI-Trader]] — AI 交易平台，daily_stock_analysis 偏分析儀表盤
+跟 [[MCP]] 的關係：可透過 MCP 擴充數據源（TickFlow、AkShare、Tushare 等），讓 Agent 更靈活地取得市場數據。
 
 ## 相關概念
 
-← [[ZhuLinsen-daily_stock_analysis]] · [[AI-Agent]] · [[LLM]] · [[Prompt-Engineering]]
+← [[AI-Agent]] · [[generative-AI]] · [[MCP]]
 
 ## 來源
 
-- [原始資料](../raw/2026-05-03-daily-stock-analysis.md)
+- GitHub: https://github.com/ZhuLinsen/daily_stock_analysis
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | https://github.com/ZhuLinsen/daily_stock_analysis |
+| Stars | ⭐36,543 |
+| Language | Python |
+| 建立日期 | 2026-01-10 |
+| 授權 | MIT |
+| 收錄日期 | 2026-05-03 |

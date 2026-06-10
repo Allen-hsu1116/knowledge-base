@@ -1,41 +1,11 @@
 ---
-
-
-title: Karpathy 同款「AI 知識庫」完整拆解
-slug: andrej-karpathy-ai-how
 source: https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
 date: 2026-04-28
-
-
-updated: TODO
-language: zh-TW
-topics: []
 ---
 
 # Karpathy 同款「AI 知識庫」完整拆解
 
 > 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
-
-## 快速導航
-- 🧠 **LLM 知識庫方法** → [[llm-knowledge-base]]（我們實作的 Karpathy 方法延伸）
-- 📝 **CLAUDE.md** → [[CLAUDE-md]]（知識庫的 Schema 設定檔）
-- 🔧 **Context Engineering** → [[context-engineering-basics]]（管理 LLM 看到的內容）
-- 🛠 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Skills 和知識庫是 Agent 兩大支柱）
-
-## 是什麼
-
-Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法。核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。三個資料夾 + 一份 CLAUDE.md 設定檔，就能建構一個讓 LLM 自動整理和查詢的知識庫。
-
-## 核心特色
-
-### 極簡架構
-只需三個資料夾（raw、wiki、skills）和一份 CLAUDE.md，零配置即可開始。
-
-### AI 自動整理
-丟入原始素材，AI 自動編譯成結構化的 wiki 頁面。
-
-### 雙向連結
-概念之間透過 `[[]]` 語法自動串連，形成知識網路。
 
 ## 核心內容
 
@@ -145,28 +115,6 @@ my-knowledge-base/
 - **Obsidian 版本**：多全文搜尋、筆記互連、圖譜視覺化功能
 - 核心邏輯一樣，差別只在最上層有沒有筆記 App 當介面
 
-## 怎麼用
-
-### 使用此知識庫
-1. Clone 或下載 repo
-2. 閱讀 `wiki/` 目錄下的概念頁面
-3. 參考 `raw/` 目錄下的原始素材
-4. 按需修改和擴充
-
-### 主要入口
-- `wiki/index.md`：知識庫首頁
-- `wiki/projects.md`：專案索引
-- `CLAUDE.md`：Agent 行為設定
-
-## 跟其他方案的關係
-
-| 方案 | 格式 | 自動整理 | 雙向連結 | AI 原生 |
-|------|------|----------|----------|---------|
-| **Karpathy 方法** | 三層資料夾 | ✅ | ✅ WikiLink | ✅ |
-| Notion/Obsidian | 單層筆記 | ❌ 手動 | ✅ | ❌ |
-| 傳統 Wiki | 單層頁面 | ❌ 手動 | ✅ | ❌ |
-| RAG Pipeline | 向量資料庫 | ⚠️ 半自動 | ❌ | ✅ |
-
 ## 相關主題
 
 - [[llm-knowledge-base|LLM 知識庫方法]]
@@ -176,7 +124,7 @@ my-knowledge-base/
 ## 相關概念
 
 - [[llm-knowledge-base|LLM 知識庫方法]] — 我們實作的知識庫系統，就是 Karpathy 方法的延伸
-- [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
+- [[claude-code-boris-cheny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
 - [[agent-skills-ecosystem|Agent Skills 生態系]] — Skills 和知識庫是 Agent 的兩大支柱
 - [[MemPalace-mempalace|MemPalace]] — 另一種記憶系統實作，不改寫原文
 - [[context-engineering-basics|Context Engineering]] — 管理 LLM 看到的內容，是知識庫設計的核心
@@ -189,4 +137,4 @@ my-knowledge-base/
 - [Karpathy LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 ## 來源
-- raw/2026-04-28-andrej-karpathy-ai-how.md
+- raw/2026-04-28-karpathy-ai-how.md

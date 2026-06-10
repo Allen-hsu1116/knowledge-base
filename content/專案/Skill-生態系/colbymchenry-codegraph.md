@@ -1,5 +1,4 @@
 ---
-
 title: CodeGraph
 slug: colbymchenry-codegraph
 github: https://github.com/colbymchenry/codegraph
@@ -7,9 +6,6 @@ stars: 3112
 language: TypeScript
 created: 2026-01-18
 added: 2026-05-17
-
-updated: 2026-01-18
-topics: []
 ---
 
 # CodeGraph
@@ -90,7 +86,6 @@ CodeGraph 對應 [[MCP]] 生態的「程式碼理解」層。跟 [[Coding-Agent-
 
 ## 來源
 
-- [原始資料](../raw/2026-05-17-colbymchenry-codegraph.md)
 - GitHub: https://github.com/colbymchenry/codegraph
 
 ---

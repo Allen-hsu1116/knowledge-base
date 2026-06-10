@@ -14,12 +14,11 @@ Antigravity Awesome Skills 是一個可安裝的 GitHub library 和 npm installe
 
 ## 核心特色
 
-- **可安裝，不只是參考** — `npx` 一行指令把 skills 放到你的工具預期位置，不需要手動複製
-- **7+ 工具支援** — Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、GitHub Copilot 等
-- **1,443+ skills** — 涵蓋開發、測試、安全、基礎設施、產品、行銷，是目前最大的 SKILL.md 格式生態系
+- **可安裝，不只是參考** — `npx` 一行指令把 skills 放到你的工具預期位置
+- **7+ 工具支援** — Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、Copilot 等
+- **1,443+ skills** — 涵蓋開發、測試、安全、基礎設施、產品、行銷
 - **Bundles & Workflows** — 打包好的 skill 組合，降低從「發現」到「使用」的距離
 - **目錄可搜尋** — 線上目錄可瀏覽全部 1,443+ skills
-- **按場景分類** — 開發、測試、安全、基礎設施、產品、行銷等分類，方便找到需要的 skill
 
 ## 怎麼用
 
@@ -32,9 +31,6 @@ npx antigravity-awesome-skills --claude    # Claude Code
 npx antigravity-awesome-skills --cursor    # Cursor
 npx antigravity-awesome-skills --gemini    # Gemini CLI
 npx antigravity-awesome-skills --codex     # Codex CLI
-
-# 自訂安裝路徑
-npx antigravity-awesome-skills --path ~/.claude/skills
 
 # 驗證安裝
 test -d ~/.gemini/antigravity/skills && echo "Skills installed"
@@ -50,12 +46,6 @@ test -d ~/.gemini/antigravity/skills && echo "Skills installed"
 | **Codex CLI** | `npx antigravity-awesome-skills --codex` | `Use brainstorming to plan a feature` |
 
 ## 跟其他方案的關係
-
-| 方案 | 定位 | 關係 |
-|------|------|------|
-| [[obra-superpowers]] | 開發方法論 Skills | superpowers 提供方法論流程，antigravity 提供 skills 目錄 |
-| [[microsoft-SkillOpt]] | 微軟官方 Skills | SkillOpt 是官方出品，antigravity 是社群最大集合 |
-| [[AI-Skills]] | 概念層 | antigravity 是 AI Skills SKILL.md 格式的最大實作 |
 
 這是 [[AI-Skills]] SKILL.md 格式的最大生態系。skills 本質是結構化 [[Prompt-Engineering]]，也可透過 [[MCP]] 介面整合。安裝路徑依工具不同（`~/.claude/skills/`、`~/.cursor/skills/`、`~/.gemini/antigravity/skills/` 等）。
 

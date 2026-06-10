@@ -118,5 +118,4 @@ python3 dashboard/server.py
 
 ## 來源
 
-- [原始資料](../raw/2026-05-07-cft0808-edict.md)
 - GitHub: https://github.com/cft0808/edict

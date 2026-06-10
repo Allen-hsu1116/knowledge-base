@@ -1,16 +1,5 @@
 ---
-
-
-
 title: PDFCraft
-slug: pdfcraft
-
-stars: '⭐5.5k'
-
-
-updated: TODO
-language: zh-TW
-topics: []
 ---
 
 # PDFCraft — 瀏覽器端隱私優先 PDF 工具箱
@@ -76,7 +65,6 @@ npm run dev   # 開啟 http://localhost:3000
 
 ## 來源
 
-- [2026-05-13 素材](../raw/2026-05-13-pdfcraft.md)
 - raw/2026-05-xx-pdfcraft.md
 
 ## 專案資訊

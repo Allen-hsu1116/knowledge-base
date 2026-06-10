@@ -1,16 +1,9 @@
 ---
-
-
 title: KeygraphHQ/shannon
-slug: KeygraphHQ-shannon
 date: 2026-05-18
 stars: 42711
 language: TypeScript
 source: https://github.com/KeygraphHQ/shannon
-
-
-updated: TODO
-topics: []
 ---
 
 # KeygraphHQ/shannon
@@ -30,13 +23,11 @@ topics: []
 
 ## 快速導航
 
-- ⚡ [[AI-Agent]] · [[prompt-security]] · [[MCP]] · [[sandbox]] · [[code-intelligence]]
-
-## 是什麼
-
-Shannon 是由 Keygraph 開發的自主 AI 滲透測試工具，定位為「白箱」（source-available）安全測試。它結合原始碼分析與動態攻擊驗證，不只是靜態掃描，而是真正對運行中的應用程式執行攻擊，只回報有實際 PoC 的漏洞。核心理念是：現代開發團隊每天都在快速部署程式碼，但滲透測試可能一年才做一次，Shannon 提供隨需、自動化的滲透測試來填補這個安全漏洞窗口。
-
-Shannon Lite（開源版，AGPL-3.0）提供核心的自主 AI 滲透測試功能；Shannon Pro（商業版）整合 SAST、SCA、密鑰掃描、商業邏輯安全測試，並透過 Code Property Graph (CPG) 進行靜態-動態關聯分析。
+- [[AI-Agent]] — Shannon 是一個自主 AI Agent
+- [[prompt-security]] — 安全測試的核心主題
+- [[MCP]] — Agent 工具使用相關
+- [[sandbox]] — 滲透測試的隔離環境概念
+- [[code-intelligence]] — 原始碼分析與理解
 
 ## 詳細簡介
 
@@ -63,7 +54,7 @@ Shannon Lite（開源版）提供核心的自主 AI 滲透測試功能；Shannon
 ### Shannon Pro：CPG 驅動的靜態-動態關聯
 Shannon Pro 將原始碼轉換為 Code Property Graph（結合 AST、控制流圖、程式依賴圖），在每個節點用 LLM 評估防護是否充分，然後將靜態發現注入動態攻擊佇列進行驗證，實現靜態分析與動態測試的深度關聯。
 
-## 怎麼用
+## 安裝方式
 
 ```bash
 # 快速開始（npx）
@@ -83,23 +74,13 @@ npx @keygraph/shannon status
 
 需要 Docker、Node.js 18+ 和 AI Provider 憑證（推薦 Anthropic API key）。
 
-## 跟其他方案的關係
+## 技術棧
 
-| 方案 | 類型 | 測試方式 | PoC 驗證 | 白箱分析 | 自主程度 | 授權 |
-|------|------|----------|---------|---------|---------|------|
-| **Shannon** | AI 滲透測試 | 動態+靜態 | ✅ 只回報可利用漏洞 | ✅ CPG | 全自主 | AGPL/Commercial |
-| OWASP ZAP | 傳統掃描器 | 動態 | ❌ | ❌ | 半自動 | Apache 2.0 |
-| Burp Suite | 傳統滲透 | 動態 | ⚠️ 手動 | ❌ | 手動 | 商業 |
-| Snyk Code | 靜態掃描 | 靜態 SAST | ❌ | ✅ AST | 自動 | 商業 |
-| Semgrep | 靜態掃描 | 靜態 SAST | ❌ | ✅ AST | 自動 | LGPL/商業 |
-
-- Shannon 是 [[AI-Agent]] 在資安領域的深度應用，利用 LLM 做自主攻擊決策
-- 與靜態掃描工具（Snyk、Semgrep）互補：Shannon 只回報經過動態驗證、可利用的漏洞，消除誤報噪音
-- [[CloakHQ-CloakBrowser]] 提供繞過 bot detection 的瀏覽器能力，可作為 Shannon 滲透測試時的前置工具
-
-## 相關概念
-
-← [[AI-Agent]] · [[prompt-security]] · [[MCP]] · [[sandbox]] · [[code-intelligence]]
+- **語言**: TypeScript
+- **AI**: Anthropic Claude（支援 AWS Bedrock、Google Vertex AI）
+- **容器**: Docker（worker 約 1GB）
+- **工作流**: Temporal
+- **框架**: pnpm monorepo
 
 ## 授權
 
@@ -112,7 +93,3 @@ npx @keygraph/shannon status
 - [OWASP Juice Shop 測試報告](https://github.com/KeygraphHQ/shannon/tree/main/sample-reports)
 - [Discord 社群](https://discord.gg/9ZqQPuhJB7)
 - [Keygraph 官網](https://keygraph.io/)
-
-## 來源
-
-- [原始資料](../raw/2026-05-18-KeygraphHQ-shannon.md)

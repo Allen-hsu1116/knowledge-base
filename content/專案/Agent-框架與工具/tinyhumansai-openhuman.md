@@ -1,17 +1,6 @@
 ---
-
-
-
 title: OpenHuman
-slug: tinyhumansai-openhuman
 date: 2026-05-16
-
-stars: '⭐9.1k'
-
-
-updated: TODO
-language: zh-TW
-topics: []
 ---
 
 # OpenHuman
@@ -103,10 +92,6 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 - **Note Integration**: Obsidian-compatible vault
 - **Voice**: STT + ElevenLabs TTS
 - **Local AI**: Ollama
-
-## 來源
-
-- [原始資料](../raw/2026-05-16-tinyhumansai-openhuman.md)
 
 ---
 

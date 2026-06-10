@@ -1,17 +1,6 @@
 ---
-
-
-
 title: DeerFlow 2.0
-slug: bytedance-deer-flow
 created: 2026-05-09
-stars: '⭐68098'
-
-
-
-updated: 2026-05-09
-language: zh-TW
-topics: []
 ---
 
 # DeerFlow 2.0
@@ -91,7 +80,6 @@ DeerFlow 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的差異在�
 
 ## 來源
 
-- [原始資料](../raw/2026-05-09-bytedance-deer-flow.md)
 - GitHub: https://github.com/bytedance/deer-flow
 
 ---

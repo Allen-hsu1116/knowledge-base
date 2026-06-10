@@ -1,17 +1,6 @@
 ---
-
-
-
 title: QMD
-slug: qmd
 created: 2026-05-15
-stars: '⭐24.9k'
-
-
-
-updated: 2026-05-15
-language: zh-TW
-topics: []
 ---
 
 # QMD

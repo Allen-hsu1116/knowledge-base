@@ -1,19 +1,7 @@
 ---
-
-
-
-title: MemPalace
-slug: MemPalace-mempalace
 aliases:
   - MemPalace-mempalace
   - MemPalace
-
-stars: '⭐50787'
-
-
-updated: TODO
-language: zh-TW
-topics: []
 ---
 
 # MemPalace
@@ -69,9 +57,8 @@ mempalace sweep
 |------|------|------|
 | [[mempalace]] | MemPalace 完整介紹 | MemPalace-mempalace 是別名頁 |
 | [[Chroma]] | 向量資料庫 | MemPalace 預設使用 ChromaDB 作為後端 |
-| [[rag\|RAG]] | 檢索增強生成 | MemPalace 的宮殿索引 + 語意搜尋可改善 RAG |
+| [[rag|RAG]] | 檢索增強生成 | MemPalace 的宮殿索引 + 語意搜尋可改善 RAG |
 | [[project-golem]] | 專案記憶 | Golem 用 lancedb-pro，架構不同但功能互補 |
-| [[supermemoryai-supermemory\|Supermemory]] | AI 記憶引擎 | Supermemory 提供記憶+使用者畫像+RAG 三合一，MemPalace 走知識圖譜路線 |
 
 MemPalace 的宮殿結構跟 [[llm-knowledge-base|LLM 知識庫方法]]概念相似但方向不同：
 - 我們的知識庫：用 LLM 當編譯器，把原始素材「提煉」成概念筆記
@@ -80,7 +67,7 @@ MemPalace 的宮殿結構跟 [[llm-knowledge-base|LLM 知識庫方法]]概念相
 兩者可以互補：MemPalace 負責儲存和檢索，知識庫負責概念整理和交叉連結。
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[rag]] · [[Chroma]] · [[project-golem]] · [[hermes-agent]] · [[supermemoryai-supermemory|Supermemory]]
+← [[llm-knowledge-base]] · [[rag]] · [[Chroma]] · [[project-golem]] · [[hermes-agent]]
 
 ## 來源
 - raw/2026-05-02-mempalace.md

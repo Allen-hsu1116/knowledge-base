@@ -67,9 +67,9 @@ docker compose up -d
 |------|-------|------|------|----------|---------|-----|------|
 | **Open Notebook** | ⭐25k | 開源 NotebookLM | ✅ 自架 | 18+ 家 | 1-4 講者 | ✅ REST | ✅ Docker |
 | Google NotebookLM | — | 閉源 SaaS | ❌ Google 雲端 | Google only | 2 講者 | ❌ 無 | ❌ |
-| [[teng-lin-notebooklm-py\|notebooklm-py]] | ⭐15k | Python 模仿版 | 部分 | OpenAI/其他 | ❌ | 部分 | ✅ |
-| [[open-webui-open-webui\|Open WebUI]] | ⭐100k+ | 自架 Chat UI | ✅ 自架 | 多家 | ❌ | ✅ | ✅ Docker |
-| [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器 | ✅ 離線 | Ollama | ❌ | 部分 | ✅ |
+| [[teng-lin-notebooklm-py|notebooklm-py]] | ⭐15k | Python 模仿版 | 部分 | OpenAI/其他 | ❌ | 部分 | ✅ |
+| [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | 自架 Chat UI | ✅ 自架 | 多家 | ❌ | ✅ | ✅ Docker |
+| [[Crosstalk-Solutions-project-nomad|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器 | ✅ 離線 | Ollama | ❌ | 部分 | ✅ |
 | Obsidian + AI 插件 | — | 知識管理 | ✅ 本地 | 視插件 | ❌ | 視插件 | ✅ |
 
 Open Notebook 的定位很明確：如果你要 NotebookLM 的核心體驗（多來源研究 + AI 對話 + Podcast），但又需要隱私、多供應商、API、自架——它是目前最完整的開源選擇。

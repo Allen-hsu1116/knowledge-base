@@ -1,16 +1,5 @@
 ---
-
-
-
 title: DS4
-slug: ds4
-
-stars: '⭐10277'
-
-
-updated: TODO
-language: zh-TW
-topics: []
 ---
 
 # DS4 — DeepSeek 4 Flash 本地推論引擎
@@ -91,7 +80,6 @@ DS4 跟 [[Ollama]] 的定位根本不同：Ollama 是通用本地部署方案（
 ## 來源
 
 - GitHub: https://github.com/antirez/ds4
-- [2026-05-13 素材](../raw/2026-05-13-ds4.md)
 
 ---
 

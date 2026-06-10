@@ -1,5 +1,4 @@
 ---
-
 title: Open Generative AI
 slug: Anil-matcha-Open-Generative-AI
 github: https://github.com/Anil-matcha/Open-Generative-AI
@@ -7,9 +6,6 @@ stars: 14436
 language: JavaScript
 created: 2023-05-09
 added: 2026-05-17
-
-updated: 2023-05-09
-topics: []
 ---
 
 # Open Generative AI
@@ -138,7 +134,6 @@ Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway�
 
 ## 來源
 
-- [原始資料](../raw/2026-05-17-Anil-matcha-Open-Generative-AI.md)
 - GitHub: https://github.com/Anil-matcha/Open-Generative-AI
 
 ---

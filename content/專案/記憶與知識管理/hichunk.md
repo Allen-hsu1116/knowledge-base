@@ -1,17 +1,6 @@
 ---
-
-
-
 title: HiChunk
-slug: hichunk
 created: 2026-05-13
-stars: '⭐96'
-
-
-
-updated: 2026-05-13
-language: zh-TW
-topics: []
 ---
 
 # HiChunk
@@ -108,7 +97,6 @@ python -c "import nltk; nltk.download('punkt_tab')"
 
 ## 來源
 
-- [2026-05-13 素材](../raw/2026-05-13-hichunk.md)
 - raw/2026-05-xx-hichunk.md
 
 ## 專案資訊

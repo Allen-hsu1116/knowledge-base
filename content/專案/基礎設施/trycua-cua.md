@@ -1,13 +1,5 @@
 ---
-
-
 title: CUA (Computer-Use Agents)
-slug: trycua-cua
-
-
-updated: TODO
-language: zh-TW
-topics: []
 ---
 
 # CUA (Computer-Use Agents)

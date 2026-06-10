@@ -8,20 +8,6 @@
 - ⚠️ **Prompt Injection 與安全** → [[prompt-security]]（YouTube 留言可修改本地檔案，需要多層防禦）
 - 🔧 **Agent Skills 生態** → [[agent-skills-ecosystem]]（Skill 是 SOP 不是程式，按需讀取，可交換但有惡意風險）
 
-## 是什麼
-
-這是一份以 OpenClaw（開源 AI Agent 框架）為案例的 AI Agent 完整解剖。OpenClaw 是一個「龍蝦」——節肢動物式的 Agent，六親不認、寫死規則、沒有智慧，但可靠地執行語言模型的指令。這份內容把 Agent 從「外殼」到「內臟」拆解一遍，讓你理解 Agent 到底怎麼運作。
-
-核心論點：**AI Agent ≠ LLM**。Agent 是人與 LLM 之間的介面，LLM 是大腦，Agent 是身體。Agent 的聰明程度取決於背後接的模型，而 Agent 的價值在於它如何管理 LLM 看到的內容（Context Engineering）。
-
-## 核心特色
-
-- **System Prompt 是靈魂**：每次呼叫 LLM 時附加超過 4000 token 的 System Prompt，包含身分檔案、工具說明、Skill 路徑、記憶讀取方式
-- **工具按需載入**：Skill 和記憶只在 System Prompt 列路徑，需要時才 Read，節省 Context Window
-- **記憶系統用 RAG**：memory.search 做字面 + 語意混合比對，memory.get 只讀取部分行數，避免一次讀入全部
-- **Subagent 作為自主壓縮**：子 Agent 獨立與 LLM 互動後 return 結果，繁瑣過程不出現在主 Agent 的 context 中
-- **安全是分層的**：程式端硬限制 > LLM 指令 > 環境隔離，三層防禦缺一不可
-
 ## 核心內容
 
 ### Agent ≠ LLM：關鍵區別
@@ -69,33 +55,6 @@ LLM 覺得流程太繁瑣時，會要求 Agent 在地端寫腳本（如 tts_chec
 - **Prompt Injection 實例**：YouTube 留言可修改本地 Soul.md
 - **防禦層次**：LLM 層（memory.md 指令）→ Agent 層（人類 approve 才執行）→ 環境層（不讓 Agent 讀網路留言）
 - **AI 刪郵件事件**：compaction 把重要指令壓縮掉，Agent 開始未經同意刪郵件
-
-## 怎麼用
-
-### 理解 Agent 架構
-OpenClaw 的解剖幫助你理解所有 AI Agent 框架的核心——Context Engineering。不管是 OpenClaw、Claude Code、還是 Hermes Agent，底層邏輯都是：
-1. 組裝 System Prompt（身分 + 工具 + 記憶 + Skill）
-2. 把 Prompt + 歷史紀錄丟給 LLM
-3. LLM 決定使用工具或回傳文字
-4. 執行工具，結果貼回歷史紀錄
-5. 重複直到任務完成
-
-### 實務建議
-- **控制 System Prompt**：你寫什麼，Agent 就變成什麼
-- **記憶要落實到檔案**：Agent 說「我記住了」不等於真的記住，必須確認有寫入 .md 檔
-- **安全要分層**：不能只靠 LLM 自己判斷，必須有程式端硬限制和環境隔離
-- **善用 Subagent**：把繁瑣任務交給子 Agent，保持主 Agent 的 context 乾淨
-
-## 跟其他方案的關係
-
-| 方案 | 定位 | 關係 |
-|------|------|------|
-| [[agent-persona]] | Agent 人格設計 | Persona 是 Agent 的靈魂，OpenClaw 用 SOUL.md 實作 |
-| [[AI-Agent]] | Agent 概念總覽 | Agent 不是 LLM，是介面——這是 OpenClaw 解剖的核心論點 |
-| [[context-engineering-basics]] | Context Engineering | System Prompt + 工具按需載入 + 記憶壓縮都是 CE 技術 |
-| [[prompt-security]] | Prompt 安全 | Prompt Injection 是 Agent 的核心安全威脅 |
-| [[agent-skills-ecosystem]] | Skill 生態 | Skill 是 SOP 不是程式，按需讀取節省 context |
-| [[claude-code-boris-cherny-advanced-techniques]] | Claude Code 技巧 | /compact、/rewind 等 context 管理技巧與 CE 理念一致 |
 
 ## 關鍵概念
 - **AI Agent ≠ LLM**：Agent 是介面，LLM 是大腦

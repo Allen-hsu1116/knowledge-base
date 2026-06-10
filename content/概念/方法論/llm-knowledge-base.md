@@ -2,28 +2,6 @@
 
 > 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。
 
-## 快速導航
-- 📝 **Karpathy 方法** → [[karpathy-gist-llm-wiki]]（原始 Gist）
-- 🔧 **Skill 版** → [[karpathy-skills]]（標準化 SKILL.md 格式）
-- 📰 **中文報導** → [[llm-knowledge-base-obsidian-claude-code]]（數位時代中文版）
-- 🛠️ **記憶系統對比** → MemPalace、Project Golem、OpenViking、Hermes Agent 等
-
-## 是什麼
-
-LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材、定方向、問好問題；AI 負責摘要、交叉連結、一致性維護。
-
-這個方法論由 Andrej Karpathy 在 2026 年 4 月公開（原始 Gist），靈感來自軟體工程的 compile/lint 循環。知識庫不是一次性的，而是一個持續成長的系統：Ingest → Compile → Query → Lint → Compile → ...
-
-**關鍵差異**：跟傳統 RAG 不同，LLM 知識庫是「編譯式」而非「檢索式」。知識編譯一次後持續更新，而非每次查詢重新推導。
-
-## 核心特色
-
-- **三層架構**：Raw sources（不可改）→ The wiki（LLM 擁有）→ The schema（共同演化）
-- **四個 Phases**：Ingest（蒐集）→ Compile（整理）→ Query（提問）→ Lint（健康檢查）
-- **知識複利**：每次提問都讓知識庫更強，探索也會複利
-- **人類策展 + LLM 書記**：人類負責策展，LLM 負責所有書記工作
-- **不需要 embedding-based RAG**：在中等規模（~100 來源、~數百頁）效果很好
-
 ## 核心概念
 
 ### Karpathy 方法論
@@ -119,24 +97,6 @@ Karpathy 的 Gist 是一份 **idea file**，設計來直接 copy-paste 給你的
 - **Dataview**：Obsidian 外掛，對 frontmatter 做查詢
 - **llmwiki-cli**（doum1004）：CLI 工具，處理檔案操作，LLM 透過 shell 命令操作
 
-## 怎麼用
-
-### 最快開始方式
-1. 建立 raw/ 和 wiki/ 兩個目錄
-2. 把新素材丟進 raw/
-3. 讓 LLM 讀取 raw/ 並建立 wiki/ 頁面
-4. 對 wiki/ 提問，好的答案回存
-5. 定期 Lint 檢查矛盾和缺漏
-
-### Schema 決定一切
-SCHEMA.md 是最重要的一步：
-- 寫得模糊，輸出就模糊
-- 把你想要的所有格式、風格、分類規則都寫進去
-- 隨著使用共同演化
-
-### 知識複利
-每次提問都回存到 wiki——你發現的比較、分析、連結不該消失在聊天歷史裡。
-
 ## 關鍵洞見
 
 1. **「不整理」反而有效**——人不擅長預先分類，AI 能在秒級完成交叉比對
@@ -161,17 +121,6 @@ SCHEMA.md 是最重要的一步：
 | **RAGFlow** | RAG+Agent 引擎 | 深度文件理解 + 模板分塊 + 接地引用，有 OpenClaw Skill |
 
 Karpathy 方法論重「提煉」，MemPalace 重「檢索」，兩者互補：MemPalace 負責精準找到原文，我們的知識庫負責概念整理和交叉連結。👉 詳見 [[mempalace]]、[[project-golem]]、[[hermes-agent]]
-
-## 跟其他方案的關係
-
-| 方案 | 定位 | 關係 |
-|------|------|------|
-| [[karpathy-gist-llm-wiki]] | 原始 Gist | 本頁方法論的直接來源 |
-| [[karpathy-skills]] | Skill 版 | 將方法論封裝成可安裝的 Skill |
-| [[mempalace]] | 索引式記憶 | 互補：MemPalace 重檢索，知識庫重提煉 |
-| [[project-golem]] | 向量式記憶 | 另一種知識持久化方案 |
-| [[volcengine-OpenViking]] | Context DB | L0/L1/L2 分層載入跟知識庫雙層結構異曲同工 |
-| [[context-engineering-basics]] | Context Engineering | 知識庫是 CE 的實作——精煉後的知識取代原始資料 |
 
 ## 未來方向
 從 wiki 生成合成資料來微調 LLM，把知識「燒進」權重而不只是靠 context window。

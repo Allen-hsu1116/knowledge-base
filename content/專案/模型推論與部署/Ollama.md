@@ -13,14 +13,13 @@ Ollama 讓你在本地一鍵運行大型語言模型，是目前本地 LLM 部�
 
 ## 核心特色
 
-- **一鍵安裝**：macOS、Linux、Windows 原生支援，三行指令即可開始
-- **豐富模型庫**：ollama.com/library 提供數百種模型一鍵下載（Llama、Gemma、DeepSeek、Qwen、Mistral 等）
-- **REST API**：`localhost:11434` 提供 OpenAI 相容 API，現有應用無縫切換
-- **Python / JS SDK**：`pip install ollama` / `npm i ollama`，快速整合
-- **Agent 整合**：支援 Claude Code、OpenClaw、Copilot、Codex 等 AI Agent 工具
-- **量化支援**：自動選擇最佳量化格式（4-bit、5-bit 等），平衡速度和精度
-- **GPU 加速**：自動偵測並使用 GPU（NVIDIA、Apple Metal、AMD ROCm）
-- **Modelfile**：自訂模型提示詞、參數、系統訊息，類似 Dockerfile 的概念
+- **一鍵安裝**：macOS、Linux、Windows 原生支援
+- **豐富模型庫**：ollama.com/library 提供數百種模型一鍵下載
+- **REST API**：`localhost:11434` 提供 OpenAI 相容 API
+- **Python / JS SDK**：`pip install ollama` / `npm i ollama`
+- **Agent 整合**：支援 Claude Code、OpenClaw、Copilot、Codex 等
+- **量化支援**：自動選擇最佳量化格式（4-bit、5-bit 等）
+- **GPU 加速**：自動偵測並使用 GPU
 
 ## 怎麼用
 
@@ -28,11 +27,8 @@ Ollama 讓你在本地一鍵運行大型語言模型，是目前本地 LLM 部�
 # 安裝（macOS/Linux）
 curl -fsSL https://ollama.com/install.sh | sh
 
-# 運行模型（首次會自動下載）
+# 運行模型
 ollama run gemma3
-
-# 列出已下載的模型
-ollama list
 
 # API 呼叫
 curl http://localhost:11434/api/chat -d '{
@@ -44,18 +40,6 @@ curl http://localhost:11434/api/chat -d '{
 ```python
 from ollama import chat
 response = chat(model='gemma3', messages=[{'role': 'user', 'content': 'Hello!'}])
-```
-
-自訂 Modelfile：
-```bash
-# 建立 Modelfile
-FROM gemma3
-SYSTEM 你是一個繁體中文助手
-PARAMETER temperature 0.7
-
-# 建立自訂模型
-ollama create my-assistant -f Modelfile
-ollama run my-assistant
 ```
 
 ## 跟其他方案的關係
