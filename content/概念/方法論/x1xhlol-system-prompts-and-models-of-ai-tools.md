@@ -61,10 +61,10 @@ cat cursor/system_prompt.md
 
 | 專案 | 定位 | 與本專案的關係 |
 |------|------|----------------|
-| [[CLAUDE-md|CLAUDE.md]] | 定義 AI 行為的格式標準 | 本專案收錄 CLAUDE.md 的實際實例 |
-| [[prompt-security|Prompt 安全]] | 研究 prompt 注入和越獄 | 本專案提供攻防研究的第一手素材 |
-| [[affaan-m-ECC|ECC]] | Agent harness 效能系統 | ECC 整合系統提示詞優化，本專案提供原始參考 |
-| [[AI-Skills|AI Skills]] | 結構化操作指令格式 | 兩者都是定義 AI 行為的方式，角度不同 |
+| [[CLAUDE-md\|CLAUDE.md]] | 定義 AI 行為的格式標準 | 本專案收錄 CLAUDE.md 的實際實例 |
+| [[prompt-security\|Prompt 安全]] | 研究 prompt 注入和越獄 | 本專案提供攻防研究的第一手素材 |
+| [[affaan-m-ECC\|ECC]] | Agent harness 效能系統 | ECC 整合系統提示詞優化，本專案提供原始參考 |
+| [[AI-Skills\|AI Skills]] | 結構化操作指令格式 | 兩者都是定義 AI 行為的方式，角度不同 |
 
 ← [[CLAUDE-md]] · [[prompt-security|Prompt 安全]] · [[AI-Skills]] · [[affaan-m-ECC|ECC]]
 

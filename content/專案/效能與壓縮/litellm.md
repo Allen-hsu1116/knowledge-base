@@ -45,7 +45,7 @@ docker run -p 4000:4000 ghcr.io/berriai/litellm:main-latest
 | [[AI-Agent]] | 多模型切換是 Agent 工作流的基礎設施需求 |
 | [[Ollama]] | LiteLLM 可統一管理 Ollama 本地模型和雲端 API |
 | [[vLLM]] | LiteLLM 可作為 vLLM 前面的 API Gateway |
-| [[sgl-project-sglang|SGLang]] | LiteLLM 也可作為 SGLang 前面的統一 API 層 |
+| [[sgl-project-sglang\|SGLang]] | LiteLLM 也可作為 SGLang 前面的統一 API 層 |
 | [[NVIDIA-TensorRT-LLM]] | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
 
 ## 相關概念

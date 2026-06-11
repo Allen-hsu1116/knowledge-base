@@ -76,10 +76,10 @@ done
 
 | 專案 | 定位 | 與 PM Skills 的關係 |
 |------|------|---------------------|
-| [[AI-Skills|AI Skills]] | AI Agent 操作指令格式 | PM Skills 是 AI Skills 在 PM 領域的完整實現 |
-| [[agent-skills-ecosystem|Agent Skills 生態系]] | Agent Skills 生態趨勢 | PM Skills 是此生態系中的 PM 領域代表 |
-| [[CLAUDE-md|CLAUDE.md]] | AI 行為規範格式 | PM Skills 透過 CLAUDE.md 格式交付技能定義 |
-| [[affaan-m-ECC|ECC]] | Agent harness 效能系統 | ECC 側重 coding agent 優化，PM Skills 側重產品決策 |
+| [[AI-Skills\|AI Skills]] | AI Agent 操作指令格式 | PM Skills 是 AI Skills 在 PM 領域的完整實現 |
+| [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 生態趨勢 | PM Skills 是此生態系中的 PM 領域代表 |
+| [[CLAUDE-md\|CLAUDE.md]] | AI 行為規範格式 | PM Skills 透過 CLAUDE.md 格式交付技能定義 |
+| [[affaan-m-ECC\|ECC]] | Agent harness 效能系統 | ECC 側重 coding agent 優化，PM Skills 側重產品決策 |
 
 ← [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[CLAUDE-md]] · [[affaan-m-ECC|ECC]]
 

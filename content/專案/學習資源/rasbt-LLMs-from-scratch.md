@@ -39,7 +39,7 @@ pip install -r setup/requirements.txt
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[minimind|MiniMind]] | 從零訓練實作 | LLMs from Scratch 偏理論教學，MiniMind 偏實作流程，兩者互補 |
+| [[minimind\|MiniMind]] | 從零訓練實作 | LLMs from Scratch 偏理論教學，MiniMind 偏實作流程，兩者互補 |
 | [[LLM]] | LLM 概念 | 本書是理解 LLM 內部運作的最佳入門 |
 | [[llm-internals]] | LLM 內部機制 | 本書的進階補充教材涵蓋此主題 |
 

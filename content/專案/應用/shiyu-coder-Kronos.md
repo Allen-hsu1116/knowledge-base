@@ -55,7 +55,7 @@ pred_df = predictor.predict(
 |------|------|------|
 | [[HKUDS-AI-Trader]] | Agent 交易平台 | Kronos 可作為 AI Trader 的預測引擎 |
 | [[daily-stock-analysis]] | 日常股票分析 | Kronos 是更底層的預測模型 |
-| [[minimind|MiniMind]] | 從零訓練 LLM | 兩者都是小模型從零訓練的範例 |
+| [[minimind\|MiniMind]] | 從零訓練 LLM | 兩者都是小模型從零訓練的範例 |
 
 ## 相關概念
 

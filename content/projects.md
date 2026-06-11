@@ -34,7 +34,7 @@ title: 專案索引
 | [[affaan-m-ECC\|ECC]] | ⭐189,233 | AI Agent, Harness, Token Optimization | 2026-05-20 |
 | [[msitarzewski-agency-agents\|The Agency]] | ⭐104,521 | Agent Persona, AI Skills, 人格庫 | 2026-05-20 |
 | [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,063 | GUI-VLA, edge-AI, computer-use-agent, AI Agent | 2026-05-20 |
-| [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md 規則]] | ⭐141,652 | AI Skills, Prompt Engineering, CLAUDE.md, Coding Agent CLI | 2026-05-20 |
+| [[multica-ai-andrej-karpathy-skills\|Karpathy CLAUDE.md 規則]] | ⭐141,652 | AI Skills, Prompt Engineering, CLAUDE.md, Coding Agent CLI | 2026-05-20 |
 | [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐36,330 | Coding Agent CLI, AI Agent, 軟體 CLI 封裝 | 2026-05-18 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
@@ -91,7 +91,7 @@ title: 專案索引
 | [[microsoft-markitdown]] | ⭐120,637 | RAG, 文件解析, MCP | 2026-05-05 |
 | [[datalab-to-chandra]] | ⭐10,444 | RAG, OCR, 文件解析 | 2026-05-05 |
 | [[safishamsi-graphify]] | ⭐41,860 | Knowledge Graph, RAG, MCP | 2026-05-04 |
-| [[volcengine-OpenViking]]（[[openviking|OpenViking]]） | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
+| [[volcengine-OpenViking]]（[[openviking\|OpenViking]]） | ⭐23,398 | Context Database, RAG, AI Agent | 2026-05-04 |
 
 | [[mempalace\|MemPalace]]（[[MemPalace-mempalace\|別名]]） | ⭐50,787 | AI Agent, MCP, 記憶, RAG, 知識圖譜 | 2026-05-03 |
 | [[ragflow]] | ⭐79,665 | RAG, AI Agent | 2026-05-03 |

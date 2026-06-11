@@ -44,8 +44,8 @@ MCP 設定：server URL `https://mcp.context7.com/mcp`，API key 透過 `CONTEXT
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[MCP]] | 協議 | Context7 是 MCP 的實作之一 |
-| [[openclaw|OpenClaw]] | Agent 平台 | OpenClaw 可透過 Context7 MCP 取得即時文件 |
-| [[qmd|QMD]] | 本地搜尋引擎 | QMD 搜尋本地知識庫，Context7 搜尋線上文件 |
+| [[openclaw\|OpenClaw]] | Agent 平台 | OpenClaw 可透過 Context7 MCP 取得即時文件 |
+| [[qmd\|QMD]] | 本地搜尋引擎 | QMD 搜尋本地知識庫，Context7 搜尋線上文件 |
 
 ## 相關概念
 

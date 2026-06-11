@@ -57,7 +57,7 @@ mempalace sweep
 |------|------|------|
 | [[mempalace]] | MemPalace 完整介紹 | MemPalace-mempalace 是別名頁 |
 | [[Chroma]] | 向量資料庫 | MemPalace 預設使用 ChromaDB 作為後端 |
-| [[rag|RAG]] | 檢索增強生成 | MemPalace 的宮殿索引 + 語意搜尋可改善 RAG |
+| [[rag\|RAG]] | 檢索增強生成 | MemPalace 的宮殿索引 + 語意搜尋可改善 RAG |
 | [[project-golem]] | 專案記憶 | Golem 用 lancedb-pro，架構不同但功能互補 |
 
 MemPalace 的宮殿結構跟 [[llm-knowledge-base|LLM 知識庫方法]]概念相似但方向不同：

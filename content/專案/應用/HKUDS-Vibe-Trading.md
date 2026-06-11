@@ -51,7 +51,7 @@ docker run -p 8000:8000 hkuds/vibe-trading
 |------|------|------|
 | [[virattt-dexter]] | AI 金融研究 Agent | Dexter 偏研究分析，Vibe-Trading 偏實戰交易 |
 | [[HKUDS-AI-Trader]] | Agent 交易平台 | AI-Trader 偏平台，Vibe-Trading 偬 Agent |
-| [[anthropics-financial-services|Anthropic FS]] | 分析師團隊 | Anthropic FS 做分析師工作產出，Vibe-Trading 偏實戰交易 |
+| [[anthropics-financial-services\|Anthropic FS]] | 分析師團隊 | Anthropic FS 做分析師工作產出，Vibe-Trading 偏實戰交易 |
 
 ## 相關概念
 

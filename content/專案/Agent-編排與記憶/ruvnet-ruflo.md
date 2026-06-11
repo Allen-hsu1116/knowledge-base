@@ -45,9 +45,9 @@ claude mcp add ruflo -- npx ruflo@latest mcp start
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[bytedance-deer-flow|DeerFlow]] | Agent 編排 | 同為多 Agent 編排，DeerFlow 側重子 Agent 沙箱 |
+| [[bytedance-deer-flow\|DeerFlow]] | Agent 編排 | 同為多 Agent 編排，DeerFlow 側重子 Agent 沙箱 |
 | [[CrewAI]] | 多 Agent 協作 | CrewAI 側重角色扮演，Ruflo 側重 Swarm 自組織 |
-| [[agent-skills-ecosystem|Agent Skills 生態系]] | Skill 生態 | Ruflo 的 Plugin Marketplace 是 Agent Skills 的實作之一 |
+| [[agent-skills-ecosystem\|Agent Skills 生態系]] | Skill 生態 | Ruflo 的 Plugin Marketplace 是 Agent Skills 的實作之一 |
 
 ## 相關概念
 

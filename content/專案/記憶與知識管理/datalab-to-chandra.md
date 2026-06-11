@@ -67,7 +67,7 @@ ocr_result = OCR("complex_table.pdf")
 | 工具 | 定位 | 表格能力 | 手寫 | 版面保留 | 方法 |
 |------|------|----------|------|----------|------|
 | **Chandra** | 高精確度 OCR | ✅ 強 | ✅ | ✅ | 視覺模型 |
-| **[[microsoft-markitdown|MarkItDown]]** | 文件→Markdown | ⚠️ 基本 | ❌ | ⚠️ 基本 | 規則轉換 |
+| **[[microsoft-markitdown\|MarkItDown]]** | 文件→Markdown | ⚠️ 基本 | ❌ | ⚠️ 基本 | 規則轉換 |
 | **[[docling]]** | 完整文件解析 | ✅ | ❌ | ✅ | 混合 pipeline |
 | **Tesseract** | 傳統 OCR | ❌ | ❌ | ❌ | Pipeline OCR |
 

@@ -92,8 +92,8 @@ scores, ids = idx.search(query, k=10, allowlist=allowed)
 | [[Qdrant]] | 向量搜尋引擎 | Qdrant 是獨立服務，TurboVec 是嵌入庫 |
 | [[Chroma]] | 輕量向量資料庫 | Chroma 是 Python-first 向量 DB，TurboVec 是更極致的壓縮索引 |
 | FAISS | Facebook 向量搜尋庫 | TurboVec 直接對標 FAISS IndexPQFastScan，在 ARM 上快 12-20% |
-| [[rag|RAG]] | 檢索增強生成 | TurboVec 可作為 RAG 的向量索引層，特別適合隱私和成本敏感場景 |
-| [[yichuan-w-LEANN|LEANN]] | 輕量 RAG 引擎 | LEANN 側重端到端 RAG，TurboVec 側重向量壓縮和搜尋效能 |
+| [[rag\|RAG]] | 檢索增強生成 | TurboVec 可作為 RAG 的向量索引層，特別適合隱私和成本敏感場景 |
+| [[yichuan-w-LEANN\|LEANN]] | 輕量 RAG 引擎 | LEANN 側重端到端 RAG，TurboVec 側重向量壓縮和搜尋效能 |
 
 ← [[rag]] · [[向量資料庫]] · [[Token-Optimization|Token Optimization]] · [[yichuan-w-LEANN|LEANN]]
 

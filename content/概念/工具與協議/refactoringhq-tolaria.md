@@ -63,10 +63,10 @@ pnpm tauri dev    # 桌面應用模式
 
 | 專案 | 定位 | 與 Tolaria 的關係 |
 |------|------|-------------------|
-| [[llm-knowledge-base|LLM 知識庫系統]] | 用 LLM 編譯知識的方法論 | Tolaria 是此方法的桌面端工具實現 |
+| [[llm-knowledge-base\|LLM 知識庫系統]] | 用 LLM 編譯知識的方法論 | Tolaria 是此方法的桌面端工具實現 |
 | Obsidian | Markdown 知識庫管理 | 同類競品，但 Tolaria 更強調 Git 原生和 AI 整合 |
-| [[mempalace|MemPalace]] | AI 記憶引擎 | MemPalace 側重記憶管理，Tolaria 側重知識庫管理 |
-| [[refactoringhq-tolaria|Tolaria]] | 本身 | — |
+| [[mempalace\|MemPalace]] | AI 記憶引擎 | MemPalace 側重記憶管理，Tolaria 側重知識庫管理 |
+| [[refactoringhq-tolaria\|Tolaria]] | 本身 | — |
 
 ← [[llm-knowledge-base|LLM 知識庫系統]] · [[AI-Skills]] · [[mempalace|MemPalace]] · [[CLAUDE-md|CLAUDE.md]]
 
