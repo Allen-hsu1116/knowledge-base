@@ -1,56 +1,89 @@
+---
+title: CLI-Anything
+slug: HKUDS-CLI-Anything
+created: 2025-06-07
+updated: 2025-06-07
+stars: 42231
+language: Python
+topics:
+  - CLI
+  - Agent-Native
+  - MCP
+  - Software-Automation
+---
+
 # CLI-Anything
 
-> Making ALL Software Agent-Native
+> ⭐42.2k · 讓所有軟體都能被 AI Agent 原生操控，一條指令為任何軟體生成 CLI 封裝。
 
-**Repo:** <https://github.com/HKUDS/CLI-Anything>
-**Stars:** ⭐ 36,330
-**Language:** Python
-**Created:** 2026-03-08
+## 快速導航
 
-## 一句話
+- 🤖 [[AI-Agent]] — AI 智能體框架
+- 🖥️ [[opencli]] — OpenCLI 開放命令列介面
+- 💻 [[Coding-Agent-CLI]] — 程式碼智能體 CLI
+- 🔌 [[MCP]] — Model Context Protocol
+- ⚙️ [[workflow-automation]] — 工作流程自動化
 
-CLI-Anything 讓你用一行指令把任何軟體包成 CLI harness，讓 AI Agent（Claude Code、Pi、OpenClaw、Codex 等）可以直接呼叫操作——從 GIMP、Blender 到 LibreOffice、Zoom 都能 agent-native。
+## 是什麼
 
-## 核心概念
+**CLI-Anything** 是香港大學數據科學實驗室（HKUDS）推出的開源專案，核心理念是「今天的軟體服務人類👨‍💻，明天的使用者將是 Agent🤖」。它可以用一條指令為任何軟體自動生成 CLI 封裝（harness），讓 AI Agent 能透過命令列原生操控該軟體。
 
-CLI-Anything 的主張是：**CLI 是人類與 AI Agent 之間的通用介面**。文字指令天然匹配 LLM 的輸入格式，結構化 JSON 輸出消除了解析複雜度，`--help` 自動產生 Agent 可發現的文件。
+CLI-Anything 不只是單一工具，而是一個生態系統：
+- **CLI Generator** — 自動為目標軟體生成 CLI harness
+- **CLI-Hub** — 社群共建的 CLI 註冊中心，`pip install cli-anything-hub` 即可瀏覽安裝
+- **Preview & Live Preview** — 讓 Agent 在執行前預覽結果
+- **Trajectory Loops** — Agent 可自主迭代修正直到滿意
 
-### 7 階段 Pipeline
+目前已支援 18+ 個應用的 CLI harness，通過 2,461 個測試案例驗證。
 
-1. **Analyze** — 掃描原始碼，將 GUI 動作對應到 API
-2. **Design** — 設計指令群組、狀態模型、輸出格式
-3. **Implement** — 用 Click 建 CLI（REPL + JSON output + undo/redo）
-4. **Plan Tests** — 產生 TEST.md（unit + E2E）
-5. **Write Tests** — 實作測試 suite
-6. **Document** — 更新文件
-7. **Publish** — 建立 `setup.py`，安裝到 PATH
+## 核心特色
 
-### CLI-Hub
+- **⚡ 一鍵生成 CLI** — 為任何軟體自動生成Agent可用的 CLI 封裝
+- **🏪 CLI-Hub 生態** — 社群共建的 CLI 註冊中心，一鍵安裝
+- **👁️ 預覽機制** — Preview 和 Live Preview，Agent 執行前可預覽結果
+- **🔄 軌跡循環** — Agent 可自主迭代修正，形成反饋閉環
+- **🔧 多 Agent 支援** — 相容 Pi、OpenClaw、nanobot、Cursor、Claude Code 等
+- **✅ 2,461 測試** — 完整的單元+E2E測試覆蓋
 
-`pip install cli-anything-hub` 即可瀏覽、安裝、管理所有社群建好的 CLI harness，支援 pip / npm / brew / bundled 等多種安裝來源。
+## 怎麼用
 
-### 支援平台
+```bash
+# 安裝
+pip install cli-anything
 
-- Claude Code（plugin marketplace）
-- Pi Coding Agent
-- OpenCode
-- OpenClaw（SKILL.md）
-- Codex
-- GitHub Copilot CLI
-- Goose
+# 為目標軟體生成 CLI
+cli-anything generate --target blender
 
-### 已有 harness
+# 透過 CLI-Hub 瀏覽和安裝社群 CLI
+pip install cli-anything-hub
+cli-hub install blender
 
-GIMP、Blender、LibreOffice、FreeCAD、Kdenlive、Shotcut、Inkscape、MuseScore、Godot、Zoom、Obsidian、Zotero、Krita、Safari、n8n、QGIS 等超過 18 個應用。2,269 個測試全通過。
+# 在 Agent 中使用生成的 CLI
+# 生成的 CLI 會輸出 JSON 格式結果，方便 Agent 解析
+```
 
-## 為什麼重要
+## 跟其他方案的關係
 
-傳統 GUI 軟體對 AI Agent 來說幾乎不可操作。CLI-Anything 透過自動化 7 階段 pipeline 來「代理化」這些軟體——Agent 不再只能操作終端和 API，也能操控圖形工具、影音剪輯、3D 建模等。這大幅擴展了 Agent 的實際能動範圍。
+| 專案 | 定位 | 自動生成 CLI | 社群 Hub | Agent 預覽 | 開源 |
+|------|------|-------------|---------|-----------|------|
+| **CLI-Anything** | 軟體 Agent 原生化 | ✅ | ✅ CLI-Hub | ✅ | ✅ Apache 2.0 |
+| [[opencli\|OpenCLI]] | 開放 CLI 標準 | ❌ | ❌ | ❌ | ✅ |
+| MCP Servers | Agent 協議 | ❌ | ✅ 部分 | ❌ | 各異 |
+| Browser Use | 網頁操控 | N/A | N/A | ✅ 截圖 | ✅ |
 
 ## 相關概念
 
-- [[AI-Agent]] — CLI 是 Agent 操作軟體的通用介面
-- [[Coding-Agent-CLI]] — 支援多種 Coding Agent 平台
-- [[AI-Skills]] — 每個生成的 CLI 都附帶 AI 發現用的 SKILL.md
-- [[agent-skills-ecosystem]] — CLI-Hub 作為 skill 生態系的中樞
-- [[opencli]] — CLI-Anything 的精神一致：用 CLI 打通一切
+← [[AI-Agent]] · [[opencli]] · [[MCP]] · [[workflow-automation]]
+
+## 來源
+
+> 完整 README 見 [[raw/2025-06-07-HKUDS-CLI-Anything|raw 檔案]]
+
+---
+
+| 項目 | 資訊 |
+|------|------|
+| GitHub | https://github.com/HKUDS/CLI-Anything |
+| Stars | ⭐ 42,231 |
+| License | Apache License 2.0 |
+| 收錄日期 | 2025-06-07 |

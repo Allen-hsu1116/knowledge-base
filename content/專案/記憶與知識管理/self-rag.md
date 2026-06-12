@@ -1,6 +1,14 @@
 ---
+
+
 title: Self-RAG
+slug: self-rag
 created: 2026-05-11
+
+
+updated: 2026-05-11
+language: zh-TW
+topics: []
 ---
 
 # Self-RAG

@@ -1,26 +1,300 @@
+## 2026-06-09（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **aaif-goose-goose** — Goose 開源通用 AI Agent，桌面 + CLI + API（⭐ 48,112）
+- **luongnv89-claude-howto** — Claude Code 視覺化學習指南，10 模組（⭐ 35,777）
+- **danielmiessler-Personal_AI_Infrastructure** — Personal AI Infrastructure Life OS（⭐ 15,425）
+- **refactoringhq-tolaria** — Tolaria Markdown 知識庫管理桌面應用（⭐ 13,580）
+
+### 分類
+- 🤖 Agent 框架與工具：Goose、Personal AI Infrastructure
+- 📖 學習資源：Claude HowTo
+- 🧠 記憶與知識管理：Tolaria
+
+### 來源
+- GitHub Trending + Topic 搜尋（llm, ai-agent, mcp, etc.）
+
 ---
+
+## 2026-06-08（批次更新：AI Agent Skills 系列）
+
+### 更新
+- **anthropics-skills** — 加入 frontend-design 和 webapp-testing Skill 詳解（⭐ 147,937）
+- **vercel-labs-agent-skills** — 加入 web-design-guidelines Skill 詳解（⭐ 27,725）
+- **softaworks-agent-toolkit** — 加入 design-system-starter Skill 詳解（⭐ 1,979）
+- **openai-skills** — 加入 4 個 Figma Skill 詳解：figma、figma-use、figma-generate-design、figma-implement-design（⭐ 21,702）
+- **nextlevelbuilder-ui-ux-pro-max-skill** — 更新 stars、加入 v2.0 內容（⭐ 88,842）
+- **expo-skills** — 更新 README 內容和安裝說明（⭐ 2,038）
+
+### 新增概念頁
+- **Frontend-Design-Agent-Skills** — 前端設計 Agent Skill 總覽（Anthropic、Vercel、SoftaWorks 四大 Skill）
+- **Figma-Skills** — 已有頁面（OpenAI Figma 系列 4 個 Skill）
+
+### 來源
+- https://github.com/anthropics/skills (frontend-design, webapp-testing)
+- https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+- https://github.com/vercel-labs/agent-skills (web-design-guidelines)
+- https://mcpservers.org/agent-skills/anthropic/webapp-testing
+- https://github.com/softaworks/agent-toolkit (design-system-starter)
+- https://github.com/openai/skills (figma, figma-use, figma-generate-design, figma-implement-design)
+- https://github.com/expo/skills
+
+---
+
 title: 整理記錄
+
+slug: log
+language: zh-TW
+topics: ["記錄", "日誌"]
 ---
 
 # 整理記錄
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 
-## 2026-06-10
+## 2026-06-07
+
+### [2026-06-07] ingest | 批量新增 6 個 repo
+
+新增 repo：
+1. **Mininglamp-AI/Mano-P** ⭐2.3k — 開源 GUI-VLA 智能體，OSWorld #1 → wiki/Mininglamp-AI-Mano-P.md → projects.md「🤖 Agent 框架與工具」
+2. **linyqh/NarratoAI** ⭐9.7k — AI 影視解說+自動化剪輯工具 → wiki/linyqh-NarratoAI.md → projects.md「🎯 多媒體與爬蟲」
+3. **Shubhamsaboo/awesome-llm-apps** ⭐113.6k — 100+ 可直接運行的 LLM 應用模板 → wiki/Shubhamsaboo-awesome-llm-apps.md → projects.md「🤖 Agent 框架與工具」
+4. **feicaiclub/video-spec-builder** ⭐306 — 影片分鏡腳本 AI Skill → wiki/feicaiclub-video-spec-builder.md → projects.md「🎯 多媒體與爬蟲」
+5. **HKUDS/CLI-Anything** ⭐42.2k — 讓所有軟體 Agent 原生的 CLI 生成工具 → wiki/HKUDS-CLI-Anything.md → projects.md「🤖 Agent 框架與工具」（更新 stars）
+6. **harry0703/MoneyPrinterTurbo** ⭐80.7k — AI 短影片全自動生成 → wiki/harry0703-MoneyPrinterTurbo.md → projects.md「🎯 多媒體與爬蟲」（更新 stars）
+
+更新 backlinks：AI-Agent.md, projects.md, known-repos.json
+
+## 2026-06-01
+
+### [2026-06-01] ingest | 每日 LLM 熱門專案搜尋 — 新增 3 個 repo
+
+新增 repo：
+1. **D4Vinci/Scrapling** ⭐56.6k — 自適應網頁爬蟲框架 → wiki/D4Vinci-Scrapling.md → projects.md「🎯 多媒體與爬蟲」
+2. **supermemoryai/supermemory** ⭐23.3k — AI 記憶引擎 → wiki/supermemoryai-supermemory.md → projects.md「🧠 記憶與知識管理」
+3. **nesquena/hermes-webui** ⭐10k — Hermes Agent Web 介面 → wiki/nesquena-hermes-webui.md → projects.md「🤖 Agent 框架與工具」
+
+排除：
+- `developer-portfolios`：純 awesome-list
+- `github/docs`：GitHub 官方文件，非 LLM/AI 工具
+
+更新：
+- known-repos.json：新增 3 個 repo + 3 個概念
+- projects.md：3 個分類區各新增 1 筆
+
+## 2026-05-31
+
+### [2026-05-31] lint | 知識庫 lint 修復
+
+修復項目：
+- **frontmatter tags 殘留**：移除 `anthropics-knowledge-work-plugins.md` 和 `Leonxlnx-taste-skill.md` 的 `tags:` 欄位，改用 `topics:`（符合 Quartz 規範）
+- **projects.md 日期排序**：修正基礎設施區塊中 `arthurpanhku-DocSentinel`（2026-05-29）和 `iii-hq-iii`（2026-05-28）的排序
+- **斷掉的 cross-links 修復**：
+  - `[[擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
+  - `[[rasbt-LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
+  - `[[czlonkowski-n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
+  - `[[raw/...]]` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
+  - `[[CRM]]` `[[DNS]]` `[[NAS]]` — 拆掉非頁面 wikilink
+  - `[[Vibe-Coding]]` → 純文字 "Vibe Coding"
+  - `[[coding-agent-toolkit]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`
+- **孤兒頁修復**：
+  - 新增 `向量資料庫` 到 index.md 概念區
+  - index.md 的 web-crawling 條目加上 `[[網頁爬蟲]]` 引用
+  - 新增 `anthropics-knowledge-work-plugins` 和 `Leonxlnx-taste-skill` 到 projects.md Skill 生態系
+  - 新增 `openclaw` 到 projects.md 基礎設施
+- **index.md 無日期堆積區段** ✅
+- **概念區無帶 Stars 的專案條目** ✅
+- 同步部署到 Quartz/GitHub Pages ✅
+
+## 2026-05-29
+
+### [2026-05-29] ingest | daily-llm-trending 自動收錄 4 個新專案
+
+- **EveryInc/compound-engineering-plugin** ⭐17,771 — Claude Code/Codex/Cursor 複利工程插件，讓每次工作都讓下一次更容易
+- **revfactory/harness** ⭐3,887 — Claude Code 的團隊架構工廠，六種 agent 團隊模式自動生成
+- **OpenMOSS/MOSS-TTS** ⭐2,241 — 開源語音合成模型家族，五合一涵蓋長語音、對話、設計、音效、即時串流
+- **arthurpanhku/DocSentinel** ⭐88 — AI 驅動的 SSDLC 安全評估平台，LangGraph 編排六個安全 Agent
+
+## 2026-05-28
+
+### [2026-05-28] ingest | daily-llm-trending 自動收錄 5 個新專案
+
+- **harry0703/MoneyPrinterTurbo** ⭐62,027 — AI 一鍵生成高清短視頻，自動文案+素材+字幕+配樂
+- **byoungd/English-level-up-tips** ⭐46,667 — 離譜的英語學習指南，全方位方法論+AI輔助方案
+- **p-e-w/heretic** ⭐22,010 — 全自動移除語言模型審查機制，directional ablation + Optuna 優化
+- **iii-hq/iii** ⭐16,876 — 即時組合擴展觀測服務的統一平台，Worker/Function/Trigger 三原語
+- **hardikpandya/stop-slop** ⭐5,700 — 移除 AI 寫作痕跡的 skill 檔案，5 維度評分系統
+
+## 2026-05-27
+
+### [2026-05-27] ingest | daily-llm-trending 自動收錄 5 個新專案
+
+- **DigitalPlatDev/FreeDomain** ⭐167,376 — 免費域名註冊服務，5 種免費頂級網域，50 萬+域名已註冊
+- **jellyfin/jellyfin** ⭐52,381 — 開源媒體串流系統，Plex/Emby 的完全免費替代
+- **twentyhq/twenty** ⭐46,861 — 排名第一的開源 CRM，Salesforce 替代，程式碼定義 + AI 整合
+- **Open-Dev-Society/OpenStock** ⭐12,114 — 開源股市追蹤平台，即時報價 + 個人化警報
+- **Axorax/awesome-free-apps** ⭐5,268 — 免費 PC/行動 App 策展清單，數十大分類
+
+新增概念：free-domain、self-hosted、media-streaming、CRM、open-source-business、AI-integration、stock-tracking、free-software
+
+## 2026-05-26
+
+### [2026-05-26] ingest | daily-llm-trending 自動收錄 5 個新專案（第二批）
+
+- **anthropics/claude-cookbooks** ⭐44,023 — Anthropic 官方 Claude 實戰食譜集，Jupyter Notebook 格式，涵蓋 RAG、Tool Use、多模態、子代理
+- **paperless-ngx/paperless-ngx** ⭐41,336 — 開源文件管理系統，OCR + 全文搜尋 + 自動分類
+- **moeru-ai/airi** ⭐39,726 — 開源 AI 虛擬夥伴（Neuro-sama 替代），WebGPU/WebAudio 建構，可遊戲、聊天、直播
+- **Leonxlnx/taste-skill** ⭐19,717 — 反模板 AI 前端技能框架，多種風格變體 + 可調參數，讓 AI 生成更好的 UI
+- **anthropics/knowledge-work-plugins** ⭐15,460 — Anthropic 官方知識工作者插件集，11 角色插件 for Claude Cowork/Code
+
+新增概念頁：OCR、AI-companion、VTuber、frontend-design、Claude-Cowork（已有概念補強連結）
+
+### [2026-05-26] ingest | daily-llm-trending 自動收錄 5 個新專案
+
+- **codecrafters-io/build-your-own-x** ⭐504k — 從零重建技術的教學合集（28 類技術）
+- **666ghj/MiroFish** ⭐62k — 多 Agent 群體智慧預測引擎（GraphRAG + 社會模擬）
+- **earendil-works/pi** ⭐54k — AI agent harness monorepo（coding agent CLI + 統一 LLM API + TUI）
+- **blakeblackshear/frigate** ⭐33k — 本地即時物件偵測 NVR（Home Assistant 整合）
+- **manaflow-ai/cmux** ⭐19k — Ghostty-based macOS 終端機（為 AI coding agent 工作流設計）
+
+新增概念頁：simulation、GraphRAG、coding-agent-toolkit（已有則補強連結）
+
+## 2026-05-25
+
+### [2026-05-25] lint | 知識庫 lint 待辦處理
+
+#### 處理 5/24 lint 待辦項目
+
+**斷掉的 cross-links（原 30 個 → 0 個）**:
+1. ✅ 建立 8 個概念頁：pentesting、financial-forecasting、computer-vision、workflow-automation、agent-harness-optimization、self-hosted-AI-platform、AI-presentation、pptx-generation
+2. ✅ 建立專案頁：ZhuLinsen-alphasift、ZhuLinsen-alphaevo
+3. ✅ 修正 10 個連結重定向：LLMs-from-scratch→rasbt-LLMs-from-scratch、AI-Agent-Tutorial→microsoft-ai-agents-for-beginners、AI-Trader→HKUDS-AI-Trader、12-factor-agents→humanlayer-12-factor-agents 等
+4. ✅ 轉純文字 8 個外部軟體名：Blender、Synfig Studio、Baileys、whatsapp-web.js、mem0、Letta/MemGPT 等
+5. ✅ 修正 index.md ECC→affaan-m-ECC
+
+**缺區塊頁面（原 58 個 → 0 個）**:
+1. ✅ 補齊 30+ 專案頁的快速導航和來源區塊（三批處理）
+2. ✅ 補齊 17 個概念頁的核心和來源區塊
+3. ✅ 含別名頁（sandbox、waoowaoo、web-scraping 等）指向主頁
+
+**Missing Stars（10 個概念頁，不需 Stars）**:
+- openclaw、claude-code-boris-cherny、openviking、web-crawling、web-scraping、網頁爬蟲、語音辨識、sandbox、visualization、gemma4-mtp-drafters — 皆為概念頁或文章，— 標註合理
+
+**raw 素材未整理（1 個 → 0 個）**:
+1. ✅ compile 2026-05-22-abmedia-claude-md-12-rules.md → CLAUDE-md.md（新增 Karpathy 4 條 + Mnilax 8 條區塊）
+
+#### 最終驗證
+- 斷掉的 cross-links: 0
+- 缺區塊頁面: 0
+- raw 素材未整理: 0
+- 總 wiki 頁數: 210
+
+## [2026-05-24] lint | 知識庫 lint 掃描與修復
+
+### 發現問題
+1. **斷掉的 cross-links**: 30 個連結指向不存在的頁面（概念頁如 pentesting、LLMs-from-scratch 等）
+2. **孤兒頁**: 3 個頁面不在 index.md 或 projects.md（Alishahryar1-free-claude-code、CLAUDE-md、frappe-erpnext）
+3. **index.md 概念區混入專案條目**: 6 個帶 Stars 的條目出現在概念區（multica-ai-multica、mukul975-Anthropic-Cybersecurity-Skills 等）
+4. **WikiLink 大小寫不一致**: 2 個（log.md 中 AI-Self-Growth→ai-self-growth、Self-Correction→self-correction）
+5. **缺區塊頁面**: 58 個頁面缺少必要區塊（36 個專案頁缺快速導航/來源等，22 個概念頁缺核心內容/來源）
+6. **Missing Stars**: 10 個專案頁有 GitHub 連結但缺 Stars 欄位
+7. **raw 素材未整理**: 1 個（2026-05-22-abmedia-claude-md-12-rules.md）
+8. **缺交叉連結**: web-scraping 未連回 web-crawling
+
+### 修復動作
+1. ✅ 移除 index.md 概念區的 6 個帶 Stars 專案條目（改列於 projects.md）
+2. ✅ 新增 7 個專案到 projects.md（multica-ai-multica、mukul975、presenton-presenton、ChromeDevTools、affaan-m-ECC、msitarzewski-agency-agents、trimstray-the-book-of-secret-knowledge）
+3. ✅ 新增 2 個孤立專案到 projects.md（Alishahryar1-free-claude-code、frappe-erpnext）
+4. ✅ 新增 CLAUDE-md 到 index.md 概念區
+5. ✅ 修正 log.md 中的 WikiLink 大小寫問題
+6. ✅ 新增 web-scraping → web-crawling 交叉連結
+
+### 待辦（需手動處理）
+- 30 個斷掉的 cross-links 需要建立缺失的 wiki 頁面或修正連結
+- 58 個頁面缺區塊需補齊
+- 10 個專案頁需查詢 GitHub Stars
+- 1 個 raw 素材未整理
+
+
+**Ingest + Compile**：
+1. GitHub: multica-ai/multica ⭐31,926 — 開源 managed agents 平台，把 coding agents 變成真正的隊友
+2. GitHub: mukul975/Anthropic-Cybersecurity-Skills ⭐7,418 — 754 個結構化網安技能 for AI agents，5 框架對映
+3. GitHub: presenton/presenton ⭐6,369 — 開源 AI 簡報產生器與 API，Gamma/Beautiful AI 自架替代
+
+- 新增 wiki/multica-ai-multica.md
+- 新增 wiki/mukul975-Anthropic-Cybersecurity-Skills.md
+- 新增 wiki/presenton-presenton.md
+- 更新 known-repos.json（+3 repos, +5 concepts: managed-agents, cybersecurity-skills, MITRE-ATT&CK, AI-presentation, pptx-generation）
+- 更新 wiki/index.md
+
+排除：yt-dlp/yt-dlp（影片下載工具，非 LLM/AI 相關）、odoo/odoo（ERP 系統，非 LLM/AI 相關）
+
+## 2026-05-23
+
+**Ingest + Compile**：
+1. GitHub: Fincept-Corporation/FinceptTerminal ⭐22,646 — 機構級金融智慧平台，37 個 AI Agent + 100+ 數據連接器
+2. GitHub: karpathy/nn-zero-to-hero ⭐22,343 — Karpathy 神經網路課程，從 micrograd 到 GPT
+3. GitHub: Lum1104/Understand-Anything ⭐18,628 — 程式碼/知識庫轉互動式知識圖譜，多 Agent 流水線
+
+- 新增 wiki/FinceptTerminal.md
+- 新增 wiki/nn-zero-to-hero.md
+- 新增 wiki/Understand-Anything.md
+- 更新 known-repos.json（+3 repos, +3 concepts）
+- 更新 wiki/index.md
+- 更新 wiki/projects.md
+
+排除：yt-dlp/yt-dlp（影片下載工具，非 LLM/AI 相關）、odoo/odoo（ERP 系統，非 LLM/AI 相關）
+
+## 2026-05-22（下午 batch）
 
 **Ingest**：
-1. GitHub: x1xhlol/system-prompts-and-models-of-ai-tools ⭐139,157 — 20+ AI 工具的完整系統提示詞逆向集合（Cursor, Devin, Windsurf, Claude Code 等）
-2. GitHub: refactoringhq/tolaria ⭐14,330 — 桌面端 Markdown 知識庫管理工具，Git 原生、離線優先、AI 整合
-3. GitHub: phuryn/pm-skills ⭐13,435 — 68 個 PM 技能 + 42 條工作流，9 大插件，產品決策 AI 作業系統
-4. GitHub: RyanCodrai/turbovec ⭐10,180 — 基於 TurboQuant 的向量索引，16x 壓縮、超越 FAISS、純本地
+1. GitHub: trimstray/the-book-of-secret-knowledge ⭐222,443 — 系統管理/DevOps/資安工具與知識大全集
+2. GitHub: affaan-m/ECC ⭐188,164 — AI agent harness 性能優化 OS，跨 7+ harness
+3. GitHub: multica-ai/andrej-karpathy-skills ⭐143,191 — 單一 CLAUDE.md 把 Karpathy 的 LLM coding 觀察化為四條原則
+4. GitHub: msitarzewski/agency-agents ⭐103,672 — 100+ 專業 AI agent 角色庫（含中國平台）
+5. GitHub: ChromeDevTools/chrome-devtools-mcp ⭐40,488 — Google 官方 Chrome DevTools MCP server
 
-- 新增 wiki/x1xhlol-system-prompts-and-models-of-ai-tools.md（→ Agent 框架與工具）
-- 新增 wiki/refactoringhq-tolaria.md（→ 記憶與知識管理）
-- 新增 wiki/phuryn-pm-skills.md（→ Skill 生態系）
-- 新增 wiki/RyanCodrai-turbovec.md（→ 向量資料庫）
-- 更新 wiki/index.md（新增 4 個概念條目）
-- 更新 wiki/projects.md（新增 4 個專案條目）
-- 更新 known-repos.json
+- 新增 wiki/trimstray-the-book-of-secret-knowledge.md
+- 新增 wiki/affaan-m-ECC.md
+- 新增 wiki/multica-ai-andrej-karpathy-skills.md
+- 新增 wiki/msitarzewski-agency-agents.md
+- 新增 wiki/ChromeDevTools-chrome-devtools-mcp.md
+- 更新 known-repos.json（+5 repos, +3 concepts）
+- 更新 wiki/index.md
+
+## 2026-05-22
+
+| 動作 | 標題 | 摘要 |
+| ingest | rohitg00/agentmemory | AI coding agent 持久化記憶系統，95.2% R@5，53 MCP tools，⭐15,140 |
+| ingest | rohitg00/ai-engineering-from-scratch | 435 課 20 階段 AI 工程課程，四語言，每課產出 artifact，⭐9,567 |
+| ingest | opentoonz/opentoonz | 吉卜力工作室客製化開源 2D 動畫軟體，⭐6,347 |
+| ingest | HKUDS/ViMax | Agentic 影片生成框架，Director/Screenwriter/Producer 四合一，⭐6,064 |
+| ingest | rmyndharis/OpenWA | 開源 WhatsApp API Gateway，pluggable 架構，⭐4,864 |
+| compile | projects.md | +5 repos |
+| compile | known-repos.json | +5 repos, +3 concepts |
+| update | ZhuLinsen/daily_stock_analysis | 更新知識庫頁面：stars 33.7k→38.1k，新增 15 種策略（原 11 種）、Agent 問股（Web/Bot/API）、Web/桌面工作台、社交輿情、智能導入補全、AlphaSift/AlphaEvo 相關專案 |
+
+## 2026-05-20
+
+| 動作 | 標題 | 摘要 |
+|------|------|------|
+| ingest | affaan-m/ECC | Agent harness 效能優化系統，60+ agents / 232+ skills，跨 7+ 工具，⭐187,193 |
+| ingest | multica-ai/andrej-karpathy-skills | Karpathy 觀點啟發的 Claude Code 四大原則（思考先行、簡單優先、精準修改、目標驅動），⭐138,023 |
+| ingest | msitarzewski/agency-agents | 144+ 專業 AI agent 人格集合，跨 10+ 工具支援，⭐101,621 |
+| ingest | frappe/erpnext | 100% 開源 ERP 系統，涵蓋會計/訂單/製造/資產/專案，⭐34,279 |
+| ingest | Alishahryar1/free-claude-code | Claude Code 免費代理，10 個 provider 後端路由，⭐26,376 |
+| compile | index.md | 新增 ECC、Agent Harness 優化概念 |
+| compile | known-repos.json | +5 repos, +4 concepts |
+
+## 2026-05-19
+
+| 動作 | 標題 | 摘要 |
+|------|------|------|
+| ingest | NVlabs-Sana | NVIDIA/MIT 高效擴散模型系列，4K 影像+影片生成，⭐6361 |
+| ingest | BigBodyCobain-Shadowbroker | 開源即時 OSINT 情報平台，60+ 情報源+AI Agent 通道，⭐7555 |
+| compile | index.md | 新增擴散模型、世界模型概念 |
+| compile | known-repos.json | +2 repos, +2 concepts |
 
 ## 2026-05-18
 
@@ -185,7 +459,7 @@ title: 整理記錄
    - hermes-agent：— → ⭐141,768
    - daily-stock-analysis：⭐— → ⭐34,945
    - gemma4-mtp-drafters：標註為研究文章（非 GitHub 專案）
-4. **格式修復**：index.md 中 `[[sgl-project-sglang|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang\|SGLang]]`
+4. **格式修復**：index.md 中 `[[sgl-project-sglang|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang|SGLang]]`
 
 未修復（需人工確認）：
 1. **重複專案頁**：ppt-master.md vs hugohe3-ppt-master.md、waoowaoo.md vs saturndec-waoowaoo.md、daily-stock-analysis.md vs ZhuLinsen-daily_stock_analysis.md、rtk.md vs rtk-ai-rtk.md、opensandbox.md vs volcengine-OpenSandbox.md — 同一專案有兩頁（一頁是概念/概念頁，一頁是 9 區塊專案頁），建議合併
@@ -459,8 +733,8 @@ title: 整理記錄
 ### 修復項目
 
 1. **斷掉的 cross-link 修復**：
-   - `[[AI-Self-Growth]]` → `[[ai-self-growth|AI 自我成長]]`（大小寫不符檔名）
-   - `[[Self-Correction]]` → `[[self-correction|Self-Correction 自我修正]]`（大小寫不符檔名）
+   - `[[ai-self-growth]]` → `[[ai-self-growth|AI 自我成長]]`（大小寫不符檔名）
+   - `[[self-correction]]` → `[[self-correction|Self-Correction 自我修正]]`（大小寫不符檔名）
    - `[[AI-Agent]]` → `[[AI-Agent|AI Agent]]`（補上 alias）
    - 修正 `ai-self-growth.md` 和 `index.md` 中的 cross-link
 
@@ -595,3 +869,168 @@ title: 整理記錄
 - agent-skills-ecosystem.md：加入 Matt Pocock Skills 和 Codex Complexity Optimizer 到相關專案
 - codeburn.md：加入 Matt Pocock Skills 和 Codex Complexity Optimizer 到比較表
 - projects.md：Agent 框架與工具（+CUA）、Skill 生態系（+Matt Pocock Skills +Codex Complexity Optimizer）、基礎設施（+CUA）
+
+## [2026-05-18] lint | 知識庫 lint 檢查與修復
+
+### 發現的問題
+1. ❌ 斷掉的 cross-links: CloakHQ-CloakBrowser → [[pentesting]]（不存在）、andrej-karpathy-ai-how → [[claude-code-boris-cherny-advanced-techniques]]（拼字錯誤 cheny→cherny）
+2. ❌ 孤兒頁 7 個：CloakHQ-CloakBrowser, HKUDS-CLI-Anything, KeygraphHQ-shannon, embedded-AI, humanlayer-12-factor-agents, microsoft-ai-agents-for-beginners, plausible-analytics
+3. ❌ projects.md 日期排序錯誤 3 處
+4. ❌ index.md 表格格式不一致（|| 和 ||| 混用）
+5. ❌ projects.md 表格格式不一致（|| 行）
+6. ⚠️ 專案頁 29 個缺區塊（底部 metadata 最常見）
+7. ⚠️ 概念頁 28 個缺區塊
+8. ⚠️ Stars 欄位 16 個問題（缺 Stars 或數值偏低）
+9. ⚠️ 未整理 raw 素材 4 個（AlexsJones-llmfit 有 wiki 但 raw 未被引用；CloakHQ-CloakBrowser, HKUDS-CLI-Anything, KeygraphHQ-shannon 的 raw 尚未編譯）
+
+### 已修復
+1. ✅ 修復 CloakHQ-CloakBrowser 的斷 link → [[KeygraphHQ-shannon]]
+2. ✅ 修復 andrej-karpathy-ai-how 拼字錯誤 cheny→cherny
+3. ✅ 移除 index.md 幽靈概念 [[pentesting]]（無對應 wiki 頁）
+4. ✅ 補齊 7 個孤兒頁到 index.md 或 projects.md
+5. ✅ 修復 projects.md 3 處日期排序
+6. ✅ 統一 index.md 表格格式
+7. ✅ 統一 projects.md 表格格式
+
+### 待處理
+- 29 個專案頁缺區塊（下一次 compile 時補齊）
+- 28 個概念頁缺區塊
+- 16 個 Stars 需更新（下次 lint 時批次查 GitHub API）
+- 4 個 raw 素材待 compile
+
+## [2026-05-20] ingest | Mano-P
+
+手動加入老綸提供的 GitHub 連結：
+
+- 新增 raw/2026-05-20-Mininglamp-AI-Mano-P.md
+- 新增 wiki/Mininglamp-AI-Mano-P.md（專案頁）
+- 更新 wiki/AI-Agent.md（加入相關專案連結）
+- 更新 wiki/AI-Skills.md（加入 Mano-Skill 相關專案連結）
+- 更新 wiki/projects.md（新增 Mano-P 條目）
+- 更新 known-repos.json（+1 repo, +3 concepts: GUI-VLA, edge-AI, computer-use-agent）
+
+## 2026-05-22
+
+### 更新：multica-ai-andrej-karpathy-skills（Karpathy CLAUDE.md 12 條規則）
+
+- 來源：abmedia.io 報導 Mnilax 擴充版（4+8 條）
+- 更新 wiki/multica-ai-andrej-karpathy-skills.md（從 4 條擴充到 12 條完整版）
+- 新增 wiki/CLAUDE-md.md（概念頁）
+- 更新 known-repos.json（+1 concept: CLAUDE-md）
+
+
+---
+
+## 2026-05-24 — Ingest 2 repos
+
+- **open-webui/open-webui** (⭐100k+) — 自架式 AI 平台，支援 Ollama + OpenAI API，內建 RAG
+  - 新增：`raw/2026-05-24-open-webui-open-webui.md`
+  - 新增：`wiki/open-webui-open-webui.md`
+  - Backlinks：AI-Agent.md, Chroma.md, Milvus.md
+- **walkinglabs/learn-harness-engineering** (⭐1k+) — Harness Engineering 課程，12 講 + 6 專案
+  - 新增：`raw/2026-05-24-walkinglabs-learn-harness-engineering.md`
+  - 新增：`wiki/walkinglabs-learn-harness-engineering.md`
+  - Backlinks：AI-Agent.md, harness-engineering.md, Coding-Agent-CLI.md, agent-persona.md, context-engineering-basics.md
+
+## 2026-05-26 — Ingest 3 repos + Update 1 repo
+
+- **datawhalechina/easy-vibe** (⭐14,776) — Vibe Coding 教程，三階段從零到 AI-Native 開發者，10 語言
+  - 新增：`raw/2026-05-26-datawhalechina-easy-vibe.md`
+  - 新增：`wiki/datawhalechina-easy-vibe.md`
+  - Backlinks：AI-Tutoring.md
+- **teng-lin/notebooklm-py** (⭐15,157) — Google NotebookLM 非官方 Python API × AI Skill
+  - 新增：`raw/2026-05-26-teng-lin-notebooklm-py.md`
+  - 新增：`wiki/teng-lin-notebooklm-py.md`
+  - Backlinks：AI-Agent.md, AI-Skills.md
+- **Donchitos/Claude-Code-Game-Studios** (⭐20,021) — Claude Code 遊戲開發工作室，49 agents × 73 skills
+  - 新增：`raw/2026-05-26-Donchitos-Claude-Code-Game-Studios.md`
+  - 新增：`wiki/Donchitos-Claude-Code-Game-Studios.md`
+  - Backlinks：AI-Agent.md, AI-Skills.md, Coding-Agent-CLI.md
+- **jo-inc/camofox-browser** (⭐5,829，原 ⭐4,203) — 更新：stars + frontmatter + 新功能
+  - 新增：`raw/2026-05-26-jo-inc-camofox-browser.md`
+  - 更新：`wiki/jo-inc-camofox-browser.md`（加 frontmatter、更新 stars、加 Cookie Import/YouTube Transcripts/Proxy+GeoIP）
+  - 更新：projects.md（stars 4,203→5,829）
+
+
+## 2026-05-28
+
+- **ingest** `yichuan-w-LEANN` — LEANN 低儲存向量索引（⭐11.8k），RAG on Everything, 97% 空間節省, MCP 原生整合
+  - raw: `raw/2026-05-28-yichuan-w-LEANN.md`
+  - wiki: `wiki/yichuan-w-LEANN.md`
+  - backlinks: 向量資料庫.md, rag.md
+
+- **ingest** `DayuanJiang-next-ai-draw-io` — Next AI Draw.io AI 驅動繪圖工具（⭐30.3k），自然語言建 draw.io 圖表, MCP Server
+  - raw: `raw/2026-05-28-DayuanJiang-next-ai-draw-io.md`
+  - wiki: `wiki/DayuanJiang-next-ai-draw-io.md`
+  - backlinks: projects.md 應用區
+
+- **ingest** `microsoft-SkillOpt` — SkillOpt 文字空間技能優化器（⭐1.4k），用訓練神經網路方式優化 LLM Agent 技能文件
+  - raw: `raw/2026-05-28-microsoft-SkillOpt.md`
+  - wiki: `wiki/microsoft-SkillOpt.md`
+  - backlinks: AI-Skills.md, projects.md (Skill 生態系區)
+
+
+## 2026-06-03
+
+- **ingest** `Open-LLM-VTuber/Open-LLM-VTuber` — 開源語音互動 AI 陪伴系統（⭐8.4k），Live2D 虛擬形象、免持語音、完全離線跨平台
+  - raw: `raw/2026-06-03-Open-LLM-VTuber-Open-LLM-VTuber.md`
+  - wiki: `wiki/Open-LLM-VTuber-Open-LLM-VTuber.md`
+  - projects.md: 多媒體與爬蟲區
+  - index.md: 核心概念區
+
+- **ingest** `chopratejas/headroom` — AI Agent 上下文壓縮層（⭐6.4k），60-95% token 節省、可逆壓縮、Library/Proxy/MCP 三模式
+  - raw: `raw/2026-06-03-chopratejas-headroom.md`
+  - wiki: `wiki/chopratejas-headroom.md`
+  - projects.md: Agent 框架與工具區
+  - index.md: 核心概念區
+
+- **ingest** `jamwithai/production-agentic-rag-course` — 7 週漸進式 RAG 課程（⭐6.4k），從基礎設施到 Agentic RAG，arXiv 論文策展人
+  - raw: `raw/2026-06-03-jamwithai-production-agentic-rag-course.md`
+  - wiki: `wiki/jamwithai-production-agentic-rag-course.md`
+  - projects.md: 學習資源區
+  - index.md: 核心概念區
+
+- **ingest** `reconurge/flowsint` — 開源 OSINT 圖譜調查平台（⭐4.5k），視覺化探索實體關聯、11 大類自動 enricher
+  - raw: `raw/2026-06-03-reconurge-flowsint.md`
+  - wiki: `wiki/reconurge-flowsint.md`
+  - projects.md: 基礎設施區
+  - index.md: 核心概念區
+
+known-repos.json: +4 repos, +4 concepts (VTuber, OSINT-graph-investigation, context-compression, agentic-RAG-course)
+
+---
+
+### 2026-06-05
+
+- **ingest** `1weiho/open-slide` — Agent-native 簡報框架（⭐4.7k），TypeScript/React，1920×1080 固定畫布，內建 Claude Code 技能，Inspector comment loop
+  - raw: `raw/2026-06-05-1weiho-open-slide.md`
+  - wiki: `wiki/1weiho-open-slide.md`
+  - projects.md: Agent 框架與工具區
+  - backlinks: AI-Agent.md, AI-presentation.md, Coding-Agent-CLI.md
+
+- **ingest** `Google Cloud AI Agent Trends 2026` — 企業 agentic AI 五大趨勢報告（3,466 家企業調查），Agents for Employee/Workflow/Customers/Security/Scale
+  - raw: `raw/2026-06-05-google-cloud-ai-agent-trends-2026.md`
+  - wiki: `wiki/google-cloud-ai-agent-trends-2026.md`
+  - projects.md: 學習資源區
+  - backlinks: AI-Agent.md
+
+- **ingest** `NVIDIA LocateAnything` — 統一視覺定位框架，Parallel Box Decoding 一次解碼 box，138M+ 訓練樣本，speed-accuracy frontier 推進
+  - raw: `raw/2026-06-05-nvidia-locate-anything.md`
+  - wiki: `wiki/nvidia-locate-anything.md`
+  - projects.md: 模型推論與部署區
+  - backlinks: AI-Agent.md
+
+known-repos.json: +1 repo, +9 concepts (Presentation, Agent-Native, Agentic-AI, Agent-Workflow, Enterprise-AI, Vision-Language-Model, Parallel-Box-Decoding, Visual-Grounding, NVIDIA-Research)
+
+---
+
+## 2026-06-07 — taste-skill 更新
+
+- **leonxlnx/taste-skill** (⭐36,016, +16,299 ⬆️) — Anti-Slop Frontend Framework for AI Agents
+  - 已有 wiki 頁面從 v1 更新到 v2：brief inference、design-system map、GSAP code skeletons、redesign-audit protocol
+  - raw: `raw/2026-06-07-Leonxlnx-taste-skill.md`
+  - wiki: `wiki/Leonxlnx-taste-skill.md`
+  - projects.md: stars 更新 19,717 → 36,016
+  - 新增概念: Frontend
+
+known-repos.json: 214 repos, 224 concepts

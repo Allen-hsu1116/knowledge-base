@@ -1,5 +1,10 @@
 ---
+
 title: 專案索引
+
+slug: projects
+language: zh-TW
+topics: ["專案", "索引"]
 ---
 
 # 專案索引
@@ -12,8 +17,13 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139.2k | System Prompts, AI 工具逆向, Prompt 安全, 20+ AI 工具 | 2026-06-10 |
-| [[aaif-goose-goose\|Goose]] | ⭐47.5k | AI Agent, MCP, ACP, Rust, 桌面App+CLI+API | 2026-06-08 |
+| [[langgenius-dify\|Dify]] | ⭐144k | LLM 應用平台, AI Agent, RAG, Workflow, 自架 | 2026-06-12 |
+| [[browser-use-browser-use\|Browser Use]] | ⭐98k | 瀏覽器 Agent, Computer-Use, Rust 核心, MCP | 2026-06-12 |
+| [[aaif-goose-goose\|Goose]] | ⭐48k | AI Agent, MCP, ACP, 通用 Agent, Rust | 2026-06-09 |
+| [[danielmiessler-Personal_AI_Infrastructure\|Personal AI Infrastructure]] | ⭐15k | Life OS, Ideal State, Context Scaffolding, 記憶 | 2026-06-09 |
+| [[CopilotKit-CopilotKit\|CopilotKit]] | ⭐32.7k | AI Agent, Generative UI, AG-UI Protocol, React | 2026-06-06 |
+| [[github-copilot-sdk\|GitHub Copilot SDK]] | ⭐9.2k | AI Agent, Agent SDK, MCP, BYOK | 2026-06-06 |
+| [[1weiho-open-slide\|open-slide]] | ⭐4,744 | AI Agent, Presentation, Agent-Native, React | 2026-06-05 |
 | [[chopratejas-headroom\|Headroom]] | ⭐6,416 | Token Optimization, Context 壓縮, MCP, AI Agent | 2026-06-03 |
 | [[dmtrKovalenko-fff\|FFF]] | ⭐7,176 | MCP, 檔案搜尋, AI Agent 工具, Neovim | 2026-06-02 |
 | [[nesquena-hermes-webui\|Hermes WebUI]] | ⭐9,981 | Coding Agent CLI, AI Agent, Web UI | 2026-06-01 |
@@ -33,9 +43,10 @@ title: 專案索引
 | [[Alishahryar1-free-claude-code\|Free Claude Code]] | ⭐26,376 | Coding Agent CLI, LLM, AI Agent | 2026-05-20 |
 | [[affaan-m-ECC\|ECC]] | ⭐189,233 | AI Agent, Harness, Token Optimization | 2026-05-20 |
 | [[msitarzewski-agency-agents\|The Agency]] | ⭐104,521 | Agent Persona, AI Skills, 人格庫 | 2026-05-20 |
-| [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,063 | GUI-VLA, edge-AI, computer-use-agent, AI Agent | 2026-05-20 |
+| [[Shubhamsaboo-awesome-llm-apps\|Awesome LLM Apps]] | ⭐113,600 | LLM, RAG, AI-Agent, Awesome-List | 2025-06-07 |
+| [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,288 | VLA, GUI-Agent, Computer-Use, Edge-AI | 2025-06-07 |
 | [[multica-ai-andrej-karpathy-skills\|Karpathy CLAUDE.md 規則]] | ⭐141,652 | AI Skills, Prompt Engineering, CLAUDE.md, Coding Agent CLI | 2026-05-20 |
-| [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐36,330 | Coding Agent CLI, AI Agent, 軟體 CLI 封裝 | 2026-05-18 |
+| [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐42,231 | CLI, Agent-Native, MCP, Software-Automation | 2025-06-07 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
 | [[tinyhumansai-openhuman\|OpenHuman]] | ⭐9,051 | AI Agent, MCP, 記憶 | 2026-05-16 |
@@ -72,7 +83,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[refactoringhq-tolaria\|Tolaria]] | ⭐14.3k | Markdown 知識庫, Git 原生, 離線優先, AI 整合 | 2026-06-10 |
+| [[mem0ai-mem0\|Mem0]] | ⭐58k | AI Agent 記憶層, RAG, SOTA, 向量資料庫 | 2026-06-12 |
+| [[refactoringhq-tolaria\|Tolaria]] | ⭐14k | Markdown 知識庫, Git-first, AI Agent 整合, 桌面應用 | 2026-06-09 |
 | [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | ⭐80k | OCR, 文件解析, LLM-Ready, RAG | 2026-06-05 |
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | ⭐23,272 | 文件解析, PDF, OCR, RAG, Bounding Box, 無障礙 | 2026-06-04 |
 | [[supermemoryai-supermemory\|Supermemory]] | ⭐23,342 | AI 記憶引擎, 使用者畫像, RAG, MCP | 2026-06-01 |
@@ -102,6 +114,7 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
 | [[lyogavin-airllm\|AirLLM]] | ⭐18,902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
 | [[p-e-w-heretic\|Heretic]] | ⭐22,010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
 | [[ds4\|DS4]] | ⭐8,303 | LLM, 推論加速, 本地部署, DeepSeek | 2026-05-13 |
@@ -116,7 +129,6 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[RyanCodrai-turbovec\|TurboVec]] | ⭐10.2k | 向量索引, 壓縮, RAG, TurboQuant, Rust, FAISS 替代 | 2026-06-10 |
 | [[yichuan-w-LEANN\|LEANN]] | ⭐11,790 | RAG, 向量資料庫, MCP, 本地隱私 | 2026-05-28 |
 | [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
 | [[Qdrant]] | ⭐31,189 | RAG, 向量資料庫 | 2026-05-10 |
@@ -126,12 +138,16 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[opencv-opencv\|OpenCV]] | ⭐88k | 電腦視覺, 影像處理, 深度學習推論, DNN | 2026-06-08 |
+| [[firecrawl-firecrawl\|Firecrawl]] | ⭐131k | 網頁爬蟲 API, LLM-ready, MCP, Agent | 2026-06-12 |
+| [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS | 2026-06-07 |
+| [[NVIDIA-cosmos\|NVIDIA Cosmos]] | ⭐9.4k | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
 | [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8.4k | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22,759 | TTS, 語音合成, 語音克隆, 多語言, 擴散模型 | 2026-05-31 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
-| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | ⭐62,027 | AI, 影片生成, 工作流自動化 | 2026-05-28 |
+| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | ⭐80,701 | Video-Generation, AI-Video, Content-Automation | 2025-06-07 |
+| [[linyqh-NarratoAI\|NarratoAI]] | ⭐9,698 | Video-Generation, AI-Video, Content-Automation | 2025-06-07 |
+| [[feicaiclub-video-spec-builder\|video-spec-builder]] | ⭐306 | Video-Generation, Spec-Driven, Coding-Agent | 2025-06-07 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
 | [[opentoonz-opentoonz\|OpenToonz]] | ⭐6,347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
 | [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
@@ -160,6 +176,8 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[luongnv89-claude-howto\|Claude HowTo]] | ⭐36k | Claude Code, 學習指南, Slash Commands, Skills, Hooks | 2026-06-09 |
+| [[google-cloud-ai-agent-trends-2026\|Google AI Agent Trends 2026]] | —（研究報告） | Agentic AI, AI Agent, Agent Workflow, Enterprise AI | 2026-06-05 |
 | [[lfnovo-open-notebook\|Open Notebook]] | ⭐25k | NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast | 2026-06-05 |
 | [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | ⭐6,376 | RAG, Agentic RAG, OpenSearch, FastAPI, 課程 | 2026-06-03 |
 | [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | ⭐17,870 | ML, 金融交易, 教學, Jupyter Notebook | 2026-06-02 |
@@ -217,12 +235,13 @@ title: 專案索引
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[phuryn-pm-skills\|PM Skills Marketplace]] | ⭐13.4k | AI Skills, PM, 產品決策, 9 大插件, Claude Code | 2026-06-10 |
+| [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139k | Prompt Engineering, System Prompts, 安全研究 | 2026-06-12 |
 | [[mvanhorn-last30days-skill\|last30days]] | ⭐28k | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |
-| [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐19,717 | AI Skills, Prompt Engineering, 前端設計 | 2026-05-26 |
+| [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐36,016 | AI Skills, Prompt Engineering, 前端設計 | 2026-06-07 |
+| [[nexu-io-open-design\|Open Design]] | ⭐61,555 | AI Skills, 前端設計, Design System, MCP | 2026-06-08 |
 | [[Understand-Anything\|Understand Anything]] | ⭐18,628 | 程式碼智慧, Knowledge Graph, AI Agent | 2026-05-23 |
 | [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
 | [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
@@ -234,6 +253,12 @@ title: 專案索引
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+| [[anthropics-skills\|Anthropic Skills]] | ⭐147.9k | AI Skills, Frontend Design, Web Testing | 2026-06-08 |
+| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | ⭐88.8k | AI Skills, Frontend Design, UI/UX | 2026-06-08 |
+| [[openai-skills\|OpenAI Skills]] | ⭐21.7k | AI Skills, Figma, Design System | 2026-06-08 |
+| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | ⭐27.7k | AI Skills, Web Design, Accessibility | 2026-06-08 |
+| [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]] | ⭐2k | AI Skills, Design System, UI/UX | 2026-06-08 |
+| [[expo-skills\|Expo Skills]] | ⭐2k | AI Skills, Mobile, React Native | 2026-06-08 |
 
 ## 🏗 基礎設施
 

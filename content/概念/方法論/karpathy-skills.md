@@ -1,6 +1,18 @@
 ---
+
+
+
+title: forrestchang/andrej-karpathy-skills — Karpathy 知識庫 Skill 版
+slug: karpathy-skills
 source: https://github.com/forrestchang/andrej-karpathy-skills
 date: 2026-04-28
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # forrestchang/andrej-karpathy-skills — Karpathy 知識庫 Skill 版
@@ -8,6 +20,20 @@ date: 2026-04-28
 > 將 Andrej Karpathy 的 LLM 知識庫系統方法論封裝成 Agent Skill 格式，讓任何人可以用標準化的方式在自己的 Agent 框架中實作 Karpathy 式的知識管理流程。
 
 **GitHub**: https://github.com/forrestchang/andrej-karpathy-skills
+
+## 是什麼
+
+這個專案把 Karpathy 在 2026 年 3 月公開的知識庫系統方法論，標準化成 SKILL.md 格式。原始版本是一份 GitHub Gist + Obsidian 設定，這個專案讓任何人可以用標準化方式在自己的 Agent 框架中實作。
+
+核心概念不變：LLM 當「編譯器」，把原始素材增量建構成持久化的 wiki。差異在於封裝方式——從手動設定變成標準化的 Skill，可以用 `npx skills add` 一鍵安裝。
+
+## 核心特色
+
+- **四大操作標準化**：Ingest、Compile、Query、Lint 四個操作封裝成 SKILL.md 格式
+- **一鍵安裝**：`npx skills add forrestchang/andrej-karpathy-skills` 即可部署
+- **框架無關**：任何支援 SKILL.md 的 Agent 框架都能用（不限 Obsidian + Claude Code）
+- **保留核心方法論**：raw → wiki → lint 的回饋迴圈完整保留
+- **與原始版的差異**：圖譜視覺化需要額外工具，但通用性大幅提升
 
 ## 快速導航
 
@@ -65,7 +91,7 @@ npx skills add forrestchang/andrej-karpathy-skills
 
 ## 相關概念
 
-← [[karpathy-gist-llm-wiki]] · [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[llm-knowledge-base-obsidian-claude-code]]
+← [[CLAUDE-md]] · [[karpathy-gist-llm-wiki]] · [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[llm-knowledge-base-obsidian-claude-code]]
 
 ## 來源
 

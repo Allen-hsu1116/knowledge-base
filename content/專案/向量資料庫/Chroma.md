@@ -12,13 +12,14 @@ Chroma 是開源 AI 向量資料庫，最大的特點是 API 極簡——只有 
 
 ## 核心特色
 
-- **4 個核心 API**：create_collection、add、query、get
-- **自動嵌入**：內建嵌入模型，不用自己算向量
-- **過濾查詢**：metadata 和文件內容過濾
+- **4 個核心 API**：create_collection、add、query、get，學習成本極低
+- **自動嵌入**：內建嵌入模型，不用自己算向量，直接丟文字就行
+- **過濾查詢**：metadata 和文件內容過濾，支援 where 條件
 - **In-memory 模式**：零配置啟動，適合開發和測試
 - **持久化模式**：簡單切換即可持久化到磁碟
-- **Python + JavaScript 客戶端**
-- **Chroma Cloud**：無伺服器向量搜尋服務
+- **Python + JavaScript 客戶端**：雙語言支援
+- **Chroma Cloud**：無伺服器向量搜尋服務，適合生產環境
+- **多使用者隔離**：支援多租戶資料隔離
 
 ## 怎麼用
 
@@ -39,6 +40,16 @@ collection.add(
 )
 
 results = collection.query(query_texts=["search query"], n_results=2)
+
+# 持久化模式
+client = chromadb.PersistentClient(path="./chroma_db")
+
+# 過濾查詢
+results = collection.query(
+    query_texts=["search query"],
+    where={"source": "notion"},
+    n_results=5
+)
 ```
 
 ## 跟其他方案的關係
@@ -49,9 +60,11 @@ results = collection.query(query_texts=["search query"], n_results=2)
 | [[Qdrant]] | 向量搜尋引擎 | Chroma 更簡單，Qdrant 功能更豐富 |
 | [[LangChain]] | LLM 框架 | LangChain 內建 Chroma 整合 |
 | [[rag]] | 概念頁 | Chroma 是 RAG 原型的首選向量資料庫 |
+| Pinecone | 雲端向量資料庫 | Pinecone 是 SaaS，Chroma 是開源自架 |
+| Weaviate | 向量資料庫 | Weaviate 內建模組化，Chroma 更輕量 |
 
 ## 相關概念
-← [[rag]] · [[AI-Agent]]
+← [[rag]] · [[AI-Agent]] · [[open-webui-open-webui]]
 
 ## 來源
 - raw/2026-05-10-chroma.md

@@ -1,6 +1,17 @@
 ---
+
+
+
 title: Supertonic
+slug: supertone-inc-supertonic
 date: 2026-05-16
+
+stars: '⭐6.0k'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Supertonic
@@ -90,7 +101,7 @@ cd web && npm install && npm run dev
 
 ## 來源
 
-- raw/2026-05-16-supertonic.md
+- [原始資料](../raw/2026-05-16-supertone-inc-supertonic.md)
 
 ---
 

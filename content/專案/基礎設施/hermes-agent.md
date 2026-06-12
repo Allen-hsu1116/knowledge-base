@@ -75,9 +75,11 @@ hermes schedule add "每天早上9點摘要新聞" --cron "0 9 * * *"
 
 Hermes 相容 [[agent-skills-ecosystem]] 的 agentskills.io 開放標準，跟 [[addyosmani-agent-skills]] 和 [[google-skills]] 使用相同的 Skill 格式。
 
+[[nesquena-hermes-webui|Hermes WebUI]] 是 Hermes Agent 的 Web 介面，提供三欄式佈局、CLI 完全同位、遠端存取等功能，讓你能從瀏覽器或手機操作 Hermes Agent。
+
 ## 相關概念
 
-← [[agent-skills-ecosystem]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]]
+← [[agent-skills-ecosystem]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]] · [[nesquena-hermes-webui|Hermes WebUI]]
 
 ## 來源
 

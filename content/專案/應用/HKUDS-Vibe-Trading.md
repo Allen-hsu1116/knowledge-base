@@ -1,6 +1,17 @@
 ---
+
+
+
 title: Vibe-Trading
+slug: HKUDS-Vibe-Trading
 created: 2026-05-06
+stars: '⭐5120'
+
+
+
+updated: 2026-05-06
+language: zh-TW
+topics: []
 ---
 
 # Vibe-Trading
@@ -25,6 +36,8 @@ Vibe-Trading 是香港大學數據科學實驗室（HKUDS）開發的 AI 交易 
 - **MCP Plugin**：讓任何支援 MCP 的 Agent（Claude Code、OpenClaw 等）可以直接調用交易能力
 - **回測 + 基準比較**：回測輸出附帶基準比較面板，ECharts 關聯性熱力圖
 - **安全設計**：API_AUTH_KEY、CORS 驗證、路徑限制、上傳安全、Shell 工具門控、策略載入驗證、Docker 非 root
+- **6 個數據來源**：yfinance、AKShare、Futu（港 + A 股）、股息分析、ST/*ST 風險篩選、vnpy 匯出
+- **Web UI**：React 前端，視覺化操作交易和回測結果
 
 ## 怎麼用
 
@@ -45,13 +58,22 @@ vibe-trading --mcp
 docker run -p 8000:8000 hkuds/vibe-trading
 ```
 
+### Skill 分類範例
+
+- **研究類**：財報分析、產業研究、新情蒐
+- **策略類**：技術指標策略、均值回歸、動量策略
+- **風控類**：停損停利、倉位管理、ST 風險篩選
+- **數據類**：K 線資料、財報提取、股息分析
+- **執行類**：下單、回測、基準比較
+
 ## 跟其他方案的關係
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[virattt-dexter]] | AI 金融研究 Agent | Dexter 偏研究分析，Vibe-Trading 偏實戰交易 |
-| [[HKUDS-AI-Trader]] | Agent 交易平台 | AI-Trader 偏平台，Vibe-Trading 偬 Agent |
+| [[HKUDS-AI-Trader]] | Agent 交易平台 | AI-Trader 偏平台，Vibe-Trading 偏 Agent |
 | [[anthropics-financial-services\|Anthropic FS]] | 分析師團隊 | Anthropic FS 做分析師工作產出，Vibe-Trading 偏實戰交易 |
+| [[ZhuLinsen-daily_stock_analysis]] | A 股分析工具 | daily_stock_analysis 側重單一市場分析，Vibe-Trading 涵蓋多市場 |
 
 ## 相關概念
 

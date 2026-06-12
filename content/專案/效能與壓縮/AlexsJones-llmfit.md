@@ -116,4 +116,5 @@ llmfit 對應 [[LLM]] 本地部署流程的「模型選擇」階段。[[Token-Op
 
 ## 來源
 
+- [原始資料](../raw/2026-05-07-AlexsJones-llmfit.md)
 - GitHub: https://github.com/AlexsJones/llmfit

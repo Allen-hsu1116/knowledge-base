@@ -1,6 +1,15 @@
 ---
+
+
+title: LLM 知識庫系統：Karpathy 的方法（中文報導版）
+slug: llm-knowledge-base-obsidian-claude-code
 source: https://www.bnext.com.tw/article/90530/llm-knowledge-base-obsidian-claude-code
 date: 2026-04-28
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # LLM 知識庫系統：Karpathy 的方法（中文報導版）
@@ -10,6 +19,20 @@ date: 2026-04-28
 **來源**: 數位時代 BusinessNext
 **日期**: 2026.04.07
 **作者**: 李先泰
+
+## 是什麼
+
+這是數位時代對 Karpathy LLM Wiki 系統的中文報導。Karpathy 的核心概念是讓 LLM 作為「編譯器」，把原始文件編譯成結構化的 markdown wiki。傳統知識管理工具把整理苦工甩給人做，LLM 知識庫把這個成本轉移給 AI：人負責找素材、定方向、問好問題；AI 負責摘要、交叉連結、一致性維護。
+
+跟原始 Gist 的關係：本頁是中文解讀版，核心方法論在 [[karpathy-gist-llm-wiki]] 和 [[llm-knowledge-base]] 中有更完整的說明。
+
+## 核心特色
+
+- **人類策展 + AI 書記**：人找素材定方向，AI 做摘要和交叉連結
+- **三層架構**：raw/（不可改）→ wiki/（AI 擁有）→ schema（共同演化）
+- **四個 Phases**：Ingest → Compile → Query → Lint，持續循環
+- **知識複利**：每次提問都讓知識庫更強，好的答案回存 wiki
+- **不需要 RAG**：在中等規模（~100 來源）效果很好
 
 ## 快速導航
 

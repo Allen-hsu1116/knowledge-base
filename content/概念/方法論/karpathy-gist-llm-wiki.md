@@ -1,6 +1,18 @@
 ---
+
+
+
+title: Karpathy 原始 Gist：LLM Wiki 完整 prompt
+slug: karpathy-gist-llm-wiki
 source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 date: 2026-04-28
+
+stars: '⭐5000'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Karpathy 原始 Gist：LLM Wiki 完整 prompt
@@ -10,6 +22,20 @@ date: 2026-04-28
 **來源**: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 **Stars**: 5,000+
 **建立日期**: 2026-04-04
+
+## 是什麼
+
+Karpathy 在 2026 年 4 月公開的 LLM Wiki 系統方法論。核心觀念：讓 LLM 當「編譯器」，把原始素材增量建構成一個持久的、互相連結的 wiki，放在你和原始素材之間。新素材進來時，LLM 不只是索引它，而是讀取、提取關鍵資訊、整合進現有 wiki——更新實體頁面、修正主題摘要、標記矛盾。
+
+**關鍵差異**：wiki 是一個持久的、複利的產物。交叉引用已經存在、矛盾已經被標記、綜合分析已經反映所有讀過的內容。這跟傳統 RAG 每次重新檢索不同——知識編譯一次後持續更新，而非每次查詢重新推導。
+
+## 核心特色
+
+- **三層架構**：Raw sources（不可改）→ The wiki（LLM 擁有）→ The schema（你和 LLM 共同演化）
+- **三種操作**：Ingest（一個素材觸及 10-15 個 wiki 頁面）、Query（好的答案回存 wiki）、Lint（健康檢查）
+- **知識複利**：每次提問都讓知識庫更強，探索也會複利
+- **人類負責策展、LLM 負責書記**：人類找素材、定方向；LLM 做摘要、交叉連結、一致性維護
+- **不需要 embedding-based RAG**：在中等規模（~100 來源、~數百頁）效果很好
 
 ## 快速導航
 

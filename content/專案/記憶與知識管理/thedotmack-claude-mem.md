@@ -1,6 +1,18 @@
 ---
+
+
+
+title: claude-mem — Claude Code 持久記憶壓縮系統
+slug: thedotmack-claude-mem
 source: https://github.com/thedotmack/claude-mem
 date: 2026-05-09
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # claude-mem — Claude Code 持久記憶壓縮系統
@@ -72,14 +84,15 @@ npx claude-mem install
 | [[project-golem]] | Agent 記憶系統 | 類似：Golem 用 lancedb-pro 向量記憶，claude-mem 用 Chroma |
 | [[llm-knowledge-base]] | 知識庫方法論 | 方法論層級：claude-mem 是方法論的一種實作 |
 | Claude Code 內建記憶 | 基礎方案 | 對比：內建 CLAUDE.md 是靜態的，claude-mem 是動態壓縮 |
+| [[supermemoryai-supermemory\|Supermemory]] | AI 記憶引擎 | 對比：Supermemory 提供使用者畫像+RAG+記憶三合一，claude-mem 專注 Claude 生態 |
 
 ## 相關概念
 
-← [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[karpathy-gist-llm-wiki]]
+← [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[karpathy-gist-llm-wiki]] · [[supermemoryai-supermemory|Supermemory]]
 
 ## 來源
 
-- raw/2026-05-09-claude-mem.md
+- [原始資料](../raw/2026-05-09-thedotmack-claude-mem.md)
 
 ---
 

@@ -1,6 +1,17 @@
 ---
+
+
+
 title: LlamaIndex
+slug: llama-index
 created: 2026-05-15
+stars: ''  # TODO: add Stars count
+
+
+
+updated: 2026-05-15
+language: zh-TW
+topics: []
 ---
 
 # LlamaIndex

@@ -1,5 +1,16 @@
 ---
+
+
+
 title: Codex Complexity Optimizer
+slug: Kappaemme-git-codex-complexity-optimizer
+
+stars: ''  # TODO: add Stars count
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # Codex Complexity Optimizer
@@ -18,18 +29,19 @@ Codex Complexity Optimizer 是一個安裝到 Codex Agent 的 Skill，用於分�
 
 ## 核心特色
 
-- **安全報告模式**：預設只分析不修改，需明確要求才會實作優化
-- **精細報告**：包含檔案/行號、當前複雜度、建議修改、預期改善、風險等級、所需測試
-- **可控風險**：可以先看報告再決定是否實作最低風險的優化
-- **一鍵安裝**：npm 全域安裝即可自動部署到 Codex Skills 目錄
+- **安全報告模式**：預設只分析不修改，需明確要求才會實作優化，避免意外破壞
+- **精細報告**：包含檔案/行號、當前複雜度、建議修改、預期改善（Big-O 降級）、風險等級、所需測試
+- **可控風險**：可以先看報告再決定是否實作最低風險的優化，逐步改善
+- **一鍵安裝**：npm 全域安裝即可自動部署到 Codex Skills 目錄（`${CODEX_HOME:-~/.codex}/skills/complexity-optimizer`）
+- **npx 支援**：不需要全域安裝，用 `npx` 也能直接執行
 
 ## 怎麼用
 
 ```bash
-# 安裝
+# 安裝（全域）
 npm install -g codex-complexity-optimizer
 
-# 或用 npx
+# 或用 npx 直接執行
 npx codex-complexity-optimizer
 ```
 
@@ -41,7 +53,20 @@ Use $complexity-optimizer to analyze this codebase and give me a report.
 
 # 實作最低風險的優化
 Use $complexity-optimizer to implement the lowest-risk optimization from the report and run the relevant tests.
+
+# 針對特定目錄分析
+Use $complexity-optimizer to analyze src/utils/ and identify O(n²) loops.
 ```
+
+### 報告輸出範例
+
+報告包含以下欄位：
+- **File/Line** — 問題所在的檔案和行號
+- **Current Complexity** — 當前時間/空間複雜度（如 O(n²)）
+- **Recommended Change** — 具體修改建議
+- **Expected Complexity** — 修改後預期複雜度（如 O(n log n)）
+- **Risk Level** — 實作風險（低/中/高）
+- **Tests Needed** — 建議配套的測試
 
 ## 跟其他方案的關係
 
@@ -50,6 +75,7 @@ Use $complexity-optimizer to implement the lowest-risk optimization from the rep
 | [[codeburn\|CodeBurn]] | 程式碼優化 Skill | CodeBurn 偏 AI 輔助程式碼優化，此專案偏演算法複雜度分析 |
 | [[mattpocock-skills\|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 的 `/improve-codebase-architecture` 偏架構層面，此專案偏演算法層面 |
 | [[AI-Skills]] | 概念層 | Codex Complexity Optimizer 是 AI Skills 格式的一個實作 |
+| [[rtk-ai-rtk\|RTK]] | Token 優化 | RTK 優化 token 消耗，此專案優化程式碼複雜度，互補關係 |
 
 ## 相關概念
 

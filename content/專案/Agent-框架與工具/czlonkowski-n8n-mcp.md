@@ -1,6 +1,17 @@
 ---
+
+
+
 title: n8n-MCP
+slug: czlonkowski-n8n-mcp
 date: 2026-05-16
+
+stars: '⭐21031'
+
+
+updated: TODO
+language: zh-TW
+topics: []
 ---
 
 # n8n-MCP
@@ -83,6 +94,7 @@ n8n-MCP 是 [[MCP]] 生態系中專注於工作流自動化的工具。跟 [[Cod
 
 ## 來源
 
+- [原始資料](../raw/2026-05-16-czlonkowski-n8n-mcp.md)
 - GitHub: https://github.com/czlonkowski/n8n-mcp
 
 ---

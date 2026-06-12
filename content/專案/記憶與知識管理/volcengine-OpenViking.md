@@ -16,9 +16,9 @@ OpenViking 是字節跳動（火山引擎）開源的 Context Database，核心�
 ## 核心特色
 
 - **檔案系統範式** — 統一管理記憶、資源和技能，告別碎片化向量儲存
-- **三層 Context 載入** — L0（System，系統提示、角色設定，永遠載入）、L1（Session，當前對話、最近任務，按需載入）、L2（Long-term，歷史記憶、資源索引，搜尋載入）
+- **三層 Context 載入** — L0（System，系統提示、角色設定，永遠載入）、L1（Session，當前對話、最近任務，按需載入）、L2（Long-term，歷史記憶、資源索引，搜尋載入），三層結構按需載入，大幅節省 token 消耗
 - **目錄遞迴檢索** — 結合目錄定位 + 語意搜尋，先用目錄結構縮小範圍，再用語意搜尋精確匹配，支援視覺化檢索軌跡
-- **自動 Session 管理** — 自動壓縮對話內容、提取長期記憶
+- **自動 Session 管理** — 自動壓縮對話內容、提取長期記憶，讓 Agent 越用越聰明
 - **多種 VLM Provider** — 火山引擎 Doubao、OpenAI、Codex VLM、Kimi Code
 
 ### 解決的問題
@@ -44,9 +44,24 @@ curl -fsSL https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/o
 cargo install --git https://github.com/volcengine/OpenViking ov_cli
 ```
 
+初始化 VLM Provider：
+```bash
+# 初始化 OpenAI Provider
+openviking-server init
+
+# 使用火山引擎 Doubao
+# 在環境變數設定 VOLCENGINE_API_KEY
+```
+
 ## 跟其他方案的關係
 
 OpenViking 是 [[Context-Database]] 的實作，也是傳統 [[LLM]] RAG 的替代方案。Context Database 是 [[AI-Agent]] 長期運行的基礎設施。詳細方法論對比見概念頁 [[openviking]]。
+
+| 方案 | 定位 | 與 OpenViking 的關係 |
+|------|------|----------------------|
+| 傳統 RAG（向量資料庫） | 平面向量儲存 | OpenViking 用檔案系統範式取代碎片化向量儲存 |
+| [[mempalace]] | 分層記憶系統 | 記憶管理互補，mempalace 側重記憶宮殿索引 |
+| [[lsdefine-GenericAgent]] | 自演化 Agent | GenericAgent 的 L0-L4 分層記憶與 OpenViking 三層架構概念相似 |
 
 ## 相關概念
 

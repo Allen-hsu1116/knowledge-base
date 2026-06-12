@@ -10,6 +10,10 @@
 - 🦞 **OpenClaw** → [[openclaw]]（我們正在用的 Agent 框架）
 - 🧠 **記憶方法論** → [[llm-knowledge-base]]（如何管理 Agent 的知識）
 
+## 是什麼
+
+AI Agent = LLM + 工具 + 記憶 + 規劃。不同於單純的聊天機器人，Agent 能夠自主規劃、使用工具、維持記憶、自我修正。
+
 ## 什麼是 AI Agent
 
 AI Agent = LLM + 工具 + 記憶 + 規劃。不同於單純的聊天機器人，Agent 能夠：
@@ -27,6 +31,10 @@ AI Agent = LLM + 工具 + 記憶 + 規劃。不同於單純的聊天機器人，
 | **Tool-using** | 能呼叫工具，但每次重新開始 | ChatGPT + Plugins |
 | **Agent** | 規劃+工具+記憶 | Claude Code、OpenClaw |
 | **Multi-agent** | 多個 Agent 協作 | AutoGen、CrewAI |
+
+## 核心特色
+
+AI Agent 的四大核心能力：自主規劃、工具使用、記憶維持、自我修正。從單一 chatbot 到多 agent 協作、長期運行的個人助理。
 
 ## 核心能力拆解
 
@@ -127,6 +135,22 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **從單一到多元**：一個 Agent 框架可以連接無數工具
 - **開放生態**：MCP 標準讓工具和 Agent 可以自由組合
 
+## 怎麼用
+
+### 建立 Agent
+1. 選擇 Agent 框架（LangChain、CrewAI、AutoGen 等）
+2. 定義工具清單和 Agent 角色
+3. 設定目標、限制條件和記憶機制
+4. 部署和監控
+
+### 常見使用場景
+- 程式碼生成和重構（Claude Code、Cursor）
+- 自動化客服和對話（多 Agent 協作）
+- 資料分析和報表生成
+- 多步驟工作流程自動化
+
+## 跟其他方案的關係
+
 ## Agent 框架對比
 
 | 框架 | 特色 | Stars |
@@ -159,10 +183,12 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[Narcooo-inkos]] — 自主小說寫作 Agent
 - [[HKUDS-Vibe-Trading]] — 個人交易 Agent
 - [[holaboss-ai-holaOS]] — Agent 作業系統
+- [[Shubhamsaboo-awesome-llm-apps]] — 100+ 可直接運行的 LLM 應用模板
+- [[Mininglamp-AI-Mano-P]] — GUI-VLA 邊緣代理，純視覺桌面自動化
 
 ## 相關概念
 
-← [[MCP]] · [[AI-Skills]] · [[Context-Database]] · [[llm-knowledge-base]] · [[agent-persona]] · [[agent-skills-ecosystem]]
+← [[MCP]] · [[AI-Skills]] · [[Context-Database]] · [[llm-knowledge-base]] · [[agent-persona]] · [[agent-skills-ecosystem]] · [[open-webui-open-webui]] · [[walkinglabs-learn-harness-engineering]] · [[Donchitos-Claude-Code-Game-Studios]] · [[teng-lin-notebooklm-py]] · [[1weiho-open-slide|open-slide]] · [[google-cloud-ai-agent-trends-2026]] · [[nvidia-locate-anything|LocateAnything]] · [[HKUDS-CLI-Anything]] · [[harry0703-MoneyPrinterTurbo]] · [[Leonxlnx-taste-skill|Taste Skill]]
 
 ## 相關影片
 
@@ -172,6 +198,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[ai-agent-work-impact]] — AI Agent 對工作的衝擊
 - [[harness-engineering]] — Harness Engineering：駕馭工程
 - [[self-correction]] — AI 自我修正
+
+## 來源
+- 相關 GitHub/文章資料
 
 ---
 
