@@ -65,7 +65,8 @@ topics: ["知識庫", "總覽"]
 | [[mempalace-usage-discussion\|MemPalace 使用討論]] | MemPalace 跟 RAG 的差異、改善建議、和我們知識庫的對比。 |
 | [[ocr-memory\|OCR-Memory]] | 用視覺模態壓縮 Agent 長期記憶，把歷史軌跡渲染成圖片，透過視覺錨點精確檢索原文。 |
 | [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」：Persona 是方向，Skill 是方法，兩者缺一不可。 |
-| [[prompt-security\|Prompt 安全與越獄]] | 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。 |
+|| [[LMCache-LMCache\|LMCache]] | KV Cache 加速層，跨 vLLM 實例共享 KV cache，大幅降低 TTFT 和推論延遲。 |
+|| [[prompt-security\|Prompt 安全與越獄]] | 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。 |
 | [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
 | [[danielmiessler-Personal_AI_Infrastructure\|Personal AI Infrastructure]] | Life Operating System：用 AI 放大人的能力，Ideal State 驅動，文字優先、無 RAG。 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
@@ -87,7 +88,11 @@ topics: ["知識庫", "總覽"]
 | [[luongnv89-claude-howto\|Claude HowTo]] | 視覺化範例驅動的 Claude Code 學習指南，10 個模組從新手到進階。 |
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
-| [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | 百度開源 OCR + 文件 AI 引擎，PaddleOCR-VL 0.9B 達 96.3% SOTA，PP-StructureV3 版面解析，100+ 語言。 |
+|| [[NVIDIA-SkillSpector\|SkillSpector]] | AI Agent Skills 安全掃描器，64 種漏洞模式 x 16 大類，安裝 Skill 前先問它。 |
+|| [[maziyarpanahi-openmed\|OpenMed]] | 本地優先醫療 AI，1,000+ 專科模型全在裝置上跑，病人資料不出網路。 |
+|| [[shuvonsec-claude-bug-bounty\|BugHunter]] | AI 驅動 Bug Bounty 獵蟲工具，recon → hunt → validate → report 全流程，免費也能跑。 |
+|| [[basicmachines-co-basic-memory\|Basic Memory]] | AI 永遠不忘，Markdown 即記憶，MCP 原生，你和 AI 讀寫同一份檔案。 |
+|| [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | 百度開源 OCR + 文件 AI 引擎，PaddleOCR-VL 0.9B 達 96.3% SOTA，PP-StructureV3 版面解析，100+ 語言。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | 開源 #1 PDF 解析器，hybrid 模式 0.907 準確率，bounding box 全覆蓋，首個 Tagged PDF 自動化。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |

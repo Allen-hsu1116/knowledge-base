@@ -81,8 +81,9 @@ topics: ["專案", "索引"]
 
 ## 🧠 記憶與知識管理
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[basicmachines-co-basic-memory\|Basic Memory]] | ⭐3.2k | AI 記憶, MCP, Markdown, 知識圖譜, 語意搜尋 | 2026-06-13 |
 | [[mem0ai-mem0\|Mem0]] | ⭐58k | AI Agent 記憶層, RAG, SOTA, 向量資料庫 | 2026-06-12 |
 | [[refactoringhq-tolaria\|Tolaria]] | ⭐14k | Markdown 知識庫, Git-first, AI Agent 整合, 桌面應用 | 2026-06-09 |
 | [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | ⭐80k | OCR, 文件解析, LLM-Ready, RAG | 2026-06-05 |
@@ -112,8 +113,9 @@ topics: ["專案", "索引"]
 
 ## 🧠 模型推論與部署
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[LMCache-LMCache\|LMCache]] | ⭐8.6k | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
 | [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
 | [[lyogavin-airllm\|AirLLM]] | ⭐18,902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
 | [[p-e-w-heretic\|Heretic]] | ⭐22,010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
@@ -197,8 +199,9 @@ topics: ["專案", "索引"]
 
 ## 📊 應用
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[maziyarpanahi-openmed\|OpenMed]] | ⭐3.2k | 醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX | 2026-06-13 |
 | [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐81,772 | AI Agent, 多Agent交易, LLM, 金融預測 | 2026-06-02 |
 | [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30,250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
 | [[ZhuLinsen-alphaevo\|AlphaEvo]] | ⭐38,100 | 策略回測, 金融預測, 自演化 | 2026-05-28 |
@@ -233,8 +236,9 @@ topics: ["專案", "索引"]
 
 ## 🛠 Skill 生態系
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3.5k | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139k | Prompt Engineering, System Prompts, 安全研究 | 2026-06-12 |
 | [[mvanhorn-last30days-skill\|last30days]] | ⭐28k | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
@@ -262,8 +266,9 @@ topics: ["專案", "索引"]
 
 ## 🏗 基礎設施
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |
 | [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |

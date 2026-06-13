@@ -1,3 +1,44 @@
+## 2026-06-13（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **LMCache-LMCache** — KV Cache 加速層，跨 vLLM 實例共享 KV cache，降低 TTFT（⭐ 8,600）
+- **NVIDIA-SkillSpector** — AI Agent Skills 安全掃描器，64 漏洞模式 x 16 大類（⭐ 3,496）
+- **maziyarpanahi-openmed** — 本地優先醫療 AI，1,000+ 專科模型，PII 去識別化（⭐ 3,193）
+- **shuvonsec-claude-bug-bounty** — AI Bug Bounty 獵蟲工具，recon → report 全流程（⭐ 2,757）
+- **basicmachines-co-basic-memory** — MCP 原生 AI 記憶，Markdown 即知識圖譜（⭐ 3,215）
+
+### 分類
+- 🧠 模型推論與部署：LMCache
+- 🧠 記憶與知識管理：Basic Memory
+- 🛠 Skill 生態系：SkillSpector
+- 📊 應用：OpenMed
+- 🏗 基礎設施：BugHunter
+
+### 來源
+- GitHub Trending（全語言 + Python）搜尋
+
+---
+
+## 2026-06-12（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **langgenius-dify** — Dify 開源 LLM 應用開發平台，視覺化 workflow + RAG + Agent（⭐ 144,883）
+- **x1xhlol-system-prompts-and-models-of-ai-tools** — 30+ AI 工具 system prompts 收集（⭐ 139,871）
+- **firecrawl-firecrawl** — 網頁爬蟲 API，LLM-ready Markdown/JSON 輸出（⭐ 131,562）
+- **browser-use-browser-use** — 瀏覽器 AI Agent，Rust 核心驅動（⭐ 98,341）
+- **mem0ai-mem0** — AI Agent 記憶層，LoCoMo 91.6 SOTA（⭐ 58,363）
+
+### 分類
+- 🤖 Agent 框架與工具：Dify、Browser Use
+- 🧠 記憶與知識管理：Mem0
+- 🎯 多媒體與爬蟲：Firecrawl
+- 🛠 Skill 生態系：System Prompts Collection
+
+### 來源
+- GitHub Trending + Topic 搜尋（llm, ai-agent, mcp, etc.）
+
+---
+
 ## 2026-06-09（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁
