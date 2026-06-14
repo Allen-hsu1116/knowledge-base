@@ -1,3 +1,12 @@
+---
+title: MiniMind
+slug: minimind
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # MiniMind
 
 > 從零開始訓練 64M 參數的小型 LLM，單卡 3090 兩小時即可復現，完整覆蓋 Pretrain → SFT → RLHF 全流程。

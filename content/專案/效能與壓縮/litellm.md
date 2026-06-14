@@ -1,3 +1,12 @@
+---
+title: LiteLLM
+slug: litellm
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # LiteLLM
 
 > 開源 AI Gateway，用 OpenAI 格式統一呼叫 100+ LLM Provider，8ms P95 latency，自架、企業就緒。（詳細參考頁）

@@ -1,15 +1,12 @@
 ---
-
-
 title: LLM 知識庫系統：Karpathy 的方法（中文報導版）
 slug: llm-knowledge-base-obsidian-claude-code
 source: https://www.bnext.com.tw/article/90530/llm-knowledge-base-obsidian-claude-code
 date: 2026-04-28
-
-
-updated: TODO
+updated: 2026-04-28
 language: zh-TW
-topics: []
+created: 2026-04-28
+stars: —
 ---
 
 # LLM 知識庫系統：Karpathy 的方法（中文報導版）

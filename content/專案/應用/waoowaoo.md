@@ -1,18 +1,11 @@
 ---
-
-
-
 title: waoowaoo
 slug: waoowaoo
 aliases:
   - waoowaoo
-
 stars: '⭐12k'
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # waoowaoo

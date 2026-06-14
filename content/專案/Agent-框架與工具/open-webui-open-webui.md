@@ -5,12 +5,6 @@ created: 2026-05-24
 updated: 2026-05-24
 stars: 100k+
 language: Python/Svelte
-topics:
-  - LLM
-  - AI-Agent
-  - rag
-  - 向量資料庫
-  - 文件解析
 ---
 
 # Open WebUI

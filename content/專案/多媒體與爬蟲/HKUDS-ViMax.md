@@ -1,16 +1,10 @@
 ---
-
 title: ViMax
 slug: HKUDS-ViMax
 created: 2026-05-22
 updated: 2026-05-22
 stars: 6064
 language: Python
-topics:
-  - AI-video-generation
-  - AI-Agent
-  - generative-AI
-
 ---
 
 # ViMax — Agentic Video Generation

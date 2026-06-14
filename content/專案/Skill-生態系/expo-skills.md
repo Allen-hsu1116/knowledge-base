@@ -5,18 +5,13 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 2038
 language: JavaScript
-topics:
-  - AI-Skills
-  - Mobile-Development
-  - React-Native
-  - Expo
 ---
 
 # Expo Skills
 
 > ⭐2k · Expo 官方 AI Agent 技能集合，讓 Agent 能高效建構、部署和除錯 React Native / Expo 應用，從開發到上架一站式覆蓋。
 
-快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[React-Native]] · [[Expo]]
+快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[expo-skills]] · [[expo-skills]]
 
 ## 是什麼
 
@@ -94,7 +89,7 @@ bunx skills add expo/skills
 
 ## 相關概念
 
-← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[React-Native]] · [[Expo]]
+← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[expo-skills]] · [[expo-skills]]
 
 ## 來源
 

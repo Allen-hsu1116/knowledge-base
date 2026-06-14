@@ -1,3 +1,12 @@
+---
+title: Harness Engineering 駕馭工程
+slug: harness-engineering
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Harness Engineering 駕馭工程
 
 > 語言模型不是不夠聰明，而是缺乏好的引導。Harness Engineering 透過認知框架、工具邊界、工作流程三個維度駕馭 AI Agent。

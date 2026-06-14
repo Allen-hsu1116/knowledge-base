@@ -1,19 +1,10 @@
 ---
-
-
 title: Donchitos/Claude-Code-Game-Studios
 slug: Donchitos-Claude-Code-Game-Studios
 url: https://github.com/Donchitos/Claude-Code-Game-Studios
 stars: 20021
 created: 2026-05-26
 language: Shell
-topics:
-  - Coding Agent
-  - AI Skills
-  - Game Development
-  - Multi-Agent
-
-
 updated: 2026-05-26
 ---
 

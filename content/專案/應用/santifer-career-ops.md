@@ -1,3 +1,12 @@
+---
+title: career-ops
+slug: santifer-career-ops
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # career-ops
 
 > AI 求職指揮中心 — 把 AI coding CLI 變成全自動求職系統。740+ 職缺評估、100+ 客製履歷、最終拿到 Head of Applied AI。支援 Claude Code、Gemini CLI、OpenCode。

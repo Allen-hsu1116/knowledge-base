@@ -5,11 +5,6 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 80701
 language: Python
-topics:
-  - Video-Generation
-  - AI-Video
-  - Content-Automation
-  - LLM
 ---
 
 # MoneyPrinterTurbo

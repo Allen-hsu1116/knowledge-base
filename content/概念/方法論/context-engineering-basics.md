@@ -1,3 +1,12 @@
+---
+title: Context Engineering 基本概念
+slug: context-engineering-basics
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Context Engineering 基本概念
 
 > 系統化介紹 AI Agent 的核心技術——如何管理語言模型看到的內容，讓輸入長度合適（詳細參考頁）

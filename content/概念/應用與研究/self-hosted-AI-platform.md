@@ -1,16 +1,11 @@
 ---
-
-
 title: 自架 AI 平台
 slug: self-hosted-AI-platform
 aliases:
   - Self-Hosted AI Platform
   - 自架式 AI
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 自架 AI 平台

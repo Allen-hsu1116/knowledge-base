@@ -5,11 +5,6 @@ created: 2025-09-21
 updated: 2026-05-28
 stars: 22010
 language: Python
-topics:
-  - LLM
-  - llm-internals
-  - Prompt-Engineering
-  - model-alignment
 ---
 
 # Heretic

@@ -1,16 +1,11 @@
 ---
-
-
 title: KeygraphHQ/shannon
 slug: KeygraphHQ-shannon
 date: 2026-05-18
 stars: 42711
 language: TypeScript
 source: https://github.com/KeygraphHQ/shannon
-
-
-updated: TODO
-topics: []
+updated: 2026-06-14
 ---
 
 # KeygraphHQ/shannon

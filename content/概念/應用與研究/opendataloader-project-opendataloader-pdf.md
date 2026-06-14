@@ -5,7 +5,6 @@ created: 2026-06-04
 updated: 2026-06-04
 stars: 23272
 language: Java
-topics: [pdf, ocr, document-parsing, rag, accessibility, markdown, ai, bounding-box]
 ---
 
 # OpenDataLoader PDF

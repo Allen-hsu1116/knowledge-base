@@ -1,3 +1,12 @@
+---
+title: CrewAI
+slug: CrewAI
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # CrewAI
 
 > 多 Agent 協作框架，讓 AI Agent 以角色扮演方式團隊合作。51K ⭐。

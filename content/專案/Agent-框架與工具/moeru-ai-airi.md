@@ -5,11 +5,6 @@ created: 2024-12-01
 updated: 2026-05-26
 stars: 39726
 language: TypeScript
-topics:
-  - AI-Agent
-  - self-hosted-AI-platform
-  - computer-use-agent
-  - virtual-companion
 ---
 
 # AIRI

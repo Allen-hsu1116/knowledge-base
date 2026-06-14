@@ -5,13 +5,6 @@ created: 2026-05-24
 updated: 2026-05-24
 stars: 1k+
 language: Multiple (13 語言)
-topics:
-  - harness-engineering
-  - AI-Agent
-  - context-engineering-basics
-  - Coding-Agent-CLI
-  - agent-persona
-  - Prompt-Engineering
 ---
 
 # Learn Harness Engineering

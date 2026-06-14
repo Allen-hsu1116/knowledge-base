@@ -1,16 +1,11 @@
 ---
-
-
 title: microsoft/ai-agents-for-beginners
 slug: microsoft-ai-agents-for-beginners
 date: 2026-05-18
 stars: 62542
 language: Jupyter Notebook
 source: https://github.com/microsoft/ai-agents-for-beginners
-
-
-updated: TODO
-topics: []
+updated: 2026-06-14
 ---
 
 # microsoft/ai-agents-for-beginners

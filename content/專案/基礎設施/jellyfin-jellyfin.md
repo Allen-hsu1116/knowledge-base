@@ -5,10 +5,6 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 52381
 language: C#
-topics:
-  - self-hosted
-  - media-streaming
-  - open-source-business
 ---
 
 # Jellyfin

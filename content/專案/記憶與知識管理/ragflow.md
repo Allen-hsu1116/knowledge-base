@@ -1,3 +1,12 @@
+---
+title: RAGFlow
+slug: ragflow
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # RAGFlow
 
 > 領先的開源 RAG+Agent 引擎，深度文件理解 + 模板化分塊 + 接地引用，有 OpenClaw Skill 可直接操作。（詳細參考頁）

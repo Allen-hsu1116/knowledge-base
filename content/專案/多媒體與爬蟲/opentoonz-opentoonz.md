@@ -1,15 +1,10 @@
 ---
-
 title: OpenToonz
 slug: opentoonz-opentoonz
 created: 2026-05-22
 updated: 2026-05-22
 stars: 6347
 language: C++
-topics:
-  - generative-AI
-  - AI-video-generation
-
 ---
 
 # OpenToonz — 開源 2D 動畫創作軟體

@@ -6,11 +6,6 @@ stars: 36016
 created: 2026-02-19
 language: Shell
 date: 2026-06-07
-topics:
-  - AI-Skills
-  - Prompt-Engineering
-  - Frontend
-  - agent-skills-ecosystem
 updated: 2026-06-07
 ---
 
@@ -22,7 +17,7 @@ Taste Skill 是一系列可攜式的 Agent Skill，讓 AI 生成的前端不再�
 
 ## 快速導航
 
-- ⚡ [[AI-Skills]] · [[Prompt-Engineering]] · [[Frontend]] · [[agent-skills-ecosystem]]
+- ⚡ [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[agent-skills-ecosystem]]
 
 ## 是什麼
 
@@ -72,7 +67,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 
 ## 相關概念
 
-← [[AI-Skills]] · [[Prompt-Engineering]] · [[Frontend]] · [[agent-skills-ecosystem]]
+← [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[agent-skills-ecosystem]]
 
 ## 來源
 

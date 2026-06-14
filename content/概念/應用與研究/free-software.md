@@ -1,13 +1,8 @@
 ---
-
-
 title: 免費軟體
 slug: free-software
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 免費軟體

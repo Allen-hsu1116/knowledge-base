@@ -5,11 +5,6 @@ created: 2026-05-28
 updated: 2026-05-28
 stars: 1415
 language: Python
-topics:
-  - AI-Skills
-  - Prompt-Engineering
-  - Agent-Optimization
-  - LLM
 ---
 
 # SkillOpt

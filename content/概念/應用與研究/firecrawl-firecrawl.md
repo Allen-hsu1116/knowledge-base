@@ -5,19 +5,13 @@ created: 2026-06-12
 updated: 2026-06-12
 stars: 131562
 language: TypeScript
-topics:
-  - web-scraping
-  - AI-Agent
-  - MCP
-  - RAG
-  - document-parsing
 ---
 
 # Firecrawl
 
 > ⭐131k · 網頁爬蟲 API，把任何網頁轉成 LLM 友善的 Markdown/JSON，搜尋+爬取+互動三合一
 
-快速導航：[[web-scraping]] · [[AI-Agent]] · [[RAG]] · [[網頁爬蟲]]
+快速導航：[[web-scraping]] · [[AI-Agent]] · [[rag]] · [[網頁爬蟲]]
 
 ## 是什麼
 
@@ -83,11 +77,11 @@ npx firecrawl-mcp
 |------|-------|------|-----------|---------|-----|
 | **Firecrawl** | ⭐131k | 網頁 API | ✅ Markdown/JSON | ✅ | ✅ |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56k | Python 爬蟲 | ❌ 原始 HTML | ✅ | ✅ |
-| [[unclecode-crawl4ai\|Crawl4AI]] | ⭐65k | 爬蟲框架 | ✅ Markdown | ✅ | ❌ |
+| [[Crawl4AI\|Crawl4AI]] | ⭐65k | 爬蟲框架 | ✅ Markdown | ✅ | ❌ |
 | [[browser-use-browser-use\|Browser Use]] | ⭐98k | 瀏覽器 Agent | ✅ | ✅ | ❌ |
 | [[web-crawling\|Web Crawling]] | — | 概念 | — | — | — |
 
-← [[web-scraping]] · [[AI-Agent]] · [[RAG]] · [[MCP]]
+← [[web-scraping]] · [[AI-Agent]] · [[rag]] · [[MCP]]
 
 ## 來源
 

@@ -1,13 +1,8 @@
 ---
-
-
 title: 開源商業模式
 slug: open-source-business
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 開源商業模式

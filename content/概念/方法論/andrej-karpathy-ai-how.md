@@ -1,15 +1,12 @@
 ---
-
-
 title: Karpathy 同款「AI 知識庫」完整拆解
 slug: andrej-karpathy-ai-how
 source: https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
 date: 2026-04-28
-
-
-updated: TODO
+updated: 2026-04-28
 language: zh-TW
-topics: []
+created: 2026-04-28
+stars: —
 ---
 
 # Karpathy 同款「AI 知識庫」完整拆解

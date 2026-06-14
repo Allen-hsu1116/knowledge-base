@@ -5,11 +5,6 @@ created: 2026-05-30
 updated: 2026-05-30
 stars: 26965
 language: TypeScript
-topics:
-  - offline-first
-  - self-hosted
-  - ai-platform
-  - knowledge-base
 ---
 
 # Project N.O.M.A.D.

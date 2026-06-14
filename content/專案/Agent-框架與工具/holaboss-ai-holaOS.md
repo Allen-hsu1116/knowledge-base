@@ -1,17 +1,10 @@
 ---
-
-
-
 title: holaOS
 slug: holaboss-ai-holaOS
 created: 2026-05-06
 stars: '⭐4757'
-
-
-
 updated: 2026-05-06
 language: zh-TW
-topics: []
 ---
 
 # holaOS

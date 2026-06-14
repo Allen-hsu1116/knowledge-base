@@ -5,20 +5,6 @@ created: 2026-06-03
 updated: 2026-06-03
 stars: 6416
 language: Python
-topics:
-  - ai
-  - agent
-  - claude-code
-  - compression
-  - context-engineering
-  - langchain
-  - llm
-  - mcp
-  - prompt-engineering
-  - proxy
-  - rag
-  - token-optimization
-  - typescript
 ---
 
 # Headroom

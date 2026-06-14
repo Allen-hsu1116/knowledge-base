@@ -1,11 +1,12 @@
 ---
 title: "nextlevelbuilder/ui-ux-pro-max-skill"
 stars: 88842
-topics: [AI-Skills, Frontend-Design, UI-UX, Design-System]
 license: MIT
 language: Python
 source: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 website: https://uupm.cc
+slug: nextlevelbuilder-ui-ux-pro-max-skill
+updated: 2026-06-08
 ---
 
 # nextlevelbuilder/ui-ux-pro-max-skill
@@ -224,7 +225,7 @@ design-system/
 
 ## 跟其他方案的關係
 
-| 維度 | ui-ux-pro-max-skill | [[anthropics-skills-frontend-design\|anthropics/skills frontend-design]] | [[vercel-labs-web-design-guidelines\|vercel-labs/web-design-guidelines]] | [[softaworks-design-system-starter\|softaworks/design-system-starter]] |
+| 維度 | ui-ux-pro-max-skill | [[anthropics-skills\|anthropics/skills frontend-design]] | [[vercel-labs-agent-skills\|vercel-labs/web-design-guidelines]] | [[softaworks-agent-toolkit\|softaworks/design-system-starter]] |
 |------|---------------------|-----|-----|-----|
 | 定位 | 全平台 AI 設計技能 | Claude 專用前端技能 | Web 設計指引 | Design System 樣板 |
 | 格式 | Markdown skill 定義 | YAML + Markdown | Markdown 文件 | 程式碼樣板 |
@@ -244,5 +245,5 @@ ui-ux-pro-max-skill 的核心差異化在於：它是**唯一同時涵蓋四大�
 - **GitHub 原始碼**：[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - **官方網站**：[uupm.cc](https://uupm.cc)
 - **授權條款**：MIT License
-- **相關技能**：[[anthropics-skills-frontend-design]]、[[vercel-labs-web-design-guidelines]]
+- **相關技能**：[[anthropics-skills]]、[[vercel-labs-agent-skills]]
 - **設計系統參考**：Radix UI、shadcn/ui、Material Design 3、Apple HIG

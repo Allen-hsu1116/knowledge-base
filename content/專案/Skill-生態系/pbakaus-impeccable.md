@@ -5,7 +5,6 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 32698
 language: JavaScript
-topics: [design, ai-skills, frontend, agent-skill]
 ---
 
 # Impeccable

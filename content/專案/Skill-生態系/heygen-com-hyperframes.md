@@ -1,3 +1,12 @@
+---
+title: Hyperframes
+slug: heygen-com-hyperframes
+created: 2026-03-10
+updated: 2026-03-10
+stars: —
+language: zh-TW
+---
+
 # Hyperframes
 
 > Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。

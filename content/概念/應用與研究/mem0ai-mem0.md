@@ -5,18 +5,13 @@ created: 2026-06-12
 updated: 2026-06-12
 stars: 58363
 language: Python
-topics:
-  - AI-Agent
-  - RAG
-  - MCP
-  - 向量資料庫
 ---
 
 # Mem0
 
 > ⭐58k · AI Agent 記憶層，讓 AI 記住使用者偏好、持續學習，LoCoMo 91.6 分 SOTA
 
-快速導航：[[AI-Agent]] · [[RAG]] · [[向量資料庫]] · [[MCP]]
+快速導航：[[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
 
 ## 是什麼
 
@@ -91,7 +86,7 @@ cd server && make bootstrap
 | [[thedotmack-claude-mem\|claude-mem]] | ⭐73k | Claude 記憶 | Agent | — | — |
 | [[upstash-context7\|Context7]] | ⭐54k | 文件查詢 | — | — | — |
 
-← [[AI-Agent]] · [[RAG]] · [[向量資料庫]] · [[MCP]]
+← [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
 
 ## 來源
 

@@ -1,13 +1,8 @@
 ---
-
-
 title: 資料分析
 slug: data-analysis
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 資料分析

@@ -1,17 +1,10 @@
 ---
-
-
-
 title: gstack
 slug: garrytan-gstack
 created: 2026-05-15
 stars: '⭐96762'
-
-
-
 updated: 2026-05-15
 language: zh-TW
-topics: []
 ---
 
 # gstack

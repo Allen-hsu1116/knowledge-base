@@ -1,13 +1,8 @@
 ---
-
-
 title: 自主學習
 slug: self-education
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 自主學習

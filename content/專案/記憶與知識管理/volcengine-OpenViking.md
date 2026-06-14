@@ -1,3 +1,12 @@
+---
+title: OpenViking
+slug: volcengine-OpenViking
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # OpenViking
 
 > 開源 Context Database，專為 AI Agent 設計。以檔案系統範式統一管理記憶、資源和技能，告別傳統 RAG 的碎片化儲存。

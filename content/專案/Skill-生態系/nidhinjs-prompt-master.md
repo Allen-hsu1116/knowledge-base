@@ -1,3 +1,12 @@
+---
+title: Prompt Master
+slug: nidhinjs-prompt-master
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Prompt Master
 
 > Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。

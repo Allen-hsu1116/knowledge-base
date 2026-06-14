@@ -1,3 +1,12 @@
+---
+title: MCP
+slug: MCP
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # MCP
 
 > MCP（Model Context Protocol）是 Anthropic 提出的開放協議，讓 LLM 能透過統一介面連接外部工具和資料來源。已成為 AI agent 生態系的標準化方向。

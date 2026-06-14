@@ -5,11 +5,6 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: —
 language: zh-TW
-topics:
-  - Figma
-  - Frontend-Design
-  - Design-System
-  - AI-Skills
 ---
 
 # Figma Skills
@@ -105,7 +100,7 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 
 ## 相關概念
 
-← [[openai-skills]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[Design-System]]
+← [[openai-skills]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
 

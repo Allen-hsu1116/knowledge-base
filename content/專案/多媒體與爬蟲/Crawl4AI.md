@@ -1,3 +1,12 @@
+---
+title: Crawl4AI
+slug: Crawl4AI
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Crawl4AI
 
 > LLM 友善的網頁爬蟲，把網頁轉成乾淨的 Markdown 供 RAG 和 Agent 使用。65.3K ⭐。

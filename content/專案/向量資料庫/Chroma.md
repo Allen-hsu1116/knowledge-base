@@ -1,3 +1,12 @@
+---
+title: Chroma
+slug: Chroma
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Chroma
 
 > 開源 AI 向量資料庫，API 極簡（只有 4 個核心函數），適合快速原型。27.9K ⭐。

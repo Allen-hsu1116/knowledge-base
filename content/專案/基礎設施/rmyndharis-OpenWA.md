@@ -1,15 +1,10 @@
 ---
-
 title: OpenWA
 slug: rmyndharis-OpenWA
 created: 2026-05-22
 updated: 2026-05-22
 stars: 4864
 language: TypeScript
-topics:
-  - workflow-automation
-  - sandbox
-
 ---
 
 # OpenWA — 開源 WhatsApp API Gateway

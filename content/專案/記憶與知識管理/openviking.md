@@ -1,3 +1,12 @@
+---
+title: OpenViking
+slug: openviking
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # OpenViking
 
 > 開源 Context Database，用檔案系統範式統一管理 Agent 的記憶、資源和技能，支援分層載入和可視化檢索軌跡。（詳細參考頁）

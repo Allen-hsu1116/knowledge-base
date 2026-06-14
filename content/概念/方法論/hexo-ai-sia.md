@@ -5,7 +5,6 @@ created: 2026-03-25
 updated: 2026-06-14
 stars: 1655
 language: Python
-topics: ["AI Agent", "Self-Improvement", "Harness Engineering", "Benchmark", "Fine-Tuning"]
 ---
 
 # SIA (Self-Improving AI)
@@ -58,7 +57,7 @@ sia web
 
 ## 跟其他方案的關係
 
-| 特色 | SIA | [[affaan-m-ECC|ECC]] | [[shareAI-lab-learn-claude-code|Learn Claude Code]] | [[lsdefine-GenericAgent|GenericAgent]] |
+| 特色 | SIA | [[affaan-m-ECC|ECC]] | [[hexo-ai-sia|Learn Claude Code]] | [[lsdefine-GenericAgent|GenericAgent]] |
 |------|-----|-----|-----------------|-------------|
 | 改進層面 | Harness + 權重 | Harness | Harness | Harness |
 | 自我改進 | ✅ 迭代迴圈 | 部分 | ✅ | ✅ 自演化 |

@@ -5,11 +5,6 @@ created: 2026-05-30
 updated: 2026-05-30
 stars: 7302
 language: Rust
-topics:
-  - document-parsing
-  - pdf
-  - ocr
-  - rag
 ---
 
 # LiteParse

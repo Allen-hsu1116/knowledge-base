@@ -1,3 +1,12 @@
+---
+title: CocoIndex
+slug: cocoindex
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # CocoIndex
 
 > 增量索引引擎，為長期 Agent 提供持續新鮮的上下文。只跑 delta，不重跑全量。Python 宣告式 API + Rust 引擎。

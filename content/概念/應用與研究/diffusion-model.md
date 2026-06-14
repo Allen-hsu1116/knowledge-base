@@ -1,3 +1,12 @@
+---
+title: 擴散模型
+slug: diffusion-model
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # 擴散模型
 
 > 透過漸進去噪生成高品質內容的模型架構，是當前圖像和影片生成的主流技術

@@ -1,10 +1,10 @@
 ---
-
 title: 專案索引
-
 slug: projects
 language: zh-TW
-topics: ["專案", "索引"]
+stars: —
+created: 2025-06-07
+updated: 2026-06-14
 ---
 
 # 專案索引
@@ -45,10 +45,7 @@ topics: ["專案", "索引"]
 | [[Alishahryar1-free-claude-code\|Free Claude Code]] | ⭐26,376 | Coding Agent CLI, LLM, AI Agent | 2026-05-20 |
 | [[affaan-m-ECC\|ECC]] | ⭐189,233 | AI Agent, Harness, Token Optimization | 2026-05-20 |
 | [[msitarzewski-agency-agents\|The Agency]] | ⭐104,521 | Agent Persona, AI Skills, 人格庫 | 2026-05-20 |
-| [[Shubhamsaboo-awesome-llm-apps\|Awesome LLM Apps]] | ⭐113,600 | LLM, RAG, AI-Agent, Awesome-List | 2025-06-07 |
-| [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,288 | VLA, GUI-Agent, Computer-Use, Edge-AI | 2025-06-07 |
 | [[multica-ai-andrej-karpathy-skills\|Karpathy CLAUDE.md 規則]] | ⭐141,652 | AI Skills, Prompt Engineering, CLAUDE.md, Coding Agent CLI | 2026-05-20 |
-| [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐42,231 | CLI, Agent-Native, MCP, Software-Automation | 2025-06-07 |
 | [[trycua-cua\|CUA]] | ⭐16,887 | AI Agent, 沙箱, Computer-Use, 桌面操控 | 2026-05-18 |
 | [[czlonkowski-n8n-mcp\|n8n MCP]] | ⭐20,896 | MCP, AI Agent, 工作流自動化 | 2026-05-16 |
 | [[tinyhumansai-openhuman\|OpenHuman]] | ⭐9,051 | AI Agent, MCP, 記憶 | 2026-05-16 |
@@ -71,6 +68,9 @@ topics: ["專案", "索引"]
 | [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐37,928 | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
 | [[google-skills\|google/skills]] | ⭐4,800 | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
+| [[Shubhamsaboo-awesome-llm-apps\|Awesome LLM Apps]] | ⭐113,600 | LLM, RAG, AI-Agent, Awesome-List | 2025-06-07 |
+| [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2,288 | VLA, GUI-Agent, Computer-Use, Edge-AI | 2025-06-07 |
+| [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐42,231 | CLI, Agent-Native, MCP, Software-Automation | 2025-06-07 |
 
 ## 🔄 Agent 編排與記憶
 
@@ -149,9 +149,6 @@ topics: ["專案", "索引"]
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22,759 | TTS, 語音合成, 語音克隆, 多語言, 擴散模型 | 2026-05-31 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
-| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | ⭐80,701 | Video-Generation, AI-Video, Content-Automation | 2025-06-07 |
-| [[linyqh-NarratoAI\|NarratoAI]] | ⭐9,698 | Video-Generation, AI-Video, Content-Automation | 2025-06-07 |
-| [[feicaiclub-video-spec-builder\|video-spec-builder]] | ⭐306 | Video-Generation, Spec-Driven, Coding-Agent | 2025-06-07 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
 | [[opentoonz-opentoonz\|OpenToonz]] | ⭐6,347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
 | [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
@@ -162,6 +159,9 @@ topics: ["專案", "索引"]
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
 | [[Crawl4AI]] | ⭐65,284 | RAG, 網頁爬蟲, AI Agent | 2026-05-10 |
 | [[Whisper]] | ⭐99,208 | 語音辨識, 多模態 | 2026-05-10 |
+| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | ⭐80,701 | Video-Generation, AI-Video, Content-Automation | 2025-06-07 |
+| [[linyqh-NarratoAI\|NarratoAI]] | ⭐9,698 | Video-Generation, AI-Video, Content-Automation | 2025-06-07 |
+| [[feicaiclub-video-spec-builder\|video-spec-builder]] | ⭐306 | Video-Generation, Spec-Driven, Coding-Agent | 2025-06-07 |
 
 ## ⚡ 效能與壓縮
 
@@ -244,12 +244,18 @@ topics: ["專案", "索引"]
 |------|-------|------|----------|
 | [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3.5k | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139k | Prompt Engineering, System Prompts, 安全研究 | 2026-06-12 |
+| [[nexu-io-open-design\|Open Design]] | ⭐61,555 | AI Skills, 前端設計, Design System, MCP | 2026-06-08 |
+| [[anthropics-skills\|Anthropic Skills]] | ⭐147.9k | AI Skills, Frontend Design, Web Testing | 2026-06-08 |
+| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | ⭐88.8k | AI Skills, Frontend Design, UI/UX | 2026-06-08 |
+| [[openai-skills\|OpenAI Skills]] | ⭐21.7k | AI Skills, Figma, Design System | 2026-06-08 |
+| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | ⭐27.7k | AI Skills, Web Design, Accessibility | 2026-06-08 |
+| [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]] | ⭐2k | AI Skills, Design System, UI/UX | 2026-06-08 |
+| [[expo-skills\|Expo Skills]] | ⭐2k | AI Skills, Mobile, React Native | 2026-06-08 |
+| [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐36,016 | AI Skills, Prompt Engineering, 前端設計 | 2026-06-07 |
 | [[mvanhorn-last30days-skill\|last30days]] | ⭐28k | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |
-| [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐36,016 | AI Skills, Prompt Engineering, 前端設計 | 2026-06-07 |
-| [[nexu-io-open-design\|Open Design]] | ⭐61,555 | AI Skills, 前端設計, Design System, MCP | 2026-06-08 |
 | [[Understand-Anything\|Understand Anything]] | ⭐18,628 | 程式碼智慧, Knowledge Graph, AI Agent | 2026-05-23 |
 | [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
 | [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
@@ -261,12 +267,6 @@ topics: ["專案", "索引"]
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
-| [[anthropics-skills\|Anthropic Skills]] | ⭐147.9k | AI Skills, Frontend Design, Web Testing | 2026-06-08 |
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | ⭐88.8k | AI Skills, Frontend Design, UI/UX | 2026-06-08 |
-| [[openai-skills\|OpenAI Skills]] | ⭐21.7k | AI Skills, Figma, Design System | 2026-06-08 |
-| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | ⭐27.7k | AI Skills, Web Design, Accessibility | 2026-06-08 |
-| [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]] | ⭐2k | AI Skills, Design System, UI/UX | 2026-06-08 |
-| [[expo-skills\|Expo Skills]] | ⭐2k | AI Skills, Mobile, React Native | 2026-06-08 |
 
 ## 🏗 基礎設施
 

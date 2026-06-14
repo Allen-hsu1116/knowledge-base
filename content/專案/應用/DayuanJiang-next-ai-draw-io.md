@@ -5,12 +5,6 @@ created: 2026-05-28
 updated: 2026-05-28
 stars: 30250
 language: TypeScript
-topics:
-  - AI-diagram
-  - draw.io
-  - MCP
-  - LLM
-  - visualization
 ---
 
 # Next AI Draw.io

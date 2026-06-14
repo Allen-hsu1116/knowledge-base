@@ -1,3 +1,12 @@
+---
+title: RAG（檢索增強生成）
+slug: rag
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # RAG（檢索增強生成）
 
 > Retrieval-Augmented Generation — 結合外部知識檢索與 LLM 生成，讓模型回答有根據、可追溯。從「模型自己想」到「先查再答」，是 LLM 應用從玩具到工具的關鍵一步。

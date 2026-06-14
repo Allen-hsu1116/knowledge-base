@@ -1,3 +1,12 @@
+---
+title: llama.cpp
+slug: llama-cpp
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # llama.cpp
 
 > C/C++ 實現的 LLM 推論引擎，讓消費級硬體也能跑 LLaMA 模型。109K ⭐。

@@ -5,7 +5,6 @@ created: 2025-04-30
 updated: 2026-06-14
 stars: 174051
 language: TypeScript
-topics: ["Coding Agent", "AI Agent", "MCP", "Agent Harness", "CLI"]
 ---
 
 # OpenCode

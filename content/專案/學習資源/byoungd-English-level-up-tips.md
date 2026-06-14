@@ -5,11 +5,6 @@ created: 2017-05-30
 updated: 2026-05-28
 stars: 46667
 language: Markdown
-topics:
-  - English-learning
-  - AI-tutoring
-  - self-education
-  - language-resources
 ---
 
 # English Level Up Tips

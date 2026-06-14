@@ -1,15 +1,11 @@
 ---
-
 title: ERPNext
 slug: frappe-erpnext
 date: 2026-05-20
 stars: 34279
 repo: https://github.com/frappe/erpnext
 language: Python
-topics:
-  - LLM
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # ERPNext — Free and Open Source ERP

@@ -1,3 +1,12 @@
+---
+title: Project Golem
+slug: project-golem
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Project Golem
 
 > Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）

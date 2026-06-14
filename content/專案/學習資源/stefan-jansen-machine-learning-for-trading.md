@@ -5,7 +5,6 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 17870
 language: Jupyter Notebook
-topics: [machine-learning, trading, finance, education]
 ---
 
 # Machine Learning for Trading

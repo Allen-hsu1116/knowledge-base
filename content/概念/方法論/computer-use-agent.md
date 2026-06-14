@@ -1,13 +1,8 @@
 ---
-
-
 title: Computer Use Agent
 slug: computer-use-agent
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Computer Use Agent

@@ -1,3 +1,12 @@
+---
+title: TensorRT-LLM
+slug: NVIDIA-TensorRT-LLM
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # TensorRT-LLM
 
 > NVIDIA 官方的 LLM 推論加速框架，在 NVIDIA GPU 上提供高效能推論最佳化。13.6K ⭐。

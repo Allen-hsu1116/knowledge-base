@@ -1,3 +1,12 @@
+---
+title: Whisper
+slug: Whisper
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Whisper
 
 > OpenAI 開源的語音辨識模型，支援多語言辨識、翻譯和語言偵測。99.2K ⭐。

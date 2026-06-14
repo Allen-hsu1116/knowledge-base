@@ -1,3 +1,12 @@
+---
+title: the-book-of-secret-knowledge
+slug: trimstray-the-book-of-secret-knowledge
+created: 2026-05-22
+updated: 2026-05-22
+stars: —
+language: zh-TW
+---
+
 # the-book-of-secret-knowledge
 
 - **Repo**: [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)

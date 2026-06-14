@@ -1,17 +1,10 @@
 ---
-
-
-
 title: addyosmani/agent-skills
 slug: addyosmani-agent-skills
 created: 2026-04-28
 stars: '⭐37.9k'
-
-
-
 updated: 2026-04-28
 language: zh-TW
-topics: []
 ---
 
 # addyosmani/agent-skills

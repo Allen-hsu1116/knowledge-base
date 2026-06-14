@@ -1,17 +1,11 @@
 ---
-
 title: Free Claude Code
 slug: Alishahryar1-free-claude-code
 date: 2026-05-20
 stars: 26376
 repo: https://github.com/Alishahryar1/free-claude-code
 language: Python
-topics:
-  - Coding-Agent-CLI
-  - LLM
-  - 模型推論與部署
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # Free Claude Code — 免費使用 Claude Code 的代理伺服器

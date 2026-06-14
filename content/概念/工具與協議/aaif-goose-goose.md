@@ -5,11 +5,6 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 48112
 language: Rust
-topics:
-  - ai-agent
-  - mcp
-  - acp
-  - coding-agent
 ---
 
 # Goose

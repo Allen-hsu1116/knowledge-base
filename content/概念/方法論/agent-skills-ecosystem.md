@@ -1,3 +1,12 @@
+---
+title: Agent Skills 生態系
+slug: agent-skills-ecosystem
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Agent Skills 生態系
 
 > Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。從「貼在聊天視窗的提示詞」到「可安裝、可搜尋、可重用的技能庫」。

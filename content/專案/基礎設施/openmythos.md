@@ -1,17 +1,10 @@
 ---
-
-
-
 title: OpenMythos
 slug: openmythos
 created: 2026-05-09
 stars: '⭐12.3'
-
-
-
 updated: 2026-05-09
 language: zh-TW
-topics: []
 ---
 
 # OpenMythos

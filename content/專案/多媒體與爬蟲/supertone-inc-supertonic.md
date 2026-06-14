@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Supertonic
 slug: supertone-inc-supertonic
 date: 2026-05-16
-
 stars: '⭐6.0k'
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Supertonic

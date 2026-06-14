@@ -1,3 +1,12 @@
+---
+title: antigravity-awesome-skills
+slug: sickn33-antigravity-awesome-skills
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # antigravity-awesome-skills
 
 > 1,443+ 可安裝的 AI coding agent skills，支援 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、OpenCode、GitHub Copilot 等 7+ 工具。一個指令安裝，即插即用。

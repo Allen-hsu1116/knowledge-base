@@ -5,12 +5,6 @@ created: 2026-06-01
 updated: 2026-06-01
 stars: 56630
 language: Python
-topics:
-  - web-scraping
-  - ai-scraping
-  - crawler
-  - mcp
-  - stealth
 ---
 
 # Scrapling

@@ -5,12 +5,6 @@ created: 2026-05-05
 updated: 2026-06-03
 stars: 10400
 language: Go
-topics:
-  - sandbox
-  - ai
-  - docker
-  - kubernetes
-  - mcp
 ---
 
 # OpenSandbox

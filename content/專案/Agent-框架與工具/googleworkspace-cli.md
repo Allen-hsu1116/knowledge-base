@@ -1,3 +1,12 @@
+---
+title: Google Workspace CLI (gws)
+slug: googleworkspace-cli
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Google Workspace CLI (gws)
 
 > 一個 CLI 統管 Google Workspace 所有 API — Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等。動態命令介面、40+ Agent Skills、所有回應結構化 JSON。

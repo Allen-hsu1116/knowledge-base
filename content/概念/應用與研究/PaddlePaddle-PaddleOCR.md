@@ -5,11 +5,6 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: 79871
 language: Python
-topics:
-  - ocr
-  - document-parsing
-  - llm
-  - rag
 ---
 
 # PaddleOCR

@@ -1,3 +1,12 @@
+---
+title: LLM
+slug: LLM
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # LLM
 
 > LLM（Large Language Model）是大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。近年從純文字走向多模態、推理能力增強、本地部署與 agent 化應用。

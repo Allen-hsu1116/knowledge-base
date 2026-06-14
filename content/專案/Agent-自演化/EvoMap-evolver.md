@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Evolver
 slug: EvoMap-evolver
 created: 2026-05-06
 stars: '⭐7241'
-
-
-
 updated: 2026-05-06
 language: zh-TW
-topics: []
 ---
 
 # Evolver

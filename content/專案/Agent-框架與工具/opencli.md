@@ -1,15 +1,10 @@
 ---
-
-
 title: OpenCLI
 slug: opencli
 aliases:
   - OpenCLI
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # OpenCLI

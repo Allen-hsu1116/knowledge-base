@@ -1,6 +1,4 @@
 ---
-
-
 title: anthropics/knowledge-work-plugins
 slug: anthropics-knowledge-work-plugins
 url: https://github.com/anthropics/knowledge-work-plugins
@@ -8,13 +6,6 @@ stars: 15460
 created: 2026-01-23
 language: Python
 date: 2026-05-26
-topics:
-  - AI-Skills
-  - MCP
-  - agent-skills-ecosystem
-  - Prompt-Engineering
-
-
 updated: 2026-01-23
 ---
 

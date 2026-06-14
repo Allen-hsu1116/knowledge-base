@@ -1,15 +1,10 @@
 ---
-
-
 title: 用 Persona + Skill 打造 AI 同事
 slug: persona-skill-colleague
 source: https://www.bnext.com.tw/article/90638/persona-skill-colleague
 date: 2026-04-28
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 用 Persona + Skill 打造 AI 同事

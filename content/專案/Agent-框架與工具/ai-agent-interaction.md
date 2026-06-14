@@ -1,3 +1,12 @@
+---
+title: AI Agent 之間的互動
+slug: ai-agent-interaction
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # AI Agent 之間的互動
 
 > 探討多 Agent 協作拓撲、對抗博弈（狼人殺/劇本殺）、以及 AI 社交平台 Mobook 的真實與幻象（詳細參考頁）

@@ -1,13 +1,8 @@
 ---
-
-
 title: GraphRAG
 slug: GraphRAG
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # GraphRAG

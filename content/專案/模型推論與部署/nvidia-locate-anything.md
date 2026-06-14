@@ -5,12 +5,6 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: —
 language: Python
-topics:
-  - Vision-Language-Model
-  - Object-Detection
-  - Visual-Grounding
-  - Parallel-Box-Decoding
-  - NVIDIA-Research
 ---
 
 # LocateAnything

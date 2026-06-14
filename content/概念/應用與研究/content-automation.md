@@ -1,13 +1,8 @@
 ---
-
-
 title: 內容自動化
 slug: content-automation
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 內容自動化

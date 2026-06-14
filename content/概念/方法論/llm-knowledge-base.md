@@ -1,3 +1,12 @@
+---
+title: LLM 知識庫系統
+slug: llm-knowledge-base
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # LLM 知識庫系統
 
 > 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。

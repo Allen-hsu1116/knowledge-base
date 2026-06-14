@@ -1,6 +1,4 @@
 ---
-
-
 title: Presenton
 slug: presenton-presenton
 date: 2026-05-24
@@ -8,15 +6,7 @@ stars: 6369
 repo: presenton/presenton
 url: https://github.com/presenton/presenton
 language: TypeScript
-topics:
-  - generative-AI
-  - MCP
-  - self-hosted-AI-platform
-  - AI-presentation
-  - pptx-generation
-
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # Presenton

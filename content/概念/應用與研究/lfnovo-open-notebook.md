@@ -5,11 +5,6 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: 25031
 language: TypeScript
-topics:
-  - notebooklm
-  - rag
-  - self-hosted
-  - llm
 ---
 
 # Open Notebook

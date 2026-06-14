@@ -1,15 +1,10 @@
 ---
-
 title: 沙箱
 slug: sandbox
 created: 2025-01-01
 updated: 2026-06-03
-topics:
-  - sandbox
-  - security
-  - code-execution
-
 language: zh-TW
+stars: —
 ---
 
 # 沙箱 (Sandbox)

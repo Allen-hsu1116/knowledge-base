@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Hello-Agents 从零构建智能体
 slug: datawhalechina-hello-agents
 created: 2026-05-13
 stars: '⭐48'
-
-
-
 updated: 2026-05-13
 language: zh-TW
-topics: []
 ---
 
 # Hello-Agents 从零构建智能体

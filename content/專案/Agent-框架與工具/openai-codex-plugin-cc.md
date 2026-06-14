@@ -1,3 +1,12 @@
+---
+title: Codex Plugin for Claude Code
+slug: openai-codex-plugin-cc
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Codex Plugin for Claude Code
 
 > OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。

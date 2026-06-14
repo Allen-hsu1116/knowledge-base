@@ -1,17 +1,10 @@
 ---
-
-
-
 title: ParseBench
 slug: run-llama-ParseBench
 created: 2026-05-09
 stars: '⭐468'
-
-
-
 updated: 2026-05-09
 language: zh-TW
-topics: []
 ---
 
 # ParseBench

@@ -5,11 +5,6 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 113600
 language: Python
-topics:
-  - LLM
-  - RAG
-  - AI-Agent
-  - Awesome-List
 ---
 
 # Awesome LLM Apps
@@ -19,7 +14,7 @@ topics:
 ## 快速導航
 
 - 🤖 [[AI-Agent]] — AI 智能體模式與框架
-- 📚 [[RAG]] — 檢索增強生成技術
+- 📚 [[rag]] — 檢索增強生成技術
 - 🎓 [[self-education]] — 學習資源與實作模板
 - 🏠 [[self-hosted-AI-platform]] — 自架 AI 平台
 
@@ -69,7 +64,7 @@ python ai_news_agent.py
 
 ## 相關概念
 
-← [[AI-Agent]] · [[RAG]] · [[self-education]] · [[self-hosted-AI-platform]]
+← [[AI-Agent]] · [[rag]] · [[self-education]] · [[self-hosted-AI-platform]]
 
 ## 來源
 

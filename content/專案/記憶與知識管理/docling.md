@@ -1,18 +1,11 @@
 ---
-
-
-
 title: Docling
 slug: docling
 source: https://github.com/docling-project/docling
 date: 2026-05-03
-
 stars: '⭐59878'
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Docling

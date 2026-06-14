@@ -1,17 +1,10 @@
 ---
-
-
-
 title: InkOS
 slug: Narcooo-inkos
 created: 2026-05-06
 stars: '⭐5672'
-
-
-
 updated: 2026-05-06
 language: zh-TW
-topics: []
 ---
 
 # InkOS

@@ -1,3 +1,12 @@
+---
+title: 文件解析（Document Parsing）
+slug: document-parsing
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # 文件解析（Document Parsing）
 
 > 將 PDF、DOCX、圖片等非結構化文件轉為結構化資料，讓 AI Agent 能可靠理解與使用。文件解析是 RAG 和知識庫管線的關鍵第一步。

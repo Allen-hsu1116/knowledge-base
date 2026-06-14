@@ -1,6 +1,4 @@
 ---
-
-
 title: Build Your Own X
 slug: codecrafters-io-build-your-own-x
 date: 2026-05-25
@@ -8,13 +6,7 @@ stars: 504263
 repo: codecrafters-io/build-your-own-x
 url: https://github.com/codecrafters-io/build-your-own-x
 language: Markdown
-topics:
-  - LLM
-  - AI-Tutoring
-  - coding-agent-toolkit
-
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # Build Your Own X

@@ -1,19 +1,11 @@
 ---
-
 title: Agency Agents
 slug: msitarzewski-agency-agents
 date: 2026-05-20
 stars: 101621
 repo: https://github.com/msitarzewski/agency-agents
 language: Shell
-topics:
-  - AI-Agent
-  - AI-Skills
-  - Coding-Agent-CLI
-  - agent-persona
-  - agent-skills-ecosystem
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # Agency Agents — A Complete AI Agency at Your Fingertips

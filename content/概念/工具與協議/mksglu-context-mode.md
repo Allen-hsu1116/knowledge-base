@@ -5,7 +5,6 @@ created: 2026-02-23
 updated: 2026-06-14
 stars: 17358
 language: TypeScript
-topics: ["Claude Code", "Context Optimization", "MCP", "Agent Skills", "Token Optimization"]
 ---
 
 # Context Mode

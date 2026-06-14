@@ -5,7 +5,6 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 81772
 language: Python
-topics: [agent, finance, llm, multiagent, trading]
 ---
 
 # TradingAgents

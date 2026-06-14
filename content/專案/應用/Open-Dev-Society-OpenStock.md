@@ -5,10 +5,6 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 12114
 language: TypeScript
-topics:
-  - financial-forecasting
-  - open-source-business
-  - stock-tracking
 ---
 
 # OpenStock

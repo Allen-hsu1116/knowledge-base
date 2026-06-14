@@ -1,3 +1,12 @@
+---
+title: 解剖小龍蝦 — AI Agent 運作原理
+slug: agent-anatomy-openclaw
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # 解剖小龍蝦 — AI Agent 運作原理
 
 > 以 OpenClaw 為例，完整拆解 AI Agent 的運作機制：從語言模型到工具使用、記憶管理、安全防禦（詳細參考頁）

@@ -1,14 +1,9 @@
 ---
-
-
 title: easy-vibe
 slug: datawhalechina-easy-vibe
 created: 2026-05-26
 stars: 14776
 language: JavaScript
-topics: ["Vibe Coding", "AI Tutoring", "Coding Education"]
-
-
 updated: 2026-05-26
 ---
 

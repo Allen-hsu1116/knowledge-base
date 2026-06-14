@@ -1,3 +1,12 @@
+---
+title: 整理記錄
+slug: log
+created: 2026-06-13
+updated: 2026-06-13
+stars: —
+language: zh-TW
+---
+
 ## 2026-06-13（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

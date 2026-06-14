@@ -5,20 +5,13 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 3193
 language: Python
-topics:
-  - 醫療AI
-  - 邊緣AI
-  - PII去識別化
-  - 臨床NER
-  - on-device
-  - MLX
 ---
 
 # OpenMed
 
 > ⭐3.2k · 本地優先醫療 AI，1,000+ 專科模型全在裝置上跑，病人資料不出網路
 
-快速導航：[[embedded-AI|邊緣裝置 AI]] · [[電腦視覺]] · [[RAG]] · [[自架]]
+快速導航：[[embedded-AI|邊緣裝置 AI]] · [[computer-vision]] · [[rag]] · [[self-hosted]]
 
 ## 是什麼
 
@@ -94,7 +87,7 @@ dependencies: [
 | [[ragflow|RAGFlow]] | ⭐79k | RAG | 部分 | 多語 | ❌ | ❌ |
 | [[embedded-AI|邊緣裝置 AI]] | — | 概念 | ✅ | — | — | — |
 
-← [[embedded-AI|邊緣裝置 AI]] · [[RAG]] · [[自架]]
+← [[embedded-AI|邊緣裝置 AI]] · [[rag]] · [[self-hosted]]
 
 ## 來源
 

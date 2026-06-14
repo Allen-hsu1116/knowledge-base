@@ -5,11 +5,6 @@ created: 2026-05-29
 updated: 2026-05-29
 stars: 3887
 language: HTML
-topics:
-  - claude-code
-  - claude-code-plugin
-  - harness
-  - harness-engineering
 ---
 
 # Harness — Agent 團隊架構工廠

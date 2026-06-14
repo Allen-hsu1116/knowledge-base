@@ -1,13 +1,8 @@
 ---
-
-
 title: 免費域名
 slug: free-domain
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 免費域名

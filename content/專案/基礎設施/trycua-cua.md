@@ -1,13 +1,10 @@
 ---
-
-
 title: CUA (Computer-Use Agents)
 slug: trycua-cua
-
-
-updated: TODO
+updated: 2026-05-18
 language: zh-TW
-topics: []
+created: 2026-05-18
+stars: 16887
 ---
 
 # CUA (Computer-Use Agents)

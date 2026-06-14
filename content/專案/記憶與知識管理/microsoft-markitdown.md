@@ -1,3 +1,12 @@
+---
+title: MarkItDown
+slug: microsoft-markitdown
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # MarkItDown
 
 > 微軟開源的文件轉 Markdown 工具 — 把 PDF、Office、圖片、音訊等任何格式轉成 LLM 能讀的 Markdown。

@@ -1,3 +1,12 @@
+---
+title: 資料視覺化 (Visualization)
+slug: visualization
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # 資料視覺化 (Visualization)
 
 > 將數據轉為圖形表示的技術，幫助人類理解趨勢、模式和異常值。在 AI 時代，視覺化從「人看圖表」進化為「AI 生成圖表」和「知識圖譜互動式探索」。

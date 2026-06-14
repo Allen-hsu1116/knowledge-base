@@ -1,3 +1,12 @@
+---
+title: Plausible Analytics
+slug: plausible-analytics
+created: 2018-12-04
+updated: 2018-12-04
+stars: —
+language: zh-TW
+---
+
 # Plausible Analytics
 
 > Open source, privacy-first web analytics — lightweight, cookie-free Google Analytics alternative

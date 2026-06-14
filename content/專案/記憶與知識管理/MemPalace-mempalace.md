@@ -1,19 +1,12 @@
 ---
-
-
-
 title: MemPalace
 slug: MemPalace-mempalace
 aliases:
   - MemPalace-mempalace
   - MemPalace
-
 stars: '⭐50787'
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # MemPalace

@@ -1,16 +1,9 @@
 ---
-
-
-
 title: 模擬
 slug: simulation
-
-stars: ''  # TODO: add Stars count
-
-
-updated: TODO
+stars: —
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 模擬

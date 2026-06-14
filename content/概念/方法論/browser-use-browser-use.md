@@ -5,11 +5,6 @@ created: 2026-06-12
 updated: 2026-06-12
 stars: 98341
 language: Python
-topics:
-  - AI-Agent
-  - computer-use-agent
-  - web-scraping
-  - MCP
 ---
 
 # Browser Use

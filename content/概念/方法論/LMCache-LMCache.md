@@ -5,12 +5,6 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 8600
 language: Python
-topics:
-  - LLM
-  - kv-cache
-  - vllm
-  - inference
-  - 推論加速
 ---
 
 # LMCache
@@ -76,7 +70,7 @@ docker run --name lmcache-server --network host -d \
 | 方案 | Stars | 類型 | KV 共享 | 分散式 | vLLM 整合 |
 |------|-------|------|---------|--------|-----------|
 | **LMCache** | ⭐8.6k | KV Cache 層 | ✅ 跨實例 | ✅ | ✅ 原生 |
-| [[vllm-project-vllm\|vLLM]] | ⭐82k | 推論引擎 | ❌ 單實例 | ❌ | — |
+| [[vLLM\|vLLM]] | ⭐82k | 推論引擎 | ❌ 單實例 | ❌ | — |
 | [[sgl-project-sglang\|SGLang]] | ⭐27k | 推論引擎 | 部分 prefix | ❌ | — |
 | [[NVIDIA-TensorRT-LLM|TensorRT-LLM]] | ⭐13k | 推論引擎 | KV reuse | 部分 | — |
 

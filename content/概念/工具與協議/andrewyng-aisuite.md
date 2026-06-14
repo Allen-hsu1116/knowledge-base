@@ -5,7 +5,6 @@ created: 2024-06-30
 updated: 2026-06-14
 stars: 14114
 language: Python
-topics: ["LLM", "Multi-Provider", "AI Agent", "Agent Harness", "Desktop App"]
 ---
 
 # aisuite + OpenCoworker

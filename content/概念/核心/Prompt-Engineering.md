@@ -1,3 +1,12 @@
+---
+title: Prompt Engineering
+slug: Prompt-Engineering
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Prompt Engineering
 
 > Prompt Engineering 是設計和優化 LLM 提示詞的技術，涵蓋系統提示、結構化指令、上下文工程、token 優化等面向。從「寫好問題」進化到「設計 agent 的操作手冊」。

@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Vibe-Trading
 slug: HKUDS-Vibe-Trading
 created: 2026-05-06
 stars: '⭐5120'
-
-
-
 updated: 2026-05-06
 language: zh-TW
-topics: []
 ---
 
 # Vibe-Trading

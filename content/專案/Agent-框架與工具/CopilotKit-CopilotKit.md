@@ -5,16 +5,6 @@ created: 2026-06-06
 updated: 2026-06-06
 stars: 32684
 language: TypeScript
-topics:
-  - agent
-  - agentic-ai
-  - ai-agent
-  - generative-ui
-  - llm
-  - react
-  - typescript
-  - copilot
-  - ag-ui
 ---
 
 # CopilotKit

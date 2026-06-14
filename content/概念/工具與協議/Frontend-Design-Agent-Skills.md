@@ -5,12 +5,6 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: —
 language: zh-TW
-topics:
-  - Frontend-Design
-  - AI-Skills
-  - Design-System
-  - Accessibility
-  - Web-Testing
 ---
 
 # Frontend Design Agent Skills
@@ -24,7 +18,7 @@ topics:
 - 🛠️ **設計系統** → [[softaworks-agent-toolkit\|SoftaWorks Toolkit]] — design-system-starter Skill
 - 🧪 **自動化測試** → [[anthropics-skills\|Anthropic Skills]] — webapp-testing Skill
 - 🤖 **Agent 生態系** → [[AI-Skills]] · [[agent-skills-ecosystem]]
-- 🖌️ **Figma 整合** → [[Figma-Agent-Skills]]
+- 🖌️ **Figma 整合** → [[Figma-Skills]]
 
 ## 核心內容
 
@@ -156,13 +150,13 @@ topics:
 
 | 方案 | Stars | 特色 | 與前端設計 Agent Skills 的關係 |
 |------|-------|------|-------------------------------|
-| [[Figma-Agent-Skills]] | — | Figma 雙向工作流 | 互補：Figma Skills 處理設計工具整合，前端設計 Skills 處理程式碼品質 |
+| [[Figma-Skills]] | — | Figma 雙向工作流 | 互補：Figma Skills 處理設計工具整合，前端設計 Skills 處理程式碼品質 |
 | [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | 88.8k | 完整 UI/UX 設計參考 | 互補：UI UX Pro Max 是參考手冊，Agent Skills 是可執行的操作指令 |
 | [[Figma-Skills]] | — | Figma 概念總覽 | 上位概念頁 |
 
 ## 相關概念
 
-← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[Design-System]] · [[Figma-Agent-Skills]] · [[Web-Testing]] · [[nexu-io-open-design]]
+← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]] · [[nexu-io-open-design]]
 
 ## 來源
 

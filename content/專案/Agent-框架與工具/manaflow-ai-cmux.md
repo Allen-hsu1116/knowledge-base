@@ -1,6 +1,4 @@
 ---
-
-
 title: cmux
 slug: manaflow-ai-cmux
 date: 2026-05-25
@@ -8,13 +6,7 @@ stars: 19020
 repo: manaflow-ai/cmux
 url: https://github.com/manaflow-ai/cmux
 language: Swift
-topics:
-  - Coding-Agent-CLI
-  - agent-skills-ecosystem
-  - coding-agent-toolkit
-
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # cmux

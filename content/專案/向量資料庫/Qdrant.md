@@ -1,3 +1,12 @@
+---
+title: Qdrant
+slug: Qdrant
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Qdrant
 
 > Rust 寫的高效能向量搜尋引擎，支援過濾、分片、多租戶。31.2K ⭐。

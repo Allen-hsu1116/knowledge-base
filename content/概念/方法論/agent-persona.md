@@ -1,3 +1,12 @@
+---
+title: AI Agent 人格與角色設計
+slug: agent-persona
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # AI Agent 人格與角色設計
 
 > 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。

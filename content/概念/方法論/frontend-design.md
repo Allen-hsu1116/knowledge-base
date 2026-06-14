@@ -5,11 +5,6 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: —
 language: zh-TW
-topics:
-  - Frontend-Design
-  - UI-UX
-  - Design-System
-  - Accessibility
 ---
 
 # 前端設計
@@ -91,7 +86,7 @@ topics:
 
 ## 相關概念
 
-← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[Prompt-Engineering]] · [[Design-System]] · [[Figma-Skills]] · [[Frontend-Design-Agent-Skills]]
+← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[Prompt-Engineering]] · [[frontend-design]] · [[Figma-Skills]] · [[Frontend-Design-Agent-Skills]]
 
 ## 來源
 

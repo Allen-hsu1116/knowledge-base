@@ -5,13 +5,6 @@ created: 2026-06-03
 updated: 2026-06-03
 stars: 8356
 language: Python
-topics:
-  - ai
-  - ai-companion
-  - ai-vtuber
-  - live2d
-  - llm
-  - ollama
 ---
 
 # Open-LLM-VTuber

@@ -5,13 +5,6 @@ created: 2026-05-31
 updated: 2026-05-31
 stars: 22759
 language: Python
-topics:
-  - tts
-  - voice-cloning
-  - multilingual
-  - speech-synthesis
-  - diffusion-model
-  - text-to-speech
 ---
 
 # VoxCPM

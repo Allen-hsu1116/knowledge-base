@@ -1,16 +1,8 @@
 ---
-
-
 title: CLAUDE.md
 slug: CLAUDE-md
 created: 2026-05-22
 updated: 2026-05-22
-topics:
-  - Prompt-Engineering
-  - AI-Skills
-  - Coding-Agent-CLI
-
-
 language: zh-TW
 ---
 

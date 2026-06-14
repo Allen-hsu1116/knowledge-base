@@ -5,11 +5,6 @@ created: 2026-01-11
 updated: 2026-05-28
 stars: 5700
 language: Markdown
-topics:
-  - Prompt-Engineering
-  - AI-Skills
-  - writing-quality
-  - agent-skills-ecosystem
 ---
 
 # Stop Slop

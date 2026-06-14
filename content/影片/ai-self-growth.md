@@ -1,6 +1,4 @@
 ---
-
-
 title: AI Self-Growth 人工智慧自我成長
 slug: ai-self-growth
 source: https://www.youtube.com/watch?v=s06mSAGN4gM
@@ -8,11 +6,8 @@ date: 2026-05-11
 author: 李宏毅 (Hung-yi Lee)
 channel: Hung-yi Lee
 video_date: 2026-05-10
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # AI Self-Growth 人工智慧自我成長

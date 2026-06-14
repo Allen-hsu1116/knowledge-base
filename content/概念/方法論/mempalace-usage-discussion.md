@@ -1,16 +1,11 @@
 ---
-
-
 title: MemPalace 使用情境討論
 slug: mempalace-usage-discussion
 source: discord-conversation
 date: 2026-05-07
 channel: 乖乖學習吧
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # MemPalace 使用情境討論

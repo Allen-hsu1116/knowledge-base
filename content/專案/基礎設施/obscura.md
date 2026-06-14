@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Obscura
 slug: obscura
 created: 2026-05-09
 stars: '⭐11.1'
-
-
-
 updated: 2026-05-09
 language: zh-TW
-topics: []
 ---
 
 # Obscura

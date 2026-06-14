@@ -1,3 +1,12 @@
+---
+title: OpenCLI
+slug: jackwener-OpenCLI
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # OpenCLI
 
 > 把網站、瀏覽器 session 和本地工具變成確定性 CLI 介面 — 同指令同結果，零 LLM 成本。

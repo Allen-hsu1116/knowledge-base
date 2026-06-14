@@ -1,3 +1,12 @@
+---
+title: LangChain
+slug: LangChain
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # LangChain
 
 > LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。137K ⭐。

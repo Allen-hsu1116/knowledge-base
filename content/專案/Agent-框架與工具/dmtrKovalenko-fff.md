@@ -5,7 +5,6 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 7176
 language: Rust
-topics: [filesearch, neovim, rust, mcp, ai-agent-toolkit]
 ---
 
 # FFF

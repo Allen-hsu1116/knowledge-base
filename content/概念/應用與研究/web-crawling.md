@@ -1,16 +1,11 @@
 ---
-
-
 title: Web Crawling
 slug: web-crawling
 aliases:
   - Web Crawling
   - 爬蟲
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Web Crawling

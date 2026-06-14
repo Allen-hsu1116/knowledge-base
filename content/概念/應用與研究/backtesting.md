@@ -1,13 +1,8 @@
 ---
-
-
 title: 回測
 slug: backtesting
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 回測

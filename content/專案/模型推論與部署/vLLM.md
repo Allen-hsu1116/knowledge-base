@@ -1,3 +1,12 @@
+---
+title: vLLM
+slug: vLLM
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # vLLM
 
 > 高吞吐量、記憶體效率的 LLM 推論和服務引擎，PagedAttention 發明者。79.5K ⭐。

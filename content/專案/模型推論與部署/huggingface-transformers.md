@@ -1,3 +1,12 @@
+---
+title: Hugging Face Transformers
+slug: huggingface-transformers
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Hugging Face Transformers
 
 > 機器學習模型定義框架，支援 100 萬+ 模型檢查點，是整個 AI 生態的樞紐。160K ⭐。

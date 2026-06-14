@@ -5,10 +5,6 @@ created: 2022-02-12
 updated: 2026-05-26
 stars: 41336
 language: Python
-topics:
-  - document-parsing
-  - OCR
-  - self-hosted-AI-platform
 ---
 
 # Paperless-ngx

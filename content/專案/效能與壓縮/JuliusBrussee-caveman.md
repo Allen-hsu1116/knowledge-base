@@ -1,3 +1,12 @@
+---
+title: caveman
+slug: JuliusBrussee-caveman
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # caveman
 
 > Claude Code / Codex 的 token 壓縮 plugin — 用「穴居人語」回答，砍掉 75% output token 但保持 100% 技術準確度。附帶 caveman-shrink MCP middleware 壓縮 46% input token。

@@ -1,3 +1,12 @@
+---
+title: Edict（三省六部）
+slug: cft0808-edict
+created: 2026-02-23
+updated: 2026-02-23
+stars: —
+language: zh-TW
+---
+
 # Edict（三省六部）
 
 > 用 1300 年前的帝國制度重新設計 AI 多 Agent 協作架構。12 個專職 Agent 組成三省六部，門下省專職審核封駁，軍機處看板即時監控。

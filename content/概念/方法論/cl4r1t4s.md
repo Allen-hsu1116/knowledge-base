@@ -1,18 +1,11 @@
 ---
-
-
-
 title: CL4R1T4S — Prompt 越獄與安全研究
 slug: cl4r1t4s
 source: https://github.com/elder-plinius/CL4R1T4S
 date: 2026-04-28
-
-stars: ''  # TODO: add Stars count
-
-
-updated: TODO
+stars: —
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # CL4R1T4S — Prompt 越獄與安全研究

@@ -5,12 +5,6 @@ created: 2026-06-01
 updated: 2026-06-01
 stars: 9980
 language: Python
-topics:
-  - agent
-  - ai-agents
-  - hermes
-  - hermes-agent
-  - nous-research
 ---
 
 # Hermes WebUI

@@ -1,18 +1,11 @@
 ---
-
-
-
 title: Karpathy 原始 Gist：LLM Wiki 完整 prompt
 slug: karpathy-gist-llm-wiki
 source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 date: 2026-04-28
-
 stars: '⭐5000'
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Karpathy 原始 Gist：LLM Wiki 完整 prompt

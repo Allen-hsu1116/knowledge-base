@@ -1,16 +1,9 @@
 ---
-
-
-
 title: Codex Complexity Optimizer
 slug: Kappaemme-git-codex-complexity-optimizer
-
-stars: ''  # TODO: add Stars count
-
-
-updated: TODO
+stars: —
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Codex Complexity Optimizer

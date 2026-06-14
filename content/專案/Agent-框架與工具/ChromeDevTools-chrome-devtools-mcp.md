@@ -1,3 +1,12 @@
+---
+title: chrome-devtools-mcp
+slug: ChromeDevTools-chrome-devtools-mcp
+created: 2026-05-22
+updated: 2026-05-22
+stars: —
+language: zh-TW
+---
+
 # chrome-devtools-mcp
 
 - **Repo**: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)

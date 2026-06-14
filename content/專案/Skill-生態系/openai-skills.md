@@ -5,11 +5,6 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 21702
 language: Python
-topics:
-  - AI-Skills
-  - Figma
-  - Frontend-Design
-  - Design-System
 ---
 
 # OpenAI Skills
@@ -242,7 +237,7 @@ Skills 會自動根據觸發條件載入，不需要手動指定。
 
 ## 相關概念
 
-← [[AI-Skills]] · [[Figma-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[Design-System]]
+← [[AI-Skills]] · [[Figma-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
 

@@ -5,14 +5,6 @@ created: 2026-06-07
 updated: 2026-06-07
 stars: 48476
 language: Python
-topics:
-  - tts
-  - asr
-  - voice-ai
-  - speech-recognition
-  - text-to-speech
-  - multilingual
-  - microsoft
 ---
 
 # VibeVoice

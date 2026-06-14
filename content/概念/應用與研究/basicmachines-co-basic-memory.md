@@ -5,19 +5,13 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 3215
 language: Python
-topics:
-  - AI-Agent
-  - 記憶
-  - MCP
-  - 知識圖譜
-  - Markdown
 ---
 
 # Basic Memory
 
 > ⭐3.2k · AI 永遠不忘，Markdown 即記憶，MCP 原生，你和 AI 讀寫同一份檔案
 
-快速導航：[[mem0ai-mem0|Mem0]] · [[MCP]] · [[Knowledge-Graph|知識圖譜]] · [[RAG]]
+快速導航：[[mem0ai-mem0|Mem0]] · [[MCP]] · [[Knowledge-Graph|知識圖譜]] · [[rag]]
 
 ## 是什麼
 
@@ -87,7 +81,7 @@ Basic Memory 的 Markdown 檔案與 Obsidian 直接相容。在 Obsidian 中開�
 | [[rohitg00-agentmemory|agentmemory]] | ⭐15k | Agent 記憶 | 向量 | MCP | ❌ | ❌ |
 | [[refactoringhq-tolaria|Tolaria]] | ⭐14k | 知識庫管理 | Markdown | ❌ | 部分 | ❌ |
 
-← [[mem0ai-mem0|Mem0]] · [[MCP]] · [[Knowledge-Graph|知識圖譜]] · [[RAG]]
+← [[mem0ai-mem0|Mem0]] · [[MCP]] · [[Knowledge-Graph|知識圖譜]] · [[rag]]
 
 ## 來源
 

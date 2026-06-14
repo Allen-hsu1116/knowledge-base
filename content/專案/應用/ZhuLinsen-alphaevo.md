@@ -5,11 +5,6 @@ created: 2026-05-21
 updated: 2026-05-28
 stars: 38100
 language: Python
-topics:
-  - financial-forecasting
-  - backtesting
-  - stock-analysis
-  - AI-Agent
 ---
 
 # AlphaEvo

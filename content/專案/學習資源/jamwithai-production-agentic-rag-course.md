@@ -5,13 +5,6 @@ created: 2026-06-03
 updated: 2026-06-03
 stars: 6376
 language: Python
-topics:
-  - rag
-  - llm
-  - opensearch
-  - fastapi
-  - langgraph
-  - docker
 ---
 
 # Production Agentic RAG Course

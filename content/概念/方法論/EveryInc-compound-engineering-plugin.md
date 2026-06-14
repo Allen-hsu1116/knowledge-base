@@ -5,11 +5,6 @@ created: 2026-05-29
 updated: 2026-05-29
 stars: 17771
 language: TypeScript
-topics:
-  - compound
-  - engineering
-  - claude-code
-  - coding-agent
 ---
 
 # Compound Engineering Plugin

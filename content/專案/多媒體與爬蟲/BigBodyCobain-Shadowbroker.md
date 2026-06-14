@@ -1,3 +1,12 @@
+---
+title: BigBodyCobain Shadowbroker
+slug: BigBodyCobain-Shadowbroker
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # BigBodyCobain Shadowbroker
 
 > 開源即時地理空間情報平台，整合 60+ 情報源到單一互動地圖，支援 AI Agent 共同分析。7.5K ⭐。

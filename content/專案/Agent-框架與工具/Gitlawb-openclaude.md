@@ -1,3 +1,12 @@
+---
+title: OpenClaude
+slug: Gitlawb-openclaude
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # OpenClaude
 
 > 開源 coding-agent CLI，支援 OpenAI、Gemini、DeepSeek、Ollama、Codex 等 200+ 模型。一個工具統一所有 terminal-first 工作流。

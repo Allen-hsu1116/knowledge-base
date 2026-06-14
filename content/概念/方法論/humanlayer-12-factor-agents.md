@@ -1,3 +1,12 @@
+---
+title: 12-Factor Agents
+slug: humanlayer-12-factor-agents
+created: 2025-03-30
+updated: 2025-03-30
+stars: —
+language: zh-TW
+---
+
 # 12-Factor Agents
 
 > Principles for building reliable LLM-powered software — the agent equivalent of 12 Factor Apps

@@ -1,13 +1,8 @@
 ---
-
-
 title: 世界模型
 slug: world-model
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 世界模型

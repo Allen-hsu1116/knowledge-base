@@ -5,7 +5,6 @@ created: 2026-02-19
 updated: 2026-06-14
 stars: 2363
 language: Go
-topics: ["Coding Agent", "Analytics", "Session Intelligence", "Cost Tracking", "Local-First"]
 ---
 
 # agentsview

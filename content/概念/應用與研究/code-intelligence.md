@@ -1,15 +1,10 @@
 ---
-
-
 title: 程式碼智慧
 slug: code-intelligence
 added: 2026-05-17
-
-stars: ''  # TODO: add Stars count
-
-updated: TODO
+stars: —
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 程式碼智慧

@@ -1,18 +1,11 @@
 ---
-
-
-
 title: claude-mem — Claude Code 持久記憶壓縮系統
 slug: thedotmack-claude-mem
 source: https://github.com/thedotmack/claude-mem
 date: 2026-05-09
-
-stars: ''  # TODO: add Stars count
-
-
-updated: TODO
+stars: —
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # claude-mem — Claude Code 持久記憶壓縮系統

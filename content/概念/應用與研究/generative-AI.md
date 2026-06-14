@@ -1,12 +1,9 @@
 ---
-
 title: 生成式 AI
 slug: generative-AI
 added: 2026-05-17
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 生成式 AI

@@ -1,13 +1,8 @@
 ---
-
-
 title: 自架（Self-Hosted）
 slug: self-hosted
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 自架（Self-Hosted）

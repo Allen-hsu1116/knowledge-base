@@ -5,7 +5,6 @@ created: 2026-06-04
 updated: 2026-06-04
 stars: 18902
 language: Jupyter Notebook
-topics: [llm, inference, quantization, layer-wise-inference, gpu-memory, lora, qlora]
 ---
 
 # AirLLM

@@ -1,16 +1,9 @@
 ---
-
-
-
 title: DS4
 slug: ds4
-
 stars: '⭐10277'
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # DS4 — DeepSeek 4 Flash 本地推論引擎

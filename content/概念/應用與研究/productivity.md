@@ -1,13 +1,8 @@
 ---
-
-
 title: 生產力
 slug: productivity
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 生產力

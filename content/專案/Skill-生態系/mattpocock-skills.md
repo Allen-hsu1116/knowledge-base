@@ -1,16 +1,9 @@
 ---
-
-
-
 title: Matt Pocock Skills
 slug: mattpocock-skills
-
-stars: ''  # TODO: add Stars count
-
-
-updated: TODO
+stars: —
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # Matt Pocock Skills

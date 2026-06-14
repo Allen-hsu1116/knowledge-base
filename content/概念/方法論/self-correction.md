@@ -1,3 +1,12 @@
+---
+title: Self-Correction 自我修正
+slug: self-correction
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Self-Correction 自我修正
 
 > 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、修改 workflow、修改參數。

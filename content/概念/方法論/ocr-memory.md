@@ -1,3 +1,12 @@
+---
+title: OCR-Memory
+slug: ocr-memory
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # OCR-Memory
 
 > 用視覺模態壓縮 Agent 長期記憶的新方法：把歷史軌跡渲染成帶標註的圖片，透過視覺錨點精確檢索原文，避免摘要損失和幻覺。ACL 2026 主會議論文。

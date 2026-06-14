@@ -1,3 +1,12 @@
+---
+title: AI Tutoring
+slug: AI-Tutoring
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # AI Tutoring
 
 > AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent 來創造互動式、自適應的學習體驗。從「看影片+做題」走向「跟 AI 對話學」。

@@ -1,3 +1,12 @@
+---
+title: OpenFang
+slug: RightNow-AI-openfang
+created: 2026-02-24
+updated: 2026-02-24
+stars: —
+language: zh-TW
+---
+
 # OpenFang
 
 > 開源 Agent 作業系統，Rust 全寫，137K LOC、14 crates、1,767+ tests。一個二進位檔 ~32MB，自治 Agent 24/7 幫你工作。

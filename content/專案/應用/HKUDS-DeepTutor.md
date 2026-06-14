@@ -1,3 +1,12 @@
+---
+title: DeepTutor
+slug: HKUDS-DeepTutor
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # DeepTutor
 
 > Agent-Native 個人化 AI 家教，結合 RAG、知識圖譜和 LLM agent。支援互動式學習、多文件協作、自動出題，並有 TutorBot 自主家教功能。

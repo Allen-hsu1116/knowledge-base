@@ -1,17 +1,10 @@
 ---
-
 title: agentmemory
 slug: rohitg00-agentmemory
 created: 2026-05-22
 updated: 2026-05-22
 stars: 15140
 language: TypeScript
-topics:
-  - MCP
-  - AI-Agent
-  - LLM
-  - rag
-
 ---
 
 # agentmemory — Persistent Memory for AI Coding Agents

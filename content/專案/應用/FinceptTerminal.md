@@ -1,3 +1,12 @@
+---
+title: Fincept Terminal
+slug: FinceptTerminal
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Fincept Terminal
 
 > 機構級金融智慧平台，整合 37 個 AI Agent、多資產分析與 100+ 數據連接器

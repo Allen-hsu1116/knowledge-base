@@ -5,12 +5,6 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 2288
 language: Python/Model
-topics:
-  - VLA
-  - GUI-Agent
-  - Computer-Use
-  - Edge-AI
-  - OSWorld
 ---
 
 # Mano-P
@@ -20,9 +14,9 @@ topics:
 ## 快速導航
 
 - 🤖 [[AI-Agent]] — GUI 智能體應用
-- 🖥️ [[computer-use]] — 電腦操控技術
+- 🖥️ [[computer-use-agent]] — 電腦操控技術
 - 🦾 [[trycua-cua]] — 另一個 CUA 智能體專案
-- ⚡ [[edge-ai]] — 邊緣 AI 部署
+- ⚡ [[embedded-AI]] — 邊緣 AI 部署
 
 ## 是什麼
 
@@ -62,12 +56,12 @@ pip install cider-sdk
 |------|------|----------|-------------|------|------|
 | **Mano-P** | GUI-VLA Agent | ✅ Apple M4 | 58.2% #1 | ✅ Apache 2.0 | 中英 |
 | [[trycua-cua\|OpenCUA]] | CUA Agent | ❌ 需雲端 | 45.0% | ✅ | 英 |
-| [[Computer-Use\|Claude Computer Use]] | 雲端 CUA | ❌ 雲端 | 31.3 | ❌ 商業 | 英 |
+| [[computer-use-agent\|Claude Computer Use]] | 雲端 CUA | ❌ 雲端 | 31.3 | ❌ 商業 | 英 |
 | UI-TARS | GUI Agent | ❌ | 較低 | ✅ | 英 |
 
 ## 相關概念
 
-← [[AI-Agent]] · [[computer-use]] · [[trycua-cua]] · [[edge-ai]]
+← [[AI-Agent]] · [[computer-use-agent]] · [[trycua-cua]] · [[embedded-AI]]
 
 ## 來源
 

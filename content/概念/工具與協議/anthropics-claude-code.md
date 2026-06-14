@@ -5,11 +5,6 @@ created: 2026-05-30
 updated: 2026-05-30
 stars: 127875
 language: Python
-topics:
-  - coding-agent
-  - ai-agent
-  - cli
-  - llm
 ---
 
 # Claude Code

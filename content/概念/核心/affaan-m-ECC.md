@@ -1,19 +1,11 @@
 ---
-
 title: ECC
 slug: affaan-m-ECC
 date: 2026-05-20
 stars: 187193
 repo: https://github.com/affaan-m/ECC
 language: JavaScript
-topics:
-  - AI-Agent
-  - AI-Skills
-  - Coding-Agent-CLI
-  - agent-skills-ecosystem
-  - prompt-security
-
-updated: TODO
+updated: 2026-06-14
 ---
 
 # ECC — Agent Harness Performance Optimization System

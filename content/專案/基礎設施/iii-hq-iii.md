@@ -5,11 +5,6 @@ created: 2025-01-02
 updated: 2026-05-28
 stars: 16876
 language: Rust
-topics:
-  - workflow-automation
-  - AI-Agent
-  - backend-infra
-  - observability
 ---
 
 # iii

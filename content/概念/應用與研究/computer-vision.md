@@ -1,16 +1,11 @@
 ---
-
-
 title: 電腦視覺
 slug: computer-vision
 aliases:
   - Computer Vision
   - CV
-
-
-updated: TODO
+updated: 2026-06-14
 language: zh-TW
-topics: []
 ---
 
 # 電腦視覺

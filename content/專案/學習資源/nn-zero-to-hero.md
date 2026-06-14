@@ -1,3 +1,12 @@
+---
+title: nn-zero-to-hero
+slug: nn-zero-to-hero
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # nn-zero-to-hero
 
 > Andrej Karpathy 的神經網路教學系列，從 micrograd 到 GPT，一步步從零建構

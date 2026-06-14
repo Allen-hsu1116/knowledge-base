@@ -1,3 +1,12 @@
+---
+title: graphify
+slug: safishamsi-graphify
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # graphify
 
 > Claude Code skill — 把任何資料夾轉成知識圖譜，支援程式碼、PDF、圖片等多模態輸入，號稱比直接讀原始檔案減少 71.5x token 消耗。

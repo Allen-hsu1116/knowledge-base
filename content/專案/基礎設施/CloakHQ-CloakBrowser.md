@@ -1,3 +1,12 @@
+---
+title: CloakBrowser
+slug: CloakHQ-CloakBrowser
+created: 2026-02-22
+updated: 2026-02-22
+stars: —
+language: zh-TW
+---
+
 # CloakBrowser
 
 > Stealth Chromium that passes every bot detection test — drop-in Playwright/Puppeteer replacement

@@ -1,3 +1,12 @@
+---
+title: Web Scraping
+slug: web-scraping
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Web Scraping
 
 > Web Scraping 是從網頁自動提取資料的技術，從簡單的 HTML 解析到 AI 驅動的智能爬蟲。是 RAG、知識庫、資料分析的上游基礎設施。

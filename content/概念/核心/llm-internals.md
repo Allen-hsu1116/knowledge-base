@@ -1,3 +1,12 @@
+---
+title: LLM 底層技術
+slug: llm-internals
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # LLM 底層技術
 
 > Transformer 內部的三大加速與最佳化技術：Flash Attention（減少記憶體搬運）、KV Cache（避免重算）、Positional Embedding（位置資訊注入）。三者共同決定了 LLM 的推論速度、成本和 context window 大小。

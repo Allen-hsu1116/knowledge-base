@@ -1,3 +1,12 @@
+---
+title: OpenClaw
+slug: openclaw
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # OpenClaw
 
 > 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）

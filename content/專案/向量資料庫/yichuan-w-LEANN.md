@@ -5,12 +5,6 @@ created: 2026-05-28
 updated: 2026-05-28
 stars: 11790
 language: Python
-topics:
-  - RAG
-  - vector-database
-  - MCP
-  - local-first
-  - privacy
 ---
 
 # LEANN

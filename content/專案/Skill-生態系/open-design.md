@@ -1,3 +1,12 @@
+---
+title: Open Design
+slug: open-design
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Open Design
 
 > 開源版 Claude Design — 本地優先、BYOK、skill-driven 的 AI 設計工具，讓你既有的 coding agent CLI 變成設計引擎。

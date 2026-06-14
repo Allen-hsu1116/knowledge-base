@@ -5,18 +5,6 @@ created: 2026-05-29
 updated: 2026-05-29
 stars: 88
 language: Python
-topics:
-  - ai-agent
-  - compliance
-  - document-parsing
-  - fastapi
-  - llm
-  - mcp
-  - ollama
-  - openai
-  - rag
-  - security
-  - security-assessment
 ---
 
 # DocSentinel — SSDLC 安全評估平台

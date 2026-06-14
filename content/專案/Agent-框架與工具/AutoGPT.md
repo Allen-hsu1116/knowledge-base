@@ -1,3 +1,12 @@
+---
+title: AutoGPT
+slug: AutoGPT
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # AutoGPT
 
 > 2023 年引爆 AI Agent 浪潮的自主 Agent 框架，讓 LLM 能自主規劃和執行任務。184K ⭐。

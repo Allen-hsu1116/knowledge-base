@@ -1,3 +1,12 @@
+---
+title: Hermes Agent
+slug: hermes-agent
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Hermes Agent
 
 > Nous Research 自我改進 AI Agent，內建學習閉環：從經驗建立技能、技能自我改進、跨 session 記憶與使用者建模。

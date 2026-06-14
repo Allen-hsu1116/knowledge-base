@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Superpowers
 slug: obra-superpowers
 created: 2026-05-14
 stars: '⭐189'
-
-
-
 updated: 2026-05-14
 language: zh-TW
-topics: []
 ---
 
 # Superpowers

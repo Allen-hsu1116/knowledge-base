@@ -5,18 +5,13 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 15425
 language: TypeScript
-topics:
-  - ai
-  - life-os
-  - agent-harness
-  - context-engineering
 ---
 
 # Personal AI Infrastructure (PAI)
 
 > ⭐15k · 個人 Life Operating System，用 AI 放大人的能力——技能、記憶、理想狀態追蹤一體整合
 
-快速導航：[[AI-Agent]] · [[context-engineering-basics]] · [[agentmemory]]
+快速導航：[[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 
 ## 是什麼
 
@@ -68,7 +63,7 @@ cd ~/.claude && ./install.sh
 
 PAI 與其他 Agent 框架最大的不同是它的「生活 OS」定位：不侷限於程式開發，而是涵蓋生活的各個層面。它的「Ideal State」概念是獨特的——其他框架大多只回答「怎麼做」，PAI 還要回答「完成了長什麼樣」。
 
-← [[AI-Agent]] · [[context-engineering-basics]] · [[agentmemory]]
+← [[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 
 ## 來源
 

@@ -1,3 +1,12 @@
+---
+title: Ollama
+slug: Ollama
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Ollama
 
 > 本地一鍵運行大型語言模型，支援 Llama、Gemma、DeepSeek 等數百種開源模型。171K ⭐。

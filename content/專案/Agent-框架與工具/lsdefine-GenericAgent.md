@@ -1,17 +1,10 @@
 ---
-
-
-
 title: GenericAgent
 slug: lsdefine-GenericAgent
 created: 2026-05-06
 stars: '⭐9199'
-
-
-
 updated: 2026-05-06
 language: zh-TW
-topics: []
 ---
 
 # GenericAgent

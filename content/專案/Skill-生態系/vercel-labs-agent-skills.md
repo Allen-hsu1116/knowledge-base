@@ -5,18 +5,13 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 27725
 language: JavaScript
-topics:
-  - AI-Skills
-  - Frontend-Design
-  - Web-Design
-  - Accessibility
 ---
 
 # Vercel Agent Skills
 
 > ⭐27.7k · Vercel 官方 Agent Skills 集合，提供前端設計審查、UI 最佳實踐等技能，讓 AI Agent 能產出符合 Web Interface Guidelines 的高品質介面。
 
-快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[web-design-guidelines]] · [[Prompt-Engineering]]
+快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[vercel-labs-agent-skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
 
@@ -92,7 +87,7 @@ npx skills@latest add vercel-labs/agent-skills
 - **UI 合規審查**：不是生成 UI，而是檢查既有 UI 是否符合最佳實踐
 - **動態規則取得**：每次審查前從遠端取得最新規則，確保標準永遠最新
 
-← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[web-design-guidelines]] · [[Prompt-Engineering]]
+← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[vercel-labs-agent-skills]] · [[Prompt-Engineering]]
 
 ## 來源
 

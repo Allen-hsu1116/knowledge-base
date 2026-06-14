@@ -5,11 +5,6 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 167376
 language: HTML
-topics:
-  - free-domain
-  - self-hosted
-  - DNS
-  - open-source-business
 ---
 
 # DigitalPlat FreeDomain

@@ -1,3 +1,12 @@
+---
+title: Milvus
+slug: Milvus
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Milvus
 
 > 高效能雲原生向量資料庫，支援十億級向量搜尋。44.2K ⭐。

@@ -1,3 +1,12 @@
+---
+title: PyMuPDF4LLM
+slug: pymupdf4llm
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # PyMuPDF4LLM
 
 > 一行把 PDF 轉成 LLM 友善的 Markdown/JSON，免 GPU 免雲端。

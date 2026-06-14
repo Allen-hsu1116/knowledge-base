@@ -1,3 +1,12 @@
+---
+title: Academic Research Skills
+slug: Imbad0202-academic-research-skills
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Academic Research Skills
 
 > Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。

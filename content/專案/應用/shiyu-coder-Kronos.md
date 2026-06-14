@@ -1,17 +1,10 @@
 ---
-
-
-
 title: Kronos
 slug: shiyu-coder-Kronos
 created: 2026-05-15
 stars: '⭐24824'
-
-
-
 updated: 2026-05-15
 language: zh-TW
-topics: []
 ---
 
 # Kronos

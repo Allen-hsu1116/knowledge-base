@@ -1,3 +1,12 @@
+---
+title: Token Optimization
+slug: Token-Optimization
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Token Optimization
 
 > Token Optimization 是降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入、分層載入等方式減少成本和延遲，同時保持回應品質。

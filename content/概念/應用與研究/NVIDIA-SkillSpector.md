@@ -5,12 +5,6 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 3496
 language: Python
-topics:
-  - AI-Agent
-  - prompt-security
-  - 安全掃描
-  - Skill-安全
-  - 網安
 ---
 
 # SkillSpector

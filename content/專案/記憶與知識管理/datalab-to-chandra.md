@@ -1,3 +1,12 @@
+---
+title: Chandra
+slug: datalab-to-chandra
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Chandra
 
 > 高精確度 OCR 模型 — 基於視覺模型，專攻複雜表格、表單、手寫，完整保留版面結構。datalab-to 開源。

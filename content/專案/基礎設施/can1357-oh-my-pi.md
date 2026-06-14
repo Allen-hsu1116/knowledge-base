@@ -1,3 +1,12 @@
+---
+title: Oh My Pi
+slug: can1357-oh-my-pi
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # Oh My Pi
 
 > 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。

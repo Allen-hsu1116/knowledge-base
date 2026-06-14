@@ -5,18 +5,13 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 13580
 language: TypeScript
-topics:
-  - knowledge-management
-  - markdown
-  - desktop-app
-  - self-hosted
 ---
 
 # Tolaria
 
 > ⭐14k · 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合
 
-快速導航：[[self-hosted]] · [[llm-knowledge-base-obsidian-claude-code]] · [[offline-first-knowledge]]
+快速導航：[[self-hosted]] · [[llm-knowledge-base-obsidian-claude-code]] · [[llm-knowledge-base-obsidian-claude-code]]
 
 ## 是什麼
 
@@ -59,12 +54,12 @@ pnpm tauri dev  # 原生桌面應用
 | **Tolaria** | ⭐14k | 知識庫管理 | Tauri + React + TS | Git-first、AI 整合 |
 | Obsidian | ⭐—（商業） | 知識庫管理 | Electron | 外掛生態、圖譜檢視 |
 | Logseq | ⭐—（開源） | 知識庫管理 | Electron | 大綱式、塊引用 |
-| [[tobi-qmd\|QMD]] | ⭐25k | 本地搜尋引擎 | Rust | 混合搜尋、MCP |
+| [[qmd\|QMD]] | ⭐25k | 本地搜尋引擎 | Rust | 混合搜尋、MCP |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器 | Ollama + RAG | 自架完整 AI 平台 |
 
 Tolaria 與 Obsidian 的定位不同：Obsidian 是成熟的外掛生態系統，有大綱檢視和社群外掛；Tolaria 更強調 Git-first 和 AI Agent 原生整合，以及用 Tauri 取代 Electron 的效能優勢。Tolaria 的「離線優先、零鎖定」哲學也非常鮮明。
 
-← [[self-hosted]] · [[llm-knowledge-base-obsidian-claude-code]] · [[offline-first-knowledge]]
+← [[self-hosted]] · [[llm-knowledge-base-obsidian-claude-code]] · [[llm-knowledge-base-obsidian-claude-code]]
 
 ## 來源
 

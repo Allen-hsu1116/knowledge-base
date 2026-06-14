@@ -1,3 +1,12 @@
+---
+title: PPT Master
+slug: hugohe3-ppt-master
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # PPT Master
 
 > AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。

@@ -1,3 +1,12 @@
+---
+title: SGLang
+slug: sgl-project-sglang
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # SGLang
 
 > 高效能 LLM 和多模態模型服務框架，由 LMSYS 開發，每天處理數兆 token。27.6K ⭐。

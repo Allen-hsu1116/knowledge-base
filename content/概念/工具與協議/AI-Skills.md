@@ -1,3 +1,12 @@
+---
+title: AI Skills
+slug: AI-Skills
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # AI Skills
 
 > AI Skills 是一種結構化的操作指令格式（通常為 SKILL.md），讓 AI coding agent 能以明確的上下文、約束和輸出規範來執行重複性任務。從「一次性提示詞」進化到「可安裝、可搜尋、可重用」的技能庫。

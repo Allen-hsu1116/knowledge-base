@@ -1,3 +1,12 @@
+---
+title: NVlabs Sana
+slug: NVlabs-Sana
+created: 2026-05-10
+updated: 2026-05-10
+stars: —
+language: zh-TW
+---
+
 # NVlabs Sana
 
 > NVIDIA/MIT 打造的高效擴散模型系列，支援 4K 影像到影片生成，比同級模型快 100 倍

@@ -1,14 +1,10 @@
 ---
-
-
 title: Self-RAG
 slug: self-rag
 created: 2026-05-11
-
-
 updated: 2026-05-11
 language: zh-TW
-topics: []
+stars: 2377
 ---
 
 # Self-RAG
