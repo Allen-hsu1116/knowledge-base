@@ -17,6 +17,8 @@ topics: ["專案", "索引"]
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anomalyco-opencode\|OpenCode]] | ⭐174k | Coding Agent CLI, AI Agent, MCP, 子Agent, 工作樹平行 | 2026-06-14 |
+| [[andrewyng-aisuite\|aisuite + OpenCoworker]] | ⭐14.1k | LLM, Multi-Provider, Agent Harness, 桌面代理, BYOK | 2026-06-14 |
 | [[langgenius-dify\|Dify]] | ⭐144k | LLM 應用平台, AI Agent, RAG, Workflow, 自架 | 2026-06-12 |
 | [[browser-use-browser-use\|Browser Use]] | ⭐98k | 瀏覽器 Agent, Computer-Use, Rust 核心, MCP | 2026-06-12 |
 | [[aaif-goose-goose\|Goose]] | ⭐48k | AI Agent, MCP, ACP, 通用 Agent, Rust | 2026-06-09 |
@@ -163,8 +165,9 @@ topics: ["專案", "索引"]
 
 ## ⚡ 效能與壓縮
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mksglu-context-mode\|Context Mode]] | ⭐17.4k | Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台 | 2026-06-14 |
 | [[jieba\|jieba 結巴分詞]] | ⭐34,952 | NLP, 中文分詞, 關鍵詞提取 | 2026-05-16 |
 | [[nltk\|NLTK]] | ⭐14,500 | NLP, 分詞, 詞性標注, 語料庫 | 2026-05-16 |
 | [[gemma4-mtp-drafters]] | ⭐—（研究文章，非 GitHub 專案） | Token Optimization, LLM 推理加速 | 2026-05-09 |
@@ -230,8 +233,9 @@ topics: ["專案", "索引"]
 
 ## 🔄 Agent 自演化
 
-| 專案 | Stars | 概念 | 收錄日期 |
+|| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hexo-ai-sia\|SIA]] | ⭐1.7k | Self-Improving AI, Harness + 權重更新, 基準測試驅動 | 2026-06-14 |
 | [[EvoMap-evolver]] | ⭐7,241 | AI Agent, GEP 協議, 自演化引擎 | 2026-05-06 |
 
 ## 🛠 Skill 生態系
@@ -268,7 +272,8 @@ topics: ["專案", "索引"]
 
 || 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
+|| [[kenn-io-agentsview\|agentsview]] | ⭐2.4k | Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先 | 2026-06-14 |
+|| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |
 | [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |
