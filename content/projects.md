@@ -85,7 +85,7 @@ updated: 2026-06-15
 
 ## 🧠 記憶與知識管理
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[basicmachines-co-basic-memory\|Basic Memory]] | ⭐3.2k | AI 記憶, MCP, Markdown, 知識圖譜, 語意搜尋 | 2026-06-13 |
 | [[mem0ai-mem0\|Mem0]] | ⭐58k | AI Agent 記憶層, RAG, SOTA, 向量資料庫 | 2026-06-12 |
@@ -117,7 +117,7 @@ updated: 2026-06-15
 
 ## 🧠 模型推論與部署
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[LMCache-LMCache\|LMCache]] | ⭐8.6k | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
 | [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
@@ -167,7 +167,7 @@ updated: 2026-06-15
 
 ## ⚡ 效能與壓縮
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[mksglu-context-mode\|Context Mode]] | ⭐17.4k | Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台 | 2026-06-14 |
 | [[jieba\|jieba 結巴分詞]] | ⭐34,952 | NLP, 中文分詞, 關鍵詞提取 | 2026-05-16 |
@@ -204,7 +204,7 @@ updated: 2026-06-15
 
 ## 📊 應用
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[sansan0-TrendRadar\|TrendRadar]] | ⭐59.4k | AI 輿情監控, 多平台聚合, RSS, MCP, 10+ 推送管道 | 2026-06-15 |
 | [[maziyarpanahi-openmed\|OpenMed]] | ⭐3.2k | 醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX | 2026-06-13 |
@@ -236,14 +236,14 @@ updated: 2026-06-15
 
 ## 🔄 Agent 自演化
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[hexo-ai-sia\|SIA]] | ⭐1.7k | Self-Improving AI, Harness + 權重更新, 基準測試驅動 | 2026-06-14 |
 | [[EvoMap-evolver]] | ⭐7,241 | AI Agent, GEP 協議, 自演化引擎 | 2026-05-06 |
 
 ## 🛠 Skill 生態系
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64.6k | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |
 | [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3.5k | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
@@ -274,11 +274,9 @@ updated: 2026-06-15
 
 ## 🏗 基礎設施
 
-|| 專案 | Stars | 概念 | 收錄日期 |
+| 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-|| [[promptfoo-promptfoo\|Promptfoo]] | ⭐22.2k | LLM 評測, 紅隊測試, 多模型比較, CI/CD, 漏洞掃描 | 2026-06-15 |
 | [[kenn-io-agentsview\|agentsview]] | ⭐2.4k | Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先 | 2026-06-14 |
-|| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |
 | [[arthurpanhku-DocSentinel\|DocSentinel]] | ⭐88 | SSDLC, 安全評估, MCP, RAG | 2026-05-29 |

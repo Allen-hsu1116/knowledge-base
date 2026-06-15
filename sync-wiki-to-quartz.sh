@@ -411,6 +411,124 @@ else
     echo "✅ 所有 frontmatter 正常"
 fi
 
+# ============================================================
+# Step 4: 自動修復 index.md 和 projects.md 的表格格式問題
+# ============================================================
+echo ""
+echo "🔧 檢查並修復表格格式..."
+
+CONTENT_INDEX="$CONTENT_DIR/index.md"
+CONTENT_PROJECTS="$CONTENT_DIR/projects.md"
+
+for TARGET_FILE in "$CONTENT_INDEX" "$CONTENT_PROJECTS"; do
+    if [ ! -f "$TARGET_FILE" ]; then
+        continue
+    fi
+
+    FILENAME=$(basename "$TARGET_FILE")
+    CHANGES=0
+
+    # 修復 1: 移除 || 開頭的行（專案連結不屬於概念表格）
+    # || [[slug\|alias]] | desc | 這種格式會產生空的 <td>
+    ORIG_COUNT=$(grep -c '^||' "$TARGET_FILE" 2>/dev/null || echo "0")
+    if [ "$ORIG_COUNT" -gt 0 ]; then
+        echo "   ⚠️ $FILENAME: 移除 $ORIG_COUNT 行 || 開頭的專案連結（應只出現在 projects.md）"
+        sed -i '' '/^||/d' "$TARGET_FILE"
+        CHANGES=$((CHANGES + ORIG_COUNT))
+    fi
+
+    # 修復 2: 表格中的 [[slug|alias]] 未跳脫的 |
+    # Quartz 會把 | 當成表格分隔符，造成空 <td>
+    # 需要把 [[slug|alias]] 改成 [[slug\|alias]]
+    UNESCAPED=$(python3 -c "
+import re, sys
+with open('$TARGET_FILE', 'r') as f:
+    lines = f.readlines()
+fixed = 0
+new_lines = []
+for line in lines:
+    stripped = line.strip()
+    if stripped.startswith('|') and '[[' in stripped:
+        new_line = re.sub(r'\[\[([^\]]*?)(?<!\\\\)\|([^\[]*?)\]\]', r'[[\1\\\\|\2]]', line)
+        if new_line != line:
+            fixed += 1
+        new_lines.append(new_line)
+    else:
+        new_lines.append(line)
+with open('$TARGET_FILE', 'w') as f:
+    f.writelines(new_lines)
+print(fixed)
+" 2>/dev/null || echo "0")
+    if [ "$UNESCAPED" != "0" ]; then
+        echo "   ⚠️ $FILENAME: 修復 $UNESCAPED 個未跳脫的 wikilink alias pipe"
+        CHANGES=$((CHANGES + UNESCAPED))
+    fi
+
+    # 修復 3: 確保概念表格行以單一 | 開頭（不會有空的第一欄）
+    # 檢查是否有 | [[slug]] | desc | 格式但概念欄為空
+    EMPTY_CELLS=$(python3 -c "
+with open('$TARGET_FILE', 'r') as f:
+    content = f.read()
+# 計算修復後的空 td 數量（簡單估算：概念表格行不該有空的第一 cell）
+count = 0
+for line in content.split('\n'):
+    stripped = line.strip()
+    if stripped.startswith('|') and '[[' in stripped:
+        # 分割表格欄位
+        cells = [c.strip() for c in stripped.split('|')]
+        # 去掉首尾空元素
+        if cells and cells[0] == '':
+            cells = cells[1:]
+        if cells and cells[-1] == '':
+            cells = cells[:-1]
+        # 如果第一個有意義的 cell 是空的，這行有問題
+        if len(cells) >= 2 and cells[0] == '':
+            count += 1
+print(count)
+" 2>/dev/null || echo "0")
+    if [ "$EMPTY_CELLS" != "0" ]; then
+        echo "   ⚠️ $FILENAME: 發現 $EMPTY_CELLS 行空的概念欄（需要手動檢查）"
+    fi
+
+    if [ "$CHANGES" -gt 0 ]; then
+        echo "   ✅ $FILENAME: 修復了 $CHANGES 個問題"
+    else
+        echo "   ✅ $FILENAME: 格式正確"
+    fi
+done
+
+# 也修復 wiki/ 來源的 index.md
+WIKI_INDEX="$WIKI_DIR/index.md"
+if [ -f "$WIKI_INDEX" ]; then
+    ORIG_COUNT=$(grep -c '^||' "$WIKI_INDEX" 2>/dev/null || echo "0")
+    if [ "$ORIG_COUNT" -gt 0 ]; then
+        echo "   ⚠️ wiki/index.md: 移除 $ORIG_COUNT 行 || 開頭的專案連結"
+        sed -i '' '/^||/d' "$WIKI_INDEX"
+    fi
+    UNESCAPED=$(python3 -c "
+import re
+with open('$WIKI_INDEX', 'r') as f:
+    lines = f.readlines()
+fixed = 0
+new_lines = []
+for line in lines:
+    stripped = line.strip()
+    if stripped.startswith('|') and '[[' in stripped:
+        new_line = re.sub(r'\[\[([^\]]*?)(?<!\\\\)\|([^\[]*?)\]\]', r'[[\1\\\\|\2]]', line)
+        if new_line != line:
+            fixed += 1
+        new_lines.append(new_line)
+    else:
+        new_lines.append(line)
+with open('$WIKI_INDEX', 'w') as f:
+    f.writelines(new_lines)
+print(fixed)
+" 2>/dev/null || echo "0")
+    if [ "$UNESCAPED" != "0" ]; then
+        echo "   ⚠️ wiki/index.md: 修復 $UNESCAPED 個未跳脫的 alias pipe"
+    fi
+fi
+
 echo ""
 echo "接下來可以："
 echo "  1. cd $SCRIPT_DIR && npx quartz build --serve  # 本地預覽"
