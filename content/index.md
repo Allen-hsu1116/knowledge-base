@@ -51,6 +51,8 @@ updated: 2026-06-15
 
 | 概念 | 說明 |
 |------|------|
+| [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。認知框架、工具邊界、工作流程三維駕馭 AI Agent。 |
+| [[prompt-security\|Prompt 安全與越獄]] | Prompt Injection 和越獄攻擊是 AI Agent 的實際安全風險，從「說出壞話」升級到「執行危險操作」。 |
 | [[agent-persona\|AI Agent 人格設計]] | 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。 |
 | [[CLAUDE-md\|CLAUDE.md]] | 用自然語言定義 AI 編碼助理的行為規範，是 Agent Skill 的核心載體。 |
 | [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。 |

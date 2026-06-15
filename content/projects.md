@@ -156,6 +156,7 @@ updated: 2026-06-15
 | [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
 | [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7,555 | OSINT, AI Agent, 情報平台 | 2026-05-19 |
 | [[KeygraphHQ-shannon\|Shannon]] | ⭐42,711 | 滲透測試, AI Agent, 白箱安全 | 2026-05-18 |
+| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
 | [[supertone-inc-supertonic\|Supertonic]] | ⭐6,043 | TTS, 邊緣裝置, 語音合成 | 2026-05-16 |
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
