@@ -27,9 +27,6 @@ updated: 2026-06-15
 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
 | [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
 | [[Token-Optimization\|Token Optimization]] | 降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
-|| [[affaan-m-ECC\|ECC]] | Agent harness 效能優化系統 — 跨 Claude Code/Codex/Cursor 等 7+ 工具的 skills、記憶、安全、持續學習。 |
-|| [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token、記憶、安全、驗證迴圈。 |
-|| [[anomalyco-opencode\|OpenCode]] | 開源 AI 編碼代理，15+ LLM 提供商，內建 MCP、Skills、子 Agent 和工作樹平行執行。 |
 
 ### 🔌 工具與協議
 
@@ -47,11 +44,6 @@ updated: 2026-06-15
 | [[aaif-goose-goose\|Goose]] | 開源通用 AI Agent，桌面 + CLI + API，支援 15+ LLM 提供商和 70+ MCP 擴展。 |
 | [[revfactory-harness\|Agent 團隊架構]] | 用領域描述自動產生 agent 團隊和 skill，六種架構模式涵蓋管線到階層委派。 |
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
-|| [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為介面的 AI 程式開發助手，整合多模型、MCP、Skills 和 Agent Routing。 |
-|| [[coding-agent-toolkit\|Coding Agent 工具包]] | 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。 |
-|| [[mksglu-context-mode\|Context Mode]] | Coding Agent 上下文視窗優化 MCP Server，沙箱工具輸出 98% 壓縮，15 平台支援。 |
-|| [[andrewyng-aisuite\|aisuite]] | Andrew Ng 出品的輕量 Python LLM 統一介面 + OpenCoworker 桌面代理，10+ 提供商。 |
-|| [[kenn-io-agentsview\|agentsview]] | 本地優先的 Coding Agent 會話智慧平台，20+ Agent 支援，成本追蹤與分析。 |
 | [[Figma-Skills\|Figma Skills]] | AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。 |
 | [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | 前端設計 Agent Skill 總覽：Anthropic frontend-design、Vercel web-design-guidelines、SoftaWorks design-system-starter、Anthropic webapp-testing。 |
 
@@ -71,16 +63,11 @@ updated: 2026-06-15
 | [[mempalace-usage-discussion\|MemPalace 使用討論]] | MemPalace 跟 RAG 的差異、改善建議、和我們知識庫的對比。 |
 | [[ocr-memory\|OCR-Memory]] | 用視覺模態壓縮 Agent 長期記憶，把歷史軌跡渲染成圖片，透過視覺錨點精確檢索原文。 |
 | [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」：Persona 是方向，Skill 是方法，兩者缺一不可。 |
-|| [[LMCache-LMCache\|LMCache]] | KV Cache 加速層，跨 vLLM 實例共享 KV cache，大幅降低 TTFT 和推論延遲。 |
-|| [[prompt-security\|Prompt 安全與越獄]] | 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。 |
 | [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
 | [[danielmiessler-Personal_AI_Infrastructure\|Personal AI Infrastructure]] | Life Operating System：用 AI 放大人的能力，Ideal State 驅動，文字優先、無 RAG。 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
 | [[ai-self-growth\|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
 | [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
-|| [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。透過認知框架、工具邊界、工作流程三維度駕馭 Agent。 |
-|| [[hexo-ai-sia\|SIA (Self-Improving AI)]] | 自我改進 AI 框架，讓 Agent 同時改進 Harness 和模型權重，LawBench 70.1%、MLE-Bench #1。 |
-|| [[EveryInc-compound-engineering-plugin\|複利工程]] | 每次工程工作讓下一次更容易，非累積債務。80% 規劃審查 + 20% 執行的 Agent 工作流。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
 | [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
@@ -98,11 +85,6 @@ updated: 2026-06-15
 | [[luongnv89-claude-howto\|Claude HowTo]] | 視覺化範例驅動的 Claude Code 學習指南，10 個模組從新手到進階。 |
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
-|| [[NVIDIA-SkillSpector\|SkillSpector]] | AI Agent Skills 安全掃描器，64 種漏洞模式 x 16 大類，安裝 Skill 前先問它。 |
-|| [[maziyarpanahi-openmed\|OpenMed]] | 本地優先醫療 AI，1,000+ 專科模型全在裝置上跑，病人資料不出網路。 |
-|| [[shuvonsec-claude-bug-bounty\|BugHunter]] | AI 驅動 Bug Bounty 獵蟲工具，recon → hunt → validate → report 全流程，免費也能跑。 |
-|| [[basicmachines-co-basic-memory\|Basic Memory]] | AI 永遠不忘，Markdown 即記憶，MCP 原生，你和 AI 讀寫同一份檔案。 |
-|| [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | 百度開源 OCR + 文件 AI 引擎，PaddleOCR-VL 0.9B 達 96.3% SOTA，PP-StructureV3 版面解析，100+ 語言。 |
 | [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | 開源 #1 PDF 解析器，hybrid 模式 0.907 準確率，bounding box 全覆蓋，首個 Tagged PDF 自動化。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |
