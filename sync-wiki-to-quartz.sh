@@ -430,8 +430,9 @@ for TARGET_FILE in "$CONTENT_INDEX" "$CONTENT_PROJECTS"; do
 
     # 修復 1: 移除 || 開頭的行（專案連結不屬於概念表格）
     # || [[slug\|alias]] | desc | 這種格式會產生空的 <td>
-    ORIG_COUNT=$(grep -c '^||' "$TARGET_FILE" 2>/dev/null || echo "0")
-    if [ "$ORIG_COUNT" -gt 0 ]; then
+    ORIG_COUNT=$(grep -c '^||' "$TARGET_FILE" 2>/dev/null || true)
+    ORIG_COUNT=${ORIG_COUNT:-0}
+    if [ "$ORIG_COUNT" -gt 0 ] 2>/dev/null; then
         echo "   ⚠️ $FILENAME: 移除 $ORIG_COUNT 行 || 開頭的專案連結（應只出現在 projects.md）"
         sed -i '' '/^||/d' "$TARGET_FILE"
         CHANGES=$((CHANGES + ORIG_COUNT))
@@ -500,8 +501,9 @@ done
 # 也修復 wiki/ 來源的 index.md
 WIKI_INDEX="$WIKI_DIR/index.md"
 if [ -f "$WIKI_INDEX" ]; then
-    ORIG_COUNT=$(grep -c '^||' "$WIKI_INDEX" 2>/dev/null || echo "0")
-    if [ "$ORIG_COUNT" -gt 0 ]; then
+    ORIG_COUNT=$(grep -c '^||' "$WIKI_INDEX" 2>/dev/null || true)
+    ORIG_COUNT=${ORIG_COUNT:-0}
+    if [ "$ORIG_COUNT" -gt 0 ] 2>/dev/null; then
         echo "   ⚠️ wiki/index.md: 移除 $ORIG_COUNT 行 || 開頭的專案連結"
         sed -i '' '/^||/d' "$WIKI_INDEX"
     fi
