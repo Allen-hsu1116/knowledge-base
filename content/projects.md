@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-14
+updated: 2026-06-15
 ---
 
 # 專案索引
@@ -17,8 +17,10 @@ updated: 2026-06-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | ⭐89.2k | MCP, 策展列表, 工具目錄, 30+ 分類 | 2026-06-15 |
 | [[anomalyco-opencode\|OpenCode]] | ⭐174k | Coding Agent CLI, AI Agent, MCP, 子Agent, 工作樹平行 | 2026-06-14 |
 | [[andrewyng-aisuite\|aisuite + OpenCoworker]] | ⭐14.1k | LLM, Multi-Provider, Agent Harness, 桌面代理, BYOK | 2026-06-14 |
+| [[CherryHQ-cherry-studio\|Cherry Studio]] | ⭐47.3k | AI 生產力工作室, 多模型客戶端, Agent Skills, 300+ 助手 | 2026-06-15 |
 | [[langgenius-dify\|Dify]] | ⭐144k | LLM 應用平台, AI Agent, RAG, Workflow, 自架 | 2026-06-12 |
 | [[browser-use-browser-use\|Browser Use]] | ⭐98k | 瀏覽器 Agent, Computer-Use, Rust 核心, MCP | 2026-06-12 |
 | [[aaif-goose-goose\|Goose]] | ⭐48k | AI Agent, MCP, ACP, 通用 Agent, Rust | 2026-06-09 |
@@ -204,6 +206,7 @@ updated: 2026-06-14
 
 || 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[sansan0-TrendRadar\|TrendRadar]] | ⭐59.4k | AI 輿情監控, 多平台聚合, RSS, MCP, 10+ 推送管道 | 2026-06-15 |
 | [[maziyarpanahi-openmed\|OpenMed]] | ⭐3.2k | 醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX | 2026-06-13 |
 | [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐81,772 | AI Agent, 多Agent交易, LLM, 金融預測 | 2026-06-02 |
 | [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30,250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
@@ -242,6 +245,7 @@ updated: 2026-06-14
 
 || 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64.6k | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |
 | [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3.5k | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139k | Prompt Engineering, System Prompts, 安全研究 | 2026-06-12 |
 | [[nexu-io-open-design\|Open Design]] | ⭐61,555 | AI Skills, 前端設計, Design System, MCP | 2026-06-08 |
@@ -272,7 +276,8 @@ updated: 2026-06-14
 
 || 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-|| [[kenn-io-agentsview\|agentsview]] | ⭐2.4k | Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先 | 2026-06-14 |
+|| [[promptfoo-promptfoo\|Promptfoo]] | ⭐22.2k | LLM 評測, 紅隊測試, 多模型比較, CI/CD, 漏洞掃描 | 2026-06-15 |
+| [[kenn-io-agentsview\|agentsview]] | ⭐2.4k | Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先 | 2026-06-14 |
 || [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |

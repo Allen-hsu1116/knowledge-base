@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-14
+updated: 2026-06-15
 ---
 
 # 知識庫總覽
@@ -35,7 +35,9 @@ updated: 2026-06-14
 
 | 概念 | 說明 |
 |------|------|
+| [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | MCP 生態系最重要的策展列表，30+ 分類收錄所有 MCP Server 實作。 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | 30+ AI 工具 system prompts 收集，Prompt Engineering 實戰參考 + 安全研究。 |
+| [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | 1000+ 生產就緒的 Claude Skills 策展列表，涵蓋文件、開發、資料分析等場景。 |
 | [[AI-Skills\|AI Skills]] | 結構化的操作指令格式（SKILL.md），讓 AI coding agent 能以明確上下文和規範執行任務。 |
 | [[anthropics-claude-code\|Claude Code]] | Anthropic 官方終端機 AI 編碼助手，用自然語言指令理解程式碼庫、自動執行任務。 |
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
@@ -82,6 +84,7 @@ updated: 2026-06-14
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
 | [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
+| [[CherryHQ-cherry-studio\|Cherry Studio]] | AI 生產力工作室，300+ 助手，多模型統一介面，Agent Skills，Vibe Coding。 |
 | [[browser-use-browser-use\|Browser Use]] | 開源瀏覽器 AI Agent，Rust 核心驅動，讓 LLM 直接操作網頁完成複雜任務。 |
 | [[computer-use-agent\|Computer Use Agent]] | 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。 |
 | [[agent-trading\|Agent 交易]] | AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。 |
@@ -90,6 +93,8 @@ updated: 2026-06-14
 
 | 概念 | 說明 |
 |------|------|
+| [[promptfoo-promptfoo\|Promptfoo]] | LLM 評測與紅隊工具，測試 Prompts、Agents、RAG，多模型比較 + CI/CD 整合。 |
+| [[sansan0-TrendRadar\|TrendRadar]] | AI 驅動輿情監控，20+ 平台聚合 + RSS + MCP，10+ 推送管道。 |
 | [[luongnv89-claude-howto\|Claude HowTo]] | 視覺化範例驅動的 Claude Code 學習指南，10 個模組從新手到進階。 |
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
