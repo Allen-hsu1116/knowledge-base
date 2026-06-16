@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-06-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[farion1231-cc-switch\|CC Switch]] | ⭐101.7k | AI Agent 管理器, 跨平台桌面, Claude Code/Codex/OpenCode | 2026-06-16 |
+| [[lobehub-lobehub\|LobeHub]] | ⭐78.7k | Agent 營運平台, CAO, 7×24 Agent 排班, 10k+ Skills | 2026-06-16 |
 | [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | ⭐89.2k | MCP, 策展列表, 工具目錄, 30+ 分類 | 2026-06-15 |
 | [[anomalyco-opencode\|OpenCode]] | ⭐174k | Coding Agent CLI, AI Agent, MCP, 子Agent, 工作樹平行 | 2026-06-14 |
 | [[andrewyng-aisuite\|aisuite + OpenCoworker]] | ⭐14.1k | LLM, Multi-Provider, Agent Harness, 桌面代理, BYOK | 2026-06-14 |
@@ -184,6 +186,8 @@ updated: 2026-06-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | ⭐75.7k | Prompt Engineering, RAG, AI Agents, 論文+課程 | 2026-06-16 |
+| [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | ⭐66.7k | Harness Engineering, Agent Loop, 從零建構 | 2026-06-16 |
 | [[luongnv89-claude-howto\|Claude HowTo]] | ⭐36k | Claude Code, 學習指南, Slash Commands, Skills, Hooks | 2026-06-09 |
 | [[google-cloud-ai-agent-trends-2026\|Google AI Agent Trends 2026]] | —（研究報告） | Agentic AI, AI Agent, Agent Workflow, Enterprise AI | 2026-06-05 |
 | [[lfnovo-open-notebook\|Open Notebook]] | ⭐25k | NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast | 2026-06-05 |
@@ -277,6 +281,7 @@ updated: 2026-06-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[n8n-io-n8n\|n8n]] | ⭐192.7k | 工作流自動化, 400+ 整合, AI-Native, MCP, 自架 | 2026-06-16 |
 | [[kenn-io-agentsview\|agentsview]] | ⭐2.4k | Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先 | 2026-06-14 |
 | [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器, 自架 AI 平台, Ollama, RAG | 2026-05-30 |

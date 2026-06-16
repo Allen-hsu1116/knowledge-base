@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # 知識庫總覽
@@ -70,11 +70,15 @@ updated: 2026-06-15
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | 借鏡 12 Factor Apps，提出 12 條打造可靠 LLM Agent 的工程原則。 |
 | [[ai-self-growth\|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
 | [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
+| [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | 從零建構 Agent Harness 的教學專案：Agency 來自模型訓練而非程式碼，教你建構車輛而非駕駛。 |
+| [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | 最完整的 Prompt Engineering 學習資源，16+ 技巧、論文驅動、Jupyter Notebook、13 語言。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
 | [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
 | [[CherryHQ-cherry-studio\|Cherry Studio]] | AI 生產力工作室，300+ 助手，多模型統一介面，Agent Skills，Vibe Coding。 |
 | [[browser-use-browser-use\|Browser Use]] | 開源瀏覽器 AI Agent，Rust 核心驅動，讓 LLM 直接操作網頁完成複雜任務。 |
+| [[farion1231-cc-switch\|CC Switch]] | 跨平台 AI 程式碼助手管理器，統一管理 Claude Code、Codex、OpenCode、Gemini CLI 等 6+ Agent。 |
+| [[lobehub-lobehub\|LobeHub]] | Agent 首席營運官——招募、排班、回報你的 AI 團隊，10k+ Skills，MCP 整合。 |
 | [[computer-use-agent\|Computer Use Agent]] | 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。 |
 | [[agent-trading\|Agent 交易]] | AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。 |
 
@@ -137,6 +141,7 @@ updated: 2026-06-15
 | [[lfnovo-open-notebook\|Open Notebook]] | NotebookLM 開源替代：隱私自架、18+ AI 供應商、1-4 人 Podcast、Docker 一鍵部署。 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖與 AI 聊天於一體。 |
 | [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
+| [[n8n-io-n8n\|n8n]] | 公平碼授權的工作流自動化平台，400+ 整合 + AI-Native，自架或雲端任選。 |
 | [[refactoringhq-tolaria\|Tolaria]] | 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合。 |
 | [[self-hosted\|自架]] | 在自有基礎設施上部署和運行軟體，掌控隱私、客製化與成本。 |
 | [[open-source-business\|開源商業模式]] | 開源軟體的商業化策略：如何讓開源專案持續生存並獲利。 |
