@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-16
+updated: 2026-06-17
 ---
 
 # 知識庫總覽
@@ -23,6 +23,8 @@ updated: 2026-06-16
 |------|------|
 | [[langgenius-dify\|Dify]] | 開源 LLM 應用開發平台，視覺化 AI workflow + RAG + Agent + 模型管理一站搞定。 |
 | [[AI-Agent\|AI Agent]] | 能自主執行任務的 AI 系統，含工具使用、記憶、規劃、工作流趨勢。 |
+| [[OpenHands-OpenHands\|OpenHands]] | 自架開發者控制中心，管理多種 Coding Agent，支援排程自動化和 Webhook 觸發。 |
+| [[microsoft-autogen\|AutoGen]] | 微軟多 Agent 框架，支援群組對話和 MCP 整合（⚠️ 已進入維護模式）。 |
 | [[LLM]] | 大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。 |
 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
 | [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
@@ -72,6 +74,7 @@ updated: 2026-06-16
 | [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
 | [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | 從零建構 Agent Harness 的教學專案：Agency 來自模型訓練而非程式碼，教你建構車輛而非駕駛。 |
 | [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | 最完整的 Prompt Engineering 學習資源，16+ 技巧、論文驅動、Jupyter Notebook、13 語言。 |
+| [[mlabonne-llm-course\|LLM Course]] | 從基礎到進階的 LLM 完整學習路線圖，附帶 Colab 筆記本，涵蓋微調、量化、合併。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
 | [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
@@ -141,6 +144,8 @@ updated: 2026-06-16
 | [[lfnovo-open-notebook\|Open Notebook]] | NotebookLM 開源替代：隱私自架、18+ AI 供應商、1-4 人 Podcast、Docker 一鍵部署。 |
 | [[Crosstalk-Solutions-project-nomad\|Project N.O.M.A.D.]] | 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖與 AI 聊天於一體。 |
 | [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
+| [[FlowiseAI-Flowise\|Flowise]] | 低代碼視覺化建構 AI Agent 和 LLM 工作流，基於 LangChain 拖曳式介面。 |
+| [[langfuse-langfuse\|Langfuse]] | 開源 LLM 工程平台，提供追蹤、評測、Prompt 管理、Playground（YC W23）。 |
 | [[n8n-io-n8n\|n8n]] | 公平碼授權的工作流自動化平台，400+ 整合 + AI-Native，自架或雲端任選。 |
 | [[refactoringhq-tolaria\|Tolaria]] | 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合。 |
 | [[self-hosted\|自架]] | 在自有基礎設施上部署和運行軟體，掌控隱私、客製化與成本。 |

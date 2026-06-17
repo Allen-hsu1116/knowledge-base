@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-16
+updated: 2026-06-17
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-06-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OpenHands-OpenHands\|OpenHands]] | ⭐77.4k | Coding Agent 控制中心, ACP 協議, 多後端, 自動化工作流 | 2026-06-17 |
+| [[microsoft-autogen\|AutoGen]] | ⭐59k | 多 Agent 框架, AgentChat, MCP 整合, 維護模式 | 2026-06-17 |
 | [[farion1231-cc-switch\|CC Switch]] | ⭐101.7k | AI Agent 管理器, 跨平台桌面, Claude Code/Codex/OpenCode | 2026-06-16 |
 | [[lobehub-lobehub\|LobeHub]] | ⭐78.7k | Agent 營運平台, CAO, 7×24 Agent 排班, 10k+ Skills | 2026-06-16 |
 | [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | ⭐89.2k | MCP, 策展列表, 工具目錄, 30+ 分類 | 2026-06-15 |
@@ -186,6 +188,7 @@ updated: 2026-06-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mlabonne-llm-course\|LLM Course]] | ⭐80.2k | LLM 學習路線圖, 微調, 量化, 合併, Colab 筆記本 | 2026-06-17 |
 | [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | ⭐75.7k | Prompt Engineering, RAG, AI Agents, 論文+課程 | 2026-06-16 |
 | [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | ⭐66.7k | Harness Engineering, Agent Loop, 從零建構 | 2026-06-16 |
 | [[luongnv89-claude-howto\|Claude HowTo]] | ⭐36k | Claude Code, 學習指南, Slash Commands, Skills, Hooks | 2026-06-09 |
@@ -281,6 +284,8 @@ updated: 2026-06-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FlowiseAI-Flowise\|Flowise]] | ⭐53.7k | 視覺化 Agent 建構, LangChain, 低代碼, RAG | 2026-06-17 |
+| [[langfuse-langfuse\|Langfuse]] | ⭐29.2k | LLM 觀測, 評測, Prompt 管理, Playground, YC W23 | 2026-06-17 |
 | [[n8n-io-n8n\|n8n]] | ⭐192.7k | 工作流自動化, 400+ 整合, AI-Native, MCP, 自架 | 2026-06-16 |
 | [[kenn-io-agentsview\|agentsview]] | ⭐2.4k | Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先 | 2026-06-14 |
 | [[reconurge-flowsint\|Flowsint]] | ⭐4,509 | OSINT, 圖譜調查, 情報平台, 網安 | 2026-06-03 |
