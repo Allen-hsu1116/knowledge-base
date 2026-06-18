@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-17
+updated: 2026-06-18
 ---
 
 # 知識庫總覽
@@ -48,6 +48,7 @@ updated: 2026-06-17
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
 | [[Figma-Skills\|Figma Skills]] | AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。 |
 | [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | 前端設計 Agent Skill 總覽：Anthropic frontend-design、Vercel web-design-guidelines、SoftaWorks design-system-starter、Anthropic webapp-testing。 |
+| [[penpot-penpot\|Penpot]] | 開源設計平台，SVG/CSS/HTML 開放標準，MCP Server 連接 AI Agent，Design Tokens，自架。 |
 
 ### 🛠 方法論
 
@@ -77,6 +78,8 @@ updated: 2026-06-17
 | [[mlabonne-llm-course\|LLM Course]] | 從基礎到進階的 LLM 完整學習路線圖，附帶 Colab 筆記本，涵蓋微調、量化、合併。 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | Boris Cherny 的 Claude Code 進階使用技巧：生產力、自動化和多工具協作。 |
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
+| [[krahets-hello-algo\|Hello 算法]] | 動畫圖解演算法與資料結構入門教程，12+ 語言程式碼一鍵運行，CS 基礎必備。 |
+| [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | 全球最大免費開源程式學習平台，Full-Stack + Machine Learning 認證課程。 |
 | [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
 | [[CherryHQ-cherry-studio\|Cherry Studio]] | AI 生產力工作室，300+ 助手，多模型統一介面，Agent Skills，Vibe Coding。 |
 | [[browser-use-browser-use\|Browser Use]] | 開源瀏覽器 AI Agent，Rust 核心驅動，讓 LLM 直接操作網頁完成複雜任務。 |

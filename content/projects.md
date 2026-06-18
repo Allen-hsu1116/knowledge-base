@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-17
+updated: 2026-06-18
 ---
 
 # 專案索引
@@ -188,6 +188,8 @@ updated: 2026-06-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[krahets-hello-algo\|Hello 算法]] | ⭐127.4k | 演算法, 資料結構, 動畫圖解, 12+ 語言 | 2026-06-18 |
+| [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | ⭐449k | 程式學習, Full-Stack, Machine Learning, 認證 | 2026-06-18 |
 | [[mlabonne-llm-course\|LLM Course]] | ⭐80.2k | LLM 學習路線圖, 微調, 量化, 合併, Colab 筆記本 | 2026-06-17 |
 | [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | ⭐75.7k | Prompt Engineering, RAG, AI Agents, 論文+課程 | 2026-06-16 |
 | [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | ⭐66.7k | Harness Engineering, Agent Loop, 從零建構 | 2026-06-16 |
@@ -253,6 +255,7 @@ updated: 2026-06-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[penpot-penpot\|Penpot]] | ⭐50k | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64.6k | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |
 | [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3.5k | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139k | Prompt Engineering, System Prompts, 安全研究 | 2026-06-12 |
