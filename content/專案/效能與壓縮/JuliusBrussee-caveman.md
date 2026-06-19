@@ -60,12 +60,13 @@ npx caveman stats
 | [[rtk]] | CLI proxy | 46% | — | 高 |
 | caveman | Plugin + MCP | 46% | 75% | 中 |
 | caveman Ultra | Plugin | — | 90%+ | 低 |
+| [[DietrichGebert-ponytail\|Ponytail]] | Plugin/Skill | 22% tokens | 54% LOC | 高 |
 
-caveman 的 input 壓縮類似 [[rtk]] 但用 MCP 介面而非 CLI proxy。穴居人語是 [[Prompt-Engineering]] 的實戰應用，整體屬於 [[Token-Optimization]] 領域。
+caveman 的 input 壓縮類似 [[rtk]] 但用 MCP 介面而非 CLI proxy。[[DietrichGebert-ponytail|Ponytail]] 用六階梯思考法控制程式碼生成邏輯，與 caveman 互補：caveman 控制文字風格，Ponytail 控制程式碼結構。穴居人語是 [[Prompt-Engineering]] 的實戰應用，整體屬於 [[Token-Optimization]] 領域。
 
 ## 相關概念
 
-← [[Token-Optimization]] · [[Prompt-Engineering]] · [[rtk]]
+← [[Token-Optimization]] · [[Prompt-Engineering]] · [[rtk]] · [[DietrichGebert-ponytail|Ponytail]]
 
 ## 來源
 

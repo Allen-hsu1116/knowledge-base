@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-18
+updated: 2026-06-19
 ---
 
 # 專案索引
@@ -21,10 +21,10 @@ updated: 2026-06-18
 | [[microsoft-autogen\|AutoGen]] | ⭐59k | 多 Agent 框架, AgentChat, MCP 整合, 維護模式 | 2026-06-17 |
 | [[farion1231-cc-switch\|CC Switch]] | ⭐101.7k | AI Agent 管理器, 跨平台桌面, Claude Code/Codex/OpenCode | 2026-06-16 |
 | [[lobehub-lobehub\|LobeHub]] | ⭐78.7k | Agent 營運平台, CAO, 7×24 Agent 排班, 10k+ Skills | 2026-06-16 |
+| [[CherryHQ-cherry-studio\|Cherry Studio]] | ⭐47.3k | AI 生產力工作室, 多模型客戶端, Agent Skills, 300+ 助手 | 2026-06-15 |
 | [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | ⭐89.2k | MCP, 策展列表, 工具目錄, 30+ 分類 | 2026-06-15 |
 | [[anomalyco-opencode\|OpenCode]] | ⭐174k | Coding Agent CLI, AI Agent, MCP, 子Agent, 工作樹平行 | 2026-06-14 |
 | [[andrewyng-aisuite\|aisuite + OpenCoworker]] | ⭐14.1k | LLM, Multi-Provider, Agent Harness, 桌面代理, BYOK | 2026-06-14 |
-| [[CherryHQ-cherry-studio\|Cherry Studio]] | ⭐47.3k | AI 生產力工作室, 多模型客戶端, Agent Skills, 300+ 助手 | 2026-06-15 |
 | [[langgenius-dify\|Dify]] | ⭐144k | LLM 應用平台, AI Agent, RAG, Workflow, 自架 | 2026-06-12 |
 | [[browser-use-browser-use\|Browser Use]] | ⭐98k | 瀏覽器 Agent, Computer-Use, Rust 核心, MCP | 2026-06-12 |
 | [[aaif-goose-goose\|Goose]] | ⭐48k | AI Agent, MCP, ACP, 通用 Agent, Rust | 2026-06-09 |
@@ -148,6 +148,7 @@ updated: 2026-06-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[firecrawl-firecrawl\|Firecrawl]] | ⭐131k | 網頁爬蟲 API, LLM-ready, MCP, Agent | 2026-06-12 |
 | [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS | 2026-06-07 |
 | [[NVIDIA-cosmos\|NVIDIA Cosmos]] | ⭐9.4k | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
@@ -160,7 +161,6 @@ updated: 2026-06-18
 | [[NVlabs-Sana\|Sana]] | ⭐6,361 | 擴散模型, 影片生成, 世界模型 | 2026-05-19 |
 | [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7,555 | OSINT, AI Agent, 情報平台 | 2026-05-19 |
 | [[KeygraphHQ-shannon\|Shannon]] | ⭐42,711 | 滲透測試, AI Agent, 白箱安全 | 2026-05-18 |
-| [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[Anil-matcha-Open-Generative-AI\|Open Generative AI]] | ⭐14,436 | 生成式 AI, 影片生成, 開源 | 2026-05-17 |
 | [[supertone-inc-supertonic\|Supertonic]] | ⭐6,043 | TTS, 邊緣裝置, 語音合成 | 2026-05-16 |
 | [[roboflow-supervision\|supervision]] | ⭐38,878 | 電腦視覺, 模型無關工具箱 | 2026-05-15 |
@@ -216,6 +216,8 @@ updated: 2026-06-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-research-timesfm\|TimesFM]] | ⭐23.2k | 時間序列預測, 基礎模型, Google Research, ICML 2024 | 2026-06-19 |
+| [[makeplane-plane\|Plane]] | ⭐51.8k | 專案管理, Jira 替代, 開源, Docker/K8s 自架 | 2026-06-19 |
 | [[sansan0-TrendRadar\|TrendRadar]] | ⭐59.4k | AI 輿情監控, 多平台聚合, RSS, MCP, 10+ 推送管道 | 2026-06-15 |
 | [[maziyarpanahi-openmed\|OpenMed]] | ⭐3.2k | 醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX | 2026-06-13 |
 | [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐81,772 | AI Agent, 多Agent交易, LLM, 金融預測 | 2026-06-02 |
@@ -255,6 +257,7 @@ updated: 2026-06-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[DietrichGebert-ponytail\|Ponytail]] | ⭐36.8k | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
 | [[penpot-penpot\|Penpot]] | ⭐50k | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64.6k | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |
 | [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3.5k | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
@@ -287,6 +290,8 @@ updated: 2026-06-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Kong-insomnia\|Insomnia]] | ⭐38.7k | API Client, GraphQL/REST/gRPC, 開源, Apache-2.0 | 2026-06-19 |
+| [[dotnet-aspnetcore\|ASP.NET Core]] | ⭐38.1k | Web 框架, C#, 跨平台, 微軟開源, MIT | 2026-06-19 |
 | [[FlowiseAI-Flowise\|Flowise]] | ⭐53.7k | 視覺化 Agent 建構, LangChain, 低代碼, RAG | 2026-06-17 |
 | [[langfuse-langfuse\|Langfuse]] | ⭐29.2k | LLM 觀測, 評測, Prompt 管理, Playground, YC W23 | 2026-06-17 |
 | [[n8n-io-n8n\|n8n]] | ⭐192.7k | 工作流自動化, 400+ 整合, AI-Native, MCP, 自架 | 2026-06-16 |
