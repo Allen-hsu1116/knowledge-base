@@ -140,7 +140,7 @@ docker compose -f docker/docker-compose.yml up -d
 
 ## 相關概念
 
-← [[document-parsing]] · [[Knowledge-Graph]] · [[AI-Agent]] · [[hichunk]] · [[cocoindex]] · [[qmd]] · [[yichuan-w-LEANN|LEANN]]
+← [[document-parsing]] · [[Knowledge-Graph]] · [[AI-Agent]] · [[hichunk]] · [[cocoindex]] · [[qmd]] · [[yichuan-w-LEANN|LEANN]] · [[opendataloader-project-opendataloader-pdf|opendataloader-pdf]]
 
 ## 來源
 

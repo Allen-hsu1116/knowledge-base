@@ -124,7 +124,7 @@ meta_harness_flow = """
 
 ## 相關概念
 
-← [[AI-Agent]] · [[AI-Skills]] · [[agent-persona]] · [[agent-skills-ecosystem]] · [[Prompt-Engineering]] · [[walkinglabs-learn-harness-engineering]]
+← [[AI-Agent]] · [[AI-Skills]] · [[agent-persona]] · [[agent-skills-ecosystem]] · [[Prompt-Engineering]] · [[walkinglabs-learn-harness-engineering]] · [[HarnessX]]
 
 ## 相關影片
 

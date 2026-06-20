@@ -17,6 +17,7 @@ updated: 2026-06-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[HarnessX]] | —（研究論文） | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
 | [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐8.2k | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter | 2026-06-20 |
 | [[OpenHands-OpenHands\|OpenHands]] | ⭐77.4k | Coding Agent 控制中心, ACP 協議, 多後端, 自動化工作流 | 2026-06-17 |
 | [[microsoft-autogen\|AutoGen]] | ⭐59k | 多 Agent 框架, AgentChat, MCP 整合, 維護模式 | 2026-06-17 |
@@ -149,6 +150,7 @@ updated: 2026-06-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[opendataloader-project-opendataloader-pdf\|opendataloader-pdf]] | ⭐25.5k | PDF Parsing, RAG, Document Extraction, PDF/UA, OCR | 2026-06-20 |
 | [[Lightricks-LTX-2\|LTX-2]] | ⭐7.7k | DiT 音影片生成, 22B, 10 種管線, LoRA 訓練, ComfyUI | 2026-06-20 |
 | [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[firecrawl-firecrawl\|Firecrawl]] | ⭐131k | 網頁爬蟲 API, LLM-ready, MCP, Agent | 2026-06-12 |
@@ -156,7 +158,7 @@ updated: 2026-06-20
 | [[NVIDIA-cosmos\|NVIDIA Cosmos]] | ⭐9.4k | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
 | [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8.4k | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
-| [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐22,759 | TTS, 語音合成, 語音克隆, 多語言, 擴散模型 | 2026-05-31 |
+| [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐31k | TTS, Tokenizer-Free, Voice Design, 語音克隆, 30 語言, 48kHz, Diffusion AR | 2026-06-20 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
 | [[opentoonz-opentoonz\|OpenToonz]] | ⭐6,347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
@@ -261,6 +263,7 @@ updated: 2026-06-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[gsap-ai-skills\|GSAP AI Skills]] | —（文章/概念） | AI Skills, Frontend, Animation, GSAP, Web Design, Design Taste | 2026-06-20 |
 | [[DietrichGebert-ponytail\|Ponytail]] | ⭐36.8k | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
 | [[penpot-penpot\|Penpot]] | ⭐50k | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64.6k | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |

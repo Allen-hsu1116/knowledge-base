@@ -108,7 +108,7 @@ Skills 通常透過框架特定的安裝方式加入 Agent：
 
 ## 相關概念
 
-← [[CLAUDE-md]] · [[agent-skills-ecosystem]] · [[agent-persona]] · [[MCP]] · [[Prompt-Engineering]] · [[openclaw]] · [[teng-lin-notebooklm-py]] · [[microsoft-SkillOpt|SkillOpt]] · [[Frontend-Design-Agent-Skills]] · [[nexu-io-open-design]]
+← [[CLAUDE-md]] · [[agent-skills-ecosystem]] · [[agent-persona]] · [[MCP]] · [[Prompt-Engineering]] · [[openclaw]] · [[teng-lin-notebooklm-py]] · [[microsoft-SkillOpt|SkillOpt]] · [[Frontend-Design-Agent-Skills]] · [[nexu-io-open-design]] · [[gsap-ai-skills|GSAP AI Skills]]
 
 ## 來源
 - 相關 GitHub/文章資料

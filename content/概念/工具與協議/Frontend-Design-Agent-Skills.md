@@ -156,7 +156,7 @@ language: zh-TW
 
 ## 相關概念
 
-← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]] · [[nexu-io-open-design]]
+← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]] · [[nexu-io-open-design]] · [[gsap-ai-skills|GSAP AI Skills]]
 
 ## 來源
 

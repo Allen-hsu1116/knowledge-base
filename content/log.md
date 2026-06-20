@@ -1084,3 +1084,33 @@ known-repos.json: +1 repo, +9 concepts (Presentation, Agent-Native, Agentic-AI, 
   - 新增概念: Frontend
 
 known-repos.json: 214 repos, 224 concepts
+
+---
+
+## 2026-06-20 — 批次收錄 4 個來源
+
+- **ingest** `HarnessX` — Agent Harness Foundry 論文，組合代數 + AEGIS 演化引擎，五基準平均 +14.5%
+  - raw: `raw/2026-06-20-harnessx.md`
+  - wiki: `wiki/HarnessX.md`
+  - projects.md: Agent 框架與工具區
+  - backlinks: AI-Agent.md, harness-engineering.md
+
+- **ingest** `opendataloader-project/opendataloader-pdf` (⭐25,475) — PDF 解析器 #1，0.907 準確率，首個開源 Tagged PDF 自動標記
+  - raw: `raw/2026-06-20-opendataloader-project-opendataloader-pdf.md`
+  - wiki: `wiki/opendataloader-project-opendataloader-pdf.md`
+  - projects.md: 多媒體與爬蟲區
+  - backlinks: AI-Agent.md, RAG.md
+
+- **update** `OpenBMB/VoxCPM` (⭐31,007, +8,248 ⬆️) — VoxCPM2 重大更新：2B 參數、30 語言、Voice Design、48kHz、vLLM-Omni 部署
+  - raw: `raw/2026-06-20-OpenBMB-VoxCPM.md`
+  - wiki: `wiki/OpenBMB-VoxCPM.md` (覆寫更新)
+  - projects.md: stars 更新 22,759 → 31k，新增 Voice Design/48kHz 等概念
+  - backlinks: AI-Agent.md
+
+- **ingest** `GSAP AI Skills` — GSAP 官方 AI Skill，解決 AI 做網站的「AI 味」問題（文章來源：AI郵報）
+  - raw: `raw/2026-06-20-aiposthub-gsap-skills.md`
+  - wiki: `wiki/gsap-ai-skills.md`
+  - projects.md: Skill 生態系區
+  - backlinks: AI-Skills.md, Frontend-Design-Agent-Skills.md
+
+known-repos.json: 271 repos, 362 concepts
