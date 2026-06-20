@@ -1114,3 +1114,17 @@ known-repos.json: 214 repos, 224 concepts
   - backlinks: AI-Skills.md, Frontend-Design-Agent-Skills.md
 
 known-repos.json: 271 repos, 362 concepts
+
+---
+
+## 2026-06-20 — Understand-Anything 更新
+
+- **update** `Understand-Anything` (⭐64,284, +45,656 ⬆️) — 從 Lum1104 個人專案轉為 Egonex-AI 公司維護
+  - Stars 暴漲：18,628 → 64,284
+  - 新功能：Domain 視圖（業務邏輯映射）、Tree-sitter + LLM 混合架構、語意搜尋、Persona-Adaptive UI、auto-update hook
+  - 平台支援從 12+ 擴展到 17+（新增 Kiro、Trae 等）
+  - raw: `raw/2026-06-20-Egonex-AI-Understand-Anything.md`
+  - wiki: `wiki/Understand-Anything.md`（覆寫更新）
+  - projects.md: stars 18,628 → 64.3k，新增概念標籤
+
+known-repos.json: 271 repos, 362 concepts

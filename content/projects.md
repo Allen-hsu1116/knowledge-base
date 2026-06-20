@@ -281,7 +281,7 @@ updated: 2026-06-20
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |
-| [[Understand-Anything\|Understand Anything]] | ⭐18,628 | 程式碼智慧, Knowledge Graph, AI Agent | 2026-05-23 |
+| [[Understand-Anything\|Understand Anything]] | ⭐64.3k | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
 | [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
 | [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
 | [[colbymchenry-codegraph\|CodeGraph]] | ⭐2,530 | 程式碼智慧, Knowledge Graph, MCP | 2026-05-17 |
