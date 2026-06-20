@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-19
+updated: 2026-06-20
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐8.2k | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter | 2026-06-20 |
 | [[OpenHands-OpenHands\|OpenHands]] | ⭐77.4k | Coding Agent 控制中心, ACP 協議, 多後端, 自動化工作流 | 2026-06-17 |
 | [[microsoft-autogen\|AutoGen]] | ⭐59k | 多 Agent 框架, AgentChat, MCP 整合, 維護模式 | 2026-06-17 |
 | [[farion1231-cc-switch\|CC Switch]] | ⭐101.7k | AI Agent 管理器, 跨平台桌面, Claude Code/Codex/OpenCode | 2026-06-16 |
@@ -148,6 +149,7 @@ updated: 2026-06-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Lightricks-LTX-2\|LTX-2]] | ⭐7.7k | DiT 音影片生成, 22B, 10 種管線, LoRA 訓練, ComfyUI | 2026-06-20 |
 | [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[firecrawl-firecrawl\|Firecrawl]] | ⭐131k | 網頁爬蟲 API, LLM-ready, MCP, Agent | 2026-06-12 |
 | [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS | 2026-06-07 |
@@ -188,6 +190,7 @@ updated: 2026-06-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[aishwaryanr-awesome-generative-ai-guide\|Awesome Generative AI Guide]] | ⭐27.6k | GenAI 學習資源, 90+ 課程, 論文追蹤, 面試題, 10週課程 | 2026-06-20 |
 | [[krahets-hello-algo\|Hello 算法]] | ⭐127.4k | 演算法, 資料結構, 動畫圖解, 12+ 語言 | 2026-06-18 |
 | [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | ⭐449k | 程式學習, Full-Stack, Machine Learning, 認證 | 2026-06-18 |
 | [[mlabonne-llm-course\|LLM Course]] | ⭐80.2k | LLM 學習路線圖, 微調, 量化, 合併, Colab 筆記本 | 2026-06-17 |
@@ -216,6 +219,7 @@ updated: 2026-06-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[koala73-worldmonitor\|WorldMonitor]] | ⭐57.2k | 全球情報儀表板, AI 新聞聚合, Ollama 本地, 地緣政治監控 | 2026-06-20 |
 | [[google-research-timesfm\|TimesFM]] | ⭐23.2k | 時間序列預測, 基礎模型, Google Research, ICML 2024 | 2026-06-19 |
 | [[makeplane-plane\|Plane]] | ⭐51.8k | 專案管理, Jira 替代, 開源, Docker/K8s 自架 | 2026-06-19 |
 | [[sansan0-TrendRadar\|TrendRadar]] | ⭐59.4k | AI 輿情監控, 多平台聚合, RSS, MCP, 10+ 推送管道 | 2026-06-15 |

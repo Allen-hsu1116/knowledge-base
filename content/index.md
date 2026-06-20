@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-19
+updated: 2026-06-20
 ---
 
 # 知識庫總覽
@@ -80,6 +80,7 @@ updated: 2026-06-19
 | [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
 | [[krahets-hello-algo\|Hello 算法]] | 動畫圖解演算法與資料結構入門教程，12+ 語言程式碼一鍵運行，CS 基礎必備。 |
 | [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | 全球最大免費開源程式學習平台，Full-Stack + Machine Learning 認證課程。 |
+| [[aishwaryanr-awesome-generative-ai-guide\|Awesome Generative AI Guide]] | GenAI 一站式學習資源庫，90+ 免費課程、每月論文追蹤、10 週 Applied LLMs 課程。 |
 | [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
 | [[CherryHQ-cherry-studio\|Cherry Studio]] | AI 生產力工作室，300+ 助手，多模型統一介面，Agent Skills，Vibe Coding。 |
 | [[browser-use-browser-use\|Browser Use]] | 開源瀏覽器 AI Agent，Rust 核心驅動，讓 LLM 直接操作網頁完成複雜任務。 |
@@ -94,6 +95,7 @@ updated: 2026-06-19
 |------|------|
 | [[promptfoo-promptfoo\|Promptfoo]] | LLM 評測與紅隊工具，測試 Prompts、Agents、RAG，多模型比較 + CI/CD 整合。 |
 | [[sansan0-TrendRadar\|TrendRadar]] | AI 驅動輿情監控，20+ 平台聚合 + RSS + MCP，10+ 推送管道。 |
+| [[koala73-worldmonitor\|WorldMonitor]] | 即時全球情報儀表板，500+ 新聞源 AI 聚合，Ollama 本地推論，地緣政治監控。 |
 | [[luongnv89-claude-howto\|Claude HowTo]] | 視覺化範例驅動的 Claude Code 學習指南，10 個模組從新手到進階。 |
 | [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
 | [[microsoft-ai-agents-for-beginners\|AI Agent 教學]] | 微軟出品的 AI Agent 入門課程，12+ 堂課涵蓋設計模式、工具使用、RAG、多 Agent、協議等。 |
@@ -129,12 +131,14 @@ updated: 2026-06-19
 | [[AI-video-generation\|AI 影片生成]] | AI 影片生成技術總覽：從文字到影片的生成模型、工具和方法。 |
 | [[diffusion-model\|擴散模型]] | 透過漸進去噪生成高品質內容的模型架構，Sana 等模型的核心技術。 |
 | [[world-model\|世界模型]] | 理解和模擬物理世界的 AI 模型，支援可控環境生成與具身智慧。 |
+| [[Lightricks-LTX-2\|LTX-2]] | 首個 DiT-based 音影片生成基礎模型，22B 參數，10 種管線，同步音影片生成。 |
 
 ### 🤖 程式碼智慧
 
 | 概念 | 說明 |
 |------|------|
 | [[code-intelligence\|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
+| [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | 最快的程式碼智慧 MCP Server，158 語言 tree-sitter 索引為知識圖譜，120x 更少 token。 |
 | [[simulation\|模擬]] | 用多 Agent 社會演化模擬推演未來事件。 |
 | [[GraphRAG]] | Knowledge Graph + RAG 結合，沿語義關聯路徑檢索。 |
 | [[向量資料庫]] | 儲存和檢索向量嵌入的專用資料庫，是 RAG 和語意搜尋的基礎設施。 |
