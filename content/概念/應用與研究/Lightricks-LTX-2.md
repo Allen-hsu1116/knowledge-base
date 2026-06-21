@@ -12,7 +12,8 @@ topics: [generative-ai, ltx, ltx-2]
 
 > ⭐7.7k · 首個 DiT-based 音影片生成基礎模型——同步音影片、高保真、多效能模式、生產級輸出。
 
-快速導航：[[NVlabs-Sana|Sana]] · [[NVIDIA-cosmos|NVIDIA Cosmos]] · [[OpenBMB-VoxCPM|VoxCPM]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
+## 快速導航
+[[NVlabs-Sana|Sana]] · [[NVIDIA-cosmos|NVIDIA Cosmos]] · [[OpenBMB-VoxCPM|VoxCPM]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
 
 ## 是什麼
 
@@ -65,11 +66,11 @@ source .venv/bin/activate
 
 | 方案 | 核心定位 | 音影片同步 | 管線數 | LoRA 訓練 | 模型大小 |
 |------|----------|-----------|--------|----------|----------|
-| [[Lightricks-LTX-2\|LTX-2]] | DiT 音影片基礎模型 | ✅ | 10 | ✅ | 22B |
-| [[NVlabs-Sana\|Sana]] | 擴散模型 | — | — | — | — |
-| [[NVIDIA-cosmos\|NVIDIA Cosmos]] | 世界模型 | — | — | — | — |
-| [[OpenBMB-VoxCPM\|VoxCPM]] | 語音合成 | — | — | — | — |
-| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | 影片自動化 | — | — | — | — |
+| [[Lightricks-LTX-2|LTX-2]] | DiT 音影片基礎模型 | ✅ | 10 | ✅ | 22B |
+| [[NVlabs-Sana|Sana]] | 擴散模型 | — | — | — | — |
+| [[NVIDIA-cosmos|NVIDIA Cosmos]] | 世界模型 | — | — | — | — |
+| [[OpenBMB-VoxCPM|VoxCPM]] | 語音合成 | — | — | — | — |
+| [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]] | 影片自動化 | — | — | — | — |
 
 與 [[NVlabs-Sana|Sana]] 互補：Sana 聚焦擴散模型和世界模型研究，LTX-2 則提供完整的音影片生成生產管線。與 [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]] 的關係在於兩者都涉及影片生成，但 LTX-2 是底層模型，MoneyPrinterTurbo 是上層自動化工具。
 

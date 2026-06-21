@@ -55,8 +55,8 @@ python app.py
 | 專案 | 定位 | 剪輯 | 解說 | 語音克隆 | 開源 |
 |------|------|------|------|----------|------|
 | **NarratoAI** | 影視解說+剪輯 | ✅ | ✅ | ✅ IndexTTS2 | ✅ |
-| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | 短影片生成 | ✅ | ❌ | ✅ | ✅ MIT |
-| [[feicaiclub-video-spec-builder\|video-spec-builder]] | 分鏡腳本 | ❌ | ❌ | ❌ | ✅ MIT |
+| [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]] | 短影片生成 | ✅ | ❌ | ✅ | ✅ MIT |
+| [[feicaiclub-video-spec-builder|video-spec-builder]] | 分鏡腳本 | ❌ | ❌ | ❌ | ✅ MIT |
 
 ## 相關概念
 

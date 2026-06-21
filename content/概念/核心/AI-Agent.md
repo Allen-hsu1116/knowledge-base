@@ -9,7 +9,7 @@ language: zh-TW
 
 # AI Agent
 
-> AI Agent 是能自主執行任務的 AI 系統，通常具備工具使用、記憶、規劃等能力。近年從單一 chatbot 走向多 agent 協作、長期運行的個人助理。
+> ⭐— · AI Agent 是能自主執行任務的 AI 系統，通常具備工具使用、記憶、規劃等能力。近年從單一 chatbot 走向多 agent 協作、長期運行的個人助理。
 
 ## 快速導航
 

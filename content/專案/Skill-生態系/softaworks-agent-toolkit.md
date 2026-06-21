@@ -11,7 +11,8 @@ language: Python
 
 > ⭐1.9k · 精選 AI 程式碼 Agent 技能集合，核心技能 design-system-starter 幫你從零打造生產級設計系統（token、元件架構、主題、文件一次到位）。
 
-快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[vercel-labs-agent-skills]] · [[frontend-design]]
+## 快速導航
+[[AI-Skills]] · [[agent-skills-ecosystem]] · [[vercel-labs-agent-skills]] · [[frontend-design]]
 
 ## 是什麼
 
@@ -115,11 +116,11 @@ curl -o SKILL.md https://raw.githubusercontent.com/softaworks/agent-toolkit/main
 
 | 方案 | 定位 | 與 SoftaWorks Agent Toolkit 的關係 |
 |------|------|------------------------------------|
-| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | 前端設計審查 | Vercel 審查既有 UI 品質，SoftaWorks 幫你從零建立設計系統 |
-| [[anthropics-skills\|Anthropic Skills]] | 官方 Skills | Anthropic 偏前端創作美學，SoftaWorks 偏系統化建構 |
-| [[mattpocock-skills\|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 偏架構對齊，SoftaWorks 偏設計系統建構 |
-| [[expo-skills\|Expo Skills]] | 行動開發 Skills | Expo 聚焦 React Native 開發，SoftaWorks 聚焦設計系統基礎 |
-| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 涵蓋全流程，SoftaWorks 專精設計系統這一環 |
+| [[vercel-labs-agent-skills|Vercel Agent Skills]] | 前端設計審查 | Vercel 審查既有 UI 品質，SoftaWorks 幫你從零建立設計系統 |
+| [[anthropics-skills|Anthropic Skills]] | 官方 Skills | Anthropic 偏前端創作美學，SoftaWorks 偏系統化建構 |
+| [[mattpocock-skills|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 偏架構對齊，SoftaWorks 偏設計系統建構 |
+| [[expo-skills|Expo Skills]] | 行動開發 Skills | Expo 聚焦 React Native 開發，SoftaWorks 聚焦設計系統基礎 |
+| [[addyosmani-agent-skills|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 涵蓋全流程，SoftaWorks 專精設計系統這一環 |
 | [[AI-Skills]] | 概念層 | SoftaWorks 是 AI Skills 在設計系統領域的最佳實踐 |
 
 ## 相關概念

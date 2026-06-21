@@ -9,7 +9,7 @@ language: zh-TW
 
 # Prompt 安全與越獄
 
-> 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。Prompt Injection 可以讓 Agent 從「說出壞話」升級到「執行危險操作」。
+> ⭐— · 當 AI Agent 有工具存取權時，prompt 安全不再是理論問題，而是實際風險。Prompt Injection 可以讓 Agent 從「說出壞話」升級到「執行危險操作」。
 
 ## 快速導航
 

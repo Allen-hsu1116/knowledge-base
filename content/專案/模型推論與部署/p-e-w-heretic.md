@@ -11,7 +11,8 @@ language: Python
 
 > ⭐22k · 全自動移除語言模型審查機制的工具，結合 directional ablation 與 Optuna TPE 優化器
 
-快速導航：[[LLM]] · [[llm-internals|LLM 內部機制]] · [[Prompt-Engineering]] · [[模型推論與部署]]
+## 快速導航
+[[LLM]] · [[llm-internals|LLM 內部機制]] · [[Prompt-Engineering]] · [[模型推論與部署]]
 
 ## 是什麼
 
@@ -55,6 +56,7 @@ heretic-eval --model path/to/your/model
 | 手動 abliteration | — | 學術方法 | ❌ | ❌ | ❌ | ❌ |
 | Direct fine-tuning | — | 微調 | ❌ | ❌ | ✅ | ✅ |
 
+## 相關概念
 ← [[LLM]] · [[llm-internals|LLM 內部機制]] · [[Prompt-Engineering]] · [[模型推論與部署]]
 
 ## 來源

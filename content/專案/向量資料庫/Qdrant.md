@@ -3,13 +3,13 @@ title: Qdrant
 slug: Qdrant
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 31,189
 language: zh-TW
 ---
 
 # Qdrant
 
-> Rust 寫的高效能向量搜尋引擎，支援過濾、分片、多租戶。31.2K ⭐。
+> ⭐31,189 · Rust 寫的高效能向量搜尋引擎，支援過濾、分片、多租戶。31.2K ⭐。
 
 ## 快速導航
 - 📚 **RAG** → [[rag]]（Qdrant 是 RAG 系統的向量搜尋引擎）
@@ -93,3 +93,11 @@ results = client.search(
 - **Stars**: ⭐31,189
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/qdrant/qdrant |
+| **Stars** | ⭐31,189 |
+| **收錄日期** | 2026-05-10 |

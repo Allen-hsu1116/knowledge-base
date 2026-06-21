@@ -9,7 +9,7 @@ language: zh-TW
 
 # CodeBurn
 
-> 跨 18 種 AI coding 工具的 token 用量、成本與效能追蹤儀表板。完全本地執行，不需代理、不需 API key。⭐5.9K
+> ⭐5.9 · 跨 18 種 AI coding 工具的 token 用量、成本與效能追蹤儀表板。完全本地執行，不需代理、不需 API key。⭐5.9K
 
 ## 快速導航
 - 💻 **Coding Agent CLI** → [[Coding-Agent-CLI]]（CodeBurn 追蹤 coding agent 的 token 和成本）
@@ -78,3 +78,11 @@ codeburn yield
 - **Stars**: ⭐5,885
 - **License**: MIT
 - **收錄日期**: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/getagentseal/codeburn |
+| **Stars** | ⭐'⭐5.9' |
+| **收錄日期** | 2026-05-09 |

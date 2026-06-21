@@ -10,7 +10,7 @@ updated: 2026-06-14
 
 # ERPNext — Free and Open Source ERP
 
-> 100% Open-Source ERP System to help you run your business.
+> ⭐34279 · 100% Open-Source ERP System to help you run your business.
 
 ERPNext 是一個完全開源的 ERP 系統，將所有企業營運整合到單一平台，免費使用。
 
@@ -69,4 +69,15 @@ bench --site mysite.local serve
 
 ## 來源
 
-- [原始資料](../raw/2026-05-20-frappe-erpnext.md)
+- GitHub：https://github.com/frappe/erpnext
+- Raw 檔案：`raw/2026-05-20-frappe-erpnext.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [frappe/erpnext](https://github.com/frappe/erpnext) |
+| Stars | ⭐34279 |
+| License | — |
+| Language | Python |
+| 收錄日期 | 2026-05-20 |

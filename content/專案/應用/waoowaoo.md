@@ -10,7 +10,7 @@ language: zh-TW
 
 # waoowaoo
 
-> AI 短劇/漫畫視頻製作工具，從小說文本自動生成分鏡、角色、場景，並製作成完整視頻。⭐ 12k
+> ⭐12k · AI 短劇/漫畫視頻製作工具，從小說文本自動生成分鏡、角色、場景，並製作成完整視頻。⭐ 12k
 
 ## 快速導航
 - ⚡ [[generative-AI]] · [[AI-Agent]] · [[self-hosted-AI-platform]]
@@ -42,7 +42,7 @@ docker compose up -d
 
 Local 開發：
 ```bash
-git clone https://github.com/saturndec/waoowaoo.git
+git clone https://github.com/saturndec/waoowaoo
 cd waoowaoo
 cp .env.example .env
 npm install
@@ -79,4 +79,16 @@ waoowaoo 是少數從「文本到完整視頻」的全流程 AI 製作工具，�
 ← [[generative-AI]] · [[AI-Agent]] · [[self-hosted-AI-platform]]
 
 ## 來源
-- [原始資料](../raw/2026-05-05-waoowaoo.md)
+
+- GitHub：https://github.com/saturndec/waoowaoo
+- Raw 檔案：`raw/2026-05-05-waoowaoo.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) |
+| Stars | ⭐12k |
+| License | — |
+| Language | zh-TW |
+| 收錄日期 | 2026-05-05 |

@@ -12,7 +12,8 @@ topics: [evaluation, langchain, llm, llm-evaluation, llm-observability, llmops, 
 
 > ⭐29.2k · 開源 LLM 工程平台，提供追蹤、評測、Prompt 管理、Playground，Y Combinator W23
 
-快速導航：[[Prompt-Engineering|Prompt Engineering]] · [[LLM|LLM 基礎]] · [[promptfoo|Prompt 測試]]
+## 快速導航
+[[Prompt-Engineering|Prompt Engineering]] · [[LLM|LLM 基礎]] · [[promptfoo-promptfoo|Prompt 測試]]
 
 ## 是什麼
 
@@ -66,13 +67,14 @@ result = story()
 
 | 方案 | 類型 | 自架 | 評測 | Prompt 管理 | 追蹤 | 適用場景 |
 |------|------|------|------|-------------|------|----------|
-| [[langfuse-langfuse\|Langfuse]] | LLM 觀測平台 | ✅ MIT | ✅ 多元 | ✅ 版本控管 | ✅ 完整 | LLM 開發全流程 |
-| [[promptfoo-promptfoo\|Promptfoo]] | Prompt 測試 | ✅ 開源 | ✅ 紅隊測試 | ⚠️ 基本 | ❌ | Prompt 品質測試 |
+| [[langfuse-langfuse|Langfuse]] | LLM 觀測平台 | ✅ MIT | ✅ 多元 | ✅ 版本控管 | ✅ 完整 | LLM 開發全流程 |
+| [[promptfoo-promptfoo|Promptfoo]] | Prompt 測試 | ✅ 開源 | ✅ 紅隊測試 | ⚠️ 基本 | ❌ | Prompt 品質測試 |
 | Helicone | LLM 觀測 | ⚠️ 雲端為主 | ⚠️ 基本 | ❌ | ✅ | API 監控 |
 | Arize Phoenix | ML 觀測 | ✅ 開源 | ✅ | ⚠️ | ✅ | ML+LLM 觀測 |
 | Weight & Biases | ML 實驗追蹤 | ❌ 僅雲端 | ✅ | ⚠️ | ✅ | 企業 ML 平台 |
 
-← [[Prompt-Engineering|Prompt Engineering]] · [[LLM|LLM 基礎]] · [[promptfoo|Prompt 測試]]
+## 相關概念
+← [[Prompt-Engineering|Prompt Engineering]] · [[LLM|LLM 基礎]] · [[promptfoo-promptfoo|Prompt 測試]]
 
 ## 來源
 

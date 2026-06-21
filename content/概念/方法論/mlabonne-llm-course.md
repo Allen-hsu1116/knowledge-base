@@ -12,7 +12,8 @@ topics: [course, large-language-models, llm, machine-learning, roadmap]
 
 > ⭐80.2k · 從基礎到進階的 LLM 完整學習路線圖，附帶可執行的 Colab 筆記本
 
-快速導航：[[LLM|LLM 基礎]] · [[Prompt-Engineering|Prompt Engineering]] · [[LLMs-from-scratch|從零打造 LLM]]
+## 快速導航
+[[LLM|LLM 基礎]] · [[Prompt-Engineering|Prompt Engineering]] · [[rasbt-LLMs-from-scratch|從零打造 LLM]]
 
 ## 是什麼
 
@@ -51,13 +52,14 @@ pip install unsloth  # 高效微調
 
 | 方案 | 類型 | 涵蓋範圍 | 實作方式 | 適合對象 |
 |------|------|---------|---------|----------|
-| [[mlabonne-llm-course\|LLM Course]] | 學習路線圖 | LLM 全流程 | Colab 筆記本 | 從初學到進階 |
-| [[dair-ai-Prompt-Engineering-Guide\|PE Guide]] | 學習資源 | Prompt Engineering | 文章+程式碼 | PE 專門學習 |
-| [[LLMs-from-scratch|LLMs from Scratch]] | 學習資源 | 從零實作 LLM | 程式碼+書籍 | 深入理解原理 |
-| [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | 教學 | Agent Harness | 實作指南 | Agent 開發者 |
+| [[mlabonne-llm-course|LLM Course]] | 學習路線圖 | LLM 全流程 | Colab 筆記本 | 從初學到進階 |
+| [[dair-ai-Prompt-Engineering-Guide|PE Guide]] | 學習資源 | Prompt Engineering | 文章+程式碼 | PE 專門學習 |
+| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | 學習資源 | 從零實作 LLM | 程式碼+書籍 | 深入理解原理 |
+| [[shareAI-lab-learn-claude-code|Learn Claude Code]] | 教學 | Agent Harness | 實作指南 | Agent 開發者 |
 | Fast.ai Practical DL | 課程 | 深度學習基礎 | 影片+筆記本 | DL 入門 |
 
-← [[LLM|LLM 基礎]] · [[Prompt-Engineering|Prompt Engineering]] · [[LLMs-from-scratch|從零打造 LLM]]
+## 相關概念
+← [[LLM|LLM 基礎]] · [[Prompt-Engineering|Prompt Engineering]] · [[rasbt-LLMs-from-scratch|從零打造 LLM]]
 
 ## 來源
 

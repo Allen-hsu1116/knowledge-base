@@ -89,6 +89,9 @@ updated: 2026-06-21
 | [[lobehub-lobehub\|LobeHub]] | Agent 首席營運官——招募、排班、回報你的 AI 團隊，10k+ Skills，MCP 整合。 |
 | [[computer-use-agent\|Computer Use Agent]] | 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。 |
 | [[agent-trading\|Agent 交易]] | AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。 |
+| [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為主要介面的 AI 程式開發助手，從單一 chatbot 走向多模型、多工具、多 agent 的整合開發環境。 |
+| [[coding-agent-toolkit\|Coding Agent 工具包]] | 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。 |
+| [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token 效率、記憶管理、安全驗證、持續學習。 |
 
 ### 📚 應用與研究
 

@@ -3,13 +3,13 @@ title: Fincept Terminal
 slug: FinceptTerminal
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 22,646
 language: zh-TW
 ---
 
 # Fincept Terminal
 
-> 機構級金融智慧平台，整合 37 個 AI Agent、多資產分析與 100+ 數據連接器
+> ⭐22,646 · 機構級金融智慧平台，整合 37 個 AI Agent、多資產分析與 100+ 數據連接器
 
 ## 快速導航
 - 🧠 **AI Agent** → [[AI-Agent]]（37 個金融 AI Agent）
@@ -66,7 +66,7 @@ docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix fincept-ter
 | 工具 | 定位 | AI Agent 數 | 主要用途 |
 |------|------|-------------|----------|
 | **Fincept Terminal** | 全功能金融平台 | 37 | 機構級分析+交易+AI |
-| [[HKUDS-AI-Trader\|AI-Trader]] | AI 交易研究 | — | 學術級 AI 交易框架 |
+| [[HKUDS-AI-Trader|AI-Trader]] | AI 交易研究 | — | 學術級 AI 交易框架 |
 | [[HKUDS-AI-Trader]] | AI 交易框架 | — | 研究型 AI 交易 |
 
 Fincept Terminal 與 AI-Trader 類似但更全面：後者偏學術研究，前者是生產級桌面應用，整合了交易、分析、AI Agent 和數據連接器於一身。
@@ -83,3 +83,11 @@ Fincept Terminal 與 AI-Trader 類似但更全面：後者偏學術研究，前�
 - **Stars**: ⭐22,646
 - **License**: AGPL-3.0
 - **收錄日期**: 2026-05-23
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/Fincept-Corporation/FinceptTerminal |
+| **Stars** | ⭐22,646 |
+| **收錄日期** | 2026-05-10 |

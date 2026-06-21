@@ -11,7 +11,8 @@ language: Python
 
 > ⭐8.6k · LLM KV Cache 加速層，跨 vLLM 實例共享 KV cache，大幅降低 TTFT
 
-快速導航：[[模型推論與部署]] · [[kv-cache|KV Cache]] · [[llm-internals|LLM 底層技術]] · [[vLLM]]
+## 快速導航
+[[模型推論與部署]] · [[kv-cache|KV Cache]] · [[llm-internals|LLM 底層技術]] · [[vLLM]]
 
 ## 是什麼
 
@@ -70,10 +71,11 @@ docker run --name lmcache-server --network host -d \
 | 方案 | Stars | 類型 | KV 共享 | 分散式 | vLLM 整合 |
 |------|-------|------|---------|--------|-----------|
 | **LMCache** | ⭐8.6k | KV Cache 層 | ✅ 跨實例 | ✅ | ✅ 原生 |
-| [[vLLM\|vLLM]] | ⭐82k | 推論引擎 | ❌ 單實例 | ❌ | — |
-| [[sgl-project-sglang\|SGLang]] | ⭐27k | 推論引擎 | 部分 prefix | ❌ | — |
+| [[vLLM|vLLM]] | ⭐82k | 推論引擎 | ❌ 單實例 | ❌ | — |
+| [[sgl-project-sglang|SGLang]] | ⭐27k | 推論引擎 | 部分 prefix | ❌ | — |
 | [[NVIDIA-TensorRT-LLM|TensorRT-LLM]] | ⭐13k | 推論引擎 | KV reuse | 部分 | — |
 
+## 相關概念
 ← [[模型推論與部署]] · [[kv-cache|KV Cache]] · [[llm-internals|LLM 底層技術]]
 
 ## 來源

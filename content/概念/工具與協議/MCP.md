@@ -9,7 +9,7 @@ language: zh-TW
 
 # MCP
 
-> MCP（Model Context Protocol）是 Anthropic 提出的開放協議，讓 LLM 能透過統一介面連接外部工具和資料來源。已成為 AI agent 生態系的標準化方向。
+> ⭐— · MCP（Model Context Protocol）是 Anthropic 提出的開放協議，讓 LLM 能透過統一介面連接外部工具和資料來源。已成為 AI agent 生態系的標準化方向。
 
 ## 快速導航
 
@@ -157,7 +157,3 @@ async def get_config() -> str:
 - [Anthropic MCP 公告](https://www.anthropic.com/news/model-context-protocol)
 - [MCP Wikipedia](https://en.wikipedia.org/wiki/Model_Context_Protocol)
 - [MCP GitHub](https://github.com/modelcontextprotocol)
-
----
-
-_此頁由 daily-llm-trending 自動維護_

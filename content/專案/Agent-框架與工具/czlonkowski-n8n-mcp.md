@@ -9,7 +9,7 @@ language: zh-TW
 
 # n8n-MCP
 
-> MCP server that gives AI assistants comprehensive access to n8n's 1,650 workflow automation nodes — enabling Claude, Cursor, Windsurf and other AI tools to build and validate n8n workflows with deep structural knowledge.
+> ⭐21031 · MCP server that gives AI assistants comprehensive access to n8n's 1,650 workflow automation nodes — enabling Claude, Cursor, Windsurf and other AI tools to build and validate n8n workflows with deep structural knowledge.
 
 ## 快速導航
 

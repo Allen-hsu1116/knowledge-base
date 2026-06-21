@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐174k · 開源 AI 編碼代理，支援 15+ LLM 提供商，內建 MCP、Skills、子 Agent 和工作樹平行執行。
 
-快速導航：[[Coding-Agent-CLI|Coding Agent CLI]] · [[context-engineering-basics|Context Engineering]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[affaan-m-ECC|ECC]]
+## 快速導航
+[[Coding-Agent-CLI|Coding Agent CLI]] · [[context-engineering-basics|Context Engineering]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[affaan-m-ECC|ECC]]
 
 ## 是什麼
 
@@ -69,6 +70,7 @@ brew install --cask opencode-desktop
 | 工作樹平行 | ✅ | ✅ | ❌ | ❌ |
 | 語言 | TypeScript | TypeScript | TypeScript | Rust |
 
+## 相關概念
 ← [[Coding-Agent-CLI|Coding Agent CLI]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
 
 ## 來源

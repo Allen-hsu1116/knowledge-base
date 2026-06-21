@@ -12,7 +12,8 @@ topics: [claude-code, code-analysis, code-intelligence, knowledge-graph, mcp, mc
 
 > ⭐8.2k · 最快的 AI 編碼代理程式碼智慧引擎——將整個程式碼庫索引為知識圖譜，查詢低於 1ms。
 
-快速導航：[[colbymchenry-codegraph|CodeGraph]] · [[Understand-Anything|Understand Anything]] · [[tirth8205-code-review-graph|Code Review Graph]] · [[MCP|MCP]]
+## 快速導航
+[[colbymchenry-codegraph|CodeGraph]] · [[Understand-Anything|Understand Anything]] · [[tirth8205-code-review-graph|Code Review Graph]] · [[MCP|MCP]]
 
 ## 是什麼
 
@@ -61,11 +62,11 @@ codebase-memory-mcp update
 
 | 方案 | 核心定位 | 語言數 | Token 節省 | Agent 數 | 分發方式 |
 |------|----------|--------|-----------|----------|----------|
-| [[DeusData-codebase-memory-mcp\|Codebase Memory]] | 程式碼知識圖譜 MCP | 158 | 120x | 11 | 單一二進位 |
-| [[colbymchenry-codegraph\|CodeGraph]] | 程式碼圖譜 | — | — | — | MCP |
-| [[Understand-Anything\|Understand Anything]] | 程式碼理解 | — | — | — | — |
-| [[tirth8205-code-review-graph\|Code Review Graph]] | Code Review 圖譜 | — | — | — | MCP |
-| [[safishamsi-graphify\|Graphify]] | Knowledge Graph | — | — | — | MCP |
+| [[DeusData-codebase-memory-mcp|Codebase Memory]] | 程式碼知識圖譜 MCP | 158 | 120x | 11 | 單一二進位 |
+| [[colbymchenry-codegraph|CodeGraph]] | 程式碼圖譜 | — | — | — | MCP |
+| [[Understand-Anything|Understand Anything]] | 程式碼理解 | — | — | — | — |
+| [[tirth8205-code-review-graph|Code Review Graph]] | Code Review 圖譜 | — | — | — | MCP |
+| [[safishamsi-graphify|Graphify]] | Knowledge Graph | — | — | — | MCP |
 
 與 [[colbymchenry-codegraph|CodeGraph]] 和 [[safishamsi-graphify|Graphify]] 互補：前者提供更廣泛的程式碼圖譜功能，Codebase Memory MCP 則以 C 語言原生實作達到極致的索引速度和 token 效率。與 [[MCP|MCP]] 生態的關係在於它是 MCP Server，為 coding agent 提供程式碼智慧工具。
 

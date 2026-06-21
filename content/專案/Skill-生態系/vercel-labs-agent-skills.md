@@ -11,7 +11,8 @@ language: JavaScript
 
 > ⭐27.7k · Vercel 官方 Agent Skills 集合，提供前端設計審查、UI 最佳實踐等技能，讓 AI Agent 能產出符合 Web Interface Guidelines 的高品質介面。
 
-快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[vercel-labs-agent-skills]] · [[Prompt-Engineering]]
+## 快速導航
+[[AI-Skills]] · [[agent-skills-ecosystem]] · [[vercel-labs-agent-skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
 
@@ -74,11 +75,11 @@ npx skills@latest add vercel-labs/agent-skills
 
 | 方案 | 定位 | 與 Vercel Agent Skills 的關係 |
 |------|------|-------------------------------|
-| [[anthropics-skills\|Anthropic Skills]] | 官方 Skills | Anthropic 偏設計創作與測試，Vercel 偏 UI 合規審查 |
-| [[mattpocock-skills\|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 偏架構和除錯流程，Vercel 偏前端設計品質 |
-| [[softaworks-agent-toolkit\|SoftaWorks Agent Toolkit]] | 設計系統 Skills | SoftaWorks 建立設計系統，Vercel 審查設計品質，互補關係 |
-| [[expo-skills\|Expo Skills]] | 行動開發 Skills | Expo 聚焦 React Native，Vercel 聚焦 Web 前端 |
-| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 偏全流程開發，Vercel 專注 UI/UX 合規 |
+| [[anthropics-skills|Anthropic Skills]] | 官方 Skills | Anthropic 偏設計創作與測試，Vercel 偏 UI 合規審查 |
+| [[mattpocock-skills|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 偏架構和除錯流程，Vercel 偏前端設計品質 |
+| [[softaworks-agent-toolkit|SoftaWorks Agent Toolkit]] | 設計系統 Skills | SoftaWorks 建立設計系統，Vercel 審查設計品質，互補關係 |
+| [[expo-skills|Expo Skills]] | 行動開發 Skills | Expo 聚焦 React Native，Vercel 聚焦 Web 前端 |
+| [[addyosmani-agent-skills|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 偏全流程開發，Vercel 專注 UI/UX 合規 |
 | [[AI-Skills]] | 概念層 | Vercel Agent Skills 是 AI Skills 格式的官方示範案例 |
 
 ## 相關概念

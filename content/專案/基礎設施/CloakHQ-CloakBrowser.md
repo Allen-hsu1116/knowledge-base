@@ -9,7 +9,7 @@ language: zh-TW
 
 # CloakBrowser
 
-> Stealth Chromium that passes every bot detection test — drop-in Playwright/Puppeteer replacement
+> ⭐14,651 · Stealth Chromium that passes every bot detection test — drop-in Playwright/Puppeteer replacement
 
 **Repo:** <https://github.com/CloakHQ/CloakBrowser>
 **Stars:** ⭐ 14,651
@@ -112,3 +112,10 @@ await browser.close();
 ## 來源
 
 - [原始資料](../raw/2026-05-18-CloakHQ-CloakBrowser.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/CloakHQ/CloakBrowser |
+| **收錄日期** | 2026-02-22 |

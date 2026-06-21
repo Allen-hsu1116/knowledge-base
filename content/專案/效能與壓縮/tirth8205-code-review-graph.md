@@ -3,13 +3,13 @@ title: code-review-graph
 slug: tirth8205-code-review-graph
 created: 2026-02-26
 updated: 2026-02-26
-stars: —
+stars: 15,581
 language: zh-TW
 ---
 
 # code-review-graph
 
-> 本地知識圖譜 for AI Coding Tools。用 Tree-sitter 建程式碼結構圖，MCP 精準投餵上下文，code review 平均省 8.2x token，單檔改動最高省 16.4x。
+> ⭐15,581 · 本地知識圖譜 for AI Coding Tools。用 Tree-sitter 建程式碼結構圖，MCP 精準投餵上下文，code review 平均省 8.2x token，單檔改動最高省 16.4x。
 
 | 項目 | 值 |
 |------|-----|

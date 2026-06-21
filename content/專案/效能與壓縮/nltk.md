@@ -2,14 +2,14 @@
 title: NLTK
 slug: nltk
 created: 2026-05-16
-stars: —
+stars: 14,500
 updated: 2026-05-16
 language: zh-TW
 ---
 
 # NLTK
 
-> Natural Language Toolkit — Python 自然語言處理工具包，50+ 語料庫、分詞標注詞幹提取句法分析一站式解決。14.5K ⭐。
+> ⭐14,500 · Natural Language Toolkit — Python 自然語言處理工具包，50+ 語料庫、分詞標注詞幹提取句法分析一站式解決。14.5K ⭐。
 
 ## 快速導航
 - 📝 **NLP** → [[jieba]]（jieba 是中文分詞，NLTK 是通用 NLP）
@@ -78,3 +78,11 @@ lemmatizer.lemmatize('better', pos='a')  # 'good'
 - **Stars**: ⭐14,500
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-16
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/nltk/nltk |
+| **Stars** | ⭐14,500 |
+| **收錄日期** | 2026-05-16 |

@@ -15,10 +15,10 @@ source: https://github.com/nexu-io/open-design
 
 ## 快速導航
 
-- 🎨 **設計系統** → [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] · [[frontend-design\|前端設計]]
-- 🛠️ **Agent Skill** → [[AI-Skills]] · [[agent-skills-ecosystem\|Agent Skills 生態系]]
-- 📐 **Figma 整合** → [[Figma-Skills]] · [[softaworks-agent-toolkit\|Design System Starter]]
-- 🔌 **MCP 協議** → [[MCP]] · [[Coding-Agent-CLI\|Coding Agent CLI]]
+- 🎨 **設計系統** → [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[frontend-design|前端設計]]
+- 🛠️ **Agent Skill** → [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 📐 **Figma 整合** → [[Figma-Skills]] · [[softaworks-agent-toolkit|Design System Starter]]
+- 🔌 **MCP 協議** → [[MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 是什麼
 
@@ -109,16 +109,16 @@ pnpm dev
 
 | 方案 | Stars | 定位 | 與 Open Design 的關係 |
 |------|-------|------|----------------------|
-| [[anthropics-skills\|Anthropic Skills]] | 147.9k | Claude 官方 Skill 庫 | 原始啟發，OD 的 Skill 格式相容 Claude Code SKILL.md |
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | 88.8k | UI/UX 設計 Skill | 互補 — 161 條設計規則 vs OD 的 142 Design Systems |
-| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | 27.7k | Web 前端品質審查 | 互補 — Vercel 偏審查，OD 偏生成 |
-| [[openai-skills\|OpenAI Skills]] | 21.7k | Codex Skill 庫（含 Figma 系列） | 競爭生態系 — OD 支援 Codex 作為 consumer |
-| [[softaworks-agent-toolkit\|SoftaWorks Toolkit]] | 2k | Design System Starter | 互補 — 起步設計系統 vs OD 的 142 個品牌系統 |
+| [[anthropics-skills|Anthropic Skills]] | 147.9k | Claude 官方 Skill 庫 | 原始啟發，OD 的 Skill 格式相容 Claude Code SKILL.md |
+| [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 88.8k | UI/UX 設計 Skill | 互補 — 161 條設計規則 vs OD 的 142 Design Systems |
+| [[vercel-labs-agent-skills|Vercel Agent Skills]] | 27.7k | Web 前端品質審查 | 互補 — Vercel 偏審查，OD 偏生成 |
+| [[openai-skills|OpenAI Skills]] | 21.7k | Codex Skill 庫（含 Figma 系列） | 競爭生態系 — OD 支援 Codex 作為 consumer |
+| [[softaworks-agent-toolkit|SoftaWorks Toolkit]] | 2k | Design System Starter | 互補 — 起步設計系統 vs OD 的 142 個品牌系統 |
 | Claude Design | 閉源 | Anthropic 官方產品 | 閉源原版，OD 是開源替代 |
 
 ## 相關概念
 
-← [[AI-Skills]] · [[agent-skills-ecosystem\|Agent Skills 生態系]] · [[frontend-design\|前端設計]] · [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] · [[Figma-Skills]] · [[MCP]] · [[Coding-Agent-CLI\|Coding Agent CLI]]
+← [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[Figma-Skills]] · [[MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 來源
 

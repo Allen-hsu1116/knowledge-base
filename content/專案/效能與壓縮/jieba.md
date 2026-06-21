@@ -2,14 +2,14 @@
 title: jieba
 slug: jieba
 created: 2026-05-16
-stars: —
+stars: 34,952
 updated: 2026-05-16
 language: zh-TW
 ---
 
 # jieba
 
-> 結巴中文分詞 — Python 最流行的中文分詞套件，支援四種分詞模式、關鍵詞提取、詞性標注。35K ⭐。
+> ⭐34,952 · 結巴中文分詞 — Python 最流行的中文分詞套件，支援四種分詞模式、關鍵詞提取、詞性標注。35K ⭐。
 
 ## 快速導航
 - 📝 **NLP** → [[nltk]]（jieba 是中文分詞，NLTK 是通用 NLP 工具包）
@@ -72,3 +72,11 @@ tags = jieba.analyse.extract_tags(text, topK=20)
 - **Stars**: ⭐34,952
 - **License**: MIT
 - **收錄日期**: 2026-05-16
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/fxsjy/jieba |
+| **Stars** | ⭐34,952 |
+| **收錄日期** | 2026-05-16 |

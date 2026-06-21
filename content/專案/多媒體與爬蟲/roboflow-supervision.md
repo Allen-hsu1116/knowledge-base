@@ -9,7 +9,7 @@ language: zh-TW
 
 # supervision
 
-> 電腦視覺的可重用工具箱，從資料載入到即時區域計數，提供構建 CV 應用所需的基礎模組。⭐38,878
+> ⭐38878 · 電腦視覺的可重用工具箱，從資料載入到即時區域計數，提供構建 CV 應用所需的基礎模組。⭐38,878
 
 ## 快速導航
 - 🖥️ **電腦視覺** → [[visualization]]（提供豐富的視覺化 annotator）
@@ -87,3 +87,11 @@ for frame in video_frames:
 - **Stars**: ⭐38,878
 - **License**: MIT
 - **收錄日期**: 2026-05-15
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/roboflow/supervision |
+| **Stars** | ⭐'⭐38878' |
+| **收錄日期** | 2026-05-15 |

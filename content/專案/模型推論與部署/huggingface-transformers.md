@@ -3,18 +3,18 @@ title: Hugging Face Transformers
 slug: huggingface-transformers
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 160,425
 language: zh-TW
 ---
 
 # Hugging Face Transformers
 
-> 機器學習模型定義框架，支援 100 萬+ 模型檢查點，是整個 AI 生態的樞紐。160K ⭐。
+> ⭐160,425 · 機器學習模型定義框架，支援 100 萬+ 模型檢查點，是整個 AI 生態的樞紐。160K ⭐。
 
 ## 快速導航
 - 🧠 **LLM** → [[LLM]]（Transformers 是 LLM 生態的基礎設施）
 - 📡 **推論加速** → [[vLLM]]（vLLM 使用 Transformers 模型定義）
-- 🏠 **本地部署** → [[Ollama]]（Ollama 支援 HuggingFace 模型格式）
+- 🏠 **本地部署** → [[模型推論與部署|Ollama]]（Ollama 支援 HuggingFace 模型格式）
 
 ## 是什麼
 
@@ -68,12 +68,12 @@ model = AutoModelForCausalLM.from_pretrained(
 | 專案 | 定位 | 關係 | 互動方式 |
 |------|------|------|---------|
 | [[vLLM]] | 推論引擎 | vLLM 使用 Transformers 模型定義 | vLLM 載入 HF 模型做高效推論 |
-| [[llama-cpp\|llama.cpp]] | 推論引擎 | llama.cpp 支援從 Transformers 格式轉換 | HF → GGUF 轉換 |
+| [[llama-cpp|llama.cpp]] | 推論引擎 | llama.cpp 支援從 Transformers 格式轉換 | HF → GGUF 轉換 |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | TensorRT-LLM 可從 HF 模型定義轉換 | HF → TRT-LLM 引擎 |
-| [[sgl-project-sglang\|SGLang]] | 服務框架 | SGLang 支援 HuggingFace 模型定義 | 直接載入 HF 模型 |
-| [[Ollama]] | 本地推理 | Ollama 支援 HuggingFace 模型 | HF 格式匯入 |
+| [[sgl-project-sglang|SGLang]] | 服務框架 | SGLang 支援 HuggingFace 模型定義 | 直接載入 HF 模型 |
+| [[模型推論與部署|Ollama]] | 本地推理 | Ollama 支援 HuggingFace 模型 | HF 格式匯入 |
 | [[LangChain]] | 應用框架 | LangChain 底層可用 HuggingFace 模型 | Pipeline 整合 |
-| [[litellm\|LiteLLM]] | API Gateway | LiteLLM 統一 HF 模型 API | Provider 整合 |
+| [[litellm|LiteLLM]] | API Gateway | LiteLLM 統一 HF 模型 API | Provider 整合 |
 
 Transformers 是 AI 生態的「作業系統」——幾乎所有 LLM 工具都以它為基礎。模型先在 Transformers 上定義，再由 vLLM、SGLang、TGI 等推論引擎載入做高效推理，或由 llama.cpp 轉換為 GGUF 格式在本地運行。
 
@@ -89,3 +89,11 @@ Transformers 是 AI 生態的「作業系統」——幾乎所有 LLM 工具都�
 - **Stars**: ⭐160,425
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/huggingface/transformers |
+| **Stars** | ⭐160,425 |
+| **收錄日期** | 2026-05-10 |

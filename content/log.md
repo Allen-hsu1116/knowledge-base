@@ -141,12 +141,12 @@ topics: ["記錄", "日誌"]
 - **frontmatter tags 殘留**：移除 `anthropics-knowledge-work-plugins.md` 和 `Leonxlnx-taste-skill.md` 的 `tags:` 欄位，改用 `topics:`（符合 Quartz 規範）
 - **projects.md 日期排序**：修正基礎設施區塊中 `arthurpanhku-DocSentinel`（2026-05-29）和 `iii-hq-iii`（2026-05-28）的排序
 - **斷掉的 cross-links 修復**：
-  - `[[擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
+  - `[[diffusion-model|擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
   - `[[rasbt-LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
   - `[[czlonkowski-n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
   - `[[raw/...]]` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
-  - `[[CRM]]` `[[DNS]]` `[[NAS]]` — 拆掉非頁面 wikilink
-  - `[[Vibe-Coding]]` → 純文字 "Vibe Coding"
+  - `CRM` `DNS` `NAS` — 拆掉非頁面 wikilink
+  - `Vibe-Coding` → 純文字 "Vibe Coding"
   - `[[coding-agent-toolkit]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`
 - **孤兒頁修復**：
   - 新增 `向量資料庫` 到 index.md 概念區
@@ -553,7 +553,7 @@ topics: ["記錄", "日誌"]
 - [[AutoGPT]] ← 素材 1
 - [[LangChain]] ← 素材 2
 - [[CrewAI]] ← 素材 3
-- [[Ollama]] ← 素材 4
+- [[模型推論與部署|Ollama]] ← 素材 4
 - [[vLLM]] ← 素材 5
 - [[llama-cpp]] ← 素材 6
 - [[huggingface-transformers]] ← 素材 7

@@ -20,10 +20,10 @@ topics:
 
 ## 快速導航
 
-- 🎵 [[ai-music]] — AI 音樂生成
+- 🎵 [[generative-AI|AI Music]] — AI 音樂生成
 - 🤖 [[AI-Agent]] — 語音是 Agent 互動的重要模態
-- 📊 [[serving-llms-vllm\|vLLM Serving]] — vLLM-Ommi 生產部署
-- 🧠 [[ml-models]] — ML 模型生態
+- 📊 [[模型推論與部署|vLLM Serving]] — vLLM-Ommi 生產部署
+- 🧠 [[llm-internals|ML Models]] — ML 模型生態
 
 ## 是什麼
 
@@ -139,7 +139,7 @@ curl http://localhost:8000/v1/audio/speech \
 
 ## 相關概念
 
-← [[ai-music]] · [[AI-Agent]] · [[serving-llms-vllm\|vLLM Serving]] · [[ml-models]]
+← [[generative-AI|AI Music]] · [[AI-Agent]] · [[模型推論與部署|vLLM Serving]] · [[llm-internals|ML Models]]
 
 ## 來源
 

@@ -12,7 +12,8 @@ topics: [time-series, foundation-model, forecasting, google-research, llm]
 
 > ⭐23.2k · Google Research 開發的時間序列基礎模型，decoder-only 架構，零樣本預測未知領域。
 
-快速導航：[[financial-forecasting|金融預測]] · [[TauricResearch-TradingAgents|TradingAgents]] · [[shiyu-coder-Kronos|Kronos]]
+## 快速導航
+[[financial-forecasting|金融預測]] · [[TauricResearch-TradingAgents|TradingAgents]] · [[shiyu-coder-Kronos|Kronos]]
 
 ## 是什麼
 
@@ -73,9 +74,9 @@ point_forecast, quantile_forecast = model.forecast(
 
 | 方案 | 類型 | 參數量 | Context | 機率預測 | 外部變量 | 微調 |
 |------|------|--------|---------|----------|----------|------|
-| [[google-research-timesfm\|TimesFM]] | 時序基礎模型 | 200M | 16k | ✅ | ✅ (XReg) | ✅ LoRA |
-| [[shiyu-coder-Kronos\|Kronos]] | 時序基礎模型 | — | — | — | — | — |
-| [[TauricResearch-TradingAgents\|TradingAgents]] | Agent 交易 | — | — | — | — | — |
+| [[google-research-timesfm|TimesFM]] | 時序基礎模型 | 200M | 16k | ✅ | ✅ (XReg) | ✅ LoRA |
+| [[shiyu-coder-Kronos|Kronos]] | 時序基礎模型 | — | — | — | — | — |
+| [[TauricResearch-TradingAgents|TradingAgents]] | Agent 交易 | — | — | — | — | — |
 | Prophet | 經典時序 | — | — | ✅ | ✅ | ✅ |
 | Lag-Llama | 時序基礎模型 | — | — | — | — | ✅ |
 

@@ -9,7 +9,7 @@ language: zh-TW
 
 # Context Database
 
-> Context Database 是專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理 Agent 所需的記憶、資源和技能。告別傳統 RAG 的碎片化儲存，走向結構化、分層、可觀察的上下文管理。
+> ⭐— · Context Database 是專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理 Agent 所需的記憶、資源和技能。告別傳統 RAG 的碎片化儲存，走向結構化、分層、可觀察的上下文管理。
 
 ## 快速導航
 

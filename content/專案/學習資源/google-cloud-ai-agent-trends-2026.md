@@ -9,7 +9,7 @@ language: —
 
 # Google Cloud AI Agent Trends 2026
 
-> 📊 Google Cloud 發布的 2026 年 AI Agent 五大趨勢報告，基於 3,466 家企業決策者的全球調查與內部訪談，定義了 agentic AI 對企業的五大轉變。
+> ⭐— · 📊 Google Cloud 發布的 2026 年 AI Agent 五大趨勢報告，基於 3,466 家企業決策者的全球調查與內部訪談，定義了 agentic AI 對企業的五大轉變。
 
 ## 快速導航
 

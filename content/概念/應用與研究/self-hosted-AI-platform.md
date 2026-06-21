@@ -10,13 +10,13 @@ language: zh-TW
 
 # 自架 AI 平台
 
-> 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。
+> ⭐80K · 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。
 
 ## 快速導航
 
 - ⚡ [[embedded-AI]] · [[AI-Agent]] · [[workflow-automation]] · [[模型推論與部署]]
 - 🌐 **Open WebUI** → [[open-webui-open-webui]]（開源 LLM 平台）
-- 🦙 **Ollama** → [[Ollama]]（本地 LLM 運行）
+- 🦙 **Ollama** → [[模型推論與部署|Ollama]]（本地 LLM 運行）
 - 🎨 **Presenton** → [[presenton-presenton]]（AI 簡報產生器）
 
 ## 是什麼
@@ -92,7 +92,7 @@ ollama run mistral
 ## 相關專案
 
 - [[open-webui-open-webui|Open WebUI]] — 開源 LLM 平台（⭐80K+）
-- [[Ollama]] — 本地 LLM 運行
+- [[模型推論與部署|Ollama]] — 本地 LLM 運行
 - [[presenton-presenton|Presenton]] — AI 簡報產生器（支援自架）
 
 ## 相關概念
@@ -104,7 +104,3 @@ ollama run mistral
 - [Open WebUI 專案文件](../raw/2026-05-24-open-webui-open-webui.md)
 - [LiteLLM API Gateway](../raw/2026-05-03-litellm.md)
 - Awesome Self-Hosted 列表
-
----
-
-_此頁由 daily-llm-trending 自動維護_

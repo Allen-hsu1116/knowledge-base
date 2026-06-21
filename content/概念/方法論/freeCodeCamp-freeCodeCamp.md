@@ -12,7 +12,8 @@ topics: [education, coding, machine-learning, full-stack, self-education, open-s
 
 > ⭐449k · 全球最大開源程式學習平台，免費 Full-Stack 和 Machine Learning 課程，已幫助 10 萬+人轉職開發者。
 
-快速導航：[[self-education|自主學習]] · [[codecrafters-io-build-your-own-x|Build Your Own X]] · [[mlabonne-llm-course|LLM Course]]
+## 快速導航
+[[self-education|自主學習]] · [[codecrafters-io-build-your-own-x|Build Your Own X]] · [[mlabonne-llm-course|LLM Course]]
 
 ## 是什麼
 
@@ -54,12 +55,13 @@ npm run develop
 
 | 方案 | 類型 | 免費 | 認證 | ML 課程 | 互動式 | 開源 |
 |------|------|------|------|---------|--------|------|
-| [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | 程式學習平台 | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] | 程式學習平台 | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Coursera | 線上課程 | 部分免費 | ✅ | ✅ | ❌ | ❌ |
-| [[krahets-hello-algo\|Hello 算法]] | 演算法教材 | ✅ | ❌ | ❌ | ✅ | ✅ |
-| [[mlabonne-llm-course\|LLM Course]] | LLM 課程 | ✅ | ❌ | ✅ 直接 | ❌ | ✅ |
-| [[codecrafters-io-build-your-own-x\|Build Your Own X]] | 從零實作 | ✅ | ❌ | ❌ | ✅ | ✅ |
+| [[krahets-hello-algo|Hello 算法]] | 演算法教材 | ✅ | ❌ | ❌ | ✅ | ✅ |
+| [[mlabonne-llm-course|LLM Course]] | LLM 課程 | ✅ | ❌ | ✅ 直接 | ❌ | ✅ |
+| [[codecrafters-io-build-your-own-x|Build Your Own X]] | 從零實作 | ✅ | ❌ | ❌ | ✅ | ✅ |
 
+## 相關概念
 ← [[self-education|自主學習]] · [[krahets-hello-algo|Hello 算法]]
 
 ## 來源

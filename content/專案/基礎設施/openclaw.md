@@ -9,7 +9,7 @@ language: zh-TW
 
 # OpenClaw
 
-> 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
+> ⭐— · 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
 
 ## 快速導航
 - ⚡ [[agent-persona]] · [[agent-skills-ecosystem]] · [[llm-knowledge-base]] · [[AI-Agent]]
@@ -75,12 +75,18 @@ Gateway 只是控制面板，產品是助手本身。
 ← [[agent-persona]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[llm-knowledge-base]]
 
 ## 來源
-- [原始資料](../raw/2026-05-03-openclaw.md)
+
+- GitHub：https://github.com/openclaw/openclaw
+- 文件：https://docs.openclaw.ai
+- Discord：https://discord.gg/clawd
+- Raw 檔案：`raw/2026-05-03-openclaw.md`
 
 ---
 
-- **GitHub**: https://github.com/openclaw/openclaw
-- **文件**: https://docs.openclaw.ai
-- **Discord**: https://discord.gg/clawd
-- **License**: MIT
-- **收錄日期**: 2026-05-03
+| 項目 | 值 |
+|------|-----|
+| GitHub | [openclaw/openclaw](https://github.com/openclaw/openclaw) |
+| Stars | —（無公開 stars） |
+| License | MIT |
+| Language | Node.js |
+| 收錄日期 | 2026-05-03 |

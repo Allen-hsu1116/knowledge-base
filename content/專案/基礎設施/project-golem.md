@@ -9,7 +9,7 @@ language: zh-TW
 
 # Project Golem
 
-> Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）
+> ⭐590 · Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）
 
 ## 專案資訊
 
@@ -118,3 +118,10 @@ project-golem-plus/
 
 ## 來源
 - raw/2026-05-02-project-golem.md
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/Arvincreator/project-golem |
+| **收錄日期** | 2026-05-10 |

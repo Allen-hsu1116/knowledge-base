@@ -3,13 +3,13 @@ title: Hyperframes
 slug: heygen-com-hyperframes
 created: 2026-03-10
 updated: 2026-03-10
-stars: —
+stars: 18,926
 language: zh-TW
 ---
 
 # Hyperframes
 
-> Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
+> ⭐18,926 · Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
 
 | 項目 | 值 |
 |------|-----|
@@ -114,13 +114,13 @@ npx hyperframes render    # 渲染 MP4
 ### Agent 驅動工作流
 
 **冷啟動** — 描述你想要什麼：
-> Using /hyperframes, create a 10-second product intro with a fade-in title, a background video, and background music.
+> ⭐18,926 · Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
 
 **熱啟動** — 把現有內容變影片：
-> Summarize the attached PDF into a 45-second pitch video using /hyperframes.
+> ⭐18,926 · Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
 
 **迭代** — 像影片剪輯師一樣對話：
-> Make the title 2x bigger, swap to dark mode, and add a fade-out at the end.
+> ⭐18,926 · Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
 
 ## 技術棧
 

@@ -9,7 +9,7 @@ language: zh-TW
 
 # Plausible Analytics
 
-> Open source, privacy-first web analytics — lightweight, cookie-free Google Analytics alternative
+> ⭐25,755 · Open source, privacy-first web analytics — lightweight, cookie-free Google Analytics alternative
 
 **Repo:** <https://github.com/plausible/analytics>
 **Stars:** ⭐ 25,755
@@ -109,3 +109,10 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 - [原始資料](../raw/2026-05-18-plausible-analytics.md)
 - [GitHub: plausible/analytics](https://github.com/plausible/analytics)
 - [Plausible Analytics 官網](https://plausible.io/)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/plausible/analytics |
+| **收錄日期** | 2018-12-04 |

@@ -9,7 +9,7 @@ language: zh-TW
 
 # Vibe-Trading
 
-> 你的個人交易 Agent：74 個 Skill + 27 個 Tool + 6 個資料來源，一條指令賦能 Agent 全面交易能力。HKUDS 出品。⭐5,120
+> ⭐5120 · 你的個人交易 Agent：74 個 Skill + 27 個 Tool + 6 個資料來源，一條指令賦能 Agent 全面交易能力。HKUDS 出品。⭐5,120
 
 ## 快速導航
 - 🤖 **Agent 工作流** → [[AI-Agent]]（Vibe-Trading 是垂直領域交易 Agent）
@@ -65,7 +65,7 @@ docker run -p 8000:8000 hkuds/vibe-trading
 |------|------|------|
 | [[virattt-dexter]] | AI 金融研究 Agent | Dexter 偏研究分析，Vibe-Trading 偏實戰交易 |
 | [[HKUDS-AI-Trader]] | Agent 交易平台 | AI-Trader 偏平台，Vibe-Trading 偏 Agent |
-| [[anthropics-financial-services\|Anthropic FS]] | 分析師團隊 | Anthropic FS 做分析師工作產出，Vibe-Trading 偏實戰交易 |
+| [[anthropics-financial-services|Anthropic FS]] | 分析師團隊 | Anthropic FS 做分析師工作產出，Vibe-Trading 偏實戰交易 |
 | [[ZhuLinsen-daily_stock_analysis]] | A 股分析工具 | daily_stock_analysis 側重單一市場分析，Vibe-Trading 涵蓋多市場 |
 
 ## 相關概念
@@ -82,3 +82,11 @@ docker run -p 8000:8000 hkuds/vibe-trading
 - **Stars**: ⭐5,120
 - **License**: MIT
 - **收錄日期**: 2026-05-06
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/HKUDS/Vibe-Trading |
+| **Stars** | ⭐'⭐5120' |
+| **收錄日期** | 2026-05-06 |

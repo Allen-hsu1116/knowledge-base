@@ -12,7 +12,8 @@ topics: [agentic, agents, ai, autogen, framework, llm-agent, llm-framework, mult
 
 > ⭐59k · 微軟開源的多 Agent 框架，支援自主 AI 應用開發（⚠️ 已進入維護模式，建議改用 Microsoft Agent Framework）
 
-快速導航：[[AI-Agent|AI Agent]] · [[Agent-Workflow|Agent 工作流]] · [[LangChain|LangChain]]
+## 快速導航
+[[AI-Agent|AI Agent]] · [[workflow-automation|Agent 工作流]] · [[LangChain|LangChain]]
 
 ## 是什麼
 
@@ -63,13 +64,14 @@ asyncio.run(main())
 
 | 方案 | 類型 | 維護狀態 | 多 Agent | 視覺化 | 適用場景 |
 |------|------|---------|---------|--------|----------|
-| [[microsoft-autogen\|AutoGen]] | 多 Agent 框架 | ⚠️ 維護模式 | ✅ 群組對話+委派 | ✅ Studio | 已有專案維護 |
-| [[OpenHands-OpenHands\|OpenHands]] | Agent 控制中心 | ✅ 活躍 | ✅ ACP 協議 | ✅ Canvas | 開發團隊管理 |
-| [[langgenius-dify\|Dify]] | LLM App 平台 | ✅ 活躍 | ✅ 內建 | ✅ 視覺化 | LLM 應用開發 |
-| [[FlowiseAI-Flowise\|Flowise]] | 視覺化 Agent 建構 | ✅ 活躍 | ⚠️ 有限 | ✅ 拖曳式 | 快速原型開發 |
+| [[microsoft-autogen|AutoGen]] | 多 Agent 框架 | ⚠️ 維護模式 | ✅ 群組對話+委派 | ✅ Studio | 已有專案維護 |
+| [[OpenHands-OpenHands|OpenHands]] | Agent 控制中心 | ✅ 活躍 | ✅ ACP 協議 | ✅ Canvas | 開發團隊管理 |
+| [[langgenius-dify|Dify]] | LLM App 平台 | ✅ 活躍 | ✅ 內建 | ✅ 視覺化 | LLM 應用開發 |
+| [[FlowiseAI-Flowise|Flowise]] | 視覺化 Agent 建構 | ✅ 活躍 | ⚠️ 有限 | ✅ 拖曳式 | 快速原型開發 |
 | Microsoft Agent Framework | Agent 框架 | ✅ 新版 | ✅ 企業級 | ❌ | 新專案推薦 |
 
-← [[AI-Agent|AI Agent]] · [[Agent-Workflow|Agent 工作流]] · [[LangChain|LangChain]]
+## 相關概念
+← [[AI-Agent|AI Agent]] · [[workflow-automation|Agent 工作流]] · [[LangChain|LangChain]]
 
 ## 來源
 

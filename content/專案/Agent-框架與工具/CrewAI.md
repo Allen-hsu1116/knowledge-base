@@ -3,13 +3,13 @@ title: CrewAI
 slug: CrewAI
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 51,031
 language: zh-TW
 ---
 
 # CrewAI
 
-> 多 Agent 協作框架，讓 AI Agent 以角色扮演方式團隊合作。51K ⭐。
+> ⭐51,031 · 多 Agent 協作框架，讓 AI Agent 以角色扮演方式團隊合作。51K ⭐。
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（CrewAI 是多 Agent 協作的代表框架）
@@ -75,7 +75,7 @@ result = crew.kickoff(inputs={"topic": "AI Agents"})
 | [[LangChain]] | LLM 應用框架 | 單/多 | Chain/Agent 編排 | ✅ |
 | [[AutoGPT]] | 自主 Agent | 單 | 自主規劃 | ✅ 向量DB |
 | [[AI-Agent]] | 概念頁 | — | — | — |
-| [[openclaw\|OpenClaw]] | 個人助手 | 單+子Agent | Cron + Skills | ✅ MEMORY.md |
+| [[openclaw|OpenClaw]] | 個人助手 | 單+子Agent | Cron + Skills | ✅ MEMORY.md |
 
 CrewAI 之後，Agent 框架從「讓 LLM 自己跑」演進到「讓多個 LLM 角色分工合作」——如 CrewAI 的角色分工、Flows 的流程控制。
 
@@ -91,3 +91,11 @@ CrewAI 之後，Agent 框架從「讓 LLM 自己跑」演進到「讓多個 LLM 
 - **Stars**: ⭐51,031
 - **License**: MIT
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/crewAIInc/crewAI |
+| **Stars** | ⭐51,031 |
+| **收錄日期** | 2026-05-10 |

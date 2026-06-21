@@ -3,13 +3,13 @@ title: LLM 底層技術
 slug: llm-internals
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 79.5K
 language: zh-TW
 ---
 
 # LLM 底層技術
 
-> Transformer 內部的三大加速與最佳化技術：Flash Attention（減少記憶體搬運）、KV Cache（避免重算）、Positional Embedding（位置資訊注入）。三者共同決定了 LLM 的推論速度、成本和 context window 大小。
+> ⭐79.5K · Transformer 內部的三大加速與最佳化技術：Flash Attention（減少記憶體搬運）、KV Cache（避免重算）、Positional Embedding（位置資訊注入）。三者共同決定了 LLM 的推論速度、成本和 context window 大小。
 
 ## 快速導航
 
@@ -43,10 +43,10 @@ LLM 底層技術是指讓大語言模型高效運行的核心演算法和硬體�
 | 工具 | 定位 | 特色 | Stars |
 |------|------|------|-------|
 | [[vLLM]] | 高吞吐服務引擎 | PagedAttention、Continuous Batching、分散式推論 | ⭐79.5K |
-| [[sgl-project-sglang\|SGLang]] | 高效能服務框架 | RadixAttention 前綴快取、跨硬體支援、多模態 | ⭐27.6K |
+| [[sgl-project-sglang|SGLang]] | 高效能服務框架 | RadixAttention 前綴快取、跨硬體支援、多模態 | ⭐27.6K |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA GPU 專屬加速 | Tensor Core、FP8 量化、Disaggregated Serving | ⭐13.6K |
-| [[llama-cpp\|llama.cpp]] | 本地推論引擎 | C/C++、GGUF 量化、CPU+GPU、MacBook 可跑 | ⭐109K |
-| [[Ollama]] | 本地一鍵部署 | 包裝 llama.cpp、模型庫、API | ⭐171K |
+| [[llama-cpp|llama.cpp]] | 本地推論引擎 | C/C++、GGUF 量化、CPU+GPU、MacBook 可跑 | ⭐109K |
+| [[模型推論與部署|Ollama]] | 本地一鍵部署 | 包裝 llama.cpp、模型庫、API | ⭐171K |
 
 ### 快取最佳化實踐
 
@@ -90,7 +90,7 @@ system_prompt = """
 
 ### Flash Attention：少搬資料就是加速
 
-> 透過減少 GPU HBM↔SRAM 的資料搬運次數，在不改變 attention 計算結果的前提下加速 8-9 倍。
+> ⭐79.5K · Transformer 內部的三大加速與最佳化技術：Flash Attention（減少記憶體搬運）、KV Cache（避免重算）、Positional Embedding（位置資訊注入）。三者共同決定了 LLM 的推論速度、成本和 context window 大小。
 
 - **工作台（SRAM）**：小但極快，一次只能放少量資料（~十幾 MB）
 - **倉庫（HBM）**：大但相對慢（A100 有 80GB），所有 QKV 都存放在此
@@ -100,7 +100,7 @@ system_prompt = """
 
 ### KV Cache：存下來就不用重算
 
-> 把已算好的 Key 和 Value 存下來避免重算，但倉庫空間有限，衍生出 GQA、MLA、Sliding Window 等方法。
+> ⭐79.5K · Transformer 內部的三大加速與最佳化技術：Flash Attention（減少記憶體搬運）、KV Cache（避免重算）、Positional Embedding（位置資訊注入）。三者共同決定了 LLM 的推論速度、成本和 context window 大小。
 
 - **Prefill**（一次處理大量 token）和 **Decode**（逐 token 生成）兩階段
 - Gemma 2 27B 每個 token 佔 736KB，A100 80GB 只能存 ~114K tokens
@@ -110,7 +110,7 @@ system_prompt = """
 
 ### Positional Embedding 演進
 
-> 從 Sinusoidal 到 RoPE 到 NoPE，Positional Embedding 的設計反映了 Transformer 對位置資訊需求的理解不斷深化。
+> ⭐79.5K · Transformer 內部的三大加速與最佳化技術：Flash Attention（減少記憶體搬運）、KV Cache（避免重算）、Positional Embedding（位置資訊注入）。三者共同決定了 LLM 的推論速度、成本和 context window 大小。
 
 | 世代 | 年份 | 設計 | 優勢 | 採用者 |
 |------|------|------|------|--------|
@@ -142,3 +142,10 @@ system_prompt = """
 ---
 
 _此頁由 daily-llm-trending 自動維護_
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **Stars** | ⭐79.5K |
+| **收錄日期** | 2026-05-10 |

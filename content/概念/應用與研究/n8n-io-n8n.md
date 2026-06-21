@@ -12,7 +12,8 @@ topics: [ai, automation, workflow, mcp, low-code, no-code, self-hosted, integrat
 
 > ⭐192.7k · 公平碼授權的工作流自動化平台，400+ 整合 + 原生 AI 能力，自架或雲端任選
 
-快速導航：[[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]] · [[self-hosted-AI-platform|自架 AI 平台]]
+## 快速導航
+[[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]] · [[self-hosted-AI-platform|自架 AI 平台]]
 
 ## 是什麼
 
@@ -55,12 +56,13 @@ docker run -it --rm --name n8n \
 
 | 方案 | 類型 | AI 能力 | 自架 | 適用場景 |
 |------|------|---------|------|----------|
-| [[n8n-io-n8n\|n8n]] | 工作流自動化 | ✅ LangChain 原生 | ✅ 公平碼 | 技術團隊自動化 |
+| [[n8n-io-n8n|n8n]] | 工作流自動化 | ✅ LangChain 原生 | ✅ 公平碼 | 技術團隊自動化 |
 | [[langgenius-dify|Dify]] | LLM App 平台 | ✅ 內建 Agent | ✅ 開源 | LLM 應用開發 |
 | [[browser-use-browser-use|Browser Use]] | 瀏覽器 Agent | ✅ 專注瀏覽 | ❌ 僅雲端 | 網頁自動化 |
 | [[CherryHQ-cherry-studio|Cherry Studio]] | AI 客戶端 | ✅ 多模型 | ✅ 開源 | AI 對話生產力 |
 | Make/Zapier | 工作流自動化 | ❌ 基本 | ❌ 僅雲端 | 非技術用戶 |
 
+## 相關概念
 ← [[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]]
 
 ## 來源

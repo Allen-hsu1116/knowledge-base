@@ -55,8 +55,8 @@ npx skills add feicaiclub/video-spec-builder -g
 | 專案 | 定位 | 輸入 | 輸出 | Agent 整合 | 開源 |
 |------|------|------|------|-----------|------|
 | **video-spec-builder** | 分鏡腳本生成 | 模糊想法 | video-spec.md | ✅ Skills CLI | ✅ MIT |
-| [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | 短影片生成 | 主題/關鍵字 | 完整影片 | ❌ 獨立運行 | ✅ MIT |
-| [[linyqh-NarratoAI\|NarratoAI]] | 影視解說+剪輯 | 影片素材 | 解說影片 | ❌ 獨立運行 | ✅ |
+| [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]] | 短影片生成 | 主題/關鍵字 | 完整影片 | ❌ 獨立運行 | ✅ MIT |
+| [[linyqh-NarratoAI|NarratoAI]] | 影視解說+剪輯 | 影片素材 | 解說影片 | ❌ 獨立運行 | ✅ |
 
 ## 相關概念
 

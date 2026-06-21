@@ -9,7 +9,7 @@ language: zh-TW
 
 # RAGFlow
 
-> 領先的開源 RAG+Agent 引擎，深度文件理解 + 模板化分塊 + 接地引用，有 OpenClaw Skill 可直接操作。（詳細參考頁）
+> ⭐79,665 · 領先的開源 RAG+Agent 引擎，深度文件理解 + 模板化分塊 + 接地引用，有 OpenClaw Skill 可直接操作。（詳細參考頁）
 
 ## 專案資訊
 
@@ -94,3 +94,10 @@ docker compose -f docker/docker-compose.yml up -d
 
 ## 來源
 - raw/2026-05-03-ragflow.md
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/infiniflow/ragflow |
+| **收錄日期** | 2026-05-10 |

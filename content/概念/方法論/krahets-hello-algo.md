@@ -12,7 +12,8 @@ topics: [algorithm, data-structure, education, coding-interview, self-education]
 
 > ⭐127.4k · 動畫圖解、一鍵運行的數據結構與算法教程，支援 12+ 語言與多語言翻譯。
 
-快速導航：[[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[codecrafters-io-build-your-own-x|Build Your Own X]] · [[self-education|自主學習]]
+## 快速導航
+[[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[codecrafters-io-build-your-own-x|Build Your Own X]] · [[self-education|自主學習]]
 
 ## 是什麼
 
@@ -54,12 +55,13 @@ python chapter_stack_queue/stack.py
 
 | 方案 | 類型 | 語言數 | 動畫圖解 | 多語翻譯 | AI 相關 |
 |------|------|--------|----------|----------|----------|
-| [[krahets-hello-algo\|Hello 算法]] | 演算法教材 | 12+ | ✅ | ✅ 5 語 | 間接（CS 基礎） |
-| [[codecrafters-io-build-your-own-x\|Build Your Own X]] | 從零實作合集 | 多種 | ❌ | ❌ | 間接（系統設計） |
-| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | LLM 教材 | Python | ❌ | ✅ 3 語 | 直接（LLM 底層） |
-| [[mlabonne-llm-course\|LLM Course]] | LLM 課程 | Python | ❌ | ❌ | 直接（微調/量化） |
+| [[krahets-hello-algo|Hello 算法]] | 演算法教材 | 12+ | ✅ | ✅ 5 語 | 間接（CS 基礎） |
+| [[codecrafters-io-build-your-own-x|Build Your Own X]] | 從零實作合集 | 多種 | ❌ | ❌ | 間接（系統設計） |
+| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | LLM 教材 | Python | ❌ | ✅ 3 語 | 直接（LLM 底層） |
+| [[mlabonne-llm-course|LLM Course]] | LLM 課程 | Python | ❌ | ❌ | 直接（微調/量化） |
 | LeetCode | 練題平台 | 20+ | ❌ | ❌ | ❌ |
 
+## 相關概念
 ← [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[self-education|自主學習]]
 
 ## 來源

@@ -11,7 +11,8 @@ language: Python
 
 > ⭐98k · 開源瀏覽器 AI Agent，讓 LLM 直接操作網頁——點擊、填表、導航，Rust 核心驅動
 
-快速導航：[[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]]
+## 快速導航
+[[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]]
 
 ## 是什麼
 
@@ -84,11 +85,12 @@ curl -o ~/.claude/skills/browser-use/SKILL.md \
 | 方案 | Stars | 類型 | 真實瀏覽器 | Rust 核心 | Claude Skill |
 |------|-------|------|-----------|----------|-------------|
 | **Browser Use** | ⭐98k | 瀏覽器 Agent | ✅ | ✅ beta | ✅ |
-| [[CloakHQ-CloakBrowser\|CloakBrowser]] | ⭐14k | 隱私瀏覽器 | ✅ | ❌ | ❌ |
-| [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | ⭐40k | MCP 瀏覽器工具 | ✅ | ❌ | ❌ |
-| [[firecrawl-firecrawl\|Firecrawl]] | ⭐131k | 網頁 API | ❌ 無頭爬取 | ❌ | ✅ MCP |
-| [[trycua-cua\|CUA]] | ⭐16k | Computer Use 框架 | ✅ | ❌ | ❌ |
+| [[CloakHQ-CloakBrowser|CloakBrowser]] | ⭐14k | 隱私瀏覽器 | ✅ | ❌ | ❌ |
+| [[ChromeDevTools-chrome-devtools-mcp|Chrome DevTools MCP]] | ⭐40k | MCP 瀏覽器工具 | ✅ | ❌ | ❌ |
+| [[firecrawl-firecrawl|Firecrawl]] | ⭐131k | 網頁 API | ❌ 無頭爬取 | ❌ | ✅ MCP |
+| [[trycua-cua|CUA]] | ⭐16k | Computer Use 框架 | ✅ | ❌ | ❌ |
 
+## 相關概念
 ← [[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]]
 
 ## 來源

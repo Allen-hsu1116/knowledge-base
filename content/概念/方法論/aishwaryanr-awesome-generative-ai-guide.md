@@ -12,7 +12,8 @@ topics: [awesome, awesome-list, generative-ai, interview-questions, large-langua
 
 > ⭐27.6k · 生成式 AI 一站式資源庫——研究論文、面試題、課程、筆記本應有盡有。
 
-快速導航：[[mlabonne-llm-course|LLM Course]] · [[dair-ai-Prompt-Engineering-Guide|Prompt Engineering Guide]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
+## 快速導航
+[[mlabonne-llm-course|LLM Course]] · [[dair-ai-Prompt-Engineering-Guide|Prompt Engineering Guide]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
 
 ## 是什麼
 
@@ -49,10 +50,10 @@ jupyter notebook
 
 | 資源 | 核心定位 | 課程數 | 路線圖 | 認證 |
 |------|----------|--------|--------|------|
-| [[aishwaryanr-awesome-generative-ai-guide\|Awesome GenAI Guide]] | GenAI 一站式資源 | 90+ | 3 條 | ✅ |
-| [[mlabonne-llm-course\|LLM Course]] | LLM 技術路線圖 | 1（深度） | — | — |
-| [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | Prompt 工程 | — | — | — |
-| [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | 全端開發 | — | — | ✅ |
+| [[aishwaryanr-awesome-generative-ai-guide|Awesome GenAI Guide]] | GenAI 一站式資源 | 90+ | 3 條 | ✅ |
+| [[mlabonne-llm-course|LLM Course]] | LLM 技術路線圖 | 1（深度） | — | — |
+| [[dair-ai-Prompt-Engineering-Guide|Prompt Engineering Guide]] | Prompt 工程 | — | — | — |
+| [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] | 全端開發 | — | — | ✅ |
 
 與 [[mlabonne-llm-course|LLM Course]] 互補：LLM Course 聚焦技術深度（微調、量化、合併），Awesome GenAI Guide 提供更廣的覆蓋面（論文追蹤、面試準備、多源課程索引）。與 [[dair-ai-Prompt-Engineering-Guide|Prompt Engineering Guide]] 的關係在於兩者都是 GenAI 學習資源，但前者更廣泛，後者更專注。
 

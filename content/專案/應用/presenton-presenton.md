@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # Presenton
 
+> ⭐6369
+
 ⭐ 6.4k · 開源 AI 簡報產生器與 API，Gamma / Beautiful AI / Decktopus 的自架替代方案
 
 ## 一句話
@@ -54,7 +56,7 @@ MCP Server 使用（讓 Agent 生成簡報）：
 
 ## 跟其他方案的關係
 
-| 特色 | Presenton | [[ppt-master\|PPT Master]] | Gamma | Beautiful AI |
+| 特色 | Presenton | [[ppt-master|PPT Master]] | Gamma | Beautiful AI |
 |------|-----------|-------------------------|--------|-------------|
 | 輸出格式 | PPTX + Web | 原生 PPTX（DrawingML） | Web 為主 | Web 為主 |
 | 可編輯性 | ✅ 可編輯 | ✅ 完全可編輯 | ⚠️ 有限 | ⚠️ 有限 |
@@ -79,4 +81,15 @@ Presenton 和 [[ppt-master|PPT Master]] 是唯二的開源 AI 簡報方案。Pre
 
 ## 來源
 
-- [原始資料](../raw/2026-05-24-presenton-presenton.md)
+- GitHub：https://github.com/presenton/presenton
+- Raw 檔案：`raw/2026-05-24-presenton-presenton.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [presenton/presenton](https://github.com/presenton/presenton) |
+| Stars | ⭐6369 |
+| License | — |
+| Language | TypeScript |
+| 收錄日期 | 2026-05-24 |

@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐144k · 開源 LLM 應用開發平台，視覺化 AI workflow + RAG + Agent + 模型管理一站搞定
 
-快速導航：[[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]]
+## 快速導航
+[[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]]
 
 ## 是什麼
 
@@ -68,11 +69,12 @@ result = client.create_chat_message(inputs={}, query="Hello", user="user-123")
 | 方案 | Stars | 類型 | 低代碼 | RAG | Agent 工具 |
 |------|-------|------|--------|-----|-----------|
 | **Dify** | ⭐144k | 一站式平台 | ✅ 視覺化 | ✅ 內建 | 50+ 內建 |
-| [[LangChain\|LangChain]] | ⭐136k | 程式碼框架 | ❌ 純程式碼 | ✅ | 豐富生態 |
-| [[CrewAI\|CrewAI]] | ⭐51k | 多Agent框架 | ❌ 程式碼為主 | ❌ | 中等 |
-| [[workflow-automation\|n8n]] | ⭐192k | 工作流自動化 | ✅ 視覺化 | ❌ | MCP 整合 |
-| [[CopilotKit-CopilotKit\|CopilotKit]] | ⭐32k | AI UI 框架 | ❌ React 為主 | ✅ | AG-UI |
+| [[LangChain|LangChain]] | ⭐136k | 程式碼框架 | ❌ 純程式碼 | ✅ | 豐富生態 |
+| [[CrewAI|CrewAI]] | ⭐51k | 多Agent框架 | ❌ 程式碼為主 | ❌ | 中等 |
+| [[workflow-automation|n8n]] | ⭐192k | 工作流自動化 | ✅ 視覺化 | ❌ | MCP 整合 |
+| [[CopilotKit-CopilotKit|CopilotKit]] | ⭐32k | AI UI 框架 | ❌ React 為主 | ✅ | AG-UI |
 
+## 相關概念
 ← [[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]]
 
 ## 來源

@@ -10,7 +10,7 @@ language: zh-TW
 
 # Agency Agents：144 個 AI 員工人格開源
 
-> 開源專案 Agency Agents 在 GitHub 獲得 8.4 萬星，提供 144 個預設 AI 員工人格（persona），讓任何人可以快速建立具備專業身分的 AI 同事。
+> ⭐84000 · 開源專案 Agency Agents 在 GitHub 獲得 8.4 萬星，提供 144 個預設 AI 員工人格（persona），讓任何人可以快速建立具備專業身分的 AI 同事。
 
 ## 快速導航
 
@@ -91,4 +91,14 @@ Agency Agents 是一個開源的 AI Agent 人格庫，包含 144 個精心設計
 
 ## 來源
 
-- [原始資料](../raw/2026-04-28-agency-agents-144-personas.md)
+- Raw 檔案：`raw/2026-04-28-agency-agents-144-personas.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | — |
+| Stars | ⭐84000 |
+| License | — |
+| Language | zh-TW |
+| 收錄日期 | 2026-04-28 |

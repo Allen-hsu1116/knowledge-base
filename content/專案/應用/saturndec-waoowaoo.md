@@ -3,13 +3,13 @@ title: waoowaoo AI 影視 Studio
 slug: saturndec-waoowaoo
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 12,000
 language: zh-TW
 ---
 
 # waoowaoo AI 影視 Studio
 
-> AI 短劇/漫畫視頻製作工具 — 從小說文本自動生成分鏡、角色、場景，組裝成帶語音旁白的完整視頻。Next.js 15 + React 19。
+> ⭐12,000 · AI 短劇/漫畫視頻製作工具 — 從小說文本自動生成分鏡、角色、場景，組裝成帶語音旁白的完整視頻。Next.js 15 + React 19。
 
 ## 快速導航
 

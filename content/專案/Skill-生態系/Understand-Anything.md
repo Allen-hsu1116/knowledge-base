@@ -115,8 +115,8 @@ curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/
 | 工具 | 定位 | 核心功能 | 平台數 |
 |------|------|----------|--------|
 | **Understand-Anything** | 程式碼知識圖譜 | 多 Agent + 業務邏輯 + 互動視覺化 | 17+ |
-| [[colbymchenry-codegraph\|CodeGraph]] | 程式碼圖譜生成 | 自動生成依賴圖 | CLI |
-| [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | 程式碼記憶 | Knowledge Graph, 158 語言, tree-sitter | MCP |
+| [[colbymchenry-codegraph|CodeGraph]] | 程式碼圖譜生成 | 自動生成依賴圖 | CLI |
+| [[DeusData-codebase-memory-mcp|Codebase Memory MCP]] | 程式碼記憶 | Knowledge Graph, 158 語言, tree-sitter | MCP |
 | [[harness-engineering]] | Harness 工程 | Agent 配置方法论 | — |
 
 **關鍵差異**：Understand-Anything 不只生成依賴圖，還提供 Domain 視圖（業務邏輯映射）、語意搜尋、引導式導覽、diff 影響分析、人格適應 UI，以及 Tree-sitter + LLM 混合架構保證結構可重現 + 語意有深度。
@@ -131,6 +131,7 @@ curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/
 - 🌐 官網：[understand-anything.com](https://understand-anything.com/)
 - 🎬 Live Demo：[understand-anything.com/demo](https://understand-anything.com/demo/)
 - 📁 raw：`raw/2026-06-20-Egonex-AI-Understand-Anything.md`（更新版）
+- 📁 raw：`raw/2026-05-23-Lum1104-Understand-Anything.md`（原始版本）
 
 ---
 

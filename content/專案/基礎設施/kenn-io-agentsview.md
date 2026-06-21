@@ -11,7 +11,8 @@ language: Go
 
 > ⭐2.4k · 本地優先的 Coding Agent 會話智慧與分析平台，支援 Claude Code、Codex 等 20+ 代理，ccusage 的 100 倍速替代。
 
-快速導航：[[Coding-Agent-CLI|Coding Agent CLI]] · [[context-engineering-basics|Context Engineering]] · [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]]
+## 快速導航
+[[Coding-Agent-CLI|Coding Agent CLI]] · [[context-engineering-basics|Context Engineering]] · [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]]
 
 ## 是什麼
 
@@ -68,6 +69,7 @@ agentsview usage daily
 | 速度 | 100x ccusage | 基線 | 基線 | — |
 | 開源 | ✅ MIT | ✅ | ❌ | ✅ |
 
+## 相關概念
 ← [[Coding-Agent-CLI|Coding Agent CLI]] · [[anomalyco-opencode|OpenCode]]
 
 ## 來源

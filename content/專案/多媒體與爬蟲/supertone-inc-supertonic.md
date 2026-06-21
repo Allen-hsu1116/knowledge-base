@@ -9,7 +9,7 @@ language: zh-TW
 
 # Supertonic
 
-> 閃電般快速的裝置端多語言 TTS 系統——基於 ONNX Runtime，完全在本機推論，無需雲端、無 API 呼叫、無隱私疑慮。支援 31 種語言，可部署於瀏覽器、桌面與邊緣裝置。
+> ⭐6.0k · 閃電般快速的裝置端多語言 TTS 系統——基於 ONNX Runtime，完全在本機推論，無需雲端、無 API 呼叫、無隱私疑慮。支援 31 種語言，可部署於瀏覽器、桌面與邊緣裝置。
 
 ## 基本資訊
 
@@ -83,7 +83,7 @@ cd web && npm install && npm run dev
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[Ollama]] | 本地 LLM 部署 | 互補：Ollama 跑語言模型，Supertonic 跑語音合成 |
+| [[模型推論與部署|Ollama]] | 本地 LLM 部署 | 互補：Ollama 跑語言模型，Supertonic 跑語音合成 |
 | ElevenLabs | 雲端 TTS | 對比：ElevenLabs 需要雲端，Supertonic 全本地推論 |
 | Whisper | 語音辨識（STT） | 互補：Whisper 做 STT，Supertonic 做 TTS，組成完整語音管線 |
 | [[vLLM]] | 推論引擎 | 不同領域：vLLM 做 LLM 推論，Supertonic 做 TTS 推論 |

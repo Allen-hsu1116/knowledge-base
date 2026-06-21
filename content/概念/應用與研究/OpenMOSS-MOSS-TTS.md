@@ -11,7 +11,8 @@ language: Python
 
 > ⭐2.2k · OpenMOSS 團隊的開源語音與音效生成模型家族，涵蓋長語音合成、多說話者對話、語音設計、音效生成和即時串流 TTS。
 
-快速導航：[[語音辨識]] · [[模型推論與部署]] · [[rag|RAG]]
+## 快速導航
+[[語音辨識]] · [[模型推論與部署]] · [[rag|RAG]]
 
 ## 是什麼
 
@@ -79,11 +80,12 @@ audio.save("output.wav")
 | 方案 | Stars | 類型 | 特色1 | 特色2 |
 |------|-------|------|-------|-------|
 | **MOSS-TTS** | ⭐2.2k | 開源 TTS 模型家族 | 5 個子模型涵蓋全場景 | 31 語言 + 語音克隆 |
-| [[Whisper\|Whisper]] | ⭐99.2k | 語音辨識 | ASR 聽寫轉文字 | 多語言辨識 |
-| [[supertone-inc-supertonic\|Supertonic]] | ⭐6k | 邊緣裝置 TTS | 裝置端語音合成 | 低延遲 |
+| [[Whisper|Whisper]] | ⭐99.2k | 語音辨識 | ASR 聽寫轉文字 | 多語言辨識 |
+| [[supertone-inc-supertonic|Supertonic]] | ⭐6k | 邊緣裝置 TTS | 裝置端語音合成 | 低延遲 |
 | ChatTTS | ⭐30k+ | 開源 TTS | 對話語音合成 | 中英文 |
 | Fish Speech | ⭐15k+ | 開源 TTS | 多語言語音克隆 | 串流推論 |
 
+## 相關概念
 ← [[語音辨識]] · [[模型推論與部署]] · [[embedded-AI|邊緣裝置 AI]]
 
 ## 來源

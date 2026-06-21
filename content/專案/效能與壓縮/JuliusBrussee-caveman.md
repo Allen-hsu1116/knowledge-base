@@ -3,13 +3,13 @@ title: caveman
 slug: JuliusBrussee-caveman
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 52,506
 language: zh-TW
 ---
 
 # caveman
 
-> Claude Code / Codex 的 token 壓縮 plugin — 用「穴居人語」回答，砍掉 75% output token 但保持 100% 技術準確度。附帶 caveman-shrink MCP middleware 壓縮 46% input token。
+> ⭐52,506 · Claude Code / Codex 的 token 壓縮 plugin — 用「穴居人語」回答，砍掉 75% output token 但保持 100% 技術準確度。附帶 caveman-shrink MCP middleware 壓縮 46% input token。
 
 ## 快速導航
 
@@ -60,7 +60,7 @@ npx caveman stats
 | [[rtk]] | CLI proxy | 46% | — | 高 |
 | caveman | Plugin + MCP | 46% | 75% | 中 |
 | caveman Ultra | Plugin | — | 90%+ | 低 |
-| [[DietrichGebert-ponytail\|Ponytail]] | Plugin/Skill | 22% tokens | 54% LOC | 高 |
+| [[DietrichGebert-ponytail|Ponytail]] | Plugin/Skill | 22% tokens | 54% LOC | 高 |
 
 caveman 的 input 壓縮類似 [[rtk]] 但用 MCP 介面而非 CLI proxy。[[DietrichGebert-ponytail|Ponytail]] 用六階梯思考法控制程式碼生成邏輯，與 caveman 互補：caveman 控制文字風格，Ponytail 控制程式碼結構。穴居人語是 [[Prompt-Engineering]] 的實戰應用，整體屬於 [[Token-Optimization]] 領域。
 
@@ -78,3 +78,11 @@ caveman 的 input 壓縮類似 [[rtk]] 但用 MCP 介面而非 CLI proxy。[[Die
 - **Stars**: ⭐52,506
 - **License**: MIT
 - **收錄日期**: 2026-05-03
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/JuliusBrussee/caveman |
+| **Stars** | ⭐52,506 |
+| **收錄日期** | 2026-05-10 |

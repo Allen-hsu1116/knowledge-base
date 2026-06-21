@@ -8,7 +8,7 @@ language: zh-TW
 
 # PDFCraft — 瀏覽器端隱私優先 PDF 工具箱
 
-> 90+ 專業 PDF 工具，全部在瀏覽器端運作，不上傳檔案到任何伺服器。WebAssembly 實現接近原生性能。
+> ⭐5.5k · 90+ 專業 PDF 工具，全部在瀏覽器端運作，不上傳檔案到任何伺服器。WebAssembly 實現接近原生性能。
 
 ## 快速導航
 - 📄 **文件解析** → [[document-parsing|文件解析]]: PDF 處理是文件處理的基礎
@@ -69,24 +69,15 @@ npm run dev   # 開啟 http://localhost:3000
 
 ## 來源
 
-- [2026-05-13 素材](../raw/2026-05-13-pdfcraft.md)
-- raw/2026-05-xx-pdfcraft.md
-
-## 專案資訊
-
-- **GitHub**: https://github.com/PDFCraftTool/pdfcraft
-- **Stars**: ⭐5,771
-- **語言**: JavaScript (Next.js)
-- **授權**: AGPL-3.0
-- **官網**: https://pdfcraft.devtoolcafe.com
-
-## 與相關主題的連結
-
-- [[document-parsing|文件解析]] — PDF 處理是文件處理的基礎
-- [[rag|RAG]] — PDF 解析是 RAG pipeline 的前置步驟
-- [[hichunk|HiChunk]] — PDF 解析 → chunking 是 RAG 的完整流程
-- [[microsoft-markitdown|markitdown]] — 另一個文件轉換工具（微軟出品）
+- GitHub：https://github.com/PDFCraftTool/pdfcraft
+- Raw 檔案：`raw/2026-05-13-pdfcraft.md`
 
 ---
 
-GitHub: [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) · Stars: ⭐5.5k+ · License: AGPL-3.0 · 收錄日期: 2026-05
+| 項目 | 值 |
+|------|-----|
+| GitHub | [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) |
+| Stars | ⭐5.5k |
+| License | AGPL-3.0 |
+| Language | zh-TW |
+| 收錄日期 | 2026-05-13 |

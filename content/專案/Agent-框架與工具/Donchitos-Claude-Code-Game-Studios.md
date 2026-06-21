@@ -10,10 +10,12 @@ updated: 2026-05-26
 
 # Claude Code Game Studios ⭐20k
 
-> 把一個 Claude Code 對話變成完整遊戲開發工作室 — 49 個 AI Agent、73 個工作流 Skill、一個協調團隊
+> ⭐20021 · 把一個 Claude Code 對話變成完整遊戲開發工作室 — 49 個 AI Agent、73 個工作流 Skill、一個協調團隊
 
 ## 快速導航
 
+- 🎮 **AI Agent** → [[AI-Agent|AI Agent]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🛠️ **Coding Agent** → [[anthropics-claude-code|Claude Code]] · [[openclaw|OpenClaw]]
 - **Repo**: <https://github.com/Donchitos/Claude-Code-Game-Studios>
 - **Stars**: 20,021 | **License**: MIT | **Language**: Shell
 - **核心數字**: 49 agents / 73 skills / 12 hooks / 11 rules / 41 templates
@@ -80,3 +82,11 @@ claude
 
 ---
 *Ingested: 2026-05-26 | Stars: 20,021 | License: MIT*
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/Donchitos/Claude-Code-Game-Studios |
+| **Stars** | ⭐20021 |
+| **收錄日期** | 2026-05-26 |

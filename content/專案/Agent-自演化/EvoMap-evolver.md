@@ -9,7 +9,7 @@ language: zh-TW
 
 # Evolver
 
-> GEP 驅動的 Agent 自演化引擎：把 ad hoc prompt 調參變成可審計、可重用的演化資產。Gene + Capsule + Event 三位一體。⭐7,241
+> ⭐7241 · GEP 驅動的 Agent 自演化引擎：把 ad hoc prompt 調參變成可審計、可重用的演化資產。Gene + Capsule + Event 三位一體。⭐7,241
 
 ## 快速導航
 - 🤖 **Agent 演化** → [[AI-Agent]]（Evolver 是 Agent 自演化的協議引擎）
@@ -75,3 +75,11 @@ evolver --loop
 - **Stars**: ⭐7,241
 - **License**: GPL-3.0（過渡至 source-available）
 - **收錄日期**: 2026-05-06
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/EvoMap/evolver |
+| **Stars** | ⭐'⭐7241' |
+| **收錄日期** | 2026-05-06 |

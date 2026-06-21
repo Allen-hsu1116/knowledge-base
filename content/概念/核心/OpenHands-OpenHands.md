@@ -12,7 +12,8 @@ topics: [agent, artificial-intelligence, claude-ai, developer-tools, llm, openai
 
 > ⭐77.4k · 自架開發者控制中心，讓 Coding Agent 成為永遠在線的工程團隊
 
-快速導航：[[AI-Agent|AI Agent]] · [[Coding-Agent|Coding Agent]] · [[Agent-Workflow|Agent 工作流]]
+## 快速導航
+[[AI-Agent|AI Agent]] · [[coding-agent-toolkit|Coding Agent]] · [[workflow-automation|Agent 工作流]]
 
 ## 是什麼
 
@@ -61,13 +62,14 @@ npm run dev
 
 | 方案 | 類型 | 自架 | 多 Agent | 自動化 | 適用場景 |
 |------|------|------|---------|--------|----------|
-| [[OpenHands-OpenHands\|OpenHands]] | Agent 控制中心 | ✅ MIT | ✅ ACP 協議 | ✅ 排程+Webhook | 開發團隊 Agent 管理 |
-| [[langgenius-dify\|Dify]] | LLM App 平台 | ✅ 開源 | ✅ 內建 | ✅ 工作流 | LLM 應用開發 |
-| [[n8n-io-n8n\|n8n]] | 工作流自動化 | ✅ 公平碼 | ⚠️ 透過 AI 節點 | ✅ 400+ 整合 | 通用自動化 |
+| [[OpenHands-OpenHands|OpenHands]] | Agent 控制中心 | ✅ MIT | ✅ ACP 協議 | ✅ 排程+Webhook | 開發團隊 Agent 管理 |
+| [[langgenius-dify|Dify]] | LLM App 平台 | ✅ 開源 | ✅ 內建 | ✅ 工作流 | LLM 應用開發 |
+| [[n8n-io-n8n|n8n]] | 工作流自動化 | ✅ 公平碼 | ⚠️ 透過 AI 節點 | ✅ 400+ 整合 | 通用自動化 |
 | Cursor/Copilot | IDE 內 Agent | ❌ 僅雲端 | ❌ 單一 | ❌ | 個人編碼輔助 |
-| [[FlowiseAI-Flowise\|Flowise]] | 視覺化 Agent 建構 | ✅ | ⚠️ 有限 | ❌ | 快速原型開發 |
+| [[FlowiseAI-Flowise|Flowise]] | 視覺化 Agent 建構 | ✅ | ⚠️ 有限 | ❌ | 快速原型開發 |
 
-← [[AI-Agent|AI Agent]] · [[Coding-Agent|Coding Agent]]
+## 相關概念
+← [[AI-Agent|AI Agent]] · [[coding-agent-toolkit|Coding Agent]]
 
 ## 來源
 

@@ -16,13 +16,13 @@ topics:
 
 # GSAP AI Skills
 
-> 文章/概念 · GSAP 官方推出的 AI Skill · 讓 AI 能正確使用專業動畫引擎，擺脫「AI 味」網站
+> ⭐— · 文章/概念 · GSAP 官方推出的 AI Skill · 讓 AI 能正確使用專業動畫引擎，擺脫「AI 味」網站
 
 ## 快速導航
 
 - 🎨 [[Frontend-Design-Agent-Skills]] — 前端設計 Agent Skill
 - 🧩 [[AI-Skills]] — AI Skill 概念總覽
-- 🍯 [[Leonxlnx-taste-skill\|taste-skill]] — Anti-Slop 前端框架
+- 🍯 [[Leonxlnx-taste-skill|taste-skill]] — Anti-Slop 前端框架
 - 📝 [[Figma-Skills]] — Figma 設計 Skill
 
 ## 是什麼
@@ -59,16 +59,16 @@ GSAP AI Skills 是 **GSAP（GreenSock Animation Platform）官方推出的 AI Sk
 | 方案 | 類型 | 核心差異 |
 |------|------|----------|
 | **GSAP AI Skills** | 官方 Skill | GSAP 官方出品，精準 API 使用 |
-| [[Leonxlnx-taste-skill\|taste-skill]] | 開源框架 | Anti-Slop 框架，從設計系統出發 |
+| [[Leonxlnx-taste-skill|taste-skill]] | 開源框架 | Anti-Slop 框架，從設計系統出發 |
 | [[Frontend-Design-Agent-Skills]] | Agent Skill | 通用前端設計 Skill |
 | [[Figma-Skills]] | 設計 Skill | Figma → 程式碼工作流 |
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI/UX Pro Max]] | Agent Skill | UI/UX 設計 Skill |
+| [[nextlevelbuilder-ui-ux-pro-max-skill|UI/UX Pro Max]] | Agent Skill | UI/UX 設計 Skill |
 
 **共同趨勢**：AI 做網站的下一步不是更會寫程式，而是**注入設計品味**。多個工具（taste-skill、GSAP Skills、Frontend Design Skills）都從不同角度解決同一個問題。
 
 ## 相關概念
 
-← [[AI-Skills]] · [[Frontend-Design-Agent-Skills]] · [[Leonxlnx-taste-skill\|taste-skill]] · [[Figma-Skills]]
+← [[AI-Skills]] · [[Frontend-Design-Agent-Skills]] · [[Leonxlnx-taste-skill|taste-skill]] · [[Figma-Skills]]
 
 ## 來源
 

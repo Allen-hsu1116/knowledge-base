@@ -9,7 +9,7 @@ language: zh-TW
 
 # OpenViking
 
-> 開源 Context Database，用檔案系統範式統一管理 Agent 的記憶、資源和技能，支援分層載入和可視化檢索軌跡。（詳細參考頁）
+> ⭐23,398 · 開源 Context Database，用檔案系統範式統一管理 Agent 的記憶、資源和技能，支援分層載入和可視化檢索軌跡。（詳細參考頁）
 
 ## 快速導航
 - ⚡ [[llm-knowledge-base]] · [[openclaw]] · [[cocoindex]]
@@ -86,3 +86,10 @@ OpenViking 的分層載入跟我們的雙層結構（概念頁+專案頁）異�
 - **GitHub**: https://github.com/volcengine/OpenViking
 - **License**: 開源
 - **收錄日期**: 2026-05
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/volcengine/OpenViking |
+| **收錄日期** | 2026-05-10 |

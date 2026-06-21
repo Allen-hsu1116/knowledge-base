@@ -9,7 +9,7 @@ language: zh-TW
 
 # Google Skills
 
-> Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐9.6k
+> ⭐9.6k · Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐9.6k
 
 ## 快速導航
 

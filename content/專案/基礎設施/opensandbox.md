@@ -9,7 +9,7 @@ language: Go
 
 # OpenSandbox
 
-> 阿里巴巴開源的通用 AI 沙箱平台，多語言 SDK + Docker/K8s runtime，支援 Coding Agent、GUI Agent、Agent 評估、AI 程式碼執行、RL 訓練。⭐ 10.4k
+> ⭐10400 · 阿里巴巴開源的通用 AI 沙箱平台，多語言 SDK + Docker/K8s runtime，支援 Coding Agent、GUI Agent、Agent 評估、AI 程式碼執行、RL 訓練。⭐ 10.4k
 
 ## 快速導航
 - ⚡ [[sandbox]] · [[Coding-Agent-CLI]] · [[MCP]]
@@ -73,7 +73,7 @@ Agent 整合：支援 Claude Code、Gemini CLI、Codex CLI、Qwen Code、Kimi CL
 
 ## 跟其他方案的關係
 
-| 特色 | OpenSandbox | [[cubesandbox\|E2B]] | Docker 直接跑 | Modal |
+| 特色 | OpenSandbox | [[cubesandbox|E2B]] | Docker 直接跑 | Modal |
 |------|-------------|---------------------|--------------|-------|
 | 隔離層級 | gVisor / Kata / Firecracker | Firecracker microVM | cgroups + namespace | gVisor |
 | 多語言 SDK | 5 種 | Python / JS | — | Python |
@@ -89,3 +89,10 @@ OpenSandbox 跟 [[sandbox]] 概念直接相關——它是 sandbox 概念在 AI 
 
 ## 來源
 - [原始資料](../raw/2026-05-05-opensandbox.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **Stars** | ⭐10400 |
+| **收錄日期** | 2026-05-05 |

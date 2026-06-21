@@ -9,7 +9,7 @@ language: zh-TW
 
 # KV Cache — 加快語言模型生成速度 (2/2)
 
-> KV Cache 是推論加速的關鍵技術：把已算好的 Key/Value 存下來避免重算。但 KV Cache 會撐爆 GPU 記憶體，因此衍生出 GQA、MLA、Sliding Window、Streaming LLM、Pruning 等方法來節省空間。
+> ⭐— · KV Cache 是推論加速的關鍵技術：把已算好的 Key/Value 存下來避免重算。但 KV Cache 會撐爆 GPU 記憶體，因此衍生出 GQA、MLA、Sliding Window、Streaming LLM、Pruning 等方法來節省空間。
 
 ## 快速導航
 

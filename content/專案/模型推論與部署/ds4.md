@@ -8,13 +8,13 @@ language: zh-TW
 
 # DS4 — DeepSeek 4 Flash 本地推論引擎
 
-> Redis 創造者 antirez 為 DeepSeek V4 Flash 打造的專用本地推論引擎。不是通用 runner，而是端到端完成的單模型方案。
+> ⭐10277 · Redis 創造者 antirez 為 DeepSeek V4 Flash 打造的專用本地推論引擎。不是通用 runner，而是端到端完成的單模型方案。
 
 ## 快速導航
 
 - 🧠 **LLM** → [[LLM]]: DS4 是 LLM 推論引擎
 - ⚡ **LLM 底層** → [[llm-internals|LLM 底層技術]]: KV cache 壓縮是底層技術的一環
-- 🖥️ **Ollama** → [[Ollama]]: 通用本地部署方案，DS4 是單模型專用方案
+- 🖥️ **Ollama** → [[模型推論與部署|Ollama]]: 通用本地部署方案，DS4 是單模型專用方案
 - 🔧 **llama.cpp** → [[llama-cpp|llama.cpp]]: DS4 基於 llama.cpp/GGML 開發路徑
 
 ## 是什麼
@@ -71,7 +71,7 @@ curl http://localhost:8080/v1/chat/completions \
 
 ## 跟其他方案的關係
 
-DS4 跟 [[Ollama]] 的定位根本不同：Ollama 是通用本地部署方案（跑任何 GGUF 模型），DS4 是 DeepSeek V4 Flash 專用引擎（只跑一個模型，但跑得又快又好）。Ollama 是瑞士刀，DS4 是手術刀。
+DS4 跟 [[模型推論與部署|Ollama]] 的定位根本不同：Ollama 是通用本地部署方案（跑任何 GGUF 模型），DS4 是 DeepSeek V4 Flash 專用引擎（只跑一個模型，但跑得又快又好）。Ollama 是瑞士刀，DS4 是手術刀。
 
 跟 [[llama-cpp|llama.cpp]] 的關係：DS4 基於 llama.cpp/GGML 開發路徑，但做了 DeepSeek V4 Flash 專用的深度最佳化（KV cache 壓縮、2-bit 量化、Metal/CUDA 最佳化）。
 
@@ -79,7 +79,7 @@ DS4 跟 [[Ollama]] 的定位根本不同：Ollama 是通用本地部署方案（
 
 ## 相關概念
 
-← [[LLM]] · [[llm-internals|LLM 底層技術]] · [[Ollama]] · [[llama-cpp|llama.cpp]]
+← [[LLM]] · [[llm-internals|LLM 底層技術]] · [[模型推論與部署|Ollama]] · [[llama-cpp|llama.cpp]]
 
 ## 來源
 

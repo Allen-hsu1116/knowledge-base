@@ -9,7 +9,7 @@ language: zh-TW
 
 # AI Agent 人格與角色設計
 
-> 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。
+> ⭐— · 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。
 
 ## 快速導航
 - 🧠 **Persona 四要素** → 角色定位、溝通風格、決策偏好、經驗背景

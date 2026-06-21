@@ -3,18 +3,18 @@ title: vLLM
 slug: vLLM
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 79,515
 language: zh-TW
 ---
 
 # vLLM
 
-> 高吞吐量、記憶體效率的 LLM 推論和服務引擎，PagedAttention 發明者。79.5K ⭐。
+> ⭐79,515 · 高吞吐量、記憶體效率的 LLM 推論和服務引擎，PagedAttention 發明者。79.5K ⭐。
 
 ## 快速導航
 - 🧠 **LLM 底層技術** → [[llm-internals]]（PagedAttention 是 KV Cache 管理的突破）
 - ⚡ **Token 優化** → [[Token-Optimization]]（高效推理等同於單位時間產出更多 token）
-- 🏠 **本地部署** → [[Ollama]]（Ollama 適合本地，vLLM 適合生產）
+- 🏠 **本地部署** → [[模型推論與部署|Ollama]]（Ollama 適合本地，vLLM 適合生產）
 
 ## 是什麼
 
@@ -61,12 +61,12 @@ vllm serve meta-llama/Meta-Llama-3-8B --enable-prefix-caching
 
 | 專案 | 定位 | 硬體需求 | 獨特優勢 |
 |------|------|---------|---------|
-| [[Ollama]] | 本地推理 | 消費級 | Ollama 適合個人/原型 |
-| [[llama-cpp\|llama.cpp]] | 推論引擎 | CPU/GPU | llama.cpp 重 CPU 本地推理 |
-| [[sgl-project-sglang\|SGLang]] | 服務框架 | 資料中心 | SGLang 有 RadixAttention 前綴快取 |
+| [[模型推論與部署|Ollama]] | 本地推理 | 消費級 | Ollama 適合個人/原型 |
+| [[llama-cpp|llama.cpp]] | 推論引擎 | CPU/GPU | llama.cpp 重 CPU 本地推理 |
+| [[sgl-project-sglang|SGLang]] | 服務框架 | 資料中心 | SGLang 有 RadixAttention 前綴快取 |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | NVIDIA 資料中心 | TensorRT-LLM 在 NVIDIA 上更快 |
-| [[huggingface-transformers\|Transformers]] | 模型框架 | 通用 | vLLM 使用 Transformers 模型定義 |
-| [[litellm\|LiteLLM]] | API Gateway | 通用 | LiteLLM 可作為 vLLM 前面的 Gateway |
+| [[huggingface-transformers|Transformers]] | 模型框架 | 通用 | vLLM 使用 Transformers 模型定義 |
+| [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可作為 vLLM 前面的 Gateway |
 | [[llm-internals]] | 概念頁 | — | PagedAttention 是 KV Cache 管理的突破 |
 
 ## 相關概念
@@ -81,3 +81,11 @@ vllm serve meta-llama/Meta-Llama-3-8B --enable-prefix-caching
 - **Stars**: ⭐79,515
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/vllm-project/vllm |
+| **Stars** | ⭐79,515 |
+| **收錄日期** | 2026-05-10 |

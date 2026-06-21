@@ -3,13 +3,13 @@ title: Academic Research Skills
 slug: Imbad0202-academic-research-skills
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 4,927
 language: zh-TW
 ---
 
 # Academic Research Skills
 
-> Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
+> ⭐4,927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
 
 ## 快速導航
 
@@ -45,19 +45,19 @@ Imbad0202/academic-research-skills 是一套 Claude Code 技能組合，涵蓋�
 /plugin marketplace add Imbad0202/academic-research-skills
 
 # 深度研究
-> /deep-research "What are the latest advances in RLHF?"
+> ⭐4,927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
 # 系統會先用蘇格拉底提問釐清你的研究範圍
 
 # 寫論文
-> /academic-paper "Write a survey on RLHF from the research results"
+> ⭐4,927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
 # 12 個 agent 分工寫作，Style Calibration 先校準風格
 
 # 同儕審查
-> /academic-paper-reviewer "Review the generated paper"
+> ⭐4,927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
 # 7 個 agent 從不同角度審查，0-100 評分
 
 # 完整管線
-> /academic-pipeline "Investigate RLHF and produce a publishable paper"
+> ⭐4,927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
 # 10 階段自動編排：研究 → 大綱 → 寫作 → 審查 → 修訂 → 終稿
 ```
 

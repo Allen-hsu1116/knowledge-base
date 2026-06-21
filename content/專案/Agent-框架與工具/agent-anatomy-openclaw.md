@@ -9,7 +9,7 @@ language: zh-TW
 
 # 解剖小龍蝦 — AI Agent 運作原理
 
-> 以 OpenClaw 為例，完整拆解 AI Agent 的運作機制：從語言模型到工具使用、記憶管理、安全防禦（詳細參考頁）
+> ⭐— · 以 OpenClaw 為例，完整拆解 AI Agent 的運作機制：從語言模型到工具使用、記憶管理、安全防禦（詳細參考頁）
 
 ## 快速導航
 - 🧠 **AI Agent 架構與身分** → [[agent-persona]]（Agent 不是 LLM，是人與 LLM 之間的介面）

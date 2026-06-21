@@ -9,7 +9,7 @@ language: zh-TW
 
 # HiChunk
 
-> 騰訊優圖的階層式文件分塊框架，用微調 LLM 做多層級結構化 + Auto-Merge 檢索，解決 RAG 中 chunking 造成的不完整資訊問題。⭐96
+> ⭐96 · 騰訊優圖的階層式文件分塊框架，用微調 LLM 做多層級結構化 + Auto-Merge 檢索，解決 RAG 中 chunking 造成的不完整資訊問題。⭐96
 
 ## 快速導航
 
@@ -122,3 +122,11 @@ GitHub: [TencentCloudADP/hichunk](https://github.com/TencentCloudADP/hichunk) ·
 - [[document-parsing|文件解析]] — 文件結構化是 chunking 的前置步驟
 - [[Knowledge-Graph]] — 階層式結構與知識圖譜有概念關聯
 - [[cocoindex]] — 增量索引，另一種 RAG pipeline 優化方式
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/TencentCloudADP/hichunk.git |
+| **Stars** | ⭐'⭐96' |
+| **收錄日期** | 2026-05-13 |

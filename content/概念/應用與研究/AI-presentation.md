@@ -11,7 +11,7 @@ language: zh-TW
 
 # AI 簡報
 
-> 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。
+> ⭐— · 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。
 
 ## 快速導航
 
@@ -93,7 +93,3 @@ pip install -r requirements.txt
 
 - [Presenton 專案文件](../raw/2026-05-24-presenton-presenton.md)
 - [PPT Master 專案文件](../raw/2026-05-05-ppt-master.md)
-
----
-
-_此頁由 daily-llm-trending 自動維護_

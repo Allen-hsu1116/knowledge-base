@@ -9,7 +9,7 @@ language: zh-TW
 
 # Superpowers
 
-> Agentic skills framework & software development methodology that works. 先思考再動手，subagent 驅動開發，TDD 強制執行。⭐189K+
+> ⭐189 · Agentic skills framework & software development methodology that works. 先思考再動手，subagent 驅動開發，TDD 強制執行。⭐189K+
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（Superpowers 是 agentic framework，讓 coding agent 遵循開發方法論）
@@ -81,3 +81,11 @@ gemini extensions install https://github.com/obra/superpowers
 - **Stars**: ⭐189,521
 - **License**: MIT
 - **收錄日期**: 2026-05-14
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/obra/superpowers |
+| **Stars** | ⭐'⭐189' |
+| **收錄日期** | 2026-05-14 |

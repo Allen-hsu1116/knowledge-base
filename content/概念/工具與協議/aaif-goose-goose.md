@@ -11,7 +11,8 @@ language: Rust
 
 > ⭐48k · 開源通用 AI Agent，桌面應用 + CLI + API，支援 15+ LLM 提供商與 70+ MCP 擴展
 
-快速導航：[[AI-Agent]] · [[MCP]] · [[Coding-Agent-CLI]]
+## 快速導航
+[[AI-Agent]] · [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 是什麼
 
@@ -54,13 +55,14 @@ goose --provider anthropic
 | 方案 | Stars | 類型 | 語言 | 擴展協議 | 特色 |
 |------|-------|------|------|----------|------|
 | **Goose** | ⭐48k | 通用 AI Agent | Rust | MCP + ACP | 桌面 + CLI + API，15+ providers |
-| [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent CLI | TypeScript | MCP | Anthropic 官方，深度編碼整合 |
-| [[nesquena-hermes-webui\|Hermes WebUI]] | ⭐10k | Coding Agent Web UI | Ruby | MCP | Web 介面，多人協作 |
-| [[affaan-m-ECC\|ECC]] | ⭐189k | AI Agent Harness | — | MCP | Token 優化，龐大社群 |
-| [[earendil-works-pi\|Pi Agent Harness]] | ⭐54k | Agent Harness | — | MCP | Agent Skills 生態 |
+| [[anthropics-claude-code|Claude Code]] | ⭐128k | Coding Agent CLI | TypeScript | MCP | Anthropic 官方，深度編碼整合 |
+| [[nesquena-hermes-webui|Hermes WebUI]] | ⭐10k | Coding Agent Web UI | Ruby | MCP | Web 介面，多人協作 |
+| [[affaan-m-ECC|ECC]] | ⭐189k | AI Agent Harness | — | MCP | Token 優化，龐大社群 |
+| [[earendil-works-pi|Pi Agent Harness]] | ⭐54k | Agent Harness | — | MCP | Agent Skills 生態 |
 
 Goose 與 Claude Code 的定位不同：Claude Code 專注於程式碼開發工作流，而 Goose 是一個更通用的 Agent，涵蓋研究、寫作、自動化等場景。Goose 的 ACP 協議是獨特賣點，讓使用者不需要額外購買 API key 就能連接現有的 AI 訂閱服務。
 
+## 相關概念
 ← [[AI-Agent]] · [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 來源

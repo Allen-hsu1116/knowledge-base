@@ -9,7 +9,7 @@ language: zh-TW
 
 # Obscura
 
-> 開源無頭瀏覽器引擎，用 Rust 打造，完整支援 Chrome DevTools Protocol，Puppeteer/Playwright 即插即用替代品。⭐11.1K
+> ⭐11.1 · 開源無頭瀏覽器引擎，用 Rust 打造，完整支援 Chrome DevTools Protocol，Puppeteer/Playwright 即插即用替代品。⭐11.1K
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（Obscura 專為 AI agent 自動化設計）
@@ -93,3 +93,11 @@ const browser = await chromium.connectOverCDP({
 - **Stars**: ⭐11,146
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/h4ckf0r0day/obscura |
+| **Stars** | ⭐'⭐11.1' |
+| **收錄日期** | 2026-05-09 |

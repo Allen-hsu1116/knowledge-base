@@ -9,7 +9,7 @@ language: zh-TW
 
 # gstack
 
-> YC 總裁 Garry Tan 的開源軟體工廠，把 Claude Code 變成 23 人虛擬工程團隊——CEO、設計師、QA、安全長，全用斜線指令操作。⭐96,762
+> ⭐96762 · YC 總裁 Garry Tan 的開源軟體工廠，把 Claude Code 變成 23 人虛擬工程團隊——CEO、設計師、QA、安全長，全用斜線指令操作。⭐96,762
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（gstack 是 AI Agent 工作流程的具體實踐）
@@ -75,3 +75,11 @@ cd ~/gstack && ./setup --host codex  # OpenAI Codex CLI
 - **Stars**: ⭐96,762
 - **License**: MIT
 - **收錄日期**: 2026-05-15
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/garrytan/gstack.git |
+| **Stars** | ⭐'⭐96762' |
+| **收錄日期** | 2026-05-15 |

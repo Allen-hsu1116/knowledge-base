@@ -3,13 +3,13 @@ title: llmfit
 slug: AlexsJones-llmfit
 created: 2026-02-15
 updated: 2026-02-15
-stars: —
+stars: 26,314
 language: zh-TW
 ---
 
 # llmfit
 
-> Hundreds of models & providers. One command to find what runs on your hardware. 用 Rust 寫的終端工具，自動偵測硬體、給每個模型打分，告訴你哪個模型跑得動。
+> ⭐26,314 · Hundreds of models & providers. One command to find what runs on your hardware. 用 Rust 寫的終端工具，自動偵測硬體、給每個模型打分，告訴你哪個模型跑得動。
 
 | 項目 | 值 |
 |------|-----|

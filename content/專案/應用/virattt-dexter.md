@@ -3,13 +3,13 @@ title: Dexter
 slug: virattt-dexter
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 23,560
 language: zh-TW
 ---
 
 # Dexter
 
-> 自主式 AI 金融研究 Agent — 深度財報分析、行業研究、投資決策，全自動完成。SEC filing 解析 + 多步驟 LLM 推理。
+> ⭐23,560 · 自主式 AI 金融研究 Agent — 深度財報分析、行業研究、投資決策，全自動完成。SEC filing 解析 + 多步驟 LLM 推理。
 
 ## 快速導航
 

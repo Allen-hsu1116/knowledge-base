@@ -11,7 +11,8 @@ language: JavaScript
 
 > ⭐2k · Expo 官方 AI Agent 技能集合，讓 Agent 能高效建構、部署和除錯 React Native / Expo 應用，從開發到上架一站式覆蓋。
 
-快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[expo-skills]] · [[expo-skills]]
+## 快速導航
+[[AI-Skills]] · [[agent-skills-ecosystem]] · [[expo-skills]] · [[expo-skills]]
 
 ## 是什麼
 
@@ -81,10 +82,10 @@ bunx skills add expo/skills
 
 | 方案 | 定位 | 與 Expo Skills 的關係 |
 |------|------|----------------------|
-| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | 前端設計審查 | Vercel 聚焦 Web 前端品質，Expo 聚焦行動開發流程 |
-| [[softaworks-agent-toolkit\|SoftaWorks Agent Toolkit]] | 設計系統 Skills | SoftaWorks 建構設計系統，Expo Skills 聚焦行動應用開發 |
-| [[mattpocock-skills\|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 偏通用工程實踐，Expo Skills 專精 Expo 生態 |
-| [[addyosmani-agent-skills\|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 全流程，Expo Skills 深度聚焦 React Native 行動開發 |
+| [[vercel-labs-agent-skills|Vercel Agent Skills]] | 前端設計審查 | Vercel 聚焦 Web 前端品質，Expo 聚焦行動開發流程 |
+| [[softaworks-agent-toolkit|SoftaWorks Agent Toolkit]] | 設計系統 Skills | SoftaWorks 建構設計系統，Expo Skills 聚焦行動應用開發 |
+| [[mattpocock-skills|Matt Pocock Skills]] | 工程實踐 Skills | Matt Pocock 偏通用工程實踐，Expo Skills 專精 Expo 生態 |
+| [[addyosmani-agent-skills|addyosmani/agent-skills]] | 通用開發 Skills | addyosmani 全流程，Expo Skills 深度聚焦 React Native 行動開發 |
 | [[AI-Skills]] | 概念層 | Expo Skills 是 AI Skills 在行動開發領域的官方實作 |
 
 ## 相關概念

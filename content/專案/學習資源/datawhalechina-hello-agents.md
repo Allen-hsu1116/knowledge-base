@@ -9,7 +9,7 @@ language: zh-TW
 
 # Hello-Agents 从零构建智能体
 
-> Datawhale 社區出品的系統性 AI Agent 學習教程，從理論基礎到實戰開發，帶你從 LLM「使用者」蛻變為智能體「構建者」。⭐48K+
+> ⭐48 · Datawhale 社區出品的系統性 AI Agent 學習教程，從理論基礎到實戰開發，帶你從 LLM「使用者」蛻變為智能體「構建者」。⭐48K+
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（本教程的核心主題）
@@ -75,3 +75,11 @@ pip install -r requirements.txt
 - **Stars**: ⭐48,233
 - **License**: CC BY-NC-SA 4.0
 - **收錄日期**: 2026-05-13
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/datawhalechina/hello-agents.git |
+| **Stars** | ⭐'⭐48' |
+| **收錄日期** | 2026-05-13 |

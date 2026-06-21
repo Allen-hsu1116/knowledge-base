@@ -11,7 +11,8 @@ language: Rust
 
 > ⭐16.9k · 即時組合、擴展與觀測所有服務的統一平台，Worker / Function / Trigger 三原語打造後端基礎設施
 
-快速導航：[[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
+## 快速導航
+[[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
 
 ## 是什麼
 
@@ -53,10 +54,11 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 | 方案 | Stars | 類型 | Agent 整合 | 即時組合 | 多語言 SDK |
 |------|-------|------|-----------|---------|-----------|
 | **iii** | ⭐16.9k | 後端平台 | ✅ | ✅ | ✅ Node/Python/Rust |
-| [[czlonkowski-n8n-mcp\|n8n]] | ⭐70k+ | 工作流 | ✅ MCP | ❌ | ❌ |
+| [[czlonkowski-n8n-mcp|n8n]] | ⭐70k+ | 工作流 | ✅ MCP | ❌ | ❌ |
 | Temporal | ⭐12k+ | 工作流引擎 | ❌ | ❌ | ✅ |
 | Fly.io | — | 雲平台 | ❌ | ❌ | ✅ |
 
+## 相關概念
 ← [[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
 
 ## 來源

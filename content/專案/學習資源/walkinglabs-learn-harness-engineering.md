@@ -92,6 +92,7 @@ YOUR PROJECT ROOT
 | 驗證框架 | ✅ 端對端測試 | 部分 | 部分 | 部分 | 部分 |
 | Session 管理 | ✅ 完整生命週期 | ❌ | ✅ | 部分 | 部分 |
 
+## 相關概念
 ← [[harness-engineering]] · [[AI-Agent]] · [[context-engineering-basics]] · [[Coding-Agent-CLI]] · [[agent-persona]] · [[agent-skills-ecosystem]]
 
 ## 來源

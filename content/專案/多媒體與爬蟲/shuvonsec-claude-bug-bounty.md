@@ -11,7 +11,8 @@ language: Python
 
 > ⭐2.8k · AI 驅動 Bug Bounty 獵蟲工具，recon → hunt → validate → report 全流程，免費也能跑
 
-快速導航：[[pentesting|滲透測試]] · [[prompt-security|Prompt 安全]] · [[AI-Agent]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+## 快速導航
+[[pentesting|滲透測試]] · [[prompt-security|Prompt 安全]] · [[AI-Agent]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 是什麼
 
@@ -83,10 +84,11 @@ bughunter web3-audit contract.sol # 智能合約審計
 | 方案 | Stars | 類型 | 免費模式 | AI 驅動 | Web3 | 自動報告 |
 |------|-------|------|---------|---------|------|---------|
 | **BugHunter** | ⭐2.8k | Bug Bounty 工具 | ✅ Ollama 離線 | ✅ | ✅ | ✅ H1/Bugcrowd/Intigriti/Immunefi |
-| [[KeygraphHQ-shannon\|Shannon]] | ⭐42.7k | 滲透測試 | 部分 | ❌ | ❌ | ❌ |
-| [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7.6k | OSINT | ✅ | ❌ | ❌ | ❌ |
-| [[mukul975-Anthropic-Cybersecurity-Skills\|Cybersecurity Skills]] | ⭐7.4k | 網安 Skills | ✅ | ✅ Claude | ❌ | ❌ |
+| [[KeygraphHQ-shannon|Shannon]] | ⭐42.7k | 滲透測試 | 部分 | ❌ | ❌ | ❌ |
+| [[BigBodyCobain-Shadowbroker|Shadowbroker]] | ⭐7.6k | OSINT | ✅ | ❌ | ❌ | ❌ |
+| [[mukul975-Anthropic-Cybersecurity-Skills|Cybersecurity Skills]] | ⭐7.4k | 網安 Skills | ✅ | ✅ Claude | ❌ | ❌ |
 
+## 相關概念
 ← [[pentesting|滲透測試]] · [[AI-Agent]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 來源

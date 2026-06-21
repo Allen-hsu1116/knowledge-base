@@ -9,7 +9,7 @@ language: zh-TW
 
 # Coding Agent CLI
 
-> Coding Agent CLI 是以終端機為主要介面的 AI 程式開發助手，提供提示、工具、代理、MCP、斜線指令和串流輸出等完整工作流程。從單一 chatbot 走向多模型、多工具、多 agent 的整合開發環境。
+> ⭐— · Coding Agent CLI 是以終端機為主要介面的 AI 程式開發助手，提供提示、工具、代理、MCP、斜線指令和串流輸出等完整工作流程。從單一 chatbot 走向多模型、多工具、多 agent 的整合開發環境。
 
 ## 快速導航
 

@@ -9,13 +9,13 @@ language: zh-TW
 
 # 前端設計
 
-> 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。
+> ⭐— · 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。
 
 ## 快速導航
 
-- 🎨 **設計系統** → [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]]
-- 📐 **UI/UX 規範** → [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]]
-- 🔍 **設計審查** → [[vercel-labs-agent-skills\|Vercel Agent Skills]]
+- 🎨 **設計系統** → [[softaworks-agent-toolkit|Softaworks Agent Toolkit]]
+- 📐 **UI/UX 規範** → [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]]
+- 🔍 **設計審查** → [[vercel-labs-agent-skills|Vercel Agent Skills]]
 - 🤖 **Agent Skills** → [[AI-Skills]] · [[agent-skills-ecosystem]]
 - ✏️ **Prompt 工程** → [[Prompt-Engineering]]
 
@@ -79,10 +79,10 @@ language: zh-TW
 
 | 專案 | Stars | 特色 | 適用場景 |
 |------|-------|------|----------|
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | 88.8k | 完整 Design Token + 多平台指南 | 全面 UI/UX 設計參考 |
-| [[anthropics-skills\|Anthropic Skills]] | 147.9k | 設計哲學 + 實作規範 | 前端設計品質提升 |
-| [[vercel-labs-agent-skills\|Vercel Agent Skills]] | 27.7k | Web 介面規範審查 | UI 程式碼品質審查 |
-| [[softaworks-agent-toolkit\|Softaworks Toolkit]] | 2k | 從零建設計系統 | 建立新設計系統 |
+| [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 88.8k | 完整 Design Token + 多平台指南 | 全面 UI/UX 設計參考 |
+| [[anthropics-skills|Anthropic Skills]] | 147.9k | 設計哲學 + 實作規範 | 前端設計品質提升 |
+| [[vercel-labs-agent-skills|Vercel Agent Skills]] | 27.7k | Web 介面規範審查 | UI 程式碼品質審查 |
+| [[softaworks-agent-toolkit|Softaworks Toolkit]] | 2k | 從零建設計系統 | 建立新設計系統 |
 
 ## 相關概念
 

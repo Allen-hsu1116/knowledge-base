@@ -3,13 +3,13 @@ title: LLM
 slug: LLM
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 49.8K
 language: zh-TW
 ---
 
 # LLM
 
-> LLM（Large Language Model）是大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。近年從純文字走向多模態、推理能力增強、本地部署與 agent 化應用。
+> ⭐49.8K · LLM（Large Language Model）是大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。近年從純文字走向多模態、推理能力增強、本地部署與 agent 化應用。
 
 ## 快速導航
 
@@ -49,10 +49,10 @@ LLM 的核心能力包括：文字生成（寫作、翻譯、摘要、程式碼�
 
 | 場景 | 推薦框架 | 說明 |
 |------|----------|------|
-| 本地開發 | [[Ollama]] | 一鍵運行，模型庫豐富 |
+| 本地開發 | [[模型推論與部署|Ollama]] | 一鍵運行，模型庫豐富 |
 | 高吞吐服務 | [[vLLM]] | PagedAttention、Continuous Batching |
-| 本地低資源 | [[llama-cpp\|llama.cpp]] | C/C++，消費級硬體可跑 |
-| 企業部署 | [[sgl-project-sglang\|SGLang]] | RadixAttention 前綴快取 |
+| 本地低資源 | [[llama-cpp|llama.cpp]] | C/C++，消費級硬體可跑 |
+| 企業部署 | [[sgl-project-sglang|SGLang]] | RadixAttention 前綴快取 |
 | GPU 深度最佳化 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 官方，最高吞吐 |
 | 多 Provider 統一 API | [[litellm]] | 100+ Provider 統一介面 |
 
@@ -96,7 +96,7 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 
 ### 推論與部署
 
-- 👉 [[Ollama]] — 本地一鍵運行 LLM（⭐171K）
+- 👉 [[模型推論與部署|Ollama]] — 本地一鍵運行 LLM（⭐171K）
 - 👉 [[llama-cpp|llama.cpp]] — C/C++ 推論引擎，消費級硬體可跑（⭐109K）
 - 👉 [[vLLM]] — 高吞吐推論引擎，PagedAttention（⭐79.5K）
 - 👉 [[sgl-project-sglang|SGLang]] — 高效能服務框架，RadixAttention 前綴快取（⭐27.6K）
@@ -121,3 +121,10 @@ LLM 以 token 為計價單位。1 個中文約 1-2 tokens，1 個英文約 0.75 
 ---
 
 _此頁由 daily-llm-trending 自動維護_
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **Stars** | ⭐49.8K |
+| **收錄日期** | 2026-05-10 |

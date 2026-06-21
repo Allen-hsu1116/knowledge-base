@@ -11,7 +11,7 @@ stars: —
 
 # LLM 知識庫系統：Karpathy 的方法（中文報導版）
 
-> OpenAI 共同創辦人 Andrej Karpathy 公開了他的 LLM 知識庫系統：讓 AI 代替人做知識整理工作。核心概念是 LLM 作為「編譯器」，把原始文件編譯成結構化的 markdown wiki。
+> ⭐— · OpenAI 共同創辦人 Andrej Karpathy 公開了他的 LLM 知識庫系統：讓 AI 代替人做知識整理工作。核心概念是 LLM 作為「編譯器」，把原始文件編譯成結構化的 markdown wiki。
 
 **來源**: 數位時代 BusinessNext
 **日期**: 2026.04.07
@@ -129,3 +129,10 @@ Phase 4 → 循環回到 Phase 2 持續運作
 ---
 
 GitHub: [karpathy/gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) · Stars: 5,000+ · 收錄日期: 2026-04-28
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://www.bnext.com.tw/article/90530/llm-knowledge-base-obsidian-claude-code |
+| **收錄日期** | 2026-04-28 |

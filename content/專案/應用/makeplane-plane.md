@@ -12,7 +12,8 @@ topics: [project-management, jira-alternative, kanban, open-source, docker, kube
 
 > ⭐51.8k · 開源專案管理平台，Jira/Linear/Monday/ClickUp 的現代替代方案。
 
-快速導航：[[twentyhq-twenty|Twenty]] · [[frappe-erpnext|ERPNext]] · [[self-hosted|自架]]
+## 快速導航
+[[twentyhq-twenty|Twenty]] · [[frappe-erpnext|ERPNext]] · [[self-hosted|自架]]
 
 ## 是什麼
 
@@ -56,9 +57,9 @@ cd plane
 
 | 方案 | 類型 | Stars | 自架 | AI 功能 | 授權 |
 |------|------|-------|------|---------|------|
-| [[makeplane-plane\|Plane]] | 專案管理 | ⭐51.8k | ✅ Docker/K8s | ✅ Pages AI | AGPL-3.0 |
-| [[twentyhq-twenty\|Twenty]] | CRM | ⭐46.9k | ✅ | ✅ AI 整合 | 企業版 |
-| [[frappe-erpnext\|ERPNext]] | ERP | ⭐34.3k | ✅ | — | GPL-3.0 |
+| [[makeplane-plane|Plane]] | 專案管理 | ⭐51.8k | ✅ Docker/K8s | ✅ Pages AI | AGPL-3.0 |
+| [[twentyhq-twenty|Twenty]] | CRM | ⭐46.9k | ✅ | ✅ AI 整合 | 企業版 |
+| [[frappe-erpnext|ERPNext]] | ERP | ⭐34.3k | ✅ | — | GPL-3.0 |
 | Jira | 專案管理 | — | ❌ | ✅ | 商業 |
 | Linear | 專案管理 | — | ❌ | — | 商業 |
 

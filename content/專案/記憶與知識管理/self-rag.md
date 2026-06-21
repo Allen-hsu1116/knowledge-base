@@ -9,7 +9,7 @@ stars: 2377
 
 # Self-RAG
 
-> 讓 LLM 學會自己決定何時檢索、何時不檢索，並用反射 token 自我審查生成品質 — ICLR 2024 Oral top 1%。
+> ⭐2377 · 讓 LLM 學會自己決定何時檢索、何時不檢索，並用反射 token 自我審查生成品質 — ICLR 2024 Oral top 1%。
 
 ## 快速導航
 

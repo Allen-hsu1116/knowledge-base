@@ -10,7 +10,7 @@ language: zh-TW
 
 # Karpathy 原始 Gist：LLM Wiki 完整 prompt
 
-> Karpathy 提出的 LLM Wiki 模式——用 LLM 增量建構和維護持久化的個人知識庫，而非每次重新檢索。知識編譯一次後持續更新，而非每次查詢重新推導。
+> ⭐5000 · Karpathy 提出的 LLM Wiki 模式——用 LLM 增量建構和維護持久化的個人知識庫，而非每次重新檢索。知識編譯一次後持續更新，而非每次查詢重新推導。
 
 **來源**: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 **Stars**: 5,000+
@@ -128,3 +128,10 @@ Karpathy 在 2026 年 4 月公開的 LLM Wiki 系統方法論。核心觀念：�
 ---
 
 GitHub: [karpathy/gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) · Stars: 5,000+ · 收錄日期: 2026-04-28
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f |
+| **Stars** | ⭐'⭐5000' |

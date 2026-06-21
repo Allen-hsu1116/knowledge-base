@@ -9,7 +9,7 @@ language: zh-TW
 
 # AI-Trader 智能體交易平台
 
-> 由港大數據科學實驗室（HKUDS）打造的 Agent-Native 交易平台，讓 AI Agent 直接參與金融市場交易、策略分享與協作。⭐16,611
+> ⭐16611 · 由港大數據科學實驗室（HKUDS）打造的 Agent-Native 交易平台，讓 AI Agent 直接參與金融市場交易、策略分享與協作。⭐16,611
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（AI-Trader 是 Agent 原生的交易平台）
@@ -57,7 +57,7 @@ Read https://ai4trade.ai/skill/ai4trade and register on the platform.
 |------|------|------|
 | [[HKUDS-Vibe-Trading]] | 完整交易 Agent | AI-Trader 偏平台，Vibe-Trading 偏 Agent |
 | [[HKUDS-nanobot]] | HKUDS 系列 | 同一實驗室作品，延續「極致精簡但功能完整」風格 |
-| [[ZhuLinsen-daily_stock_analysis\|daily_stock_analysis]] | 決策儀表盤 | AI-Trader 偏交易平台，daily_stock_analysis 偏分析儀表盤 |
+| [[ZhuLinsen-daily_stock_analysis|daily_stock_analysis]] | 決策儀表盤 | AI-Trader 偏交易平台，daily_stock_analysis 偏分析儀表盤 |
 | [[virattt-dexter]] | AI 金融研究 Agent | Dexter 偏研究分析，AI-Trader 偏交易平台 |
 | QuantConnect | 量化交易平台 | QuantConnect 偏傳統量化，AI-Trader 偏 Agent 原生交易 |
 
@@ -75,3 +75,11 @@ Read https://ai4trade.ai/skill/ai4trade and register on the platform.
 - **Stars**: ⭐16,611
 - **License**: 未明確標示
 - **收錄日期**: 2026-05-13
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/HKUDS/AI-Trader |
+| **Stars** | ⭐'⭐16611' |
+| **收錄日期** | 2026-05-13 |

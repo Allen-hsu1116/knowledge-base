@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐15k · 個人 Life Operating System，用 AI 放大人的能力——技能、記憶、理想狀態追蹤一體整合
 
-快速導航：[[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
+## 快速導航
+[[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 
 ## 是什麼
 
@@ -56,13 +57,14 @@ cd ~/.claude && ./install.sh
 | 方案 | Stars | 類型 | 核心概念 | 特殊設計 |
 |------|-------|------|----------|----------|
 | **PAI** | ⭐15k | Life OS | Ideal State → Current State | 文字優先、無 RAG、Algorithm |
-| [[earendil-works-pi\|Pi Agent Harness]] | ⭐54k | Agent Harness | Agent Skills 生態 | Agent Runtime |
-| [[rohitg00-agentmemory\|agentmemory]] | ⭐15k | 記憶引擎 | AI Agent MCP 記憶 | 三層記憶 |
+| [[earendil-works-pi|Pi Agent Harness]] | ⭐54k | Agent Harness | Agent Skills 生態 | Agent Runtime |
+| [[rohitg00-agentmemory|agentmemory]] | ⭐15k | 記憶引擎 | AI Agent MCP 記憶 | 三層記憶 |
 | [[hermes-agent]] | ⭐142k | AI Agent 框架 | 學習閉環、跨 session 記憶 | Cron 排程 |
-| [[affaan-m-ECC\|ECC]] | ⭐189k | AI Agent Harness | Token 優化 | 龐大社群 |
+| [[affaan-m-ECC|ECC]] | ⭐189k | AI Agent Harness | Token 優化 | 龐大社群 |
 
 PAI 與其他 Agent 框架最大的不同是它的「生活 OS」定位：不侷限於程式開發，而是涵蓋生活的各個層面。它的「Ideal State」概念是獨特的——其他框架大多只回答「怎麼做」，PAI 還要回答「完成了長什麼樣」。
 
+## 相關概念
 ← [[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 
 ## 來源

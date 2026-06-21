@@ -9,7 +9,7 @@ language: zh-TW
 
 # OpenMythos
 
-> 開源實作 Claude Mythos 模型架構——循環深度 Transformer（RDT）推理引擎，支援 MLA/GQA 切換與稀疏 MoE 前饋層。⭐12.3K
+> ⭐12.3 · 開源實作 Claude Mythos 模型架構——循環深度 Transformer（RDT）推理引擎，支援 MLA/GQA 切換與稀疏 MoE 前饋層。⭐12.3K
 
 ## 快速導航
 - 🧠 **LLM** → [[LLM]]（OpenMythos 是 LLM 架構的開源重實作）
@@ -22,7 +22,7 @@ OpenMythos 是由 kyegomez 發起的開源專案，目標是根據公開研究�
 
 架構由三個功能區塊組成：Prelude（標準 transformer 層，只跑一次）、Recurrent Block（循環 T 次）、Coda（標準 transformer 層，只跑一次）。每次循環都注入原始輸入編碼，防止 hidden state 漂移。
 
-> ⚠️ 聲明：OpenMythos 是獨立的社群驅動理論重建，與 Anthropic 無關。
+> ⭐12.3 · 開源實作 Claude Mythos 模型架構——循環深度 Transformer（RDT）推理引擎，支援 MLA/GQA 切換與稀疏 MoE 前饋層。⭐12.3K
 
 ## 核心特色
 
@@ -88,3 +88,11 @@ logits = model(ids, n_loops=4)
 - **Stars**: ⭐12,286
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/kyegomez/OpenMythos |
+| **Stars** | ⭐'⭐12.3' |
+| **收錄日期** | 2026-05-09 |

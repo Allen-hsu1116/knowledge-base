@@ -3,13 +3,13 @@ title: OpenSandbox
 slug: volcengine-OpenSandbox
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 10,400
 language: zh-TW
 ---
 
 # OpenSandbox
 
-> 阿里巴巴開源的通用 AI 沙箱平台 — 多語言 SDK + 強隔離 runtime，Agent 安全執行程式碼的基礎設施。
+> ⭐10,400 · 阿里巴巴開源的通用 AI 沙箱平台 — 多語言 SDK + 強隔離 runtime，Agent 安全執行程式碼的基礎設施。
 
 ## 快速導航
 

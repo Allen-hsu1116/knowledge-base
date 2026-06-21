@@ -3,13 +3,13 @@ title: Milvus
 slug: Milvus
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 44,202
 language: zh-TW
 ---
 
 # Milvus
 
-> 高效能雲原生向量資料庫，支援十億級向量搜尋。44.2K ⭐。
+> ⭐44,202 · 高效能雲原生向量資料庫，支援十億級向量搜尋。44.2K ⭐。
 
 ## 快速導航
 - 📚 **RAG** → [[rag]]（Milvus 是 RAG 系統的向量搜尋基礎設施）
@@ -80,3 +80,11 @@ pip install pymilvus
 - **Stars**: ⭐44,202
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/milvus-io/milvus |
+| **Stars** | ⭐44,202 |
+| **收錄日期** | 2026-05-10 |

@@ -12,7 +12,8 @@ topics: [ai-agent, agent-skills, claude-code, codex, deepseek, hermes-agent, ope
 
 > ⭐47.3k · AI 生產力工作室，300+ 預設助手，整合多家 LLM 提供商，支援自主 Agent 和多模型對話。
 
-快速導航：[[open-webui-open-webui|Open WebUI]] · [[langgenius-dify|Dify]] · [[AI-Agent|AI Agent]]
+## 快速導航
+[[open-webui-open-webui|Open WebUI]] · [[langgenius-dify|Dify]] · [[AI-Agent|AI Agent]]
 
 ## 是什麼
 
@@ -56,12 +57,13 @@ docker run -d -p 8080:8080 cherryhq/cherry-studio
 
 | 方案 | 類型 | 多模型 | Agent | Skills | 本地模型 |
 |------|------|--------|-------|--------|----------|
-| [[CherryHQ-cherry-studio\|Cherry Studio]] | 桌面客戶端 | ✅ 10+ | ✅ | ✅ | ✅ Ollama |
-| [[open-webui-open-webui\|Open WebUI]] | Web 客戶端 | ✅ 10+ | ✅ RAG | ✅ | ✅ Ollama |
-| [[langgenius-dify\|Dify]] | 開發平台 | ✅ 10+ | ✅ Workflow | ✅ | ✅ Ollama |
+| [[CherryHQ-cherry-studio|Cherry Studio]] | 桌面客戶端 | ✅ 10+ | ✅ | ✅ | ✅ Ollama |
+| [[open-webui-open-webui|Open WebUI]] | Web 客戶端 | ✅ 10+ | ✅ RAG | ✅ | ✅ Ollama |
+| [[langgenius-dify|Dify]] | 開發平台 | ✅ 10+ | ✅ Workflow | ✅ | ✅ Ollama |
 | ChatBox | 桌面客戶端 | ✅ 5+ | ❌ | ❌ | ✅ Ollama |
 | Jan | 桌面客戶端 | ✅ 本地 | ❌ | ❌ | ✅ 內建 |
 
+## 相關概念
 ← [[open-webui-open-webui|Open WebUI]] · [[langgenius-dify|Dify]]
 
 ## 來源

@@ -7,7 +7,7 @@ language: zh-TW
 
 # GraphRAG
 
-> Knowledge Graph + RAG 的結合——用圖結構組織實體關係，讓 RAG 檢索不只是向量相似度，還能沿著圖邊走語義關聯路徑。
+> ⭐— · Knowledge Graph + RAG 的結合——用圖結構組織實體關係，讓 RAG 檢索不只是向量相似度，還能沿著圖邊走語義關聯路徑。
 
 ## 快速導航
 

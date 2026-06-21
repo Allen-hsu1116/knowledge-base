@@ -9,14 +9,14 @@ language: zh-TW
 
 # Frontend Design Agent Skills
 
-> 四個專注前端設計品質的 Agent Skill 總覽：從設計哲學（frontend-design）到規範審查（web-design-guidelines），從設計系統建構（design-system-starter）到自動化測試（webapp-testing），涵蓋前端設計的完整生命週期。
+> ⭐— · 四個專注前端設計品質的 Agent Skill 總覽：從設計哲學（frontend-design）到規範審查（web-design-guidelines），從設計系統建構（design-system-starter）到自動化測試（webapp-testing），涵蓋前端設計的完整生命週期。
 
 ## 快速導航
 
-- 🎨 **設計哲學** → [[anthropics-skills\|Anthropic Skills]] — frontend-design Skill
-- 📐 **規範審查** → [[vercel-labs-agent-skills\|Vercel Agent Skills]] — web-design-guidelines Skill
-- 🛠️ **設計系統** → [[softaworks-agent-toolkit\|SoftaWorks Toolkit]] — design-system-starter Skill
-- 🧪 **自動化測試** → [[anthropics-skills\|Anthropic Skills]] — webapp-testing Skill
+- 🎨 **設計哲學** → [[anthropics-skills|Anthropic Skills]] — frontend-design Skill
+- 📐 **規範審查** → [[vercel-labs-agent-skills|Vercel Agent Skills]] — web-design-guidelines Skill
+- 🛠️ **設計系統** → [[softaworks-agent-toolkit|SoftaWorks Toolkit]] — design-system-starter Skill
+- 🧪 **自動化測試** → [[anthropics-skills|Anthropic Skills]] — webapp-testing Skill
 - 🤖 **Agent 生態系** → [[AI-Skills]] · [[agent-skills-ecosystem]]
 - 🖌️ **Figma 整合** → [[Figma-Skills]]
 
@@ -26,10 +26,10 @@ language: zh-TW
 
 | Skill | 來源倉庫 | Stars | 定位 | 核心功能 |
 |-------|----------|-------|------|----------|
-| **frontend-design** | [[anthropics-skills\|Anthropic Skills]] | 147.9k | 設計哲學 | 定義非通用 AI 美學的設計方針，產出令人印象深刻的 UI |
-| **web-design-guidelines** | [[vercel-labs-agent-skills\|Vercel Agent Skills]] | 27.7k | 規範審查 | 審查 UI 程式碼是否符合 Web Interface Guidelines |
-| **design-system-starter** | [[softaworks-agent-toolkit\|SoftaWorks Toolkit]] | 2k | 系統建構 | 從零建立生產級設計系統（Token、元件、主題、文件） |
-| **webapp-testing** | [[anthropics-skills\|Anthropic Skills]] | 147.9k | 自動化測試 | 用 Playwright 測試本地 Web 應用的功能與 UI 行為 |
+| **frontend-design** | [[anthropics-skills|Anthropic Skills]] | 147.9k | 設計哲學 | 定義非通用 AI 美學的設計方針，產出令人印象深刻的 UI |
+| **web-design-guidelines** | [[vercel-labs-agent-skills|Vercel Agent Skills]] | 27.7k | 規範審查 | 審查 UI 程式碼是否符合 Web Interface Guidelines |
+| **design-system-starter** | [[softaworks-agent-toolkit|SoftaWorks Toolkit]] | 2k | 系統建構 | 從零建立生產級設計系統（Token、元件、主題、文件） |
+| **webapp-testing** | [[anthropics-skills|Anthropic Skills]] | 147.9k | 自動化測試 | 用 Playwright 測試本地 Web 應用的功能與 UI 行為 |
 
 ### frontend-design — 設計哲學與實作品質
 
@@ -151,7 +151,7 @@ language: zh-TW
 | 方案 | Stars | 特色 | 與前端設計 Agent Skills 的關係 |
 |------|-------|------|-------------------------------|
 | [[Figma-Skills]] | — | Figma 雙向工作流 | 互補：Figma Skills 處理設計工具整合，前端設計 Skills 處理程式碼品質 |
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | 88.8k | 完整 UI/UX 設計參考 | 互補：UI UX Pro Max 是參考手冊，Agent Skills 是可執行的操作指令 |
+| [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 88.8k | 完整 UI/UX 設計參考 | 互補：UI UX Pro Max 是參考手冊，Agent Skills 是可執行的操作指令 |
 | [[Figma-Skills]] | — | Figma 概念總覽 | 上位概念頁 |
 
 ## 相關概念

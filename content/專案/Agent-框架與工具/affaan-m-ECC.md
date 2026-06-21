@@ -10,7 +10,7 @@ updated: 2026-06-14
 
 # ECC — Agent Harness Performance Optimization System
 
-> The harness-native operator system for agentic work. From an Anthropic hackathon winner.
+> ⭐187193 · The harness-native operator system for agentic work. From an Anthropic hackathon winner.
 
 ECC 是一個完整的 AI coding agent 優化系統，不只是設定檔，而是涵蓋 skills、instincts、memory optimization、continuous learning、security scanning 與 research-first development 的全套方案。經過 10+ 個月高強度日常使用打磨而成。
 
@@ -64,9 +64,9 @@ ECC 的 skills 目錄包含 232+ 個可攜式技能定義，每個都是 markdow
 | 方案 | 定位 | Skills/Agents | 安全掃描 | 持續學習 | Harness 支援 | 授權 |
 |------|------|-------------|----------|---------|-------------|------|
 | **ECC** | Harness 優化系統 | 232+ skills / 60+ agents | ✅ AgentShield | ✅ 自動提取 | 7+ | MIT |
-| [[msitarzewski-agency-agents\|Agency Agents]] | Agent 人格集 | 144+ agents | ❌ | ❌ | 10+ | MIT |
-| [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | 企業角色插件 | 11 plugins | ❌ | ❌ | Claude Cowork/Code | Apache-2.0 |
-| [[Leonxlnx-taste-skill\|Taste Skill]] | 前端風格 skill | 多種風格變體 | ❌ | ❌ | 多工具 | MIT |
+| [[msitarzewski-agency-agents|Agency Agents]] | Agent 人格集 | 144+ agents | ❌ | ❌ | 10+ | MIT |
+| [[anthropics-knowledge-work-plugins|Knowledge Work Plugins]] | 企業角色插件 | 11 plugins | ❌ | ❌ | Claude Cowork/Code | Apache-2.0 |
+| [[Leonxlnx-taste-skill|Taste Skill]] | 前端風格 skill | 多種風格變體 | ❌ | ❌ | 多工具 | MIT |
 
 - ECC 側重 **harness 效能最佳化與安全防禦**，Agency Agents 側重 **豐富角色人格**
 - ECC 的 AgentShield 是 [[prompt-security]] 領域的實際應用——掃描攻擊向量、沙箱化、sanitization、CVE 防禦
@@ -82,4 +82,15 @@ ECC 的 skills 目錄包含 232+ 個可攜式技能定義，每個都是 markdow
 
 ## 來源
 
-- [原始資料](../raw/2026-05-20-affaan-m-ECC.md)
+- GitHub：https://github.com/affaan-m/ECC
+- Raw 檔案：`raw/2026-05-20-affaan-m-ECC.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [affaan-m/ECC](https://github.com/affaan-m/ECC) |
+| Stars | ⭐187193 |
+| License | — |
+| Language | JavaScript |
+| 收錄日期 | 2026-05-20 |

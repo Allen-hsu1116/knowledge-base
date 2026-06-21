@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # Build Your Own X
 
+> ⭐504263
+
 ⭐ 504k · 透過從零重建你喜歡的技術來精通程式設計——「我不能創造的東西，我就不理解。」
 
 ## 一句話
@@ -90,4 +92,15 @@ Build Your Own X 是 GitHub 上最大的「從零手做」教學合集（50 萬�
 
 ## 來源
 
-- [原始資料](../raw/2026-05-25-codecrafters-io-build-your-own-x.md)
+- GitHub：https://github.com/codecrafters-io/build-your-own-x
+- Raw 檔案：`raw/2026-05-25-codecrafters-io-build-your-own-x.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) |
+| Stars | ⭐504263 |
+| License | — |
+| Language | Markdown |
+| 收錄日期 | 2026-05-25 |

@@ -3,13 +3,13 @@ title: Oh My Pi
 slug: can1357-oh-my-pi
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 4,108
 language: zh-TW
 ---
 
 # Oh My Pi
 
-> 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
 
 ## 快速導航
 
@@ -54,14 +54,14 @@ npm run build
 npm start
 
 # 基本互動範例
-> Read the file src/api.ts and add error handling
-> Use the plan subagent to design the new auth module
-> Run diagnostics on the current project
-> Commit these changes with a conventional commit message
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
 
 # 子代理使用
-> Use explore to understand the codebase structure
-> Have reviewer check src/api.ts for issues
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
+> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
 
 # 自訂模型路由（在設定檔中）
 # default: claude-sonnet-4

@@ -10,7 +10,7 @@ updated: 2026-06-14
 
 # microsoft/ai-agents-for-beginners
 
-> 12 Lessons to Get Started Building AI Agents — 微軟出品的 AI Agent 入門課程，從基礎概念到生產部署一手包辦。
+> ⭐62542 · 12 Lessons to Get Started Building AI Agents — 微軟出品的 AI Agent 入門課程，從基礎概念到生產部署一手包辦。
 
 ## 基本資訊
 

@@ -11,7 +11,8 @@ language: Python
 
 > ⭐88 · AI 驅動的 SSDLC 平台，用 LangGraph 編排六個安全 Agent，自動化軟體開發全生命週期的安全評估。
 
-快速導航：[[MCP]] · [[rag|RAG]] · [[pentesting|滲透測試]]
+## 快速導航
+[[MCP]] · [[rag|RAG]] · [[pentesting|滲透測試]]
 
 ## 是什麼
 
@@ -81,11 +82,12 @@ python app/mcp_server.py
 | 方案 | Stars | 類型 | 核心場景 | Agent 數量 |
 |------|-------|------|----------|-----------|
 | **DocSentinel** | ⭐88 | SSDLC 安全平台 | 六階段安全評估自動化 | 6 個階段 Agent |
-| [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | ⭐40k | MCP 工具 | 瀏覽器除錯自動化 | 1 |
-| [[KeygraphHQ-shannon\|Shannon]] | ⭐42.7k | 滲透測試 | 白箱安全測試 | — |
+| [[ChromeDevTools-chrome-devtools-mcp|Chrome DevTools MCP]] | ⭐40k | MCP 工具 | 瀏覽器除錯自動化 | 1 |
+| [[KeygraphHQ-shannon|Shannon]] | ⭐42.7k | 滲透測試 | 白箱安全測試 | — |
 | GitHub Advanced Security | — | SAST/DAST | 程式碼安全掃描 | — |
 | Semgrep | ⭐10k+ | SAST | 靜態分析 | — |
 
+## 相關概念
 ← [[MCP]] · [[rag|RAG]] · [[pentesting|滲透測試]]
 
 ## 來源

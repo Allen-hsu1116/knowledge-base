@@ -96,7 +96,8 @@ export HF_HUB_OFFLINE=1
 
 > [[nesquena-hermes-webui|Hermes WebUI]] 是另一個 Web 介面方案，但專為 Hermes Agent 設計，提供 CLI 完全同位。Open WebUI 是通用 LLM 平台，Hermes WebUI 是專一 Agent 的深度介面。
 
-← [[AI-Agent]] · [[ragflow|RAGFlow]] · [[Ollama]] · [[Milvus]] · [[Chroma]] · [[docling]] · [[nesquena-hermes-webui|Hermes WebUI]]
+## 相關概念
+← [[AI-Agent]] · [[ragflow|RAGFlow]] · [[模型推論與部署|Ollama]] · [[Milvus]] · [[Chroma]] · [[docling]] · [[nesquena-hermes-webui|Hermes WebUI]]
 
 ## 來源
 

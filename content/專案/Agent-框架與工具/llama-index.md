@@ -2,14 +2,14 @@
 title: LlamaIndex
 slug: llama-index
 created: 2026-05-15
-stars: —
+stars: 49,422
 updated: 2026-05-15
 language: zh-TW
 ---
 
 # LlamaIndex
 
-> LLM 資料框架，專注資料攝取、索引和查詢，讓 LLM 輕鬆連接私有資料。49K+ ⭐。
+> ⭐49,422 · LLM 資料框架，專注資料攝取、索引和查詢，讓 LLM 輕鬆連接私有資料。49K+ ⭐。
 
 ## 快速導航
 - 📚 **RAG** → [[rag]]（LlamaIndex 是 RAG 的主流框架之一）
@@ -84,3 +84,11 @@ Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 - **Stars**: ⭐49,422
 - **License**: MIT
 - **收錄日期**: 2026-05-15
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/run-llama/llama_index |
+| **Stars** | ⭐49,422 |
+| **收錄日期** | 2026-05-15 |

@@ -11,7 +11,8 @@ language: Jupyter Notebook
 
 > ⭐17.9k · ML for Algorithmic Trading 第二版配套程式碼，150+ Jupyter Notebook 涵蓋 ML 交易全流程。
 
-快速導航：[[financial-forecasting|金融預測]] · [[TauricResearch-TradingAgents|TradingAgents]] · [[HKUDS-AI-Trader|AI-Trader]] · [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]]
+## 快速導航
+[[financial-forecasting|金融預測]] · [[TauricResearch-TradingAgents|TradingAgents]] · [[HKUDS-AI-Trader|AI-Trader]] · [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]]
 
 ## 是什麼
 
@@ -61,11 +62,12 @@ docker run -it ml4t
 | 方案 | 類型 | 涵蓋範圍 | LLM 整合 | 回測引擎 | 適合場景 |
 |------|------|---------|---------|---------|---------|
 | **ML4T** | 教學 + 程式碼 | ML 全流程 | ❌ 傳統 ML | ✅ Zipline | 系統學習 ML 交易 |
-| [[TauricResearch-TradingAgents\|TradingAgents]] | 框架 | 多 Agent 決策 | ✅ 多 Provider | ✅ 模擬交易所 | LLM 驅動交易決策 |
-| [[HKUDS-AI-Trader\|AI-Trader]] | Agent | 單 Agent | ✅ | 有限 | 輕量交易原型 |
-| [[daily-stock-analysis\|Daily Stock Analysis]] | 工具 | 股市分析 | ✅ | ❌ | 每日自動分析 |
-| [[FareedKhan-dev-train-llm-from-scratch\|Train LLM From Scratch]] | 教學 | LLM 訓練 | N/A | ❌ | 學習 LLM 底層 |
+| [[TauricResearch-TradingAgents|TradingAgents]] | 框架 | 多 Agent 決策 | ✅ 多 Provider | ✅ 模擬交易所 | LLM 驅動交易決策 |
+| [[HKUDS-AI-Trader|AI-Trader]] | Agent | 單 Agent | ✅ | 有限 | 輕量交易原型 |
+| [[daily-stock-analysis|Daily Stock Analysis]] | 工具 | 股市分析 | ✅ | ❌ | 每日自動分析 |
+| [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]] | 教學 | LLM 訓練 | N/A | ❌ | 學習 LLM 底層 |
 
+## 相關概念
 ← [[TauricResearch-TradingAgents|TradingAgents]] · [[financial-forecasting|金融預測]] 相關概念
 
 ## 來源

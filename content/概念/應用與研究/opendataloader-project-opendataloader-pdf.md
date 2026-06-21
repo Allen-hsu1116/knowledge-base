@@ -21,9 +21,9 @@ topics:
 ## 快速導航
 
 - 🤖 [[AI-Agent]] — RAG 是 Agent 的核心能力之一
-- 🔍 [[RAG]] — 檢索增強生成概念
-- 📄 [[pdf-documents]] — PDF 處理工作流
-- 📚 [[llama-index\|LlamaIndex]] — RAG 框架整合
+- 🔍 [[rag|RAG]] — 檢索增強生成概念
+- 📄 [[document-parsing|PDF Documents]] — PDF 處理工作流
+- 📚 [[llama-index|LlamaIndex]] — RAG 框架整合
 
 ## 是什麼
 
@@ -115,7 +115,7 @@ opendataloader_pdf.convert(
 
 ## 相關概念
 
-← [[RAG]] · [[AI-Agent]] · [[pdf-documents]] · [[llama-index\|LlamaIndex]]
+← [[rag|RAG]] · [[AI-Agent]] · [[document-parsing|PDF Documents]] · [[llama-index|LlamaIndex]]
 
 ## 來源
 

@@ -9,7 +9,7 @@ language: zh-TW
 
 # Self-Correction 自我修正
 
-> 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、修改 workflow、修改參數。
+> ⭐— · 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、修改 workflow、修改參數。
 
 ## 快速導航
 

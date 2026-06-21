@@ -9,13 +9,13 @@ language: zh-TW
 
 # Figma Skills
 
-> AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。
+> ⭐— · AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。
 
 ## 快速導航
 
-- 🎨 **Figma 工作流** → [[openai-skills\|OpenAI Skills（4 個 Figma Skill）]]
+- 🎨 **Figma 工作流** → [[openai-skills|OpenAI Skills（4 個 Figma Skill）]]
 - 🖌️ **前端設計** → [[frontend-design]]
-- 🛠️ **設計系統** → [[softaworks-agent-toolkit\|Design System Starter]]
+- 🛠️ **設計系統** → [[softaworks-agent-toolkit|Design System Starter]]
 - 🤖 **Agent Skills** → [[AI-Skills]] · [[agent-skills-ecosystem]]
 
 ## 是什麼
@@ -92,10 +92,10 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 
 | 方案 | Stars | 特色 | 與 Figma Skills 的關係 |
 |------|-------|------|------------------------|
-| [[openai-skills\|OpenAI Skills]] | 21.7k | 完整 Figma Skill 系列 | 原始來源 |
-| [[anthropics-skills\|Anthropic Skills]] | 147.9k | frontend-design Skill | 競爭生態系，無 Figma 專用 Skill |
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | 88.8k | 完整 UI/UX 設計參考 | 互補，UI UX Pro Max 提供設計規範 |
-| [[softaworks-agent-toolkit\|Softaworks Toolkit]] | 2k | design-system-starter | 互補，Design System Starter 用於建立設計系統 |
+| [[openai-skills|OpenAI Skills]] | 21.7k | 完整 Figma Skill 系列 | 原始來源 |
+| [[anthropics-skills|Anthropic Skills]] | 147.9k | frontend-design Skill | 競爭生態系，無 Figma 專用 Skill |
+| [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 88.8k | 完整 UI/UX 設計參考 | 互補，UI UX Pro Max 提供設計規範 |
+| [[softaworks-agent-toolkit|Softaworks Toolkit]] | 2k | design-system-starter | 互補，Design System Starter 用於建立設計系統 |
 | [[frontend-design]] | — | 前端設計概念總覽 | 上位概念 |
 
 ## 相關概念

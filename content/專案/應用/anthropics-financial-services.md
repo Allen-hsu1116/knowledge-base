@@ -3,13 +3,13 @@ title: Anthropic Financial Services
 slug: anthropics-financial-services
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 18,951
 language: zh-TW
 ---
 
 # Anthropic Financial Services
 
-> Anthropic 官方金融服務 Agent 和 Skills 參考庫 — 投資銀行、股權研究、私募股權、財富管理，10 個 Agent + 40+ Skill + 11 個 MCP 連接器，Claude Cowork 插件或 Managed Agent API 雙模式部署。
+> ⭐18,951 · Anthropic 官方金融服務 Agent 和 Skills 參考庫 — 投資銀行、股權研究、私募股權、財富管理，10 個 Agent + 40+ Skill + 11 個 MCP 連接器，Claude Cowork 插件或 Managed Agent API 雙模式部署。
 
 ## 快速導航
 

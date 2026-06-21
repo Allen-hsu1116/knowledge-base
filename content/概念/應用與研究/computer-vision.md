@@ -10,7 +10,7 @@ language: zh-TW
 
 # 電腦視覺
 
-> 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。
+> ⭐25K · 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。
 
 ## 快速導航
 
@@ -110,7 +110,3 @@ for frame in video:
 
 - [supervision 專案文件](../raw/2026-05-15-roboflow-supervision.md)
 - CVPR、ECCV、ICCV 會議論文
-
----
-
-_此頁由 daily-llm-trending 自動維護_

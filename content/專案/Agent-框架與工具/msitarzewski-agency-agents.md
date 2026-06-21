@@ -10,7 +10,7 @@ updated: 2026-06-14
 
 # Agency Agents — A Complete AI Agency at Your Fingertips
 
-> From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+> ⭐101621 · From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 The Agency 是一系列精心打造的 AI agent 人格集合。每個 agent 都有深度領域專長、獨特性格與溝通風格、以及可交付的工作流程與程式碼。
 
@@ -51,8 +51,8 @@ python convert.py --tool cursor --agent frontend-developer
 | 方案 | 定位 | agent 數量 | 工具支援 | 授權 |
 |------|------|-----------|---------|------|
 | **Agency Agents** | 完整 AI Agency 人格集 | 144+ | 10+ 工具 | MIT |
-| [[affaan-m-ECC\|ECC]] | Harness 優化系統 | 60+ | 7+ harness | MIT |
-| [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | 知識工作者角色插件 | 11 | Claude Cowork/Code | Apache-2.0 |
+| [[affaan-m-ECC|ECC]] | Harness 優化系統 | 60+ | 7+ harness | MIT |
+| [[anthropics-knowledge-work-plugins|Knowledge Work Plugins]] | 知識工作者角色插件 | 11 | Claude Cowork/Code | Apache-2.0 |
 | 單一工具內建 agent | 工具附帶角色 | 5-10 | 單一工具 | 各異 |
 
 - Agency Agents 側重**豐富的角色人格與跨工具相容**，[[affaan-m-ECC|ECC]] 側重 **harness 效能優化與運作機制**
@@ -69,4 +69,15 @@ python convert.py --tool cursor --agent frontend-developer
 
 ## 來源
 
-- [原始資料](../raw/2026-05-20-msitarzewski-agency-agents.md)
+- GitHub：https://github.com/msitarzewski/agency-agents
+- Raw 檔案：`raw/2026-05-20-msitarzewski-agency-agents.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) |
+| Stars | ⭐101621 |
+| License | — |
+| Language | Shell |
+| 收錄日期 | 2026-05-20 |

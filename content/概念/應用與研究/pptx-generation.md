@@ -10,7 +10,7 @@ language: zh-TW
 
 # PPTX 生成
 
-> 程式化生成 PowerPoint 簡報檔案，從模板、python-pptx 到 AI 驅動的全自動流程。
+> ⭐— · 程式化生成 PowerPoint 簡報檔案，從模板、python-pptx 到 AI 驅動的全自動流程。
 
 ## 快速導航
 

@@ -11,7 +11,7 @@ updated: 2026-01-23
 
 # Knowledge Work Plugins — Claude 角色專用插件集
 
-> Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+> ⭐15460 · Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 Anthropic 官方開源的知識工作者插件集，為 Claude Cowork 和 Claude Code 提供專業角色技能。11 個插件涵蓋產品、銷售、客服、行銷、法務、財務、數據、生技研究等場景。
 
@@ -55,9 +55,9 @@ cd knowledge-work-plugins
 | 方案 | 定位 | 插件數 | 架構 | MCP 支援 | 授權 |
 |------|------|--------|------|---------|------|
 | **Knowledge Work Plugins** | 知識工作者角色插件 | 11 | Skills+Commands+Connectors | ✅ | Apache-2.0 |
-| [[affaan-m-ECC\|ECC]] | Harness 優化系統 | 60+ agents, 232+ skills | Skills+Instincts+Memory | ⚠️ 部分支援 | MIT |
-| [[msitarzewski-agency-agents\|Agency Agents]] | Agent 人格集 | 144+ agents | 人格+流程+交付物 | ❌ | MIT |
-| [[Leonxlnx-taste-skill\|Taste Skill]] | 前端風格 Skill | 7+ 變體 | 風格參數+設計稿 | ❌ | MIT |
+| [[affaan-m-ECC|ECC]] | Harness 優化系統 | 60+ agents, 232+ skills | Skills+Instincts+Memory | ⚠️ 部分支援 | MIT |
+| [[msitarzewski-agency-agents|Agency Agents]] | Agent 人格集 | 144+ agents | 人格+流程+交付物 | ❌ | MIT |
+| [[Leonxlnx-taste-skill|Taste Skill]] | 前端風格 Skill | 7+ 變體 | 風格參數+設計稿 | ❌ | MIT |
 
 - Knowledge Work Plugins 是 Anthropic **官方出品**的插件方案，與 Claude Cowork 深度整合
 - 每個插件的 Connectors 層使用 [[MCP]] 協議連接外部工具，是 MCP 在企業場景的示範實作
@@ -71,3 +71,11 @@ cd knowledge-work-plugins
 ## 來源
 
 - [原始資料](../raw/2026-05-26-anthropics-knowledge-work-plugins.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/anthropics/knowledge-work-plugins |
+| **Stars** | ⭐15460 |
+| **收錄日期** | 2026-01-23 |

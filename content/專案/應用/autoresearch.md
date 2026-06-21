@@ -3,13 +3,13 @@ title: AutoResearch
 slug: autoresearch
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 81,499
 language: zh-TW
 ---
 
 # AutoResearch
 
-> Karpathy 的自主 AI 研究專案：AI Agent 在單 GPU 上自動跑 LLM 訓練實驗，修改程式碼→訓練 5 分鐘→檢查→保留或丟棄→重複。program.md 就是超輕量 Skill。
+> ⭐81,499 · Karpathy 的自主 AI 研究專案：AI Agent 在單 GPU 上自動跑 LLM 訓練實驗，修改程式碼→訓練 5 分鐘→檢查→保留或丟棄→重複。program.md 就是超輕量 Skill。
 
 ## 快速導航
 

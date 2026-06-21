@@ -15,7 +15,7 @@ topics:
 
 # HarnessX
 
-> 研究論文 · Agent Harness Foundry · 用組合代數和演化引擎打造可適應、可進化的 Agent 運行時
+> ⭐— · 研究論文 · Agent Harness Foundry · 用組合代數和演化引擎打造可適應、可進化的 Agent 運行時
 
 ## 快速導航
 
@@ -69,11 +69,11 @@ Overall            +14.5%          +44.0%
 | 方案 | 類型 | 核心差異 |
 |------|------|----------|
 | **HarnessX** | 論文/框架 | 自動演化 harness，閉合 harness-model 迴圈 |
-| [[affaan-m-ECC\|ECC]] | 開源工具 | Token 優化、harness 工程，但無自動演化 |
-| [[revfactory-harness\|Harness 團隊架構工廠]] | 開源工具 | 團隊級 harness 配置，靜態組合 |
-| [[earendil-works-pi\|Pi Agent Harness]] | 開源工具 | Agent runtime，聚焦 Skill 載入 |
+| [[affaan-m-ECC|ECC]] | 開源工具 | Token 優化、harness 工程，但無自動演化 |
+| [[revfactory-harness|Harness 團隊架構工廠]] | 開源工具 | 團隊級 harness 配置，靜態組合 |
+| [[earendil-works-pi|Pi Agent Harness]] | 開源工具 | Agent runtime，聚焦 Skill 載入 |
 | DSPy | 開源框架 | 程式化 prompt 優化，可視為 harness 演化的簡化版 |
-| [[microsoft-SkillOpt\|SkillOpt]] | 開源工具 | Prompt/Skill 優化，單維度 |
+| [[microsoft-SkillOpt|SkillOpt]] | 開源工具 | Prompt/Skill 優化，單維度 |
 
 **關鍵洞見**：HarnessX 證明了 Agent 進步不只能靠模型 scaling，**組合和演化運行時介面**同樣是可操作的互補槓桿。
 

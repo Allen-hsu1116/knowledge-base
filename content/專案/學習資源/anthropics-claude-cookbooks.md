@@ -11,7 +11,8 @@ language: Jupyter Notebook
 
 > ⭐44k · Anthropic 官方的 Claude 實戰食譜集，用 Jupyter Notebook 提供可複製的程式碼片段
 
-快速導航：[[Prompt-Engineering]] · [[rag|RAG]] · [[AI-Agent]] · [[LLM]]
+## 快速導航
+[[Prompt-Engineering]] · [[rag|RAG]] · [[AI-Agent]] · [[LLM]]
 
 ## 是什麼
 
@@ -54,10 +55,11 @@ jupyter notebook
 | 方案 | Stars | 類型 | Tool Use | 多模態 | 子代理 | 官方 |
 |------|-------|------|---------|--------|--------|------|
 | **Claude Cookbooks** | ⭐44k | 實戰範例集 | ✅ | ✅ | ✅ | ✅ Anthropic |
-| [[hardikpandya-stop-slop\|Stop Slop]] | ⭐5.7k | Claude Skill | ❌ | ❌ | ❌ | ❌ |
+| [[hardikpandya-stop-slop|Stop Slop]] | ⭐5.7k | Claude Skill | ❌ | ❌ | ❌ | ❌ |
 | OpenAI Cookbooks | ⭐60k+ | 實戰範例集 | ✅ | ✅ | ✅ | ✅ OpenAI |
 | LangChain Docs | — | 框架文件 | ✅ | ✅ | ✅ | ❌ |
 
+## 相關概念
 ← [[Prompt-Engineering]] · [[rag|RAG]] · [[AI-Agent]] · [[LLM]]
 
 ## 來源

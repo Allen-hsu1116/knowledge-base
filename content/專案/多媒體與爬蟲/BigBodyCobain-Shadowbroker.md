@@ -3,13 +3,13 @@ title: BigBodyCobain Shadowbroker
 slug: BigBodyCobain-Shadowbroker
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 7,555
 language: zh-TW
 ---
 
 # BigBodyCobain Shadowbroker
 
-> 開源即時地理空間情報平台，整合 60+ 情報源到單一互動地圖，支援 AI Agent 共同分析。7.5K ⭐。
+> ⭐7,555 · 開源即時地理空間情報平台，整合 60+ 情報源到單一互動地圖，支援 AI Agent 共同分析。7.5K ⭐。
 
 ## 快速導航
 - 🛠 **沙盒環境** → [[sandbox]]（開放式安全研究環境）
@@ -84,3 +84,11 @@ helm install shadowbroker ./helm/chart --create-namespace --namespace shadowbrok
 - **Stars**: ⭐7,555
 - **License**: MIT
 - **收錄日期**: 2026-05-19
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/bigbodycobain/Shadowbroker.git |
+| **Stars** | ⭐7,555 |
+| **收錄日期** | 2026-05-10 |

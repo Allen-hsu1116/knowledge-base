@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # Pi Agent Harness
 
+> ⭐53931
+
 ⭐ 54k · AI agent 工具包：coding agent CLI、統一 LLM API、TUI 和 Web UI 元件庫、Slack bot、vLLM pods 一次到位。
 
 ## 一句話
@@ -105,4 +107,15 @@ Pi 不只是一個 coding agent——它把 agent 開發的每層都做成了獨
 
 ## 來源
 
-- [原始資料](../raw/2026-05-25-earendil-works-pi.md)
+- GitHub：https://github.com/earendil-works/pi
+- Raw 檔案：`raw/2026-05-25-earendil-works-pi.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [earendil-works/pi](https://github.com/earendil-works/pi) |
+| Stars | ⭐53931 |
+| License | — |
+| Language | TypeScript |
+| 收錄日期 | 2026-05-25 |

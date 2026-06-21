@@ -3,13 +3,13 @@ title: nn-zero-to-hero
 slug: nn-zero-to-hero
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 22,343
 language: zh-TW
 ---
 
 # nn-zero-to-hero
 
-> Andrej Karpathy 的神經網路教學系列，從 micrograd 到 GPT，一步步從零建構
+> ⭐22,343 · Andrej Karpathy 的神經網路教學系列，從 micrograd 到 GPT，一步步從零建構
 
 ## 快速導航
 - 🧠 **LLM 底層技術** → [[LLM]]（Transformer 和 Tokenizer 是 LLM 核心）
@@ -61,7 +61,7 @@ jupyter notebook
 | 資源 | 風格 | 深度 | 語言 |
 |------|------|------|------|
 | **nn-zero-to-hero** | 影片+notebook，手作 | 從 backprop 到 GPT | Python |
-| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
+| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | 書+程式碼 | 從數學到完整 LLM | Python |
 | [[andrej-karpathy-ai-how]] | 影片 | AI 入門概覽 | 多語言 |
 | [[minimind]] | 程式碼為主 | 極簡 LLM 實作 | Python |
 
@@ -79,3 +79,11 @@ jupyter notebook
 - **Stars**: ⭐22,343
 - **License**: MIT
 - **收錄日期**: 2026-05-23
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/karpathy/nn-zero-to-hero.git |
+| **Stars** | ⭐22,343 |
+| **收錄日期** | 2026-05-10 |

@@ -3,13 +3,13 @@ title: NVlabs Sana
 slug: NVlabs-Sana
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 6361
 language: zh-TW
 ---
 
 # NVlabs Sana
 
-> NVIDIA/MIT 打造的高效擴散模型系列，支援 4K 影像到影片生成，比同級模型快 100 倍
+> ⭐6361 · NVIDIA/MIT 打造的高效擴散模型系列，支援 4K 影像到影片生成，比同級模型快 100 倍
 
 ## 快速導航
 - 🛠 **模型推論與部署** → [[模型推論與部署]]（高效推論架構設計）
@@ -100,3 +100,11 @@ Docker 快速部署（SGLang 服務）詳見 https://nvlabs.github.io/Sana/docs/
 - **Stars**: ⭐6361
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-19
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/NVlabs/Sana.git |
+| **Stars** | ⭐6361 |
+| **收錄日期** | 2026-05-10 |

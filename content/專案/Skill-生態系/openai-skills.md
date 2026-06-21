@@ -230,10 +230,10 @@ Skills 會自動根據觸發條件載入，不需要手動指定。
 
 | 專案 | Stars | 特色 | 與 OpenAI Skills 的關係 |
 |------|-------|------|--------------------------|
-| [[anthropics-skills\|Anthropic Skills]] | 147.9k | frontend-design Skill | 競爭生態系，不同 Skill 格式 |
-| [[vercel-labs-agent-skills\|Vercel Skills]] | 27.7k | web-design-guidelines | 互補，Vercel 專注 Web 審查 |
+| [[anthropics-skills|Anthropic Skills]] | 147.9k | frontend-design Skill | 競爭生態系，不同 Skill 格式 |
+| [[vercel-labs-agent-skills|Vercel Skills]] | 27.7k | web-design-guidelines | 互補，Vercel 專注 Web 審查 |
 | [[Figma-Skills]] | — | 概念頁 | OpenAI Figma Skills 的概念總覽 |
-| [[softaworks-agent-toolkit\|Softaworks Toolkit]] | 2k | design-system-starter | 互補，Softaworks 專注設計系統建構 |
+| [[softaworks-agent-toolkit|Softaworks Toolkit]] | 2k | design-system-starter | 互補，Softaworks 專注設計系統建構 |
 
 ## 相關概念
 

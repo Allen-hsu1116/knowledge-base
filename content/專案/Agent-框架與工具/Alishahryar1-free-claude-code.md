@@ -10,7 +10,7 @@ updated: 2026-06-14
 
 # Free Claude Code — 免費使用 Claude Code 的代理伺服器
 
-> Use Claude Code for free in the terminal, VSCode extension or Discord, with voice support.
+> ⭐26376 · Use Claude Code for free in the terminal, VSCode extension or Discord, with voice support.
 
 Free Claude Code 是一個 Anthropic API 流量代理，將 Claude Code 的請求路由到 NVIDIA NIM、Kimi、Wafer、OpenRouter、DeepSeek、LM Studio、llama.cpp、Ollama 等替代 provider，讓你可以選擇免費、付費或本地模型。
 
@@ -76,4 +76,15 @@ fcc-claude
 
 ## 來源
 
-- [原始資料](../raw/2026-05-20-Alishahryar1-free-claude-code.md)
+- GitHub：https://github.com/Alishahryar1/free-claude-code
+- Raw 檔案：`raw/2026-05-20-Alishahryar1-free-claude-code.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) |
+| Stars | ⭐26376 |
+| License | — |
+| Language | Python |
+| 收錄日期 | 2026-05-20 |

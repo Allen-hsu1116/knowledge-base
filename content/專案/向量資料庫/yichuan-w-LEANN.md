@@ -11,7 +11,8 @@ language: Python
 
 > ⭐11.8k · 低儲存向量索引，97% 空間節省，本地隱私 RAG
 
-快速導航：[[rag|RAG]] · [[向量資料庫]] · [[Chroma]] · [[AI-Agent]] · [[mempalace|MemPalace]]
+## 快速導航
+[[rag|RAG]] · [[向量資料庫]] · [[Chroma]] · [[AI-Agent]] · [[mempalace|MemPalace]]
 
 ## 是什麼
 
@@ -61,7 +62,7 @@ claude mcp add --scope user leann-server -- leann_mcp
 | **LEANN** | ⭐11.8k | 97% | ✅ | ✅ | 圖形重算、極小索引 |
 | [[Chroma]] | ⭐27.9k | — | ✅ | ✅ | 嵌入式向量 DB |
 | [[ragflow]] | ⭐79.7k | — | ✅ | ❌ | 完整 RAG 引擎 |
-| [[qmd\|QMD]] | ⭐24.9k | — | ✅ | ✅ | 本地搜尋 |
+| [[qmd|QMD]] | ⭐24.9k | — | ✅ | ✅ | 本地搜尋 |
 | [[cocoindex]] | ⭐8.1k | — | ✅ | ❌ | 增量索引 |
 
 ## 相關概念

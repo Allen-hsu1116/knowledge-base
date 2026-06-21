@@ -12,7 +12,8 @@ topics: [agent-skills, ai-agents, claude, claude-code, codex, cursor, gemini-cli
 
 > ⭐64.6k · 1000+ 生產就緒的 Claude Skills 策展列表，涵蓋文件處理、開發工具、資料分析、商業行銷等場景。
 
-快速導航：[[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
+## 快速導航
+[[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
 
 ## 是什麼
 
@@ -54,12 +55,13 @@ claude --plugin-dir ./connect-apps-plugin
 
 | 方案 | 類型 | Skills 數 | 多 Agent | 應用連接 |
 |------|------|-----------|----------|----------|
-| [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | 策展列表 | 1000+ | ✅ 6+ Agent | ✅ 500+ Apps |
-| [[anthropics-skills\|Anthropic Skills]] | 官方 Skill 庫 | ~20 | ✅ Claude only | ❌ |
-| [[NVIDIA-SkillSpector\|SkillSpector]] | 安全掃描 | N/A | ✅ | ❌ |
-| [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | MCP 策展 | N/A | ✅ MCP | ✅ |
-| [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | 單一 Skill | 1 | ✅ | ❌ |
+| [[ComposioHQ-awesome-claude-skills|Awesome Claude Skills]] | 策展列表 | 1000+ | ✅ 6+ Agent | ✅ 500+ Apps |
+| [[anthropics-skills|Anthropic Skills]] | 官方 Skill 庫 | ~20 | ✅ Claude only | ❌ |
+| [[NVIDIA-SkillSpector|SkillSpector]] | 安全掃描 | N/A | ✅ | ❌ |
+| [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]] | MCP 策展 | N/A | ✅ MCP | ✅ |
+| [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 單一 Skill | 1 | ✅ | ❌ |
 
+## 相關概念
 ← [[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[NVIDIA-SkillSpector|SkillSpector]]
 
 ## 來源

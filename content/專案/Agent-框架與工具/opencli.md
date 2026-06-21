@@ -9,7 +9,7 @@ language: zh-TW
 
 # OpenCLI
 
-> 詳見 [[jackwener-OpenCLI]]
+> ⭐— · 詳見 [[jackwener-OpenCLI]]
 
 ## 快速導航
 
@@ -83,5 +83,16 @@ Skills 讓 AI Agent 可以透過已登入的瀏覽器 session 操作網站。
 
 ## 來源
 
-- [原始資料](../raw/2026-05-05-opencli.md)
+- GitHub：https://github.com/jackwener/OpenCLI
+- Raw 檔案：`raw/2026-05-05-opencli.md`
 - 詳見 [[jackwener-OpenCLI]]
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) |
+| Stars | ⭐— |
+| License | MIT |
+| Language | Node.js |
+| 收錄日期 | 2026-05-05 |

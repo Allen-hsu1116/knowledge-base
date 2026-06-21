@@ -7,7 +7,7 @@ language: zh-TW
 
 # Coding Agent 工具包
 
-> 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。
+> ⭐— · 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。
 
 ## 核心內容
 

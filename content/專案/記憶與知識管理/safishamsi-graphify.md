@@ -3,13 +3,13 @@ title: graphify
 slug: safishamsi-graphify
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 41,860
 language: zh-TW
 ---
 
 # graphify
 
-> Claude Code skill — 把任何資料夾轉成知識圖譜，支援程式碼、PDF、圖片等多模態輸入，號稱比直接讀原始檔案減少 71.5x token 消耗。
+> ⭐41,860 · Claude Code skill — 把任何資料夾轉成知識圖譜，支援程式碼、PDF、圖片等多模態輸入，號稱比直接讀原始檔案減少 71.5x token 消耗。
 
 ## 快速導航
 
@@ -83,3 +83,11 @@ graphify 是 [[Knowledge-Graph]] 的工具化實作，可啟動 [[MCP]] stdio se
 - **Stars**: ⭐41,860
 - **License**: MIT
 - **收錄日期**: 2026-05-04
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/safishamsi/graphify |
+| **Stars** | ⭐41,860 |
+| **收錄日期** | 2026-05-10 |

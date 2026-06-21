@@ -3,13 +3,13 @@ title: MarkItDown
 slug: microsoft-markitdown
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 120,637
 language: zh-TW
 ---
 
 # MarkItDown
 
-> 微軟開源的文件轉 Markdown 工具 — 把 PDF、Office、圖片、音訊等任何格式轉成 LLM 能讀的 Markdown。
+> ⭐120,637 · 微軟開源的文件轉 Markdown 工具 — 把 PDF、Office、圖片、音訊等任何格式轉成 LLM 能讀的 Markdown。
 
 ## 快速導航
 
@@ -50,7 +50,7 @@ print(result.text_content)
 | **MarkItDown** | 輕量文件→Markdown | PDF/Office/圖片/音訊 | MCP Server |
 | **[[docling]]** | 完整文件解析框架 | PDF/DOCX/PPTX/HTML/圖片 | Docling Pipeline |
 | **[[pymupdf4llm]]** | PDF→LLM 友善格式（版面感知） | PDF 為主 | LlamaIndex + LangChain |
-| **[[datalab-to-chandra\|Chandra]]** | 高精確度 OCR | 表格/表單/手寫 | Python API |
+| **[[datalab-to-chandra|Chandra]]** | 高精確度 OCR | 表格/表單/手寫 | Python API |
 
 MarkItDown 勝在輕量和格式廣度，適合簡單轉換場景；docling 功能更完整，適合複雜 RAG pipeline；PyMuPDF4LLM 對 PDF 版面還原最深入；Chandra 專攻 OCR 精確度，特別是表格和手寫。
 
@@ -85,3 +85,11 @@ MarkItDown 勝在輕量和格式廣度，適合簡單轉換場景；docling 功�
 - **Stars**: ⭐120,637
 - **License**: MIT
 - **收錄日期**: 2026-05-05
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/microsoft/markitdown |
+| **Stars** | ⭐120,637 |
+| **收錄日期** | 2026-05-10 |

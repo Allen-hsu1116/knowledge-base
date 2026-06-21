@@ -62,7 +62,7 @@ cli-hub install blender
 | 專案 | 定位 | 自動生成 CLI | 社群 Hub | Agent 預覽 | 開源 |
 |------|------|-------------|---------|-----------|------|
 | **CLI-Anything** | 軟體 Agent 原生化 | ✅ | ✅ CLI-Hub | ✅ | ✅ Apache 2.0 |
-| [[opencli\|OpenCLI]] | 開放 CLI 標準 | ❌ | ❌ | ❌ | ✅ |
+| [[opencli|OpenCLI]] | 開放 CLI 標準 | ❌ | ❌ | ❌ | ✅ |
 | MCP Servers | Agent 協議 | ❌ | ✅ 部分 | ❌ | 各異 |
 | Browser Use | 網頁操控 | N/A | N/A | ✅ 截圖 | ✅ |
 

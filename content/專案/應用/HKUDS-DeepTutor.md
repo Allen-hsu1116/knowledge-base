@@ -3,13 +3,13 @@ title: DeepTutor
 slug: HKUDS-DeepTutor
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 23,109
 language: zh-TW
 ---
 
 # DeepTutor
 
-> Agent-Native 個人化 AI 家教，結合 RAG、知識圖譜和 LLM agent。支援互動式學習、多文件協作、自動出題，並有 TutorBot 自主家教功能。
+> ⭐23,109 · Agent-Native 個人化 AI 家教，結合 RAG、知識圖譜和 LLM agent。支援互動式學習、多文件協作、自動出題，並有 TutorBot 自主家教功能。
 
 ## 快速導航
 
@@ -70,7 +70,7 @@ Embedding Provider：NVIDIA NIM、Gemini、OpenAI、Volcengine — 自動發現 
 | [[HKUDS-Vibe-Trading]] | AI 交易 Agent | 同為 HKUDS 出品，Vibe-Trading 做交易，DeepTutor 做教育 |
 | 一般 AI 家教 | 單次問答 | DeepTutor 側重封閉教學迴路和個人化，不只是問答 |
 | Khan Academy AI | 線上教育 AI | DeepTutor 是開源可自架，Khan Academy 是封閉平台 |
-| [[Ollama]] | 本地 LLM | DeepTutor 支援 Ollama 作為本地 LLM Provider |
+| [[模型推論與部署|Ollama]] | 本地 LLM | DeepTutor 支援 Ollama 作為本地 LLM Provider |
 
 DeepTutor 是 [[AI-Tutoring]] 的完整實作，使用 [[LLM]] 的文件抽取 + RAG 增強家教。TutorBot 是 [[AI-Agent]] 的自主 agent 層。技術棧為 Python 3.11+ 後端 + Next.js 16 前端，支援 Docker 部署，文件格式支援 PDF、DOCX、XLSX、PPTX。
 
@@ -88,3 +88,11 @@ DeepTutor 是 [[AI-Tutoring]] 的完整實作，使用 [[LLM]] 的文件抽取 +
 - **Stars**: ⭐23,109
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-04
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/HKUDS/DeepTutor.git |
+| **Stars** | ⭐23,109 |
+| **收錄日期** | 2026-05-10 |

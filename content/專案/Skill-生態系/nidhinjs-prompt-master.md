@@ -3,13 +3,13 @@ title: Prompt Master
 slug: nidhinjs-prompt-master
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 7,257
 language: zh-TW
 ---
 
 # Prompt Master
 
-> Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
+> ⭐7,257 · Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
 
 ## 快速導航
 
@@ -47,13 +47,13 @@ Prompt Master 的核心是意圖提取 + 框架路由：
 # 複製 SKILL.md 到 .claude/skills/ 目錄
 
 # 基本使用 — 告訴 Prompt Master 你想做什麼
-> I need a prompt for Midjourney to generate a cyberpunk cityscape
+> ⭐7,257 · Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
 # → 自動偵測 Midjourney，提取意圖，產出精確提示
 
-> Write a prompt for ChatGPT to analyze my sales data
+> ⭐7,257 · Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
 # → 偵測 ChatGPT，提取 9 維度意圖，問最多 3 個澄清問題
 
-> Generate a Copilot prompt to add authentication to my Express app
+> ⭐7,257 · Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
 # → 偵測 GitHub Copilot，用 inline comment 風格框架
 
 # 澄清問題範例（最多 3 個）

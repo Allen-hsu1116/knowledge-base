@@ -11,7 +11,7 @@ updated: 2026-06-07
 
 # Taste Skill — 反樣板 AI 前端框架
 
-> The Anti-Slop Frontend Framework for AI Agents — gives your AI good taste, stops generating boring, generic slop
+> ⭐36016 · The Anti-Slop Frontend Framework for AI Agents — gives your AI good taste, stops generating boring, generic slop
 
 Taste Skill 是一系列可攜式的 Agent Skill，讓 AI 生成的前端不再千篇一律，而是有更好的排版、字體、動畫和間距。同時也提供圖像生成 Skill（網頁、手機、品牌套件），可搭配 ChatGPT Images 或圖像生成工具先產出設計稿，再交給 Codex、Cursor、Claude Code 實作。
 
@@ -72,3 +72,11 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 ## 來源
 
 - [原始資料](../raw/2026-06-07-Leonxlnx-taste-skill.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/Leonxlnx/taste-skill |
+| **Stars** | ⭐36016 |
+| **收錄日期** | 2026-02-19 |

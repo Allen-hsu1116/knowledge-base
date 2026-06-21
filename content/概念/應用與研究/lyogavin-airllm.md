@@ -11,7 +11,9 @@ language: Jupyter Notebook
 
 > ⭐18.9k · Jupyter Notebook · Apache-2.0 · 70B inference with single 4GB GPU — 用分層推理讓筆電也能跑 70B 模型
 
-**快速導航**：[[模型推論與部署|模型推論與部署]] · [[vLLM|vLLM]] · [[llama-cpp|llama.cpp]] · [[Ollama|Ollama]]
+## 快速導航
+
+[[模型推論與部署|模型推論與部署]] · [[vLLM|vLLM]] · [[llama-cpp|llama.cpp]] · [[Ollama|Ollama]]
 
 ## 是什麼
 
@@ -92,13 +94,14 @@ pip install airllm
 | 方案 | 4GB 跑 70B | 品質損失 | 速度 | 複雜度 | 備註 |
 |------|-----------|---------|------|--------|------|
 | **AirLLM** | ✅ | 無（分層載入） | 慢於全載入 | 低 | 分層推理，不改權重 |
-| [[llama-cpp\|llama.cpp]] | 需 GGUF 4bit 量化 | 有（量化） | 中 | 中 | CPU/GPU 混合，需先轉檔 |
-| [[vLLM\|vLLM]] | ❌（需多卡） | 無 | 快 | 高 | PagedAttention，生產級 |
-| [[Ollama\|Ollama]] | 需量化模型 | 有（量化） | 中 | 低 | 一鍵部署，基於 llama.cpp |
-| [[ds4\|DS4]] | 需量化 | 有（量化） | 中 | 中 | DeepSeek 加速，量化方案 |
+| [[llama-cpp|llama.cpp]] | 需 GGUF 4bit 量化 | 有（量化） | 中 | 中 | CPU/GPU 混合，需先轉檔 |
+| [[vLLM|vLLM]] | ❌（需多卡） | 無 | 快 | 高 | PagedAttention，生產級 |
+| [[Ollama|Ollama]] | 需量化模型 | 有（量化） | 中 | 低 | 一鍵部署，基於 llama.cpp |
+| [[ds4|DS4]] | 需量化 | 有（量化） | 中 | 中 | DeepSeek 加速，量化方案 |
 
 AirLLM 的定位是**消費級硬體跑大模型**的獨特入口。跟 [[llama-cpp|llama.cpp]] 的量化路線不同，它用分層推理保留原模型精度，代價是推理速度較慢（每 token 要多次載入權重）。如果目標是生產級高吞吐，[[vLLM|vLLM]] 更合適；如果只是想在筆電上「跑得動」大模型且不想損失精度，AirLLM 是最直接的方案。
 
+## 相關概念
 ← [[llama-cpp|llama.cpp]] · [[vLLM|vLLM]] · [[模型推論與部署|模型推論與部署]] → 相關概念
 
 ## 來源

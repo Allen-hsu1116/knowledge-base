@@ -9,7 +9,7 @@ language: zh-TW
 
 # Gemma 4 MTP Drafters
 
-> Google 為 Gemma 4 推出的多 Token 預測投機模型，用投機解碼讓本地端推理速度最高提升 3 倍，零品質損失。
+> ⭐— · Google 為 Gemma 4 推出的多 Token 預測投機模型，用投機解碼讓本地端推理速度最高提升 3 倍，零品質損失。
 
 ## 快速導航
 

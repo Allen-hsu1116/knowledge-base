@@ -9,7 +9,7 @@ language: zh-TW
 
 # 資料視覺化 (Visualization)
 
-> 將數據轉為圖形表示的技術，幫助人類理解趨勢、模式和異常值。在 AI 時代，視覺化從「人看圖表」進化為「AI 生成圖表」和「知識圖譜互動式探索」。
+> ⭐— · 將數據轉為圖形表示的技術，幫助人類理解趨勢、模式和異常值。在 AI 時代，視覺化從「人看圖表」進化為「AI 生成圖表」和「知識圖譜互動式探索」。
 
 ## 快速導航
 
@@ -59,9 +59,9 @@ language: zh-TW
 
 | 場景 | 推薦工具 | 說明 |
 |------|----------|------|
-| 知識圖譜 | [[safishamsi-graphify\|Graphify]] | 一行指令建知識圖譜，輸出互動式 HTML |
-| 技術關係 | [[fireworks-tech-graph\|Fireworks Tech Graph]] | 開源技術圖譜視覺化 |
-| 股市分析 | [[ZhuLinsen-daily_stock_analysis\|Daily Stock Analysis]] | 即時股票資料面板 |
+| 知識圖譜 | [[safishamsi-graphify|Graphify]] | 一行指令建知識圖譜，輸出互動式 HTML |
+| 技術關係 | [[fireworks-tech-graph|Fireworks Tech Graph]] | 開源技術圖譜視覺化 |
+| 股市分析 | [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] | 即時股票資料面板 |
 | 快速探索 | Matplotlib / Seaborn | Python 資料視覺化基礎套件 |
 | 互動式圖表 | D3.js / Plotly | 網頁互動式視覺化 |
 | 儀表盤 | Dash / Streamlit | Python 儀表盤框架 |
@@ -111,9 +111,9 @@ language: zh-TW
 
 | 專案 | 特色 |
 |------|------|
-| [[safishamsi-graphify\|Graphify]] | 知識圖譜視覺化 |
-| [[fireworks-tech-graph\|Fireworks Tech Graph]] | 技術關係圖 |
-| [[ZhuLinsen-daily_stock_analysis\|Daily Stock Analysis]] | 即時股市資料面板 |
+| [[safishamsi-graphify|Graphify]] | 知識圖譜視覺化 |
+| [[fireworks-tech-graph|Fireworks Tech Graph]] | 技術關係圖 |
+| [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] | 即時股市資料面板 |
 
 ## 相關概念
 

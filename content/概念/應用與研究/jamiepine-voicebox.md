@@ -12,7 +12,8 @@ topics: [ai, cuda, whisper, mlx, voice-ai, voice-clone, qwen3-tts]
 
 > ⭐31k · 開源 AI 語音工作室——語音克隆、TTS、聽寫、MCP Agent 語音輸出，本地優先一站式搞定。
 
-快速導航：[[OpenBMB-VoxCPM|VoxCPM]] · [[microsoft-VibeVoice|VibeVoice]] · [[MCP]] · [[Open-LLM-VTuber-Open-LLM-VTuber|Open-LLM-VTuber]]
+## 快速導航
+[[OpenBMB-VoxCPM|VoxCPM]] · [[microsoft-VibeVoice|VibeVoice]] · [[MCP]] · [[Open-LLM-VTuber-Open-LLM-VTuber|Open-LLM-VTuber]]
 
 ## 是什麼
 
@@ -71,10 +72,10 @@ curl -X POST http://127.0.0.1:17493/transcribe \
 
 | 方案 | 核心定位 | 語音克隆 | 聽寫 | MCP | 本地優先 | TTS 引擎數 |
 |------|----------|----------|------|-----|----------|-----------|
-| [[jamiepine-voicebox\|Voicebox]] | AI 語音工作室 | ✅ | ✅ | ✅ | ✅ | 7 |
-| [[OpenBMB-VoxCPM\|VoxCPM]] | 多語言 TTS | ✅ | — | — | ✅ | 1 |
-| [[microsoft-VibeVoice\|VibeVoice]] | 語音 AI 家族 | — | ✅ | — | — | 多 |
-| [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | AI 陪伴 VTuber | — | ✅ | — | ✅ | — |
+| [[jamiepine-voicebox|Voicebox]] | AI 語音工作室 | ✅ | ✅ | ✅ | ✅ | 7 |
+| [[OpenBMB-VoxCPM|VoxCPM]] | 多語言 TTS | ✅ | — | — | ✅ | 1 |
+| [[microsoft-VibeVoice|VibeVoice]] | 語音 AI 家族 | — | ✅ | — | — | 多 |
+| [[Open-LLM-VTuber-Open-LLM-VTuber|Open-LLM-VTuber]] | AI 陪伴 VTuber | — | ✅ | — | ✅ | — |
 
 與 [[OpenBMB-VoxCPM|VoxCPM]] 互補：VoxCPM 聚焦無 tokenizer 的多語言 TTS 模型，Voicebox 則是完整的語音 I/O 工作室，把 TTS、STT、聽寫、Agent 語音輸出整合在一起。與 [[microsoft-VibeVoice|VibeVoice]] 的關係在於兩者都涵蓋 ASR + TTS，但 Voicebox 是本地優先的桌面應用，VibeVoice 是微軟的語音 AI 模型家族。與 [[Open-LLM-VTuber-Open-LLM-VTuber|Open-LLM-VTuber]] 類似在於都是本地語音互動，但 Voicebox 聚焦語音 I/O 工作流，VTuber 聚焦虛擬角色陪伴。
 

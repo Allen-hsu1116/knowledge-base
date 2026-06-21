@@ -11,7 +11,8 @@ language: JavaScript
 
 > ⭐5.3k · 精心策展的免費軟體清單，涵蓋 PC 和行動平台數十大類
 
-快速導航：[[open-source-business|開源商業模式]] · [[free-software|自由軟體]] · [[self-hosted|自架服務]] · [[productivity|生產力]]
+## 快速導航
+[[open-source-business|開源商業模式]] · [[free-software|自由軟體]] · [[self-hosted|自架服務]] · [[productivity|生產力]]
 
 ## 是什麼
 
@@ -48,9 +49,10 @@ cd awesome-free-apps
 | 方案 | Stars | 類型 | 跨平台 | 開源標記 | 行動版 |
 |------|-------|------|--------|---------|--------|
 | **Awesome Free Apps** | ⭐5.3k | 策展清單 | ✅ | ✅ 🟢 | ✅ |
-| [[trimstray-the-book-of-secret-knowledge\|Book of Secret Knowledge]] | ⭐150k+ | 策展清單 | ✅ | ✅ | ❌ |
+| [[trimstray-the-book-of-secret-knowledge|Book of Secret Knowledge]] | ⭐150k+ | 策展清單 | ✅ | ✅ | ❌ |
 | Awesome 系列 (各主題) | — | 策展清單 | ✅ | ✅ | ❌ |
 
+## 相關概念
 ← [[open-source-business|開源商業模式]] · [[free-software|自由軟體]] · [[self-hosted|自架服務]] · [[productivity|生產力]]
 
 ## 來源

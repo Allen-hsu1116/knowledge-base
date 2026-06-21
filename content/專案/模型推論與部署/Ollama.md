@@ -3,13 +3,13 @@ title: Ollama
 slug: Ollama
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 171,080
 language: zh-TW
 ---
 
 # Ollama
 
-> 本地一鍵運行大型語言模型，支援 Llama、Gemma、DeepSeek 等數百種開源模型。171K ⭐。
+> ⭐171,080 · 本地一鍵運行大型語言模型，支援 Llama、Gemma、DeepSeek 等數百種開源模型。171K ⭐。
 
 ## 快速導航
 - 🧠 **LLM** → [[LLM]]（Ollama 讓 LLM 本地部署變簡單）
@@ -90,3 +90,11 @@ ollama run my-assistant
 - **Stars**: ⭐171,080
 - **License**: MIT
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/ollama/ollama |
+| **Stars** | ⭐171,080 |
+| **收錄日期** | 2026-05-10 |

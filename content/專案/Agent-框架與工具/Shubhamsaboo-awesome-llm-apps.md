@@ -60,7 +60,7 @@ python ai_news_agent.py
 | **Awesome LLM Apps** | 模板集合 | 100+ | ✅ | 多供應商 | ✅ Apache 2.0 |
 | LangChain Templates | 模板集合 | ~50 | ✅ | LangChain 生態 | ✅ MIT |
 | LlamaIndex Starter | 框架 + 範例 | ~30 | 部分 | 多供應商 | ✅ MIT |
-| [[self-hosted-AI-platform\|Self-Hosted AI]] | 自架平台 | N/A | N/A | 自選 | ✅ |
+| [[self-hosted-AI-platform|Self-Hosted AI]] | 自架平台 | N/A | N/A | 自選 | ✅ |
 
 ## 相關概念
 

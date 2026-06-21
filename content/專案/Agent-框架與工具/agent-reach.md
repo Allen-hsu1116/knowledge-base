@@ -10,7 +10,7 @@ language: zh-TW
 
 # Agent Reach
 
-> 詳見 [[Panniantong-Agent-Reach]]
+> ⭐18,700 · 詳見 [[Panniantong-Agent-Reach]]
 
 ## 快速導航
 
@@ -76,5 +76,15 @@ agent-reach install --dry-run
 
 ## 來源
 
-- [原始資料](../raw/2026-05-05-agent-reach.md)
-- GitHub: https://github.com/Panniantong/Agent-Reach
+- GitHub：https://github.com/Panniantong/Agent-Reach
+- Raw 檔案：`raw/2026-05-05-agent-reach.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
+| Stars | ⭐18,700 |
+| License | — |
+| Language | zh-TW |
+| 收錄日期 | 2026-05-05 |

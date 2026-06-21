@@ -9,7 +9,7 @@ language: zh-TW
 
 # addyosmani/agent-skills
 
-> Addy Osmani 維護的通用 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。⭐37.9k
+> ⭐37.9k · Addy Osmani 維護的通用 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。⭐37.9k
 
 ## 快速導航
 

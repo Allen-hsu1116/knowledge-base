@@ -12,7 +12,8 @@ topics: [agent-skills, ai-agents, claude, claude-code, prompt-engineering, yagni
 
 > ⭐36.8k · 讓 AI Agent 像最懶的資深工程師一樣思考——最好的程式碼是你從沒寫過的程式碼。
 
-快速導航：[[AI-Skills|AI Skills]] · [[affaan-m-ECC|ECC]] · [[Token-Optimization|Token Optimization]] · [[JuliusBrussee-caveman|Caveman]]
+## 快速導航
+[[AI-Skills|AI Skills]] · [[affaan-m-ECC|ECC]] · [[Token-Optimization|Token Optimization]] · [[JuliusBrussee-caveman|Caveman]]
 
 ## 是什麼
 
@@ -62,11 +63,11 @@ export PONYTAIL_DEFAULT_MODE=full  # lite/full/ultra/off
 
 | 方案 | 核心理念 | LOC 減少 | 安全保持 | 支援 Agent 數 | 安裝方式 |
 |------|----------|----------|----------|---------------|----------|
-| [[DietrichGebert-ponytail\|Ponytail]] | 六階梯 + 安全不妥協 | -54% | 100% | 14 | Plugin/Rules |
-| [[JuliusBrussee-caveman\|Caveman]] | 精簡文字風格 | -20% | 100% | — | Skill |
+| [[DietrichGebert-ponytail|Ponytail]] | 六階梯 + 安全不妥協 | -54% | 100% | 14 | Plugin/Rules |
+| [[JuliusBrussee-caveman|Caveman]] | 精簡文字風格 | -20% | 100% | — | Skill |
 | "YAGNI + one-liners" prompt | 直接要求少寫 | -33% | 95% | — | 手動 |
-| [[affaan-m-ECC\|ECC]] | Context 壓縮 | — | — | — | Skill |
-| [[hardikpandya-stop-slop\|stop-slop]] | 寫作品質 | — | — | — | Skill |
+| [[affaan-m-ECC|ECC]] | Context 壓縮 | — | — | — | Skill |
+| [[hardikpandya-stop-slop|stop-slop]] | 寫作品質 | — | — | — | Skill |
 
 Ponytail 和 [[JuliusBrussee-caveman|Caveman]] 互補：Caveman 控制文字風格，Ponytail 控制程式碼生成邏輯。與 [[Token-Optimization|Token Optimization]] 概念相關，但更聚焦於程式碼品質而非單純壓縮。
 

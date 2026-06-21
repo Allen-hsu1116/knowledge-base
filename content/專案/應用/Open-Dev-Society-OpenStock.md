@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐12.1k · 開源股市追蹤平台，Bloomberg Terminal 的免費替代方案
 
-快速導航：[[financial-forecasting|金融預測]] · [[open-source-business|開源商業模式]] · [[stock-tracking|股票追蹤]] · [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]]
+## 快速導航
+[[financial-forecasting|金融預測]] · [[open-source-business|開源商業模式]] · [[stock-tracking|股票追蹤]] · [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]]
 
 ## 是什麼
 
@@ -52,10 +53,11 @@ npm run dev
 | 方案 | Stars | 類型 | 即時數據 | 開源 | 警報系統 |
 |------|-------|------|---------|------|---------|
 | **OpenStock** | ⭐12.1k | 股市平台 | ✅ | ✅ | ✅ |
-| [[ZhuLinsen-daily_stock_analysis\|Daily Stock Analysis]] | ⭐38.1k | AI 股市分析 | ✅ | ✅ | ✅ |
+| [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] | ⭐38.1k | AI 股市分析 | ✅ | ✅ | ✅ |
 | Bloomberg Terminal | — | 金融終端 | ✅ | ❌ | ✅ |
 | TradingView | — | 圖表平台 | ✅ | ❌ | ✅ |
 
+## 相關概念
 ← [[financial-forecasting|金融預測]] · [[open-source-business|開源商業模式]] · [[stock-tracking|股票追蹤]] · [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]]
 
 ## 來源

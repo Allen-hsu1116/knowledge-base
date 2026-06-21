@@ -11,7 +11,8 @@ language: Python
 
 > ⭐6.4k · AI Agent 的上下文壓縮層，60-95% token 節省、可逆還原、支援 Library/Proxy/MCP 三種模式
 
-快速導航：[[Token-Optimization]] · [[MCP]] ·[[rtk|RTK]] · [[Context-Database]]
+## 快速導航
+[[Token-Optimization]] · [[MCP]] ·[[rtk|RTK]] · [[Context-Database]]
 
 ## 是什麼
 
@@ -58,11 +59,12 @@ Docker 也可用：`docker pull ghcr.io/chopratejas/headroom:latest`
 | 方案 | Stars | 壓縮範圍 | 離線 | 可逆 | 部署方式 |
 |------|-------|----------|------|------|----------|
 | **Headroom** | ⭐6.4k | 所有上下文（tool/RAG/log/歷史） | ✅ | ✅ | Library + Proxy + MCP |
-| [[rtk\|RTK]] | ⭐40k | CLI 輸出 | ✅ | ❌ | CLI wrapper |
-| [[JuliusBrussee-caveman\|Caveman]] | ⭐52.5k | Prompt 壓縮 | ✅ | ❌ | CLI |
-| [[AlexsJones-llmfit\|llmfit]] | ⭐25.4k | Token 最佳化 | ✅ | ❌ | Library |
+| [[rtk|RTK]] | ⭐40k | CLI 輸出 | ✅ | ❌ | CLI wrapper |
+| [[JuliusBrussee-caveman|Caveman]] | ⭐52.5k | Prompt 壓縮 | ✅ | ❌ | CLI |
+| [[AlexsJones-llmfit|llmfit]] | ⭐25.4k | Token 最佳化 | ✅ | ❌ | Library |
 | OpenAI Compaction | — | 對話歷史 | ❌ | ❌ | Provider-native |
 
+## 相關概念
 ← [[Token-Optimization]] · [[MCP]] · [[rtk]]
 
 ## 來源

@@ -9,7 +9,7 @@ language: zh-TW
 
 # AI Agent 之間的互動
 
-> 探討多 Agent 協作拓撲、對抗博弈（狼人殺/劇本殺）、以及 AI 社交平台 Mobook 的真實與幻象（詳細參考頁）
+> ⭐— · 探討多 Agent 協作拓撲、對抗博弈（狼人殺/劇本殺）、以及 AI 社交平台 Mobook 的真實與幻象（詳細參考頁）
 
 ## 快速導航
 - 🧠 **Agent 協作拓撲** → [[AI-Agent]]（Mesh > Chain，不同任務需要不同拓撲）

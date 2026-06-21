@@ -12,7 +12,8 @@ topics: [ai, mcp, rss, news, trending-topics, data-analysis, docker, llm]
 
 > ⭐59.4k · AI 驅動輿情監控與趨勢篩選工具，聚合多平台熱點 + RSS，支援 MCP 架構和 10+ 推送管道。
 
-快速導航：[[MCP|MCP 協議]] · [[web-scraping|網頁爬取]] · [[mvanhorn-last30days-skill|last30days]]
+## 快速導航
+[[MCP|MCP 協議]] · [[web-scraping|網頁爬取]] · [[mvanhorn-last30days-skill|last30days]]
 
 ## 是什麼
 
@@ -71,12 +72,13 @@ python app.py
 
 | 方案 | 類型 | 熱點覆蓋 | AI 分析 | MCP |
 |------|------|----------|---------|------|
-| [[sansan0-TrendRadar\|TrendRadar]] | 輿情監控 | 20+ 平台 + RSS | ✅ 篩選/翻譯/摘要 | ✅ |
-| [[mvanhorn-last30days-skill\|last30days]] | 社群搜尋 | 14 平台 | ✅ 評分/聚簇 | ✅ |
-| [[D4Vinci-Scrapling\|Scrapling]] | 爬蟲框架 | 自訂 | ❌ | ❌ |
-| [[firecrawl-firecrawl\|Firecrawl]] | 爬蟲 API | 自訂 | ✅ LLM-ready | ✅ |
+| [[sansan0-TrendRadar|TrendRadar]] | 輿情監控 | 20+ 平台 + RSS | ✅ 篩選/翻譯/摘要 | ✅ |
+| [[mvanhorn-last30days-skill|last30days]] | 社群搜尋 | 14 平台 | ✅ 評分/聚簇 | ✅ |
+| [[D4Vinci-Scrapling|Scrapling]] | 爬蟲框架 | 自訂 | ❌ | ❌ |
+| [[firecrawl-firecrawl|Firecrawl]] | 爬蟲 API | 自訂 | ✅ LLM-ready | ✅ |
 | Feedly / Inoreader | RSS 閱讀器 | RSS only | 部分付費 | ❌ |
 
+## 相關概念
 ← [[MCP|MCP 協議]] · [[web-scraping|網頁爬取]]
 
 ## 來源

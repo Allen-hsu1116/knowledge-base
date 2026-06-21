@@ -106,7 +106,7 @@ updated: 2026-06-21
 | [[hichunk\|HiChunk]] | ⭐96 | RAG, 文件分塊, 階層式結構化 | 2026-05-13 |
 | [[pdfcraft\|PDFCraft]] | ⭐5,771 | 文件解析, PDF, 隱私優先 | 2026-05-13 |
 | [[self-rag\|Self-RAG]] | ⭐2,377 | RAG, 自我反思, 研究 | 2026-05-11 |
-| [[thedotmack-claude-mem\|claude-mem]] | ⭐73,800 | 記憶, Claude Code, MCP | 2026-05-09 |
+| [[thedotmack-claude-mem\|claude-mem]] | ⭐83,416 | 記憶, Claude Code, MCP | 2026-05-09 |
 | [[run-llama-ParseBench]] | ⭐468 | 文件解析, AI Agent, 評測基準 | 2026-05-09 |
 | [[LeDat98-NexusRAG]] | ⭐297 | RAG, Knowledge Graph, 文件解析 | 2026-05-09 |
 | [[aiptimizer-TurboOCR]] | ⭐264 | OCR, 文件解析, GPU 加速 | 2026-05-09 |
@@ -134,7 +134,7 @@ updated: 2026-06-21
 | [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |
 | [[llama-cpp\|llama.cpp]] | ⭐109,260 | LLM, 推論加速, 本地部署 | 2026-05-10 |
 | [[sgl-project-sglang\|SGLang]] | ⭐27,589 | LLM, 推論加速, 多模態 | 2026-05-10 |
-| [[Ollama]] | ⭐171,080 | LLM, 本地部署 | 2026-05-10 |
+| [[Ollama\|Ollama]] | ⭐171,080 | LLM, 本地部署 | 2026-05-10 |
 | [[vLLM]] | ⭐79,515 | LLM, 推論加速 | 2026-05-10 |
 | [[NVIDIA-TensorRT-LLM]] | ⭐13,598 | LLM, 推論加速, GPU 最佳化 | 2026-05-10 |
 
@@ -154,13 +154,13 @@ updated: 2026-06-21
 | [[jamiepine-voicebox\|Voicebox]] | ⭐31k | AI 語音工作室, 7 TTS 引擎, 語音克隆, 聽寫, MCP, Whisper STT | 2026-06-21 |
 | [[opendataloader-project-opendataloader-pdf\|opendataloader-pdf]] | ⭐25.5k | PDF Parsing, RAG, Document Extraction, PDF/UA, OCR | 2026-06-20 |
 | [[Lightricks-LTX-2\|LTX-2]] | ⭐7.7k | DiT 音影片生成, 22B, 10 種管線, LoRA 訓練, ComfyUI | 2026-06-20 |
+| [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐31k | TTS, Tokenizer-Free, Voice Design, 語音克隆, 30 語言, 48kHz, Diffusion AR | 2026-06-20 |
 | [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |
 | [[firecrawl-firecrawl\|Firecrawl]] | ⭐131k | 網頁爬蟲 API, LLM-ready, MCP, Agent | 2026-06-12 |
 | [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS | 2026-06-07 |
 | [[NVIDIA-cosmos\|NVIDIA Cosmos]] | ⭐9.4k | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
 | [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8.4k | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐56,631 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
-| [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐31k | TTS, Tokenizer-Free, Voice Design, 語音克隆, 30 語言, 48kHz, Diffusion AR | 2026-06-20 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6,064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
 | [[opentoonz-opentoonz\|OpenToonz]] | ⭐6,347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
@@ -266,6 +266,7 @@ updated: 2026-06-21
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[gsap-ai-skills\|GSAP AI Skills]] | —（文章/概念） | AI Skills, Frontend, Animation, GSAP, Web Design, Design Taste | 2026-06-20 |
+| [[Understand-Anything\|Understand Anything]] | ⭐64.3k | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
 | [[DietrichGebert-ponytail\|Ponytail]] | ⭐36.8k | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
 | [[penpot-penpot\|Penpot]] | ⭐50k | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64.6k | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |
@@ -283,7 +284,6 @@ updated: 2026-06-21
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5,700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15,460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |
-| [[Understand-Anything\|Understand Anything]] | ⭐64.3k | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
 | [[mattpocock-skills\|Matt Pocock Skills]] | ⭐89,433 | AI Skills, 工程實踐, 對齊, 架構 | 2026-05-18 |
 | [[Kappaemme-git-codex-complexity-optimizer\|Codex Complexity Optimizer]] | ⭐648 | AI Skills, 演算法複雜度, 效能優化 | 2026-05-18 |
 | [[colbymchenry-codegraph\|CodeGraph]] | ⭐2,530 | 程式碼智慧, Knowledge Graph, MCP | 2026-05-17 |

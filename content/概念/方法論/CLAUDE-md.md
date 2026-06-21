@@ -8,7 +8,7 @@ language: zh-TW
 
 # CLAUDE.md
 
-> Claude Code 的行為設定檔，放在專案根目錄，用自然語言告訴 Claude 該怎麼做、不該怎麼做。
+> ⭐— · Claude Code 的行為設定檔，放在專案根目錄，用自然語言告訴 Claude 該怎麼做、不該怎麼做。
 
 ## 快速導航
 |

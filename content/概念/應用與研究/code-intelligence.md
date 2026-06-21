@@ -9,7 +9,7 @@ language: zh-TW
 
 # 程式碼智慧
 
-> 利用靜態分析、語意理解和知識圖譜等技術，讓工具和 AI 代理更深入地理解程式碼結構、符號關係和呼叫鏈。
+> ⭐— · 利用靜態分析、語意理解和知識圖譜等技術，讓工具和 AI 代理更深入地理解程式碼結構、符號關係和呼叫鏈。
 
 ## 快速導航
 
@@ -68,6 +68,7 @@ language: zh-TW
 - [[colbymchenry-codegraph|CodeGraph]] — Claude Code 的語意程式碼知識圖譜 MCP server，92% 更少工具呼叫
 - [[KeygraphHQ-shannon|Shannon]] — 白箱 AI 滲透測試，使用 Code Property Graph 進行程式碼分析
 
+## 相關概念
 ← [[Coding-Agent-CLI]] · [[Knowledge-Graph]] · [[MCP]] · [[AI-Agent]]
 
 ## 來源

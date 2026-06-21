@@ -12,7 +12,8 @@ topics: [cli, ai, jetbrains, vscode, gemini, vscode-extension, claude, ai-coding
 
 > ⭐23.4k · 開源 AI 編碼 Agent——VS Code、JetBrains、CLI 三棲，500+ 模型零加價，MCP 市場整合。
 
-快速導航：[[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]] · [[MCP]] · [[OpenHands-OpenHands|OpenHands]]
+## 快速導航
+[[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]] · [[MCP]] · [[OpenHands-OpenHands|OpenHands]]
 
 ## 是什麼
 
@@ -64,10 +65,10 @@ kilo run --auto "run tests and fix any failures"
 
 | 方案 | 核心定位 | IDE 支援 | CLI | MCP | 自主模式 | 模型數 |
 |------|----------|----------|-----|-----|----------|--------|
-| [[Kilo-Org-kilocode\|Kilo Code]] | 開源 AI 編碼 Agent | VS Code + JetBrains | ✅ | ✅ Marketplace | ✅ | 500+ |
-| [[anthropics-claude-code\|Claude Code]] | 終端機 AI 編碼助手 | — | ✅ | ✅ | — | Anthropic |
-| [[anomalyco-opencode\|OpenCode]] | 開源 Coding Agent CLI | — | ✅ | ✅ | — | 多 |
-| [[OpenHands-OpenHands\|OpenHands]] | Coding Agent 控制中心 | Web | ✅ | ✅ ACP | ✅ | 多 |
+| [[Kilo-Org-kilocode|Kilo Code]] | 開源 AI 編碼 Agent | VS Code + JetBrains | ✅ | ✅ Marketplace | ✅ | 500+ |
+| [[anthropics-claude-code|Claude Code]] | 終端機 AI 編碼助手 | — | ✅ | ✅ | — | Anthropic |
+| [[anomalyco-opencode|OpenCode]] | 開源 Coding Agent CLI | — | ✅ | ✅ | — | 多 |
+| [[OpenHands-OpenHands|OpenHands]] | Coding Agent 控制中心 | Web | ✅ | ✅ ACP | ✅ | 多 |
 
 與 [[anthropics-claude-code|Claude Code]] 的關係：Claude Code 是 Anthropic 官方終端機 AI 編碼助手，Kilo Code 則是開源替代品，支援 VS Code + JetBrains + CLI 三棲，且支援 500+ 模型不限 Anthropic。與 [[anomalyco-opencode|OpenCode]] 類似在於都是開源 Coding Agent，但 Kilo Code 有 IDE 插件和 MCP Marketplace。與 [[OpenHands-OpenHands|OpenHands]] 類似在於都支援自主模式，但 Kilo Code 更聚焦在 IDE 內的開發體驗。
 

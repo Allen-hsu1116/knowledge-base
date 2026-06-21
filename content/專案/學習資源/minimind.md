@@ -3,13 +3,13 @@ title: MiniMind
 slug: minimind
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 49,797
 language: zh-TW
 ---
 
 # MiniMind
 
-> 從零開始訓練 64M 參數的小型 LLM，單卡 3090 兩小時即可復現，完整覆蓋 Pretrain → SFT → RLHF 全流程。
+> ⭐49,797 · 從零開始訓練 64M 參數的小型 LLM，單卡 3090 兩小時即可復現，完整覆蓋 Pretrain → SFT → RLHF 全流程。
 
 ## 快速導航
 - 🧠 **LLM 底層技術** → [[llm-internals]]（了解 Transformer 推論加速）
@@ -62,9 +62,9 @@ cd scripts && streamlit run web_demo.py
 | 專案 | 定位 | 參數量 | 特色 |
 |------|------|--------|------|
 | **MiniMind** | 教學導向，從零訓練 | 64M (Dense) / 198M (MoE) | 完整鏈路、純 PyTorch、極低成本 |
-| [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | 教學導向，書籍+程式碼 | 各種規模 | 理論完整、適合深度學習 |
-| [[huggingface-transformers\|Hugging Face Transformers]] | 生產框架 | 任意 | 高層封裝、生態最豐富 |
-| [[llama-cpp\|llama.cpp]] | 推論引擎 | 任意 | C++ 實現、本地部署首選 |
+| [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | 教學導向，書籍+程式碼 | 各種規模 | 理論完整、適合深度學習 |
+| [[huggingface-transformers|Hugging Face Transformers]] | 生產框架 | 任意 | 高層封裝、生態最豐富 |
+| [[llama-cpp|llama.cpp]] | 推論引擎 | 任意 | C++ 實現、本地部署首選 |
 
 MiniMind 和 LLMs from Scratch 都主打「從零理解 LLM」，但 MiniMind 更強調「完整訓練流程的實際操作」，而 LLMs from Scratch 更偏理論教學。MiniMind 也兼容 Hugging Face Transformers 格式，可以無縫接軌到主流生態。
 
@@ -80,3 +80,11 @@ MiniMind 和 LLMs from Scratch 都主打「從零理解 LLM」，但 MiniMind �
 - **Stars**: ⭐49,797
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-14
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/jingyaogong/minimind |
+| **Stars** | ⭐49,797 |
+| **收錄日期** | 2026-05-10 |

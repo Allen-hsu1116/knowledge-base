@@ -9,7 +9,7 @@ language: zh-TW
 
 # Spec Kit
 
-> GitHub 官方推出的規格驅動開發工具組。先規格、再實作，避免 vibe coding。⭐98K+
+> ⭐98 · GitHub 官方推出的規格驅動開發工具組。先規格、再實作，避免 vibe coding。⭐98K+
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（Spec Kit 是 AI coding agent 的工作流程框架）
@@ -79,3 +79,11 @@ specify init . --integration copilot
 - **Stars**: ⭐98,382
 - **License**: MIT
 - **收錄日期**: 2026-05-14
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/github/spec-kit.git |
+| **Stars** | ⭐'⭐98' |
+| **收錄日期** | 2026-05-14 |

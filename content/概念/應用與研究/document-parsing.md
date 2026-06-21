@@ -3,13 +3,13 @@ title: 文件解析（Document Parsing）
 slug: document-parsing
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 59k
 language: zh-TW
 ---
 
 # 文件解析（Document Parsing）
 
-> 將 PDF、DOCX、圖片等非結構化文件轉為結構化資料，讓 AI Agent 能可靠理解與使用。文件解析是 RAG 和知識庫管線的關鍵第一步。
+> ⭐59k · 將 PDF、DOCX、圖片等非結構化文件轉為結構化資料，讓 AI Agent 能可靠理解與使用。文件解析是 RAG 和知識庫管線的關鍵第一步。
 
 ## 快速導航
 
@@ -119,3 +119,10 @@ print(result.text_content)
 ---
 
 _此頁由 daily-llm-trending 自動維護_
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **Stars** | ⭐59k |
+| **收錄日期** | 2026-05-10 |

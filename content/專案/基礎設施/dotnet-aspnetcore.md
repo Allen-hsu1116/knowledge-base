@@ -12,7 +12,8 @@ topics: [aspnetcore, dotnet, web-framework, cross-platform, cloud-native]
 
 > ⭐38.1k · 微軟開源跨平台 Web 框架，模組化設計，最小化開銷，支援雲端和本地部署。
 
-快速導航：[[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[krahets-hello-algo|Hello 算法]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
+## 快速導航
+[[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[krahets-hello-algo|Hello 算法]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
 
 ## 是什麼
 
@@ -66,7 +67,7 @@ docker run -p 8080:8080 myapp
 
 | 方案 | 語言 | Stars | 跨平台 | 模組化 | 授權 | 維護方 |
 |------|------|-------|--------|--------|------|--------|
-| [[dotnet-aspnetcore\|ASP.NET Core]] | C# | ⭐38.1k | ✅ | ✅ | MIT | 微軟 |
+| [[dotnet-aspnetcore|ASP.NET Core]] | C# | ⭐38.1k | ✅ | ✅ | MIT | 微軟 |
 | Express.js | JavaScript | ⭐65k+ | ✅ | ✅ | MIT | 社群 |
 | Spring Boot | Java | ⭐76k+ | ✅ | ✅ | Apache-2.0 | VMware |
 | Django | Python | ⭐80k+ | ✅ | — | BSD | 社群 |

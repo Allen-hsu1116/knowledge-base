@@ -8,7 +8,7 @@ language: zh-TW
 
 # 模擬
 
-> 用多 Agent 社會演化模擬來推演未來事件——從種子資訊自動建構高保真數位世界，動態注入變數觀察蝴蝶效應。
+> ⭐— · 用多 Agent 社會演化模擬來推演未來事件——從種子資訊自動建構高保真數位世界，動態注入變數觀察蝴蝶效應。
 
 ## 快速導航
 
@@ -87,7 +87,3 @@ npm run dev
 
 - [MiroFish 專案文件](../raw/2026-05-25-666ghj-MiroFish.md)
 - [144 Personas Agent 模擬](../raw/2026-04-28-agency-agents-144-personas.md)
-
----
-
-_此頁由 daily-llm-trending 自動維護_

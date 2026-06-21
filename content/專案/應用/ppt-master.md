@@ -11,7 +11,7 @@ language: zh-TW
 
 # PPT Master
 
-> AI 生成原可編輯 PPTX，從任何文件（PDF/DOCX/URL/Markdown）生成真正的 PowerPoint。⭐ 11.3k
+> ⭐11.3k · AI 生成原可編輯 PPTX，從任何文件（PDF/DOCX/URL/Markdown）生成真正的 PowerPoint。⭐ 11.3k
 
 ## 快速導航
 - ⚡ [[AI-presentation]] · [[generative-AI]] · [[MCP]]
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## 跟其他方案的關係
 
-| 特色 | PPT Master | [[presenton-presenton\|Presenton]] | Gamma | Beautiful AI |
+| 特色 | PPT Master | [[presenton-presenton|Presenton]] | Gamma | Beautiful AI |
 |------|-----------|----------------------------------|-------|-------------|
 | 輸出格式 | 原生 PPTX（DrawingML） | PPTX + Web | Web 為主 | Web 為主 |
 | 可編輯性 | ✅ 完全可編輯 | ✅ 可編輯 | ⚠️ 有限 | ⚠️ 有限 |
@@ -74,7 +74,16 @@ PPT Master 和 [[presenton-presenton|Presenton]] 是唯二的開源 AI 簡報方
 ← [[AI-presentation]] · [[generative-AI]] · [[MCP]] · [[pptx-generation]]
 
 ## 來源
-- [原始資料](../raw/2026-05-05-ppt-master.md)
-- **GitHub**: https://github.com/hugohe3/ppt-master
-- **Stars**: ⭐11,300
-- **License**: MIT
+
+- GitHub：https://github.com/hugohe3/ppt-master
+- Raw 檔案：`raw/2026-05-05-ppt-master.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) |
+| Stars | ⭐11.3k |
+| License | MIT |
+| Language | zh-TW |
+| 收錄日期 | 2026-05-05 |

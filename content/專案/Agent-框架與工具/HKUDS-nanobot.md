@@ -3,13 +3,13 @@ title: nanobot
 slug: HKUDS-nanobot
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 41,527
 language: zh-TW
 ---
 
 # nanobot
 
-> 超輕量開源 AI Agent — 精神繼承 OpenClaw / Claude Code / Codex。保持核心 agent loop 小而可讀，支援多頻道、記憶系統、MCP、實用部署路徑。Python ≥3.11，最低開銷。
+> ⭐41,527 · 超輕量開源 AI Agent — 精神繼承 OpenClaw / Claude Code / Codex。保持核心 agent loop 小而可讀，支援多頻道、記憶系統、MCP、實用部署路徑。Python ≥3.11，最低開銷。
 
 ## 快速導航
 
@@ -88,3 +88,11 @@ nanobot 支援 [[MCP]] 工具整合，記憶系統可參考 [[Context-Database]]
 - **Stars**: ⭐41,527
 - **License**: MIT
 - **收錄日期**: 2026-05-03
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/HKUDS/nanobot |
+| **Stars** | ⭐41,527 |
+| **收錄日期** | 2026-05-10 |

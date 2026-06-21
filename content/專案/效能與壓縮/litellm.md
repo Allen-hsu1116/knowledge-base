@@ -3,13 +3,13 @@ title: LiteLLM
 slug: litellm
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 20k
 language: zh-TW
 ---
 
 # LiteLLM
 
-> 開源 AI Gateway，用 OpenAI 格式統一呼叫 100+ LLM Provider，8ms P95 latency，自架、企業就緒。（詳細參考頁）
+> ⭐20k · 開源 AI Gateway，用 OpenAI 格式統一呼叫 100+ LLM Provider，8ms P95 latency，自架、企業就緒。（詳細參考頁）
 
 ## 快速導航
 
@@ -82,9 +82,9 @@ model_list:
 | [[project-golem]] | Golem 支援 Gemini/Ollama/LM Studio，LiteLLM 可以作為統一 API 層 |
 | [[hermes-agent]] | Hermes 用 OpenRouter，LiteLLM 是更底層的 Gateway |
 | [[AI-Agent]] | 多模型切換是 Agent 工作流的基礎設施需求 |
-| [[Ollama]] | LiteLLM 可統一管理 Ollama 本地模型和雲端 API |
+| [[模型推論與部署|Ollama]] | LiteLLM 可統一管理 Ollama 本地模型和雲端 API |
 | [[vLLM]] | LiteLLM 可作為 vLLM 前面的 API Gateway，做負載均衡和金鑰管理 |
-| [[sgl-project-sglang\|SGLang]] | LiteLLM 也可作為 SGLang 前面的統一 API 層 |
+| [[sgl-project-sglang|SGLang]] | LiteLLM 也可作為 SGLang 前面的統一 API 層 |
 | [[NVIDIA-TensorRT-LLM]] | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
 
 ## 相關概念
@@ -96,3 +96,11 @@ model_list:
 ---
 
 GitHub: [BerriAI/litellm](https://github.com/BerriAI/litellm) · Stars: ⭐20k+ · License: MIT · 收錄日期: 2026-05-03
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/BerriAI/litellm |
+| **Stars** | ⭐20k |
+| **收錄日期** | 2026-05-10 |

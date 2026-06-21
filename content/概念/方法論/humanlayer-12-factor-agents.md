@@ -9,7 +9,7 @@ language: zh-TW
 
 # 12-Factor Agents
 
-> Principles for building reliable LLM-powered software — the agent equivalent of 12 Factor Apps
+> ⭐20,278 · Principles for building reliable LLM-powered software — the agent equivalent of 12 Factor Apps
 
 **Repo:** <https://github.com/humanlayer/12-factor-agents>
 **Stars:** ⭐ 20,278
@@ -102,3 +102,10 @@ language: zh-TW
 ## 來源
 
 - [原始資料](../raw/2026-05-18-humanlayer-12-factor-agents.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/humanlayer/12-factor-agents |
+| **收錄日期** | 2025-03-30 |

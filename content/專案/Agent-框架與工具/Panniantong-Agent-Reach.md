@@ -3,13 +3,13 @@ title: Agent Reach
 slug: Panniantong-Agent-Reach
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 18,700
 language: zh-TW
 ---
 
 # Agent Reach
 
-> AI Agent 的網路能力腳手架 — 一鍵裝上 15+ 平台的存取能力，不改框架，只做安裝設定。
+> ⭐18,700 · AI Agent 的網路能力腳手架 — 一鍵裝上 15+ 平台的存取能力，不改框架，只做安裝設定。
 
 ## 快速導航
 
@@ -79,3 +79,11 @@ Agent Reach 解決的是「Agent 能力邊界」問題。跟 [[jackwener-OpenCLI
 - **Stars**: ⭐18,700
 - **License**: MIT
 - **收錄日期**: 2026-05-05
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/Panniantong/Agent-Reach |
+| **Stars** | ⭐18,700 |
+| **收錄日期** | 2026-05-10 |

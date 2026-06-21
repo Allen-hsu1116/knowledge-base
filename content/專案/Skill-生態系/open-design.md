@@ -3,13 +3,13 @@ title: Open Design
 slug: open-design
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 30,632
 language: zh-TW
 ---
 
 # Open Design
 
-> 開源版 Claude Design — 本地優先、BYOK、skill-driven 的 AI 設計工具，讓你既有的 coding agent CLI 變成設計引擎。
+> ⭐30,632 · 開源版 Claude Design — 本地優先、BYOK、skill-driven 的 AI 設計工具，讓你既有的 coding agent CLI 變成設計引擎。
 
 ## 快速導航
 - 🛠 **AI Skills** → [[AI-Skills]]（OD 的 31 個 Skills 遵循 SKILL.md 格式）
@@ -84,3 +84,11 @@ OD 站在四個開源專案的肩膀上：
 - **Stars**: ⭐30,632
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-07
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/nexu-io/open-design |
+| **Stars** | ⭐30,632 |
+| **收錄日期** | 2026-05-10 |

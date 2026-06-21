@@ -9,7 +9,7 @@ language: zh-TW
 
 # fireworks-tech-graph
 
-> 用自然語言描述系統，秒級生成出版品質的 SVG + PNG 技術圖表。7 種視覺風格、14 種 UML 圖類型、AI/Agent 領域圖表模式。⭐5.7K
+> ⭐5.7 · 用自然語言描述系統，秒級生成出版品質的 SVG + PNG 技術圖表。7 種視覺風格、14 種 UML 圖類型、AI/Agent 領域圖表模式。⭐5.7K
 
 ## 快速導航
 - ⚡ **Prompt 工程** → [[Prompt-Engineering]]（自然語言描述生成圖表的 prompt 工程）
@@ -82,3 +82,11 @@ Generate a Mem0 architecture diagram, output to ~/Desktop/
 - **Stars**: ⭐5,741
 - **License**: MIT
 - **收錄日期**: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/yizhiyanhua-ai/fireworks-tech-graph |
+| **Stars** | ⭐'⭐5.7' |
+| **收錄日期** | 2026-05-09 |

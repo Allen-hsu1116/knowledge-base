@@ -12,7 +12,8 @@ topics: [api-client, graphql, rest, grpc, websockets, open-source, electron-app]
 
 > ⭐38.7k · 開源跨平台 API client，支援 GraphQL、REST、WebSockets、SSE、gRPC，本地/Git/雲端三種儲存。
 
-快速導航：[[self-hosted|自架]] · [[n8n-io-n8n|n8n]] · [[open-source-business|開源商業模式]]
+## 快速導航
+[[self-hosted|自架]] · [[n8n-io-n8n|n8n]] · [[open-source-business|開源商業模式]]
 
 ## 是什麼
 
@@ -60,7 +61,7 @@ npm run inso-start
 
 | 方案 | 類型 | Stars | 開源 | 多協議 | 自架儲存 | 授權 |
 |------|------|-------|------|--------|----------|------|
-| [[Kong-insomnia\|Insomnia]] | API Client | ⭐38.7k | ✅ | ✅ 5+ | ✅ Local/Git | Apache-2.0 |
+| [[Kong-insomnia|Insomnia]] | API Client | ⭐38.7k | ✅ | ✅ 5+ | ✅ Local/Git | Apache-2.0 |
 | Postman | API Client | — | ❌ | ✅ | ❌ | 商業 |
 | Bruno | API Client | — | ✅ | ✅ | ✅ Git | MIT |
 | Hoppscotch | API Client | — | ✅ | ✅ | ✅ | MIT |

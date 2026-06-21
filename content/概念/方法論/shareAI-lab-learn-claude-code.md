@@ -12,7 +12,8 @@ topics: [agent, agent-development, ai-agent, claude, claude-code, educational, l
 
 > ⭐66.7k · Bash is all you need——從零打造類似 Claude Code 的 Agent Harness，理解 Agent 的本質
 
-快速導航：[[affaan-m-ECC|ECC]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
+## 快速導航
+[[affaan-m-ECC|ECC]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
 
 ## 是什麼
 
@@ -59,12 +60,13 @@ python full_harness.py
 
 | 方案 | 類型 | 重點 | 適用場景 |
 |------|------|------|----------|
-| [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | 教學專案 | Harness Engineering 從零到一 | 學習 Agent 架構 |
+| [[shareAI-lab-learn-claude-code|Learn Claude Code]] | 教學專案 | Harness Engineering 從零到一 | 學習 Agent 架構 |
 | [[affaan-m-ECC|ECC]] | Agent Harness | 生產級 Skills + 記憶 + 安全 | 生產環境 Agent |
 | [[CherryHQ-cherry-studio|Cherry Studio]] | AI 客戶端 | 300+ 助手多模型 | AI 對話生產力 |
 | [[promptfoo-promptfoo|Promptfoo]] | 評測工具 | LLM 紅隊測試 | PE 品質保證 |
 | [[anthropics-claude-code|Claude Code]] | 官方 Harness | Anthropic 官方設計 | Claude 開發 |
 
+## 相關概念
 ← [[affaan-m-ECC|ECC]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
 
 ## 來源

@@ -8,7 +8,7 @@ language: zh-TW
 
 # Claude Code 進階技巧
 
-> Claude Code 之父 Boris Cherny 親授 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。
+> ⭐— · Claude Code 之父 Boris Cherny 親授 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。
 
 ## 快速導航
 

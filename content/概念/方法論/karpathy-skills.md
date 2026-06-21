@@ -10,7 +10,7 @@ language: zh-TW
 
 # forrestchang/andrej-karpathy-skills — Karpathy 知識庫 Skill 版
 
-> 將 Andrej Karpathy 的 LLM 知識庫系統方法論封裝成 Agent Skill 格式，讓任何人可以用標準化的方式在自己的 Agent 框架中實作 Karpathy 式的知識管理流程。
+> ⭐— · 將 Andrej Karpathy 的 LLM 知識庫系統方法論封裝成 Agent Skill 格式，讓任何人可以用標準化的方式在自己的 Agent 框架中實作 Karpathy 式的知識管理流程。
 
 **GitHub**: https://github.com/forrestchang/andrej-karpathy-skills
 
@@ -93,3 +93,9 @@ npx skills add forrestchang/andrej-karpathy-skills
 ---
 
 GitHub: [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) · 收錄日期: 2026-04-28
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/forrestchang/andrej-karpathy-skills |

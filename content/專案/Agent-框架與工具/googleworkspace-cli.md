@@ -3,13 +3,13 @@ title: Google Workspace CLI (gws)
 slug: googleworkspace-cli
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 25,672
 language: zh-TW
 ---
 
 # Google Workspace CLI (gws)
 
-> 一個 CLI 統管 Google Workspace 所有 API — Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等。動態命令介面、40+ Agent Skills、所有回應結構化 JSON。
+> ⭐25,672 · 一個 CLI 統管 Google Workspace 所有 API — Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等。動態命令介面、40+ Agent Skills、所有回應結構化 JSON。
 
 ## 快速導航
 
@@ -95,3 +95,11 @@ gws 是 [[AI-Agent]] 操作 Workspace 的工具層，40+ Agent Skills 可透過 
 - **Stars**: ⭐25,672
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-03
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/googleworkspace/cli |
+| **Stars** | ⭐25,672 |
+| **收錄日期** | 2026-05-10 |

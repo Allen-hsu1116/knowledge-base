@@ -9,6 +9,8 @@ language: zh-TW
 
 # chrome-devtools-mcp
 
+> ⭐40k · chrome-devtools-mcp
+
 - **Repo**: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - **Stars**: 40k ⭐
 - **Language**: TypeScript
@@ -117,3 +119,10 @@ Check the performance of https://developers.chrome.com
 ## 來源
 
 - [原始資料](../raw/2026-05-22-ChromeDevTools-chrome-devtools-mcp.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| **收錄日期** | 2026-05-22 |

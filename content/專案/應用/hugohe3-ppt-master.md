@@ -3,13 +3,13 @@ title: PPT Master
 slug: hugohe3-ppt-master
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 11,300
 language: zh-TW
 ---
 
 # PPT Master
 
-> AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
+> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
 
 ## 快速導航
 
@@ -47,11 +47,11 @@ pip install -r requirements.txt
 # 只需要 Python 3.10+
 
 # 在 Claude Code / Cursor / VS Code Copilot 裡直接說
-> Make a deck from this PDF: quarterly-report.pdf
-> Create a 10-slide pitch deck from this URL: https://example.com/product
-> Generate a presentation from this markdown file with academic style
-> Add voice narration to each slide using edge-tts
-> Export the deck as MP4 video with narration
+> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
+> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
+> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
+> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
+> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
 
 # Python API 直接使用
 from ppt_master import PPTMaster

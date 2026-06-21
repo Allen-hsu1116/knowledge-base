@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐4.5k · 開源 OSINT 圖譜調查平台，視覺化探索實體關聯、自動化情報充實，支援域名/IP/ASN/社群/加密貨幣等全方位 enricher
 
-快速導航：[[pentesting|滲透測試]] · [[web-scraping|網頁爬取]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]]
+## 快速導航
+[[pentesting|滲透測試]] · [[web-scraping|網頁爬取]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]]
 
 ## 是什麼
 
@@ -60,11 +61,12 @@ cd ../flowsint-api && uv run pytest   # API 模組
 | 方案 | Stars | 類型 | 核心特色 | 圖譜 |
 |------|-------|------|----------|------|
 | **Flowsint** | ⭐4.5k | OSINT 圖譜調查 | 視覺化 + 自動 enricher + 本機優先 | ✅ Neo4j |
-| [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | ⭐7.6k | OSINT 情報平台 | AI Agent 情報收集 | — |
-| [[KeygraphHQ-shannon\|Shannon]] | ⭐42.7k | 滲透測試 | AI 驅動白箱安全 | — |
-| [[D4Vinci-Scrapling\|Scrapling]] | ⭐56.6k | 網頁爬蟲 | 自適應解析 + 反偵測 | — |
+| [[BigBodyCobain-Shadowbroker|Shadowbroker]] | ⭐7.6k | OSINT 情報平台 | AI Agent 情報收集 | — |
+| [[KeygraphHQ-shannon|Shannon]] | ⭐42.7k | 滲透測試 | AI 驅動白箱安全 | — |
+| [[D4Vinci-Scrapling|Scrapling]] | ⭐56.6k | 網頁爬蟲 | 自適應解析 + 反偵測 | — |
 | Maltego | 商業 | OSINT 調查 | 商業圖譜 + Hub | ✅ |
 
+## 相關概念
 ← [[pentesting|滲透測試]] · [[web-scraping|網頁爬取]]
 
 ## 來源

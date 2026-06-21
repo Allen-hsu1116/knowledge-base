@@ -8,7 +8,7 @@ language: zh-TW
 
 # Printing Press
 
-> Markdown 轉書籍 CLI 工具，將 Markdown 原稿轉換為排版精美的書籍格式。
+> ⭐30 · Markdown 轉書籍 CLI 工具，將 Markdown 原稿轉換為排版精美的書籍格式。
 
 ## 快速導航
 
@@ -73,3 +73,10 @@ press build my-book.md --theme ./my-theme.css --output pdf
 - Stars: ⭐30+
 - 概念：Prompt Engineering, 文件轉換
 - 收錄日期: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **Stars** | ⭐30 |
+| **收錄日期** | 2026-05-09 |

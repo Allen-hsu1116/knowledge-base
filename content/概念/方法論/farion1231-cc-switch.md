@@ -12,7 +12,8 @@ topics: [ai-tools, claude-code, codex, hermes-agent, mcp, desktop-app, openclaw,
 
 > ⭐101.7k · 跨平台 AI 程式碼助手管理器，一個桌面 App 管理 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI、Hermes Agent
 
-快速導航：[[agent-skills-ecosystem|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
+## 快速導航
+[[agent-skills-ecosystem|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
 
 ## 是什麼
 
@@ -54,12 +55,13 @@ pnpm tauri dev
 
 | 方案 | 類型 | 支援 Agent 數 | 平台 | 適用場景 |
 |------|------|--------------|------|----------|
-| [[farion1231-cc-switch\|CC Switch]] | 桌面管理器 | 6+ | Win/Mac/Linux | 多 Agent 切換管理 |
+| [[farion1231-cc-switch|CC Switch]] | 桌面管理器 | 6+ | Win/Mac/Linux | 多 Agent 切換管理 |
 | [[CherryHQ-cherry-studio|Cherry Studio]] | AI 客戶端 | 300+ | Win/Mac/Linux | 多模型對話 |
 | [[open-webui-open-webui|Open WebUI]] | Web UI | 所有 Ollama | Web | 本地模型介面 |
 | Claude Desktop | 桌面客戶端 | 僅 Claude | Win/Mac | 單一模型使用 |
-| [[iOfficeAI-AionUi|AionUi]] | 桌面客戶端 | 多個 | Win/Mac/Linux | Agent Cowork |
+| [[CherryHQ-cherry-studio|AionUi]] | 桌面客戶端 | 多個 | Win/Mac/Linux | Agent Cowork |
 
+## 相關概念
 ← [[agent-skills-ecosystem|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
 
 ## 來源

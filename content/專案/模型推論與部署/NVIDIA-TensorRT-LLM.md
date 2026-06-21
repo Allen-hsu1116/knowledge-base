@@ -3,13 +3,13 @@ title: TensorRT-LLM
 slug: NVIDIA-TensorRT-LLM
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 13,598
 language: zh-TW
 ---
 
 # TensorRT-LLM
 
-> NVIDIA 官方的 LLM 推論加速框架，在 NVIDIA GPU 上提供高效能推論最佳化。13.6K ⭐。
+> ⭐13,598 · NVIDIA 官方的 LLM 推論加速框架，在 NVIDIA GPU 上提供高效能推論最佳化。13.6K ⭐。
 
 ## 快速導航
 - 🧠 **LLM** → [[LLM]]（推論加速是 LLM 生產部署的關鍵）
@@ -63,11 +63,11 @@ python -m tensorrt_llm.entrypoints.openai.api_server --engine_dir ./engine
 | 專案 | 定位 | 硬體支援 | 特色 |
 |------|------|---------|------|
 | [[vLLM]] | 通用推論引擎 | 多廠牌 GPU | vLLM 更通用跨硬體，TensorRT-LLM 在 NVIDIA 上更快 |
-| [[sgl-project-sglang\|SGLang]] | 推論引擎 | NVIDIA/AMD/TPU | SGLang 的 RadixAttention 是獨特優勢 |
-| [[llama-cpp\|llama.cpp]] | 本地推論引擎 | CPU/GPU | llama.cpp 偏消費級硬體，TensorRT-LLM 偏資料中心 |
-| [[Ollama]] | 本地部署 | CPU/GPU | Ollama 底層可用 llama.cpp，TensorRT-LLM 適合大規模部署 |
-| [[huggingface-transformers\|Transformers]] | 模型框架 | 通用 | TensorRT-LLM 可從 HuggingFace 模型定義轉換 |
-| [[litellm\|LiteLLM]] | API Gateway | 通用 | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
+| [[sgl-project-sglang|SGLang]] | 推論引擎 | NVIDIA/AMD/TPU | SGLang 的 RadixAttention 是獨特優勢 |
+| [[llama-cpp|llama.cpp]] | 本地推論引擎 | CPU/GPU | llama.cpp 偏消費級硬體，TensorRT-LLM 偏資料中心 |
+| [[模型推論與部署|Ollama]] | 本地部署 | CPU/GPU | Ollama 底層可用 llama.cpp，TensorRT-LLM 適合大規模部署 |
+| [[huggingface-transformers|Transformers]] | 模型框架 | 通用 | TensorRT-LLM 可從 HuggingFace 模型定義轉換 |
+| [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
 
 ## 相關概念
 ← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]
@@ -81,3 +81,11 @@ python -m tensorrt_llm.entrypoints.openai.api_server --engine_dir ./engine
 - **Stars**: ⭐13,598
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/NVIDIA/TensorRT-LLM |
+| **Stars** | ⭐13,598 |
+| **收錄日期** | 2026-05-10 |

@@ -11,7 +11,15 @@ updated: 2026-06-08
 
 # nextlevelbuilder/ui-ux-pro-max-skill
 
-## 概述
+> ⭐88.8k · 跨平台 AI 設計技能定義，涵蓋 Design Token、Atomic Design、WCAG 2.1 AA、深色模式和 v2.0 智慧設計系統生成器。
+
+## 快速導航
+
+- 🎨 **前端設計** → [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Skills]]
+- 🛠️ **Agent Skills** → [[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 📐 **設計工具** → [[anthropics-skills|Anthropic Skills]] · [[vercel-labs-agent-skills|Vercel Agent Skills]] · [[softaworks-agent-toolkit|SoftaWorks Toolkit]]
+
+## 是什麼
 
 **ui-ux-pro-max-skill** 是一個為 AI agent 設計的技能定義（skill），提供跨平台的專業 UI/UX 設計智慧。它以結構化的 markdown 格式定義了完整的設計系統規範，讓 AI 在生成前端程式碼時能遵循一致的高水準設計原則。截至 2026 年 6 月，該專案已獲得 **88,842** 顆星，是目前最受歡迎的 AI 設計技能定義之一。
 
@@ -91,7 +99,7 @@ ui-ux-pro-max-skill/
 
 這種三層架構讓設計決策可追溯、可主題化，且易於跨平台移植。
 
-## 安裝與使用
+## 怎麼用
 
 ### 使用 Claude Marketplace
 
@@ -225,7 +233,7 @@ design-system/
 
 ## 跟其他方案的關係
 
-| 維度 | ui-ux-pro-max-skill | [[anthropics-skills\|anthropics/skills frontend-design]] | [[vercel-labs-agent-skills\|vercel-labs/web-design-guidelines]] | [[softaworks-agent-toolkit\|softaworks/design-system-starter]] |
+| 維度 | ui-ux-pro-max-skill | [[anthropics-skills|anthropics/skills frontend-design]] | [[vercel-labs-agent-skills|vercel-labs/web-design-guidelines]] | [[softaworks-agent-toolkit|softaworks/design-system-starter]] |
 |------|---------------------|-----|-----|-----|
 | 定位 | 全平台 AI 設計技能 | Claude 專用前端技能 | Web 設計指引 | Design System 樣板 |
 | 格式 | Markdown skill 定義 | YAML + Markdown | Markdown 文件 | 程式碼樣板 |
@@ -240,10 +248,22 @@ design-system/
 
 ui-ux-pro-max-skill 的核心差異化在於：它是**唯一同時涵蓋四大平台且以 AI skill 格式交付**的方案，並在 v2.0 新增了智慧設計系統生成器，適合需要在 AI 輔助開發流程中注入設計智慧的場景。
 
-## 參考連結
+## 相關概念
 
-- **GitHub 原始碼**：[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+← [[frontend-design|前端設計]] · [[AI-Skills|AI Skills]] · [[anthropics-skills|Anthropic Skills]] · [[vercel-labs-agent-skills|Vercel Agent Skills]] · [[softaworks-agent-toolkit|SoftaWorks Toolkit]]
+
+## 來源
+
+- **GitHub**：[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - **官方網站**：[uupm.cc](https://uupm.cc)
-- **授權條款**：MIT License
-- **相關技能**：[[anthropics-skills]]、[[vercel-labs-agent-skills]]
-- **設計系統參考**：Radix UI、shadcn/ui、Material Design 3、Apple HIG
+- 📁 raw：`raw/2026-06-08-nextlevelbuilder-ui-ux-pro-max-skill.md`
+- 📁 raw：`raw/2026-06-08-nextlevelbuilder-ui-ux-pro-max-skill-README.md`
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |
+| **Stars** | ⭐88,842 |
+| **License** | MIT |
+| **收錄日期** | 2026-06-08 |

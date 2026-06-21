@@ -3,12 +3,14 @@ title: CL4R1T4S — Prompt 越獄與安全研究
 slug: cl4r1t4s
 source: https://github.com/elder-plinius/CL4R1T4S
 date: 2026-04-28
-stars: —
+stars: 42841
 updated: 2026-06-14
 language: zh-TW
 ---
 
-# CL4R1T4S — Prompt 越獄與安全研究
+# CL4R1T4S
+
+> ⭐42.8k · Prompt 越獄與安全研究 — Prompt 越獄與安全研究
 
 > AI 安全研究專案，專注於 LLM 的越獄（jailbreak）技術和防禦方法。收集了大量已知的 prompt injection 攻擊模式和繞過安全限制的技術，作為安全研究和紅隊測試的參考。
 
@@ -84,9 +86,9 @@ CL4R1T4S 是由 elder-plinius（Pliny the Prompter）維護的 AI 安全研究�
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[prompt-security\|Prompt 安全]] | 防禦方法 | CL4R1T4S 是攻擊參考，Prompt 安全是防禦方法 |
+| [[prompt-security|Prompt 安全]] | 防禦方法 | CL4R1T4S 是攻擊參考，Prompt 安全是防禦方法 |
 | [[affaan-m-everything-claude-code]] | Claude Code 資源大全 | 包含 Prompt 安全相關資源 |
-| [[ai-agent-interaction\|AI Agent 互動]] | Agent 互動安全 | 越獄風險在 Agent 場景更高 |
+| [[ai-agent-interaction|AI Agent 互動]] | Agent 互動安全 | 越獄風險在 Agent 場景更高 |
 
 ## 相關概念
 
@@ -101,3 +103,10 @@ CL4R1T4S 是由 elder-plinius（Pliny the Prompter）維護的 AI 安全研究�
 ---
 
 **⚠️ 注意**：此專案純粹用於安全研究和教育目的。不應用於惡意攻擊。
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/elder-plinius/CL4R1T4S |
+| **Stars** | ⭐42841 |

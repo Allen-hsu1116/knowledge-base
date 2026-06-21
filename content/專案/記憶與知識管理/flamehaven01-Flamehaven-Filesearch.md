@@ -9,7 +9,7 @@ language: zh-TW
 
 # Flamehaven Filesearch
 
-> 自架式 RAG 搜尋引擎，支援 34 種文件格式解析，BM25 + 混合搜尋架構。
+> ⭐100 · 自架式 RAG 搜尋引擎，支援 34 種文件格式解析，BM25 + 混合搜尋架構。
 
 ## 快速導航
 
@@ -57,7 +57,7 @@ curl http://localhost:8080/status
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[qmd\|QMD]] | 本地混合搜尋引擎 | QMD 側重 CLI 個人知識庫，Filesearch 側重企業文件搜尋 |
+| [[qmd|QMD]] | 本地混合搜尋引擎 | QMD 側重 CLI 個人知識庫，Filesearch 側重企業文件搜尋 |
 | [[ragflow]] | 開源 RAG 引擎 | 同為 RAG 引擎，ragflow 功能更完整、社群更大 |
 | [[LeDat98-NexusRAG]] | 混合式 RAG | NexusRAG 側重知識圖譜，Filesearch 側重文件格式支援 |
 | [[microsoft-markitdown]] | 文件轉 Markdown | MarkItDown 只做轉換，Filesearch 做完整搜尋管線 |
@@ -79,3 +79,11 @@ curl http://localhost:8080/status
 - GitHub: https://github.com/flamehaven01/Flamehaven-Filesearch
 - Stars: ⭐100
 - 收錄日期: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/flamehaven01/Flamehaven-Filesearch |
+| **Stars** | ⭐'⭐100' |
+| **收錄日期** | 2026-05-09 |

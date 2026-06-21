@@ -3,13 +3,13 @@ title: Everything Claude Code (ECC)
 slug: affaan-m-everything-claude-code
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 172,098
 language: zh-TW
 ---
 
 # Everything Claude Code (ECC)
 
-> AI Agent harness 效能優化系統 — Skills、Instincts、Memory、Security、Research-first Development。140K+ stars、Anthropic Hackathon 得獎作品，支援 7+ harness。
+> ⭐172,098 · AI Agent harness 效能優化系統 — Skills、Instincts、Memory、Security、Research-first Development。140K+ stars、Anthropic Hackathon 得獎作品，支援 7+ harness。
 
 ## 快速導航
 

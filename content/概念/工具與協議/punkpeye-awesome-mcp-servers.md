@@ -12,7 +12,8 @@ topics: [ai, mcp, awesome-list, mcp-servers]
 
 > ⭐89.2k · MCP (Model Context Protocol) 伺服器策展列表，按類別收錄生產級和實驗性 MCP Server 實作。
 
-快速導航：[[MCP|MCP 協議]] · [[browser-use-browser-use|Browser Use]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+## 快速導航
+[[MCP|MCP 協議]] · [[browser-use-browser-use|Browser Use]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
 
 ## 是什麼
 
@@ -58,12 +59,13 @@ git clone https://github.com/punkpeye/awesome-mcp-servers.git
 
 | 方案 | 類型 | 特色 | 適用場景 |
 |------|------|------|----------|
-| [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | 策展列表 | 30+ 分類、語言標示、互動目錄 | 找 MCP Server |
-| [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | 策展列表 | 30+ AI 工具 system prompts | 研究 Prompt |
-| [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | 策展列表 | 1000+ Claude Skills | 找 Agent Skill |
-| [[mvanhorn-last30days-skill\|last30days]] | 搜尋引擎 | 14 平台平行搜尋 | 找最新趨勢 |
+| [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]] | 策展列表 | 30+ 分類、語言標示、互動目錄 | 找 MCP Server |
+| [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]] | 策展列表 | 30+ AI 工具 system prompts | 研究 Prompt |
+| [[ComposioHQ-awesome-claude-skills|Awesome Claude Skills]] | 策展列表 | 1000+ Claude Skills | 找 Agent Skill |
+| [[mvanhorn-last30days-skill|last30days]] | 搜尋引擎 | 14 平台平行搜尋 | 找最新趨勢 |
 | MCP 官方文件 | 規範 | 協議定義、SDK | 開發 MCP Server |
 
+## 相關概念
 ← [[MCP|MCP 協議]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
 
 ## 來源

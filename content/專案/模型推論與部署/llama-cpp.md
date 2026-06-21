@@ -3,17 +3,17 @@ title: llama.cpp
 slug: llama-cpp
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 109,260
 language: zh-TW
 ---
 
 # llama.cpp
 
-> C/C++ 實現的 LLM 推論引擎，讓消費級硬體也能跑 LLaMA 模型。109K ⭐。
+> ⭐109,260 · C/C++ 實現的 LLM 推論引擎，讓消費級硬體也能跑 LLaMA 模型。109K ⭐。
 
 ## 快速導航
 - 🧠 **LLM 底層技術** → [[llm-internals]]（llama.cpp 是推論加速的基礎設施）
-- 🏠 **本地部署** → [[Ollama]]（Ollama 底層使用 llama.cpp）
+- 🏠 **本地部署** → [[模型推論與部署|Ollama]]（Ollama 底層使用 llama.cpp）
 - ⚡ **效能優化** → [[Token-Optimization]]（本地推理降低 API 成本和延遲）
 
 ## 是什麼
@@ -62,12 +62,12 @@ llama.cpp 是本地 LLM 推理的基礎設施。它的價值在於讓任何人�
 
 | 專案 | 定位 | 硬體需求 | 特色 |
 |------|------|---------|------|
-| [[Ollama]] | 本地推理工具 | 消費級 | Ollama 底層使用 llama.cpp，提供更好的使用者體驗 |
+| [[模型推論與部署|Ollama]] | 本地推理工具 | 消費級 | Ollama 底層使用 llama.cpp，提供更好的使用者體驗 |
 | [[vLLM]] | 高吞吐服務引擎 | 資料中心 GPU | llama.cpp 重 CPU 本地，vLLM 重 GPU 生產 |
-| [[sgl-project-sglang\|SGLang]] | 服務框架 | 資料中心 GPU | SGLang 偏服務化部署，llama.cpp 偏本地推理 |
+| [[sgl-project-sglang|SGLang]] | 服務框架 | 資料中心 GPU | SGLang 偏服務化部署，llama.cpp 偏本地推理 |
 | [[huggingface-transformers]] | 模型框架 | 通用 | llama.cpp 支援 HuggingFace 模型轉換為 GGUF |
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA GPU 推論加速 | NVIDIA 資料中心 | TensorRT-LLM 在 NVIDIA 上更快，llama.cpp 更通用 |
-| [[litellm\|LiteLLM]] | API Gateway | 通用 | LiteLLM 可統一管理 llama.cpp 等本地模型 |
+| [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可統一管理 llama.cpp 等本地模型 |
 
 ## 相關概念
 ← [[llm-internals]] · [[LLM]] · [[Token-Optimization]]
@@ -81,3 +81,11 @@ llama.cpp 是本地 LLM 推理的基礎設施。它的價值在於讓任何人�
 - **Stars**: ⭐109,260
 - **License**: MIT
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/ggerganov/llama.cpp |
+| **Stars** | ⭐109,260 |
+| **收錄日期** | 2026-05-10 |

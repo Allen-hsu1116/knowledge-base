@@ -9,7 +9,7 @@ language: zh-TW
 
 # AiToEarn
 
-> 透過 AI 自動化，幫助創作者、OPC（一人公司）與品牌在全球主流社群平台上構建、分發並變現內容。⭐11,864
+> ⭐11864 · 透過 AI 自動化，幫助創作者、OPC（一人公司）與品牌在全球主流社群平台上構建、分發並變現內容。⭐11,864
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（AiToEarn 是 AI Agent 驅動的內容變現平台）
@@ -74,3 +74,11 @@ docker compose up -d
 - **Stars**: ⭐11,864
 - **License**: 開源（見 GitHub LICENSE）
 - **收錄日期**: 2026-05-13
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/yikart/AiToEarn.git |
+| **Stars** | ⭐'⭐11864' |
+| **收錄日期** | 2026-05-13 |

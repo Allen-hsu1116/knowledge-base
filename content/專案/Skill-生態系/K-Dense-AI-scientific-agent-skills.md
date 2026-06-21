@@ -9,7 +9,7 @@ language: zh-TW
 
 # Scientific Agent Skills
 
-> 135 個即插即用的 Agent Skill，覆蓋生物資訊、藥物發現、蛋白質體學、臨床研究、材料科學等 16 大科學領域。⭐21K+
+> ⭐21 · 135 個即插即用的 Agent Skill，覆蓋生物資訊、藥物發現、蛋白質體學、臨床研究、材料科學等 16 大科學領域。⭐21K+
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（Scientific Agent Skills 讓 AI agent 具備科學研究能力）
@@ -74,3 +74,11 @@ gh skill install K-Dense-AI/scientific-agent-skills scanpy
 - **Stars**: ⭐21,122
 - **License**: MIT
 - **收錄日期**: 2026-05-14
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/K-Dense-AI/scientific-agent-skills |
+| **Stars** | ⭐'⭐21' |
+| **收錄日期** | 2026-05-14 |

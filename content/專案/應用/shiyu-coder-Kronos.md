@@ -9,7 +9,7 @@ language: zh-TW
 
 # Kronos
 
-> 金融市場 K 線的基礎模型，在超過 45 個全球交易所資料上預訓練，AAAI 2026 接受。機率性預測 + 金融 tokenizer，4.1M 到 499.2M 多規格。⭐24,824
+> ⭐24824 · 金融市場 K 線的基礎模型，在超過 45 個全球交易所資料上預訓練，AAAI 2026 接受。機率性預測 + 金融 tokenizer，4.1M 到 499.2M 多規格。⭐24,824
 
 ## 快速導航
 - 🧠 **LLM** → [[LLM]]（Kronos 使用 Transformer 架構，是金融領域的基礎模型）
@@ -57,10 +57,10 @@ pred_df = predictor.predict(
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[google-research-timesfm\|TimesFM]] | 時序基礎模型 | 通用時序預測，Kronos 專注金融 K 線 |
+| [[google-research-timesfm|TimesFM]] | 時序基礎模型 | 通用時序預測，Kronos 專注金融 K 線 |
 | [[HKUDS-AI-Trader]] | Agent 交易平台 | Kronos 可作為 AI Trader 的預測引擎 |
 | [[daily-stock-analysis]] | 日常股票分析 | Kronos 是更底層的預測模型 |
-| [[minimind\|MiniMind]] | 從零訓練 LLM | 兩者都是小模型從零訓練的範例 |
+| [[minimind|MiniMind]] | 從零訓練 LLM | 兩者都是小模型從零訓練的範例 |
 
 ## 相關概念
 
@@ -76,3 +76,11 @@ pred_df = predictor.predict(
 - **Stars**: ⭐24,824
 - **License**: MIT
 - **收錄日期**: 2026-05-15
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/shiyu-coder/Kronos |
+| **Stars** | ⭐'⭐24824' |
+| **收錄日期** | 2026-05-15 |

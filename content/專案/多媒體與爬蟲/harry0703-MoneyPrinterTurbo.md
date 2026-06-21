@@ -60,8 +60,8 @@ python main.py
 | 專案 | 定位 | 自動文案 | 語音合成 | 字幕 | 批量 | 開源 |
 |------|------|---------|---------|------|------|------|
 | **MoneyPrinterTurbo** | 短影片全自動 | ✅ | ✅ 多語音 | ✅ | ✅ | ✅ MIT |
-| [[linyqh-NarratoAI\|NarratoAI]] | 影視解說+剪輯 | ✅ | ✅ 含克隆 | ✅ | ❌ | ✅ 非商用 |
-| [[feicaiclub-video-spec-builder\|video-spec-builder]] | 分鏡腳本 | ❌ | ❌ | ❌ | ❌ | ✅ MIT |
+| [[linyqh-NarratoAI|NarratoAI]] | 影視解說+剪輯 | ✅ | ✅ 含克隆 | ✅ | ❌ | ✅ 非商用 |
+| [[feicaiclub-video-spec-builder|video-spec-builder]] | 分鏡腳本 | ❌ | ❌ | ❌ | ❌ | ✅ MIT |
 | Pika/Sora | 影片生成模型 | ❌ | ❌ | ❌ | ❌ | ❌ 商業 |
 
 ## 相關概念

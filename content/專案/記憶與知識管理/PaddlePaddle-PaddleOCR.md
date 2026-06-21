@@ -11,7 +11,8 @@ language: Python
 
 > ⭐80k · 百度開源的全能 OCR 工具包，把 PDF 和圖片轉成 LLM 可用的結構化資料，支援 100+ 語言
 
-快速導航：[[document-parsing|文件解析]] · [[rag|RAG]] · [[PaddlePaddle-PaddleOCR|PaddleOCR]]
+## 快速導航
+[[document-parsing|文件解析]] · [[rag|RAG]] · [[PaddlePaddle-PaddleOCR|PaddleOCR]]
 
 ## 是什麼
 
@@ -61,14 +62,15 @@ result = table_engine("table_page.png")
 | 方案 | Stars | 類型 | 多語言 | VLM 文件解析 | 結構化輸出 | 部署方式 |
 |------|-------|------|--------|-------------|-----------|---------|
 | **PaddleOCR** | ⭐80k | OCR + 文件 AI 引擎 | 100+ 語言 | ✅ PaddleOCR-VL-1.6 | Markdown/JSON+座標 | 端雲一體 |
-| [[docling\|Docling]] | ⭐59k | 文件解析 | 多語言 | ✅ Docling-parse | Markdown/JSON | Python |
-| [[ragflow\|RAGFlow]] | ⭐80k | RAG 引擎 | 多語言 | ✅ 內建 DeepDoc | Markdown | Docker |
-| [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | ⭐23k | PDF 解析 | 多語言 | ✅ Hybrid 模式 | Markdown+Bounding Box | Python |
+| [[docling|Docling]] | ⭐59k | 文件解析 | 多語言 | ✅ Docling-parse | Markdown/JSON | Python |
+| [[ragflow|RAGFlow]] | ⭐80k | RAG 引擎 | 多語言 | ✅ 內建 DeepDoc | Markdown | Docker |
+| [[opendataloader-project-opendataloader-pdf|OpenDataLoader PDF]] | ⭐23k | PDF 解析 | 多語言 | ✅ Hybrid 模式 | Markdown+Bounding Box | Python |
 | Tesseract | ⭐65k | 傳統 OCR | 100+ 語言 | ❌ | 純文字 | C++/Python |
-| [[run-llama-liteparse\|LiteParse]] | ⭐7.3k | 文件解析 | 多語言 | ❌ | Markdown/JSON | Rust/Python |
+| [[run-llama-liteparse|LiteParse]] | ⭐7.3k | 文件解析 | 多語言 | ❌ | Markdown/JSON | Rust/Python |
 
 PaddleOCR 的差異化在於它是少數同時提供 VLM 級別文件理解（PaddleOCR-VL）和結構化版面解析（PP-StructureV3）的方案，而且 0.9B 模型就能達到 SOTA 準確率，部署門檻極低。
 
+## 相關概念
 ← [[document-parsing|文件解析]] · [[rag|RAG]] · [[ocr-memory|OCR-Memory]]
 
 ## 來源

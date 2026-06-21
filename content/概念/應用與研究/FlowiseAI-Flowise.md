@@ -12,7 +12,8 @@ topics: [agentic-ai, agentic-workflow, agents, chatbot, langchain, large-languag
 
 > ⭐53.7k · 低代碼視覺化建構 AI Agent 和 LLM 工作流，拖曳即可串接 LangChain
 
-快速導航：[[RAG|RAG 檢索增強生成]] · [[Agent-Workflow|Agent 工作流]] · [[n8n-io-n8n|n8n]]
+## 快速導航
+[[rag|RAG 檢索增強生成]] · [[workflow-automation|Agent 工作流]] · [[n8n-io-n8n|n8n]]
 
 ## 是什麼
 
@@ -59,13 +60,14 @@ pnpm start
 
 | 方案 | 類型 | 視覺化 | 自架 | Agent 支援 | 適用場景 |
 |------|------|--------|------|-----------|----------|
-| [[FlowiseAI-Flowise\|Flowise]] | 視覺化 LLM 建構 | ✅ 拖曳式 | ✅ 開源 | ✅ 多 Agent | 快速原型、無碼開發 |
-| [[langgenius-dify\|Dify]] | LLM App 平台 | ✅ 拖曳式 | ✅ 開源 | ✅ 內建 | LLM 應用全流程 |
-| [[langfuse-langfuse\|Langfuse]] | LLM 觀測平台 | ✅ 儀表板 | ✅ 開源 | ✅ 追蹤 | 監控與評測 |
-| [[n8n-io-n8n\|n8n]] | 工作流自動化 | ✅ 拖曳式 | ✅ 公平碼 | ✅ AI 節點 | 通用自動化+AI |
+| [[FlowiseAI-Flowise|Flowise]] | 視覺化 LLM 建構 | ✅ 拖曳式 | ✅ 開源 | ✅ 多 Agent | 快速原型、無碼開發 |
+| [[langgenius-dify|Dify]] | LLM App 平台 | ✅ 拖曳式 | ✅ 開源 | ✅ 內建 | LLM 應用全流程 |
+| [[langfuse-langfuse|Langfuse]] | LLM 觀測平台 | ✅ 儀表板 | ✅ 開源 | ✅ 追蹤 | 監控與評測 |
+| [[n8n-io-n8n|n8n]] | 工作流自動化 | ✅ 拖曳式 | ✅ 公平碼 | ✅ AI 節點 | 通用自動化+AI |
 | LangFlow | LangChain 視覺化 | ✅ | ✅ 開源 | ⚠️ 基礎 | LangChain 原型開發 |
 
-← [[RAG|RAG 檢索增強生成]] · [[Agent-Workflow|Agent 工作流]] · [[n8n-io-n8n|n8n]]
+## 相關概念
+← [[rag|RAG 檢索增強生成]] · [[workflow-automation|Agent 工作流]] · [[n8n-io-n8n|n8n]]
 
 ## 來源
 

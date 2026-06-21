@@ -9,6 +9,8 @@ language: zh-TW
 
 # the-book-of-secret-knowledge
 
+> ⭐222k · the-book-of-secret-knowledge
+
 - **Repo**: [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - **Stars**: 222k ⭐
 - **Language**: Markdown
@@ -81,3 +83,10 @@ the-book-of-secret-knowledge 的獨特價值在於「廣度+品質」——不�
 ## 來源
 
 - [原始資料](../raw/2026-05-22-trimstray-the-book-of-secret-knowledge.md)
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/trimstray/the-book-of-secret-knowledge |
+| **收錄日期** | 2026-05-22 |

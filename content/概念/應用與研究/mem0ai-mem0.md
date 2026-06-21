@@ -11,7 +11,8 @@ language: Python
 
 > ⭐58k · AI Agent 記憶層，讓 AI 記住使用者偏好、持續學習，LoCoMo 91.6 分 SOTA
 
-快速導航：[[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
+## 快速導航
+[[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
 
 ## 是什麼
 
@@ -81,11 +82,12 @@ cd server && make bootstrap
 | 方案 | Stars | 類型 | 記憶層級 | Token 效率 | SOTA 分數 |
 |------|-------|------|---------|-----------|----------|
 | **Mem0** | ⭐58k | 記憶層 | User/Session/Agent | 7K tokens | LoCoMo 91.6 |
-| [[supermemoryai-supermemory\|Supermemory]] | ⭐23k | 記憶引擎 | User | 較高 | — |
-| [[rohitg00-agentmemory\|agentmemory]] | ⭐15k | Agent 記憶 | Agent | — | — |
-| [[thedotmack-claude-mem\|claude-mem]] | ⭐73k | Claude 記憶 | Agent | — | — |
-| [[upstash-context7\|Context7]] | ⭐54k | 文件查詢 | — | — | — |
+| [[supermemoryai-supermemory|Supermemory]] | ⭐23k | 記憶引擎 | User | 較高 | — |
+| [[rohitg00-agentmemory|agentmemory]] | ⭐15k | Agent 記憶 | Agent | — | — |
+| [[thedotmack-claude-mem|claude-mem]] | ⭐73k | Claude 記憶 | Agent | — | — |
+| [[upstash-context7|Context7]] | ⭐54k | 文件查詢 | — | — | — |
 
+## 相關概念
 ← [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
 
 ## 來源

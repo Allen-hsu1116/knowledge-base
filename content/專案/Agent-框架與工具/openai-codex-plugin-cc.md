@@ -3,13 +3,13 @@ title: Codex Plugin for Claude Code
 slug: openai-codex-plugin-cc
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 17,527
 language: zh-TW
 ---
 
 # Codex Plugin for Claude Code
 
-> OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
 
 ## 快速導航
 
@@ -47,24 +47,24 @@ codex-plugin-cc 是 OpenAI 官方的 Claude Code 插件，讓你在 Claude Code 
 # 安裝後可用三個 Codex 工具
 
 # 程式碼審查
-> Use codex to review the changes in src/api.ts
-> Use codex to review PR #42
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
 # → Codex 掃描變更，回傳審查報告（問題、建議、嚴重度）
 
 # 實作委派
-> Use codex to implement error handling for the login function
-> Use codex to add logging to all API endpoints
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
 # → Codex 在沙箱中寫程式碼，回傳實作結果
 
 # 測試生成
-> Use codex to write tests for the UserService class
-> Use codex to generate integration tests for src/api/
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
 # → Codex 分析程式碼，生成對應測試
 
 # 結合使用
-> Use codex to review src/api.ts   # 先審查
-> Fix the issues codex found       # 然後讓 Claude Code 修正
-> Use codex to write tests for the fixes  # 最後讓 Codex 寫測試
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
 ```
 
 ## 跟其他方案的關係

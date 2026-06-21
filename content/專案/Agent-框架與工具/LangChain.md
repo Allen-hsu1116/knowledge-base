@@ -3,13 +3,13 @@ title: LangChain
 slug: LangChain
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 136,755
 language: zh-TW
 ---
 
 # LangChain
 
-> LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。137K ⭐。
+> ⭐136,755 · LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。137K ⭐。
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（LangChain 是 Agent 開發的主流框架之一）
@@ -69,13 +69,13 @@ app = graph.compile()
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[llama-index\|LlamaIndex]] | 資料/RAG 框架 | LangChain 偏工具串接和 Agent 編排，LlamaIndex 偏資料層 |
+| [[llama-index|LlamaIndex]] | 資料/RAG 框架 | LangChain 偏工具串接和 Agent 編排，LlamaIndex 偏資料層 |
 | [[CrewAI]] | 多 Agent 協作 | CrewAI 完全獨立於 LangChain，專注角色分工 |
 | [[AutoGPT]] | 自主 Agent | LangChain 更偏工具串接，AutoGPT 更偏自主規劃 |
 | [[litellm]] | LLM Gateway | LangChain 可用 LiteLLM 統一呼叫多模型 |
 | [[huggingface-transformers]] | 模型框架 | LangChain 底層可用 HuggingFace 模型 |
 | [[Chroma]] / [[Qdrant]] / [[Milvus]] | 向量資料庫 | LangChain 內建這些向量資料庫的整合 |
-| [[Ollama]] | 本地 LLM 部署 | LangChain 可以透過 Ollama 介面使用本地模型 |
+| [[模型推論與部署|Ollama]] | 本地 LLM 部署 | LangChain 可以透過 Ollama 介面使用本地模型 |
 
 ## 相關概念
 ← [[AI-Agent]] · [[LLM]] · [[rag]] · [[llama-index]]
@@ -89,3 +89,11 @@ app = graph.compile()
 - **Stars**: ⭐136,755
 - **License**: MIT
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/langchain-ai/langchain |
+| **Stars** | ⭐136,755 |
+| **收錄日期** | 2026-05-10 |

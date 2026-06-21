@@ -9,7 +9,7 @@ language: zh-TW
 
 # LLM 知識庫系統
 
-> 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。
+> ⭐— · 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。
 
 ## 快速導航
 - 📝 **Karpathy 方法** → [[karpathy-gist-llm-wiki]]（原始 Gist）

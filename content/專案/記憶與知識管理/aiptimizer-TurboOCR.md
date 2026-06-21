@@ -9,7 +9,7 @@ language: zh-TW
 
 # TurboOCR
 
-> GPU 加速 OCR 伺服器，每秒處理 270 張圖片，使用 TensorRT FP16 推論加速。
+> ⭐264 · GPU 加速 OCR 伺服器，每秒處理 270 張圖片，使用 TensorRT FP16 推論加速。
 
 ## 快速導航
 
@@ -76,3 +76,11 @@ curl -X POST http://localhost:8000/ocr/batch \
 - GitHub: https://github.com/aiptimizer/TurboOCR
 - Stars: ⭐264
 - 收錄日期: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/aiptimizer/TurboOCR.git |
+| **Stars** | ⭐'⭐264' |
+| **收錄日期** | 2026-05-09 |

@@ -7,7 +7,7 @@ language: zh-TW
 
 # Computer Use Agent
 
-> 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。
+> ⭐— · 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。
 
 ## 核心內容
 

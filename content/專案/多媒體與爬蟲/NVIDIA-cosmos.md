@@ -11,7 +11,8 @@ language: Jupyter Notebook
 
 > ⭐9.4k · NVIDIA 開源世界模型平台——為機器人、自駕車、智慧基礎設施建構 Physical AI
 
-快速導航：[[computer-vision|電腦視覺]] · [[NVIDIA-cosmos|Cosmos]] · [[NVlabs-Sana|Sana]]
+## 快速導航
+[[computer-vision|電腦視覺]] · [[NVIDIA-cosmos|Cosmos]] · [[NVlabs-Sana|Sana]]
 
 ## 是什麼
 
@@ -62,13 +63,14 @@ python -m vllm serve nvidia/Cosmos3-Nano --task generate
 | 方案 | Stars | 類型 | 世界理解 | 世界生成 | 動作建模 | 多模態 |
 |------|-------|------|---------|---------|---------|--------|
 | **NVIDIA Cosmos** | ⭐9.4k | 世界模型平台 | ✅ Reasoner | ✅ Generator | ✅ 多種動作空間 | 文字/影像/影片/聲音/動作 |
-| [[NVlabs-Sana\|Sana]] | ⭐6.4k | 擴散模型 | ❌ | ✅ 圖片生成 | ❌ | 文字→圖片 |
+| [[NVlabs-Sana|Sana]] | ⭐6.4k | 擴散模型 | ❌ | ✅ 圖片生成 | ❌ | 文字→圖片 |
 | GPT-4V | — | VLM | ✅ | ❌ | ❌ | 文字/影像 |
 | Sora | — | 影片生成 | ❌ | ✅ 影片 | ❌ | 文字/影像→影片 |
 | Genie 2 (DeepMind) | — | 世界模型 | ❌ | ✅ 互動環境 | ✅ 遊戲場景 | 文字/影像→互動 |
 
 NVIDIA Cosmos 的差異化在於它是唯一把「世界理解（Reasoner）」和「世界生成（Generator）」統一到單一架構的開源模型——不像 VLM 只能理解、不像影片模型只能生成，Cosmos 用同一組權重同時做到理解和生成，對 Physical AI 的閉環模擬至關重要。
 
+## 相關概念
 ← [[computer-vision|電腦視覺]] · [[NVlabs-Sana|Sana]] · [[world-model|世界模型]]
 
 ## 來源

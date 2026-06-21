@@ -3,13 +3,13 @@ title: OpenViking
 slug: volcengine-OpenViking
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 23,398
 language: zh-TW
 ---
 
 # OpenViking
 
-> 開源 Context Database，專為 AI Agent 設計。以檔案系統範式統一管理記憶、資源和技能，告別傳統 RAG 的碎片化儲存。
+> ⭐23,398 · 開源 Context Database，專為 AI Agent 設計。以檔案系統範式統一管理記憶、資源和技能，告別傳統 RAG 的碎片化儲存。
 
 ## 快速導航
 
@@ -86,3 +86,11 @@ OpenViking 是 [[Context-Database]] 的實作，也是傳統 [[LLM]] RAG 的替�
 - **Stars**: ⭐23,398
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-04
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/volcengine/OpenViking |
+| **Stars** | ⭐23,398 |
+| **收錄日期** | 2026-05-10 |

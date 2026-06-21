@@ -12,7 +12,8 @@ topics: [design, open-source, mcp, self-hosted, design-tokens, svg, css, collabo
 
 > ⭐50k · 開源設計平台，支援 SVG/CSS/HTML 開放標準，內建 MCP Server 連接 AI Agent，設計即代碼。
 
-快速導航：[[nexu-io-open-design|Open Design]] · [[Figma-Skills|Figma Skills]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]]
+## 快速導航
+[[nexu-io-open-design|Open Design]] · [[Figma-Skills|Figma Skills]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]]
 
 ## 是什麼
 
@@ -58,12 +59,13 @@ docker run -d \
 
 | 方案 | 類型 | 開源 | 自架 | MCP | Design Tokens | 開放標準 |
 |------|------|------|------|-----|---------------|----------|
-| [[penpot-penpot\|Penpot]] | 設計工具 | ✅ | ✅ | ✅ | ✅ | ✅ SVG/CSS |
+| [[penpot-penpot|Penpot]] | 設計工具 | ✅ | ✅ | ✅ | ✅ | ✅ SVG/CSS |
 | Figma | 設計工具 | ❌ | ❌ | ❌ | ✅ | ❌ 封閉格式 |
-| [[nexu-io-open-design\|Open Design]] | AI Skill | ✅ | N/A | N/A | N/A | ✅ |
-| [[Figma-Skills\|Figma Skills]] | AI Skill | ✅ | N/A | N/A | ❌ | ❌ |
+| [[nexu-io-open-design|Open Design]] | AI Skill | ✅ | N/A | N/A | N/A | ✅ |
+| [[Figma-Skills|Figma Skills]] | AI Skill | ✅ | N/A | N/A | ❌ | ❌ |
 | Sketch | 設計工具 | ❌ | ❌ | ❌ | ❌ | ❌ 封閉格式 |
 
+## 相關概念
 ← [[nexu-io-open-design|Open Design]] · [[Figma-Skills|Figma Skills]]
 
 ## 來源

@@ -55,8 +55,8 @@ pip install cider-sdk
 | 專案 | 類型 | 邊緣推理 | OSWorld 成績 | 開源 | 語言 |
 |------|------|----------|-------------|------|------|
 | **Mano-P** | GUI-VLA Agent | ✅ Apple M4 | 58.2% #1 | ✅ Apache 2.0 | 中英 |
-| [[trycua-cua\|OpenCUA]] | CUA Agent | ❌ 需雲端 | 45.0% | ✅ | 英 |
-| [[computer-use-agent\|Claude Computer Use]] | 雲端 CUA | ❌ 雲端 | 31.3 | ❌ 商業 | 英 |
+| [[trycua-cua|OpenCUA]] | CUA Agent | ❌ 需雲端 | 45.0% | ✅ | 英 |
+| [[computer-use-agent|Claude Computer Use]] | 雲端 CUA | ❌ 雲端 | 31.3 | ❌ 商業 | 英 |
 | UI-TARS | GUI Agent | ❌ | 較低 | ✅ | 英 |
 
 ## 相關概念

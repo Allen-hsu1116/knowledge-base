@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐17.4k · Coding Agent 的上下文視窗優化 MCP Server，沙箱工具輸出 98% 壓縮，支援 15+ 平台。
 
-快速導航：[[context-engineering-basics|Context Engineering]] · [[Token-Optimization|Token Optimization]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[anthropics-claude-code|Claude Code]]
+## 快速導航
+[[context-engineering-basics|Context Engineering]] · [[Token-Optimization|Token Optimization]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[anthropics-claude-code|Claude Code]]
 
 ## 是什麼
 
@@ -75,6 +76,7 @@ npm install -g context-mode
 | Think in Code | ✅ | ❌ | ❌ | ❌ |
 | 洞察分析 | ✅ 90 指標 | ❌ | ❌ | ❌ |
 
+## 相關概念
 ← [[context-engineering-basics|Context Engineering]] · [[Token-Optimization|Token Optimization]]
 
 ## 來源

@@ -3,13 +3,13 @@ title: Chroma
 slug: Chroma
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 27,889
 language: zh-TW
 ---
 
 # Chroma
 
-> 開源 AI 向量資料庫，API 極簡（只有 4 個核心函數），適合快速原型。27.9K ⭐。
+> ⭐27,889 · 開源 AI 向量資料庫，API 極簡（只有 4 個核心函數），適合快速原型。27.9K ⭐。
 
 ## 快速導航
 - 📚 **RAG** → [[rag]]（Chroma 是 RAG 原型開發的首選向量資料庫）
@@ -84,3 +84,11 @@ results = collection.query(
 - **Stars**: ⭐27,889
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/chroma-core/chroma |
+| **Stars** | ⭐27,889 |
+| **收錄日期** | 2026-05-10 |

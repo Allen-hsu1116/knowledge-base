@@ -10,7 +10,7 @@ language: zh-TW
 
 # Context7
 
-> LLM 專用的即時文件查詢平台，從源頭拉取最新的版本特定文件和程式碼範例，直接注入 prompt，解決 LLM 依賴過時資訊的問題。⭐54.8k
+> ⭐54.8k · LLM 專用的即時文件查詢平台，從源頭拉取最新的版本特定文件和程式碼範例，直接注入 prompt，解決 LLM 依賴過時資訊的問題。⭐54.8k
 
 ## 快速導航
 
@@ -62,8 +62,8 @@ MCP 設定：server URL `https://mcp.context7.com/mcp`，API key 透過 `CONTEXT
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[MCP]] | 協議 | Context7 是 MCP 的實作之一 |
-| [[openclaw\|OpenClaw]] | Agent 平台 | OpenClaw 可透過 Context7 MCP 取得即時文件 |
-| [[qmd\|QMD]] | 本地搜尋引擎 | QMD 搜尋本地知識庫，Context7 搜尋線上文件 |
+| [[openclaw|OpenClaw]] | Agent 平台 | OpenClaw 可透過 Context7 MCP 取得即時文件 |
+| [[qmd|QMD]] | 本地搜尋引擎 | QMD 搜尋本地知識庫，Context7 搜尋線上文件 |
 | Perplexity | AI 搜尋引擎 | Perplexity 搜尋網頁，Context7 聚焦程式庫文件 |
 | DevDocs | 開發文件聚合 | DevDocs 是靜態文件瀏覽，Context7 動態注入 prompt |
 
@@ -73,8 +73,15 @@ MCP 設定：server URL `https://mcp.context7.com/mcp`，API key 透過 `CONTEXT
 
 ## 來源
 
-- [原始資料](../raw/2026-05-09-upstash-context7.md)
-- GitHub: https://github.com/upstash/context7
-- Stars: ⭐54,800
-- License: MIT
-- 收錄日期: 2026-05-09
+- GitHub：https://github.com/upstash/context7
+- Raw 檔案：`raw/2026-05-09-upstash-context7.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [upstash/context7](https://github.com/upstash/context7) |
+| Stars | ⭐54.8k |
+| License | MIT |
+| Language | zh-TW |
+| 收錄日期 | 2026-05-09 |

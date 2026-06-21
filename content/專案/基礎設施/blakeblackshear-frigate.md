@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # Frigate NVR
 
+> ⭐32846
+
 ⭐ 33k · 本地即時物件偵測 NVR——為 Home Assistant 設計的 AI 攝影機監控系統。
 
 ## 一句話
@@ -114,4 +116,15 @@ cameras:
 
 ## 來源
 
-- [原始資料](../raw/2026-05-25-blakeblackshear-frigate.md)
+- GitHub：https://github.com/blakeblackshear/frigate
+- Raw 檔案：`raw/2026-05-25-blakeblackshear-frigate.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) |
+| Stars | ⭐32846 |
+| License | — |
+| Language | TypeScript |
+| 收錄日期 | 2026-05-25 |

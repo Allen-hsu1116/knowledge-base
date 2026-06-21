@@ -11,7 +11,8 @@ language: Python
 
 > ⭐36k · 視覺化、範例驅動的 Claude Code 學習指南，從基礎到進階 Agent 編排，附可複製範本
 
-快速導航：[[anthropics-claude-code]] · [[AI-Skills]] · [[Prompt-Engineering]]
+## 快速導航
+[[anthropics-claude-code]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
 
@@ -60,13 +61,14 @@ cp -r 03-skills/code-review-specialist ~/.claude/skills/  # 15 min
 | 方案 | Stars | 類型 | 特色1 | 特色2 |
 |------|-------|------|-------|-------|
 | **Claude HowTo** | ⭐36k | 學習指南 | 10 模組 + Copy-paste 範本 | Mermaid 架構圖 |
-| [[anthropics-claude-cookbooks\|Claude Cookbooks]] | ⭐44k | 範例食譜 | 官方範例集 | 程式碼片段 |
-| [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐63k | 教學課程 | Microsoft 出品 | 10 課程入門 |
-| [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48k | 教學課程 | 中文社群 | MCP + RAG |
-| [[anthropics-claude-code\|Claude Code]] | ⭐128k | 官方工具 | CLI 本體 | 所有功能的基礎 |
+| [[anthropics-claude-cookbooks|Claude Cookbooks]] | ⭐44k | 範例食譜 | 官方範例集 | 程式碼片段 |
+| [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]] | ⭐63k | 教學課程 | Microsoft 出品 | 10 課程入門 |
+| [[datawhalechina-hello-agents|Hello-Agents]] | ⭐48k | 教學課程 | 中文社群 | MCP + RAG |
+| [[anthropics-claude-code|Claude Code]] | ⭐128k | 官方工具 | CLI 本體 | 所有功能的基礎 |
 
 Claude HowTo 與 Claude Cookbooks 的定位不同：Cookbooks 是官方的範例食譜集，提供各種場景的程式碼片段；Claude HowTo 則是一套結構化的學習系統，強調「從零到精通」的學習路徑和可立即使用的範本。
 
+## 相關概念
 ← [[anthropics-claude-code]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源

@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # cmux
 
+> ⭐19020
+
 ⭐ 19k · Ghostty-based macOS 終端機——直式分頁 + AI coding agent 通知，為 Agent 工作流設計。
 
 ## 快速導航
@@ -72,4 +74,15 @@ cmux 跟 [[Coding-Agent-CLI]] 不是競爭關係——cmux 是為 coding agent �
 
 ## 來源
 
-- [原始資料](../raw/2026-05-25-manaflow-ai-cmux.md)
+- GitHub：https://github.com/manaflow-ai/cmux
+- Raw 檔案：`raw/2026-05-25-manaflow-ai-cmux.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) |
+| Stars | ⭐19020 |
+| License | — |
+| Language | Swift |
+| 收錄日期 | 2026-05-25 |

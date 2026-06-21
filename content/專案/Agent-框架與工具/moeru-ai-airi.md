@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐39.7k · 自架 AI 虛擬夥伴，Web 原生技術打造的開源 Neuro-sama 替代方案
 
-快速導航：[[AI-Agent]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[computer-use-agent|電腦使用代理]] · [[generative-AI|生成式 AI]]
+## 快速導航
+[[AI-Agent]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[computer-use-agent|電腦使用代理]] · [[generative-AI|生成式 AI]]
 
 ## 是什麼
 
@@ -50,9 +51,10 @@ pnpm dev
 |------|-------|------|---------|---------|------|------|
 | **AIRI** | ⭐39.7k | AI 虛擬角色 | ✅ | ✅ | ✅ | ✅ |
 | Neuro-sama | — | AI 虛擬角色 | ✅ | ✅ | ❌ | ❌ |
-| [[open-webui-open-webui\|Open WebUI]] | ⭐80k+ | LLM 介面 | ✅ | ❌ | ✅ | ✅ |
+| [[open-webui-open-webui|Open WebUI]] | ⭐80k+ | LLM 介面 | ✅ | ❌ | ✅ | ✅ |
 | Character.AI | — | AI 角色聊天 | ✅ | ❌ | ❌ | ❌ |
 
+## 相關概念
 ← [[AI-Agent]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[computer-use-agent|電腦使用代理]] · [[generative-AI|生成式 AI]]
 
 ## 來源

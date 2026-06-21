@@ -3,13 +3,13 @@ title: antigravity-awesome-skills
 slug: sickn33-antigravity-awesome-skills
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 36,216
 language: zh-TW
 ---
 
 # antigravity-awesome-skills
 
-> 1,443+ 可安裝的 AI coding agent skills，支援 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、OpenCode、GitHub Copilot 等 7+ 工具。一個指令安裝，即插即用。
+> ⭐36,216 · 1,443+ 可安裝的 AI coding agent skills，支援 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、OpenCode、GitHub Copilot 等 7+ 工具。一個指令安裝，即插即用。
 
 ## 快速導航
 
@@ -82,3 +82,11 @@ test -d ~/.gemini/antigravity/skills && echo "Skills installed"
 - **Stars**: ⭐36,216
 - **License**: MIT
 - **收錄日期**: 2026-05-04
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/sickn33/antigravity-awesome-skills |
+| **Stars** | ⭐36,216 |
+| **收錄日期** | 2026-05-10 |

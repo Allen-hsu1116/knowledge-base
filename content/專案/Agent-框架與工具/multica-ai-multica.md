@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # Multica
 
+> ⭐31926
+
 ⭐ 31.9k · 開源 managed agents 平台，把 coding agents 變成真正的隊友
 
 ## 一句話
@@ -65,4 +67,15 @@ Multica 是把「managed」概念帶入 AI agent 的平台——從 one-shot pro
 
 ## 來源
 
-- [原始資料](../raw/2026-05-24-multica-ai-multica.md)
+- GitHub：https://github.com/multica-ai/multica
+- Raw 檔案：`raw/2026-05-24-multica-ai-multica.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [multica-ai/multica](https://github.com/multica-ai/multica) |
+| Stars | ⭐31926 |
+| License | — |
+| Language | TypeScript |
+| 收錄日期 | 2026-05-24 |

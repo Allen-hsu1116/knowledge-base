@@ -9,7 +9,7 @@ language: zh-TW
 
 # OpenHuman
 
-> 開源個人 AI 助手桌面應用——強調隱私、簡單、強大。內建 118+ 第三方整合、Memory Tree 知識庫、TokenJuice 壓縮、桌面吉祥物，以及本地優先架構。
+> ⭐9.1k · 開源個人 AI 助手桌面應用——強調隱私、簡單、強大。內建 118+ 第三方整合、Memory Tree 知識庫、TokenJuice 壓縮、桌面吉祥物，以及本地優先架構。
 
 ## 快速導航
 
@@ -86,21 +86,15 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 
 ## 來源
 
-- raw/2026-05-16-openhuman.md
-
-## 技術棧
-
-- **Desktop Shell**: Tauri (Rust + CEF)
-- **Frontend**: TypeScript
-- **Knowledge Base**: SQLite (local-first)
-- **Note Integration**: Obsidian-compatible vault
-- **Voice**: STT + ElevenLabs TTS
-- **Local AI**: Ollama
-
-## 來源
-
-- [原始資料](../raw/2026-05-16-tinyhumansai-openhuman.md)
+- GitHub：https://github.com/tinyhumansai/openhuman
+- Raw 檔案：`raw/2026-05-16-openhuman.md`
 
 ---
 
-GitHub: [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) · Stars: ⭐9.1k · License: 自訂開源 · 收錄日期: 2026-05-16
+| 項目 | 值 |
+|------|-----|
+| GitHub | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
+| Stars | ⭐9.1k |
+| License | 自訂開源 · 收錄日期: 2026-05-16 |
+| Language | zh-TW |
+| 收錄日期 | 2026-05-16 |

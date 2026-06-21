@@ -11,7 +11,7 @@ language: zh-TW
 
 # Agent Harness 優化
 
-> 系統化提升 AI coding agent 的效能：token 效率、記憶管理、安全驗證、持續學習。
+> ⭐— · 系統化提升 AI coding agent 的效能：token 效率、記憶管理、安全驗證、持續學習。
 
 ## 快速導航
 
@@ -97,7 +97,3 @@ cd ECC
 - [ECC 專案文件](../raw/2026-05-20-affaan-m-ECC.md)
 - [Harness Engineering 課程筆記](../raw/2026-05-03-harness-engineering.md)
 - ECC 專案 GitHub: https://github.com/affaan-m/ECC
-
----
-
-_此頁由 daily-llm-trending 自動維護_

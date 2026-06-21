@@ -9,7 +9,7 @@ language: zh-TW
 
 # Flash Attention — 加快語言模型生成速度
 
-> Flash Attention 是一種不改變 attention 計算結果、隨插即用的 Transformer 加速技術。核心想法：減少 GPU HBM ↔ SRAM 之間的資料搬運次數，將原本多次讀寫壓縮為少數幾次。
+> ⭐— · Flash Attention 是一種不改變 attention 計算結果、隨插即用的 Transformer 加速技術。核心想法：減少 GPU HBM ↔ SRAM 之間的資料搬運次數，將原本多次讀寫壓縮為少數幾次。
 
 ## 快速導航
 

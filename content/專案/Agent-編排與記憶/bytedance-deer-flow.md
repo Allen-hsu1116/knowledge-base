@@ -9,7 +9,7 @@ language: zh-TW
 
 # DeerFlow 2.0
 
-> 字節跳動開源 Super Agent 框架，編排子 Agent、記憶和沙箱，透過可擴充 Skill 實現幾乎任何任務。
+> ⭐68098 · 字節跳動開源 Super Agent 框架，編排子 Agent、記憶和沙箱，透過可擴充 Skill 實現幾乎任何任務。
 
 ## 快速導航
 

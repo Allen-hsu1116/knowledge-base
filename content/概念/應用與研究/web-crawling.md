@@ -10,7 +10,7 @@ language: zh-TW
 
 # Web Crawling
 
-> 系統化地瀏覽和收集網頁資料的技術。與 Web Scraping 的差異：爬蟲強調系統化遍歷，爬取強調資料提取。
+> ⭐— · 系統化地瀏覽和收集網頁資料的技術。與 Web Scraping 的差異：爬蟲強調系統化遍歷，爬取強調資料提取。
 
 ## 快速導航
 
@@ -88,7 +88,7 @@ async def crawl_site():
 | [[web-scraping]] | 互補 | Crawling 是遍歷，Scraping 是提取，常搭配使用 |
 | [[agent-reach]] | 工具 | Agent Reach 提供多平台爬取能力 |
 | [[Crawl4AI]] | 工具 | Crawl4AI 是 AI 友善的爬蟲工具 |
-| [[D4Vinci-Scrapling\|Scrapling]] | 工具 | Scrapling 是自適應爬蟲框架，能自動重新定位元素 |
+| [[D4Vinci-Scrapling|Scrapling]] | 工具 | Scrapling 是自適應爬蟲框架，能自動重新定位元素 |
 | [[rag]] | 下游 | 爬取的頁面是 RAG 知識庫的來源 |
 | [[Knowledge-Graph]] | 下游 | 爬取的實體和關係可建構知識圖譜 |
 | [[document-parsing]] | 串接 | 爬取的頁面需經解析才能結構化 |

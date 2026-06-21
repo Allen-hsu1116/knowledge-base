@@ -3,13 +3,13 @@ title: MemPalace
 slug: mempalace
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 50,787
 language: zh-TW
 ---
 
 # MemPalace
 
-> 本地優先 AI 記憶系統，逐字儲存對話歷史，結構化宮殿索引 + 語意搜尋，LongMemEval 96.6% R@5 零 API 呼叫。
+> ⭐50,787 · 本地優先 AI 記憶系統，逐字儲存對話歷史，結構化宮殿索引 + 語意搜尋，LongMemEval 96.6% R@5 零 API 呼叫。
 
 ## 快速導航
 

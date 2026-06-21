@@ -3,13 +3,13 @@ title: Web Scraping
 slug: web-scraping
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 65.3K
 language: zh-TW
 ---
 
 # Web Scraping
 
-> Web Scraping 是從網頁自動提取資料的技術，從簡單的 HTML 解析到 AI 驅動的智能爬蟲。是 RAG、知識庫、資料分析的上游基礎設施。
+> ⭐65.3K · Web Scraping 是從網頁自動提取資料的技術，從簡單的 HTML 解析到 AI 驅動的智能爬蟲。是 RAG、知識庫、資料分析的上游基礎設施。
 
 ## 快速導航
 
@@ -133,3 +133,10 @@ class MySpider(scrapy.Spider):
 ---
 
 _此頁由 daily-llm-trending 自動維護_
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **Stars** | ⭐65.3K |
+| **收錄日期** | 2026-05-10 |

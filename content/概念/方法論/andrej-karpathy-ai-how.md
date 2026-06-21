@@ -11,7 +11,7 @@ stars: —
 
 # Karpathy 同款「AI 知識庫」完整拆解
 
-> 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
+> ⭐— · 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
 
 ## 快速導航
 - 🧠 **LLM 知識庫方法** → [[llm-knowledge-base]]（我們實作的 Karpathy 方法延伸）
@@ -187,3 +187,10 @@ my-knowledge-base/
 
 ## 來源
 - raw/2026-04-28-andrej-karpathy-ai-how.md
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how |
+| **收錄日期** | 2026-04-28 |

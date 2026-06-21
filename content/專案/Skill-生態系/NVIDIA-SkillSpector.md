@@ -11,7 +11,8 @@ language: Python
 
 > ⭐3.5k · AI Agent Skills 安全掃描器，64 種漏洞模式 x 16 大類，安裝 Skill 前先問它
 
-快速導航：[[prompt-security|Prompt 安全]] · [[AI-Skills|AI Skills]] · [[cl4r1t4s|CL4R1T4S]] · [[pentesting|滲透測試]]
+## 快速導航
+[[prompt-security|Prompt 安全]] · [[AI-Skills|AI Skills]] · [[cl4r1t4s|CL4R1T4S]] · [[pentesting|滲透測試]]
 
 ## 是什麼
 
@@ -77,10 +78,11 @@ skillspector scan ./my-skill/ --no-llm
 | 方案 | Stars | 類型 | 漏洞模式 | LLM 評估 | SARIF |
 |------|-------|------|---------|---------|-------|
 | **SkillSpector** | ⭐3.5k | Skill 安全掃描 | 64 patterns | ✅ | ✅ |
-| [[cl4r1t4s\|CL4R1T4S]] | — | Prompt 越獄研究 | Jailbreak 技術 | ❌ | ❌ |
-| [[prompt-security\|Prompt 安全]] | — | 概念框架 | 安全風險分類 | — | — |
-| [[mukul975-Anthropic-Cybersecurity-Skills\|Cybersecurity Skills]] | ⭐7.4k | Agent 網安 Skills | MITRE ATT&CK | ❌ | ❌ |
+| [[cl4r1t4s|CL4R1T4S]] | — | Prompt 越獄研究 | Jailbreak 技術 | ❌ | ❌ |
+| [[prompt-security|Prompt 安全]] | — | 概念框架 | 安全風險分類 | — | — |
+| [[mukul975-Anthropic-Cybersecurity-Skills|Cybersecurity Skills]] | ⭐7.4k | Agent 網安 Skills | MITRE ATT&CK | ❌ | ❌ |
 
+## 相關概念
 ← [[prompt-security|Prompt 安全]] · [[AI-Skills|AI Skills]] · [[cl4r1t4s|CL4R1T4S]]
 
 ## 來源

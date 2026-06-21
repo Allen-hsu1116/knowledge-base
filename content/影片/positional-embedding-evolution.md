@@ -11,7 +11,7 @@ language: zh-TW
 
 # 位置編碼演進：Absolute → Relative → RoPE → 無 Positional Embedding
 
-> Transformer 的 Self-Attention 不天生包含位置資訊。位置編碼從 Sinusoidal（絕對位置）→ ALiBi（相對位置偏壓）→ RoPE（旋轉位置編碼）一路演進，每種方法都有其取捨。
+> ⭐— · Transformer 的 Self-Attention 不天生包含位置資訊。位置編碼從 Sinusoidal（絕對位置）→ ALiBi（相對位置偏壓）→ RoPE（旋轉位置編碼）一路演進，每種方法都有其取捨。
 
 **來源**: 李宏毅 YouTube 課程
 **影片**: https://www.youtube.com/watch?v=Ll-wk8x3G_g

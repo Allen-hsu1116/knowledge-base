@@ -9,7 +9,7 @@ stars: 16887
 
 # CUA (Computer-Use Agents)
 
-> 開源的 Computer-Use Agent 基礎設施，提供沙箱、SDK 和評測基準，讓 AI Agent 能控制完整桌面（macOS、Linux、Windows）。
+> ⭐16887 · 開源的 Computer-Use Agent 基礎設施，提供沙箱、SDK 和評測基準，讓 AI Agent 能控制完整桌面（macOS、Linux、Windows）。
 
 ## 快速導航
 
@@ -65,10 +65,10 @@ async with Sandbox.ephemeral(Image.linux()) as sb:
 
 | 方案 | 定位 | 與 CUA 的關係 |
 |------|------|--------------|
-| [[cubesandbox\|CubeSandbox]] | Rust 沙箱，輕量級 | CUA 的沙箱更全面（跨 OS + 桌面操控），CubeSandbox 更輕量 |
-| [[volcengine-OpenSandbox\|OpenSandbox]] | 字節跳動沙箱 | CUA 提供桌面操控能力，OpenSandbox 專注程式碼執行 |
-| [[sandbox\|沙箱概念]] | 概念層 | CUA 是沙箱概念的完整實作 |
-| [[openclaw\|OpenClaw]] | AI Agent 框架 | CUA 原生支援 OpenClaw，cuabot openclaw 可一鍵啟動 |
+| [[cubesandbox|CubeSandbox]] | Rust 沙箱，輕量級 | CUA 的沙箱更全面（跨 OS + 桌面操控），CubeSandbox 更輕量 |
+| [[volcengine-OpenSandbox|OpenSandbox]] | 字節跳動沙箱 | CUA 提供桌面操控能力，OpenSandbox 專注程式碼執行 |
+| [[sandbox|沙箱概念]] | 概念層 | CUA 是沙箱概念的完整實作 |
+| [[openclaw|OpenClaw]] | AI Agent 框架 | CUA 原生支援 OpenClaw，cuabot openclaw 可一鍵啟動 |
 
 ## 相關概念
 
@@ -84,3 +84,11 @@ async with Sandbox.ephemeral(Image.linux()) as sb:
 - **Stars**: ⭐16,887
 - **License**: MIT
 - **收錄日期**: 2026-05-18
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/trycua/cua |
+| **Stars** | ⭐16887 |
+| **收錄日期** | 2026-05-18 |

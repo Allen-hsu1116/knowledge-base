@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # Anthropic Cybersecurity Skills
 
+> ⭐7418
+
 ⭐ 7.4k · 754 個結構化網安技能，讓 AI agent 擁有資深分析師的知識
 
 ## 一句話
@@ -65,4 +67,15 @@ git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
 
 ## 來源
 
-- [原始資料](../raw/2026-05-24-mukul975-Anthropic-Cybersecurity-Skills.md)
+- GitHub：https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+- Raw 檔案：`raw/2026-05-24-mukul975-Anthropic-Cybersecurity-Skills.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
+| Stars | ⭐7418 |
+| License | — |
+| Language | Python |
+| 收錄日期 | 2026-05-24 |

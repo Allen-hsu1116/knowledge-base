@@ -9,7 +9,7 @@ language: zh-TW
 
 # ParseBench
 
-> 用 ~2,000 頁真實企業文件評測文件解析工具，看它們轉出來的結構化輸出是否可靠到能讓 AI Agent 直接使用。⭐468
+> ⭐468 · 用 ~2,000 頁真實企業文件評測文件解析工具，看它們轉出來的結構化輸出是否可靠到能讓 AI Agent 直接使用。⭐468
 
 ## 快速導航
 - 🔍 **文件解析** → [[document-parsing]]（ParseBench 是文件解析的基準測試框架）
@@ -54,7 +54,7 @@ uv run parse-bench serve llamaparse_agentic
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[document-parsing]] | 文件解析概念 | ParseBench 是評測文件解析工具的基準 |
-| [[llama-index\|LlamaIndex]] | RAG 框架 | ParseBench 由 LlamaIndex 團隊開發 |
+| [[llama-index|LlamaIndex]] | RAG 框架 | ParseBench 由 LlamaIndex 團隊開發 |
 | [[docling]] | 文件解析 | Docling 是 ParseBench 評測的管線之一 |
 | [[datalab-to-chandra]] | 高精度 OCR | Chandra 可作為 ParseBench 的被評測對象 |
 | [[aiptimizer-TurboOCR]] | GPU 加速 OCR | TurboOCR 的輸出品質可用 ParseBench 評測 |
@@ -73,3 +73,11 @@ uv run parse-bench serve llamaparse_agentic
 - **Stars**: ⭐468
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/run-llama/ParseBench |
+| **Stars** | ⭐'⭐468' |
+| **收錄日期** | 2026-05-09 |

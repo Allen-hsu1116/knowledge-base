@@ -10,7 +10,7 @@ language: zh-TW
 
 # Docling
 
-> IBM 開源的文件解析引擎，把 PDF/DOCX/PPTX/XLSX/HTML 等文件轉成結構化資料，讓 LLM 和 RAG 系統可以直接消化。59k ⭐，MIT 授權。
+> ⭐59878 · IBM 開源的文件解析引擎，把 PDF/DOCX/PPTX/XLSX/HTML 等文件轉成結構化資料，讓 LLM 和 RAG 系統可以直接消化。59k ⭐，MIT 授權。
 
 ## 快速導航
 

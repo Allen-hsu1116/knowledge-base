@@ -11,7 +11,8 @@ language: TypeScript
 
 > ⭐46.9k · 開源 CRM 的第一名，Salesforce 替代方案，為 AI 時代而生
 
-快速導航：CRM · [[open-source-business|開源商業模式]] · [[open-webui-open-webui|AI 整合]] · [[self-hosted|自架服務]]
+## 快速導航
+CRM · [[open-source-business|開源商業模式]] · [[open-webui-open-webui|AI 整合]] · [[self-hosted|自架服務]]
 
 ## 是什麼
 
@@ -57,7 +58,7 @@ npx twenty app:publish
 | **Twenty** | ⭐46.9k | CRM | ✅ | ✅ | ✅ TypeScript | ✅ |
 | Salesforce | — | CRM | ❌ | ✅ | ❌ | ❌ |
 | HubSpot | — | CRM | ❌ | ✅ | ❌ | ❌ |
-| [[frappe-erpnext\|ERPNext]] | ⭐20k+ | ERP/CRM | ✅ | ❌ | ❌ Python | ✅ |
+| [[frappe-erpnext|ERPNext]] | ⭐20k+ | ERP/CRM | ✅ | ❌ | ❌ Python | ✅ |
 
 ## 相關概念
 

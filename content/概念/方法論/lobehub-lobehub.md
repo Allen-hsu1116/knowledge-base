@@ -12,7 +12,8 @@ topics: [agent, agent-collaboration, agent-harness, ai, cao, chatgpt, claude, de
 
 > ⭐78.7k · 你的 Agent 首席營運官——招募、排班、回報，讓 AI 團隊 7×24 運作
 
-快速導航：[[agent-skills-ecosystem|Agent Skills 生態系]] · [[MCP|MCP 協議]] · [[self-hosted-AI-platform|自架 AI 平台]]
+## 快速導航
+[[agent-skills-ecosystem|Agent Skills 生態系]] · [[MCP|MCP 協議]] · [[self-hosted-AI-platform|自架 AI 平台]]
 
 ## 是什麼
 
@@ -57,12 +58,13 @@ pnpm dev
 
 | 方案 | 類型 | Agent 管理 | 自架 | 適用場景 |
 |------|------|-----------|------|----------|
-| [[lobehub-lobehub\|LobeHub]] | Agent 營運平台 | ✅ 招募/排班/回報 | ✅ | AI 團隊管理 |
+| [[lobehub-lobehub|LobeHub]] | Agent 營運平台 | ✅ 招募/排班/回報 | ✅ | AI 團隊管理 |
 | [[langgenius-dify|Dify]] | LLM App 平台 | ✅ 工作流 | ✅ | LLM 應用開發 |
 | [[CherryHQ-cherry-studio|Cherry Studio]] | AI 客戶端 | ❌ 單一對話 | ✅ | 多模型聊天 |
 | [[open-webui-open-webui|Open WebUI]] | Web UI | ❌ 單一對話 | ✅ | 本地模型介面 |
 | [[farion1231-cc-switch|CC Switch]] | 桌面管理器 | ⚠️ 切換管理 | ✅ | AI Agent 切換 |
 
+## 相關概念
 ← [[agent-skills-ecosystem|Agent Skills 生態系]] · [[MCP|MCP 協議]]
 
 ## 來源

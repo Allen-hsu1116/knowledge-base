@@ -3,13 +3,13 @@ title: Chandra
 slug: datalab-to-chandra
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 10,444
 language: zh-TW
 ---
 
 # Chandra
 
-> 高精確度 OCR 模型 — 基於視覺模型，專攻複雜表格、表單、手寫，完整保留版面結構。datalab-to 開源。
+> ⭐10,444 · 高精確度 OCR 模型 — 基於視覺模型，專攻複雜表格、表單、手寫，完整保留版面結構。datalab-to 開源。
 
 ## 快速導航
 
@@ -76,7 +76,7 @@ ocr_result = OCR("complex_table.pdf")
 | 工具 | 定位 | 表格能力 | 手寫 | 版面保留 | 方法 |
 |------|------|----------|------|----------|------|
 | **Chandra** | 高精確度 OCR | ✅ 強 | ✅ | ✅ | 視覺模型 |
-| **[[microsoft-markitdown\|MarkItDown]]** | 文件→Markdown | ⚠️ 基本 | ❌ | ⚠️ 基本 | 規則轉換 |
+| **[[microsoft-markitdown|MarkItDown]]** | 文件→Markdown | ⚠️ 基本 | ❌ | ⚠️ 基本 | 規則轉換 |
 | **[[docling]]** | 完整文件解析 | ✅ | ❌ | ✅ | 混合 pipeline |
 | **Tesseract** | 傳統 OCR | ❌ | ❌ | ❌ | Pipeline OCR |
 

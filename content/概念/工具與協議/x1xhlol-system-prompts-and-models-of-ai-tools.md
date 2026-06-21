@@ -11,7 +11,8 @@ language: ""
 
 > ⭐139k · 最完整的 AI 工具 system prompts 收集，揭露 Augment Code、Claude Code、Cursor、Devin 等 30+ 產品的提示詞設計
 
-快速導航：[[Prompt-Engineering]] · [[prompt-security]] · [[AI-Agent]] · [[CLAUDE-md]]
+## 快速導航
+[[Prompt-Engineering]] · [[prompt-security]] · [[AI-Agent]] · [[CLAUDE-md]]
 
 ## 是什麼
 
@@ -54,11 +55,12 @@ cat "Cursor/system_prompt.md"
 | 方案 | Stars | 類型 | 內容 | 安全角度 |
 |------|-------|------|------|----------|
 | **本專案** | ⭐139k | Prompt 收集 | 30+ 產品 system prompts | ⚠️ 揭露 extraction 風險 |
-| [[cl4r1t4s\|CL4R1T4S]] | — | Jailbreak 研究 | 越獄技術與防禦 | 🛡️ 防禦視角 |
-| [[CLAUDE-md\|CLAUDE.md]] | — | 規範格式 | Claude Code 行為規範 | ✅ 正面設計視角 |
-| [[anthropics-claude-code\|Claude Code]] | ⭐128k | Coding Agent | 被 收錄的對象 | — |
-| [[multica-ai-andrej-karpathy-skills\|Karpathy CLAUDE.md]] | ⭐141k | Skill 規則 | Karpathy 的 CLAUDE.md 規則 | ✅ 正面設計視角 |
+| [[cl4r1t4s|CL4R1T4S]] | — | Jailbreak 研究 | 越獄技術與防禦 | 🛡️ 防禦視角 |
+| [[CLAUDE-md|CLAUDE.md]] | — | 規範格式 | Claude Code 行為規範 | ✅ 正面設計視角 |
+| [[anthropics-claude-code|Claude Code]] | ⭐128k | Coding Agent | 被 收錄的對象 | — |
+| [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md]] | ⭐141k | Skill 規則 | Karpathy 的 CLAUDE.md 規則 | ✅ 正面設計視角 |
 
+## 相關概念
 ← [[Prompt-Engineering]] · [[prompt-security]] · [[AI-Agent]] · [[CLAUDE-md]]
 
 ## 來源

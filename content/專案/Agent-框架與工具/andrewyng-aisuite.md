@@ -11,7 +11,8 @@ language: Python
 
 > ⭐14.1k · Andrew Ng 出品的輕量 Python LLM 統一介面，加上 OpenCoworker 桌面 AI 代理。
 
-快速導航：[[LLM|LLM]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[MCP|MCP]] · [[litellm|LiteLLM]]
+## 快速導航
+[[LLM|LLM]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[MCP|MCP]] · [[litellm|LiteLLM]]
 
 ## 是什麼
 
@@ -73,6 +74,7 @@ print(response.choices[0].message.content)
 | 開源 | ✅ MIT | ✅ MIT | ✅ | ✅ |
 | 作者 | Andrew Ng | 社群 | Dify | 社群 |
 
+## 相關概念
 ← [[LLM|LLM]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 來源

@@ -3,13 +3,13 @@ title: Whisper
 slug: Whisper
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 99,208
 language: zh-TW
 ---
 
 # Whisper
 
-> OpenAI 開源的語音辨識模型，支援多語言辨識、翻譯和語言偵測。99.2K ⭐。
+> ⭐99,208 · OpenAI 開源的語音辨識模型，支援多語言辨識、翻譯和語言偵測。99.2K ⭐。
 
 ## 快速導航
 - 🧠 **多模態 AI** → [[LLM]]（Whisper 是語音→文字的多模態橋樑）
@@ -93,3 +93,11 @@ Whisper 是語音辨識的基準模型，很多專案基於它做改進：
 - **Stars**: ⭐99,208
 - **License**: MIT
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/openai/whisper |
+| **Stars** | ⭐99,208 |
+| **收錄日期** | 2026-05-10 |

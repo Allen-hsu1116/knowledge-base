@@ -3,13 +3,13 @@ title: RAG（檢索增強生成）
 slug: rag
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 79k
 language: zh-TW
 ---
 
 # RAG（檢索增強生成）
 
-> Retrieval-Augmented Generation — 結合外部知識檢索與 LLM 生成，讓模型回答有根據、可追溯。從「模型自己想」到「先查再答」，是 LLM 應用從玩具到工具的關鍵一步。
+> ⭐79k · Retrieval-Augmented Generation — 結合外部知識檢索與 LLM 生成，讓模型回答有根據、可追溯。從「模型自己想」到「先查再答」，是 LLM 應用從玩具到工具的關鍵一步。
 
 ## 快速導航
 
@@ -109,8 +109,8 @@ docker compose -f docker/docker-compose.yml up -d
 | 專案 | 說明 | Stars |
 |------|------|-------|
 | 👉 [[ragflow]] | 開源 RAG 引擎，深度文件理解 + 接地引用 | ⭐79k |
-| 👉 [[qmd\|QMD]] | 本地優先混合搜尋引擎，BM25+向量+LLM重排序 | ⭐24.9k |
-| 👉 [[llama-index\|LlamaIndex]] | LLM 資料框架，RAG 管線+文件解析+Agent | ⭐49.4k |
+| 👉 [[qmd|QMD]] | 本地優先混合搜尋引擎，BM25+向量+LLM重排序 | ⭐24.9k |
+| 👉 [[llama-index|LlamaIndex]] | LLM 資料框架，RAG 管線+文件解析+Agent | ⭐49.4k |
 | 👉 [[LeDat98-NexusRAG]] | 混合式 RAG 系統，向量+知識圖譜+重排序 | ⭐297 |
 | 👉 [[flamehaven01-Flamehaven-Filesearch]] | 自架式 RAG 搜尋引擎，BM25+混合搜尋 | ⭐100 |
 
@@ -150,3 +150,11 @@ docker compose -f docker/docker-compose.yml up -d
 ---
 
 _此頁由 daily-llm-trending 自動維護_
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/infiniflow/ragflow.git |
+| **Stars** | ⭐79k |
+| **收錄日期** | 2026-05-10 |

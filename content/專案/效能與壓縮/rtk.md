@@ -3,13 +3,13 @@ title: RTK (Rust Token Killer)
 slug: rtk
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 40,072
 language: zh-TW
 ---
 
 # RTK (Rust Token Killer)
 
-> 高效能 CLI proxy，攔截 Bash 命令輸出並壓縮，LLM token 消耗降 60-90%。單一二進位檔、零依賴、4 種壓縮策略。
+> ⭐40,072 · 高效能 CLI proxy，攔截 Bash 命令輸出並壓縮，LLM token 消耗降 60-90%。單一二進位檔、零依賴、4 種壓縮策略。
 
 ## 快速導航
 

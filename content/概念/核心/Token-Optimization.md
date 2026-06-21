@@ -9,7 +9,7 @@ language: zh-TW
 
 # Token Optimization
 
-> Token Optimization 是降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入、分層載入等方式減少成本和延遲，同時保持回應品質。
+> ⭐— · Token Optimization 是降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入、分層載入等方式減少成本和延遲，同時保持回應品質。
 
 ## 快速導航
 
@@ -162,7 +162,7 @@ system = """[穩定] 角色定義 [穩定] 工具列表 [變動] 今日日期"""
 - [[rtk]] — Rust CLI proxy，攔截壓縮命令輸出
 - [[JuliusBrussee-caveman]] — 穴居人語 token 壓縮
 - [[gemma4-mtp-drafters]] — 投機解碼推理加速，零品質損失
-- [[Ollama]] — 本地推理，API 成本降至零
+- [[模型推論與部署|Ollama]] — 本地推理，API 成本降至零
 - [[llama-cpp|llama.cpp]] — 本地推論引擎，消費級硬體可跑
 - [[vLLM]] — 高吞吐服務，PagedAttention 降記憶體成本
 - [[sgl-project-sglang|SGLang]] — RadixAttention 前綴快取降重複成本

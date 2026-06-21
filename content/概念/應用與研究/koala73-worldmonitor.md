@@ -12,7 +12,8 @@ topics: [ai, dashboard, geopolitics, monitoring, news, osint, opensource, palant
 
 > ⭐57.2k · 即時全球情報儀表板——AI 驅動的新聞聚合、地緣政治監控與基礎設施追蹤。
 
-快速導航：[[sansan0-TrendRadar|TrendRadar]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[Ollama]] · [[Open-WebUI|Open WebUI]]
+## 快速導航
+[[sansan0-TrendRadar|TrendRadar]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[模型推論與部署|Ollama]] · [[open-webui-open-webui|Open WebUI]]
 
 ## 是什麼
 
@@ -57,16 +58,16 @@ npm run dev:commodity  # commodity.worldmonitor.app
 
 | 方案 | 核心定位 | AI 整合 | 桌面應用 | 地圖引擎 |
 |------|----------|---------|----------|----------|
-| [[koala73-worldmonitor\|WorldMonitor]] | 全球情報儀表板 | Ollama 本地 | Tauri 2 | globe.gl + deck.gl |
-| [[sansan0-TrendRadar\|TrendRadar]] | 輿情監控 | MCP | Web | — |
-| [[BigBodyCobain-Shadowbroker\|Shadowbroker]] | OSINT 情報平台 | AI Agent | — | — |
-| [[Open-WebUI\|Open WebUI]] | LLM 前端 | 多模型 | — | — |
+| [[koala73-worldmonitor|WorldMonitor]] | 全球情報儀表板 | Ollama 本地 | Tauri 2 | globe.gl + deck.gl |
+| [[sansan0-TrendRadar|TrendRadar]] | 輿情監控 | MCP | Web | — |
+| [[BigBodyCobain-Shadowbroker|Shadowbroker]] | OSINT 情報平台 | AI Agent | — | — |
+| [[open-webui-open-webui|Open WebUI]] | LLM 前端 | 多模型 | — | — |
 
-WorldMonitor 與 [[sansan0-TrendRadar|TrendRadar]] 互補：TrendRadar 聚焦輿情監控和社群推送，WorldMonitor 則提供更廣泛的全球局勢感知。與 [[Open-WebUI|Open WebUI]] 的關係在於兩者都支援 Ollama 本地 AI。
+WorldMonitor 與 [[sansan0-TrendRadar|TrendRadar]] 互補：TrendRadar 聚焦輿情監控和社群推送，WorldMonitor 則提供更廣泛的全球局勢感知。與 [[open-webui-open-webui|Open WebUI]] 的關係在於兩者都支援 Ollama 本地 AI。
 
 ## 相關概念
 
-← [[sansan0-TrendRadar|TrendRadar]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[Open-WebUI|Open WebUI]]
+← [[sansan0-TrendRadar|TrendRadar]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[open-webui-open-webui|Open WebUI]]
 
 ## 來源
 

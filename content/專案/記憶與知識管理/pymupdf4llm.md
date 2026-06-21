@@ -3,13 +3,13 @@ title: PyMuPDF4LLM
 slug: pymupdf4llm
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 1,664
 language: zh-TW
 ---
 
 # PyMuPDF4LLM
 
-> 一行把 PDF 轉成 LLM 友善的 Markdown/JSON，免 GPU 免雲端。
+> ⭐1,664 · 一行把 PDF 轉成 LLM 友善的 Markdown/JSON，免 GPU 免雲端。
 
 ## 快速導航
 
@@ -75,7 +75,7 @@ pages = loader.load()
 
 ### PyMuPDF4LLM vs MarkItDown
 
-| | **PyMuPDF4LLM** | **[[microsoft-markitdown\|MarkItDown]]** |
+| | **PyMuPDF4LLM** | **[[microsoft-markitdown|MarkItDown]]** |
 |---|---|---|
 | **定位** | PDF→LLM 友善格式，版面感知 | 任何格式→Markdown，輕量通用 |
 | **底層引擎** | MuPDF C 引擎（快） | 純 Python（輕量） |

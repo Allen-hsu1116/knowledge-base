@@ -3,13 +3,13 @@ title: Crawl4AI
 slug: Crawl4AI
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 65,284
 language: zh-TW
 ---
 
 # Crawl4AI
 
-> LLM 友善的網頁爬蟲，把網頁轉成乾淨的 Markdown 供 RAG 和 Agent 使用。65.3K ⭐。
+> ⭐65,284 · LLM 友善的網頁爬蟲，把網頁轉成乾淨的 Markdown 供 RAG 和 Agent 使用。65.3K ⭐。
 
 ## 快速導航
 - 📚 **RAG** → [[rag]]（Crawl4AI 是 RAG 系統的網頁資料採集層）
@@ -74,7 +74,7 @@ result = await crawler.arun(
 | [[microsoft-markitdown]] | 文件轉 Markdown | Office 文件 | Markdown | ✅ |
 | Scrapy | 通用爬蟲 | URL | HTML/JSON | ❌ 需手動處理 |
 | BeautifulSoup | HTML 解析 | HTML | 結構化 | ❌ 需手動清洗 |
-| [[D4Vinci-Scrapling\|Scrapling]] | 自適應爬蟲 | URL | 結構化 | ✅ MCP 整合 |
+| [[D4Vinci-Scrapling|Scrapling]] | 自適應爬蟲 | URL | 結構化 | ✅ MCP 整合 |
 | [[rag]] | 概念頁 | — | — | Crawl4AI 是 RAG 的上游資料採集工具 |
 
 ## 相關概念
@@ -89,3 +89,11 @@ result = await crawler.arun(
 - **Stars**: ⭐65,284
 - **License**: Apache-2.0
 - **收錄日期**: 2026-05-10
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/unclecode/crawl4ai |
+| **Stars** | ⭐65,284 |
+| **收錄日期** | 2026-05-10 |

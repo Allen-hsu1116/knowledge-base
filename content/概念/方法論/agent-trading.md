@@ -7,7 +7,7 @@ language: zh-TW
 
 # Agent 交易
 
-> AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。
+> ⭐— · AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。
 
 ## 核心內容
 

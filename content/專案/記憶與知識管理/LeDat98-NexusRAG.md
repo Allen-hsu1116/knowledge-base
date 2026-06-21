@@ -9,7 +9,7 @@ language: zh-TW
 
 # NexusRAG
 
-> 混合式 RAG 系統，結合向量搜尋、知識圖譜與重排序，提升檢索品質與推理能力。
+> ⭐297 · 混合式 RAG 系統，結合向量搜尋、知識圖譜與重排序，提升檢索品質與推理能力。
 
 ## 快速導航
 
@@ -58,8 +58,8 @@ result = rag.query("什麼是 Flash Attention？")
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[ragflow]] | 開源 RAG 引擎 | 同為 RAG 引擎，ragflow 側重端到端管線 |
-| [[qmd\|QMD]] | 本地混合搜尋引擎 | QMD 側重本地 CLI 搜尋，NexusRAG 側重知識圖譜 |
-| [[llama-index\|LlamaIndex]] | LLM 資料框架 | LlamaIndex 是框架層，NexusRAG 是應用層 |
+| [[qmd|QMD]] | 本地混合搜尋引擎 | QMD 側重本地 CLI 搜尋，NexusRAG 側重知識圖譜 |
+| [[llama-index|LlamaIndex]] | LLM 資料框架 | LlamaIndex 是框架層，NexusRAG 是應用層 |
 | [[safishamsi-graphify]] | 知識圖譜 MCP | graphify 側重建圖，NexusRAG 側重檢索 |
 | [[self-rag]] | 自我反思 RAG | Self-RAG 側重生成品質審查，NexusRAG 側重檢索品質 |
 
@@ -72,3 +72,11 @@ result = rag.query("什麼是 Flash Attention？")
 - GitHub: https://github.com/LeDat98/NexusRAG
 - Stars: ⭐297
 - 收錄日期: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/LeDat98/NexusRAG |
+| **Stars** | ⭐'⭐297' |
+| **收錄日期** | 2026-05-09 |

@@ -3,13 +3,13 @@ title: Claude Plugins Official
 slug: anthropics-claude-plugins-official
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 18,801
 language: zh-TW
 ---
 
 # Claude Plugins Official
 
-> Anthropic 官方維護的 Claude Code 高品質插件目錄 — 內部插件 + 第三方插件，統一結構與品質把關。
+> ⭐18,801 · Anthropic 官方維護的 Claude Code 高品質插件目錄 — 內部插件 + 第三方插件，統一結構與品質把關。
 
 ## 快速導航
 

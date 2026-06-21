@@ -11,6 +11,8 @@ updated: 2026-06-14
 
 # MiroFish
 
+> ⭐62147
+
 ⭐ 62k · 簡潔通用的群體智慧引擎，預測萬物——用多 Agent 模擬社會演化來推演未來。
 
 ## 一句話
@@ -101,4 +103,15 @@ docker compose up -d
 
 ## 來源
 
-- [原始資料](../raw/2026-05-25-666ghj-MiroFish.md)
+- GitHub：https://github.com/666ghj/MiroFish
+- Raw 檔案：`raw/2026-05-25-666ghj-MiroFish.md`
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
+| Stars | ⭐62147 |
+| License | — |
+| Language | Python |
+| 收錄日期 | 2026-05-25 |

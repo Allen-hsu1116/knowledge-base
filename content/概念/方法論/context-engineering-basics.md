@@ -9,7 +9,7 @@ language: zh-TW
 
 # Context Engineering 基本概念
 
-> 系統化介紹 AI Agent 的核心技術——如何管理語言模型看到的內容，讓輸入長度合適（詳細參考頁）
+> ⭐— · 系統化介紹 AI Agent 的核心技術——如何管理語言模型看到的內容，讓輸入長度合適（詳細參考頁）
 
 ## 快速導航
 - 🧠 **Context Engineering 定義** → [[AI-Agent]]（Agent 的核心就是大 F 函數，決定 LLM 看到什麼）

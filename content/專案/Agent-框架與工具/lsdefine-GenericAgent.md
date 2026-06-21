@@ -9,7 +9,7 @@ language: zh-TW
 
 # GenericAgent
 
-> 極簡自演化 Agent：3K 行程式碼起家，每次解題自動結晶成技能，越用越強。9 個原子工具 + 100 行 Agent Loop。⭐9,199
+> ⭐9199 · 極簡自演化 Agent：3K 行程式碼起家，每次解題自動結晶成技能，越用越強。9 個原子工具 + 100 行 Agent Loop。⭐9,199
 
 ## 快速導航
 - 🤖 **Agent 自演化** → [[AI-Agent]]（GenericAgent 是自演化 Agent 的極簡實作）
@@ -93,3 +93,11 @@ streamlit run web_ui.py
 - **Stars**: ⭐9,199
 - **License**: MIT
 - **收錄日期**: 2026-05-06
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/lsdefine/GenericAgent.git |
+| **Stars** | ⭐'⭐9199' |
+| **收錄日期** | 2026-05-06 |

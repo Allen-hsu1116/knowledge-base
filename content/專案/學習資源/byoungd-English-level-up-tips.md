@@ -11,7 +11,8 @@ language: Markdown
 
 > ⭐46.7k · 離譜的英語學習指南，涵蓋聽說讀寫全方位方法論與 AI 輔助方案
 
-快速導航：[[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education|自學資源]] · [[LLM]]
+## 快速導航
+[[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education|自學資源]] · [[LLM]]
 
 ## 是什麼
 
@@ -40,14 +41,22 @@ cd English-level-up-tips
 
 本專案為純 Markdown 文件，無需安裝任何依賴，直接閱讀即可。也可搭配 AI 工具（如 Claude、ChatGPT）根據書中方法進行互動練習。
 
+### AI 輔助學習範例
+
+- **聽力練習**：用 ChatGPT 生成對話腳本，搭配 TTS 朗讀練習聽力
+- **口說練習**：用語音輸入跟 AI 對話，請 AI 修正文法和用詞
+- **寫作練習**：請 Claude 批改你的英文寫作，給出修改建議和替代表達
+- **閱讀練習**：請 AI 用目標字彙量改寫文章，循序漸進提升閱讀能力
+
 ## 跟其他方案的關係
 
 | 方案 | Stars | 類型 | AI 輔助 | 雙語支援 | 涵蓋範圍 |
 |------|-------|------|---------|---------|---------|
 | **English Level Up Tips** | ⭐46.7k | 電子書指南 | ✅ | ✅ | 聽說讀寫 |
-| [[Understand-Anything\|Understand Anything]] | ⭐6.6k | 學習方法論 | ✅ | ❌ | 通用學習 |
+| [[Understand-Anything|Understand Anything]] | ⭐6.6k | 學習方法論 | ✅ | ❌ | 通用學習 |
 | 傳統英語教材 | — | 書籍/課程 | ❌ | ❌ | 單一技能 |
 
+## 相關概念
 ← [[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education|自學資源]] · [[LLM]]
 
 ## 來源

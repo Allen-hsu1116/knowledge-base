@@ -11,7 +11,7 @@ updated: 2026-01-18
 
 # CodeGraph
 
-> 為 Claude Code 打造的語意程式碼知識圖譜 MCP server，讓 AI 代理用一次工具呼叫取代數十次檔案掃描，探索速度快 77%。
+> ⭐3112 · 為 Claude Code 打造的語意程式碼知識圖譜 MCP server，讓 AI 代理用一次工具呼叫取代數十次檔案掃描，探索速度快 77%。
 
 ## 快速導航
 

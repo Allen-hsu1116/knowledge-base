@@ -9,7 +9,7 @@ language: Python
 
 # LocateAnything
 
-> 📄 NVIDIA Research 提出的統一視覺定位框架，透過 Parallel Box Decoding (PBD) 一次 forward pass 解碼整個 bounding box，同時提升速度與精度。搭配 1.38 億訓練樣本的 LocateAnything-Data，在多個基準測試上推進 speed-accuracy 前沿。
+> ⭐— · 📄 NVIDIA Research 提出的統一視覺定位框架，透過 Parallel Box Decoding (PBD) 一次 forward pass 解碼整個 bounding box，同時提升速度與精度。搭配 1.38 億訓練樣本的 LocateAnything-Data，在多個基準測試上推進 speed-accuracy 前沿。
 
 ## 快速導航
 

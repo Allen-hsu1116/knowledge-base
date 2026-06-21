@@ -9,7 +9,7 @@ language: zh-TW
 
 # CubeSandbox
 
-> 騰訊雲出品的高性能 AI agent 安全沙盒，基於 RustVMM 和 KVM 打造。冷啟動 60ms，記憶體 <5MB，E2B SDK 即插即用。⭐5.2K
+> ⭐5.2 · 騰訊雲出品的高性能 AI agent 安全沙盒，基於 RustVMM 和 KVM 打造。冷啟動 60ms，記憶體 <5MB，E2B SDK 即插即用。⭐5.2K
 
 ## 快速導航
 - 🤖 **AI Agent** → [[AI-Agent]]（CubeSandbox 是 AI Agent 的安全執行環境）
@@ -92,3 +92,11 @@ with Sandbox.create(template=os.environ["CUBE_TEMPLATE_ID"]) as sandbox:
 - **Stars**: ⭐5,184
 - **License**: Apache 2.0
 - **收錄日期**: 2026-05-09
+
+---
+
+| 項目 | 值 |
+|------|------|
+| **GitHub** | https://github.com/tencentcloud/CubeSandbox |
+| **Stars** | ⭐'⭐5.2' |
+| **收錄日期** | 2026-05-09 |
