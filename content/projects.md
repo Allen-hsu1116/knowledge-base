@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-20
+updated: 2026-06-21
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Kilo-Org-kilocode\|Kilo Code]] | ⭐23.4k | AI 編碼 Agent, VS Code+JetBrains+CLI, 500+ 模型, MCP Marketplace, 自主模式 | 2026-06-21 |
 | [[HarnessX]] | —（研究論文） | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
 | [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐8.2k | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter | 2026-06-20 |
 | [[OpenHands-OpenHands\|OpenHands]] | ⭐77.4k | Coding Agent 控制中心, ACP 協議, 多後端, 自動化工作流 | 2026-06-17 |
@@ -150,6 +151,7 @@ updated: 2026-06-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jamiepine-voicebox\|Voicebox]] | ⭐31k | AI 語音工作室, 7 TTS 引擎, 語音克隆, 聽寫, MCP, Whisper STT | 2026-06-21 |
 | [[opendataloader-project-opendataloader-pdf\|opendataloader-pdf]] | ⭐25.5k | PDF Parsing, RAG, Document Extraction, PDF/UA, OCR | 2026-06-20 |
 | [[Lightricks-LTX-2\|LTX-2]] | ⭐7.7k | DiT 音影片生成, 22B, 10 種管線, LoRA 訓練, ComfyUI | 2026-06-20 |
 | [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2.8k | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |

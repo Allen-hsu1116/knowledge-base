@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-20
+updated: 2026-06-21
 ---
 
 # 知識庫總覽
@@ -49,6 +49,7 @@ updated: 2026-06-20
 | [[Figma-Skills\|Figma Skills]] | AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。 |
 | [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | 前端設計 Agent Skill 總覽：Anthropic frontend-design、Vercel web-design-guidelines、SoftaWorks design-system-starter、Anthropic webapp-testing。 |
 | [[penpot-penpot\|Penpot]] | 開源設計平台，SVG/CSS/HTML 開放標準，MCP Server 連接 AI Agent，Design Tokens，自架。 |
+| [[Kilo-Org-kilocode\|Kilo Code]] | 開源 AI 編碼 Agent，VS Code + JetBrains + CLI 三棲，500+ 模型零加價，MCP Marketplace 整合。 |
 
 ### 🛠 方法論
 
@@ -117,6 +118,7 @@ updated: 2026-06-20
 | [[content-automation\|內容自動化]] | 使用 AI 自動生成、編輯和分發各類內容（影片、文字、簡報等）。 |
 | [[語音辨識]] | ASR/TTS 技術和模型，語音轉文字與文字轉語音的 AI 應用。 |
 | [[microsoft-VibeVoice\|VibeVoice]] | 微軟開源前沿語音 AI 家族：60 分鐘長語音辨識 ASR + 90 分鐘多語者 TTS + 即時串流語音合成。 |
+| [[jamiepine-voicebox\|Voicebox]] | 開源 AI 語音工作室：7 種 TTS 引擎、語音克隆、全域聽寫、MCP Agent 語音輸出，本地優先。 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | 無 tokenizer 的多語言 TTS 系統，支援語音設計、可控克隆與 48kHz 高品質音訊輸出。 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | OpenMOSS 開源語音合成模型家族，涵蓋長語音、對話、語音設計、音效和即時串流五大場景。 |
 | [[AI-presentation\|AI 簡報]] | 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。 |
