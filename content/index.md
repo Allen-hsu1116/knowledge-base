@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 
 # 知識庫總覽
@@ -36,6 +36,7 @@ updated: 2026-06-21
 |------|------|
 | [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | MCP 生態系最重要的策展列表，30+ 分類收錄所有 MCP Server 實作。 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | 30+ AI 工具 system prompts 收集，Prompt Engineering 實戰參考 + 安全研究。 |
+| [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | 15+ AI 廠商系統提示詞洩漏合集，Claude/GPT/Gemini/Grok/Copilot 隱藏指令，Prompt Engineering 一手參考。 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | 1000+ 生產就緒的 Claude Skills 策展列表，涵蓋文件、開發、資料分析等場景。 |
 | [[AI-Skills\|AI Skills]] | 結構化的操作指令格式（SKILL.md），讓 AI coding agent 能以明確上下文和規範執行任務。 |
 | [[anthropics-claude-code\|Claude Code]] | Anthropic 官方終端機 AI 編碼助手，用自然語言指令理解程式碼庫、自動執行任務。 |
@@ -107,6 +108,7 @@ updated: 2026-06-21
 | [[opendataloader-project-opendataloader-pdf\|OpenDataLoader PDF]] | 開源 #1 PDF 解析器，hybrid 模式 0.907 準確率，bounding box 全覆蓋，首個 Tagged PDF 自動化。 |
 | [[run-llama-liteparse\|LiteParse]] | LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定。 |
 | [[mem0ai-mem0\|Mem0]] | AI Agent 智慧記憶層，LoCoMo 91.6 / LongMemEval 94.8 SOTA，三層記憶架構。 |
+| [[topoteretes-cognee\|Cognee]] | 開源 AI 記憶平台，知識圖譜 + 向量搜尋 + 認知科學本體生成，Agent 跨 session 持久記憶。 |
 | [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
 | [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。 |
 | [[pentesting\|滲透測試]] | 模擬真實攻擊者手法，對系統進行授權的安全測試，找出可被利用的漏洞。 |

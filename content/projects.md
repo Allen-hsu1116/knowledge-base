@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 
 # 專案索引
@@ -94,6 +94,7 @@ updated: 2026-06-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[topoteretes-cognee\|Cognee]] | ⭐18.6k | AI 記憶平台, 知識圖譜, 向量搜尋, 認知科學本體, Agent 跨 session 記憶 | 2026-06-22 |
 | [[basicmachines-co-basic-memory\|Basic Memory]] | ⭐3.2k | AI 記憶, MCP, Markdown, 知識圖譜, 語意搜尋 | 2026-06-13 |
 | [[mem0ai-mem0\|Mem0]] | ⭐58k | AI Agent 記憶層, RAG, SOTA, 向量資料庫 | 2026-06-12 |
 | [[refactoringhq-tolaria\|Tolaria]] | ⭐14k | Markdown 知識庫, Git-first, AI Agent 整合, 桌面應用 | 2026-06-09 |
@@ -265,6 +266,7 @@ updated: 2026-06-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | ⭐44.4k | Prompt Engineering, System Prompts, AI 透明性, 安全研究, 15+ 廠商 | 2026-06-22 |
 | [[gsap-ai-skills\|GSAP AI Skills]] | —（文章/概念） | AI Skills, Frontend, Animation, GSAP, Web Design, Design Taste | 2026-06-20 |
 | [[Understand-Anything\|Understand Anything]] | ⭐64.3k | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
 | [[DietrichGebert-ponytail\|Ponytail]] | ⭐36.8k | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
