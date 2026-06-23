@@ -1,126 +1,50 @@
 ---
 title: MemPalace 使用情境討論
 slug: mempalace-usage-discussion
-source: discord-conversation
-date: 2026-05-07
-channel: 乖乖學習吧
-updated: 2026-06-14
 language: zh-TW
 ---
 
 # MemPalace 使用情境討論
 
-> ⭐— · MemPalace 用三層結構化索引 + 知識圖譜，而不是改寫原文。設計目標是「對話記憶」，不是「文件檢索」。
+> MemPalace 用三層結構化索引 + 知識圖譜管理對話記憶，設計目標是「對話記憶」而非「文件檢索」，與通用 RAG 有本質差異。
 
-## 快速導航
-- 🏛️ **三層宮殿結構** → Wings（人/專案）→ Rooms（主題）→ Drawers（原文）
-- 🕸️ **知識圖譜** → 帶有效期間的時序性實體關係圖
-- 🔍 **混合搜尋** → 先縮限到相關 Wing/Room，再在 Drawer 裡做語意比對
-- ⚖️ **跟 RAG 的差異** → 結構化索引 + 知識圖譜 vs flat chunk 搜尋
+## 核心內容
 
-## 是什麼
+MemPalace 用三層結構化索引（Wing/Room/Drawer）搭配知識圖譜來管理對話記憶。核心設計理念是不改寫原文——原文逐字存在 Drawer 裡，需要時透過 Wing（人/專案）→ Room（主題）→ Drawer（原文）的層級縮限搜尋範圍，再做語意比對。R@5 能到 96.6% 不需要 LLM。
 
-MemPalace 用三層結構化索引（Wing/Room/Drawer）搭配知識圖譜來管理對話記憶，設計目標是「對話記憶」而非「文件檢索」，與通用 RAG 有本質差異。
+MemPalace 不能當通用 RAG 替代品，因為它的設計目標是「對話記憶」而非「文件檢索」。它沒有文件解析管線（通用 RAG 要處理 PDF、Word、DB 等），縮限假設太強（跨部門/跨系統分類邊界不清楚），更新策略是 append-only 而非版本更新/過期，規模假設是數千條而非數十萬份文件。
 
-核心差異：MemPalace 不改寫原文，而是用宮殿結構做索引——原文逐字存在 Drawer 裡，需要時透過 Wing（人/專案）→ Room（主題）→ Drawer（原文）的層級縮限搜尋範圍，再做語意比對。R@5 能到 96.6% 不需要 LLM。
+但 MemPalace 的設計思路——結構化索引 + 知識圖譜 + 縮限搜尋——可以改善傳統 RAG。具體建議包括：加結構化索引先縮限搜尋範圍、加知識圖譜先走圖再走向量、不要過度 chunk 保留完整語境、加 reranking 用 LLM 或 cross-encoder 重排。
 
-## 核心特色
+與編譯式知識庫（raw→wiki）的關係是互補：MemPalace 負責精準找到原文（記憶層），知識庫負責概念整理和交叉連結（編譯層），兩層互補。
+
+## 關鍵要素
 
 - **三層結構化索引**：Wing（人/專案）→ Room（主題）→ Drawer（原文），比 flat vector search 精準
-- **知識圖譜帶時間**：時序性實體關係圖，支援有效期間（validity windows）
+- **知識圖譜帶時間**：時序性實體關係圖，支援有效期間（validity windows），底層 SQLite
 - **混合搜尋策略**：先縮限到相關 Wing/Room，再在 Drawer 裡做語意比對，R@5 達 96.6%
-- **不改寫原文**：與編譯式知識庫（如我們的 raw→wiki）互補——MemPalace 負責精準找到原文
-- **不能當通用 RAG 替代品**：設計目標是「對話記憶」，不是「文件檢索」
+- **不改寫原文**：與編譯式知識庫互補——MemPalace 負責精準檢索，知識庫負責概念提煉
+- **不適合通用 RAG**：設計目標是對話記憶，沒有文件解析管線，規模假設不同
 
-## MemPalace 怎麼建立關係？
+## 各框架的做法
 
-### 1. 宮殿結構（Wings → Rooms → Drawers）
-- **Wing** = 人或專案
-- **Room** = 主題
-- **Drawer** = 原文內容（逐字儲存）
-- 搜尋時可限定 Wing/Room，比 flat vector search 精準
-
-### 2. 知識圖譜
-- 時序性實體關係圖，帶有效期間（validity windows）
-- 例如：「A 專案」→ 用了 →「技術 X」→ 從 2026-03 到 2026-05
-- 支援 add / query / invalidate / timeline 操作
-- 底層 SQLite，不是向量 DB
-
-### 3. 語意搜尋
-- 原文存進 ChromaDB 做向量索引
-- 搜尋時先縮限到相關 Wing/Room，再在 Drawer 裡做語意比對
-- R@5 能到 96.6% 不需要 LLM
-
-## 跟 RAG 的關鍵差異
-
-| | 傳統 RAG | MemPalace |
-|---|---|---|
-| 結構 | flat chunk | Wing/Room/Drawer 三層 |
-| 搜尋 | flat vector search | 先縮限再語意搜尋 |
-| 關係 | 丟失 | 知識圖譜帶時間 |
-| 精準度 | 雜訊多 | 結構化縮限 |
-
-## 為什麼不能當通用 RAG 替代品
-
-1. **設計目標不同**：為「對話記憶」設計，不是「文件檢索」
-2. **沒有文件解析管線**：通用 RAG 要處理 PDF、Word、DB 等
-3. **縮限假設太強**：跨部門/跨系統分類邊界不清楚
-4. **更新策略不同**：append-only vs 版本更新/過期
-5. **規模假設不同**：數千條 vs 數十萬份文件
-
-## 改善 RAG 的建議（從 MemPalace 借鏡）
-
-1. **加結構化索引** — 先根據類型、部門、時間分類，縮限搜尋範圍
-2. **加知識圖譜** — 先走圖再走向量
-3. **不要過度 chunk** — 原文保留完整語境
-4. **加 reranking** — 用 LLM 或 cross-encoder 重排
-
-## 跟我們知識庫的對比
-
-| | MemPalace | 通用 RAG | 我們的知識庫 |
-|---|---|---|---|
-| 設計目標 | Agent 對話記憶 | 任意文件檢索 | raw→wiki 概念整理 |
-| 資料來源 | 對話紀錄、程式碼 | PDF/Word/DB/API | URL、文字素材 |
-| 結構假設 | 人→主題→原文 | 彈性 metadata schema | raw→wiki→schema 三層 |
-| 更新模式 | append-only | 版本更新、過期淘汰 | compile 更新、lint 維護 |
-| 規模 | 數千條 | 數十萬份文件 | 數十到數百篇 |
-
-改善 RAG 更值得參考的是 MemPalace 的**設計思路**（結構化索引 + 知識圖譜 + 縮限搜尋），或者把 MemPalace 當記憶層，另外搭文件 RAG 層，兩層互補。
-
-## 怎麼用
-
-### 從 MemPalace 借鏡改善 RAG
-1. **加結構化索引**：先根據類型、部門、時間分類，縮限搜尋範圍
-2. **加知識圖譜**：先走圖再走向量
-3. **不要過度 chunk**：原文保留完整語境
-4. **加 reranking**：用 LLM 或 cross-encoder 重排
-
-### 搭配我們的知識庫
-MemPalace 負責精準找到原文（記憶層），我們的知識庫負責概念整理和交叉連結（編譯層），兩層互補。
-
-## 跟其他方案的關係
-
-| 方案 | 定位 | 關係 |
-|------|------|------|
-| [[llm-knowledge-base]] | 編譯式知識庫 | 互補：MemPalace 重檢索，知識庫重提煉 |
-| [[project-golem]] | 向量式記憶 | 另一種記憶方案：lancedb-pro 向量記憶 |
-| [[rag]] | RAG 概論 | MemPalace 的結構化索引可以改善傳統 RAG |
-| [[hichunk]] | 階層式分塊 | HiChunk 的階層概念跟 MemPalace 的三層結構相似 |
+- **MemPalace** → 三層宮殿索引 + 時序知識圖譜，append-only 對話記憶
+  👉 詳見 [[MemPalace-mempalace]]
+- **編譯式知識庫** → raw→wiki 的概念提煉，lint 回饋迴圈持續改進
+  👉 詳見 [[llm-knowledge-base]]
+- **Project Golem** → lancedb-pro 向量記憶，另一種記憶持久化方案
+  👉 詳見 [[project-golem]]
+- **HiChunk** → 階層式文件分塊，階層概念跟 MemPalace 的三層結構相似
+  👉 詳見 [[hichunk]]
+- **RAG** → 傳統 flat chunk 搜尋，可從 MemPalace 借鏡結構化索引改善
+  👉 詳見 [[rag]]
 
 ## 相關概念
 
-## 相關主題
-
-- [[MemPalace-mempalace|MemPalace 專案]]
-- [[rag|RAG 概念]]
-- [[Knowledge-Graph|知識圖譜]]
-- [[llm-knowledge-base]] — 編譯式知識庫方法論
-- [[project-golem]] — 向量式記憶系統
-- [[hichunk]] — 階層式文件分塊
+- [[rag]] — MemPalace 的結構化索引可以改善傳統 RAG
+- [[Knowledge-Graph]] — MemPalace 的時序性知識圖譜基礎
+- [[llm-knowledge-base]] — 編譯式知識庫方法論，與 MemPalace 互補
 
 ## 來源
+
 - Discord 乖乖學習吧頻道討論（2026-05-07）
-
-## 參考資料
-
-- Discord 乖乖學習吧頻道討論

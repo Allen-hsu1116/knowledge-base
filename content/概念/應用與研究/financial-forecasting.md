@@ -1,90 +1,54 @@
 ---
 title: 金融預測
 slug: financial-forecasting
-aliases:
-  - Financial Forecasting
-updated: 2026-06-14
 language: zh-TW
 ---
 
 # 金融預測
 
-> ⭐— · 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。
+> 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格，是量化金融的核心挑戰。
 
-## 快速導航
-
-- ⚡ [[simulation]] · [[AI-Agent]] · [[data-analysis]] · [[visualization]]
-- 📊 **Kronos** → [[shiyu-coder-Kronos|Kronos]]（金融 K 線基礎模型）
-- 🤖 **AI-Trader** → [[HKUDS-AI-Trader|AI-Trader]]（全自動交易平台）
-- 💹 **Fincept** → [[FinceptTerminal|Fincept Terminal]]（機構級金融智慧平台）
-
-## 是什麼
+## 核心內容
 
 金融預測是利用歷史數據、市場資訊和 AI 技術預測金融市場走勢和資產價格的領域。這是量化金融的核心挑戰——市場本質上是非平穩的、低信噪比的，任何可利用的模式都會被套利消除（市場效率假說），使得預測極具挑戰性。
 
-### 預測方法的演進
+預測方法經歷了四個時代的演進：統計模型時代（1970s-2000s，ARIMA、GARCH）、機器學習時代（2010s，隨機森林、XGBoost、LSTM）、深度學習時代（2020s，Transformer 基礎模型、多模態融合）和 AI Agent 時代（2025+，自主數據收集、分析、交易的 Agent 系統）。
 
-1. **統計模型時代**（1970s-2000s）：ARIMA、GARCH 等時間序列模型
-2. **機器學習時代**（2010s）：隨機森林、XGBoost、LSTM 等監督學習
-3. **深度學習時代**（2020s）：Transformer 基礎模型、多模態融合
-4. **AI Agent 時代**（2025+）：自主數據收集、分析、交易的 Agent 系統
+金融預測的核心挑戰包括非平穩性（分佈持續變化，歷史模式不一定重複）、低信噪比（可預測信號微弱且短暫）、過擬合風險（複雜模型容易在歷史數據上過擬合）、市場效率（可利用的模式會被套利消除）和黑天鵝事件（極端事件無法靠歷史數據預測）。現代方法透過多數據源整合、即時市場感知和 LLM 情緒分析來應對這些挑戰。
 
-## 核心特色
+## 關鍵要素
 
-- **多數據源整合**：價格數據、新聞情緒、宏觀指標、另類數據（衛星、社群）多維度融合
-- **即時市場感知**：持續監控市場變化，即時調整策略和風險控制
-- **非平穩性適應**：模型需要適應市場機制的結構性變化（regime change）
-- **風險管理自動化**：自動化止損、倉位控制和風險預警
-- **LLM 情緒分析**：從新聞、社群媒體、財報會議中提取市場情緒信號
-- **多時間尺度**：從毫秒級高頻交易到季度級資產配置
+- **多數據源整合** — 價格數據、新聞情緒、宏觀指標、另類數據（衛星、社群）多維度融合
+- **即時市場感知** — 持續監控市場變化，即時調整策略和風險控制
+- **非平穩性適應** — 模型需要適應市場機制的結構性變化（regime change）
+- **LLM 情緒分析** — 從新聞、社群媒體、財報會議中提取市場情緒信號
+- **風險管理自動化** — 自動化止損、倉位控制和風險預警
+- **多時間尺度** — 從毫秒級高頻交易到季度級資產配置
 
-## 怎麼用
+## 各框架的做法
 
-### 方法論對比
-
-| 方法 | 優勢 | 劣勢 | 適用場景 |
-|------|------|------|----------|
-| ARIMA/GARCH | 可解釋性強 | 難以捕捉非線性 | 短期趨勢預測 |
-| 隨機森林/XGBoost | 處理特徵交互強 | 容易過擬合 | 特徵豐富的中期預測 |
-| LSTM/Transformer | 捕捉長期依賴 | 需要大量數據 | 時間序列預測 |
-| LLM 情緒分析 | 非結構化資訊提取 | 延遲較高 | 事件驅動策略 |
-| AI Agent | 自主決策和適應 | 需要安全防護 | 全自動交易 |
-
-### 金融預測的挑戰
-
-- **非平穩性**：金融時間序列分佈持續變化，歷史模式不一定重複
-- **低信噪比**：可預測信號微弱且短暫，需要精細的特徵工程
-- **過擬合風險**：複雜模型容易在歷史數據上過擬合，樣本外表現差
-- **市場效率**：可利用的模式會被套利消除，持續獲利極為困難
-- **黑天鵝事件**：極端事件無法靠歷史數據預測
-
-## 跟其他方案的關係
-
-| 概念 | 關係 | 說明 |
-|------|------|------|
-| [[simulation]] | 應用 | 多 Agent 社會模擬是金融預測的新方法 |
-| [[AI-Agent]] | 實現 | AI Agent 是金融預測的自主執行者 |
-| [[data-analysis]] | 基礎 | 數據分析是金融預測的基礎能力 |
-| [[visualization]] | 呈現 | 視覺化是金融預測結果的呈現方式 |
-| [[web-scraping]] | 上游 | 爬蟲是金融數據採集的重要方法 |
-| [[computer-vision]] | 另類數據 | 衛星影像等視覺數據是另類數據來源 |
-
-## 相關專案
-
-- [[FinceptTerminal|Fincept Terminal]] — 機構級金融智慧平台
-- [[shiyu-coder-Kronos|Kronos]] — 金融 K 線基礎模型
-- [[HKUDS-AI-Trader|AI-Trader]] — 全自動交易平台
-- [[HKUDS-Vibe-Trading|Vibe Trading]] — 個人交易 Agent
+- **Kronos** → 金融 K 線基礎模型，LLM 驅動的時間序列預測
+  👉 詳見 [[shiyu-coder-Kronos]]
+- **TimesFM** → Google Research 時間序列預測基礎模型，ICML 2024
+  👉 詳見 [[google-research-timesfm]]
+- **Fincept Terminal** → 機構級金融智慧平台，多市場數據整合
+  👉 詳見 [[FinceptTerminal]]
+- **AlphaEvo** → 策略回測 + 金融預測 + 自演化
+  👉 詳見 [[ZhuLinsen-alphaevo]]
+- **MiroFish** → 群體智慧 + 世界模型，多 Agent 金融預測
+  👉 詳見 [[666ghj-MiroFish]]
+- **ML for Trading** → ML 金融交易教學，Jupyter Notebook 實戰
+  👉 詳見 [[stefan-jansen-machine-learning-for-trading]]
 
 ## 相關概念
 
-← [[simulation]] · [[AI-Agent]] · [[data-analysis]] · [[visualization]] · [[web-scraping]]
+- [[agent-trading]] — Agent 交易是金融預測的自主執行層
+- [[backtesting]] — 回測驗證預測策略的歷史表現
+- [[data-analysis]] — 數據分析是金融預測的基礎能力
+- [[simulation]] — 多 Agent 社會模擬是金融預測的新方法
+- [[AI-Agent]] — AI Agent 是金融預測的自主執行者
 
 ## 來源
 
+- Kronos、TimesFM、Fincept Terminal 等專案頁面
 -《Advances in Financial Machine Learning》— Marcos López de Prado
-- [Anthropic Financial Services](../raw/2026-05-11-anthropic-financial-services.md)
-
----
-
-_此頁由 daily-llm-trending 自動維護_

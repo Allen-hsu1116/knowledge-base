@@ -1,107 +1,49 @@
 ---
 title: Web Crawling
 slug: web-crawling
-aliases:
-  - Web Crawling
-  - 爬蟲
-updated: 2026-06-14
 language: zh-TW
 ---
 
 # Web Crawling
 
-> ⭐— · 系統化地瀏覽和收集網頁資料的技術。與 Web Scraping 的差異：爬蟲強調系統化遍歷，爬取強調資料提取。
+> 系統化地瀏覽和收集網頁資料的技術，強調從種子 URL 出發自動發現和遍歷連結。
 
-## 快速導航
-
-- 🕷️ **網頁爬取** → [[web-scraping]]（資料提取為主）
-- 🤖 **Crawl4AI** → [[Crawl4AI]]（AI 友善爬蟲工具）
-- 🔌 **Agent Reach** → [[agent-reach]]（多平台 Agent 爬蟲）
-
-## 是什麼
+## 核心內容
 
 Web Crawling（網頁爬蟲）是系統化地瀏覽和收集網頁資料的技術。不同於 Web Scraping 專注在資料提取，Crawling 更強調從種子 URL 開始，自動發現和遍歷網頁連結的過程。搜尋引擎的爬蟲（如 Googlebot）就是最典型的 Web Crawler。
 
-### Crawling vs Scraping
+爬蟲的核心流程是從種子 URL 出發，將頁面下載後解析其中的連結，將新發現的 URL 加入待訪問佇列，不斷重複直到遍歷完成。這個過程需要處理 URL 去重、優先級排序、速率控制等問題，大規模爬取還需要分散式架構支援。
 
-| 維度 | Crawling | Scraping |
-|------|----------|----------|
-| 目標 | 發現和遍歷頁面 | 從頁面提取資料 |
-| 範圍 | 廣度優先、系統化 | 深度優先、目標導向 |
-| 速度 | 控制 crawl rate | 盡可能快 |
-| 用途 | 索引建構、地圖生成 | 資料採集、監控 |
-| 工具 | Scrapy、Heritrix | Crawl4AI、BeautifulSoup |
+在 AI 時代，Web Crawling 的重要性大幅提升。RAG 管線需要高品質的網頁資料作為知識來源，Agent 需要即時網頁資訊做決策，知識圖譜需要從網頁提取實體和關係。現代爬蟲工具如 Crawl4AI 能將網頁直接轉為 LLM 友善的 Markdown 格式，省去手動解析的步驟。
 
-## 核心特色
+## 關鍵要素
 
 - **系統化遍歷**：從種子 URL 出發，自動發現和追蹤連結，建構完整的網站地圖
-- **URL 佇列管理**：待訪問 URL 的優先級排序、去重、速率控制
-- **增量爬取**：只爬取新增或變更的頁面，避免重複勞動
+- **URL 佇列管理**：待訪問 URL 的優先級排序、去重、速率控制，避免重複和過載
+- **增量爬取**：只爬取新增或變更的頁面，避免重複勞動和浪費資源
 - **遵守 robots.txt**：尊重網站的爬取規則，合法合規操作
-- **分散式架構**：大規模爬取需要分散式排程和儲存
-
-## 怎麼用
-
-### 核心流程
-
-```
-種子 URL → URL 佇列 → 下載頁面 → 解析連結 → 提取新 URL
-                ↑                               ↓
-                └──── 新 URL 加入佇列 ──────────┘
-                              ↓
-                         資料儲存 / 索引建構
-```
-
-### 使用 Crawl4AI 爬取網站
-
-```python
-import asyncio
-from crawl4ai import AsyncWebCrawler
-
-async def crawl_site():
-    async with AsyncWebCrawler() as crawler:
-        # 深度爬取整個網站
-        result = await crawler.arun(
-            url="https://example.com",
-            # 深度爬取模式
-            deep_crawl=True,
-            max_depth=3,
-        )
-        # 取得所有爬取的頁面
-        for page in result.crawled_pages:
-            print(f"URL: {page.url}")
-            print(f"Content: {page.markdown[:200]}...")
-```
-
-### AI Agent 的爬蟲需求
-
-- **乾淨的 Markdown**：Crawl4AI、Jina Reader 將網頁轉為 LLM 友善格式
-- **結構化資料**：JSON-LD、schema.org 格式的結構化資訊
+- **LLM 友善輸出**：現代爬蟲將網頁轉為 Markdown 或結構化 JSON，直接供 RAG 管線使用
 - **JavaScript 渲染**：單頁應用需要無頭瀏覽器才能取得完整內容
-- **多平台爬取**：Agent Reach 等工具支援多平台資料採集
-- **增量更新**：只爬取新增或變更的頁面
 
-## 跟其他方案的關係
+## 各框架的做法
 
-| 概念 | 關係 | 說明 |
-|------|------|------|
-| [[web-scraping]] | 互補 | Crawling 是遍歷，Scraping 是提取，常搭配使用 |
-| [[agent-reach]] | 工具 | Agent Reach 提供多平台爬取能力 |
-| [[Crawl4AI]] | 工具 | Crawl4AI 是 AI 友善的爬蟲工具 |
-| [[D4Vinci-Scrapling|Scrapling]] | 工具 | Scrapling 是自適應爬蟲框架，能自動重新定位元素 |
-| [[rag]] | 下游 | 爬取的頁面是 RAG 知識庫的來源 |
-| [[Knowledge-Graph]] | 下游 | 爬取的實體和關係可建構知識圖譜 |
-| [[document-parsing]] | 串接 | 爬取的頁面需經解析才能結構化 |
+- **Crawl4AI** → AI 友善的開源爬蟲工具，支援深度爬取和 Markdown 輸出
+  👉 詳見 [[Crawl4AI]]
+- **Firecrawl** → 網頁爬蟲 API，提供 LLM-ready 的結構化資料提取
+  👉 詳見 [[firecrawl-firecrawl|Firecrawl]]
+- **Scrapling** → 自適應爬蟲框架，能自動重新定位元素並具備反偵測能力
+  👉 詳見 [[D4Vinci-Scrapling|Scrapling]]
+- **Agent Reach** → 多平台 Agent 爬蟲，支援跨平台資料採集
+  👉 詳見 [[agent-reach|Agent Reach]]
 
 ## 相關概念
 
-← [[web-scraping]] · [[agent-reach]] · [[Crawl4AI]] · [[D4Vinci-Scrapling|Scrapling]] · [[rag]] · [[Knowledge-Graph]] · [[document-parsing]]
+- [[web-scraping|網頁爬取]] — Crawling 是遍歷，Scraping 是提取，兩者常搭配使用
+- [[rag|RAG]] — 爬取的頁面是 RAG 知識庫的資料來源
+- [[Knowledge-Graph|知識圖譜]] — 爬取的實體和關係可建構知識圖譜
+- [[document-parsing|文件解析]] — 爬取的頁面需經解析才能結構化
 
 ## 來源
 
-- Crawl4AI、Jina Reader、Agent Reach 等爬蟲工具文件
-- [Crawl4AI 專案文件](../raw/2026-05-10-crawl4ai.md)
-
----
-
-_此頁由 daily-llm-trending 自動維護_
+- Crawl4AI、Firecrawl、Scrapling 等爬蟲工具文件
+- 知識庫內爬蟲相關專案頁面

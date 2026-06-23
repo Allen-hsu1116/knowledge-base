@@ -1,131 +1,52 @@
 ---
 title: AI Tutoring
 slug: AI-Tutoring
-created: 2026-05-10
-updated: 2026-05-10
-stars: —
 language: zh-TW
 ---
 
 # AI Tutoring
 
-> ⭐— · AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent 來創造互動式、自適應的學習體驗。從「看影片+做題」走向「跟 AI 對話學」。
+> 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent 創造互動式、自適應的學習體驗。
 
-## 快速導航
+## 核心內容
 
-- 🎓 **DeepTutor** → [[HKUDS-DeepTutor]]（Agent-Native 個人化 AI 家教）
-- 🕸️ **Knowledge Graph** → [[Knowledge-Graph]]（知識圖譜是 AI Tutoring 的知識基礎）
-- 🔍 **RAG** → [[LLM]]（RAG 讓 AI 能基於特定教材回答問題）
-- 🤖 **AI Agent** → [[AI-Agent]]（TutorBot 是自主 Agent 層）
+AI Tutoring 是利用 AI 技術實現個人化教學的應用領域。傳統線上教育的核心問題在於內容靜態、無法互動、統一進度和缺乏反饋——所有人看同樣的影片和教材，不管程度如何，有問題也只能自己查。AI Tutoring 透過 RAG、知識圖譜和 LLM agent，將「看影片+做題」的模式轉變為「跟 AI 對話學」的互動式體驗。
 
-## 是什麼
+AI Tutoring 的核心技術包括 Book Engine（活書引擎）和 TutorBot（自主家教）。Book Engine 把靜態文件變成互動式學習體驗，不只能讀，還能對話、測驗、探索。TutorBot 是主動式多 Agent 層，透過可擴展 skills 部署家教能力，持續追蹤學習進度，並統一多管道存取（CLI、Web、Discord、微信、飛書）。
 
-AI Tutoring 是利用 AI 技術實現個人化教學的應用領域，結合 RAG、知識圖譜和 LLM agent 來創造互動式、自適應的學習體驗。從「看影片+做題」走向「跟 AI 對話學」。
+混合個人化引擎是 AI Tutoring 的關鍵創新，結合靜態知識錨定和動態多解析度記憶。靜態層基於教材和知識圖譜提供基礎知識，動態層從互動歷史提煉學習者畫像。封閉教學迴路將引用式解題和難度校準出題連接起來，根據學習者表現動態調整教學策略。
 
-## 核心特色
+## 關鍵要素
 
-### Socratic 引導式
-透過提問而非直接給答案，啟發學習者深度思考。
+- **Socratic 引導式** — 透過提問而非直接給答案，啟發學習者深度思考
+- **自適應評測** — 根據學習者表現動態調整難度和內容，實現個人化路徑
+- **Book Engine 活書引擎** — 將靜態教材轉為可對話、可測驗的互動式學習體驗
+- **混合個人化引擎** — 靜態知識錨定 + 動態記憶，持續追蹤學習者弱點和進度
+- **多管道存取** — CLI、Web、Discord、微信、飛書等統一介面
+- **TutorBench 評測** — 學習者視角的評測基準，衡量自適應家教效果
 
-### 自適應評測
-根據學習者表現動態調整難度和內容。
+## 各框架的做法
 
-## 為什麼 AI Tutoring 重要
-
-### 傳統線上教育的問題
-
-| 問題 | 說明 |
-|------|------|
-| **靜態內容** | 影片、PDF、投影片不會根據學習者調整 |
-| **無法互動** | 學生有問題只能自己查，沒人即時解答 |
-| **統一進度** | 所有人看同樣的內容，不管程度如何 |
-| **缺乏反饋** | 不知道自己哪裡不懂、哪裡需要加強 |
-
-### AI Tutoring 的解法
-
-| 能力 | 說明 | 實作 |
-|------|------|------|
-| **個人化** | 根據學習者畫像調整內容和難度 | TutorBot 動態記憶 |
-| **互動式** | 對話式學習，即時回答問題 | Book Engine 活書引擎 |
-| **自適應** | 根據學習表現調整教學策略 | 難度校準出題 |
-| **持續追蹤** | 記住學習者的弱點和進度 | 混合個人化引擎 |
-
-## 核心技術
-
-### Book Engine（活書引擎）
-
-把靜態文件變成互動式學習體驗。不只能讀，還能對話、測驗、探索。
-
-### TutorBot（自主家教）
-
-- 主動式多 agent 層
-- 透過可擴展 skills 部署家教能力
-- 持續追蹤學習進度
-- 統一多管道存取（CLI、Web、Discord、微信、飛書）
-
-### 混合個人化引擎
-
-**靜態知識錨定 + 動態多解析度記憶**：
-
-1. 靜態：基於教材和知識圖譜的基礎知識
-2. 動態：從互動歷史提煉學習者畫像
-3. 封閉教學迴路：引用式解題 ↔ 難度校準出題
-
-### Question Bank（題庫）
-
-- 書籤和分類系統
-- @-mention 引用支援
-- 多難度等級
-
-## TutorBench 評測
-
-學習者視角的評測基準，包含：
-- 引用式學習者畫像
-- 第一人稱互動協議
-- 從學習者角度衡量自適應家教效果
-
-## 主要專案
-
-- [[HKUDS-DeepTutor]] — Agent-Native 個人化 AI 家教
-  - Book Engine、TutorBot、RAG 整合
-  - 多 LLM Provider 支援（OpenAI、Anthropic、Gemini、Ollama 等）
-  - 論文：arXiv:2604.26962
-
-## 怎麼用
-
-### 使用 AI Tutor 平台
-1. 選擇適合的 AI Tutor 平台（如 DeepTutor）
-2. 定義學習目標和範圍
-3. 透過對話式互動進行學習
-4. 定期評估學習成效
-
-### 常見 AI Tutor 模式
-- Socratic 引導式：透過提問啟發思考
-- 解題示範式：逐步展示解題過程
-- 自適應測驗：根據表現動態調整難度
-
-## 跟其他方案的關係
-
-## 與其他領域的關係
-
-| 相關領域 | 關係 |
-|----------|------|
-| [[Knowledge-Graph]] | 知識圖譜是 AI Tutoring 的知識基礎 |
-| [[AI-Agent]] | TutorBot 是 Agent 架構的教學應用 |
-| [[MCP]] | MCP 讓 TutorBot 連接外部工具和資料 |
-| [[AI-Skills]] | Skills 定義 TutorBot 的教學行為 |
-
-## 相關專案
-
-- [[HKUDS-DeepTutor]] — Agent-Native 個人化 AI 家教
+- **DeepTutor** → Agent-Native 個人化 AI 家教，Book Engine + TutorBot + RAG 整合
+  👉 詳見 [[HKUDS-DeepTutor]]
+- **Build Your Own X** → 從零手做學習資源，透過實作深化理解
+  👉 詳見 [[codecrafters-io-build-your-own-x]]
+- **Hello 算法** → 演算法動畫圖解，12+ 語言的互動式學習
+  👉 詳見 [[krahets-hello-algo]]
+- **Easy-Vibe** → Vibe Coding 教育，AI 輔助的程式學習入門
+  👉 詳見 [[datawhalechina-easy-vibe]]
+- **freeCodeCamp** → Full-Stack + ML 程式學習，認證體系
+  👉 詳見 [[freeCodeCamp-freeCodeCamp]]
 
 ## 相關概念
 
-← [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[datawhalechina-easy-vibe]]
+- [[rag]] — RAG 讓 AI 能基於特定教材回答問題
+- [[Knowledge-Graph]] — 知識圖譜是 AI Tutoring 的知識基礎
+- [[AI-Agent]] — TutorBot 是 Agent 架構的教學應用
+- [[AI-Skills]] — Skills 定義 TutorBot 的教學行為
+- [[MCP]] — MCP 讓 TutorBot 連接外部工具和資料
 
 ## 來源
-- raw/HKUDS-DeepTutor.md
 
----
-
-_此頁由 daily-llm-trending 自動維護_
+- DeepTutor 專案頁面與論文
+- AI Tutoring 相關教學資源
