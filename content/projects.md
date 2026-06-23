@@ -223,6 +223,8 @@ updated: 2026-06-23
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
 
+| [[andrej-karpathy-ai-how\|Karpathy 知識庫完整拆解]] | —（文章報導） | LLM 知識庫, Karpathy, Claude Code | 2026-04-28 |
+| [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | —（文章/技巧） | Claude Code, 進階技巧, 生產力, 自動化 | 2026-05-06 |
 ## 📊 應用
 
 | 專案 | Stars | 概念 | 收錄日期 |
@@ -258,6 +260,7 @@ updated: 2026-06-23
 | [[ZhuLinsen-daily_stock_analysis]] | ⭐33,706 | LLM, AI Agent | 2026-05-03 |
 | [[santifer-career-ops]] | ⭐41,864 | AI Agent | 2026-05-03 |
 
+| [[promptfoo-promptfoo\|Promptfoo]] | ⭐22.2k | LLM 評測, 紅隊, Prompt Engineering, RAG, CI/CD | 2026-06-15 |
 ## 🔄 Agent 自演化
 
 | 專案 | Stars | 概念 | 收錄日期 |
@@ -300,6 +303,8 @@ updated: 2026-06-23
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
 
+| [[Figma-Skills\|Figma Skills]] | — | AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作 | 2026-06-08 |
+| [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | — | AI Skills, 前端設計, Design System, Web Design Guidelines | 2026-06-08 |
 ## 🏗 基礎設施
 
 | 專案 | Stars | 概念 | 收錄日期 |
