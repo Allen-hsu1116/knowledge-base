@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-22
+updated: 2026-06-23
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[JCodesMore-ai-website-cloner-template\|AI Website Cloner Template]] | ⭐17.7k | AI Coding Agent, 網站克隆, Next.js, 平行 builder, 12+ Agent 平台 | 2026-06-23 |
 | [[Kilo-Org-kilocode\|Kilo Code]] | ⭐23.4k | AI 編碼 Agent, VS Code+JetBrains+CLI, 500+ 模型, MCP Marketplace, 自主模式 | 2026-06-21 |
 | [[HarnessX]] | —（研究論文） | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
 | [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐8.2k | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter | 2026-06-20 |
@@ -152,6 +153,8 @@ updated: 2026-06-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[calesthio-OpenMontage\|OpenMontage]] | ⭐12.1k | Agentic 影片製作, 12 管線, 52 工具, 500+ Agent Skills, Remotion, 多供應商 | 2026-06-23 |
+| [[palmier-io-palmier-pro\|Palmier Pro]] | ⭐7.4k | macOS AI 影片編輯器, Swift 原生, MCP, 時間軸內生成式 AI | 2026-06-23 |
 | [[jamiepine-voicebox\|Voicebox]] | ⭐31k | AI 語音工作室, 7 TTS 引擎, 語音克隆, 聽寫, MCP, Whisper STT | 2026-06-21 |
 | [[opendataloader-project-opendataloader-pdf\|opendataloader-pdf]] | ⭐25.5k | PDF Parsing, RAG, Document Extraction, PDF/UA, OCR | 2026-06-20 |
 | [[Lightricks-LTX-2\|LTX-2]] | ⭐7.7k | DiT 音影片生成, 22B, 10 種管線, LoRA 訓練, ComfyUI | 2026-06-20 |

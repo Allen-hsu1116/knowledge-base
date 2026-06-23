@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-22
+updated: 2026-06-23
 ---
 
 # 知識庫總覽
@@ -50,6 +50,7 @@ updated: 2026-06-22
 | [[Figma-Skills\|Figma Skills]] | AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。 |
 | [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | 前端設計 Agent Skill 總覽：Anthropic frontend-design、Vercel web-design-guidelines、SoftaWorks design-system-starter、Anthropic webapp-testing。 |
 | [[penpot-penpot\|Penpot]] | 開源設計平台，SVG/CSS/HTML 開放標準，MCP Server 連接 AI Agent，Design Tokens，自架。 |
+| [[JCodesMore-ai-website-cloner-template\|AI Website Cloner]] | 用 AI coding agent 一鍵克隆任何網站，多階段偵察管線 + 平行 builder agent，重建為 Next.js 程式碼庫。 |
 | [[Kilo-Org-kilocode\|Kilo Code]] | 開源 AI 編碼 Agent，VS Code + JetBrains + CLI 三棲，500+ 模型零加價，MCP Marketplace 整合。 |
 
 ### 🛠 方法論
@@ -139,6 +140,8 @@ updated: 2026-06-22
 | [[diffusion-model\|擴散模型]] | 透過漸進去噪生成高品質內容的模型架構，Sana 等模型的核心技術。 |
 | [[world-model\|世界模型]] | 理解和模擬物理世界的 AI 模型，支援可控環境生成與具身智慧。 |
 | [[Lightricks-LTX-2\|LTX-2]] | 首個 DiT-based 音影片生成基礎模型，22B 參數，10 種管線，同步音影片生成。 |
+| [[calesthio-OpenMontage\|OpenMontage]] | 全球首個開源 agentic 影片製作系統，12 條管線、52 工具、500+ agent skills，把 coding agent 變成影片製作工作室。 |
+| [[palmier-io-palmier-pro\|Palmier Pro]] | macOS 原生 AI 影片編輯器，Swift 打造，MCP 整合讓 AI agent 在時間軸上協作剪輯。 |
 
 ### 🤖 程式碼智慧
 
