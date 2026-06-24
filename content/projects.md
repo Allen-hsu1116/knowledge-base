@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 # 專案索引
@@ -198,6 +198,7 @@ updated: 2026-06-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[shanraisshan-claude-code-best-practice\|Claude Code Best Practice]] | ⭐59.4k | Claude Code, 最佳實踐, Subagents, Skills, Hooks, MCP, 20+ 概念 | 2026-06-24 |
 | [[aishwaryanr-awesome-generative-ai-guide\|Awesome Generative AI Guide]] | ⭐27.6k | GenAI 學習資源, 90+ 課程, 論文追蹤, 面試題, 10週課程 | 2026-06-20 |
 | [[krahets-hello-algo\|Hello 算法]] | ⭐127.4k | 演算法, 資料結構, 動畫圖解, 12+ 語言 | 2026-06-18 |
 | [[freeCodeCamp-freeCodeCamp\|freeCodeCamp]] | ⭐449k | 程式學習, Full-Stack, Machine Learning, 認證 | 2026-06-18 |

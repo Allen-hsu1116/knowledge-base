@@ -2,9 +2,22 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-24
 stars: —
 language: zh-TW
+---
+
+## 2026-06-24（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **shanraisshan/claude-code-best-practice** — Claude Code 最佳實踐指南，20+ 核心概念全覆蓋，83 個 Tips（⭐ 59,447）
+
+### 分類
+- 📖 學習資源：Claude Code Best Practice
+
+### 來源
+- GitHub Trending 搜尋
+
 ---
 
 ## 2026-06-13（每日 LLM 熱門專案搜尋）
