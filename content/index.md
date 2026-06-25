@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # 知識庫總覽
@@ -35,6 +35,7 @@ updated: 2026-06-23
 | [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
 | [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
+| [[design-system-spec\|Design System Spec]] | 用 YAML tokens + Markdown prose 向 AI coding agent 描述視覺身份的格式規範（DESIGN.md），讓 agent 擁有持久的設計系統理解。 |
 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
 
 ### 🛠 方法論

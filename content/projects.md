@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[stablyai-orca\|Orca]] | ⭐6.8k | ADE, 平行 worktree, 25+ Agent 支援, 手機 Companion, SSH Worktree, Design Mode | 2026-06-25 |
 | [[JCodesMore-ai-website-cloner-template\|AI Website Cloner Template]] | ⭐17.7k | AI Coding Agent, 網站克隆, Next.js, 平行 builder, 12+ Agent 平台 | 2026-06-23 |
 | [[Kilo-Org-kilocode\|Kilo Code]] | ⭐23.4k | AI 編碼 Agent, VS Code+JetBrains+CLI, 500+ 模型, MCP Marketplace, 自主模式 | 2026-06-21 |
 | [[HarnessX]] | —（研究論文） | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
@@ -273,6 +274,7 @@ updated: 2026-06-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-labs-code-design.md\|DESIGN.md]] | ⭐17.3k | Design System Spec, YAML Tokens, Visual Identity, WCAG Contrast, CLI Lint | 2026-06-25 |
 | [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | ⭐44.4k | Prompt Engineering, System Prompts, AI 透明性, 安全研究, 15+ 廠商 | 2026-06-22 |
 | [[gsap-ai-skills\|GSAP AI Skills]] | —（文章/概念） | AI Skills, Frontend, Animation, GSAP, Web Design, Design Taste | 2026-06-20 |
 | [[Understand-Anything\|Understand Anything]] | ⭐64.3k | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
