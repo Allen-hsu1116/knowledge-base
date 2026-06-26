@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[alibaba-page-agent\|Page Agent]] | ⭐19.8k | In-page GUI Agent, 自然語言控制網頁, 純文字 DOM, BYO LLM, MCP Server, Chrome 擴充 | 2026-06-26 |
 | [[stablyai-orca\|Orca]] | ⭐6.8k | ADE, 平行 worktree, 25+ Agent 支援, 手機 Companion, SSH Worktree, Design Mode | 2026-06-25 |
 | [[JCodesMore-ai-website-cloner-template\|AI Website Cloner Template]] | ⭐17.7k | AI Coding Agent, 網站克隆, Next.js, 平行 builder, 12+ Agent 平台 | 2026-06-23 |
 | [[Kilo-Org-kilocode\|Kilo Code]] | ⭐23.4k | AI 編碼 Agent, VS Code+JetBrains+CLI, 500+ 模型, MCP Marketplace, 自主模式 | 2026-06-21 |
@@ -96,6 +97,7 @@ updated: 2026-06-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[opendatalab-MinerU\|MinerU]] | ⭐69.6k | 文件解析, PDF/DOCX/PPTX/XLSX, OCR 109 語言, VLM+OCR 雙引擎, MCP Server, RAG | 2026-06-26 |
 | [[topoteretes-cognee\|Cognee]] | ⭐18.6k | AI 記憶平台, 知識圖譜, 向量搜尋, 認知科學本體, Agent 跨 session 記憶 | 2026-06-22 |
 | [[basicmachines-co-basic-memory\|Basic Memory]] | ⭐3.2k | AI 記憶, MCP, Markdown, 知識圖譜, 語意搜尋 | 2026-06-13 |
 | [[mem0ai-mem0\|Mem0]] | ⭐58k | AI Agent 記憶層, RAG, SOTA, 向量資料庫 | 2026-06-12 |
@@ -154,6 +156,7 @@ updated: 2026-06-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NanmiCoder-MediaCrawler\|MediaCrawler]] | ⭐52.8k | 社群媒體爬蟲, 小紅書/抖音/快手/B站/微博/貼吧/知乎, Playwright+CDP, WebUI | 2026-06-26 |
 | [[calesthio-OpenMontage\|OpenMontage]] | ⭐12.1k | Agentic 影片製作, 12 管線, 52 工具, 500+ Agent Skills, Remotion, 多供應商 | 2026-06-23 |
 | [[palmier-io-palmier-pro\|Palmier Pro]] | ⭐7.4k | macOS AI 影片編輯器, Swift 原生, MCP, 時間軸內生成式 AI | 2026-06-23 |
 | [[jamiepine-voicebox\|Voicebox]] | ⭐31k | AI 語音工作室, 7 TTS 引擎, 語音克隆, 聽寫, MCP, Whisper STT | 2026-06-21 |

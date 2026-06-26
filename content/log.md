@@ -2,9 +2,26 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-06-24
+updated: 2026-06-26
 stars: —
 language: zh-TW
+---
+
+## 2026-06-26（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **opendatalab/MinerU** — 高精度文件解析引擎，PDF/DOCX/PPTX/XLSX → LLM-ready Markdown/JSON，VLM+OCR 雙引擎，109 語言 OCR（⭐ 69,579）
+- **NanmiCoder/MediaCrawler** — 多平台社群媒體爬蟲，小紅書/抖音/快手/B站/微博/貼吧/知乎，Playwright+CDP 模式（⭐ 52,753）
+- **alibaba/page-agent** — 阿里巴巴 in-page GUI Agent，自然語言控制網頁，純文字 DOM，BYO LLM，MCP Server（⭐ 19,817）
+
+### 分類
+- 🧠 記憶與知識管理：MinerU
+- 🎯 多媒體與爬蟲：MediaCrawler
+- 🤖 Agent 框架與工具：Page Agent
+
+### 來源
+- GitHub Trending 搜尋
+
 ---
 
 ## 2026-06-24（每日 LLM 熱門專案搜尋）
