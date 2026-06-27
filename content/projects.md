@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FoundationAgents-MetaGPT\|MetaGPT]] | ⭐69k | 多 Agent 框架, 軟體公司模擬, SOP 驅動, 產品經理/架構師/工程師角色, MGX | 2026-06-27 |
 | [[alibaba-page-agent\|Page Agent]] | ⭐19.8k | In-page GUI Agent, 自然語言控制網頁, 純文字 DOM, BYO LLM, MCP Server, Chrome 擴充 | 2026-06-26 |
 | [[stablyai-orca\|Orca]] | ⭐6.8k | ADE, 平行 worktree, 25+ Agent 支援, 手機 Companion, SSH Worktree, Design Mode | 2026-06-25 |
 | [[JCodesMore-ai-website-cloner-template\|AI Website Cloner Template]] | ⭐17.7k | AI Coding Agent, 網站克隆, Next.js, 平行 builder, 12+ Agent 平台 | 2026-06-23 |
@@ -97,6 +98,7 @@ updated: 2026-06-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Mintplex-Labs-anything-llm\|AnythingLLM]] | ⭐62.2k | 本地優先 AI 應用, 30+ LLM, RAG, Agent, 多用戶, 向量資料庫, MCP | 2026-06-27 |
 | [[opendatalab-MinerU\|MinerU]] | ⭐69.6k | 文件解析, PDF/DOCX/PPTX/XLSX, OCR 109 語言, VLM+OCR 雙引擎, MCP Server, RAG | 2026-06-26 |
 | [[topoteretes-cognee\|Cognee]] | ⭐18.6k | AI 記憶平台, 知識圖譜, 向量搜尋, 認知科學本體, Agent 跨 session 記憶 | 2026-06-22 |
 | [[basicmachines-co-basic-memory\|Basic Memory]] | ⭐3.2k | AI 記憶, MCP, Markdown, 知識圖譜, 語意搜尋 | 2026-06-13 |
@@ -131,6 +133,7 @@ updated: 2026-06-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hiyouga-LlamaFactory\|LlamaFactory]] | ⭐72.5k | LLM 微調, 100+ 模型, LoRA/QLoRA, SFT/DPO/PPO, vLLM/SGLang 推理, Web UI | 2026-06-27 |
 | [[LMCache-LMCache\|LMCache]] | ⭐8.6k | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
 | [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
 | [[lyogavin-airllm\|AirLLM]] | ⭐18,902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
@@ -277,6 +280,8 @@ updated: 2026-06-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[wshobson-agents\|wshobson/agents]] | ⭐37.2k | 插件市場, 88 插件 + 194 Agent + 158 Skill, 5 大 Harness, PluginEval | 2026-06-27 |
+| [[github-awesome-copilot\|Awesome GitHub Copilot]] | ⭐35.8k | Copilot 資源, Agent/Skill/Hook/Workflow/Plugin, GitHub 官方, llms.txt | 2026-06-27 |
 | [[google-labs-code-design.md\|DESIGN.md]] | ⭐17.3k | Design System Spec, YAML Tokens, Visual Identity, WCAG Contrast, CLI Lint | 2026-06-25 |
 | [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | ⭐44.4k | Prompt Engineering, System Prompts, AI 透明性, 安全研究, 15+ 廠商 | 2026-06-22 |
 | [[gsap-ai-skills\|GSAP AI Skills]] | —（文章/概念） | AI Skills, Frontend, Animation, GSAP, Web Design, Design Taste | 2026-06-20 |

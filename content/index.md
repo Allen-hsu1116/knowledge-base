@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # 知識庫總覽
@@ -66,6 +66,9 @@ updated: 2026-06-26
 | [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為主要介面的 AI 程式開發助手，從單一 chatbot 走向多模型、多工具、多 agent 的整合開發環境。 |
 | [[coding-agent-toolkit\|Coding Agent 工具包]] | 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。 |
 | [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token 效率、記憶管理、安全驗證、持續學習。 |
+| [[llm-fine-tuning\|LLM 微調]] | 透過 SFT、DPO、PPO、LoRA/QLoRA 等方法在大語言模型上進行領域適應和指令微調，LlamaFactory 等框架讓微調零代碼化。 |
+| [[multi-agent-framework\|多 Agent 框架]] | 將不同角色分配給多個 LLM Agent，形成協作實體處理複雜任務，如 MetaGPT 模擬軟體公司組織架構。 |
+| [[copilot-ecosystem\|Copilot 生態系]] | GitHub Copilot 的社群資源生態，包含 Agent、Skill、Hook、Workflow、Plugin，由 GitHub 官方維護策展。 |
 
 ### 📚 應用與研究
 
