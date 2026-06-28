@@ -50,6 +50,14 @@ LocateAnything 是 NVIDIA Research 發表的統一視覺定位與偵測框架。
 
 ## 怎麼用
 
+```bash
+# 安裝依賴
+pip install torch transformers
+
+# 下載預訓練模型（從 HuggingFace）
+# 模型名稱請見 Project Page: https://research.nvidia.com/labs/lpr/locate-anything/
+```
+
 **模型與 Demo：**
 - HuggingFace Model: 可下載預訓練模型
 - HuggingFace Demo: 線上試用

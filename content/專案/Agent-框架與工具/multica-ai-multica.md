@@ -39,6 +39,13 @@ Multica 是開源 managed agents 平台，把 Claude Code、Codex、Hermes 等 c
 
 ## 怎麼用
 
+```bash
+# Docker Compose 自架（推薦）
+git clone https://github.com/multica-ai/multica.git
+cd multica
+docker compose up -d
+```
+
 Multica 支援多種 coding agent 作為 runtime：Claude Code、Codex、GitHub Copilot CLI、OpenClaw、OpenCode、Hermes、Gemini、Pi、Cursor Agent、Kimi、Kiro CLI。
 
 使用流程：

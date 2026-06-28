@@ -24,25 +24,11 @@ OpenHuman 是一個開源的 agentic assistant，設計目標是成為個人的 
 
 ## 核心特色
 
-### 桌面吉祥物（Mascot）
-
-不只是聊天介面，而是一個有「臉」的桌面 agent。吉祥物能語音互動、反應環境事件、加入 Google Meet 作為會議參與者、跨週記住使用者、甚至在使用者停止輸入後繼續在背景思考。
-
-### 118+ 第三方整合 + Auto-Fetch
-
-支援 Gmail、Notion、GitHub、Slack、Stripe、Calendar、Drive、Linear、Jira 等 118+ 服務，全部透過 one-click OAuth 連接。每 20 分鐘自動從所有活躍連接拉取最新資料到 Memory Tree，不需要手動設定任何 polling。
-
-### Memory Tree + Obsidian Wiki
-
-本地優先的知識庫架構。所有資料被正規化為 ≤3k token 的 Markdown 片段，評分後折疊成階層式摘要樹存入本機 SQLite。同時產出 Obsidian 相容的 `.md` vault，讓使用者可以手動瀏覽和編輯。靈感來自 Karpathy 的 obsidian-wiki 工作流。
-
-### TokenJuice 智慧壓縮
-
-每次 tool call、網頁抓取結果、郵件內容、搜尋結果在送入 LLM 前，都經過 token 壓縮層處理：HTML 轉 Markdown、長 URL 縮短、非 ASCII 字元移除等。號稱降低成本和延遲高達 80%。
-
-### 內建工具集 + 語音
-
-預設就包含網頁搜尋、網頁抓取、完整程式開發工具集（filesystem、git、lint、test、grep）、原生語音（STT 輸入、ElevenLabs TTS 輸出、吉祥物嘴型同步）、模型路由（自動分派 reasoning/fast/vision 任務）。也支援透過 Ollama 執行本地模型。
+- **桌面吉祥物（Mascot）** — 不只是聊天介面，而是一個有「臉」的桌面 agent。吉祥物能語音互動、反應環境事件、加入 Google Meet 作為會議參與者、跨週記住使用者，甚至在使用者停止輸入後繼續在背景思考
+- **118+ 第三方整合 + Auto-Fetch** — 支援 Gmail、Notion、GitHub、Slack、Stripe、Calendar、Drive、Linear、Jira 等 118+ 服務，全部透過 one-click OAuth 連接。每 20 分鐘自動從所有活躍連接拉取最新資料到 Memory Tree
+- **Memory Tree + Obsidian Wiki** — 本地優先的知識庫架構。所有資料被正規化為 ≤3k token 的 Markdown 片段，評分後折疊成階層式摘要樹存入本機 SQLite。同時產出 Obsidian 相容的 `.md` vault
+- **TokenJuice 智慧壓縮** — 每次 tool call、網頁抓取結果、郵件內容、搜尋結果在送入 LLM 前都經過 token 壓縮層處理（HTML 轉 Markdown、長 URL 縮短、非 ASCII 字元移除等），號稱降低成本和延遲高達 80%
+- **內建工具集 + 語音** — 預設包含網頁搜尋/抓取、完整程式開發工具集（filesystem、git、lint、test、grep）、原生語音（STT 輸入、ElevenLabs TTS 輸出、吉祥物嘴型同步）、模型路由（自動分派 reasoning/fast/vision 任務），也支援 Ollama 本地模型
 
 ## 怎麼用
 

@@ -23,25 +23,11 @@ DeerFlow 2.0（Deep Exploration and Efficient Research Flow）是字節跳動開
 
 ## 核心特色
 
-### Skills & Tools 可擴充系統
-
-可擴充 Skill 系統，Claude Code 一行整合。每個 Skill 對應一類任務，Agent 依需求動態載入。
-
-### 多層子 Agent 編排
-
-支援多個專業子 Agent 編排，階層式和自適應拓撲兩種模式。子 Agent 可獨立運作、平行執行、結果回報。
-
-### Sandbox & File System
-
-Docker 沙箱安全執行程式碼，隔離檔案系統。Agent 可以自由執行程式碼而不影響宿主環境。
-
-### Context Engineering
-
-跨子 Agent 的智慧 context 管理，漸進式資訊揭露。避免 context window 溢出，確保每個子 Agent 拿到剛好夠用的資訊。
-
-### Long-Term Memory
-
-跨 session 持久記憶，記憶管理 UI。Agent 不再是無狀態工具，而是能記住過去對話和決策。
+- **Skills & Tools 可擴充系統** — 可擴充 Skill 系統，Claude Code 一行整合。每個 Skill 對應一類任務，Agent 依需求動態載入
+- **多層子 Agent 編排** — 支援多個專業子 Agent 編排，階層式和自適應拓撲兩種模式。子 Agent 可獨立運作、平行執行、結果回報
+- **Sandbox & File System** — Docker 沙箱安全執行程式碼，隔離檔案系統。Agent 可以自由執行程式碼而不影響宿主環境
+- **Context Engineering** — 跨子 Agent 的智慧 context 管理，漸進式資訊揭露。避免 context window 溢出，確保每個子 Agent 拿到剛好夠用的資訊
+- **Long-Term Memory** — 跨 session 持久記憶，記憶管理 UI。Agent 不再是無狀態工具，而是能記住過去對話和決策
 
 ## 怎麼用
 

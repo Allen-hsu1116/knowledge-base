@@ -23,85 +23,11 @@ language: Python
 
 ## 核心特色
 
-### 🧠 結構化技能定義
-
-每個 Skill 以 `SKILL.md` 格式呈現，包含：
-- **技能描述**：明確定義 Agent 應具備的行為與產出
-- **操作指令**：一步步指引 Agent 的決策流程
-- **品質標準**：定義產出的驗收門檻，確保一致性
-
-### 🎨 Frontend-Design 技能
-
-品質極高的前端設計規範，核心訴求是「避免 AI 產出的泛型美學」（AI slop），追求令人難忘的差異化設計：
-
-**設計思維流程（Design Thinking）**：
-
-| 步驟 | 說明 |
-|------|------|
-| Purpose | 界面解決什麼問題？誰在使用？ |
-| Tone | 選擇極端美學方向：極簡、混亂極繁、復古未來、有機自然、奢華精緻、趣味玩具、編輯雜誌、粗獷主義、Art Deco、柔和粉彩… |
-| Constraints | 技術限制（框架、效能、無障礙） |
-| Differentiation | 什麼讓這個設計令人難忘？ |
-
-**美學指南重點**：
-
-| 面向 | 內容 |
-|------|------|
-| 字型排版 | 選用獨特字體，避免 Arial/Inter/Roboto 等泛型字體；搭配銳利的展示字體與精緻的正文字體 |
-| 色彩與主題 | 承諾一個連貫美學方向，用 CSS 變數保持一致性；強烈主色 + 銳利強調色勝過膽怯的均勻配色 |
-| 動畫 | CSS-only 為優先；React 用 Motion library；一場精心編排的頁面載入動畫 > 散落的微互動 |
-| 空間構成 | 非預期的佈局：不對稱、重疊、對角線流動、打破格線、大量負空間或控制密度 |
-| 背景與細節 | 漸層網格、噪點紋理、幾何圖案、透明層疊、戲劇性陰影、裝飾邊框、自訂游標、顆粒疊加 |
-
-**反模式警告**：
-- ❌ 泛型 AI 美學：Inter、Roboto、Arial、系統字體
-- ❌ 陳腔濫調配色：紫色漸層 + 白色背景
-- ❌ 可預測的佈局與元件模式
-- ❌ 缺乏情境特色的罐頭設計
-- ❌ 跨世代收斂到相同選擇（如 Space Grotesk）
-
-**關鍵原則**：大膽極繁主義和精緻極簡主義都有效——重點是意圖性（Intentionality），而非強度。
-
-### 🧪 Webapp-Testing 技能
-
-網頁應用測試工具，使用 Playwright 進行自動化測試，核心理念是 **Reconnaissance-then-Action**（偵察先行再行動）：
-
-| 功能 | 說明 |
-|------|------|
-| 決策樹 | 靜態 HTML → 直接讀取找選擇器；動態應用 → 先偵察再操作 |
-| 本地應用測試 | 啟動 dev server 並自動執行測試腳本 |
-| 多 Server 支援 | `with_server.py` 可同時管理前後端多個伺服器 |
-| 偵察先行 | 先等 `networkidle` 再截圖/DOM 分析，避免盲猜選擇器 |
-
-**決策樹流程**：
-```
-使用者任務 → 是否為靜態 HTML？
-    ├─ 是 → 直接讀取 HTML 找選擇器
-    │      ├─ 成功 → 用選擇器寫 Playwright 腳本
-    │      └─ 失敗 → 視為動態應用處理
-    └─ 否（動態 webapp）→ Server 是否已在運行？
-        ├─ 否 → 執行 with_server.py --help
-        └─ 是 → Reconnaissance-then-Action：
-            1. 導航並等待 networkidle
-            2. 截圖或檢查 DOM
-            3. 從渲染狀態識別選擇器
-            4. 用發現的選擇器執行動作
-```
-
-**常見陷阱**：
-- ❌ 在動態應用上等 `networkidle` 之前就檢查 DOM
-- ✅ 先 `page.wait_for_load_state('networkidle')` 再檢查
-
-**最佳實踐**：
-- 將內建腳本視為黑盒工具，用 `--help` 查看用法再直接調用
-- 使用 `sync_playwright()` 寫同步腳本
-- 始終關閉瀏覽器
-- 使用描述性選擇器：`text=`、`role=`、CSS selectors、IDs
-- 適當加入等待：`page.wait_for_selector()` 或 `page.wait_for_timeout()`
-
-### 🔌 Agent-First 設計理念
-
-Skills 的核心差異化在於：它不是給人類讀的文件，而是**專門為 AI Agent 最佳化**的操作手冊。語句精準、無歧義，讓 Agent 能穩定重現高品質產出。
+- **結構化技能定義（SKILL.md）** — 每個 Skill 以標準格式呈現，包含技能描述、操作指令、品質標準，讓 Agent 能穩定重現高品質產出
+- **Frontend-Design 技能** — 品質極高的前端設計規範，核心訴求是「避免 AI 產出的泛型美學」（AI slop），追求令人難忘的差異化設計，涵蓋字型排版、色彩主題、動畫、空間構成、背景細節等面向
+- **Webapp-Testing 技能** — 使用 Playwright 進行自動化測試，核心理念是 Reconnaissance-then-Action（偵察先行再行動），支援多 Server 管理、決策樹流程、source-map 支援
+- **Agent-First 設計理念** — Skills 不是給人類讀的文件，而是專門為 AI Agent 最佳化的操作手冊，語句精準、無歧義，讓 Agent 能穩定重現高品質產出
+- **反模式警告清單** — 明確列出泛型 AI 美學陷阱（Inter/Roboto/Arial 字體、紫色漸層白底、可預測佈局），幫助 Agent 避開常見設計陷阱
 
 ## 怎麼用
 

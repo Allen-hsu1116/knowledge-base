@@ -17,7 +17,10 @@ topics:
 
 > ⭐35.8k · GitHub Copilot 社群貢獻的 Agent、Skill、Hook、Workflow 和 Plugin 集合
 
-快速導航：[[AI-Skills]] · [[agent-skills-ecosystem]] · [[anthropics-claude-code|Claude Code]] · [[MCP]]
+## 快速導航
+- 🧠 **AI Skills** → [[AI-Skills]]
+- 🔧 **Claude Code** → [[anthropics-claude-code|Claude Code]]
+- 🔌 **MCP** → [[MCP]]
 
 ## 是什麼
 

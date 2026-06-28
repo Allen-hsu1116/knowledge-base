@@ -21,7 +21,10 @@ topics:
 
 > ⭐45.6k · 開源超級 AI 助理，Agent Harness 工程參考實作 — 規劃、記憶、知識庫、自演化一站搞定
 
-快速導航：[[harness-engineering|Harness Engineering]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
+## 快速導航
+- 🧠 **Harness Engineering** → [[harness-engineering|Harness Engineering]]
+- 🤖 **AI Agent** → [[AI-Agent]]
+- 🔌 **MCP** → [[MCP]]
 
 ## 是什麼
 

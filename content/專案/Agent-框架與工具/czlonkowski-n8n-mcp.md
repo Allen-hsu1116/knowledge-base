@@ -24,25 +24,11 @@ n8n-MCP 是一個 Model Context Protocol 伺服器，作為 n8n 工作流自動�
 
 ## 核心特色
 
-### 全面節點知識庫
-
-涵蓋 n8n 全部 1,650 個節點，包含 99% 屬性覆蓋率與 63.6% 操作覆蓋率。AI 可以查詢每個節點的完整屬性 schema、可用操作和文件。
-
-### 模板優先工作流
-
-內建 2,352 個工作流模板，AI 在建構工作流時會優先搜尋現有模板，而非從零開始。
-
-### 多層驗證機制
-
-`validate_node(mode='minimal')` → `validate_node(mode='full')` → `validate_workflow` 三層驗證流程，確保 AI 生成的節點配置和工作流結構正確無誤。
-
-### 多 IDE 支援
-
-原生支援 Claude Code、VS Code (GitHub Copilot)、Cursor、Windsurf、Codex、Antigravity 等 AI 開發環境。
-
-### AI 工具偵測
-
-自動偵測 265 個具備 AI 能力的工具變體，讓 AI 助手能精確找到適合的 AI 節點來建構 agent 工作流。
+- **全面節點知識庫** — 涵蓋 n8n 全部 1,650 個節點，包含 99% 屬性覆蓋率與 63.6% 操作覆蓋率。AI 可以查詢每個節點的完整屬性 schema、可用操作和文件
+- **模板優先工作流** — 內建 2,352 個工作流模板，AI 在建構工作流時會優先搜尋現有模板，而非從零開始
+- **多層驗證機制** — `validate_node(mode='minimal')` → `validate_node(mode='full')` → `validate_workflow` 三層驗證流程，確保 AI 生成的節點配置和工作流結構正確無誤
+- **多 IDE 支援** — 原生支援 Claude Code、VS Code (GitHub Copilot)、Cursor、Windsurf、Codex、Antigravity 等 AI 開發環境
+- **AI 工具偵測** — 自動偵測 265 個具備 AI 能力的工具變體，讓 AI 助手能精確找到適合的 AI 節點來建構 agent 工作流
 
 ## 怎麼用
 

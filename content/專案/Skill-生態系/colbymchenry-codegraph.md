@@ -26,21 +26,10 @@ CodeGraph 是一個專為 Claude Code 設計的 MCP（Model Context Protocol）�
 
 ## 核心特色
 
-### 語意知識圖譜
-
-掃描整個程式碼庫，建立包含符號定義、引用關係、呼叫鏈的知識圖譜，存於本地 SQLite 資料庫。支援 19+ 種程式語言，包含跨語言呼叫鏈追蹤（如 Python ↔ Rust）。
-
-### MCP 工具整合
-
-提供 7 個 MCP 工具給 Claude Code 使用：codegraph_explore、codegraph_search、codegraph_callers、codegraph_callees、codegraph_impact、codegraph_node、codegraph_files、codegraph_status。
-
-### 框架感知路由
-
-自動識別 13 種 Web 框架的路由定義，將 URL 模式連結到對應的處理函式。
-
-### 即時同步
-
-使用原生 OS 事件監聽器搭配防抖自動同步，程式碼變更後圖譜自動更新，零配置。
+- **語意知識圖譜** — 掃描整個程式碼庫，建立包含符號定義、引用關係、呼叫鏈的知識圖譜，存於本地 SQLite 資料庫。支援 19+ 種程式語言，包含跨語言呼叫鏈追蹤（如 Python ↔ Rust）
+- **MCP 工具整合** — 提供 7 個 MCP 工具給 Claude Code 使用：codegraph_explore、codegraph_search、codegraph_callers、codegraph_callees、codegraph_impact、codegraph_node、codegraph_files、codegraph_status
+- **框架感知路由** — 自動識別 13 種 Web 框架的路由定義，將 URL 模式連結到對應的處理函式
+- **即時同步** — 使用原生 OS 事件監聽器搭配防抖自動同步，程式碼變更後圖譜自動更新，零配置
 
 ## 怎麼用
 

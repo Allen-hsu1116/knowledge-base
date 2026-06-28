@@ -41,17 +41,10 @@ updated: 2026-06-14
 
 ## 核心特色
 
-### 結構化課程設計
-從「什麼是 AI Agent」出發，逐步介紹 Agentic Framework、設計模式、Tool Use、RAG、多 Agent、元認知、上下文工程、記憶管理等，最後進入生產部署與安全。每堂課獨立成章，可以依序學也可以跳著看。
-
-### 微軟 Agent 生態系整合
-課程全程使用 Microsoft Agent Framework 與 Azure AI Foundry，讓學習者熟悉微軟的 Agent 開發工具鏈，同時也介紹了 MCP、A2A、NLWeb 等新興 Agent 協議。
-
-### 多語言支援
-支援超過 50 種語言翻譯（含繁體中文），由 Co-op Translator 自動維護。Clone 時可用 sparse checkout 避免下載大量翻譯檔。
-
-### 實作導向
-每堂課都附有 Python 程式碼範例，放在 `code_samples` 資料夾，可直接 fork 倉庫執行。影片教材搭配文字說明，適合不同學習風格。
+- **結構化課程設計** — 從「什麼是 AI Agent」出發，逐步介紹 Agentic Framework、設計模式、Tool Use、RAG、多 Agent、元認知、上下文工程、記憶管理等，最後進入生產部署與安全。每堂課獨立成章，可以依序學也可以跳著看
+- **微軟 Agent 生態系整合** — 課程全程使用 Microsoft Agent Framework 與 Azure AI Foundry，讓學習者熟悉微軟的 Agent 開發工具鏈，同時也介紹了 MCP、A2A、NLWeb 等新興 Agent 協議
+- **多語言支援** — 支援超過 50 種語言翻譯（含繁體中文），由 Co-op Translator 自動維護。Clone 時可用 sparse checkout 避免下載大量翻譯檔
+- **實作導向** — 每堂課都附有 Python 程式碼範例，放在 `code_samples` 資料夾，可直接 fork 倉庫執行。影片教材搭配文字說明，適合不同學習風格
 
 ## 怎麼用
 

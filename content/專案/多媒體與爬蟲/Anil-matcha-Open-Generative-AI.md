@@ -42,20 +42,11 @@ Open Generative AI 是一個全方位的 AI 媒體生成平台，提供圖片、
 
 ## 核心特色
 
-### 四大工作室
-
-- **Image Studio**：80+ 模型，支援文字轉圖片和圖片轉圖片，可上傳最多 14 張參考圖片
-- **Video Studio**：雙模式（Text-to-Video / Image-to-Video），支援 Kling、Sora、Veo、Seedance 2.0 等最新模型
-- **Lip Sync Studio**：9 個專門模型，支援圖片+音訊和影片+音訊兩種模式
-- **Cinema Studio**：「Infinite Budget」電影工作流程，自動化多鏡頭影片生成
-
-### 本地推論引擎
-
-桌面應用內建兩種本地推論引擎：sd.cpp（C++ 實作，支援 Apple Silicon Metal GPU 加速）用於圖片模型，Wan2GP（需自建 GPU 伺服器）用於影片模型。這樣的架構讓 Mac 使用者也能透過遠端 GPU 來生成影片。
-
-### AI Agent 整合
-
-透過 Generative-Media-Skills 套件，Claude Code、Codex 等 AI coding agent 可以直接從終端機驅動 200+ 模型，實現自動化媒體生成流程（提示詞 → 生成 → 編輯 → 拼接）。
+- **四大工作室** — Image Studio（80+ 模型，文字轉圖片和圖片轉圖片）、Video Studio（Text-to-Video / Image-to-Video，支援 Kling、Sora、Veo）、Lip Sync Studio（9 個專門模型）、Cinema Studio（「Infinite Budget」電影工作流程，自動化多鏡頭影片生成）
+- **200+ 模型聚合** — 整合 Flux、Nano Banana、Midjourney、Kling、Sora、Veo、Seedream、Wan 2.2 等主流模型，使用者在單一介面中自由切換和比較不同模型的生成效果
+- **本地推論引擎** — 桌面應用內建 sd.cpp（C++ 實作，支援 Apple Silicon Metal GPU 加速）用於圖片模型，Wan2GP（需自建 GPU 伺服器）用於影片模型，讓 Mac 使用者也能透過遠端 GPU 來生成影片
+- **AI Agent 整合** — 透過 Generative-Media-Skills 套件，Claude Code、Codex 等 AI coding agent 可以直接從終端機驅動 200+ 模型，實現自動化媒體生成流程
+- **完全開源免費** — 無內容審查、無訂閱費用、可自架，與 Midjourney、Runway 等封閉平台的根本差異
 
 ## 安裝方式
 

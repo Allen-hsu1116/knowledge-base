@@ -28,31 +28,10 @@ Anthropic 官方文件說明 CLAUDE.md 是「advisory」檔案，Claude 大約 8
 
 ## 核心特色
 
-### 原始 4 條（Forrest Chang）
-
-1. **Think Before Coding** — 不要做隱性假設、要明說在假設什麼；面對 trade-off 攤開來討論；不確定時直接問、不要猜；存在更簡單做法時要反對複雜方案
-2. **Simplicity First** — 寫能解決問題的最小程式碼；不寫推測性功能、不為一次性程式碼建抽象層；資深工程師會說太複雜的設計就要簡化
-3. **Surgical Changes** — 只動該動的、不要「順手改善」相鄰程式碼、註解、格式；不重構沒壞的東西；要配合既有風格
-4. **Goal-Driven Execution** — 定義成功標準、迭代到驗證為止；不告訴 Claude 步驟、告訴它「成功長什麼樣子」讓它自己 loop
-
-### 擴充 8 條（Mnilax，2026/5 月）
-
-5. **只用 Claude 處理需要判斷的任務** — 分類、起草、摘要、抽取交給 Claude；重試 503、路由、status code、確定性轉換用一般程式碼處理
-6. **Token budget 不是建議** — 單任務 4,000 tokens、單 session 30,000 tokens；接近 budget 時要主動摘要重啟、不要無聲突破
-7. **衝突模式要點明選一個** — 兩個衝突的程式碼模式取較新、較有測試的；解釋為什麼選、把另一個標記待清理；混合兩種模式是最差選擇
-8. **寫程式碼前先讀懂** — 讀 exports、直接 caller、共用 utility；「看起來無關（looks orthogonal）」是最危險的措辭；不確定就要問
-9. **測試要驗證意圖不只驗證行為** — 能寫一個「業務邏輯改變時會失敗」的測試才算合格；否則只是讓 Claude 自信、實際保護力為零
-10. **多步驟任務要 checkpoint** — 每完成一步總結「做了什麼、驗證了什麼、剩什麼」；無法清楚描述狀態時不要繼續
-11. **配合既有 codebase 慣例** — snake_case 就 snake_case、class component 就 class component；不認同時當另一場討論、不要單方面分叉
-12. **失敗要大聲** — 「migration 完成」不對如果跳過 30 筆、「測試通過」不對如果跳過任何一個；預設「主動揭露不確定」、不要「藏起不確定」
-
-### 不該做的事
-
-- 超過 14 條規則：合規率掉到 52%
-- 用範例代替規則：3 個範例的 token 成本等於 10 條規則
-- 「Be careful / think hard / really focus」等抽象指令：合規率僅 30%
-- 叫 Claude「當資深工程師」：identity prompt 對行為改變無效
-- 依賴特定工具：「永遠用 eslint」在 eslint 未安裝時會靜默失敗
+- **原始 4 條基礎規則（Forrest Chang）** — Think Before Coding（不做隱性假設、面對 trade-off 攤開討論）、Simplicity First（寫最小程式碼、不寫推測性功能）、Surgical Changes（只動該動的、不順手改善）、Goal-Driven Execution（定義成功標準、迭代到驗證為止）
+- **擴充 8 條進階規則（Mnilax）** — 只用 Claude 處理需要判斷的任務、Token budget 限制、衝突模式要點明選一個、寫程式碼前先讀懂、測試要驗證意圖不只行為、多步驟任務要 checkpoint、配合既有 codebase 慣例、失敗要大聲
+- **合規率導向設計** — 規則壓縮到 65 行 4 條（Forrest Chang），擴充到 12 條仍保持在合理行數內。超過 14 條合規率掉到 52%，超過 200 行後合規率急降
+- **反模式指引** — 明確列出不該做的事：超過 14 條規則、用範例代替規則、抽象指令如「Be careful / think hard」、叫 Claude「當資深工程師」、依賴特定工具
 
 ## 怎麼用
 

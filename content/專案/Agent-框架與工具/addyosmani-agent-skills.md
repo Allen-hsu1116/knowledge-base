@@ -26,25 +26,11 @@ addyosmani/agent-skills 是 Addy Osmani 維護的 Agent Skills 開源專案，�
 
 ## 核心特色
 
-### 標準化 SKILL.md 格式
-
-每個 Skill 是一個資料夾，包含 SKILL.md（觸發條件、操作流程、品質標準）和相關模板。Agent 讀取 SKILL.md 後就知道在什麼情境下使用這個 Skill，不需要硬編碼行為。
-
-### 覆蓋軟體開發全流程
-
-收錄 9+ 核心技能，從程式碼審查、除錯、效能優化到安全加固，涵蓋開發者日常工作的關鍵場景。每個 Skill 都有明確的品質標準。
-
-### 一鍵安裝，跨框架通用
-
-`npx skills add addyosmani/agent-skills` 一行指令安裝，相容 OpenClaw、Claude Code、Codex 等主流 coding agent。使用 skills.sh 分發標準。
-
-### 品質導向設計
-
-每個 Skill 不只是功能清單，而是定義了產出的最低品質要求。Agent 必須達到品質標準才算完成任務。
-
-### 社群驅動，持續擴充
-
-開源貢獻模式，任何人可以提交新 Skill。Addy Osmani（Google Chrome 團隊工程師）親自維護品質。
+- **標準化 SKILL.md 格式** — 每個 Skill 是一個資料夾，包含 SKILL.md（觸發條件、操作流程、品質標準）和相關模板。Agent 讀取後就知道在什麼情境下使用，不需要硬編碼行為
+- **覆蓋軟體開發全流程** — 收錄 9+ 核心技能，從程式碼審查、除錯、效能優化到安全加固，涵蓋開發者日常工作的關鍵場景，每個 Skill 都有明確的品質標準
+- **一鍵安裝，跨框架通用** — `npx skills add addyosmani/agent-skills` 一行指令安裝，相容 OpenClaw、Claude Code、Codex 等主流 coding agent，使用 skills.sh 分發標準
+- **品質導向設計** — 每個 Skill 不只是功能清單，而是定義了產出的最低品質要求，Agent 必須達到品質標準才算完成任務
+- **社群驅動，持續擴充** — 開源貢獻模式，任何人可以提交新 Skill，Addy Osmani（Google Chrome 團隊工程師）親自維護品質
 
 ## 怎麼用
 

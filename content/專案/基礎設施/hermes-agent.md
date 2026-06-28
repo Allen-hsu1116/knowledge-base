@@ -24,30 +24,11 @@ Hermes Agent 是 Nous Research（開源 LLM 模型知名團隊）推出的自主
 
 ## 核心特色
 
-### 學習閉環（Closed Learning Loop）
-
-1. 自主技能建立：完成複雜任務後自動產生技能
-2. 技能自我改進：使用過程中技能會被改進
-3. 知識持續化：週期性提醒自己記錄重要知識
-4. 跨 session 回憶：FTS5 搜尋 + LLM 摘要，搜尋過去對話
-5. 使用者建模：透過 Honcho dialectic user modeling，建立對使用者的深層模型
-6. 相容 agentskills.io 開放標準
-
-### 多模型彈性
-
-支援 Nous Portal、OpenRouter（200+ 模型）、NVIDIA NIM、Xiaomi MiMo、z.ai/GLM、Kimi/Moonshot、MiniMax、Hugging Face、OpenAI。`hermes model` 一鍵切換，零程式碼改動，不綁定任何模型供應商。
-
-### 多平台 Gateway
-
-Telegram、Discord、Slack、WhatsApp、Signal、CLI。單一 gateway process，語音備忘錄轉錄。
-
-### 排程自動化
-
-內建 cron 排程器，自然語言描述任務。日常報告、夜間備份、週度審計——無人值守。
-
-### 委派與平行化
-
-產生隔離 subagent 做平行工作。Python script 透過 RPC 呼叫工具。
+- **學習閉環（Closed Learning Loop）** — 自主技能建立（完成複雜任務後自動產生技能）、技能自我改進、知識持續化（週期性記錄重要知識）、跨 session 回憶（FTS5 搜尋 + LLM 摘要）、使用者建模（Honcho dialectic user modeling）、相容 agentskills.io 開放標準
+- **多模型彈性** — 支援 Nous Portal、OpenRouter（200+ 模型）、NVIDIA NIM、Xiaomi MiMo、z.ai/GLM、Kimi/Moonshot、MiniMax、Hugging Face、OpenAI。`hermes model` 一鍵切換，零程式碼改動，不綁定任何模型供應商
+- **多平台 Gateway** — Telegram、Discord、Slack、WhatsApp、Signal、CLI。單一 gateway process，語音備忘錄轉錄
+- **排程自動化** — 內建 cron 排程器，自然語言描述任務。日常報告、夜間備份、週度審計——無人值守
+- **委派與平行化** — 產生隔離 subagent 做平行工作。Python script 透過 RPC 呼叫工具
 
 ## 怎麼用
 

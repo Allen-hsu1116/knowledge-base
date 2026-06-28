@@ -35,59 +35,11 @@ Hyperframes 是 HeyGen 開源的影片渲染框架，核心理念：composition 
 
 ## 核心特色
 
-### HTML-native Composition
-
-Composition 就是 HTML 檔案 + data attribute 標記時間軸。不用 React、不用專屬 DSL。Agent 已經會寫 HTML——直接把 HTML 能力變成影片能力。
-
-```html
-<div data-start="0" data-end="5">
-  <h1 data-animation="fade-in">Hello World</h1>
-  <video data-src="background.mp4" data-loop></video>
-</div>
-```
-
-### AI-first CLI
-
-CLI 預設非互動模式，專為 Agent 驅動的工作流設計。Agent 用 `/hyperframes` skill 學會寫正確的 composition、GSAP timeline、Tailwind v4 browser-runtime 樣式和第一方 adapter 動畫。
-
-```bash
-# 初始化專案（自動安裝 skills）
-npx hyperframes init my-video
-cd my-video
-
-# 瀏覽器預覽（live reload）
-npx hyperframes preview
-
-# 渲染成 MP4
-npx hyperframes render
-```
-
-### Frame Adapter 模式
-
-帶你自己的動畫 runtime：GSAP、Lottie、CSS、Three.js、anime.js、WAAPI、CSS Animations。每個 adapter 是一個獨立的 skill，Agent 依 composition 需求載入對應 skill。
-
-### Skills 生態系
-
-安裝方式多平台：
-
-```bash
-# Claude Code / Codex
-npx skills add heygen-com/hyperframes
-
-# Codex plugin（sparse install）
-codex plugin marketplace add heygen-com/hyperframes --sparse .codex-plugin --sparse skills --sparse assets
-
-# Claude Code plugin manifest
-# 內建 .claude-plugin/plugin.json
-```
-
-Slash commands（Claude Code）：
-- `/hyperframes` — 撰寫 composition
-- `/hyperframes-cli` — init、lint、preview、render
-- `/hyperframes-media` — TTS、轉錄、去背
-- `/tailwind` — Tailwind v4 專案設定
-- `/gsap` — timeline 動畫
-- Adapter skills：`/animejs`、`/css-animations`、`/lottie`、`/three`、`/waapi`
+- **HTML-native Composition** — Composition 就是 HTML 檔案 + data attribute 標記時間軸，不用 React、不用專屬 DSL。Agent 已經會寫 HTML——直接把 HTML 能力變成影片能力
+- **AI-first CLI** — CLI 預設非互動模式，專為 Agent 驅動的工作流設計。Agent 用 `/hyperframes` skill 學會寫正確的 composition、GSAP timeline、Tailwind v4 browser-runtime 樣式和第一方 adapter 動畫
+- **Frame Adapter 模式** — 帶你自己的動畫 runtime：GSAP、Lottie、CSS、Three.js、anime.js、WAAPI、CSS Animations。每個 adapter 是一個獨立的 skill，Agent 依 composition 需求載入對應 skill
+- **Skills 生態系** — 支援 Claude Code、Codex 等多平台安裝，提供 `/hyperframes`、`/hyperframes-cli`、`/hyperframes-media`、`/tailwind`、`/gsap` 等 slash commands，以及 `/animejs`、`/css-animations`、`/lottie`、`/three`、`/waapi` 等 adapter skills
+- **確定性渲染** — 相同輸入 = 相同輸出，建構在 headless Chrome + FFmpeg 自動化管線上，適合 CI/CD 環境
 
 
 

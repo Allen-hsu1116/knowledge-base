@@ -19,7 +19,10 @@ topics:
 
 > ⭐10.9k · 100 行的極簡 LLM 框架，零依賴零廠商綁定，讓 AI Agent 幫你建 Agent
 
-快速導航：[[LangChain]] · [[CrewAI]] · [[microsoft-autogen|AutoGen]] · [[AI-Agent]]
+## 快速導航
+- 🧠 **LangChain** → [[LangChain]]
+- 🤖 **CrewAI** → [[CrewAI]]
+- 🔧 **AutoGen** → [[microsoft-autogen|AutoGen]]
 
 ## 是什麼
 

@@ -16,7 +16,10 @@ topics:
 
 > ⭐69k · 多 Agent 框架，用自然語言編程的「第一家 AI 軟體公司」
 
-快速導航：[[LangChain]] · [[CrewAI]] · [[microsoft-autogen|AutoGen]] · [[LLM]]
+## 快速導航
+- 🧠 **LangChain** → [[LangChain]]
+- 🤖 **CrewAI** → [[CrewAI]]
+- 🔧 **AutoGen** → [[microsoft-autogen|AutoGen]]
 
 ## 是什麼
 

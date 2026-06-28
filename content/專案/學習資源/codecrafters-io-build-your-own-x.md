@@ -49,6 +49,12 @@ Build Your Own X 是 GitHub 上最大的「從零手做」教學合集（50 萬�
 
 ## 怎麼用
 
+```bash
+# 複製倉庫
+git clone https://github.com/codecrafters-io/build-your-own-x.git
+cd build-your-own-x
+```
+
 ### 直接使用
 
 1. 進入 [GitHub repo](https://github.com/codecrafters-io/build-your-own-x)

@@ -23,21 +23,11 @@ AutoResearch 是 Andrej Karpathy（前 Tesla AI 總監、OpenAI 共同創辦人�
 
 ## 核心特色
 
-### program.md = 超輕量 Skill
-
-你不是直接改 Python，而是寫 Markdown 指令給 Agent。program.md 本質上就是一個 Skill 定義，跟 [[agent-skills-ecosystem]] 的 SKILL.md 概念直接對應。人類迭代 program.md 來優化研究策略，Agent 迭代 train.py 來優化模型。
-
-### 固定時間預算
-
-每個實驗固定 5 分鐘 wall clock，實驗之間直接可比，不受架構變動影響。
-
-### val_bpb 指標
-
-使用 vocab-size 無關的 bits-per-byte 指標，架構變動之間公平比較。
-
-### 自給自足
-
-一 GPU、一檔案、一指標。無外部依賴，不需要分散式訓練。
+- **program.md = 超輕量 Skill** — 你不是直接改 Python，而是寫 Markdown 指令給 Agent；program.md 本質上就是一個 Skill 定義，跟 [[agent-skills-ecosystem]] 的 SKILL.md 概念直接對應；人類迭代 program.md 來優化研究策略，Agent 迭代 train.py 來優化模型
+- **固定時間預算** — 每個實驗固定 5 分鐘 wall clock，實驗之間直接可比，不受架構變動影響
+- **val_bpb 指標** — 使用 vocab-size 無關的 bits-per-byte 指標，架構變動之間公平比較
+- **自給自足** — 一 GPU、一檔案、一指標，無外部依賴，不需要分散式訓練
+- **自主研究 vs 自主技能建立** — AutoResearch 是人類定義策略（寫 program.md）、Agent 執行；Hermes 是 Agent 自己建立技能、自己改進；兩者可以結合
 
 ### 自主研究 vs 自主技能建立
 

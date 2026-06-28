@@ -22,21 +22,10 @@ Neural Networks: Zero to Hero 是 Andrej Karpathy 在 YouTube 上的系列課程
 
 ## 核心特色
 
-### 從 micrograd 到 GPT 的完整學習路徑
-- 第 1 課：建構 micrograd，理解計算圖和反向傳播
-- 第 2-5 課：makemore 系列，從 bigram 到 WaveNet
-- 第 6-7 課：建構 GPT（含 Attention 機制）
-- 第 8 課：建構 BPE Tokenizer，理解 LLM 的分詞機制
-
-### 強調手作學習
-- 每個概念都從零開始實作，不用高階 API
-- 深入探討梯度流、啟動值統計、為何深層網路難訓練
-- 手動反向傳播練習（Backprop Ninja）培養直覺
-
-### 密集數學與程式結合
-- PyTorch Tensor 操作和 subtleties
-- BatchNorm、殘差連結、Adam optimizer 的原理
-- Transformer 架構逐層拆解
+- **從 micrograd 到 GPT 的完整學習路徑** — 第 1 課建構 micrograd（理解計算圖和反向傳播）、第 2-5 課 makemore 系列（bigram → MLP → BatchNorm → 手動 backprop → WaveNet）、第 6-7 課建構 GPT（含 Attention 機制）、第 8 課建構 BPE Tokenizer
+- **強調手作學習** — 每個概念都從零開始實作，不用高階 API。深入探討梯度流、啟動值統計、為何深層網路難訓練。手動反向傳播練習（Backprop Ninja）培養直覺
+- **密集數學與程式結合** — PyTorch Tensor 操作和 subtleties、BatchNorm/殘差連結/Adam optimizer 的原理、Transformer 架構逐層拆解
+- **搭配 YouTube 影片** — 每堂課都有對應的 YouTube 教學影片，邊看邊做，notebook 和影片互相補充
 
 ## 怎麼用
 

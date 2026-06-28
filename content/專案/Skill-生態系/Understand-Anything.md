@@ -35,47 +35,11 @@ Understand Anything 是一個開源工具（現由 Egonex-AI 維護，原作者 
 
 ## 核心特色
 
-### 結構圖 + 業務邏輯雙視角
-
-- **結構視圖** — 每個檔案、函式、類別都是可點擊的節點，附帶白話文摘要和關係
-- **Domain 視圖** — 切換到業務邏輯模式，看程式碼如何映射到真實業務流程（認證流程、付款管線、用戶生命週期）
-
-### Tree-sitter + LLM 混合架構
-
-- **Tree-sitter（確定性）** — 解析原始碼為 CST，提取結構事實（imports、exports、定義、呼叫站、繼承），每次結果一致
-- **LLM（語意）** — 讀取解析後結構 + 原始碼，生成白話文摘要、標籤、架構層分類、業務領域映射、引導式導覽
-
-這個分離讓圖譜在結構面可重現（同樣程式碼 → 同樣邊），在語意面捕捉意圖（檔案是做什麼的，而不只是它 import 了什麼）。
-
-### 多 Agent 流水線（7 個專業 Agent）
-
-- **project-scanner** — 發現檔案、偵測語言和框架
-- **file-analyzer** — 提取函式、類別、imports，生成圖譜節點和邊
-- **architecture-analyzer** — 識別架構層（API/Service/Data/UI/Utility）
-- **tour-builder** — 生成依賴順序的引導式導覽
-- **graph-reviewer** — 驗證圖譜完整性和參照完整性
-- **domain-analyzer** — 提取業務領域、流程和步驟
-- **article-analyzer** — 從 wiki 文章提取實體、主張和隱含關係
-
-File analyzer 平行執行（最多 5 個並行，每批 20-30 檔案），支援增量更新（只重新分析變更過的檔案）。
-
-### 功能矩陣
-
-- 🧭 **引導式導覽** — 自動生成依賴順序的架構導覽
-- 🔍 **模糊 + 語意搜尋** — 用名稱或意義搜尋（「哪些部分處理認證？」）
-- 📊 **Diff 影響分析** — commit 前查看變更的連鎖影響
-- 🎭 **人格適應 UI** — Dashboard 根據使用者角色（初級開發者、PM、power user）調整細節程度
-- 🏗️ **層次視覺化** — 自動按架構層分組，附顏色標記
-- 📚 **語言概念** — 12 種程式模式（泛型、閉包、裝飾器等）在出現處就地解釋
-- 📤 **匯出與分享** — 圖譜是 JSON，commit 後團隊成員可跳過分析步驟
-- 🔗 **依賴路徑查找器** — 追蹤節點間的依賴路徑
-
-### 知識庫分析
-
-- 支援 Karpathy-pattern LLM wiki 的 `index.md`
-- 確定性解析器提取 wikilinks 和分類
-- LLM Agent 發現隱含關係、提取實體、浮現主張
-- 將 wiki 轉成可導航的互動式圖譜
+- **結構圖 + 業務邏輯雙視角** — 結構視圖顯示每個檔案、函式、類別為可點擊節點（附白話文摘要），Domain 視圖切換到業務邏輯模式（認證流程、付款管線、用戶生命週期），看程式碼如何映射到真實業務流程
+- **Tree-sitter + LLM 混合架構** — Tree-sitter 提供確定性解析（CST、imports、exports、定義、呼叫站），LLM 提供語意分析（白話文摘要、標籤、架構層分類、業務領域映射），讓圖譜在結構面可重現、在語意面有深度
+- **多 Agent 流水線（7 個專業 Agent）** — project-scanner、file-analyzer、architecture-analyzer、tour-builder、graph-reviewer、domain-analyzer、article-analyzer，平行執行（最多 5 並行），支援增量更新
+- **豐富功能矩陣** — 引導式導覽、模糊+語意搜尋、Diff 影響分析、人格適應 UI、層次視覺化、語言概念就地解釋、JSON 匯出分享、依賴路徑查找器
+- **知識庫分析** — 支援 Karpathy-pattern LLM wiki 的 index.md，確定性解析器提取 wikilinks 和分類，LLM Agent 發現隱含關係、提取實體、將 wiki 轉成可導航的互動式圖譜
 
 ## 怎麼用
 

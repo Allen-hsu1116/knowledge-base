@@ -19,7 +19,10 @@ topics:
 
 > ⭐72.5k · 統一高效微調 100+ LLMs & VLMs 的零代碼訓練框架
 
-快速導航：[[LLM]] · [[huggingface-transformers|Transformers]] · [[vLLM]] · [[Ollama]]
+## 快速導航
+- 🧠 **LLM** → [[LLM]]
+- 🤗 **Transformers** → [[huggingface-transformers|Transformers]]
+- ⚡ **vLLM** → [[vLLM]]
 
 ## 是什麼
 

@@ -22,26 +22,11 @@ Fincept Terminal 是一個純原生 C++20 桌面應用，使用 Qt6 渲染 UI、
 
 ## 核心特色
 
-### 37 個 AI Agent 陣容
-- **投資大師系列**：Buffett、Graham、Lynch、Munger、Klarman、Marks 等投資哲學 Agent
-- **經濟分析 Agent**：宏觀經濟指標追蹤與分析
-- **地緣政治 Agent**：國際關係與地緣風險評估
-- 支援本地 LLM（Ollama）和雲端供應商（OpenAI、Anthropic、Gemini、Groq、DeepSeek 等）
-
-### 多資產量化分析
-- DCF 模型、投資組合最佳化、風險指標（VaR、Sharpe ratio）
-- 18 個 QuantLib 模組：定價、風險、隨機過程、波動率、固定收益
-- 衍生品定價與風險管理
-
-### 100+ 數據連接器
-- DBnomics、Polygon、Kraken、Yahoo Finance、FRED、IMF、World Bank
-- 政府數據 API、另類數據覆蓋（Adanos 市場情緒）
-- 16 個券商整合（Zerodha、IBKR、Alpaca 等）
-
-### 視覺化工作流
-- Node Editor 自動化管線建構
-- MCP 工具整合
-- AI Quant Lab：ML 模型、因子發現、HFT、強化學習交易
+- **37 個 AI Agent 陣容** — 涵蓋 Buffett、Graham、Lynch、Munger 等投資風格 Agent，加上經濟分析、地緣政治評估 Agent，支援本地 LLM（Ollama）和雲端供應商（OpenAI、Anthropic、Gemini、Groq、DeepSeek 等）
+- **多資產量化分析** — DCF 模型、投資組合最佳化、風險指標（VaR、Sharpe ratio），18 個 QuantLib 模組涵蓋定價、風險、隨機過程、波動率、固定收益，衍生品定價與風險管理
+- **100+ 數據連接器** — DBnomics、Polygon、Kraken、Yahoo Finance、FRED、IMF、World Bank、政府數據 API、另類數據覆蓋，16 個券商整合（Zerodha、IBKR、Alpaca 等）
+- **視覺化工作流** — Node Editor 自動化管線建構、MCP 工具整合、AI Quant Lab（ML 模型、因子發現、HFT、強化學習交易）
+- **純原生 C++20 桌面應用** — Qt6 渲染 UI、嵌入式 Python 執行分析，機構級金融分析能力
 
 ## 怎麼用
 

@@ -18,7 +18,10 @@ topics:
 
 > ⭐59k · 即時資料同步的 RAG 管線模板庫，Docker-friendly、免外部向量資料庫
 
-快速導航：[[rag|RAG]] · [[LangChain]] · [[llama-index|LlamaIndex]] · [[ragflow|RAGFlow]]
+## 快速導航
+- 🧠 **RAG** → [[rag|RAG]]
+- 🔗 **LangChain** → [[LangChain]]
+- 📚 **LlamaIndex** → [[llama-index|LlamaIndex]]
 
 ## 是什麼
 

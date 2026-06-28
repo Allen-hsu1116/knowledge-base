@@ -47,6 +47,11 @@ GSAP AI Skills 是 **GSAP（GreenSock Animation Platform）官方推出的 AI Sk
 
 ## 怎麼用
 
+```bash
+# 安裝 GSAP
+npm install gsap
+```
+
 1. 在 Claude / Cursor 中安裝 GSAP AI Skills
 2. 餵給 AI 幾個高質感的設計參考網站
 3. 讓 AI 使用 GSAP 而非 CSS animation / Tailwind 預設動畫

@@ -107,6 +107,14 @@ Boris 的 prompt 技巧：
 
 ## 怎麼用
 
+```bash
+# 安裝 Claude Code
+npm install -g @anthropic-ai/claude-code
+
+# 啟動
+claude
+```
+
 ### 立即見效的技巧
 1. **開多個 Session**：用 Git Worktree 隔離，同時處理多個任務
 2. **設定自動驗證**：讓 Claude Code 用瀏覽器或測試套件自己檢查自己

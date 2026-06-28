@@ -18,7 +18,10 @@ topics:
 
 > ⭐57k · Spec-Driven Development（SDD）框架，讓 AI coding assistant 先寫規格再寫程式碼
 
-快速導航：[[github-spec-kit|Spec Kit]] · [[Coding-Agent-CLI]] · [[context-engineering-basics|Context Engineering]] · [[AI-Agent]]
+## 快速導航
+- 🧠 **Spec Kit** → [[github-spec-kit|Spec Kit]]
+- 🛠 **Claude Code** → [[Coding-Agent-CLI]]
+- 📐 **Context Engineering** → [[context-engineering-basics|Context Engineering]]
 
 ## 是什麼
 

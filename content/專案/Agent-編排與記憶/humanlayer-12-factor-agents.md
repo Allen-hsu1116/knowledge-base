@@ -59,6 +59,12 @@ language: zh-TW
 
 ## 怎麼用
 
+```bash
+# 複製倉庫
+git clone https://github.com/humanlayer/12-factor-agents.git
+cd 12-factor-agents
+```
+
 ### 閱讀原則
 
 1. 進入 [GitHub repo](https://github.com/humanlayer/12-factor-agents)

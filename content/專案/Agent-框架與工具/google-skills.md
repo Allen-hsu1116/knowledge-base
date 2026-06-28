@@ -23,21 +23,10 @@ Google Skills 是 Google 官方維護的 Agent Skills 專案，提供 Google 產
 
 ## 核心特色
 
-### 官方出品
-
-Google 自己維護，品質有保證。每個 Skill 都是 Google 工程師撰寫和審核的。
-
-### 實用導向
-
-每個 Skill 對應真實的雲端服務，不是抽象概念。從 BigQuery 資料分析到 Cloud Run 部署，都是有具體使用場景的。
-
-### Recipe 模式
-
-不只教概念，還提供操作食譜（Recipe）。如 GCP 入門、GCP 認證、網路可觀測性等，讓 Agent 有具體操作步驟可遵循。
-
-### Well-Architected Framework
-
-涵蓋安全、可靠度、成本三大架構面向，不只是功能列表，而是架構最佳實踐。
+- **官方出品** — Google 自己維護，品質有保證。每個 Skill 都是 Google 工程師撰寫和審核的
+- **實用導向** — 每個 Skill 對應真實的雲端服務，不是抽象概念。從 BigQuery 資料分析到 Cloud Run 部署，都是有具體使用場景的
+- **Recipe 模式** — 不只教概念，還提供操作食譜（Recipe）。如 GCP 入門、GCP 認證、網路可觀測性等，讓 Agent 有具體操作步驟可遵循
+- **Well-Architected Framework** — 涵蓋安全、可靠度、成本三大架構面向，不只是功能列表，而是架構最佳實踐
 
 ### 收錄的 Skills
 

@@ -186,22 +186,11 @@ OpenAI Skills 是 OpenAI 官方提供的 Agent Skills 目錄，專為 Codex（Op
 
 ## 核心特色
 
-### Skill 格式
-
-每個 Skill 採用 SKILL.md 格式（YAML frontmatter + Markdown），定義：
-- **觸發條件**（trigger）：什麼情況下啟用
-- **上下文需求**（context）：需要的設計脈絡
-- **執行步驟**（instructions）：具體的操作流程
-- **約束與品質標準**（constraints）：輸出品質的要求
-- **輸出格式**（output）：期望的輸出結構
-
-### 設計系統合規
-
-figma-generate-design Skill 特別強調：
-- 使用 Figma 變數做 Design Token
-- 維護一致的間距、字體和色彩系統
-- 響應式設計（Desktop + Tablet + Mobile）
-- 無障礙標準（WCAG 2.1 AA）
+- **Skill 格式（SKILL.md）** — 每個 Skill 採用 YAML frontmatter + Markdown 格式，定義觸發條件（trigger）、上下文需求（context）、執行步驟（instructions）、約束與品質標準（constraints）、輸出格式（output）
+- **完整 Figma 工作流** — 四個互補 Skill 形成 Figma → Code 完整鏈路：figma（取得脈絡）→ figma-use（強制前置，確保 `use_figma` 參數正確）→ figma-generate-design（從需求生成設計）→ figma-implement-design（翻譯成程式碼）
+- **figma-use 17 條關鍵規則** — 涵蓋 return 回傳、純 JavaScript + top-level await、色彩 0-1 範圍、fills/strokes 唯讀、字型必須先載入等，避免常見且難以除錯的失敗
+- **設計系統合規** — 使用 Figma 變數做 Design Token，維護一致的間距、字體和色彩系統，支援響應式設計（Desktop + Tablet + Mobile），符合 WCAG 2.1 AA 無障礙標準
+- **1:1 視覺精確度** — figma-implement-design 要求間距、字體大小、色彩必須與 Figma 設計完全一致，優先使用 design-system tokens，避免硬編碼值
 
 ## 怎麼用
 

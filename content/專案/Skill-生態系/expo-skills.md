@@ -72,6 +72,18 @@ bunx skills add expo/skills
 
 ## 怎麼用
 
+```bash
+# 建立新專案
+npx create-expo-app@latest my-app
+
+# 啟動開發伺服器
+npx expo start
+
+# EAS Build & Submit
+eas build --platform ios
+eas submit --platform ios
+```
+
 日常使用情境：
 1. **新建專案**：讓 Agent 依 Expo Skills 建議正確的專案結構和路由配置
 2. **部署上架**：Agent 給出 EAS Build + Submit 的正確指令序列

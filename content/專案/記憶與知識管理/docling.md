@@ -24,29 +24,12 @@ Docling 解決的是 AI 應用的「上游」問題：在你能讓 LLM 讀懂文
 
 ## 核心特色
 
-### DoclingDocument 統一表達
-
-所有格式轉成同一種結構（DoclingDocument），一次解析到處通用。
-
-### 多種匯出
-
-Markdown、HTML、WebVTT、DocTags、lossless JSON，滿足不同下游需求。
-
-### 本地執行
-
-敏感資料和離線環境也能用，不需上傳到雲端。
-
-### OCR 支援
-
-掃描 PDF 和圖片也能解析，不限制輸入品質。
-
-### Visual Language Models
-
-支援 GraniteDocling（IBM 258M 參數模型），圖表理解（Bar chart、Pie chart、Line plot 轉成表格或描述）。
-
-### MCP Server
-
-讓任何 Agent 透過 MCP 協議使用 Docling，跟 [[AI-Agent]] 生態系無縫整合。
+- **DoclingDocument 統一表達** — 所有格式轉成同一種結構（DoclingDocument），一次解析到處通用
+- **多種匯出** — 支援 Markdown、HTML、WebVTT、DocTags、lossless JSON，滿足不同下游需求
+- **本地執行** — 敏感資料和離線環境也能用，不需上傳到雲端
+- **OCR 支援** — 掃描 PDF 和圖片也能解析，不限制輸入品質
+- **Visual Language Models** — 支援 GraniteDocling（IBM 258M 參數模型），圖表理解（Bar chart、Pie chart、Line plot 轉成表格或描述）
+- **MCP Server** — 讓任何 Agent 透過 MCP 協議使用 Docling，跟 [[AI-Agent]] 生態系無縫整合
 
 ## 怎麼用
 

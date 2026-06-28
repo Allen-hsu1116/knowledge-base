@@ -132,14 +132,7 @@ language: zh-TW
 
 ---
 
-title: 整理記錄
-
-slug: log
-language: zh-TW
-topics: ["記錄", "日誌"]
----
-
-# 整理記錄
+# 整理記錄（舊格式）
 
 > 知識庫的 append-only 操作日誌，記錄每次 ingest、compile、refactor 和 lint。
 

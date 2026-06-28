@@ -35,39 +35,10 @@ code-review-graph 解決 AI coding tools 的一個根本問題：每次任務都
 
 ## 核心特色
 
-### Blast-radius 分析
-
-當一個檔案變更，圖譜追蹤所有可能受影響的呼叫者、依賴項和測試——這就是「爆炸半徑」。AI 助手只讀這些檔案，而不是掃描整個專案。100% recall 確保不漏任何受影響檔案，0.54 F1 代表有些過度預測——但這是保守取捨，多標記比漏掉好。
-
-| Repo | Avg Naive Tokens | Avg Graph Tokens | Reduction |
-|------|-----------------|-----------------|-----------|
-| express | 693 | 983 | 0.7x |
-| fastapi | 4,944 | 614 | 8.1x |
-| flask | 44,751 | 4,252 | 9.1x |
-| gin | 21,972 | 1,153 | 16.4x |
-| httpx | 12,044 | 1,728 | 6.9x |
-| nextjs | 9,882 | 1,249 | 8.0x |
-
-### 增量更新（< 2 秒）
-
-每次 git commit 或檔案存檔，hook 觸發圖譜更新。SHA-256 雜湊比對找出變更檔案，只重新解析變更部分。2,900 檔案專案重建 < 2 秒。
-
-```bash
-# 安裝 + 自動偵測 AI coding tools
-pip install code-review-graph
-code-review-graph install   # 偵測 Codex/Claude Code/Cursor/Windsurf/Zed 等
-code-review-graph build      # 解析程式碼庫
-
-# 指定平台
-code-review-graph install --platform codex
-code-review-graph install --platform claude-code
-code-review-graph install --platform cursor
-code-review-graph install --platform kiro
-```
-
-### 23 語言 + Jupyter 支援
-
-Tree-sitter 語法覆蓋：Python、TypeScript/TSX、JavaScript、Vue、Svelte、Go、Rust、Java、Scala、C#、Ruby、Kotlin、Swift、PHP、Solidity、C/C++、Dart、R、Perl、Lua、Zig、PowerShell、Julia，加上 Jupyter/Databricks notebook（.ipynb）多語言 cell 支援（Python、R、SQL）。
+- **Blast-radius 分析** — 當一個檔案變更，圖譜追蹤所有可能受影響的呼叫者、依賴項和測試。AI 助手只讀這些檔案而非掃描整個專案。6 個真實 repo 評測平均 8.2x token 減少，大型 monorepo 更有感（27,700+ 檔案被排除，只需讀 ~15 個）
+- **增量更新（< 2 秒）** — 每次 git commit 或檔案存檔，hook 觸發圖譜更新。SHA-256 雜湊比對找出變更檔案，只重新解析變更部分。2,900 檔案專案重建 < 2 秒
+- **23 語言 + Jupyter 支援** — Tree-sitter 語法覆蓋 Python、TypeScript/TSX、JavaScript、Vue、Svelte、Go、Rust、Java、Scala、C#、Ruby、Kotlin、Swift、PHP、Solidity、C/C++、Dart、R、Perl、Lua、Zig、PowerShell、Julia，加上 Jupyter/Databricks notebook 多語言 cell 支援
+- **多平台自動偵測** — `install` 指令一次設定全部，偵測 Codex、Claude Code、Cursor、Windsurf、Zed、Continue、OpenCode、Antigravity、Qwen、Qoder、Kiro 等 AI coding tools，自動寫入正確的 MCP 配置和 graph-aware 指令注入
 
 ## 怎麼用
 

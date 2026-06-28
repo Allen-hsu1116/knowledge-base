@@ -18,7 +18,10 @@ topics:
 
 > ⭐31.5k · AI 提示詞優化工具，一鍵改善 prompt 品質，支援多模型、圖片生成和 MCP 整合
 
-快速導航：[[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]] · [[promptfoo-promptfoo|Promptfoo]]
+## 快速導航
+- 🧠 **Prompt Engineering** → [[Prompt-Engineering]]
+- ⚡ **Token Optimization** → [[Token-Optimization]]
+- 🔌 **MCP** → [[MCP]]
 
 ## 是什麼
 

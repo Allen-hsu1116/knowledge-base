@@ -29,15 +29,12 @@ Claude-Mem 讓 Claude Code 的 context 跨 session 存活。它自動捕捉工�
 
 ## 核心特色
 
-| 特色 | 說明 |
-|------|------|
-| 🧠 持久記憶 | Context 跨 session 存活 |
-| 📊 漸進式揭露 | 分層記憶檢索，附 token 成本可見 |
-| 🔍 Skill 搜尋 | mem-search skill 自然語言查詢專案歷史 |
-| 🖥️ Web Viewer UI | 即時記憶流 http://localhost:37777 |
-| 💻 Claude Desktop | 從 Claude Desktop 對話搜尋記憶 |
-| 🔒 隱私控制 | `<private>` 標籤排除敏感內容 |
-| 🤖 自動運作 | 無需手動介入 |
+- **持久記憶** — Context 跨 session 存活，專案知識在 session 結束後仍然保留
+- **漸進式揭露** — 分層記憶檢索（search → timeline → get_observations），附 token 成本可見，約 10x token 節省
+- **Skill 搜尋** — mem-search skill 自然語言查詢專案歷史，搭配 Chroma 向量資料庫做語意 + 關鍵字混合搜尋
+- **Web Viewer UI** — 即時記憶流 http://localhost:37777，視覺化瀏覽記憶內容
+- **隱私控制** — `<private>` 標籤排除敏感內容
+- **自動運作** — 5 個生命週期 Hook 自動捕捉每次工具使用的觀察，無需手動介入
 
 ## 核心元件
 

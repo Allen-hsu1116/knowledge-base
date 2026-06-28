@@ -35,34 +35,11 @@ OpenFang 是一個用 Rust 從零打造的開源 Agent 作業系統。不是 cha
 
 ## 核心特色
 
-### Hands — 真正做事的自治 Agent
-
-Hands 是 OpenFang 的核心創新。預建的自治能力包，獨立運行、排程驅動、不需你下提示詞。每個 Hand 包含：HAND.toml（manifest）、System Prompt（500+ 字的操作手冊）、SKILL.md（領域專業知識）、Guardrails（敏感操作的審批閘門）。全部編譯進二進位檔，不需 pip install、不需 Docker pull。
-
-7 個預建 Hands：
-
-| Hand | 做什麼 |
-|------|--------|
-| **Clip** | YouTube URL → 下載 → 找最佳片段 → 剪直式短影片 + 字幕 + 縮圖 → 發 Telegram/WhatsApp。8 階段管線，FFmpeg + yt-dlp + 5 STT 後端 |
-| **Lead** | 每日排程。依 ICP 發現潛在客戶 → 網路研究豐富資料 → 0-100 評分 → 去重 → CSV/JSON/Markdown 交付 |
-| **Collector** | OSINT 等級情報。指定目標（公司、人、主題）→ 持續監控 → 變更偵測 + 情緒追蹤 + 知識圖譜建構 + 關鍵告警 |
-| **Predictor** | 超級預測引擎。多源信號 → 校準推理鏈 → 帶信心區間的預測 → Brier 分數追蹤準確度。有反共識模式 |
-| **Researcher** | 深度自主研究。跨源交叉引用 → CRAAP 準則評估可信度 → APA 格式引用報告，多語言支援 |
-| **Twitter** | 自治 Twitter/X 帳號管理。7 種輪替內容格式 → 最佳時段排程 → 回覆互動 → 績效追蹤。有審批佇列 |
-| **Browser** | 網頁自動化。Playwright bridge + session 持久化。強制購買審批閘門：未經確認絕不花錢 |
-
-### 效能對比
-
-OpenFang 在啟動速度、二進位大小、記憶體佔用上都大幅領先 Python 框架：
-
-- 啟動：180ms（LangGraph 2.5s、CrewAI 3.0s、AutoGen 4.0s）
-- 二進位：40MB（CrewAI 200MB、AutoGen 250MB）
-- 記憶體：32MB（CrewAI 100MB、LangGraph 150MB）
-- 預建 Hands 數：16 個（最多）
-
-### 自訂 Hand + FangHub
-
-定義自己的 HAND.toml（工具、設定、系統提示詞），發布到 FangHub 社群市集。
+- **Hands — 真正做事的自治 Agent** — 預建的自治能力包，獨立運行、排程驅動、不需下提示詞。每個 Hand 包含 HAND.toml（manifest）、System Prompt（500+ 字操作手冊）、SKILL.md（領域專業知識）、Guardrails（敏感操作審批閘門），全部編譯進二進位檔
+- **7 個預建 Hands** — Clip（YouTube 短影片剪輯）、Lead（潛在客戶開發）、Collector（OSINT 情報監控）、Predictor（超級預測引擎）、Researcher（深度自主研究）、Twitter（自治社群媒體管理）、Browser（網頁自動化），涵蓋多元自治場景
+- **效能大幅領先 Python 框架** — 啟動 180ms（LangGraph 2.5s、CrewAI 3.0s）、二進位 40MB（CrewAI 200MB）、記憶體 32MB（CrewAI 100MB），Rust 帶來的效能優勢顯著
+- **自訂 Hand + FangHub** — 定義自己的 HAND.toml（工具、設定、系統提示詞），發布到 FangHub 社群市集，實現 Hand 的社群分享和复用
+- **Guardrails 安全控制** — 敏感操作設有審批閘門（如 Browser Hand 的強制購買審批），未經確認絕不執行高風險動作
 
 ## 怎麼用
 

@@ -18,7 +18,10 @@ topics:
 
 > ⭐62.2k · 全能 AI 應用，本地優先的 ChatGPT 替代方案，聊天+文檔+Agent 一體化
 
-快速導航：[[RAG]] · [[Ollama]] · [[open-webui-open-webui|Open WebUI]] · [[LangChain]]
+## 快速導航
+- 🧠 **RAG** → [[RAG]]
+- 🏠 **Ollama** → [[Ollama]]
+- 🖥 **Open WebUI** → [[open-webui-open-webui|Open WebUI]]
 
 ## 是什麼
 

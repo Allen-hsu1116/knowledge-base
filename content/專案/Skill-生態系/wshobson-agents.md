@@ -18,7 +18,10 @@ topics:
 
 > ⭐37.2k · 多 Harness Agent 插件市場，88 插件 + 194 Agent + 158 Skill，一套原始碼支援五大平台
 
-快速導航：[[anthropics-claude-code|Claude Code]] · [[AI-Skills]] · [[MCP]] · [[agent-skills-ecosystem]]
+## 快速導航
+- 🔧 **Claude Code** → [[anthropics-claude-code|Claude Code]]
+- 🧠 **AI Skills** → [[AI-Skills]]
+- 🔌 **MCP** → [[MCP]]
 
 ## 是什麼
 

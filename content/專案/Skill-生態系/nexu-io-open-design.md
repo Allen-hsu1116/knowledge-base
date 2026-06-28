@@ -32,51 +32,11 @@ Open Design 是一個**本地優先、開源的 Claude Design 替代方案**，�
 
 ## 核心特色
 
-### 1. 100+ 內建 Skills
-
-每個 Skill 是一個 `SKILL.md` 資料夾，遵循 Claude Code Skill 格式（`od:` frontmatter 擴充），涵蓋：
-- Web / Desktop / Mobile 原型設計
-- 簡報 Slides
-- 圖片生成與編輯
-- 影片製作
-- HyperFrames（互動框架）
-- 匯出 HTML / PDF / PPTX / MP4
-
-### 2. 142+ Design Systems
-
-每個 Design System 是一個 `DESIGN.md` 檔案，遵循 9 段式 schema：
-- Color · Typography · Spacing · Layout · Components · Motion · Voice · Brand · Anti-patterns
-
-涵蓋 50+ 知名品牌風格：Stripe、Linear、Vercel、Apple、Google 等。
-
-### 3. 261 官方 Plugins
-
-每個 Plugin 是一個可攜的 Agent Skill 資料夾（`SKILL.md` + `od/` 目錄），可被任何支援 Agent Skills 的 Agent 讀取。Plugin 類別包含：
-- 設計工具整合（Figma、Canva 等）
-- 匯出格式轉換
-- 資料視覺化
-- 動畫與互動
-- AI 模型路由
-
-### 4. MCP Server 整合
-
-Open Design 同時出貨為 **Skills、CLI 和 MCP Server**，讓主流 coding agent 原生使用：
-
-```bash
-# 一行安裝 MCP 到你的 Agent
-od mcp install claude-code
-od mcp install codex
-od mcp install cursor
-```
-
-支援 21+ coding agent CLI adapter（Claude Code、Codex、Cursor、OpenCode、Copilot、Hermes 等）。
-
-### 5. 本地優先架構
-
-- 🖥️ 原生桌面應用（macOS Apple Silicon / Intel · Windows）
-- ⚡ 零設定：開箱即用，不需要 Node / pnpm / clone
-- 🔒 資料留在本地 — 不強制雲端同步
-- 📦 沙盒預覽 — 安全渲染 Agent 產出的 HTML/JS
+- **100+ 內建 Skills** — 每個 Skill 遵循 Claude Code Skill 格式（`od:` frontmatter 擴充），涵蓋 Web/Desktop/Mobile 原型設計、簡報 Slides、圖片生成與編輯、影片製作、HyperFrames、匯出 HTML/PDF/PPTX/MP4
+- **142+ Design Systems** — 每個 Design System 遵循 9 段式 schema（Color · Typography · Spacing · Layout · Components · Motion · Voice · Brand · Anti-patterns），涵蓋 50+ 知名品牌風格（Stripe、Linear、Vercel、Apple、Google 等）
+- **261 官方 Plugins** — 可攜的 Agent Skill 資料夾（`SKILL.md` + `od/` 目錄），包含設計工具整合、匯出格式轉換、資料視覺化、動畫與互動、AI 模型路由等類別
+- **MCP Server 整合** — 同時出貨為 Skills、CLI 和 MCP Server，支援 21+ coding agent CLI adapter（Claude Code、Codex、Cursor、OpenCode、Copilot、Hermes 等），一行指令安裝
+- **本地優先架構** — 原生桌面應用（macOS Apple Silicon/Intel · Windows），零設定開箱即用，資料留在本地，沙盒預覽安全渲染 Agent 產出的 HTML/JS
 
 ## 怎麼用
 

@@ -30,36 +30,10 @@ Figma Skills 是一套 AI Agent Skill，專門處理 Figma 設計工具與程式
 
 ## 核心特色
 
-### 完整的 Figma → Code 工作流
-
-| 階段 | Skill | 輸入 | 輸出 |
-|------|-------|------|------|
-| 取得脈絡 | figma | Figma 檔案 URL | 截圖、變數、Component 清單 |
-| 正確使用 | figma-use | Figma 操作需求 | 結構化的 `use_figma` 呼叫參數 |
-| 設計生成 | figma-generate-design | 文字需求描述 | Figma 設計檔（多頁面、響應式） |
-| 程式碼實作 | figma-implement-design | Figma 設計稿 | 生產級前端程式碼 |
-
-### figma-use 的強制前置角色
-
-`figma-use` 被標記為 **MANDATORY prerequisite** — 在每次 `use_figma` 工具呼叫前必須先執行。它確保：
-- 正確建立上下文（哪些 Figma 檔案、哪個頁面、什麼層級）
-- 参数準備（Figma API 的正確參數格式）
-- 避免常見錯誤（錯誤的 node ID、遺漏的變數參照）
-
-### 設計系統合規
-
-figma-generate-design 要求生成的设计必须：
-- 使用 Figma 變數做 Design Token（色彩、間距、字體）
-- 維護元件一致性（Button、Card、Modal 等）
-- 支援響應式設計（Desktop + Tablet + Mobile 視圖）
-- 符合 WCAG 2.1 AA 無障礙標準
-
-### 1:1 視覺精確度
-
-figma-implement-design 的核心要求是 **精確還原設計稿**：
-- 間距、字體大小、色彩必須與 Figma 設計完全一致
-- 支援跨平台實作（iOS、Android、Web）
-- 使用 Figma 變數直接對應到程式碼中的 Design Token
+- **完整的 Figma → Code 工作流** — 四個 Skill 分工：figma（取得設計脈絡）→ figma-use（確保正確呼叫）→ figma-generate-design（從需求生成設計）→ figma-implement-design（翻譯成程式碼），涵蓋從設計到實作的完整鏈路
+- **figma-use 強制前置角色** — 被標記為 MANDATORY prerequisite，在每次 `use_figma` 工具呼叫前必須先執行，確保正確建立上下文、參數準備、避免常見錯誤（錯誤的 node ID、遺漏的變數參照）
+- **設計系統合規** — 生成設計要求使用 Figma 變數做 Design Token（色彩、間距、字體），維護元件一致性，支援響應式設計（Desktop + Tablet + Mobile），符合 WCAG 2.1 AA 無障礙標準
+- **1:1 視覺精確度** — figma-implement-design 要求間距、字體大小、色彩必須與 Figma 設計完全一致，支援跨平台實作（iOS、Android、Web），使用 Figma 變數直接對應到程式碼中的 Design Token
 
 ## 怎麼用
 

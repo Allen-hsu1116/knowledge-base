@@ -23,25 +23,11 @@ DS4（DrawfStar 4）是 antirez 為 DeepSeek V4 Flash 打造的專用本地推�
 
 ## 核心特色
 
-### DeepSeek V4 Flash 專用最佳化
-
-不是通用推論引擎，而是針對 DeepSeek V4 Flash 的架構特性（MoE、KV cache 壓縮、2-bit 量化）做深度最佳化。
-
-### KV Cache 壓縮
-
-極度壓縮的 KV cache，支援磁碟持久化。1M context window 在消費級硬體上也能跑。
-
-### 2-bit 量化
-
-特殊量化方式，128GB MacBook 可跑，96GB 也有人成功跑 250k context。
-
-### 端到端完成
-
-推論引擎 + HTTP API（ds4-server）+ 特製 GGUF + 測試驗證一體。不是只讓模型「能跑」，而是讓一個本地模型端到端地「完成」。
-
-### Metal + CUDA 雙後端
-
-主要目標 macOS Metal（96GB+ RAM），也支援 NVIDIA CUDA（特別針對 DGX Spark），AMD ROCm 有獨立分支。
+- **DeepSeek V4 Flash 專用最佳化** — 不是通用推論引擎，而是針對 DeepSeek V4 Flash 的架構特性（MoE、KV cache 壓縮、2-bit 量化）做深度最佳化
+- **KV Cache 壓縮** — 極度壓縮的 KV cache，支援磁碟持久化。1M context window 在消費級硬體上也能跑
+- **2-bit 量化** — 特殊量化方式，128GB MacBook 可跑，96GB 也有人成功跑 250k context
+- **端到端完成** — 推論引擎 + HTTP API（ds4-server）+ 特製 GGUF + 測試驗證一體。不是只讓模型「能跑」，而是讓一個本地模型端到端地「完成」
+- **Metal + CUDA 雙後端** — 主要目標 macOS Metal（96GB+ RAM），也支援 NVIDIA CUDA（特別針對 DGX Spark），AMD ROCm 有獨立分支
 
 ## 怎麼用
 

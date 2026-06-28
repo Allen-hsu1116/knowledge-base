@@ -44,6 +44,12 @@ Agency Agents 是一個開源的 AI Agent 人格庫，包含 144 個精心設計
 
 ## 怎麼用
 
+```bash
+# 複製倉庫
+git clone https://github.com/agency-agents/agency-agents.git
+cd agency-agents
+```
+
 1. 從 [GitHub repo](https://github.com/agency-agents/agency-agents) 下載人格模板
 2. 選擇適合的人格（如前端工程師、產品經理等）
 3. 將人格 prompt 貼入 AI 工具（ChatGPT、Claude、Cursor 等）
