@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-27
+updated: 2026-06-28
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-06-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[zhayujie-CowAgent\|CowAgent]] | ⭐45.6k | Agent Harness, 三層記憶, 自演化, 9+ 通道, Skill Hub, MCP | 2026-06-28 |
+| [[The-Pocket-PocketFlow\|Pocket Flow]] | ⭐10.9k | 100 行 LLM 框架, Graph 抽象, Agentic Coding, 零依賴, 6 語言版本 | 2026-06-28 |
 | [[FoundationAgents-MetaGPT\|MetaGPT]] | ⭐69k | 多 Agent 框架, 軟體公司模擬, SOP 驅動, 產品經理/架構師/工程師角色, MGX | 2026-06-27 |
 | [[alibaba-page-agent\|Page Agent]] | ⭐19.8k | In-page GUI Agent, 自然語言控制網頁, 純文字 DOM, BYO LLM, MCP Server, Chrome 擴充 | 2026-06-26 |
 | [[stablyai-orca\|Orca]] | ⭐6.8k | ADE, 平行 worktree, 25+ Agent 支援, 手機 Companion, SSH Worktree, Design Mode | 2026-06-25 |
@@ -98,6 +100,7 @@ updated: 2026-06-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[pathwaycom-llm-app\|Pathway LLM App]] | ⭐59.2k | 即時資料同步 RAG 管線, 零外部依賴, 7+ 模板, Docker, Adaptive RAG | 2026-06-28 |
 | [[Mintplex-Labs-anything-llm\|AnythingLLM]] | ⭐62.2k | 本地優先 AI 應用, 30+ LLM, RAG, Agent, 多用戶, 向量資料庫, MCP | 2026-06-27 |
 | [[opendatalab-MinerU\|MinerU]] | ⭐69.6k | 文件解析, PDF/DOCX/PPTX/XLSX, OCR 109 語言, VLM+OCR 雙引擎, MCP Server, RAG | 2026-06-26 |
 | [[topoteretes-cognee\|Cognee]] | ⭐18.6k | AI 記憶平台, 知識圖譜, 向量搜尋, 認知科學本體, Agent 跨 session 記憶 | 2026-06-22 |
@@ -191,6 +194,7 @@ updated: 2026-06-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[linshenkx-prompt-optimizer\|Prompt Optimizer]] | ⭐31.5k | Prompt 優化, 多模型, 圖片生成, MCP, 多平台部署 | 2026-06-28 |
 | [[mksglu-context-mode\|Context Mode]] | ⭐17.4k | Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台 | 2026-06-14 |
 | [[jieba\|jieba 結巴分詞]] | ⭐34,952 | NLP, 中文分詞, 關鍵詞提取 | 2026-05-16 |
 | [[nltk\|NLTK]] | ⭐14,500 | NLP, 分詞, 詞性標注, 語料庫 | 2026-05-16 |
@@ -280,6 +284,7 @@ updated: 2026-06-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Fission-AI-OpenSpec\|OpenSpec]] | ⭐57.1k | Spec-Driven Development, 四步工作流, opsx, brownfield, AI coding | 2026-06-28 |
 | [[wshobson-agents\|wshobson/agents]] | ⭐37.2k | 插件市場, 88 插件 + 194 Agent + 158 Skill, 5 大 Harness, PluginEval | 2026-06-27 |
 | [[github-awesome-copilot\|Awesome GitHub Copilot]] | ⭐35.8k | Copilot 資源, Agent/Skill/Hook/Workflow/Plugin, GitHub 官方, llms.txt | 2026-06-27 |
 | [[google-labs-code-design.md\|DESIGN.md]] | ⭐17.3k | Design System Spec, YAML Tokens, Visual Identity, WCAG Contrast, CLI Lint | 2026-06-25 |

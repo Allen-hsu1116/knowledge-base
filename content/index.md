@@ -4,7 +4,7 @@ slug: index
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-27
+updated: 2026-06-28
 ---
 
 # 知識庫總覽
@@ -69,6 +69,9 @@ updated: 2026-06-27
 | [[llm-fine-tuning\|LLM 微調]] | 透過 SFT、DPO、PPO、LoRA/QLoRA 等方法在大語言模型上進行領域適應和指令微調，LlamaFactory 等框架讓微調零代碼化。 |
 | [[multi-agent-framework\|多 Agent 框架]] | 將不同角色分配給多個 LLM Agent，形成協作實體處理複雜任務，如 MetaGPT 模擬軟體公司組織架構。 |
 | [[copilot-ecosystem\|Copilot 生態系]] | GitHub Copilot 的社群資源生態，包含 Agent、Skill、Hook、Workflow、Plugin，由 GitHub 官方維護策展。 |
+| [[spec-driven-development\|Spec-Driven Development]] | 在 AI coding assistant 寫程式碼前先寫規格文件（spec），以 propose → explore → apply → archive 四步流程確保方向正確。 |
+| [[real-time-rag\|即時 RAG 管線]] | RAG 管線自動偵測資料來源變更並即時重新索引，確保 AI 回答永遠基於最新資料，如 Pathway 的做法。 |
+| [[prompt-optimization\|Prompt 優化工具]] | 透過多輪迭代、分析比較和評估，自動改善 prompt 品質並提升 AI 輸出準確度的工具。 |
 
 ### 📚 應用與研究
 
