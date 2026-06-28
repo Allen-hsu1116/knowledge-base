@@ -16,7 +16,7 @@ topics:
 
 > ⭐69k · 多 Agent 框架，用自然語言編程的「第一家 AI 軟體公司」
 
-快速導航：[[LangChain]] · [[CrewAI]] · [[AutoGen]] · [[LLM]]
+快速導航：[[LangChain]] · [[CrewAI]] · [[microsoft-autogen|AutoGen]] · [[LLM]]
 
 ## 是什麼
 
@@ -76,11 +76,11 @@ asyncio.run(main())
 |------|-------|------|-------|-------|
 | **MetaGPT** | ⭐69k | 多 Agent 框架 | 軟體公司角色模擬 | SOP 驅動協作 |
 | [[CrewAI]] | ⭐51k | 多 Agent 框架 | 角色分工協作 | 輕量易用 |
-| [[AutoGen]] | ⭐59k | 多 Agent 框架 | AgentChat | 微軟出品，維護模式 |
+| [[microsoft-autogen|AutoGen]] | ⭐59k | 多 Agent 框架 | AgentChat | 微軟出品，維護模式 |
 | [[LangChain]] | ⭐137k | LLM 框架 | 全面生態 | RAG + Agent |
 | [[OpenHands-OpenHands|OpenHands]] | ⭐77.4k | Coding Agent | ACP 協議 | 全自動化工作流 |
 
-← [[LangChain]] · [[CrewAI]] · [[AutoGen]] · [[LLM]] · [[AI-Agent]]
+← [[LangChain]] · [[CrewAI]] · [[microsoft-autogen|AutoGen]] · [[LLM]] · [[AI-Agent]]
 
 ## 來源
 

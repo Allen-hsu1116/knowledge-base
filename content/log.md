@@ -2,10 +2,21 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-06-26
+updated: 2026-06-28
 stars: —
 language: zh-TW
 ---
+
+## 2026-06-28（Lint 檢查）
+
+### 修復項目
+- **斷掉的 cross-links (3)**：`FoundationAgents-MetaGPT.md` 中 `[[AutoGen]]` → `[[microsoft-autogen|AutoGen]]`；`github-awesome-copilot.md` 和 `wshobson-agents.md` 中 `[[Coding-Agent]]` → `[[Coding-Agent-CLI]]`
+- **index.md 斷連 (9)**：移除了 9 個指向不存在 wiki 頁面的 wikilink（design-system-spec, in-page-gui-agent, llm-fine-tuning, multi-agent-framework, copilot-ecosystem, spec-driven-development, real-time-rag, prompt-optimization, social-media-crawler），改為純文字
+- **projects.md 日期排序 (5)**：修復了 5 處日期未按降序排列的問題（學習資源區、效能與壓縮區、應用區、Skill 生態系區）
+
+### 未修復（需人工確認）
+- 25 個 unreferenced raw files（多為概念頁的原始素材，概念頁引用的 raw 檔名可能與實際檔名不完全匹配）
+- 99 個專案頁模板不完整（多為缺少安裝指令或核心特色條目數不足，需大規模補充）
 
 ## 2026-06-26（每日 LLM 熱門專案搜尋）
 

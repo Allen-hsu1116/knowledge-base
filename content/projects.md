@@ -235,8 +235,8 @@ updated: 2026-06-28
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐93,785 | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐48,233 | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
 
-| [[andrej-karpathy-ai-how\|Karpathy 知識庫完整拆解]] | —（文章報導） | LLM 知識庫, Karpathy, Claude Code | 2026-04-28 |
 | [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | —（文章/技巧） | Claude Code, 進階技巧, 生產力, 自動化 | 2026-05-06 |
+| [[andrej-karpathy-ai-how\|Karpathy 知識庫完整拆解]] | —（文章報導） | LLM 知識庫, Karpathy, Claude Code | 2026-04-28 |
 ## 📊 應用
 
 | 專案 | Stars | 概念 | 收錄日期 |
@@ -245,6 +245,7 @@ updated: 2026-06-28
 | [[google-research-timesfm\|TimesFM]] | ⭐23.2k | 時間序列預測, 基礎模型, Google Research, ICML 2024 | 2026-06-19 |
 | [[makeplane-plane\|Plane]] | ⭐51.8k | 專案管理, Jira 替代, 開源, Docker/K8s 自架 | 2026-06-19 |
 | [[sansan0-TrendRadar\|TrendRadar]] | ⭐59.4k | AI 輿情監控, 多平台聚合, RSS, MCP, 10+ 推送管道 | 2026-06-15 |
+| [[promptfoo-promptfoo\|Promptfoo]] | ⭐22.2k | LLM 評測, 紅隊, Prompt Engineering, RAG, CI/CD | 2026-06-15 |
 | [[maziyarpanahi-openmed\|OpenMed]] | ⭐3.2k | 醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX | 2026-06-13 |
 | [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐81,772 | AI Agent, 多Agent交易, LLM, 金融預測 | 2026-06-02 |
 | [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30,250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
@@ -271,8 +272,6 @@ updated: 2026-06-28
 | [[autoresearch]] | ⭐78,500 | AI Agent, AI Skills | 2026-05-03 |
 | [[ZhuLinsen-daily_stock_analysis]] | ⭐33,706 | LLM, AI Agent | 2026-05-03 |
 | [[santifer-career-ops]] | ⭐41,864 | AI Agent | 2026-05-03 |
-
-| [[promptfoo-promptfoo\|Promptfoo]] | ⭐22.2k | LLM 評測, 紅隊, Prompt Engineering, RAG, CI/CD | 2026-06-15 |
 ## 🔄 Agent 自演化
 
 | 專案 | Stars | 概念 | 收錄日期 |
@@ -303,6 +302,8 @@ updated: 2026-06-28
 | [[vercel-labs-agent-skills\|Vercel Agent Skills]] | ⭐27.7k | AI Skills, Web Design, Accessibility | 2026-06-08 |
 | [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]] | ⭐2k | AI Skills, Design System, UI/UX | 2026-06-08 |
 | [[expo-skills\|Expo Skills]] | ⭐2k | AI Skills, Mobile, React Native | 2026-06-08 |
+| [[Figma-Skills\|Figma Skills]] | — | AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作 | 2026-06-08 |
+| [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | — | AI Skills, 前端設計, Design System, Web Design Guidelines | 2026-06-08 |
 | [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐36,016 | AI Skills, Prompt Engineering, 前端設計 | 2026-06-07 |
 | [[mvanhorn-last30days-skill\|last30days]] | ⭐28k | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32,698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
@@ -318,9 +319,6 @@ updated: 2026-06-28
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐15,232 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
-
-| [[Figma-Skills\|Figma Skills]] | — | AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作 | 2026-06-08 |
-| [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | — | AI Skills, 前端設計, Design System, Web Design Guidelines | 2026-06-08 |
 ## 🏗 基礎設施
 
 | 專案 | Stars | 概念 | 收錄日期 |
