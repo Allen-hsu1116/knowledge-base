@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-28
+updated: 2026-06-29
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-28
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[usestrix-strix\|Strix]] | ⭐26.7k | AI 駭客 Agent, 滲透測試, 動態 PoC 驗證, Graph of Agents, CI/CD 整合, LLM-Security | 2026-06-29 |
 | [[zhayujie-CowAgent\|CowAgent]] | ⭐45.6k | Agent Harness, 三層記憶, 自演化, 9+ 通道, Skill Hub, MCP | 2026-06-28 |
 | [[The-Pocket-PocketFlow\|Pocket Flow]] | ⭐10.9k | 100 行 LLM 框架, Graph 抽象, Agentic Coding, 零依賴, 6 語言版本 | 2026-06-28 |
 | [[FoundationAgents-MetaGPT\|MetaGPT]] | ⭐69k | 多 Agent 框架, 軟體公司模擬, SOP 驅動, 產品經理/架構師/工程師角色, MGX | 2026-06-27 |
