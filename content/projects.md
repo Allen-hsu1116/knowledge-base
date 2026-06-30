@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-29
+updated: 2026-06-30
 ---
 
 # 專案索引
@@ -242,6 +242,7 @@ updated: 2026-06-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[soxoj-maigret\|Maigret]] | ⭐34.4k | OSINT, 用戶名搜尋, 3000+ 站台, AI 分析模式, 遞迴搜尋, Tor/I2P, 多格式報告 | 2026-06-30 |
 | [[koala73-worldmonitor\|WorldMonitor]] | ⭐57.2k | 全球情報儀表板, AI 新聞聚合, Ollama 本地, 地緣政治監控 | 2026-06-20 |
 | [[google-research-timesfm\|TimesFM]] | ⭐23.2k | 時間序列預測, 基礎模型, Google Research, ICML 2024 | 2026-06-19 |
 | [[makeplane-plane\|Plane]] | ⭐51.8k | 專案管理, Jira 替代, 開源, Docker/K8s 自架 | 2026-06-19 |
@@ -324,6 +325,7 @@ updated: 2026-06-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[logto-io-logto\|Logto]] | ⭐12.7k | 認證基礎設施, OIDC, OAuth 2.1, SSO, RBAC, MCP, AI Agent 認證, 多租戶, 30+ SDK | 2026-06-30 |
 | [[Kong-insomnia\|Insomnia]] | ⭐38.7k | API Client, GraphQL/REST/gRPC, 開源, Apache-2.0 | 2026-06-19 |
 | [[dotnet-aspnetcore\|ASP.NET Core]] | ⭐38.1k | Web 框架, C#, 跨平台, 微軟開源, MIT | 2026-06-19 |
 | [[FlowiseAI-Flowise\|Flowise]] | ⭐53.7k | 視覺化 Agent 建構, LangChain, 低代碼, RAG | 2026-06-17 |
