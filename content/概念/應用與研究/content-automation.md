@@ -45,6 +45,7 @@ language: zh-TW
 - [[AI-video-generation|AI 影片生成]] — 影片是內容自動化的重要輸出格式
 - [[AI-presentation|AI 簡報]] — 簡報自動化是內容自動化的子領域
 - [[generative-AI|生成式 AI]] — 生成式模型是內容自動化的技術基礎
+- [[browser-use-video-use|video-use]] — 用 Coding Agent 編輯影片，內容自動化的新範式
 - [[語音辨識]] — TTS 語音合成是影片和簡報自動化的關鍵環節
 - [[workflow-automation|工作流自動化]] — 內容自動化是工作流自動化的應用場景
 

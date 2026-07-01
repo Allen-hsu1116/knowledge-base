@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-06-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ogulcancelik-herdr\|herdr]] | ⭐9k | Agent 多工器, 終端機, tmux-for-agents, 狀態感知, SSH 遠端, Socket API, 15+ Agent 支援, Rust | 2026-07-01 |
 | [[usestrix-strix\|Strix]] | ⭐26.7k | AI 駭客 Agent, 滲透測試, 動態 PoC 驗證, Graph of Agents, CI/CD 整合, LLM-Security | 2026-06-29 |
 | [[zhayujie-CowAgent\|CowAgent]] | ⭐45.6k | Agent Harness, 三層記憶, 自演化, 9+ 通道, Skill Hub, MCP | 2026-06-28 |
 | [[The-Pocket-PocketFlow\|Pocket Flow]] | ⭐10.9k | 100 行 LLM 框架, Graph 抽象, Agentic Coding, 零依賴, 6 語言版本 | 2026-06-28 |
@@ -163,6 +164,7 @@ updated: 2026-06-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[browser-use-video-use\|video-use]] | ⭐12.6k | Coding Agent 影片編輯, 文字優先理解, 自我評估迴圈, ElevenLabs Scribe, Skill 格式 | 2026-07-01 |
 | [[NanmiCoder-MediaCrawler\|MediaCrawler]] | ⭐52.8k | 社群媒體爬蟲, 小紅書/抖音/快手/B站/微博/貼吧/知乎, Playwright+CDP, WebUI | 2026-06-26 |
 | [[calesthio-OpenMontage\|OpenMontage]] | ⭐12.1k | Agentic 影片製作, 12 管線, 52 工具, 500+ Agent Skills, Remotion, 多供應商 | 2026-06-23 |
 | [[palmier-io-palmier-pro\|Palmier Pro]] | ⭐7.4k | macOS AI 影片編輯器, Swift 原生, MCP, 時間軸內生成式 AI | 2026-06-23 |
@@ -210,6 +212,7 @@ updated: 2026-06-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-AI-For-Beginners\|AI for Beginners]] | ⭐49.4k | AI 入門課程, 12 週 24 課, PyTorch+TensorFlow, 電腦視覺, NLP, GAN, RNN, 50+ 語言翻譯 | 2026-07-01 |
 | [[shanraisshan-claude-code-best-practice\|Claude Code Best Practice]] | ⭐59.4k | Claude Code, 最佳實踐, Subagents, Skills, Hooks, MCP, 20+ 概念 | 2026-06-24 |
 | [[aishwaryanr-awesome-generative-ai-guide\|Awesome Generative AI Guide]] | ⭐27.6k | GenAI 學習資源, 90+ 課程, 論文追蹤, 面試題, 10週課程 | 2026-06-20 |
 | [[krahets-hello-algo\|Hello 算法]] | ⭐127.4k | 演算法, 資料結構, 動畫圖解, 12+ 語言 | 2026-06-18 |

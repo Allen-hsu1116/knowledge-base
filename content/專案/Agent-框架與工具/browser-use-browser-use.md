@@ -91,7 +91,7 @@ curl -o ~/.claude/skills/browser-use/SKILL.md \
 | [[trycua-cua|CUA]] | ⭐16k | Computer Use 框架 | ✅ | ❌ | ❌ |
 
 ## 相關概念
-← [[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]]
+← [[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]] · [[browser-use-video-use|video-use]]
 
 ## 來源
 

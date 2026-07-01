@@ -63,7 +63,7 @@ ssh -L 8888:localhost:8888 your-server
 Hermes WebUI 是專為 Hermes Agent 設計的 Web 介面，和 Open WebUI 的定位不同——Open WebUI 是通用 LLM 平台（支援多種模型和 RAG），Hermes WebUI 則是深度整合 Hermes Agent 的操作介面。搭配 Hermes Agent 使用，可以讓 Agent 的跨 session 記憶、定時任務等功能在瀏覽器中完整發揮。
 
 ## 相關概念
-← [[hermes-agent]] · [[open-webui-open-webui]] · [[AI-Agent]]
+← [[hermes-agent]] · [[open-webui-open-webui]] · [[AI-Agent]] · [[ogulcancelik-herdr|herdr]]
 
 ## 來源
 

@@ -45,6 +45,7 @@ AI 影片生成面臨的關鍵挑戰包括時序一致性（保持物體和場�
 - [[generative-AI|生成式 AI]] — 影片生成是生成式 AI 的子領域
 - [[diffusion-model|擴散模型]] — 擴散模型是影片生成的核心架構
 - [[world-model|世界模型]] — 世界模型生成影片，但更強調可控性和物理一致性
+- [[browser-use-video-use|video-use]] — 用 Coding Agent 編輯已有素材，影片後製自動化
 - [[content-automation|內容自動化]] — 影片生成是內容自動化的重要輸出
 - [[AI-Agent|AI Agent]] — Agent 驅動生成式模型進行自動化影片生成
 

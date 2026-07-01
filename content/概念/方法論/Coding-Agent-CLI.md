@@ -45,6 +45,7 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[AI-Agent]] — Coding Agent CLI 是 Agent 在開發領域的實作
 - [[MCP]] — MCP 定義 CLI 如何連接外部工具
 - [[AI-Skills]] — Skills 定義 CLI 在特定情境下的行為
+- [[ogulcancelik-herdr|herdr]] — 終端機 Agent 多工器，管理多個 Coding Agent CLI
 - [[CLAUDE-md]] — CLAUDE.md 是 Agent 行為規範的核心載體
 - [[harness-engineering]] — CLI 的配置和規則是 Harness Engineering 的實作
 - [[coding-agent-toolkit]] — 工具包為 CLI 提供搜尋和導航能力

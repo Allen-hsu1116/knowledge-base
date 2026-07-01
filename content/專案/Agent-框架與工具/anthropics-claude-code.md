@@ -71,7 +71,7 @@ claude
 Claude Code 與 [[Coding-Agent-CLI|Coding Agent CLI]] 概念密切相關，是目前市場上最成熟的 agentic coding 工具之一。它與 [[MCP]] 協議整合，可以連接外部工具和資料來源。[[affaan-m-everything-claude-code|Everything Claude Code]] 是圍繞它建立的最大社群 Skills 庫。
 
 ## 相關概念
-← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]] · [[affaan-m-everything-claude-code]]
+← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]] · [[affaan-m-everything-claude-code]] · [[browser-use-video-use|video-use]] · [[ogulcancelik-herdr|herdr]]
 
 ## 來源
 
