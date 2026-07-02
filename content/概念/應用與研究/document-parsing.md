@@ -39,6 +39,8 @@ language: zh-TW
   👉 詳見 [[opendataloader-project-opendataloader-pdf]]
 - **ParseBench** → 文件解析基準測試，五維度品質評估
   👉 詳見 [[run-llama-ParseBench]]
+- **olmOCR** → Ai2 的 VLM 驅動 OCR，7B 模型 PDF 線性化，LLM 資料集建構
+  👉 詳見 [[allenai-olmocr|olmOCR]]
 
 ## 相關概念
 

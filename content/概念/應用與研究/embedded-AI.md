@@ -39,6 +39,8 @@ language: zh-TW
   👉 詳見 [[Mininglamp-AI-Mano-P|Mano-P]]
 - **Frigate NVR** → 邊緣 AI 監控，本地 NVR 搭配電腦視覺
   👉 詳見 [[blakeblackshear-frigate|Frigate NVR]]
+- **FluidVoice** → macOS 聽寫應用，完全本地 on-device STT + AI 增強
+  👉 詳見 [[altic-dev-FluidVoice|FluidVoice]]
 
 ## 相關概念
 

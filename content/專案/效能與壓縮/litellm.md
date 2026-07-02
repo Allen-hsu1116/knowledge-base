@@ -86,9 +86,10 @@ model_list:
 | [[vLLM]] | LiteLLM 可作為 vLLM 前面的 API Gateway，做負載均衡和金鑰管理 |
 | [[sgl-project-sglang|SGLang]] | LiteLLM 也可作為 SGLang 前面的統一 API 層 |
 | [[NVIDIA-TensorRT-LLM]] | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
+| [[diegosouzapw-OmniRoute|OmniRoute]] | OmniRoute 是免費版的 LiteLLM，聚合 236+ 提供者 + RTK/Caveman 壓縮 |
 
 ## 相關概念
-← [[AI-Agent]] · [[project-golem]] · [[hermes-agent]]
+← [[AI-Agent]] · [[project-golem]] · [[hermes-agent]] · [[diegosouzapw-OmniRoute|OmniRoute]]
 
 ## 來源
 - raw/2026-05-03-litellm.md

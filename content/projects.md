@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[diegosouzapw-OmniRoute\|OmniRoute]] | ⭐9.5k | AI Gateway, 236 提供者, RTK+Caveman 壓縮, 16+ 編碼代理, MCP, A2A, 免費 1.6B tokens/月 | 2026-07-02 |
 | [[ogulcancelik-herdr\|herdr]] | ⭐9k | Agent 多工器, 終端機, tmux-for-agents, 狀態感知, SSH 遠端, Socket API, 15+ Agent 支援, Rust | 2026-07-01 |
 | [[usestrix-strix\|Strix]] | ⭐26.7k | AI 駭客 Agent, 滲透測試, 動態 PoC 驗證, Graph of Agents, CI/CD 整合, LLM-Security | 2026-06-29 |
 | [[zhayujie-CowAgent\|CowAgent]] | ⭐45.6k | Agent Harness, 三層記憶, 自演化, 9+ 通道, Skill Hub, MCP | 2026-06-28 |
@@ -102,6 +103,7 @@ updated: 2026-07-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[allenai-olmocr\|olmOCR]] | ⭐18.2k | VLM OCR, PDF 線性化, LLM 資料集, 7B VLM, RL 訓練, olmOCR-Bench | 2026-07-02 |
 | [[pathwaycom-llm-app\|Pathway LLM App]] | ⭐59.2k | 即時資料同步 RAG 管線, 零外部依賴, 7+ 模板, Docker, Adaptive RAG | 2026-06-28 |
 | [[Mintplex-Labs-anything-llm\|AnythingLLM]] | ⭐62.2k | 本地優先 AI 應用, 30+ LLM, RAG, Agent, 多用戶, 向量資料庫, MCP | 2026-06-27 |
 | [[opendatalab-MinerU\|MinerU]] | ⭐69.6k | 文件解析, PDF/DOCX/PPTX/XLSX, OCR 109 語言, VLM+OCR 雙引擎, MCP Server, RAG | 2026-06-26 |
@@ -164,6 +166,7 @@ updated: 2026-07-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[altic-dev-FluidVoice\|FluidVoice]] | ⭐5.5k | macOS 聽寫, on-device STT, Fluid Intelligence, Command/Write Mode, 8+ 語音模型, 本地優先 | 2026-07-02 |
 | [[browser-use-video-use\|video-use]] | ⭐12.6k | Coding Agent 影片編輯, 文字優先理解, 自我評估迴圈, ElevenLabs Scribe, Skill 格式 | 2026-07-01 |
 | [[NanmiCoder-MediaCrawler\|MediaCrawler]] | ⭐52.8k | 社群媒體爬蟲, 小紅書/抖音/快手/B站/微博/貼吧/知乎, Playwright+CDP, WebUI | 2026-06-26 |
 | [[calesthio-OpenMontage\|OpenMontage]] | ⭐12.1k | Agentic 影片製作, 12 管線, 52 工具, 500+ Agent Skills, Remotion, 多供應商 | 2026-06-23 |
