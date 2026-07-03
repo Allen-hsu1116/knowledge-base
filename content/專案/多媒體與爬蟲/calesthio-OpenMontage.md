@@ -45,7 +45,7 @@ OpenMontage 是全球第一個開源的 agentic 影片製作系統。它的核�
 3. **參考影片起點** — 可以貼一個 YouTube/TikTok/Reel 影片作為參考，agent 分析逐字稿、節奏、場景、關鍵幀和風格，產出 2-3 個差異化概念和成本估算
 4. **多供應商整合** — FAL（FLUX + Veo/Kling/MiniMax）、OpenAI、ElevenLbs、Google、xAI、HeyGen、Runway、Suno，支援本地 GPU 生成（Wan2.1、Hunyuan、LTX2、CogVideo）
 5. **自動品質審查** — ffprobe 驗證、幀取樣、音量分析、交付承諾驗證、字幕檢查，在成品交付前跑多點自審
-6. **極低成本示範** — Pixar 風格動畫短片 $1.33、產品廣告 $0.69、Ghibli 風格動畫 $0.15，證明開源流程的成本優勢
+6. **極低成本示範** — Pixar 風格動畫短片 \$1.33、產品廣告 \$0.69、Ghibli 風格動畫 \$0.15，證明開源流程的成本優勢
 
 ## 怎麼用
 
@@ -89,7 +89,7 @@ VIDEO_GEN_LOCAL_MODEL=wan2.1-1.3b
 
 | 方案 | 定位 | 管線數 | 成本 | Agent 整合 |
 |------|------|--------|------|-----------|
-| **OpenMontage** | 開源 agentic 影片製作 | 12 條 | $0.15-$1.33/片 | Claude Code/Cursor/Copilot/Windsurf/Codex |
+| **OpenMontage** | 開源 agentic 影片製作 | 12 條 | \$0.15-\$1.33/片 | Claude Code/Cursor/Copilot/Windsurf/Codex |
 | [[harry0703-MoneyPrinterTurbo\|MoneyPrinterTurbo]] | AI 影片自動生成 | 單一流程 | API 費用 | 獨立運行 |
 | [[linyqh-NarratoAI\|NarratoAI]] | AI 短劇製作 | 特定場景 | API 費用 | 獨立運行 |
 | [[Lightricks-LTX-2\|LTX-2]] | DiT 音影片生成模型 | 模型級 | 自架 GPU | ComfyUI 整合 |

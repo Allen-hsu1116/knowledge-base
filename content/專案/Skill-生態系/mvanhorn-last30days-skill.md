@@ -20,7 +20,7 @@ last30days 是一個 AI Agent Skill，把「搜尋」從編輯精選變成群眾
 
 這件事之所以關鍵，是因為沒有任何單一 AI 能存取所有平台：Google 碰不到 Reddit 評論和 X 貼文；ChatGPT 有 Reddit 卻搜不了 X 和 TikTok；Gemini 有 YouTube 但沒有 Reddit；Claude 原生連 Reddit 都沒有。每個平台都是封閉花園，有自己的 API、token 和認證機制。但只要你自己帶 API key 和瀏覽器 session，Agent 就能一次搜遍所有平台、跨平台評分、告訴你什麼才是真正重要的。
 
-典型使用場景：開會前查某人最近 30 天真實動態、比對工具優劣（自動發現競品）、旅遊前查最新評價、了解國際局勢。Reddit 1500 upvotes 的討論串比沒人讀的部落格文章更有參考價值；Polymarket 用 $66K 交易量支撐的 96% 機率比專家猜測更難反駁。
+典型使用場景：開會前查某人最近 30 天真實動態、比對工具優劣（自動發現競品）、旅遊前查最新評價、了解國際局勢。Reddit 1500 upvotes 的討論串比沒人讀的部落格文章更有參考價值；Polymarket 用 \$66K 交易量支撐的 96% 機率比專家猜測更難反駁。
 
 ## 核心特色
 

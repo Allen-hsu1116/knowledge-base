@@ -59,7 +59,7 @@ system_prompt = """
 - **System prompt 排列原則**：越穩定的內容放越前面，越可能變動的放越後面
 - Prompt 寫法也影響 cache hit：`幫我訂從 X 到 Y 的班機，X=台北, Y=波士頓` 比 `幫我訂從台北到波士頓的班機` 更容易命中
 - 實測：Gemini 2.5 Pro 和 GPT-4o 可達 **50%+ 成本節省**
-- OpenAI cache input 打 1 折（$2.5 → $0.25 per million tokens）
+- OpenAI cache input 打 1 折（\$2.5 → \$0.25 per million tokens）
 
 ### 方法選擇指南
 

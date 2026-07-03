@@ -23,7 +23,7 @@ language: zh-TW
 - **四個 Phases** — Ingest → Compile → Query → Lint，持續循環讓知識庫複利成長
 - **知識複利** — 每次提問的答案回存 wiki，探索也會累積，不消失在聊天歷史
 - **不需要 RAG** — 在中等規模（~100 來源）效果很好，index.md 就夠用
-- **工具簡單** — Obsidian（免費）+ Web Clipper（免費）+ Claude Code（~$20/月）
+- **工具簡單** — Obsidian（免費）+ Web Clipper（免費）+ Claude Code（~\$20/月）
 
 ## 各框架的做法
 

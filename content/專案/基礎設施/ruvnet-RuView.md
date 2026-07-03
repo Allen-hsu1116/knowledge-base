@@ -20,7 +20,7 @@ language: zh-TW
 
 RuView 把普通 WiFi 訊號變成即時空間智慧系統，能偵測人員存在、測量呼吸和心率、追蹤活動，甚至穿牆監測——完全不需要攝影機或穿戴裝置，只需物理學。
 
-這個專案源自卡內基美隆大學的 DensePose From WiFi 研究，但 RuView 把整個系統做到了邊緣裝置上——一個 ESP32 mesh（每節點低至 $9）搭配 Cognitum Seed（$140 總 BOM）就能實現持久記憶、密碼學證明和 AI 整合。不需要雲端、不需要攝影機、不需要網路。
+這個專案源自卡內基美隆大學的 DensePose From WiFi 研究，但 RuView 把整個系統做到了邊緣裝置上——一個 ESP32 mesh（每節點低至 \$9）搭配 Cognitum Seed（\$140 總 BOM）就能實現持久記憶、密碼學證明和 AI 整合。不需要雲端、不需要攝影機、不需要網路。
 
 ## 核心特色
 
@@ -46,7 +46,7 @@ RuView 把普通 WiFi 訊號變成即時空間智慧系統，能偵測人員存�
 docker pull ruvnet/wifi-densepose:latest
 docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 
-# ESP32-S3 實體感測（$9/node）
+# ESP32-S3 實體感測（\$9/node）
 python -m esptool --chip esp32s3 --port COM9 --baud 460800 \
   write_flash 0x0 bootloader.bin 0x8000 partition-table.bin \
   0xf000 ota_data_initial.bin 0x20000 esp32-csi-node.bin
