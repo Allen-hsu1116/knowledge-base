@@ -20,8 +20,8 @@ language: zh-TW
 ## 快速導航
 
 - 🧠 **記憶系統** → [[llm-knowledge-base]]（claude-mem 是記憶壓縮的實作之一）
-- 🔧 **Agent 技能** → [[agent-skills-ecosystem]]（claude-mem 用 Skill 機制提供搜尋）
-- 📝 **知識管理** → [[karpathy-gist-llm-wiki]]（LLM Wiki 是另一種知識持久化方法）
+- 🔧 **Agent 技能** → [[AI-Skills]]（claude-mem 用 Skill 機制提供搜尋）
+- 📝 **知識管理** → [[llm-knowledge-base]]（LLM Wiki 是另一種知識持久化方法）
 
 ## 是什麼
 
@@ -72,7 +72,7 @@ npx claude-mem install
 
 | 專案 | 定位 | 關係 |
 |------|------|------|
-| [[karpathy-gist-llm-wiki]] | LLM Wiki | 對比：Wiki 用 markdown 檔案持久化知識，claude-mem 用 SQLite + 向量 DB |
+| [[llm-knowledge-base]] | LLM Wiki | 對比：Wiki 用 markdown 檔案持久化知識，claude-mem 用 SQLite + 向量 DB |
 | [[project-golem]] | Agent 記憶系統 | 類似：Golem 用 lancedb-pro 向量記憶，claude-mem 用 Chroma |
 | [[llm-knowledge-base]] | 知識庫方法論 | 方法論層級：claude-mem 是方法論的一種實作 |
 | Claude Code 內建記憶 | 基礎方案 | 對比：內建 CLAUDE.md 是靜態的，claude-mem 是動態壓縮 |
@@ -80,7 +80,7 @@ npx claude-mem install
 
 ## 相關概念
 
-← [[llm-knowledge-base]] · [[agent-skills-ecosystem]] · [[karpathy-gist-llm-wiki]] · [[supermemoryai-supermemory|Supermemory]]
+← [[llm-knowledge-base]] · [[AI-Skills]] · [[llm-knowledge-base]] · [[supermemoryai-supermemory|Supermemory]]
 
 ## 來源
 

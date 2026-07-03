@@ -45,7 +45,7 @@ language: zh-TW
 - [[self-hosted|自架]] — 開源商業模式中自架通常是免費方案
 - [[free-software|免費軟體]] — 開源軟體的免費使用面向
 - [[productivity|生產力]] — 開源生產力工具的商業化
-- [[self-hosted-AI-platform|自架 AI 平台]] — AI 領域的開源商業模式實踐
+- [[self-hosted|自架 AI 平台]] — AI 領域的開源商業模式實踐
 
 ## 來源
 

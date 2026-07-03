@@ -70,14 +70,14 @@ ECC 的 skills 目錄包含 232+ 個可攜式技能定義，每個都是 markdow
 
 - ECC 側重 **harness 效能最佳化與安全防禦**，Agency Agents 側重 **豐富角色人格**
 - ECC 的 AgentShield 是 [[prompt-security]] 領域的實際應用——掃描攻擊向量、沙箱化、sanitization、CVE 防禦
-- ECC 屬於 [[agent-skills-ecosystem]] 生態系中功能最完整的方案之一
+- ECC 屬於 [[AI-Skills]] 生態系中功能最完整的方案之一
 
 ## 相關概念
 
 - [[AI-Agent]] — Agent 架構與設計
 - [[AI-Skills]] — Agent 技能系統
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
-- [[agent-skills-ecosystem]] — Agent 技能生態系
+- [[AI-Skills]] — Agent 技能生態系
 - [[prompt-security]] — 提示安全與防禦
 
 ## 來源

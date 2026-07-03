@@ -22,9 +22,9 @@ topics:
 
 ## 快速導航
 
-- 🤖 **AI Agent 技能生態** → [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🤖 **AI Agent 技能生態** → [[AI-Skills|Agent Skills 生態系]]
 - 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
-- 🕷 **網頁爬蟲** → [[web-scraping|網頁爬取]]
+- 🕷 **網頁爬蟲** → [[網頁爬蟲|網頁爬取]]
 - 🎨 **前端設計** → [[frontend-design|前端設計]]
 
 ## 是什麼
@@ -83,7 +83,7 @@ AI Website Cloner 跟 Firecrawl/Scrapling 的差異在於：爬蟲工具是提�
 
 ## 相關概念
 
-← [[agent-skills-ecosystem|Agent Skills 生態系]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[web-scraping|網頁爬取]] · [[frontend-design|前端設計]] · [[AI-Skills|AI Skills]]
+← [[AI-Skills|Agent Skills 生態系]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[網頁爬蟲|網頁爬取]] · [[frontend-design|前端設計]] · [[AI-Skills|AI Skills]]
 
 ## 來源
 

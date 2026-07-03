@@ -24,8 +24,8 @@ topics:
 
 ## 快速導航
 
-- 🕷️ **網頁爬蟲** → [[web-scraping|網頁爬取]]
-- 🔄 **網頁爬蟲概念** → [[web-crawling|Web Crawling]]
+- 🕷️ **網頁爬蟲** → [[網頁爬蟲|網頁爬取]]
+- 🔄 **網頁爬蟲概念** → [[網頁爬蟲|Web Crawling]]
 - 🤖 **AI Agent** → [[AI-Agent|AI Agent]]
 - 📊 **資料分析** → [[data-analysis|資料分析]]
 
@@ -99,7 +99,7 @@ MediaCrawler 跟 Scrapling 的差異在於：Scrapling 是通用網頁爬蟲，�
 
 ## 相關概念
 
-← [[web-scraping|網頁爬取]] · [[web-crawling|Web Crawling]] · [[data-analysis|資料分析]] · [[AI-Agent|AI Agent]]
+← [[網頁爬蟲|網頁爬取]] · [[網頁爬蟲|Web Crawling]] · [[data-analysis|資料分析]] · [[AI-Agent|AI Agent]]
 
 ## 來源
 

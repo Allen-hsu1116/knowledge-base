@@ -21,7 +21,7 @@ Pi 是一個 monorepo 形式的 AI agent harness，包含互動式 coding agent 
 
 ## 快速導航
 
-- ⚡ [[Coding-Agent-CLI]] · [[agent-skills-ecosystem]] · [[AI-Agent]]
+- ⚡ [[Coding-Agent-CLI]] · [[AI-Skills]] · [[AI-Agent]]
 
 ## 是什麼
 
@@ -99,7 +99,7 @@ Pi 支援將開源工作階段發布到 Hugging Face，幫助改善 coding agent
 
 ## 相關概念
 
-← [[Coding-Agent-CLI]] · [[agent-skills-ecosystem]] · [[AI-Agent]]
+← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[AI-Agent]]
 
 ## 為什麼重要
 

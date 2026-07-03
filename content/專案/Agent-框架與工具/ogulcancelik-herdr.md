@@ -32,7 +32,7 @@ topics:
 ## 快速導航
 
 - 🤖 **Coding Agent** → [[anthropics-claude-code|Claude Code]] · [[Coding-Agent-CLI]]
-- 🏗 **Agent 編排** → [[AI-Agent]] · [[agent-harness-optimization|Agent Harness 優化]]
+- 🏗 **Agent 編排** → [[AI-Agent]] · [[harness-engineering|Agent Harness 優化]]
 - 🖥 **終端工具** → [[nesquena-hermes-webui|Hermes WebUI]] · [[kenn-io-agentsview|agentsview]]
 
 ## 是什麼

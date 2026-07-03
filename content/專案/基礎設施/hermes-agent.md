@@ -14,7 +14,7 @@ language: zh-TW
 ## 快速導航
 
 - 🧠 **使用者建模** → [[agent-persona]]（Honcho dialectic user modeling）
-- 🛠 **Skill 標準** → [[agent-skills-ecosystem]]（相容 agentskills.io 開放標準）
+- 🛠 **Skill 標準** → [[AI-Skills]]（相容 agentskills.io 開放標準）
 - 📚 **跨 session 記憶** → [[llm-knowledge-base]]（跟 MemPalace 方法互補）
 - 🔄 **Agent 工作流** → [[AI-Agent]]
 
@@ -63,13 +63,13 @@ hermes schedule add "每天早上9點摘要新聞" --cron "0 9 * * *"
 
 跟 [[mempalace]] 的關係：MemPalace 是 AI 記憶系統，跟 Hermes 的跨 session 記憶概念互補。Hermes 的 FTS5 + LLM 摘要方法是另一種記憶實作。
 
-Hermes 相容 [[agent-skills-ecosystem]] 的 agentskills.io 開放標準，跟 [[addyosmani-agent-skills]] 和 [[google-skills]] 使用相同的 Skill 格式。
+Hermes 相容 [[AI-Skills]] 的 agentskills.io 開放標準，跟 [[addyosmani-agent-skills]] 和 [[google-skills]] 使用相同的 Skill 格式。
 
 [[nesquena-hermes-webui|Hermes WebUI]] 是 Hermes Agent 的 Web 介面，提供三欄式佈局、CLI 完全同位、遠端存取等功能，讓你能從瀏覽器或手機操作 Hermes Agent。
 
 ## 相關概念
 
-← [[agent-skills-ecosystem]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]] · [[nesquena-hermes-webui|Hermes WebUI]]
+← [[AI-Skills]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]] · [[nesquena-hermes-webui|Hermes WebUI]]
 
 ## 來源
 

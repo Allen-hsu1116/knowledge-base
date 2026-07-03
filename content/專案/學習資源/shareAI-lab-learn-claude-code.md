@@ -13,7 +13,7 @@ topics: [agent, agent-development, ai-agent, claude, claude-code, educational, l
 > ⭐66.7k · Bash is all you need——從零打造類似 Claude Code 的 Agent Harness，理解 Agent 的本質
 
 ## 快速導航
-[[affaan-m-ECC|ECC]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
+[[affaan-m-ECC|ECC]] · [[AI-Skills|Agent Skills 生態系]] · [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
 
 ## 是什麼
 
@@ -67,7 +67,7 @@ python full_harness.py
 | [[anthropics-claude-code|Claude Code]] | 官方 Harness | Anthropic 官方設計 | Claude 開發 |
 
 ## 相關概念
-← [[affaan-m-ECC|ECC]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+← [[affaan-m-ECC|ECC]] · [[AI-Skills|Agent Skills 生態系]]
 
 ## 來源
 

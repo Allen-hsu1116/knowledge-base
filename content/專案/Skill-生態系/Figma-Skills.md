@@ -16,7 +16,7 @@ language: zh-TW
 - 🎨 **Figma 工作流** → [[openai-skills|OpenAI Skills（4 個 Figma Skill）]]
 - 🖌️ **前端設計** → [[frontend-design]]
 - 🛠️ **設計系統** → [[softaworks-agent-toolkit|Design System Starter]]
-- 🤖 **Agent Skills** → [[AI-Skills]] · [[agent-skills-ecosystem]]
+- 🤖 **Agent Skills** → [[AI-Skills]] · [[AI-Skills]]
 
 ## 是什麼
 
@@ -74,7 +74,7 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 
 ## 相關概念
 
-← [[openai-skills]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[frontend-design]]
+← [[openai-skills]] · [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
 

@@ -14,7 +14,7 @@ updated: 2026-05-26
 
 ## 快速導航
 
-- 🎮 **AI Agent** → [[AI-Agent|AI Agent]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🎮 **AI Agent** → [[AI-Agent|AI Agent]] · [[AI-Skills|Agent Skills 生態系]]
 - 🛠️ **Coding Agent** → [[anthropics-claude-code|Claude Code]] · [[openclaw|OpenClaw]]
 - **Repo**: <https://github.com/Donchitos/Claude-Code-Game-Studios>
 - **Stars**: 20,021 | **License**: MIT | **Language**: Shell

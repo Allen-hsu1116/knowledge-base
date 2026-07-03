@@ -65,7 +65,7 @@ copilot plugin install <plugin-name>@awesome-copilot
 | [[anthropics-claude-code|Claude Code]] | ⭐128k | Coding Agent CLI | 原生插件市場 | Git 工作流 |
 | [[github-copilot-sdk|GitHub Copilot SDK]] | ⭐9.2k | Agent SDK | MCP + BYOK | Copilot 開發 |
 
-← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[anthropics-claude-code|Claude Code]] · [[MCP]] · [[Coding-Agent-CLI]]
+← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code|Claude Code]] · [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 來源
 

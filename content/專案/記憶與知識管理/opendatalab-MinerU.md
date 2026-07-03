@@ -31,7 +31,7 @@ topics:
 - 📄 **文件解析** → [[document-parsing|文件解析]]
 - 🔍 **RAG** → [[rag|RAG]]
 - 🤖 **AI Agent** → [[AI-Agent|AI Agent]]
-- 📝 **OCR 記憶** → [[ocr-memory|OCR-Memory]]
+- 📝 **OCR 記憶** → [[llm-knowledge-base|OCR-Memory]]
 
 ## 是什麼
 
@@ -99,7 +99,7 @@ MinerU 跟 PaddleOCR 的差異在於：PaddleOCR 專注 OCR 引擎本身，Miner
 
 ## 相關概念
 
-← [[document-parsing|文件解析]] · [[rag|RAG]] · [[ocr-memory|OCR-Memory]] · [[AI-Agent|AI Agent]]
+← [[document-parsing|文件解析]] · [[rag|RAG]] · [[llm-knowledge-base|OCR-Memory]] · [[AI-Agent|AI Agent]]
 
 ## 來源
 

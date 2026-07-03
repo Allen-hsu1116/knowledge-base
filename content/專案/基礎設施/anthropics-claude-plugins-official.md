@@ -82,7 +82,7 @@ my-plugin/
 - [[AI-Skills|AI Skills]]
 - [[MCP]]
 - [[Coding-Agent-CLI|Coding Agent CLI]]
-- [[CLAUDE-md|CLAUDE.md]]
+- [[AI-Skills|CLAUDE.md]]
 
 ## 來源
 

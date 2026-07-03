@@ -20,7 +20,7 @@ updated: 2026-06-14
 完全自架的 AI 簡報生成工具——支援 10+ 種 LLM provider、MCP Server、自訂模板、PPTX 匯出，不鎖定 SaaS 不強迫訂閱。
 
 ## 快速導航
-- ⚡ [[generative-AI]] · [[MCP]] · [[self-hosted-AI-platform]]
+- ⚡ [[generative-AI]] · [[MCP]] · [[self-hosted]]
 
 ## 是什麼
 
@@ -72,12 +72,12 @@ Presenton 和 [[ppt-master|PPT Master]] 是唯二的開源 AI 簡報方案。Pre
 
 - [[generative-AI]] — AI 簡報生成是生成式 AI 的典型應用場景
 - [[MCP]] — 內建 MCP Server 讓 Agent 可以直接生成簡報，是 MCP 生態的實際應用
-- [[self-hosted-AI-platform]] — 與 Open-WebUI 同類：完全自架、資料在自己手上
+- [[self-hosted]] — 與 Open-WebUI 同類：完全自架、資料在自己手上
 - [[AI-presentation]] — AI 驅動的簡報產生工具
-- [[pptx-generation]] — 可程式化的 PPTX 生成
+- [[AI-presentation]] — 可程式化的 PPTX 生成
 
 ## 相關概念
-← [[generative-AI]] · [[MCP]] · [[self-hosted-AI-platform]] · [[AI-presentation]]
+← [[generative-AI]] · [[MCP]] · [[self-hosted]] · [[AI-presentation]]
 
 ## 來源
 

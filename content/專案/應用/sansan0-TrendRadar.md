@@ -13,7 +13,7 @@ topics: [ai, mcp, rss, news, trending-topics, data-analysis, docker, llm]
 > ⭐59.4k · AI 驅動輿情監控與趨勢篩選工具，聚合多平台熱點 + RSS，支援 MCP 架構和 10+ 推送管道。
 
 ## 快速導航
-[[MCP|MCP 協議]] · [[web-scraping|網頁爬取]] · [[mvanhorn-last30days-skill|last30days]]
+[[MCP|MCP 協議]] · [[網頁爬蟲|網頁爬取]] · [[mvanhorn-last30days-skill|last30days]]
 
 ## 是什麼
 
@@ -79,7 +79,7 @@ python app.py
 | Feedly / Inoreader | RSS 閱讀器 | RSS only | 部分付費 | ❌ |
 
 ## 相關概念
-← [[MCP|MCP 協議]] · [[web-scraping|網頁爬取]]
+← [[MCP|MCP 協議]] · [[網頁爬蟲|網頁爬取]]
 
 ## 來源
 

@@ -14,7 +14,7 @@ language: zh-TW
 ## 快速導航
 
 - 🛠 **AI Skills** → [[AI-Skills]]（Google Skills 是 Agent Skills 的官方實作）
-- 🌐 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Agent Skills 生態系的一部分）
+- 🌐 **Agent Skills 生態系** → [[AI-Skills]]（Agent Skills 生態系的一部分）
 - 🔌 **MCP** → [[MCP]]（Skills 與 MCP 的工具整合）
 
 ## 是什麼
@@ -63,11 +63,11 @@ npx skills add google/skills --skill bigquery-basics
 
 Google Skills 使用與 [[addyosmani-agent-skills|addyosmani/agent-skills]] 相同的 skills.sh 生態標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程（審查、除錯、優化），Google 版專注於 Google Cloud 服務。
 
-跟 [[AI-Skills]] 概念的關係：Google Skills 是 Agent Skills 標準的官方實作，展示了大型科技公司也擁抱開放標準。它是 [[agent-skills-ecosystem|Agent Skills 生態系]] 的一部分。
+跟 [[AI-Skills]] 概念的關係：Google Skills 是 Agent Skills 標準的官方實作，展示了大型科技公司也擁抱開放標準。它是 [[AI-Skills|Agent Skills 生態系]] 的一部分。
 
 ## 相關概念
 
-← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[MCP]] · [[addyosmani-agent-skills]]
+← [[AI-Skills]] · [[AI-Skills]] · [[MCP]] · [[addyosmani-agent-skills]]
 
 ## 來源
 

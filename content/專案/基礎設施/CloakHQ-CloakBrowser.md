@@ -22,7 +22,7 @@ CloakBrowser 是從 Chromium C++ 原始碼層級修改指紋的隱形瀏覽器�
 
 ## 快速導航
 
-- ⚡ [[web-scraping]] · [[pentesting]]
+- ⚡ [[網頁爬蟲]] · [[pentesting]]
 
 ## 是什麼
 
@@ -99,14 +99,14 @@ await browser.close();
 | undetected-chromedriver | Config patches | 0.3-0.7 | 有時 | 常壞 | 否（Selenium） | GPL |
 | Camoufox | C++ (Firefox) | 0.7-0.9 | PASS | 是 | 否 | MPL |
 
-- CloakBrowser 是 [[web-scraping]] 的基礎設施——當網站有嚴格反偵測時，它是進階爬蟲的必備工具
+- CloakBrowser 是 [[網頁爬蟲]] 的基礎設施——當網站有嚴格反偵測時，它是進階爬蟲的必備工具
 - 與 [[KeygraphHQ-shannon|Shannon]] 互補：繞過 bot detection 是 AI 滲透測試的前置需求
 - 可搭配 Crawl4AI、browser-use、LangChain 等 AI agent framework 使用
 
 ## 相關概念
 
-- [[web-scraping]] — 隱形瀏覽器是進階爬蟲的基礎設施
-- [[web-crawling]] — 搭配 Crawl4AI 等 framework 使用
+- [[網頁爬蟲]] — 隱形瀏覽器是進階爬蟲的基礎設施
+- [[網頁爬蟲]] — 搭配 Crawl4AI 等 framework 使用
 - [[KeygraphHQ-shannon]] — 繞過 bot detection 是滲透測試的前置需求
 
 ## 來源

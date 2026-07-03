@@ -12,7 +12,7 @@ language: TypeScript
 > ⭐17.8k · Claude Code / Codex / Cursor 的複利工程插件，讓每次工作都讓下一次更容易。
 
 ## 快速導航
-[[AI-Agent]] · [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+[[AI-Agent]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]]
 
 ## 是什麼
 
@@ -80,7 +80,7 @@ codex
 | [[obra-superpowers|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | 多平台 |
 
 ## 相關概念
-← [[AI-Agent]] · [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+← [[AI-Agent]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]]
 
 ## 來源
 

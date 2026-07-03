@@ -13,7 +13,7 @@ language: zh-TW
 
 ## 快速導航
 - 🛠 **沙盒環境** → [[sandbox]]（開放式安全研究環境）
-- 🕸 **網頁爬蟲** → [[web-scraping]]（大規模公開資料收集技術）
+- 🕸 **網頁爬蟲** → [[網頁爬蟲]]（大規模公開資料收集技術）
 - 🤖 **AI Agent** → [[AI-Agent]]（Agent 指令通道整合）
 
 ## 是什麼
@@ -69,11 +69,11 @@ helm install shadowbroker ./helm/chart --create-namespace --namespace shadowbrok
 | 隱私保護 | 本地運行，無資料外傳 | 各異 | 雲端 |
 
 - 與 [[opensandbox]] 不同：OpenSandbox 是程式碼安全沙盒，Shadowbroker 是情報分析沙盒
-- 與 [[web-scraping]] 相關：本質上是對 60+ 公開 API 的大規模資料收集與視覺化
+- 與 [[網頁爬蟲]] 相關：本質上是對 60+ 公開 API 的大規模資料收集與視覺化
 - AI Agent 整合是獨特賣點：大多 OSINT 工具不原生支援 Agent 操控
 
 ## 相關概念
-← [[sandbox]] · [[web-scraping]] · [[AI-Agent]]
+← [[sandbox]] · [[網頁爬蟲]] · [[AI-Agent]]
 
 ## 來源
 - raw/2026-05-19-BigBodyCobain-Shadowbroker.md

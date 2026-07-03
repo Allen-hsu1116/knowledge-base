@@ -14,7 +14,7 @@ language: zh-TW
 
 ## 快速導航
 
-- ⚡ [[agent-persona]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[AI-Skills]]
+- ⚡ [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]]
 
 ## 是什麼
 
@@ -75,7 +75,7 @@ cd agency-agents
 
 ## 相關概念
 
-← [[agent-persona]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[AI-Skills]]
+← [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]]
 
 ## 為什麼受歡迎
 
@@ -86,7 +86,7 @@ cd agency-agents
 
 ## 與其他專案的關係
 
-- 是 [[agent-skills-ecosystem|Agent Skills 生態系]] 的一部分
+- 是 [[AI-Skills|Agent Skills 生態系]] 的一部分
 - 與 [[openclaw|OpenClaw]] 的 SOUL.md/SKILL.md 概念相通
 - 展示了 Persona-first 的 AI 設計趨勢
 - 相關概念：[[agent-persona]]

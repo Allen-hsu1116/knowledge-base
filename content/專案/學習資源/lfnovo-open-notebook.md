@@ -12,7 +12,7 @@ language: TypeScript
 > ⭐25k · Google NotebookLM 的開源隱私替代方案，自架、多模型、100% 本地運行，支援 18+ AI 供應商
 
 ## 快速導航
-[[rag|RAG]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[document-parsing|文件解析]]
+[[rag|RAG]] · [[self-hosted|自架 AI 平台]] · [[document-parsing|文件解析]]
 
 ## 是什麼
 
@@ -71,7 +71,7 @@ docker compose up -d
 Open Notebook 的定位很明確：如果你要 NotebookLM 的核心體驗（多來源研究 + AI 對話 + Podcast），但又需要隱私、多供應商、API、自架——它是目前最完整的開源選擇。
 
 ## 相關概念
-← [[rag|RAG]] · [[self-hosted-AI-platform|自架 AI 平台]] · [[document-parsing|文件解析]]
+← [[rag|RAG]] · [[self-hosted|自架 AI 平台]] · [[document-parsing|文件解析]]
 
 ## 來源
 

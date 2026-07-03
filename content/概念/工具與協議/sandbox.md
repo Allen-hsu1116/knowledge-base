@@ -44,7 +44,7 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 - [[MCP]] — 沙箱透過 MCP 協議暴露給 Agent
 - [[pentesting]] — 滲透測試需要在沙箱中進行以控制影響範圍
 - [[harness-engineering]] — 沙箱是 Harness 安全防護的一部分
-- [[self-hosted-AI-platform]] — 自架平台需要沙箱來安全運行 Agent 程式碼
+- [[self-hosted]] — 自架平台需要沙箱來安全運行 Agent 程式碼
 - [[prompt-security]] — 沙箱是 Prompt 安全的實體防線
 
 ## 來源

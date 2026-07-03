@@ -13,7 +13,7 @@ topics: [agent, artificial-intelligence, claude-ai, developer-tools, llm, openai
 > ⭐77.4k · 自架開發者控制中心，讓 Coding Agent 成為永遠在線的工程團隊
 
 ## 快速導航
-[[AI-Agent|AI Agent]] · [[coding-agent-toolkit|Coding Agent]] · [[workflow-automation|Agent 工作流]]
+[[AI-Agent|AI Agent]] · [[Coding-Agent-CLI|Coding Agent]] · [[workflow-automation|Agent 工作流]]
 
 ## 是什麼
 
@@ -69,7 +69,7 @@ npm run dev
 | [[FlowiseAI-Flowise|Flowise]] | 視覺化 Agent 建構 | ✅ | ⚠️ 有限 | ❌ | 快速原型開發 |
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[coding-agent-toolkit|Coding Agent]]
+← [[AI-Agent|AI Agent]] · [[Coding-Agent-CLI|Coding Agent]]
 
 ## 來源
 

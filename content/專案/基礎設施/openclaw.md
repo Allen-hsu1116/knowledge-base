@@ -12,7 +12,7 @@ language: zh-TW
 > ⭐— · 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
 
 ## 快速導航
-- ⚡ [[agent-persona]] · [[agent-skills-ecosystem]] · [[llm-knowledge-base]] · [[AI-Agent]]
+- ⚡ [[agent-persona]] · [[AI-Skills]] · [[llm-knowledge-base]] · [[AI-Agent]]
 
 ## 是什麼
 
@@ -61,7 +61,7 @@ openclaw onboard
 | MCP | ✅ | ✅ | ✅ |
 | 人格 | SOUL.md | — | — |
 
-OpenClaw 是 [[agent-persona]] + [[agent-skills-ecosystem]] 的實際載體——我們的 SOUL.md、SKILL.md 就是 OpenClaw 的 Persona + Skill 實作。記憶系統對應 [[llm-knowledge-base]] 方法論，MCP 支援跟 [[project-golem]] 和 [[mempalace]] 的整合概念一致。
+OpenClaw 是 [[agent-persona]] + [[AI-Skills]] 的實際載體——我們的 SOUL.md、SKILL.md 就是 OpenClaw 的 Persona + Skill 實作。記憶系統對應 [[llm-knowledge-base]] 方法論，MCP 支援跟 [[project-golem]] 和 [[mempalace]] 的整合概念一致。
 
 ## OpenClaw vs OpenClaw Gateway
 
@@ -72,7 +72,7 @@ OpenClaw 的架構分為兩部分：
 Gateway 只是控制面板，產品是助手本身。
 
 ## 相關概念
-← [[agent-persona]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[llm-knowledge-base]]
+← [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[llm-knowledge-base]]
 
 ## 來源
 

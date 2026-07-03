@@ -14,7 +14,7 @@ language: zh-TW
 ## 快速導航
 - 🖥️ **電腦視覺** → [[visualization]]（提供豐富的視覺化 annotator）
 - 🔍 **文件解析** → [[document-parsing]]（視覺化標註工具可輔助文件解析）
-- 🌐 **網頁爬蟲** → [[web-scraping]]（即時串流處理可結合網路攝影機資料）
+- 🌐 **網頁爬蟲** → [[網頁爬蟲]]（即時串流處理可結合網路攝影機資料）
 
 ## 是什麼
 
@@ -75,7 +75,7 @@ for frame in video_frames:
 
 ## 相關概念
 
-← [[visualization]] · [[document-parsing]] · [[web-scraping]]
+← [[visualization]] · [[document-parsing]] · [[網頁爬蟲]]
 
 ## 來源
 

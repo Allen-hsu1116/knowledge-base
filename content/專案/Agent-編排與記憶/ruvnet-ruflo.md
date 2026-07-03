@@ -66,7 +66,7 @@ Web UI：flo.ruv.io — 多模型聊天，平行 MCP tool calling，持久向量
 |------|------|------|
 | [[bytedance-deer-flow|DeerFlow]] | Agent 編排 | 同為多 Agent 編排，DeerFlow 側重子 Agent 沙箱 |
 | [[CrewAI]] | 多 Agent 協作 | CrewAI 側重角色扮演，Ruflo 側重 Swarm 自組織 |
-| [[agent-skills-ecosystem|Agent Skills 生態系]] | Skill 生態 | Ruflo 的 Plugin Marketplace 是 Agent Skills 的實作之一 |
+| [[AI-Skills|Agent Skills 生態系]] | Skill 生態 | Ruflo 的 Plugin Marketplace 是 Agent Skills 的實作之一 |
 | [[garrytan-gstack]] | 角色分工框架 | gstack 是 23 個專家 skill，Ruflo 是 100+ Agent swarm 編排 |
 
 ## 相關概念

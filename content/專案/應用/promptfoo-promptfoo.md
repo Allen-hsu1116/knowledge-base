@@ -13,7 +13,7 @@ topics: [llm, llm-eval, prompt-engineering, red-teaming, pentesting, vulnerabili
 > ⭐22.2k · LLM 評測與紅隊工具，測試 Prompts、Agents 和 RAG，支援多模型比較、CI/CD 整合和漏洞掃描。
 
 ## 快速導航
-[[Prompt-Engineering|Prompt Engineering]] · [[cl4r1t4s|CL4R1T4S]] · [[NVIDIA-SkillSpector|SkillSpector]]
+[[Prompt-Engineering|Prompt Engineering]] · [[prompt-security|CL4R1T4S]] · [[NVIDIA-SkillSpector|SkillSpector]]
 
 ## 是什麼
 
@@ -74,10 +74,10 @@ promptfoo red-team --target openai:gpt-4
 | [[langfuse-langfuse|Langfuse]] | 觀測平台 | ✅ | ❌ | ✅ | ✅ |
 | [[NVIDIA-SkillSpector|SkillSpector]] | 安全掃描 | ❌ | ✅ Skills | ❌ | ❌ |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]] | 研究 | ❌ | ✅ 研究 | ✅ 30+ | ❌ |
-| [[cl4r1t4s|CL4R1T4S]] | 研究 | ❌ | ✅ 越獄 | ❌ | ❌ |
+| [[prompt-security|CL4R1T4S]] | 研究 | ❌ | ✅ 越獄 | ❌ | ❌ |
 
 ## 相關概念
-← [[Prompt-Engineering|Prompt Engineering]] · [[cl4r1t4s|CL4R1T4S]] · [[NVIDIA-SkillSpector|SkillSpector]]
+← [[Prompt-Engineering|Prompt Engineering]] · [[prompt-security|CL4R1T4S]] · [[NVIDIA-SkillSpector|SkillSpector]]
 
 ## 來源
 

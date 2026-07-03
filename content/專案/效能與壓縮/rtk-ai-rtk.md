@@ -14,7 +14,7 @@ language: zh-TW
 > ⭐6k · 高效能 CLI proxy，減少 LLM token 消耗 60-90%。單一 Rust binary，零依賴，支援 100+ 指令。⭐ 6k+
 
 ## 快速導航
-- ⚡ [[Token-Optimization]] · [[Coding-Agent-CLI]] · [[agent-skills-ecosystem]]
+- ⚡ [[Token-Optimization]] · [[Coding-Agent-CLI]] · [[AI-Skills]]
 
 ## 是什麼
 
@@ -82,7 +82,7 @@ rtk discover
 RTK 跟 [[Token-Optimization]] 直接相關——它是 token 優化在 CLI 層的實作。也跟 [[Coding-Agent-CLI]] 相關——coding agent 是 token 消耗的主要場景。
 
 ## 相關概念
-← [[Token-Optimization]] · [[Coding-Agent-CLI]] · [[agent-skills-ecosystem]]
+← [[Token-Optimization]] · [[Coding-Agent-CLI]] · [[AI-Skills]]
 
 ## 來源
 

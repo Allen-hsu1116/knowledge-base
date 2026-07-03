@@ -72,7 +72,7 @@ yarn dev:collector  # 啟動文檔收集器
 | [[CherryHQ-cherry-studio|Cherry Studio]] | ⭐47.3k | AI 客戶端 | 多模型客戶端 | Agent Skills |
 | [[Crosstalk-Solutions-project-nomad|Project N.O.M.A.D.]] | ⭐27k | 離線 AI | Ollama + RAG | 自架知識伺服器 |
 
-← [[RAG]] · [[Ollama]] · [[open-webui-open-webui|Open WebUI]] · [[LangChain]] · [[self-hosted-AI-platform]]
+← [[RAG]] · [[Ollama]] · [[open-webui-open-webui|Open WebUI]] · [[LangChain]] · [[self-hosted]]
 
 ## 來源
 

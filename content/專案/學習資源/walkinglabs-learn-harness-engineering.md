@@ -18,7 +18,7 @@ language: Multiple (13 語言)
 - 📋 **Context Engineering** → [[context-engineering-basics]]（Harness 是 Context Engineering 的工程實踐）
 - 🛠 **Coding Agent** → [[Coding-Agent-CLI]]（Claude Code / Codex 是主要目標工具）
 - 🧑‍💼 **Agent 人格** → [[agent-persona]]（AGENTS.md 定義了 Agent 的認知框架）
-- ⚡ **Agent Skills** → [[agent-skills-ecosystem]]（Skills 是 Harness 的一部分）
+- ⚡ **Agent Skills** → [[AI-Skills]]（Skills 是 Harness 的一部分）
 
 ## 是什麼
 
@@ -64,7 +64,7 @@ npm run docs:dev
 | Session 管理 | ✅ 完整生命週期 | ❌ | ✅ | 部分 | 部分 |
 
 ## 相關概念
-← [[harness-engineering]] · [[AI-Agent]] · [[context-engineering-basics]] · [[Coding-Agent-CLI]] · [[agent-persona]] · [[agent-skills-ecosystem]]
+← [[harness-engineering]] · [[AI-Agent]] · [[context-engineering-basics]] · [[Coding-Agent-CLI]] · [[agent-persona]] · [[AI-Skills]]
 
 ## 來源
 

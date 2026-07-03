@@ -45,7 +45,7 @@ language: zh-TW
 - [[agent-trading]] — Agent 交易是金融預測的自主執行層
 - [[backtesting]] — 回測驗證預測策略的歷史表現
 - [[data-analysis]] — 數據分析是金融預測的基礎能力
-- [[simulation]] — 多 Agent 社會模擬是金融預測的新方法
+- [[AI-Agent]] — 多 Agent 社會模擬是金融預測的新方法
 - [[AI-Agent]] — AI Agent 是金融預測的自主執行者
 
 ## 來源

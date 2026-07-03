@@ -12,7 +12,7 @@ language: zh-TW
 
 ## 快速導航
 
-- 🛠️ **Agent Skills 生態系** → [[agent-skills-ecosystem]]
+- 🛠️ **Agent Skills 生態系** → [[AI-Skills]]
 - 🧠 **AI Skills** → [[AI-Skills]]
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 
@@ -72,7 +72,7 @@ Use $complexity-optimizer to analyze src/utils/ and identify O(n²) loops.
 
 ## 相關概念
 
-← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[Token-Optimization]]
+← [[AI-Skills]] · [[AI-Skills]] · [[Token-Optimization]]
 
 ## 來源
 

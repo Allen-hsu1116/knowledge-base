@@ -20,7 +20,7 @@ updated: 2026-06-14
 把 Claude Code、Codex、Hermes 等 coding agents 組織成像人類隊友一樣——指派任務、追蹤進度、累積技能，讓 AI agent 團隊自動化協作。
 
 ## 快速導航
-- ⚡ [[AI-Agent]] · [[agent-skills-ecosystem]] · [[humanlayer-12-factor-agents|12-Factor Agents]]
+- ⚡ [[AI-Agent]] · [[AI-Skills]] · [[humanlayer-12-factor-agents|12-Factor Agents]]
 
 ## 是什麼
 
@@ -67,10 +67,10 @@ Multica 支援多種 coding agent 作為 runtime：Claude Code、Codex、GitHub 
 | Board/Issue 整合 | ✅ 原生 | ❌ | ✅ PR-based | ❌ |
 | 多種 Agent Runtime | ✅ 11 種 | ❌ Claude only | ❌ 自有 | ✅ 多模型 |
 
-Multica 是把「managed」概念帶入 AI agent 的平台——從 one-shot prompt 進化到持久團隊成員。跟 [[humanlayer-12-factor-agents|12-Factor Agents]] 的 agent lifecycle management 設計原則呼應，跟 [[agent-skills-ecosystem]] 的 Reusable Skills 緊密相關。
+Multica 是把「managed」概念帶入 AI agent 的平台——從 one-shot prompt 進化到持久團隊成員。跟 [[humanlayer-12-factor-agents|12-Factor Agents]] 的 agent lifecycle management 設計原則呼應，跟 [[AI-Skills]] 的 Reusable Skills 緊密相關。
 
 ## 相關概念
-← [[AI-Agent]] · [[agent-skills-ecosystem]] · [[Coding-Agent-CLI]] · [[humanlayer-12-factor-agents]]
+← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[humanlayer-12-factor-agents]]
 
 ## 來源
 

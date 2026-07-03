@@ -42,7 +42,7 @@ language: zh-TW
 
 - [[financial-forecasting]] — 金融預測產生策略，回測驗證策略
 - [[agent-trading]] — Agent 交易系統需要回測驗證策略穩健性
-- [[simulation]] — 模擬是回測的方法論基礎
+- [[AI-Agent]] — 模擬是回測的方法論基礎
 - [[data-analysis]] — 數據分析是回測結果解讀的基礎
 - [[stock-tracking]] — 股市追蹤提供回測所需的歷史數據
 

@@ -71,7 +71,7 @@ result = table_engine("table_page.png")
 PaddleOCR 的差異化在於它是少數同時提供 VLM 級別文件理解（PaddleOCR-VL）和結構化版面解析（PP-StructureV3）的方案，而且 0.9B 模型就能達到 SOTA 準確率，部署門檻極低。
 
 ## 相關概念
-← [[document-parsing|文件解析]] · [[rag|RAG]] · [[ocr-memory|OCR-Memory]]
+← [[document-parsing|文件解析]] · [[rag|RAG]] · [[llm-knowledge-base|OCR-Memory]]
 
 ## 來源
 

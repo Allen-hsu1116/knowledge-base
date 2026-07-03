@@ -16,7 +16,7 @@ language: zh-TW
 - 🛠 **Agent Skills** → [[AI-Skills]]（23 個專家技能，每個都是一個 AI skill）
 - 💻 **Coding Agent CLI** → [[Coding-Agent-CLI]]（支援 10 種 AI 編程 Agent CLI）
 - ⚡ **Prompt 工程** → [[Prompt-Engineering]]（每個 skill 都是精心設計的 prompt）
-- 🌐 **技能生態系** → [[agent-skills-ecosystem]]（與 ClawHub 技能生態系整合）
+- 🌐 **技能生態系** → [[AI-Skills]]（與 ClawHub 技能生態系整合）
 
 ## 是什麼
 

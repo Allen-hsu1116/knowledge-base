@@ -12,7 +12,7 @@ language: TypeScript
 > ⭐27k · 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖、AI 聊天與工具於一體
 
 ## 快速導航
-[[self-hosted-AI-platform|自架 AI 平台]] · [[模型推論與部署|Ollama]] · [[rag|RAG]]
+[[self-hosted|自架 AI 平台]] · [[模型推論與部署|Ollama]] · [[rag|RAG]]
 
 ## 是什麼
 
@@ -62,7 +62,7 @@ sudo bash install_nomad.sh
 | [[paperless-ngx-paperless-ngx|Paperless-ngx]] | ⭐41k | 文件管理 | 自架文件管理 + OCR | ✅ |
 
 ## 相關概念
-← [[self-hosted-AI-platform|自架 AI 平台]] · [[模型推論與部署|Ollama]] · [[rag|RAG]]
+← [[self-hosted|自架 AI 平台]] · [[模型推論與部署|Ollama]] · [[rag|RAG]]
 
 ## 來源
 

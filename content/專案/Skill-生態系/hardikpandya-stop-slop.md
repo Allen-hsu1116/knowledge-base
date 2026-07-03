@@ -12,7 +12,7 @@ language: Markdown
 > ⭐5.7k · 移除 AI 寫作痕跡的 skill 檔案，教導 LLM 偵測並消除常見的 AI 寫作模式
 
 ## 快速導航
-[[Prompt-Engineering]] · [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[LLM]]
+[[Prompt-Engineering]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[LLM]]
 
 ## 是什麼
 
@@ -61,7 +61,7 @@ cd stop-slop
 | [[anthropics-claude-cookbooks|Claude Cookbooks]] | ⭐44k | 範例集 | ❌ | ❌ | ❌ |
 
 ## 相關概念
-← [[Prompt-Engineering]] · [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[LLM]]
+← [[Prompt-Engineering]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[LLM]]
 
 ## 來源
 

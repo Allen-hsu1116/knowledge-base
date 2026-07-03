@@ -41,7 +41,7 @@ GraphRAG 的流程從原始文件開始：實體抽取 → 關係建構 → 知�
 
 - [[rag|RAG]] — GraphRAG 是 RAG 加入圖結構的進化形式
 - [[Knowledge-Graph|知識圖譜]] — 知識圖譜是 GraphRAG 的結構基礎
-- [[simulation|模擬]] — GraphRAG 為社會模擬提供建圖基礎
+- [[AI-Agent|模擬]] — GraphRAG 為社會模擬提供建圖基礎
 - [[hichunk|HiChunk]] — 階層式分塊為 GraphRAG 提供更高品質輸入
 - [[document-parsing|文件解析]] — 文件解析是 GraphRAG 的資料前處理步驟
 - [[AI-Agent|AI Agent]] — Agent 可用 GraphRAG 增強推理和記憶能力

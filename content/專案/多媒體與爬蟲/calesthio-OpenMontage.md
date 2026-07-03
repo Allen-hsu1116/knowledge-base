@@ -27,7 +27,7 @@ topics:
 - 🎬 **AI 影片生成** → [[AI-video-generation|AI 影片生成]]
 - 🤖 **AI Agent** → [[AI-Agent|AI Agent]]
 - 🎨 **生成式 AI** → [[generative-AI|生成式 AI]]
-- 🛠 **Agent Skills 生態系** → [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🛠 **Agent Skills 生態系** → [[AI-Skills|Agent Skills 生態系]]
 - 📝 **內容自動化** → [[content-automation|內容自動化]]
 
 ## 是什麼
@@ -99,7 +99,7 @@ OpenMontage 的獨特之處在於它是管線驅動的 agent 系統——不是�
 
 ## 相關概念
 
-← [[AI-video-generation|AI 影片生成]] · [[AI-Agent|AI Agent]] · [[generative-AI|生成式 AI]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[content-automation|內容自動化]] · [[palmier-io-palmier-pro|Palmier Pro]]
+← [[AI-video-generation|AI 影片生成]] · [[AI-Agent|AI Agent]] · [[generative-AI|生成式 AI]] · [[AI-Skills|Agent Skills 生態系]] · [[content-automation|內容自動化]] · [[palmier-io-palmier-pro|Palmier Pro]]
 
 ## 來源
 

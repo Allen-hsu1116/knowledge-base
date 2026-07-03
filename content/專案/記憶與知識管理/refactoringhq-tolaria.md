@@ -12,7 +12,7 @@ language: TypeScript
 > ⭐14k · 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合
 
 ## 快速導航
-[[self-hosted]] · [[llm-knowledge-base-obsidian-claude-code]] · [[llm-knowledge-base-obsidian-claude-code]]
+[[self-hosted]] · [[llm-knowledge-base]] · [[llm-knowledge-base]]
 
 ## 是什麼
 
@@ -61,7 +61,7 @@ pnpm tauri dev  # 原生桌面應用
 Tolaria 與 Obsidian 的定位不同：Obsidian 是成熟的外掛生態系統，有大綱檢視和社群外掛；Tolaria 更強調 Git-first 和 AI Agent 原生整合，以及用 Tauri 取代 Electron 的效能優勢。Tolaria 的「離線優先、零鎖定」哲學也非常鮮明。
 
 ## 相關概念
-← [[self-hosted]] · [[llm-knowledge-base-obsidian-claude-code]] · [[llm-knowledge-base-obsidian-claude-code]]
+← [[self-hosted]] · [[llm-knowledge-base]] · [[llm-knowledge-base]]
 
 ## 來源
 

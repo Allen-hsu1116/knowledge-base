@@ -19,9 +19,9 @@ topics:
 
 ## 快速導航
 
-- 🛠 **Skill 生態** → [[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🛠 **Skill 生態** → [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]]
 - 🤖 **Agent 框架** → [[anthropics-claude-code|Claude Code]] · [[anthropics-skills|Anthropic Skills]]
-- 📐 **方法論** → [[CLAUDE-md|CLAUDE.md]] · [[agent-persona|AI Agent 人格設計]]
+- 📐 **方法論** → [[AI-Skills|CLAUDE.md]] · [[agent-persona|AI Agent 人格設計]]
 
 ## 是什麼
 
@@ -92,12 +92,12 @@ npx skills add anthropics/skills --skill code-review -g
 
 - **[[AI-Skills|AI Skills]]** → 知識庫中的概念頁，Agent Skills 是其標準格式
 - **[[anthropics-skills|Anthropic Skills]]** → Anthropic 官方發布的 skill 集合，Agent Skills 是其底層格式規範
-- **[[CLAUDE-md|CLAUDE.md]]** → 用自然語言定義 Agent 行為規範，SKILL.md 更聚焦於單一任務
-- **[[agent-skills-ecosystem|Agent Skills 生態系]]** → 更廣泛的生態系討論，此 repo 是標準規範本身
+- **[[AI-Skills|CLAUDE.md]]** → 用自然語言定義 Agent 行為規範，SKILL.md 更聚焦於單一任務
+- **[[AI-Skills|Agent Skills 生態系]]** → 更廣泛的生態系討論，此 repo 是標準規範本身
 - **[[ComposioHQ-awesome-claude-skills|Awesome Claude Skills]]** → 社群策展的 skill 列表，此 repo 定義格式標準
 - **MCP** → MCP 是工具協議，Agent Skills 是知識/工作流封裝格式，互補不衝突
 
-← [[AI-Skills|AI Skills]] · [[anthropics-skills|Anthropic Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[CLAUDE-md|CLAUDE.md]]
+← [[AI-Skills|AI Skills]] · [[anthropics-skills|Anthropic Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[AI-Skills|CLAUDE.md]]
 
 ## 來源
 

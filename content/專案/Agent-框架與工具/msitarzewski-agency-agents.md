@@ -65,7 +65,7 @@ python convert.py --tool cursor --agent frontend-developer
 - [[AI-Skills]] — Agent 技能系統
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
 - [[agent-persona]] — Agent 人格設計
-- [[agent-skills-ecosystem]] — Agent 技能生態系
+- [[AI-Skills]] — Agent 技能生態系
 
 ## 來源
 

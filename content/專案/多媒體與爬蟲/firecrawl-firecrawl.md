@@ -12,7 +12,7 @@ language: TypeScript
 > ⭐131k · 網頁爬蟲 API，把任何網頁轉成 LLM 友善的 Markdown/JSON，搜尋+爬取+互動三合一
 
 ## 快速導航
-[[web-scraping]] · [[AI-Agent]] · [[rag]] · [[網頁爬蟲]]
+[[網頁爬蟲]] · [[AI-Agent]] · [[rag]] · [[網頁爬蟲]]
 
 ## 是什麼
 
@@ -80,10 +80,10 @@ npx firecrawl-mcp
 | [[D4Vinci-Scrapling|Scrapling]] | ⭐56k | Python 爬蟲 | ❌ 原始 HTML | ✅ | ✅ |
 | [[Crawl4AI|Crawl4AI]] | ⭐65k | 爬蟲框架 | ✅ Markdown | ✅ | ❌ |
 | [[browser-use-browser-use|Browser Use]] | ⭐98k | 瀏覽器 Agent | ✅ | ✅ | ❌ |
-| [[web-crawling|Web Crawling]] | — | 概念 | — | — | — |
+| [[網頁爬蟲|Web Crawling]] | — | 概念 | — | — | — |
 
 ## 相關概念
-← [[web-scraping]] · [[AI-Agent]] · [[rag]] · [[MCP]]
+← [[網頁爬蟲]] · [[AI-Agent]] · [[rag]] · [[MCP]]
 
 ## 來源
 

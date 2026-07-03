@@ -16,7 +16,7 @@ stars: 16887
 - 🛠️ **沙箱** → [[sandbox]]
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
-- 📦 **Agent Skills 生態系** → [[agent-skills-ecosystem]]
+- 📦 **Agent Skills 生態系** → [[AI-Skills]]
 
 ## 是什麼
 
@@ -72,7 +72,7 @@ async with Sandbox.ephemeral(Image.linux()) as sb:
 
 ## 相關概念
 
-← [[sandbox]] · [[AI-Agent]] · [[MCP]] · [[agent-skills-ecosystem]]
+← [[sandbox]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ## 來源
 

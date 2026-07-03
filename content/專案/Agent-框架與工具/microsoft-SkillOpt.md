@@ -12,7 +12,7 @@ language: Python
 > ⭐1.4k · 用訓練神經網路的方式優化 LLM Agent 技能文件，產出可部署的 best_skill.md
 
 ## 快速導航
-[[AI-Skills]] · [[AI-Agent]] · [[CLAUDE-md]] · [[openclaw|OpenClaw]] · [[affaan-m-everything-claude-code]]
+[[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]] · [[openclaw|OpenClaw]] · [[affaan-m-everything-claude-code]]
 
 ## 是什麼
 
@@ -62,14 +62,14 @@ pip install -e ".[webui]" && python -m skillopt_webui.app
 | 方案 | Stars | 類型 | 優化目標 | 產出 | 驗證機制 |
 |------|-------|------|---------|------|---------|
 | **SkillOpt** | ⭐1.4k | 文字空間優化器 | Skill 文件 | best_skill.md | Validation gate |
-| [[CLAUDE-md]] | — | 規範文件 | AGENTS.md | CLAUDE.md | 無 |
+| [[AI-Skills]] | — | 規範文件 | AGENTS.md | CLAUDE.md | 無 |
 | [[openclaw|OpenClaw]] | — | Skill 庫 | Skill 定義 | SKILL.md | 無 |
 | [[obra-superpowers|Superpowers]] | ⭐189.5k | Skill 庫 | 方法論 | 技能文件 | 無 |
 | [[affaan-m-everything-claude-code]] | ⭐172k | Skill/規則 | Prompt | 規則集 | 社群驗證 |
 
 ## 相關概念
 
-← [[AI-Skills]] · [[AI-Agent]] · [[CLAUDE-md]] · [[openclaw|OpenClaw]] · [[affaan-m-everything-claude-code]] · [[Prompt-Engineering]]
+← [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]] · [[openclaw|OpenClaw]] · [[affaan-m-everything-claude-code]] · [[Prompt-Engineering]]
 
 ## 來源
 

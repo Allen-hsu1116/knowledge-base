@@ -21,7 +21,7 @@ Frigate 是整合 Home Assistant 的完整本地 NVR，用 OpenCV 和 TensorFlow
 
 ## 快速導航
 
-- ⚡ [[embedded-AI]] · [[computer-vision]] · [[self-hosted-AI-platform]]
+- ⚡ [[embedded-AI]] · [[computer-vision]] · [[self-hosted]]
 
 ## 是什麼
 
@@ -108,7 +108,7 @@ cameras:
 
 ## 相關概念
 
-← [[embedded-AI]] · [[computer-vision]] · [[self-hosted-AI-platform]]
+← [[embedded-AI]] · [[computer-vision]] · [[self-hosted]]
 
 ## 為什麼重要
 

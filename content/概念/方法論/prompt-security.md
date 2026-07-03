@@ -23,12 +23,13 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 - **多層防禦** — 輸入過濾（檢測已知攻擊模式）、System Prompt 加固（強化安全指令）、輸出監控（二次審查模型輸出）、沙盒化（隔離環境執行）
 - **Steering Vector 研究** — 模型有代表情緒的內部向量，過度責備 AI 可能有害；防禦設計可從情緒向量切入
 - **紅隊測試** — 部署前用 CL4R1T4S 等工具進行安全測試，不了解攻擊就無法設計防禦
+- **系統性越獄技術蒐集** — [[prompt-security|CL4R1T4S]] 系統性收集各類越獄技術，建立攻擊模式參考資料庫，涵蓋直接注入、角色扮演、編碼繞過、多步驟攻擊等手法，作為紅隊測試和防禦設計的基準
 - **持續更新** — 攻擊手法不斷進化，防禦必須持續跟進
 
 ## 各框架的做法
 
 - **CL4R1T4S** → 系統性收集越獄技術，作為紅隊測試的攻擊模式參考
-  👉 詳見 [[cl4r1t4s]]
+  👉 詳見 [[prompt-security]]
 - **ECC** → 含 AgentShield 安全掃描功能，偵測 Skill 中的安全風險
   👉 詳見 [[affaan-m-everything-claude-code]]
 - **SkillSpector** → 64 種漏洞模式掃描，涵蓋 Prompt Injection 和資料外洩
@@ -44,7 +45,7 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 - [[AI-Skills]] — Skill 中可以包含安全限制定義
 - [[Prompt-Engineering]] — 安全設計是 Prompt 工程的一環
 - [[harness-engineering]] — Harness Engineering 包含安全邊界設計
-- [[cl4r1t4s]] — 越獄技術參考庫，攻擊面研究
+- [[prompt-security]] — 越獄技術參考庫，攻擊面研究
 - [[MCP]] — MCP 定義了 Agent 的工具存取邊界
 - [[Token-Optimization]] — 過度壓縮 token 可能影響指令完整性
 - [[self-correction]] — 自我修正可用於偵測攻擊行為

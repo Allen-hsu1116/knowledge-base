@@ -27,6 +27,10 @@ language: zh-TW
 - **離線運行** — 不依賴外部雲端服務，適合斷網或隱私敏感環境
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
+## AI 專用自架棧
+
+自架 AI 平台有別於一般自架服務，需要完整的 AI 元件棧：**推論引擎**（[[Ollama]] 本地運行或 [[vLLM]] 高吞吐服務）→ **前端介面**（[[open-webui-open-webui|Open WebUI]] 提供多使用者 Web UI）→ **向量資料庫**（Milvus / Qdrant 支援語義搜尋）→ **應用框架**（LangChain 整合 LLM + 檢索 + Agent）→ **API 統一層**（[[litellm|LiteLLM]] 代理多模型 API）。透過 Docker Compose 可一鍵部署整個元件棧，支援多使用者管理和 GPU 加速。這讓團隊能在私有環境中運行完整的 AI 應用平台，資料不出門。
+
 ## 各框架的做法
 
 - **Open WebUI** → 自架 LLM 平台，Docker 一鍵部署，整合 Ollama 本地模型
@@ -44,7 +48,7 @@ language: zh-TW
 
 ## 相關概念
 
-- [[self-hosted-AI-platform|自架 AI 平台]] — 專注於 AI 服務的自架
+- [[self-hosted|自架 AI 平台]] — 專注於 AI 服務的自架
 - [[open-source-business|開源商業模式]] — 開源專案的商業化策略
 - [[privacy|隱私]] — 自架的核心驅動力
 - [[free-domain|免費域名]] — 降低自架服務對外存取門檻

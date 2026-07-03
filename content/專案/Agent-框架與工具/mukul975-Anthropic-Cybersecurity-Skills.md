@@ -20,7 +20,7 @@ updated: 2026-06-14
 最大的開源 AI agent 網安技能庫——754 個技能覆蓋 26 個資安領域，每個技能同時對映 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF 五大框架。
 
 ## 快速導航
-- ⚡ [[AI-Skills]] · [[pentesting]] · [[agent-skills-ecosystem]]
+- ⚡ [[AI-Skills]] · [[pentesting]] · [[AI-Skills]]
 
 ## 是什麼
 
@@ -60,10 +60,10 @@ git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
 | 技能數量 | 754 | 數百連結 | 200+ techniques | 數千檔案 |
 | 執行流程 | ✅ Step-by-step | ❌ 連結 | ❌ 技術描述 | ❌ 工具目錄 |
 
-這個庫跟 [[agent-skills-ecosystem]] 直接相關——它是 agentskills.io 標準的網安領域實作。跟 [[AI-Skills]] 概念頁也是直接對應——754 個結構化 AI agent 技能。
+這個庫跟 [[AI-Skills]] 直接相關——它是 agentskills.io 標準的網安領域實作。跟 [[AI-Skills]] 概念頁也是直接對應——754 個結構化 AI agent 技能。
 
 ## 相關概念
-← [[AI-Skills]] · [[pentesting]] · [[agent-skills-ecosystem]]
+← [[AI-Skills]] · [[pentesting]] · [[AI-Skills]]
 
 ## 來源
 

@@ -25,6 +25,18 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **串流輸出** — 即時串流回應，不需等待完成，提升開發體驗
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
+## 工具基礎設施
+
+Coding Agent CLI 的能力不只來自 LLM，還來自底層工具基礎設施：**搜尋工具**（ripgrep 等快速程式碼搜尋）、**導航工具**（go-to-definition、find-references、符號跳轉）、**程式碼理解工具**（AST 解析、依賴圖、呼叫關係分析）。這些工具構成 Agent 的「感知器官」——沒有它們，Agent 就像盲人摸象，只能靠 LLM 推測程式碼結構。工具品質直接決定 Agent 的程式碼理解深度和修改精準度。
+
+## Spec-Driven Development
+
+Spec-Driven Development（規格驅動開發）是一種結構化開發工作流：**Propose**（提出規格變更）→ **Explore**（探索影響範圍）→ **Apply**（實作變更）→ **Archive**（歸檔規格）。[[OpenSpec]] 和 [[Spec Kit]] 等工具將此流程自動化，讓 AI Agent 能以規格檔為中心進行開發，而非直接修改程式碼。這為 Coding Agent CLI 提供了從「隨意改碼」到「規格先行」的工作流基礎。
+
+## Copilot 生態系
+
+GitHub Copilot 已從程式碼補全工具發展為完整生態系：**Agent**（自主執行任務的 AI 助手）、**Skill**（結構化操作技能）、**Hook**（事件觸發的自動化鉤子）、**Workflow**（多步驟工作流）、**Plugin**（第三方擴充套件）。這套生態系與 CLI 模式的 Coding Agent 互補——Copilot 偏 IDE 內嵌，CLI Agent 偏終端機自動化，兩者共同覆蓋開發者的全工作流。
+
 ## 各框架的做法
 
 - **Claude Code** → Anthropic 官方 CLI，Git 工作流深度整合，Skills 支援
@@ -46,9 +58,9 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[MCP]] — MCP 定義 CLI 如何連接外部工具
 - [[AI-Skills]] — Skills 定義 CLI 在特定情境下的行為
 - [[ogulcancelik-herdr|herdr]] — 終端機 Agent 多工器，管理多個 Coding Agent CLI
-- [[CLAUDE-md]] — CLAUDE.md 是 Agent 行為規範的核心載體
+- [[AI-Skills]] — CLAUDE.md 是 Agent 行為規範的核心載體
 - [[harness-engineering]] — CLI 的配置和規則是 Harness Engineering 的實作
-- [[coding-agent-toolkit]] — 工具包為 CLI 提供搜尋和導航能力
+- [[Coding-Agent-CLI]] — 工具包為 CLI 提供搜尋和導航能力
 
 ## 來源
 

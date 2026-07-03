@@ -35,7 +35,7 @@ topics:
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
 - 🔄 **Agent 編排** → [[bytedance-deer-flow|DeerFlow]]
 - 🛠 **AI Agent** → [[AI-Agent|AI Agent]]
-- 📱 **自架平台** → [[self-hosted-AI-platform|自架 AI 平台]]
+- 📱 **自架平台** → [[self-hosted|自架 AI 平台]]
 
 ## 是什麼
 

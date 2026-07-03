@@ -17,7 +17,7 @@ Anthropic 官方開源的知識工作者插件集，為 Claude Cowork 和 Claude
 
 ## 快速導航
 
-- ⚡ [[AI-Skills]] · [[MCP]] · [[agent-skills-ecosystem]] · [[Prompt-Engineering]]
+- ⚡ [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
 
@@ -62,11 +62,11 @@ cd knowledge-work-plugins
 - Knowledge Work Plugins 是 Anthropic **官方出品**的插件方案，與 Claude Cowork 深度整合
 - 每個插件的 Connectors 層使用 [[MCP]] 協議連接外部工具，是 MCP 在企業場景的示範實作
 - 與 Agency Agents 互補：Knowledge Work Plugins 側重**企業職能角色**（法務、財務、行銷），Agency Agents 側重**技術工程角色**
-- 屬於 [[agent-skills-ecosystem]] 中的官方基礎設施
+- 屬於 [[AI-Skills]] 中的官方基礎設施
 
 ## 相關概念
 
-← [[AI-Skills]] · [[MCP]] · [[agent-skills-ecosystem]] · [[Prompt-Engineering]]
+← [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
 

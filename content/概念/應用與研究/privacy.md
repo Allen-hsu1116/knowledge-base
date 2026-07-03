@@ -45,7 +45,7 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 ## 相關概念
 
 - [[self-hosted|自架]] — 自架是隱私保護的基礎手段
-- [[self-hosted-AI-platform|自架 AI 平台]] — 本地 AI 處理保護對話隱私
+- [[self-hosted|自架 AI 平台]] — 本地 AI 處理保護對話隱私
 - [[pentesting|滲透測試]] — 安全測試與隱私保護相輔相成
 - [[free-software|免費軟體]] — 開源軟體的透明性有助於隱私審計
 - [[prompt-security|Prompt 安全]] — AI 應用中的隱私和安全風險

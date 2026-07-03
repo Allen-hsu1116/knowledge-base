@@ -12,7 +12,7 @@ language: Python
 > ⭐98k · 開源瀏覽器 AI Agent，讓 LLM 直接操作網頁——點擊、填表、導航，Rust 核心驅動
 
 ## 快速導航
-[[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]]
+[[AI-Agent]] · [[computer-use-agent]] · [[網頁爬蟲]] · [[MCP]]
 
 ## 是什麼
 
@@ -91,7 +91,7 @@ curl -o ~/.claude/skills/browser-use/SKILL.md \
 | [[trycua-cua|CUA]] | ⭐16k | Computer Use 框架 | ✅ | ❌ | ❌ |
 
 ## 相關概念
-← [[AI-Agent]] · [[computer-use-agent]] · [[web-scraping]] · [[MCP]] · [[browser-use-video-use|video-use]]
+← [[AI-Agent]] · [[computer-use-agent]] · [[網頁爬蟲]] · [[MCP]] · [[browser-use-video-use|video-use]]
 
 ## 來源
 

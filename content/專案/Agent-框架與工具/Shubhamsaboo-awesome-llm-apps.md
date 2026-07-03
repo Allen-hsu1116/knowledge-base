@@ -16,7 +16,7 @@ language: Python
 - 🤖 [[AI-Agent]] — AI 智能體模式與框架
 - 📚 [[rag]] — 檢索增強生成技術
 - 🎓 [[self-education]] — 學習資源與實作模板
-- 🏠 [[self-hosted-AI-platform]] — 自架 AI 平台
+- 🏠 [[self-hosted]] — 自架 AI 平台
 
 ## 是什麼
 
@@ -60,11 +60,11 @@ python ai_news_agent.py
 | **Awesome LLM Apps** | 模板集合 | 100+ | ✅ | 多供應商 | ✅ Apache 2.0 |
 | LangChain Templates | 模板集合 | ~50 | ✅ | LangChain 生態 | ✅ MIT |
 | LlamaIndex Starter | 框架 + 範例 | ~30 | 部分 | 多供應商 | ✅ MIT |
-| [[self-hosted-AI-platform|Self-Hosted AI]] | 自架平台 | N/A | N/A | 自選 | ✅ |
+| [[self-hosted|Self-Hosted AI]] | 自架平台 | N/A | N/A | 自選 | ✅ |
 
 ## 相關概念
 
-← [[AI-Agent]] · [[rag]] · [[self-education]] · [[self-hosted-AI-platform]]
+← [[AI-Agent]] · [[rag]] · [[self-education]] · [[self-hosted]]
 
 ## 來源
 

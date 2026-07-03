@@ -21,7 +21,7 @@ MiroFish 是用多 Agent 技術打造的 AI 預測引擎：從種子資訊（新
 
 ## 快速導航
 
-- ⚡ [[AI-Agent]] · [[world-model]] · [[financial-forecasting]] · [[simulation]]
+- ⚡ [[AI-Agent]] · [[world-model]] · [[financial-forecasting]] · [[AI-Agent]]
 
 ## 是什麼
 
@@ -95,7 +95,7 @@ docker compose up -d
 
 ## 相關概念
 
-← [[AI-Agent]] · [[world-model]] · [[financial-forecasting]] · [[simulation]]
+← [[AI-Agent]] · [[world-model]] · [[financial-forecasting]] · [[AI-Agent]]
 
 ## 為什麼重要
 

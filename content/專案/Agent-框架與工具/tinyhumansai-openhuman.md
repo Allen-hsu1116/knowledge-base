@@ -62,7 +62,7 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 |------|------|------|
 | [[project-golem]] | 自主 AI Agent | 類似定位：都是個人 AI 作業系統，Golem 用 Node.js，OpenHuman 用 Rust/Tauri |
 | [[thedotmack-claude-mem]] | 記憶壓縮 | 互補：claude-mem 做 session 記憶，OpenHuman 的 Memory Tree 做長期知識 |
-| [[karpathy-gist-llm-wiki]] | LLM Wiki | 靈感來源：OpenHuman 的 Memory Tree 概念源自 Karpathy 的 wiki 方法論 |
+| [[llm-knowledge-base]] | LLM Wiki | 靈感來源：OpenHuman 的 Memory Tree 概念源自 Karpathy 的 wiki 方法論 |
 | [[litellm]] | LLM Gateway | 互補：OpenHuman 的模型路由可搭配 LiteLLM 統一 API |
 | Claude Desktop | 商業助手 | 對比：Claude Desktop 是閉源雲端，OpenHuman 是開源本地優先 |
 

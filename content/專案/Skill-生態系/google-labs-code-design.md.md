@@ -25,7 +25,7 @@ topics:
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
 - 🎨 **前端設計** → [[frontend-design|前端設計]]
 - 🛠 **AI Skills** → [[AI-Skills|AI Skills]]
-- 📝 **CLAUDE.md** → [[CLAUDE-md|CLAUDE.md]]
+- 📝 **CLAUDE.md** → [[AI-Skills|CLAUDE.md]]
 
 ## 是什麼
 
@@ -107,7 +107,7 @@ The palette is rooted in high-contrast neutrals and a single accent color.
 | 方案 | 定位 | 方式 | 輸出 |
 |------|------|------|------|
 | **DESIGN.md** | 設計系統規範 | YAML tokens + Markdown prose | 機器可讀的設計身份 |
-| [[CLAUDE-md\|CLAUDE.md]] | Agent 行為規範 | 自然語言行為指令 | Agent 行為指引 |
+| [[AI-Skills\|CLAUDE.md]] | Agent 行為規範 | 自然語言行為指令 | Agent 行為指引 |
 | [[nexu-io-open-design\|Open Design]] | AI 設計 Skill | MCP Server + Design System | 前端設計 Skill |
 | [[anthropics-skills\|Anthropic Skills]] | AI Skill 庫 | Frontend Design Skill | 設計產出 |
 | Design Tokens W3C | 標準格式 | JSON 設計 token | 跨平台設計值 |
@@ -116,7 +116,7 @@ DESIGN.md 跟 CLAUDE.md 最大的差異在於：CLAUDE.md 定義 agent 的「行
 
 ## 相關概念
 
-← [[frontend-design|前端設計]] · [[CLAUDE-md|CLAUDE.md]] · [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+← [[frontend-design|前端設計]] · [[AI-Skills|CLAUDE.md]] · [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 來源
 

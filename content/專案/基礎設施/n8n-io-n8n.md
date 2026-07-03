@@ -13,7 +13,7 @@ topics: [ai, automation, workflow, mcp, low-code, no-code, self-hosted, integrat
 > ⭐192.7k · 公平碼授權的工作流自動化平台，400+ 整合 + 原生 AI 能力，自架或雲端任選
 
 ## 快速導航
-[[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]] · [[self-hosted-AI-platform|自架 AI 平台]]
+[[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]] · [[self-hosted|自架 AI 平台]]
 
 ## 是什麼
 

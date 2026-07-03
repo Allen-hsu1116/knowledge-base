@@ -15,7 +15,7 @@ language: —
 
 - 🤖 [[AI-Agent]] — Agent 框架與工具
 - 🏢 [[Context-Database]] — 企業脈絡與資料基礎
-- 🔗 [[CLAUDE-md]] — Agent 指令規範
+- 🔗 [[AI-Skills]] — Agent 指令規範
 
 ## 是什麼
 
@@ -82,7 +82,7 @@ Google Cloud 於 2026 年發布的《AI Agent Trends 2026》互動式報告，�
 
 ## 相關概念
 
-← [[AI-Agent]] · [[Context-Database]] · [[CLAUDE-md]]
+← [[AI-Agent]] · [[Context-Database]] · [[AI-Skills]]
 
 ## 來源
 

@@ -17,7 +17,7 @@ language: zh-TW
 - 📐 **規範審查** → [[vercel-labs-agent-skills|Vercel Agent Skills]] — web-design-guidelines Skill
 - 🛠️ **設計系統** → [[softaworks-agent-toolkit|SoftaWorks Toolkit]] — design-system-starter Skill
 - 🧪 **自動化測試** → [[anthropics-skills|Anthropic Skills]] — webapp-testing Skill
-- 🤖 **Agent 生態系** → [[AI-Skills]] · [[agent-skills-ecosystem]]
+- 🤖 **Agent 生態系** → [[AI-Skills]] · [[AI-Skills]]
 - 🖌️ **Figma 整合** → [[Figma-Skills]]
 
 ## 核心內容
@@ -156,7 +156,7 @@ language: zh-TW
 
 ## 相關概念
 
-← [[frontend-design]] · [[AI-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]] · [[nexu-io-open-design]] · [[gsap-ai-skills|GSAP AI Skills]]
+← [[frontend-design]] · [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]] · [[nexu-io-open-design]] · [[gsap-ai-skills|GSAP AI Skills]]
 
 ## 來源
 

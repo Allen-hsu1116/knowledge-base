@@ -23,6 +23,7 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - **Context Engineering**：不只寫好提示詞，而是管理整個 context 的結構——記憶、知識、技能三維度
 - **Prompt 安全**：Prompt Injection 和越獄攻擊是實際威脅，需要輸入淨化、角色分離、結構化邊界
 - **好 prompt 省 token**：結構化 prompt 讓輸出更可預測，也讓 token 使用更高效
+- **Prompt 優化工具**：支援多輪迭代優化——自動分析 prompt 品質、比較不同版本效果、根據評估結果迭代改進。這類工具讓 prompt 從「手動調試」走向「系統化優化」，適合需要高品質 prompt 的生產場景。
 
 ## 各框架的做法
 
@@ -43,7 +44,7 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - [[Token-Optimization]] — 好 prompt 省 token，兩者互補
 - [[prompt-security]] — Prompt Injection 是 PE 的安全風險
 - [[context-engineering-basics]] — PE 的進階版：管理整個 context
-- [[CLAUDE-md]] — 用自然語言定義 AI 編碼助理的行為規範
+- [[AI-Skills]] — 用自然語言定義 AI 編碼助理的行為規範
 - [[llm-knowledge-base]] — 知識庫是 Context Engineering 的一種實作
 
 ## 來源

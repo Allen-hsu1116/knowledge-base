@@ -16,7 +16,7 @@ updated: 2026-06-08
 ## 快速導航
 
 - 🎨 **前端設計** → [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Skills]]
-- 🛠️ **Agent Skills** → [[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🛠️ **Agent Skills** → [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]]
 - 📐 **設計工具** → [[anthropics-skills|Anthropic Skills]] · [[vercel-labs-agent-skills|Vercel Agent Skills]] · [[softaworks-agent-toolkit|SoftaWorks Toolkit]]
 
 ## 是什麼

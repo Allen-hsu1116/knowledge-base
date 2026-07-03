@@ -17,7 +17,7 @@ language: zh-TW
 
 ## 快速導航
 - 🧠 **人格與多代理** → [[agent-persona]]（InteractiveMultiAgent 圓桌討論）
-- 🛠 **技能系統** → [[agent-skills-ecosystem]]（自有技能 + Dashboard 管理）
+- 🛠 **技能系統** → [[AI-Skills]]（自有技能 + Dashboard 管理）
 - 📚 **記憶系統** → [[llm-knowledge-base]]（lancedb-pro 向量記憶對比）
 - 🔄 **Agent 工作流** → [[AI-Agent]]
 
@@ -69,7 +69,7 @@ Project Golem 不只是聊天機器人，更像是「個人 AI 作業系統」�
 ### 技能系統
 - `src/skills/` 內建核心技能
 - 透過 Dashboard 開關、匯入、匯出與重新注入
-- 與 [[agent-skills-ecosystem]] 的 SKILL.md 概念類似但更偏向單一系統內的技能管理
+- 與 [[AI-Skills]] 的 SKILL.md 概念類似但更偏向單一系統內的技能管理
 
 ### 多代理討論
 - InteractiveMultiAgent：召集多個角色進行圓桌討論，產出共識摘要

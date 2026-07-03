@@ -13,7 +13,7 @@ language: Python
 
 ## 快速導航
 
-- 🎨 [[Figma-Skills]] · 🤖 [[AI-Skills]] · [[agent-skills-ecosystem]]
+- 🎨 [[Figma-Skills]] · 🤖 [[AI-Skills]] · [[AI-Skills]]
 - 🖌️ [[frontend-design]] · [[softaworks-agent-toolkit|Design System Starter]]
 
 ## 是什麼
@@ -226,7 +226,7 @@ Skills 會自動根據觸發條件載入，不需要手動指定。
 
 ## 相關概念
 
-← [[AI-Skills]] · [[Figma-Skills]] · [[agent-skills-ecosystem]] · [[frontend-design]] · [[frontend-design]]
+← [[AI-Skills]] · [[Figma-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
 

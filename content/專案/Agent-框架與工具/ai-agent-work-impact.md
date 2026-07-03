@@ -12,7 +12,7 @@ language: zh-TW
 ## 快速導航
 
 - 🧠 **Agent 自主性** → [[agent-persona]]（AI 從工具到自主完成任務的演進）
-- 🛠 **Agent 能力生態** → [[agent-skills-ecosystem]]（Agent 寫作、研究、審稿的能力邊界）
+- 🛠 **Agent 能力生態** → [[AI-Skills]]（Agent 寫作、研究、審稿的能力邊界）
 - 🔐 **AI 審稿的信任問題** → [[prompt-security]]（AI reviewer 背後的品質與誠信問題）
 
 ## 是什麼
@@ -59,7 +59,7 @@ AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具�
 |------|------|------|
 | [[AI-Agent]] | 主體 | AI Agent 是衝擊研究的執行者 |
 | [[agent-persona]] | 演進 | Persona 從工具到協作到自主的演進 |
-| [[agent-skills-ecosystem]] | 能力 | Skills 生態系定義了 Agent 的能力邊界 |
+| [[AI-Skills]] | 能力 | Skills 生態系定義了 Agent 的能力邊界 |
 | [[prompt-security]] | 信任 | AI 審稿的信任問題是安全的延伸 |
 | [[harness-engineering]] | 駕馭 | Harness 工程決定 Agent 的行為邊界 |
 

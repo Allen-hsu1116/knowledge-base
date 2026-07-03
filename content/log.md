@@ -181,7 +181,7 @@ language: zh-TW
   - `[[raw/...]]` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
   - `CRM` `DNS` `NAS` — 拆掉非頁面 wikilink
   - `Vibe-Coding` → 純文字 "Vibe Coding"
-  - `[[coding-agent-toolkit]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`
+  - `[[Coding-Agent-CLI]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`
 - **孤兒頁修復**：
   - 新增 `向量資料庫` 到 index.md 概念區
   - index.md 的 web-crawling 條目加上 `[[網頁爬蟲]]` 引用
@@ -804,7 +804,7 @@ language: zh-TW
 - [[llm-knowledge-base]] ← 素材 1, 2, 7
 - [[AI-Agent]] ← 素材 1, 2, 3, 5
 - [[agent-persona]] ← 素材 3, 5
-- [[agent-skills-ecosystem]] ← 素材 5, 6, 7, 8
+- [[AI-Skills]] ← 素材 5, 6, 7, 8
 - [[prompt-security]] ← 素材 4
 
 **其他**：

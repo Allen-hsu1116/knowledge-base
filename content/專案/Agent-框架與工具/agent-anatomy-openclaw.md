@@ -15,7 +15,7 @@ language: zh-TW
 - 🧠 **AI Agent 架構與身分** → [[agent-persona]]（Agent 不是 LLM，是人與 LLM 之間的介面）
 - 🛠 **Context Engineering 核心技術** → [[AI-Agent]]（System Prompt、工具按需載入、記憶壓縮都是 Context Engineering）
 - ⚠️ **Prompt Injection 與安全** → [[prompt-security]]（YouTube 留言可修改本地檔案，需要多層防禦）
-- 🔧 **Agent Skills 生態** → [[agent-skills-ecosystem]]（Skill 是 SOP 不是程式，按需讀取，可交換但有惡意風險）
+- 🔧 **Agent Skills 生態** → [[AI-Skills]]（Skill 是 SOP 不是程式，按需讀取，可交換但有惡意風險）
 
 ## 是什麼
 
@@ -103,7 +103,7 @@ OpenClaw 的解剖幫助你理解所有 AI Agent 框架的核心——Context En
 | [[AI-Agent]] | Agent 概念總覽 | Agent 不是 LLM，是介面——這是 OpenClaw 解剖的核心論點 |
 | [[context-engineering-basics]] | Context Engineering | System Prompt + 工具按需載入 + 記憶壓縮都是 CE 技術 |
 | [[prompt-security]] | Prompt 安全 | Prompt Injection 是 Agent 的核心安全威脅 |
-| [[agent-skills-ecosystem]] | Skill 生態 | Skill 是 SOP 不是程式，按需讀取節省 context |
+| [[AI-Skills]] | Skill 生態 | Skill 是 SOP 不是程式，按需讀取節省 context |
 | [[claude-code-boris-cherny-advanced-techniques]] | Claude Code 技巧 | /compact、/rewind 等 context 管理技巧與 CE 理念一致 |
 
 ## 關鍵概念
@@ -114,7 +114,7 @@ OpenClaw 的解剖幫助你理解所有 AI Agent 框架的核心——Context En
 - **安全是分層的**：程式端硬限制 > LLM 指令 > 環境隔離
 
 ## 相關概念
-← [[agent-persona]] · [[AI-Agent]] · [[prompt-security]] · [[agent-skills-ecosystem]]
+← [[agent-persona]] · [[AI-Agent]] · [[prompt-security]] · [[AI-Skills]]
 
 ## 來源
 - raw/2026-05-03-agent-anatomy-openclaw.md

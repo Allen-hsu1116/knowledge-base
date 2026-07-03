@@ -16,7 +16,7 @@ updated: 2026-06-14
 ⭐ 19k · Ghostty-based macOS 終端機——直式分頁 + AI coding agent 通知，為 Agent 工作流設計。
 
 ## 快速導航
-- ⚡ [[Coding-Agent-CLI]] · [[agent-skills-ecosystem]] · [[earendil-works-pi|Pi Agent]]
+- ⚡ [[Coding-Agent-CLI]] · [[AI-Skills]] · [[earendil-works-pi|Pi Agent]]
 
 ## 是什麼
 
@@ -70,7 +70,7 @@ brew install --cask cmux
 cmux 跟 [[Coding-Agent-CLI]] 不是競爭關係——cmux 是為 coding agent 設計的終端環境，不是 agent 本身。跟 [[earendil-works-pi|Pi Agent Harness]] 互補：Pi 提供 agent runtime，cmux 提供終端 UI。
 
 ## 相關概念
-← [[Coding-Agent-CLI]] · [[agent-skills-ecosystem]] · [[earendil-works-pi]]
+← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[earendil-works-pi]]
 
 ## 來源
 

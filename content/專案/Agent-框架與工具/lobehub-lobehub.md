@@ -13,7 +13,7 @@ topics: [agent, agent-collaboration, agent-harness, ai, cao, chatgpt, claude, de
 > ⭐78.7k · 你的 Agent 首席營運官——招募、排班、回報，讓 AI 團隊 7×24 運作
 
 ## 快速導航
-[[agent-skills-ecosystem|Agent Skills 生態系]] · [[MCP|MCP 協議]] · [[self-hosted-AI-platform|自架 AI 平台]]
+[[AI-Skills|Agent Skills 生態系]] · [[MCP|MCP 協議]] · [[self-hosted|自架 AI 平台]]
 
 ## 是什麼
 
@@ -65,7 +65,7 @@ pnpm dev
 | [[farion1231-cc-switch|CC Switch]] | 桌面管理器 | ⚠️ 切換管理 | ✅ | AI Agent 切換 |
 
 ## 相關概念
-← [[agent-skills-ecosystem|Agent Skills 生態系]] · [[MCP|MCP 協議]]
+← [[AI-Skills|Agent Skills 生態系]] · [[MCP|MCP 協議]]
 
 ## 來源
 

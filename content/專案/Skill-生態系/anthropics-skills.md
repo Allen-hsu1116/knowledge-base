@@ -13,7 +13,7 @@ language: Python
 
 ## 快速導航
 
-- 🎨 [[frontend-design]] · 🧪 [[anthropics-skills]] · 🤖 [[AI-Skills]] · [[agent-skills-ecosystem]]
+- 🎨 [[frontend-design]] · 🧪 [[anthropics-skills]] · 🤖 [[AI-Skills]] · [[AI-Skills]]
 
 ## 是什麼
 
@@ -76,7 +76,7 @@ python scripts/with_server.py \
 | [[AI-Skills|AI Skills 通用概念]] | 概念框架 | Skills 是 AI Skills 概念的官方實作 |
 | [[frontend-design]] | 具體技能 | 倉庫中的前端設計技能定義檔 |
 | [[anthropics-skills]] | 具體技能 | 倉庫中的網頁測試技能定義檔 |
-| [[agent-skills-ecosystem]] | 生態系 | Skills 是該生態系的標竿專案 |
+| [[AI-Skills]] | 生態系 | Skills 是該生態系的標竿專案 |
 | Cursor Rules | 競爭方案 | 同為 Agent 指令系統，但 Skills 更強調結構化與可複製性 |
 | Claude Artifacts | 互補工具 | Skills 定義流程，Artifacts 呈現產出 |
 
@@ -89,7 +89,7 @@ python scripts/with_server.py \
 - **Playwright**：webapp-testing 技能使用的瀏覽器自動化框架
 - **Reconnaissance-then-Action**：先偵察再行動的測試模式，避免盲猜選擇器
 
-← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[agent-skills-ecosystem]] · [[agentskills-agentskills|Agent Skills]]
+← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[AI-Skills]] · [[agentskills-agentskills|Agent Skills]]
 
 ## 來源
 

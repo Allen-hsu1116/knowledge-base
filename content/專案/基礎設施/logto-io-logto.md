@@ -27,7 +27,7 @@ topics:
 - 🔐 **MCP** → [[MCP]]
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🏗 **基礎設施** → [[n8n-io-n8n|n8n]] · [[Kong-insomnia|Insomnia]]
-- 🛠 **自架平台** → [[self-hosted-AI-platform|自架 AI 平台]]
+- 🛠 **自架平台** → [[self-hosted|自架 AI 平台]]
 
 ## 是什麼
 
@@ -101,7 +101,7 @@ function App() {
 - **Keycloak** → 另一個開源認證方案，Logto 更現代化、開發者體驗更好
 - **Supabase Auth** → 附屬於 Supabase 的認證，Logto 專注認證且支援 MCP
 
-← [[MCP]] · [[AI-Agent]] · [[n8n-io-n8n|n8n]] · [[self-hosted-AI-platform|自架 AI 平台]]
+← [[MCP]] · [[AI-Agent]] · [[n8n-io-n8n|n8n]] · [[self-hosted|自架 AI 平台]]
 
 ## 來源
 

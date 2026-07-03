@@ -18,7 +18,7 @@ language: zh-TW
 
 ## 快速導航
 
-- ⚡ [[open-design]] · [[self-hosted-AI-platform]] · [[privacy]]
+- ⚡ [[open-design]] · [[self-hosted]] · [[privacy]]
 
 ## 是什麼
 
@@ -102,7 +102,7 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 
 ## 相關概念
 
-← [[open-design]] · [[self-hosted-AI-platform]] · [[privacy]]
+← [[open-design]] · [[self-hosted]] · [[privacy]]
 
 ## 來源
 

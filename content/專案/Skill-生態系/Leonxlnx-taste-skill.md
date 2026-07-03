@@ -17,7 +17,7 @@ Taste Skill 是一系列可攜式的 Agent Skill，讓 AI 生成的前端不再�
 
 ## 快速導航
 
-- ⚡ [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[agent-skills-ecosystem]]
+- ⚡ [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[AI-Skills]]
 
 ## 是什麼
 
@@ -62,12 +62,12 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 - **圖像 Skill 清單**：`imagegen-frontend-web`、`imagegen-frontend-mobile`、`brandkit`
 - Taste Skill 是 [[AI-Skills]] 在前端美學領域的專門應用
 - 與 ECC 互補：ECC 優化 Agent 的整體效能和安全，Taste Skill 優化 Agent 的前端輸出品質
-- 屬於 [[agent-skills-ecosystem]] 中的前端風格類 Skill
+- 屬於 [[AI-Skills]] 中的前端風格類 Skill
 - v2 的 brief inference 和 design-system map 與 [[Prompt-Engineering]] 密切相關
 
 ## 相關概念
 
-← [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[agent-skills-ecosystem]]
+← [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[AI-Skills]]
 
 ## 來源
 

@@ -38,7 +38,7 @@ language: zh-TW
 - [[diffusion-model|擴散模型]] — 擴散模型是世界模型的生成引擎
 - [[AI-video-generation|AI 影片生成]] — 世界模型生成影片，但更強調可控性和物理一致性
 - [[generative-AI|生成式 AI]] — 世界模型是生成式 AI 的進階方向
-- [[simulation|模擬]] — 社會模擬需要世界模型來建構數位環境
+- [[AI-Agent|模擬]] — 社會模擬需要世界模型來建構數位環境
 - [[embedded-AI|邊緣裝置 AI]] — 世界模型邊緣部署支援機器人實時決策
 
 ## 來源

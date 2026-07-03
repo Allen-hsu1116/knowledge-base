@@ -16,7 +16,7 @@ source: https://github.com/nexu-io/open-design
 ## 快速導航
 
 - 🎨 **設計系統** → [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[frontend-design|前端設計]]
-- 🛠️ **Agent Skill** → [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]]
+- 🛠️ **Agent Skill** → [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]]
 - 📐 **Figma 整合** → [[Figma-Skills]] · [[softaworks-agent-toolkit|Design System Starter]]
 - 🔌 **MCP 協議** → [[MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
@@ -78,7 +78,7 @@ pnpm dev
 
 ## 相關概念
 
-← [[AI-Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[Figma-Skills]] · [[MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+← [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[Figma-Skills]] · [[MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 來源
 

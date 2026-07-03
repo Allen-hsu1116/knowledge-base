@@ -13,7 +13,7 @@ language: zh-TW
 > ⭐12k · AI 短劇/漫畫視頻製作工具，從小說文本自動生成分鏡、角色、場景，並製作成完整視頻。⭐ 12k
 
 ## 快速導航
-- ⚡ [[generative-AI]] · [[AI-Agent]] · [[self-hosted-AI-platform]]
+- ⚡ [[generative-AI]] · [[AI-Agent]] · [[self-hosted]]
 
 ## 是什麼
 
@@ -76,7 +76,7 @@ waoowaoo 是少數從「文本到完整視頻」的全流程 AI 製作工具，�
 - 教育培訓：將教材文字轉為互動影片
 
 ## 相關概念
-← [[generative-AI]] · [[AI-Agent]] · [[self-hosted-AI-platform]]
+← [[generative-AI]] · [[AI-Agent]] · [[self-hosted]]
 
 ## 來源
 

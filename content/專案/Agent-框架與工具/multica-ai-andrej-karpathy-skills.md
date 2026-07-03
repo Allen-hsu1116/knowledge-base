@@ -18,7 +18,7 @@ repo: https://github.com/multica-ai/andrej-karpathy-skills
 - 🤖 **Agent 技能** → [[AI-Skills]]（CLAUDE.md 是 Agent 行為契約）
 - 💻 **Coding CLI** → [[Coding-Agent-CLI]]（Claude Code 的設定檔）
 - 📝 **相關專案** → [[affaan-m-everything-claude-code]]（Claude Code 百科）、[[anthropics-claude-plugins-official]]（官方插件）
-- 📜 **Karpathy 觀點** → [[andrej-karpathy-ai-how]]、[[karpathy-gist-llm-wiki]]
+- 📜 **Karpathy 觀點** → [[andrej-karpathy-ai-how]]、[[llm-knowledge-base]]
 
 ## 是什麼
 
@@ -64,7 +64,7 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy
 
 ## 相關概念
 
-← [[AI-Skills]] · [[Prompt-Engineering]] · [[Coding-Agent-CLI]] · [[CLAUDE-md]] · [[andrej-karpathy-ai-how]]
+← [[AI-Skills]] · [[Prompt-Engineering]] · [[Coding-Agent-CLI]] · [[AI-Skills]] · [[andrej-karpathy-ai-how]]
 
 ## 來源
 

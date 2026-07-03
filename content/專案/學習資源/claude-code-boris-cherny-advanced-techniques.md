@@ -147,7 +147,7 @@ claude
 
 ## 相關概念
 
-- [[agent-skills-ecosystem|Agent Skills 生態系]]
+- [[AI-Skills|Agent Skills 生態系]]
 - [[openclaw|OpenClaw]]
 - [[AI-Skills]] — Skill 標準格式
 - [[context-engineering-basics]] — Context Engineering 核心技術

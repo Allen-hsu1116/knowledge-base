@@ -23,6 +23,12 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **跨平台通用**：同一個 SKILL.md 可在 Claude Code、Cursor、Gemini CLI、Codex CLI 等多工具使用
 - **技能層級**：Bundle（技能集合）、Workflow（多步驟流程）、Plugin（平台安裝包）
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
+- **生態系成長**：Google、Addy Osmani 等社群和企業推動 Skills 標準化，skills.sh 成為分發標準，大型 Skill 庫涵蓋前端設計、網安、科學研究、金融交易等領域
+- **CLAUDE.md 行為規範**：Claude Code 的 advisory 行為檔案，合規率約 80%，建議不超過 200 行；Karpathy 提出 4 條核心規則（簡潔、可執行、可驗證、可演化），社群延伸至 8 條實務規則
+
+## CLAUDE.md 行為規範
+
+[[AI-Skills|CLAUDE.md]] 是 Claude Code 的 advisory 行為契約——不是強制規則，而是建議性的行為指引。實測合規率約 80%，代表模型大多遵循但非百分百。關鍵設計限制：建議不超過 200 行，過長會被模型忽略。Karpathy 提出 4 條核心規則（簡潔、可執行、可驗證、可演化），社群在此基礎上延伸至 8 條實務規則，涵蓋專案結構、測試規範、程式碼風格等面向。
 
 ## 各框架的做法
 
@@ -41,8 +47,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 相關概念
 
-- [[CLAUDE-md]] — 用自然語言定義 AI 編碼助理的行為規範，Agent Skill 的核心載體
-- [[agent-skills-ecosystem]] — Skills 正在從個人腳本進化成標準化的共享格式
+- [[AI-Skills]] — 用自然語言定義 AI 編碼助理的行為規範，Agent Skill 的核心載體
+- [[AI-Skills]] — Skills 正在從個人腳本進化成標準化的共享格式
 - [[agent-persona]] — Persona 定義 AI 是誰，Skill 定義 AI 會什麼
 - [[MCP]] — Skills 定義「做什麼」，MCP 定義「怎麼連」
 - [[Prompt-Engineering]] — Skills 是 Prompt Engineering 的結構化終極形態

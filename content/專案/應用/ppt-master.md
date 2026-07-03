@@ -71,7 +71,7 @@ pip install -r requirements.txt
 PPT Master 和 [[presenton-presenton|Presenton]] 是唯二的開源 AI 簡報方案。PPT Master 專注在原生 PPTX 生成品質和語音旁白，Presenton 則強調 MCP 整合和自架 API。兩者互補而非競爭。
 
 ## 相關概念
-← [[AI-presentation]] · [[generative-AI]] · [[MCP]] · [[pptx-generation]]
+← [[AI-presentation]] · [[generative-AI]] · [[MCP]] · [[AI-presentation]]
 
 ## 來源
 

@@ -12,7 +12,7 @@ language: zh-TW
 
 ## 快速導航
 
-- 🛠️ **Agent Skills 生態系** → [[agent-skills-ecosystem]]
+- 🛠️ **Agent Skills 生態系** → [[AI-Skills]]
 - 🧠 **AI Skills** → [[AI-Skills]]
 - 📝 **Prompt Engineering** → [[Prompt-Engineering]]
 
@@ -63,7 +63,7 @@ npx skills@latest add mattpocock/skills
 
 ## 相關概念
 
-← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[Prompt-Engineering]]
+← [[AI-Skills]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
 

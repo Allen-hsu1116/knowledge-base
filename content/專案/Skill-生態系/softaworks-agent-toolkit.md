@@ -12,7 +12,7 @@ language: Python
 > ⭐1.9k · 精選 AI 程式碼 Agent 技能集合，核心技能 design-system-starter 幫你從零打造生產級設計系統（token、元件架構、主題、文件一次到位）。
 
 ## 快速導航
-[[AI-Skills]] · [[agent-skills-ecosystem]] · [[vercel-labs-agent-skills]] · [[frontend-design]]
+[[AI-Skills]] · [[AI-Skills]] · [[vercel-labs-agent-skills]] · [[frontend-design]]
 
 ## 是什麼
 
@@ -130,7 +130,7 @@ curl -o SKILL.md https://raw.githubusercontent.com/softaworks/agent-toolkit/main
 - **WCAG 2.1 AA**：無障礙合規標準，design-system-starter 內建此合規要求
 - **Style Dictionary**：W3C 標準的 design token 格式，支援多平台輸出
 
-← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[frontend-design]] · [[frontend-design]]
+← [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
 

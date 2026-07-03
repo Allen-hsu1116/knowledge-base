@@ -13,7 +13,7 @@ topics: [agent-skills, ai-agents, claude, claude-code, codex, cursor, gemini-cli
 > ⭐64.6k · 1000+ 生產就緒的 Claude Skills 策展列表，涵蓋文件處理、開發工具、資料分析、商業行銷等場景。
 
 ## 快速導航
-[[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
+[[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
 
 ## 是什麼
 
@@ -62,7 +62,7 @@ claude --plugin-dir ./connect-apps-plugin
 | [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 單一 Skill | 1 | ✅ | ❌ |
 
 ## 相關概念
-← [[AI-Skills|AI Skills]] · [[agent-skills-ecosystem|Agent Skills 生態系]] · [[NVIDIA-SkillSpector|SkillSpector]]
+← [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[NVIDIA-SkillSpector|SkillSpector]]
 
 ## 來源
 

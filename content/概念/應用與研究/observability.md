@@ -45,7 +45,7 @@ language: zh-TW
 ## 相關概念
 
 - [[workflow-automation|工作流自動化]] — 可觀測性監控自動化工作流的執行狀態
-- [[self-hosted-AI-platform|自架 AI 平台]] — 自架平台需要可觀測性確保服務穩定
+- [[self-hosted|自架 AI 平台]] — 自架平台需要可觀測性確保服務穩定
 - [[sandbox|沙箱]] — 沙箱中的程式執行需要可觀測性追蹤行為
 - [[AI-Agent|AI Agent]] — Agent 的行為和決策需要觀測工具來分析和優化
 - [[LLM]] — LLM 應用帶來新的觀測需求

@@ -42,7 +42,7 @@ language: zh-TW
 
 - [[AI-Agent|AI Agent]] — Agent 編排是工作流自動化的 AI 進化形式
 - [[MCP]] — 讓 Agent 透過標準協議控制工作流
-- [[self-hosted-AI-platform|自架 AI 平台]] — 提供工作流運行環境
+- [[self-hosted|自架 AI 平台]] — 提供工作流運行環境
 - [[sandbox|沙箱]] — 工作流中的程式碼執行需要在沙箱中進行
 - [[rag|RAG]] — 為工作流提供知識檢索能力
 

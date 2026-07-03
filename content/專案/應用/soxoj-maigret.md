@@ -27,7 +27,7 @@ topics:
 - 🕵️ **OSINT** → [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[reconurge-flowsint|Flowsint]]
 - 🛡️ **滲透測試** → [[pentesting|滲透測試]] · [[KeygraphHQ-shannon|Shannon]]
 - 🤖 **AI Agent** → [[AI-Agent]]
-- 🕷️ **爬蟲** → [[D4Vinci-Scrapling|Scrapling]] · [[web-scraping|網頁爬取]]
+- 🕷️ **爬蟲** → [[D4Vinci-Scrapling|Scrapling]] · [[網頁爬蟲|網頁爬取]]
 
 ## 是什麼
 
@@ -90,7 +90,7 @@ python maigret.py YOUR_USERNAME
 - **Shadowbroker** → AI Agent 情報平台，Maigret 是更輕量的 CLI 工具
 - **Shannon** → 滲透測試 AI Agent，Maigret 偏向 OSINT 偵察而非攻擊
 
-← [[pentesting|滲透測試]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[reconurge-flowsint|Flowsint]] · [[web-scraping|網頁爬取]]
+← [[pentesting|滲透測試]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[reconurge-flowsint|Flowsint]] · [[網頁爬蟲|網頁爬取]]
 
 ## 來源
 

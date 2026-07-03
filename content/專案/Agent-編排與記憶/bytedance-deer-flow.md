@@ -66,7 +66,7 @@ DeerFlow 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的差異在�
 
 ## 相關概念
 
-← [[AI-Agent]] · [[agent-skills-ecosystem]] · [[MCP]] · [[opensandbox|OpenSandbox]]
+← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[opensandbox|OpenSandbox]]
 
 ## 來源
 

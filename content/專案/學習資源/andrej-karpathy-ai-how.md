@@ -15,9 +15,9 @@ stars: —
 
 ## 快速導航
 - 🧠 **LLM 知識庫方法** → [[llm-knowledge-base]]（我們實作的 Karpathy 方法延伸）
-- 📝 **CLAUDE.md** → [[CLAUDE-md]]（知識庫的 Schema 設定檔）
+- 📝 **CLAUDE.md** → [[AI-Skills]]（知識庫的 Schema 設定檔）
 - 🔧 **Context Engineering** → [[context-engineering-basics]]（管理 LLM 看到的內容）
-- 🛠 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Skills 和知識庫是 Agent 兩大支柱）
+- 🛠 **Agent Skills 生態系** → [[AI-Skills]]（Skills 和知識庫是 Agent 兩大支柱）
 
 ## 是什麼
 
@@ -168,16 +168,16 @@ my-knowledge-base/
 
 - [[llm-knowledge-base|LLM 知識庫方法]]
 - [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
-- [[agent-skills-ecosystem|Agent Skills 生態系]]
+- [[AI-Skills|Agent Skills 生態系]]
 
 ## 相關概念
 
 - [[llm-knowledge-base|LLM 知識庫方法]] — 我們實作的知識庫系統，就是 Karpathy 方法的延伸
 - [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
-- [[agent-skills-ecosystem|Agent Skills 生態系]] — Skills 和知識庫是 Agent 的兩大支柱
+- [[AI-Skills|Agent Skills 生態系]] — Skills 和知識庫是 Agent 的兩大支柱
 - [[MemPalace-mempalace|MemPalace]] — 另一種記憶系統實作，不改寫原文
 - [[context-engineering-basics|Context Engineering]] — 管理 LLM 看到的內容，是知識庫設計的核心
-- [[karpathy-skills|Karpathy Skills]] — Karpathy 的其他 AI 觀點
+- [[llm-knowledge-base|Karpathy Skills]] — Karpathy 的其他 AI 觀點
 
 ## 參考資料
 

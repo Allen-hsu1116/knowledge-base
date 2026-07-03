@@ -34,7 +34,7 @@ Context Engineering（上下文工程）是 AI Agent 的核心技術——決定
 - **編譯式知識庫** → raw→wiki 是 CE 的一種實作，精煉後的知識取代原始資料
   👉 詳見 [[llm-knowledge-base]]
 - **Agent Skills 生態** → 按需載入 Skill 就是 CE 的過濾策略
-  👉 詳見 [[agent-skills-ecosystem]]
+  👉 詳見 [[AI-Skills]]
 - **OpenViking** → L0/L1/L2 分層載入就是 CE 的分層策略，Context Database 開源實作
   👉 詳見 [[volcengine-OpenViking]]
 - **MemPalace** → 結構化索引縮限搜尋範圍就是 CE 的過濾策略

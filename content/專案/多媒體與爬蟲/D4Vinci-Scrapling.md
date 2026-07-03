@@ -12,7 +12,7 @@ language: Python
 > ⭐56.6k · 自適應網頁爬蟲框架，從單一請求到大規模爬取都能搞定
 
 ## 快速導航
-[[web-crawling]] · [[Crawl4AI]] · [[MCP]]
+[[網頁爬蟲]] · [[Crawl4AI]] · [[MCP]]
 
 ## 是什麼
 
@@ -81,12 +81,12 @@ scrapling mcp
 |------|-------|------|-----------|--------|----------|
 | **Scrapling** | ⭐56.6k | 爬蟲框架 | ✅ 自動重新定位 | ✅ Cloudflare Turnstile | ✅ 內建 |
 | [[Crawl4AI]] | ⭐65.3k | 爬蟲框架 | ❌ | ⚠️ 需額外配置 | ✅ |
-| [[web-crawling]] | — | 概念 | — | — | — |
+| [[網頁爬蟲]] | — | 概念 | — | — | — |
 
 Scrapling 和 Crawl4AI 都提供 AI 友善的爬蟲方案，但 Scrapling 的自適應解析器是獨特優勢。Crawl4AI 更偏 LLM 內容提取，Scrapling 更偏傳統爬蟲場景的自動化維護。
 
 ## 相關概念
-← [[web-crawling]] · [[Crawl4AI]] · [[MCP]]
+← [[網頁爬蟲]] · [[Crawl4AI]] · [[MCP]]
 
 ## 來源
 

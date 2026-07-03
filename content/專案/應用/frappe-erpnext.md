@@ -16,7 +16,7 @@ ERPNext 是一個完全開源的 ERP 系統，將所有企業營運整合到單�
 
 ## 快速導航
 
-- ⚡ [[self-hosted-AI-platform]] · [[LLM]]
+- ⚡ [[self-hosted]] · [[LLM]]
 
 ## 是什麼
 
@@ -60,7 +60,7 @@ bench --site mysite.local serve
 | SAP Business One | 商業 ERP | ❌ | Java/.NET | 大型企業 ERP |
 | Dolibarr | 輕量 ERP/CRM | ✅ GPL | PHP | 小型企業需求簡單場景 |
 
-- ERPNext 是 [[self-hosted-AI-platform]] 生態中企業營運管理的主流開源選擇
+- ERPNext 是 [[self-hosted]] 生態中企業營運管理的主流開源選擇
 - 可搭配 [[LLM]] 做 ERP 資料的智慧分析與自然語言查詢
 
 ## 相關概念

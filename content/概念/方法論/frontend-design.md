@@ -24,6 +24,7 @@ language: zh-TW
 - **無障礙標準** — WCAG 2.1 AA 對比度、語意 HTML 優先、ARIA 標記補充、鍵盤導航
 - **響應式佈局** — Mobile-first 策略搭配 Container Queries，適應多種裝置
 - **AI Skills 整合** — 設計知識封裝為 SKILL.md，讓 Agent 按品質標準執行設計任務
+- **Design System Spec** — 用 YAML tokens + Markdown prose 定義 AI coding agent 的視覺身份。Google Labs 推動的 DESIGN.md 格式，將設計系統以機器可讀的結構化格式呈現——YAML 定義設計 token（色彩、字體、間距），Markdown 描述使用慣例和元件規範。這讓 AI Agent 能精確理解和遵循設計系統，而非靠模糊的自然語言猜測。
 
 ## 各框架的做法
 
@@ -43,7 +44,7 @@ language: zh-TW
 ## 相關概念
 
 - [[AI-Skills]] — Skills 是前端設計知識的載體格式
-- [[agent-skills-ecosystem]] — Skill 庫的生態系推動設計知識標準化
+- [[AI-Skills]] — Skill 庫的生態系推動設計知識標準化
 - [[Prompt-Engineering]] — System prompt 和 SKILL.md 是設計 Agent 行為的基礎
 
 ## 來源

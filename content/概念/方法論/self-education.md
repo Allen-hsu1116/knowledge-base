@@ -39,7 +39,7 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **LLMs from Scratch** → 從零開始實作 LLM，理論與實作並重
   👉 詳見 [[rasbt-LLMs-from-scratch]]
 - **Karpathy 知識庫** → 把學習素材編譯成個人知識庫的系統化方法
-  👉 詳見 [[karpathy-gist-llm-wiki]]
+  👉 詳見 [[llm-knowledge-base]]
 
 ## 相關概念
 

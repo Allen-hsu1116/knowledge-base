@@ -15,7 +15,7 @@ language: zh-TW
 - 🤖 **AI Agent** → [[AI-Agent]]（Scientific Agent Skills 讓 AI agent 具備科學研究能力）
 - 🛠 **Agent Skills** → [[AI-Skills]]（基於開放 Agent Skills 標準的技能集合）
 - 💻 **Coding Agent** → [[Coding-Agent-CLI]]（支援 Cursor、Claude Code、Codex、Gemini CLI 等平台）
-- 🌐 **技能生態系** → [[agent-skills-ecosystem]]（屬於 Agent Skills 生態系的重要一員）
+- 🌐 **技能生態系** → [[AI-Skills]]（屬於 Agent Skills 生態系的重要一員）
 
 ## 是什麼
 
@@ -55,14 +55,14 @@ gh skill install K-Dense-AI/scientific-agent-skills scanpy
 | 專案 | 定位 | 關係 |
 |------|------|------|
 | [[AI-Skills]] | 開放 Agent Skills 標準 | Scientific Agent Skills 基於此標準 |
-| [[agent-skills-ecosystem]] | Agent Skills 生態系 | 屬於生態系的重要一員 |
+| [[AI-Skills]] | Agent Skills 生態系 | 屬於生態系的重要一員 |
 | [[Coding-Agent-CLI]] | Coding Agent 平台 | 支援多種 coding agent 平台安裝 |
 | [[garrytan-gstack]] | 軟體工程 Skills | gstack 側重軟體工程，Scientific Skills 側重科學研究 |
 | [[addyosmani-agent-skills]] | 通用 Agent Skills | addyosmani 側重開發，K-Dense 側重科學 |
 
 ## 相關概念
 
-← [[AI-Agent]] · [[AI-Skills]] · [[agent-skills-ecosystem]]
+← [[AI-Agent]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
 

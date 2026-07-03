@@ -12,7 +12,7 @@ language: Python
 > ⭐1.7k · 自我改進 AI 框架，讓 AI Agent 同時改進 Harness 和模型權重，LawBench 70.1%、MLE-Bench #1。
 
 ## 快速導航
-[[agent-harness-optimization|Agent Harness 優化]] · [[self-correction|Self-Correction]] · [[harness-engineering|Harness Engineering]] · [[affaan-m-ECC|ECC]]
+[[harness-engineering|Agent Harness 優化]] · [[self-correction|Self-Correction]] · [[harness-engineering|Harness Engineering]] · [[affaan-m-ECC|ECC]]
 
 ## 是什麼
 
@@ -68,7 +68,7 @@ sia web
 | 論文支援 | ✅ arXiv | ❌ | ✅ | ❌ |
 
 ## 相關概念
-← [[agent-harness-optimization|Agent Harness 優化]] · [[self-correction|Self-Correction]]
+← [[harness-engineering|Agent Harness 優化]] · [[self-correction|Self-Correction]]
 
 ## 來源
 

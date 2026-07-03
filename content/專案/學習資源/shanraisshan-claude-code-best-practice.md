@@ -17,7 +17,7 @@ topics: [agentic-ai, agentic-coding, agentic-engineering, claude-code, claude-co
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]（Claude Code 是 Coding Agent CLI 的代表）
 - 🛠 **AI Skills** → [[AI-Skills]]（Skills 是 Claude Code 的核心擴展機制）
 - 📖 **Claude Code 進階技巧** → [[claude-code-boris-cherny-advanced-techniques]]（Boris Cherny 親授技巧系列）
-- 🔄 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（多種 Skill 框架的比較）
+- 🔄 **Agent Skills 生態系** → [[AI-Skills]]（多種 Skill 框架的比較）
 
 ## 是什麼
 
@@ -78,7 +78,7 @@ Claude Code Best Practice 與其他方案的定位差異在於：它是「百科
 
 ## 相關概念
 
-← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[agent-skills-ecosystem]]
+← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
 

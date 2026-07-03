@@ -14,7 +14,7 @@ language: zh-TW
 
 ## 快速導航
 
-- ⚡ [[AI-Agent]] · [[agent-skills-ecosystem]] · [[MCP]]
+- ⚡ [[AI-Agent]] · [[AI-Skills]] · [[MCP]]
 
 ## 是什麼
 
@@ -72,7 +72,7 @@ agent-reach install --dry-run
 
 ## 相關概念
 
-← [[AI-Agent]] · [[agent-skills-ecosystem]] · [[MCP]] · [[Panniantong-Agent-Reach]]
+← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[Panniantong-Agent-Reach]]
 
 ## 來源
 

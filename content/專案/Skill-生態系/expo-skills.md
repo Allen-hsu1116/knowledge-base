@@ -12,7 +12,7 @@ language: JavaScript
 > ⭐2k · Expo 官方 AI Agent 技能集合，讓 Agent 能高效建構、部署和除錯 React Native / Expo 應用，從開發到上架一站式覆蓋。
 
 ## 快速導航
-[[AI-Skills]] · [[agent-skills-ecosystem]] · [[expo-skills]] · [[expo-skills]]
+[[AI-Skills]] · [[AI-Skills]] · [[expo-skills]] · [[expo-skills]]
 
 ## 是什麼
 
@@ -102,7 +102,7 @@ eas submit --platform ios
 
 ## 相關概念
 
-← [[agent-skills-ecosystem]] · [[AI-Skills]] · [[expo-skills]] · [[expo-skills]]
+← [[AI-Skills]] · [[AI-Skills]] · [[expo-skills]] · [[expo-skills]]
 
 ## 來源
 

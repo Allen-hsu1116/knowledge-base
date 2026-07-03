@@ -22,7 +22,7 @@ topics:
 - 🤖 [[AI-Agent]] — Agent 概念總覽
 - 🔧 [[harness-engineering]] — Harness 工程方法論
 - 🧩 [[AI-Skills]] — Skill 機制
-- 📝 [[CLAUDE-md]] — Harness 配置範例
+- 📝 [[AI-Skills]] — Harness 配置範例
 
 ## 是什麼
 
@@ -79,7 +79,7 @@ Overall            +14.5%          +44.0%
 
 ## 相關概念
 
-← [[AI-Agent]] · [[harness-engineering]] · [[AI-Skills]] · [[CLAUDE-md]]
+← [[AI-Agent]] · [[harness-engineering]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
 

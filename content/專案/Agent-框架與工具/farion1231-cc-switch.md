@@ -13,7 +13,7 @@ topics: [ai-tools, claude-code, codex, hermes-agent, mcp, desktop-app, openclaw,
 > ⭐101.7k · 跨平台 AI 程式碼助手管理器，一個桌面 App 管理 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI、Hermes Agent
 
 ## 快速導航
-[[agent-skills-ecosystem|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
+[[AI-Skills|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
 
 ## 是什麼
 
@@ -62,7 +62,7 @@ pnpm tauri dev
 | [[CherryHQ-cherry-studio|AionUi]] | 桌面客戶端 | 多個 | Win/Mac/Linux | Agent Cowork |
 
 ## 相關概念
-← [[agent-skills-ecosystem|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
+← [[AI-Skills|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
 
 ## 來源
 

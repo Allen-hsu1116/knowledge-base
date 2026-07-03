@@ -14,7 +14,7 @@ language: zh-TW
 ## 快速導航
 - 🧠 **Agent 協作拓撲** → [[AI-Agent]]（Mesh > Chain，不同任務需要不同拓撲）
 - 🎭 **Agent 身分與欺騙** → [[agent-persona]]（狼人殺中的策略性欺騙與身分扮演）
-- 🔧 **社交平台與 Skill** → [[agent-skills-ecosystem]]（Moltbook 上 AI Agent 的活動模式）
+- 🔧 **社交平台與 Skill** → [[AI-Skills]]（Moltbook 上 AI Agent 的活動模式）
 - ⚠️ **AI 自主性與安全** → [[prompt-security]]（人為操控痕跡分析，AI 社交的真實程度）
 
 ## 是什麼
@@ -111,7 +111,7 @@ AI Agent 之間的互動研究探討的是：多個 AI Agent 一起工作或對�
 - **Moltbook 的真實性存疑**：多數「自主」行為可能有人為操控痕跡
 
 ## 相關概念
-← [[AI-Agent]] · [[agent-persona]] · [[prompt-security]] · [[agent-skills-ecosystem]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
+← [[AI-Agent]] · [[agent-persona]] · [[prompt-security]] · [[AI-Skills]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ## 相關專案
 - [[HKUDS-nanobot]] — 多頻道 Agent 協作的基礎

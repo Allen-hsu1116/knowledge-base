@@ -14,7 +14,7 @@ language: zh-TW
 ## 快速導航
 
 - 🛠 **AI Skills** → [[AI-Skills]]（Agent Skills 的概念頁）
-- 🌐 **Agent Skills 生態系** → [[agent-skills-ecosystem]]（Skills 生態系統觀）
+- 🌐 **Agent Skills 生態系** → [[AI-Skills]]（Skills 生態系統觀）
 - 🔌 **MCP** → [[MCP]]（Skills 與 MCP 的工具整合）
 
 ## 是什麼
@@ -63,13 +63,13 @@ skills/
 
 ## 跟其他方案的關係
 
-addyosmani/agent-skills 是 [[agent-skills-ecosystem|Agent Skills 生態系]] 的核心專案之一。它跟 [[google-skills|Google Skills]] 使用相同的 skills.sh 分發標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程，Google 版專注於 Google Cloud 服務。
+addyosmani/agent-skills 是 [[AI-Skills|Agent Skills 生態系]] 的核心專案之一。它跟 [[google-skills|Google Skills]] 使用相同的 skills.sh 分發標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程，Google 版專注於 Google Cloud 服務。
 
-格式上與 [[openclaw|OpenClaw]] 的 SKILL.md 完全相容，OpenClaw 使用者可以直接安裝使用。與 [[karpathy-skills|Karpathy Skills]] 相比，addyosmani 版更注重軟體工程實踐（審查、除錯、優化），Karpathy 版更注重研究自動化。
+格式上與 [[openclaw|OpenClaw]] 的 SKILL.md 完全相容，OpenClaw 使用者可以直接安裝使用。與 [[llm-knowledge-base|Karpathy Skills]] 相比，addyosmani 版更注重軟體工程實踐（審查、除錯、優化），Karpathy 版更注重研究自動化。
 
 ## 相關概念
 
-← [[AI-Skills]] · [[agent-skills-ecosystem]] · [[MCP]] · [[google-skills]]
+← [[AI-Skills]] · [[AI-Skills]] · [[MCP]] · [[google-skills]]
 
 ## 來源
 

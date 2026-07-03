@@ -76,7 +76,7 @@ make garden       # 漂移/死鏈/上限檢測
 | [[obra-superpowers|Superpowers]] | ⭐189.5k | AI Skills | 方法論 | AI Agent |
 | [[github-spec-kit|Spec Kit]] | ⭐98.4k | AI Skills | Spec-Driven | Coding Agent CLI |
 
-← [[anthropics-claude-code|Claude Code]] · [[AI-Skills]] · [[MCP]] · [[agent-skills-ecosystem]] · [[Coding-Agent-CLI]]
+← [[anthropics-claude-code|Claude Code]] · [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
