@@ -2,24 +2,44 @@
 
 // put your custom CSS here!
 
-// Prevent date columns from wrapping
-// 專案/影片表格有 4 欄，日期是第 3 或第 4 欄
-// 概念表格只有 2 欄，不影響
+// === Project/Video table formatting ===
+// Problem: tables with long "概念" column overflow the 630px container,
+// and overflow-x: hidden clips the date column off-screen.
+// Solution: force table-layout: fixed so columns share width equally,
+// allow horizontal scroll as fallback, and constrain the concept column.
+
 table {
+  // Let the browser distribute column widths predictably
+  table-layout: fixed;
+  width: 100%;
+
   th, td {
+    // Date column (last child in 4-col tables) — keep on one line
     &:last-child {
       white-space: nowrap;
     }
-    // 4-column tables: date is column 3 (nth-child(3))
-    &:nth-child(3) {
-      white-space: nowrap;
-    }
+  }
+
+  // 4-column project/video tables:
+  // col 1 = 專案 (link), col 2 = Stars, col 3 = 概念 (long text), col 4 = 收錄日期
+  // Use colgroup-like widths via nth-child
+  th:nth-child(1), td:nth-child(1) { width: 22%; }  // 專案
+  th:nth-child(2), td:nth-child(2) { width: 12%; }  // Stars
+  th:nth-child(3), td:nth-child(3) { width: 50%; }  // 概念
+  th:nth-child(4), td:nth-child(4) { width: 16%; }  // 日期
+
+  // Allow the concept column to wrap long text
+  td:nth-child(3) {
+    word-break: break-word;
+    overflow-wrap: break-word;
   }
 }
 
-// Remove horizontal scrollbar caused by table margin exceeding container
+// Allow horizontal scroll if a table still overflows (graceful fallback)
 .table-container {
-  overflow-x: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
 
   & > table {
     margin: 1rem 0;
