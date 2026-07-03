@@ -15,138 +15,166 @@ updated: 2026-07-03
 
 ---
 
-## 概念
+## 📚 學習路徑
 
-### 🧠 核心
+以下按建議的閱讀順序排列——前面的概念是理解後面概念的基礎。
 
-| 概念 | 說明 |
-|------|------|
-| [[AI-Agent\|AI Agent]] | 能自主執行任務的 AI 系統，含工具使用、記憶、規劃、工作流趨勢。 |
-| [[LLM]] | 大語言模型，透過大規模文字資料訓練，能理解與生成自然語言。 |
-| [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding — Transformer 推論的三大加速與最佳化技術。 |
-| [[Prompt-Engineering\|Prompt Engineering]] | 設計和優化 LLM 提示詞的技術，包含 token 優化、結構化提示、context engineering 等。 |
-| [[Token-Optimization\|Token Optimization]] | 降低 LLM token 消耗的技術，透過精簡輸出、壓縮輸入等方式減少成本和延遲。 |
+### 第一階：基礎認知
 
-### 🔌 工具與協議
+| # | 概念 | 說明 |
+|---|------|------|
+| 1 | [[LLM]] | 大語言模型——一切的起點，先理解 LLM 是什麼 |
+| 2 | [[Prompt-Engineering\|Prompt Engineering]] | 設計 LLM 的輸入，從「寫好問題」到「設計操作手冊」 |
+| 3 | [[AI-Agent\|AI Agent]] | LLM + 工具 + 記憶 + 規劃 = 自主執行任務的 AI |
+| 4 | [[Token-Optimization\|Token Optimization]] | LLM 以 token 計費，優化 token = 優化成本和品質 |
 
-| 概念 | 說明 |
-|------|------|
-| [[AI-Skills\|AI Skills]] | 結構化的操作指令格式（SKILL.md），讓 AI coding agent 能以明確上下文和規範執行任務。 |
-| [[Context-Database\|Context Database]] | 專為 AI Agent 設計的上下文資料庫，以檔案系統範式統一管理上下文。 |
-| [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，將實體與關係連結，讓機器能結構化理解與檢索知識。 |
-| [[MCP]] | Model Context Protocol — Anthropic 提出的開放協議，讓 LLM 透過統一介面連接外部工具和資料來源。 |
-| AI Gateway | 聚合多個 LLM 提供者的統一閘道，提供自動降級、成本路由、token 壓縮等功能，如 OmniRoute 聚合 236+ 提供者。 |
-| Design System Spec | 用 YAML tokens + Markdown prose 向 AI coding agent 描述視覺身份的格式規範（DESIGN.md），讓 agent 擁有持久的設計系統理解。 |
-| [[sandbox\|沙箱]] | 程式碼執行的隔離環境，是 AI Agent 安全基礎。 |
-| In-page GUI Agent | 住在你網頁裡的 GUI Agent，用自然語言控制網頁介面，純文字 DOM 操作無需多模態 LLM。 |
+### 第二階：Agent 工程化
 
-### 🛠 方法論
+| # | 概念 | 說明 |
+|---|------|------|
+| 5 | [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導 |
+| 6 | [[context-engineering-basics\|Context Engineering]] | Harness 的核心：管理 LLM 看到的內容 |
+| 7 | [[AI-Skills\|AI Skills]] | 結構化操作手冊（SKILL.md），讓能力可版本控制和分享 |
+| 8 | [[agent-persona\|AI Agent 人格設計]] | Persona 定義 AI 是誰，Skill 定義 AI 會什麼 |
+| 9 | [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」的配方 |
+| 10 | [[MCP]] | Agent 連接外部工具的標準協議 |
+| 11 | [[AI-Gateway\|AI Gateway]] | 聚合多個 LLM 提供者的統一閘道 |
+| 12 | [[agent-harness-optimization\|Agent Harness 優化]] | Token 效率、記憶管理、安全驗證、持續學習 |
 
-| 概念 | 說明 |
-|------|------|
-| [[harness-engineering\|Harness Engineering 駕馭工程]] | 語言模型不是不夠聰明，而是缺乏好的引導。認知框架、工具邊界、工作流程三維駕馭 AI Agent。 |
-| [[prompt-security\|Prompt 安全與越獄]] | Prompt Injection 和越獄攻擊是 AI Agent 的實際安全風險，從「說出壞話」升級到「執行危險操作」。 |
-| [[agent-persona\|AI Agent 人格設計]] | 用 Persona 定義 AI 是誰，用 Skill 定義 AI 會什麼，兩者搭配 = 有方向又有方法的 AI 同事。 |
-| [[CLAUDE-md\|CLAUDE.md]] | 用自然語言定義 AI 編碼助理的行為規範，是 Agent Skill 的核心載體。 |
-| [[agent-skills-ecosystem\|Agent Skills 生態系]] | Agent Skills 正在從個人腳本進化成標準化的共享格式，GitHub 上已經出現多個大型 Skill 庫。 |
-| [[cl4r1t4s\|CL4R1T4S]] | Prompt 越獄與安全研究：LLM 的 jailbreak 技術和防禦方法。 |
-| [[llm-knowledge-base\|LLM 知識庫系統]] | 用 LLM 當「編譯器」，把原始素材編譯成結構化的個人知識庫。人負責找素材，AI 負責整理。 |
-| [[llm-knowledge-base-obsidian-claude-code\|LLM 知識庫中文報導]] | Claude Code + Obsidian 整理筆記！Karpathy 系統的中文完整拆解。 |
-| [[karpathy-gist-llm-wiki\|Karpathy LLM Wiki Gist]] | Karpathy 提出的 LLM Wiki 模式，用 LLM 增量建構個人知識庫。 |
-| [[karpathy-skills\|Karpathy Skills Skill 版]] | 將 Karpathy 知識庫方法論封裝成 Agent Skill 格式。 |
-| [[mempalace-usage-discussion\|MemPalace 使用討論]] | MemPalace 跟 RAG 的差異、改善建議、和我們知識庫的對比。 |
-| [[ocr-memory\|OCR-Memory]] | 用視覺模態壓縮 Agent 長期記憶，把歷史軌跡渲染成圖片，透過視覺錨點精確檢索原文。 |
-| [[persona-skill-colleague\|Persona + Skill 打造 AI 同事]] | 從「助理」進化成「同事」：Persona 是方向，Skill 是方法，兩者缺一不可。 |
-| [[self-correction\|Self-Correction 自我修正]] | 語言模型能否在無人工介入下自行發現並修正錯誤？三條路徑：修改 inference、workflow、參數。 |
-| [[ai-self-growth\|AI 自我成長]] | AI 能否跨越盧比孔河？從自我修正到自我成長的不可逆轉折點。 |
-| [[context-engineering-basics\|Context Engineering 基本概念]] | 系統化介紹 AI Agent 核心技術——如何管理語言模型看到的內容，讓輸入長度合適。 |
-| [[self-education\|自主學習]] | 不依賴傳統教育體系，透過開源資源和 AI 工具自主獲得知識和技能。 |
-| [[frontend-design\|前端設計]] | 網頁和應用程式的視覺設計、互動體驗和 UI 實作，涵蓋設計系統、排版、色彩、動畫和無障礙。 |
-| [[computer-use-agent\|Computer Use Agent]] | 能操作桌面應用和瀏覽器的 AI Agent，模擬人類的鍵盤滑鼠操作。 |
-| [[agent-trading\|Agent 交易]] | AI Agent 在金融交易領域的應用：自動化策略執行、多 Agent 協作和風險管理。 |
-| [[Coding-Agent-CLI\|Coding Agent CLI]] | 以終端機為主要介面的 AI 程式開發助手，從單一 chatbot 走向多模型、多工具、多 agent 的整合開發環境。 |
-| [[coding-agent-toolkit\|Coding Agent 工具包]] | 為 coding agent 提供搜尋、導航和程式碼理解能力的工具集合。 |
-| [[agent-harness-optimization\|Agent Harness 優化]] | 系統化提升 AI coding agent 的效能：token 效率、記憶管理、安全驗證、持續學習。 |
-| LLM 微調 | 透過 SFT、DPO、PPO、LoRA/QLoRA 等方法在大語言模型上進行領域適應和指令微調，LlamaFactory 等框架讓微調零代碼化。 |
-| 多 Agent 框架 | 將不同角色分配給多個 LLM Agent，形成協作實體處理複雜任務，如 MetaGPT 模擬軟體公司組織架構。 |
-| Copilot 生態系 | GitHub Copilot 的社群資源生態，包含 Agent、Skill、Hook、Workflow、Plugin，由 GitHub 官方維護策展。 |
-| Spec-Driven Development | 在 AI coding assistant 寫程式碼前先寫規格文件（spec），以 propose → explore → apply → archive 四步流程確保方向正確。 |
-| 即時 RAG 管線 | RAG 管線自動偵測資料來源變更並即時重新索引，確保 AI 回答永遠基於最新資料，如 Pathway 的做法。 |
-| Prompt 優化工具 | 透過多輪迭代、分析比較和評估，自動改善 prompt 品質並提升 AI 輸出準確度的工具。 |
+### 第三階：Agent 進階
 
-### 📚 應用與研究
+| # | 概念 | 說明 |
+|---|------|------|
+| 13 | [[Coding-Agent-CLI\|Coding Agent CLI]] | 從單一 chatbot 到多模型、多工具的整合開發環境 |
+| 14 | [[coding-agent-toolkit\|Coding Agent 工具包]] | 搜尋、導航和程式碼理解能力 |
+| 15 | [[computer-use-agent\|Computer Use Agent]] | 操作桌面和瀏覽器的 AI Agent |
+| 16 | [[In-page-GUI-Agent\|In-page GUI Agent]] | 用自然語言控制網頁，純文字 DOM 操作 |
+| 17 | [[self-correction\|Self-Correction 自我修正]] | AI 能否自行發現並修正錯誤？ |
+| 18 | [[ai-self-growth\|AI 自我成長（上集）]] | AI 能否跨越盧比孔河？自我成長離我們多遠 |
+| 19 | [[ai-self-growth-2\|AI 自我成長（下集）]] | 跨越盧比孔河的條件與時程 |
+| 20 | [[prompt-security\|Prompt 安全與越獄]] | Prompt Injection 和越獄攻擊的實際風險 |
+| 21 | [[cl4r1t4s\|CL4R1T4S]] | LLM jailbreak 技術和防禦方法 |
+| 22 | [[agent-trading\|Agent 交易]] | AI Agent 在金融交易的應用 |
 
-| 概念 | 說明 |
-|------|------|
-| [[AI-Tutoring\|AI Tutoring]] | 利用 AI 技術實現個人化教學，結合 RAG、知識圖譜和 LLM agent。 |
-| [[document-parsing\|文件解析]] | PDF、DOCX、圖片等文件的結構化擷取、OCR、版面分析與基準測試。 |
-| [[rag\|RAG]] | 檢索增強生成（Retrieval-Augmented Generation），結合外部知識檢索與 LLM 生成以提升回答品質。 |
-| [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊的 AI 領域，包括影像辨識、物體偵測和場景理解。 |
-| [[pentesting\|滲透測試]] | 模擬真實攻擊者手法，對系統進行授權的安全測試，找出可被利用的漏洞。 |
-| [[financial-forecasting\|金融預測]] | 利用統計模型、機器學習和 AI 技術預測金融市場走勢和資產價格。 |
-| [[backtesting\|回測]] | 用歷史數據驗證交易策略或模型的表現，是量化交易的必要步驟。 |
-| [[stock-tracking\|股市追蹤]] | 即時監控和分析股票市場數據的技術與工具。 |
-| [[data-analysis\|資料分析]] | 從原始資料中提取洞見、模式和結論的方法與工具。 |
-| [[web-crawling\|Web Crawling]] | 系統化瀏覽和收集網頁資料，是搜尋引擎和資料收集的基礎技術。（詳見 [[網頁爬蟲]]） |
-| [[web-scraping\|網頁爬取]] | 從網頁自動提取結構化資料，補充 API 不足的資料來源。 |
-| 社群媒體爬蟲 | 多平台社群媒體數據採集工具，支援小紅書/抖音/B站等平台的筆記、影片、評論抓取。 |
-| [[content-automation\|內容自動化]] | 使用 AI 自動生成、編輯和分發各類內容（影片、文字、簡報等）。 |
-| [[語音辨識]] | ASR/TTS 技術和模型，語音轉文字與文字轉語音的 AI 應用。 |
-| [[AI-presentation\|AI 簡報]] | 利用 AI 自動生成和設計簡報（PPT/PDF），從大綱、內容到視覺排版全流程自動化。 |
-| [[pptx-generation\|PPTX 生成]] | 程式化生成 PowerPoint 簡報檔案，從模板、python-pptx 到 AI 驅動的全自動流程。 |
+### 第四階：知識管理
 
-### 🎨 生成式 AI
+| # | 概念 | 說明 |
+|---|------|------|
+| 23 | [[llm-knowledge-base\|LLM 知識庫系統]] | 用 LLM 當「編譯器」把素材編譯成結構化 wiki |
+| 24 | [[karpathy-gist-llm-wiki\|Karpathy LLM Wiki]] | Karpathy 的原始方法論 |
+| 25 | [[llm-knowledge-base-obsidian-claude-code\|中文報導]] | 數位時代對 Karpathy 系統的完整拆解 |
+| 26 | [[karpathy-skills\|Karpathy Skill 版]] | 封裝成 Agent Skill 格式 |
+| 27 | [[mempalace-usage-discussion\|MemPalace 討論]] | 跟 RAG 的差異、改善建議 |
+| 28 | [[ocr-memory\|OCR-Memory]] | 用視覺模態壓縮 Agent 長期記憶 |
+| 29 | [[Context-Database\|Context Database]] | 以檔案系統範式統一管理 Agent 上下文 |
+| 30 | [[Knowledge-Graph\|Knowledge Graph]] | 以圖結構組織資訊，讓機器結構化理解 |
+| 31 | [[CLAUDE-md\|CLAUDE.md]] | 用自然語言定義 AI 編碼助理的行為規範 |
+| 32 | [[agent-skills-ecosystem\|Agent Skills 生態系]] | 從個人腳本到標準化共享格式 |
+| 33 | [[self-education\|自主學習]] | 透過開源資源和 AI 工具自主獲得知識 |
 
-| 概念 | 說明 |
-|------|------|
-| [[embedded-AI\|邊緣裝置 AI]] | 在資源受限的邊緣裝置上部署 AI 模型，低延遲、隱私、離線運行。 |
-| [[generative-AI\|生成式 AI]] | 能夠生成新內容（圖片、影片、音訊、文字等）的 AI 技術，從訓練資料中學習分佈，創造前所未見的輸出。 |
-| [[AI-video-generation\|AI 影片生成]] | AI 影片生成技術總覽：從文字到影片的生成模型、工具和方法。 |
-| [[diffusion-model\|擴散模型]] | 透過漸進去噪生成高品質內容的模型架構，Sana 等模型的核心技術。 |
-| [[world-model\|世界模型]] | 理解和模擬物理世界的 AI 模型，支援可控環境生成與具身智慧。 |
+### 第五階：生成式 AI 與多媒體
 
-### 🤖 程式碼智慧
+| # | 概念 | 說明 |
+|---|------|------|
+| 34 | [[generative-AI\|生成式 AI]] | 能生成新內容的 AI 技術 |
+| 35 | [[diffusion-model\|擴散模型]] | 漸進去噪生成高品質內容 |
+| 36 | [[AI-video-generation\|AI 影片生成]] | 文字到影片的生成模型 |
+| 37 | [[world-model\|世界模型]] | 理解和模擬物理世界的 AI |
+| 38 | [[content-automation\|內容自動化]] | AI 自動生成、編輯和分發內容 |
+| 39 | [[語音辨識\|語音辨識 (ASR/TTS)]] | 語音轉文字與文字轉語音 |
+| 40 | [[AI-presentation\|AI 簡報]] | AI 自動生成和設計簡報 |
+| 41 | [[pptx-generation\|PPTX 生成]] | 程式化生成 PowerPoint |
+| 42 | [[frontend-design\|前端設計]] | 視覺設計、互動體驗和 UI 實作 |
+| 43 | [[Design-System-Spec\|Design System Spec]] | 用 YAML tokens 向 AI 描述視覺身份 |
 
-| 概念 | 說明 |
-|------|------|
-| [[code-intelligence\|程式碼智慧]] | 用知識圖譜和語意分析加速 AI coding agent 的程式碼理解。 |
-| [[simulation\|模擬]] | 用多 Agent 社會演化模擬推演未來事件。 |
-| [[GraphRAG]] | Knowledge Graph + RAG 結合，沿語義關聯路徑檢索。 |
-| [[向量資料庫]] | 儲存和檢索向量嵌入的專用資料庫，是 RAG 和語意搜尋的基礎設施。 |
+### 第六階：LLM 底層與推論
 
-### 🏗 基礎設施概念
+| # | 概念 | 說明 |
+|---|------|------|
+| 44 | [[llm-internals\|LLM 底層技術]] | Flash Attention、KV Cache、Positional Embedding |
+| 45 | [[模型推論與部署\|模型推論與部署]] | LLM 從訓練到服務：推論加速、部署架構 |
+| 46 | [[LLM-微調\|LLM 微調]] | SFT、DPO、PPO、LoRA/QLoRA 領域適應 |
+| 47 | [[embedded-AI\|邊緣裝置 AI]] | 在資源受限裝置上部署 AI |
+| 48 | [[sandbox\|沙箱]] | 程式碼執行的隔離環境，Agent 安全基礎 |
 
-| 概念 | 說明 |
-|------|------|
-| [[self-hosted-AI-platform\|自架 AI 平台]] | 在自有基礎設施上部署和運行 AI 服務，掌控資料隱私、客製化和成本。 |
-| [[workflow-automation\|工作流自動化]] | 將重複性任務編排成自動化流程，減少人工介入、提高效率和一致性。 |
-| [[self-hosted\|自架]] | 在自有基礎設施上部署和運行軟體，掌控隱私、客製化與成本。 |
-| [[open-source-business\|開源商業模式]] | 開源軟體的商業化策略：如何讓開源專案持續生存並獲利。 |
-| [[free-software\|免費軟體]] | 開源或免費的軟體工具，降低技術門檻、促進普及。 |
-| [[productivity\|生產力]] | 提升個人和團隊效率的工具、方法論和框架。 |
-| [[free-domain\|免費域名]] | 免費取得和管理網域名稱，降低自架服務的基礎設施門檻。 |
-| [[media-streaming\|媒體串流]] | 透過網路即時傳輸音視訊內容，支援隨選和直播場景。 |
-| [[privacy\|隱私]] | 保護個人資料和線上行為不被未授權存取的技術與原則。 |
-| [[observability\|可觀測性]] | 系統的日誌、指標和追蹤三大支柱，確保系統健康可診斷。 |
-| [[模型推論與部署]] | LLM 從訓練到服務：推論加速、部署架構、成本控制。 |
-| [[visualization\|資料視覺化]] | 將數據轉為圖形表示，幫助理解趨勢、模式和異常。 |
+### 第七階：資料與檢索
+
+| # | 概念 | 說明 |
+|---|------|------|
+| 49 | [[rag\|RAG]] | 檢索增強生成，結合外部知識與 LLM |
+| 50 | [[GraphRAG]] | Knowledge Graph + RAG，沿語義路徑檢索 |
+| 51 | [[即時RAG管線\|即時 RAG 管線]] | 自動偵測資料變更並即時重新索引 |
+| 52 | [[向量資料庫\|向量資料庫]] | 儲存和檢索向量嵌入的專用資料庫 |
+| 53 | [[document-parsing\|文件解析]] | PDF、DOCX 等文件的結構化擷取 |
+| 54 | [[code-intelligence\|程式碼智慧]] | 用知識圖譜加速程式碼理解 |
+| 55 | [[simulation\|模擬]] | 多 Agent 社會演化模擬 |
+| 56 | [[data-analysis\|資料分析]] | 從原始資料中提取洞見 |
+| 57 | [[visualization\|資料視覺化]] | 將數據轉為圖形表示 |
+
+### 第八階：基礎設施與工程實踐
+
+| # | 概念 | 說明 |
+|---|------|------|
+| 58 | [[self-hosted\|自架]] | 在自有基礎設施上部署運行軟體 |
+| 59 | [[self-hosted-AI-platform\|自架 AI 平台]] | 在自有基礎設施上部署 AI 服務 |
+| 60 | [[workflow-automation\|工作流自動化]] | 將重複任務編排成自動化流程 |
+| 61 | [[Spec-Driven-Development\|Spec-Driven Development]] | 先寫規格再寫碼，四步工作流 |
+| 62 | [[多Agent框架\|多 Agent 框架]] | 多角色 Agent 協作處理複雜任務 |
+| 63 | [[Copilot生態系\|Copilot 生態系]] | GitHub Copilot 的社群資源生態 |
+| 64 | [[Prompt優化工具\|Prompt 優化工具]] | 自動改善 prompt 品質的工具 |
+| 65 | [[observability\|可觀測性]] | 日誌、指標和追蹤三大支柱 |
+| 66 | [[privacy\|隱私]] | 保護資料不被未授權存取 |
+| 67 | [[open-source-business\|開源商業模式]] | 開源軟體的商業化策略 |
+| 68 | [[free-software\|免費軟體]] | 開源或免費的工具 |
+| 69 | [[free-domain\|免費域名]] | 免費取得網域名稱 |
+| 70 | [[productivity\|生產力]] | 提升效率的工具與方法論 |
+| 71 | [[media-streaming\|媒體串流]] | 網路即時傳輸音視訊 |
+
+### 第九階：應用領域
+
+| # | 概念 | 說明 |
+|---|------|------|
+| 72 | [[AI-Tutoring\|AI Tutoring]] | AI 技術實現個人化教學 |
+| 73 | [[computer-vision\|電腦視覺]] | 讓電腦理解和處理視覺資訊 |
+| 74 | [[pentesting\|滲透測試]] | 模擬攻擊者手法進行安全測試 |
+| 75 | [[financial-forecasting\|金融預測]] | 預測金融市場走勢和資產價格 |
+| 76 | [[backtesting\|回測]] | 用歷史數據驗證交易策略 |
+| 77 | [[stock-tracking\|股市追蹤]] | 即時監控和分析股市數據 |
+| 78 | [[web-crawling\|Web Crawling]] | 系統化瀏覽和收集網頁資料 |
+| 79 | [[web-scraping\|網頁爬取]] | 從網頁自動提取結構化資料 |
+| 80 | [[社群媒體爬蟲\|社群媒體爬蟲]] | 多平台社群數據採集 |
+
+---
 
 ## 🎬 教學影片
 
-全部來自 **李宏毅 (Hung-yi Lee)** — 台大電機系教授。
+全部來自 **李宏毅 (Hung-yi Lee)** — 台大電機系教授。按建議觀看順序排列。
 
-| 影片 | 主題 | 上傳日期 | 連結 |
-|------|------|----------|------|
-| [[ai-self-growth\|AI 自我成長]] | AI 能否跨越盧比孔河？自我成長的 AI 離我們多遠？ | 2026-05-10 | [YouTube](https://www.youtube.com/watch?v=s06mSAGN4gM) |
-| [[flash-attention\|Flash Attention]] | 減少 GPU 記憶體搬運次數加速推論 | 2026-05-03 | [YouTube](https://www.youtube.com/watch?v=vXb2QYOUzl4) |
-| [[kv-cache\|KV Cache]] | 儲存 K/V 避免重算 + GQA/MLA/Sliding Window | 2026-05-03 | [YouTube](https://www.youtube.com/watch?v=fDQaadKysSA) |
-| [[positional-embedding-evolution\|位置編碼演進]] | Sinusoidal → ALiBi → RoPE 演進歷史 | 2026-05-03 | [YouTube](https://www.youtube.com/watch?v=Ll-wk8x3G_g) |
-| [[self-correction]] | AI 能自我修正嗎？從 decoding、workflow 到 reasoning | 2026-04-25 | [YouTube](https://www.youtube.com/watch?v=m3i2mk5hs8U) |
-| [[harness-engineering]] | Harness Engineering：語言模型不是不夠聰明，只是沒有人類好好引導 | 2026-04-12 | [YouTube](https://www.youtube.com/watch?v=R6fZR_9kmIw) |
-| [[ai-agent-interaction]] | AI Agent (2/3)：AI Agent 之間可以有什麼樣的互動 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=mmPmNezjCi0) |
-| [[ai-agent-work-impact]] | AI Agent (3/3)：AI Agent 對工作帶來的衝衝擊 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=VqB8zMujdjM) |
-| [[context-engineering-basics\|Context Engineering 基本概念]] | AI Agent (1/3)：核心技術 Context Engineering 基本概念解說 | 2026-03-15 | [YouTube](https://www.youtube.com/watch?v=urwDLyNa9FU) |
-| [[agent-anatomy-openclaw]] | 解剖小龍蝦：以 OpenClaw 為例介紹 AI Agent 運作原理 | 2026-03-09 | [YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ) |
+### 🔧 LLM 底層技術系列
+
+| # | 主題 | 觀看連結 |
+|---|------|----------|
+| 1 | [[flash-attention\|Flash Attention]] — 減少 GPU 記憶體搬運加速推論 | [YouTube](https://www.youtube.com/watch?v=vXb2QYOUzl4) |
+| 2 | [[kv-cache\|KV Cache]] — 儲存 K/V 避免重算 + GQA/MLA/Sliding Window | [YouTube](https://www.youtube.com/watch?v=fDQaadKysSA) |
+| 3 | [[positional-embedding-evolution\|位置編碼演進]] — Sinusoidal → ALiBi → RoPE | [YouTube](https://www.youtube.com/watch?v=Ll-wk8x3G_g) |
+
+### 🤖 AI Agent 系列
+
+| # | 主題 | 觀看連結 |
+|---|------|----------|
+| 4 | [[context-engineering-basics\|Context Engineering 基本概念]] — AI Agent (1/3) | [YouTube](https://www.youtube.com/watch?v=urwDLyNa9FU) |
+| 5 | [[ai-agent-interaction\|AI Agent 之間的互動]] — AI Agent (2/3) | [YouTube](https://www.youtube.com/watch?v=mmPmNezjCi0) |
+| 6 | [[ai-agent-work-impact\|AI Agent 對工作的衝擊]] — AI Agent (3/3) | [YouTube](https://www.youtube.com/watch?v=VqB8zMujdjM) |
+| 7 | [[agent-anatomy-openclaw\|解剖小龍蝦]] — 以 OpenClaw 為例介紹 Agent 運作原理 | [YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ) |
+| 8 | [[harness-engineering\|Harness Engineering]] — 語言模型不是不夠聰明，只是沒有人類好好引導 | [YouTube](https://www.youtube.com/watch?v=R6fZR_9kmIw) |
+
+### 🧠 自我修正與成長系列
+
+| # | 主題 | 觀看連結 |
+|---|------|----------|
+| 9 | [[self-correction\|Self-Correction 自我修正]] — AI 能自我修正嗎？ | [YouTube](https://www.youtube.com/watch?v=m3i2mk5hs8U) |
+| 10 | [[ai-self-growth\|AI 自我成長（上集）]] — AI 要跨越盧比孔河了嗎？ | [YouTube](https://www.youtube.com/watch?v=s06mSAGN4gM) |
+| 11 | [[ai-self-growth-2\|AI 自我成長（下集）]] — 跨越盧比孔河的條件 | [YouTube](https://www.youtube.com/watch?v=cQLKVzbwN7I) |
 
 ---
 
