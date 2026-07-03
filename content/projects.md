@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[langflow-ai-langflow\|Langflow]] | ⭐150.7k | 視覺化 AI Agent 工作流, 拖拽設計, API/MCP 部署, 多 Agent 編排, Playground, LangSmith/LangFuse 整合 | 2026-07-03 |
 | [[diegosouzapw-OmniRoute\|OmniRoute]] | ⭐9.5k | AI Gateway, 236 提供者, RTK+Caveman 壓縮, 16+ 編碼代理, MCP, A2A, 免費 1.6B tokens/月 | 2026-07-02 |
 | [[ogulcancelik-herdr\|herdr]] | ⭐9k | Agent 多工器, 終端機, tmux-for-agents, 狀態感知, SSH 遠端, Socket API, 15+ Agent 支援, Rust | 2026-07-01 |
 | [[usestrix-strix\|Strix]] | ⭐26.7k | AI 駭客 Agent, 滲透測試, 動態 PoC 驗證, Graph of Agents, CI/CD 整合, LLM-Security | 2026-06-29 |
@@ -140,6 +141,7 @@ updated: 2026-07-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[pytorch-pytorch\|PyTorch]] | ⭐101.2k | 深度學習框架, 動態計算圖, autograd, GPU/TPU 加速, 分散式訓練, TorchScript, 量化, LLM 生態基石 | 2026-07-03 |
 | [[hiyouga-LlamaFactory\|LlamaFactory]] | ⭐72.5k | LLM 微調, 100+ 模型, LoRA/QLoRA, SFT/DPO/PPO, vLLM/SGLang 推理, Web UI | 2026-06-27 |
 | [[LMCache-LMCache\|LMCache]] | ⭐8.6k | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
 | [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
@@ -215,6 +217,7 @@ updated: 2026-07-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[harvard-edge-cs249r_book\|ML Systems (CS249r)]] | ⭐25.6k | Harvard ML Systems 教科書, AI Engineering, TinyTorch, Labs, MLSys·im 模擬器, 硬體 Kits, StaffML 面試, MIT Press 2026 | 2026-07-03 |
 | [[microsoft-AI-For-Beginners\|AI for Beginners]] | ⭐49.4k | AI 入門課程, 12 週 24 課, PyTorch+TensorFlow, 電腦視覺, NLP, GAN, RNN, 50+ 語言翻譯 | 2026-07-01 |
 | [[shanraisshan-claude-code-best-practice\|Claude Code Best Practice]] | ⭐59.4k | Claude Code, 最佳實踐, Subagents, Skills, Hooks, MCP, 20+ 概念 | 2026-06-24 |
 | [[aishwaryanr-awesome-generative-ai-guide\|Awesome Generative AI Guide]] | ⭐27.6k | GenAI 學習資源, 90+ 課程, 論文追蹤, 面試題, 10週課程 | 2026-06-20 |
@@ -291,6 +294,7 @@ updated: 2026-07-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[agentskills-agentskills\|Agent Skills]] | ⭐21.6k | Agent Skill 開放標準, SKILL.md 格式, 漸進式揭露, 跨產品複用, Anthropic 發起 | 2026-07-03 |
 | [[Fission-AI-OpenSpec\|OpenSpec]] | ⭐57.1k | Spec-Driven Development, 四步工作流, opsx, brownfield, AI coding | 2026-06-28 |
 | [[wshobson-agents\|wshobson/agents]] | ⭐37.2k | 插件市場, 88 插件 + 194 Agent + 158 Skill, 5 大 Harness, PluginEval | 2026-06-27 |
 | [[github-awesome-copilot\|Awesome GitHub Copilot]] | ⭐35.8k | Copilot 資源, Agent/Skill/Hook/Workflow/Plugin, GitHub 官方, llms.txt | 2026-06-27 |

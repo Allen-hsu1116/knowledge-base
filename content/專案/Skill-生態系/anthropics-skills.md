@@ -89,7 +89,7 @@ python scripts/with_server.py \
 - **Playwright**：webapp-testing 技能使用的瀏覽器自動化框架
 - **Reconnaissance-then-Action**：先偵察再行動的測試模式，避免盲猜選擇器
 
-← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[agent-skills-ecosystem]]
+← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[agent-skills-ecosystem]] · [[agentskills-agentskills|Agent Skills]]
 
 ## 來源
 

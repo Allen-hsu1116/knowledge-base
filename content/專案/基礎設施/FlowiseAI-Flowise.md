@@ -67,7 +67,7 @@ pnpm start
 | LangFlow | LangChain 視覺化 | ✅ | ✅ 開源 | ⚠️ 基礎 | LangChain 原型開發 |
 
 ## 相關概念
-← [[rag|RAG 檢索增強生成]] · [[workflow-automation|Agent 工作流]] · [[n8n-io-n8n|n8n]]
+← [[rag|RAG 檢索增強生成]] · [[workflow-automation|Agent 工作流]] · [[n8n-io-n8n|n8n]] · [[langflow-ai-langflow|Langflow]]
 
 ## 來源
 

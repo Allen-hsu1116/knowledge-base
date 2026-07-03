@@ -78,7 +78,7 @@ app = graph.compile()
 | [[模型推論與部署|Ollama]] | 本地 LLM 部署 | LangChain 可以透過 Ollama 介面使用本地模型 |
 
 ## 相關概念
-← [[AI-Agent]] · [[LLM]] · [[rag]] · [[llama-index]]
+← [[AI-Agent]] · [[LLM]] · [[rag]] · [[llama-index]] · [[langflow-ai-langflow|Langflow]] · [[pytorch-pytorch|PyTorch]]
 
 ## 來源
 - raw/2026-05-10-langchain.md

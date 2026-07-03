@@ -71,7 +71,7 @@ LLMs from Scratch 偏理論教學，MiniMind 偏實作流程，兩者互補。�
 
 ## 相關概念
 
-← [[LLM]] · [[llm-internals]] · [[kv-cache]] · [[flash-attention]]
+← [[LLM]] · [[llm-internals]] · [[kv-cache]] · [[flash-attention]] · [[pytorch-pytorch|PyTorch]] · [[harvard-edge-cs249r_book|ML Systems (CS249r)]]
 
 ## 來源
 

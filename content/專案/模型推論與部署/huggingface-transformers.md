@@ -78,7 +78,7 @@ model = AutoModelForCausalLM.from_pretrained(
 Transformers 是 AI 生態的「作業系統」——幾乎所有 LLM 工具都以它為基礎。模型先在 Transformers 上定義，再由 vLLM、SGLang、TGI 等推論引擎載入做高效推理，或由 llama.cpp 轉換為 GGUF 格式在本地運行。
 
 ## 相關概念
-← [[LLM]] · [[llm-internals]]
+← [[LLM]] · [[llm-internals]] · [[pytorch-pytorch|PyTorch]]
 
 ## 來源
 - raw/2026-05-10-huggingface-transformers.md

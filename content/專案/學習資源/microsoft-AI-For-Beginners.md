@@ -78,7 +78,7 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 - **[[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]]** → 更實作導向的 LLM 訓練教學
 - **[[freeCodeCamp-freeCodeCamp|freeCodeCamp]]** → 廣泛程式學習平台，AI for Beginners 是專注 AI 的深度課程
 
-← [[mlabonne-llm-course|LLM Course]] · [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]] · [[AI-Tutoring]]
+← [[mlabonne-llm-course|LLM Course]] · [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]] · [[AI-Tutoring]] · [[harvard-edge-cs249r_book|ML Systems (CS249r)]]
 
 ## 來源
 

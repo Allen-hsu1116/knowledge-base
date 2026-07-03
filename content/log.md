@@ -1162,3 +1162,15 @@ known-repos.json: 271 repos, 362 concepts
   - projects.md: stars 18,628 → 64.3k，新增概念標籤
 
 known-repos.json: 271 repos, 362 concepts
+
+## 2026-07-02 daily-llm-trending
+
+新增 3 個 repos：
+- **allenai/olmocr** (⭐18.2k) — VLM 驅動 OCR，PDF 線性化 → wiki/allenai-olmocr.md (記憶與知識管理)
+- **diegosouzapw/OmniRoute** (⭐9.5k) — 免費 AI Gateway，236 提供者 → wiki/diegosouzapw-OmniRoute.md (Agent 框架與工具)
+- **altic-dev/FluidVoice** (⭐5.5k) — macOS 聽寫，on-device STT → wiki/altic-dev-FluidVoice.md (多媒體與爬蟲)
+
+跳過 2 個非 LLM 相關：exercises-dataset (健身資料集), cupp (密碼分析工具)
+
+更新 backlinks: document-parsing.md, 語音辨識.md, embedded-AI.md, litellm.md
+新增概念: AI Gateway → index.md 工具與協議區

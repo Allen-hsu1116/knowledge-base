@@ -75,7 +75,7 @@ result = client.create_chat_message(inputs={}, query="Hello", user="user-123")
 | [[CopilotKit-CopilotKit|CopilotKit]] | ⭐32k | AI UI 框架 | ❌ React 為主 | ✅ | AG-UI |
 
 ## 相關概念
-← [[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]]
+← [[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]] · [[langflow-ai-langflow|Langflow]]
 
 ## 來源
 
