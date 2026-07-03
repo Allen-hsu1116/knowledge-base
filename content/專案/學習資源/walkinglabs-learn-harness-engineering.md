@@ -24,7 +24,7 @@ language: Multiple (13 語言)
 
 Learn Harness Engineering 是一個**專案式課程**，教你如何為 AI coding agent 建構可靠的工作環境。
 
-核心命題：**最強的模型，沒有好的 Harness，仍然會在真實工程任務上失敗。** Anthropic 做過對照實驗——同一個模型（Opus 4.5）、同一個提示詞（「建一個 2D retro game editor」），沒有 Harness 時花了 \$9、20 分鐘做出了不能用的東西；有完整 Harness 時花了 \$200、6 小時做出了真正可用的遊戲。模型沒變，Harness 改變了一切。
+核心命題：**最強的模型，沒有好的 Harness，仍然會在真實工程任務上失敗。** Anthropic 做過對照實驗——同一個模型（Opus 4.5）、同一個提示詞（「建一個 2D retro game editor」），沒有 Harness 時花了 $9、20 分鐘做出了不能用的東西；有完整 Harness 時花了 $200、6 小時做出了真正可用的遊戲。模型沒變，Harness 改變了一切。
 
 ## 核心特色
 

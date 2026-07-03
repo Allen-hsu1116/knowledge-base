@@ -460,6 +460,33 @@ for TARGET_FILE in "$CONTENT_INDEX" "$CONTENT_PROJECTS"; do
     FILENAME=$(basename "$TARGET_FILE")
     CHANGES=0
 
+    # 修復 0: 移除表格中的空行（空行會把 Markdown 表格切成兩半）
+    EMPTY_IN_TABLE=$(python3 -c "
+with open('$TARGET_FILE', 'r') as f:
+    lines = f.readlines()
+fixed = 0
+new_lines = []
+in_table = False
+for i, line in enumerate(lines):
+    stripped = line.strip()
+    if stripped.startswith('| 專案') or stripped.startswith('|------'):
+        in_table = True
+    elif stripped.startswith('## ') or stripped.startswith('# '):
+        in_table = False
+    # If we're in a table and hit an empty line, but the next line is a table row, remove the empty line
+    if in_table and stripped == '' and i + 1 < len(lines) and lines[i + 1].strip().startswith('|'):
+        fixed += 1
+        continue  # skip this empty line
+    new_lines.append(line)
+with open('$TARGET_FILE', 'w') as f:
+    f.writelines(new_lines)
+print(fixed)
+" 2>/dev/null || echo "0")
+    if [ "$EMPTY_IN_TABLE" != "0" ]; then
+        echo "   ⚠️ $FILENAME: 移除 $EMPTY_IN_TABLE 個表格中的空行"
+        CHANGES=$((CHANGES + EMPTY_IN_TABLE))
+    fi
+
     # 修復 1: 移除 || 開頭的行（專案連結不屬於概念表格）
     # || [[slug\|alias]] | desc | 這種格式會產生空的 <td>
     ORIG_COUNT=$(grep -c '^||' "$TARGET_FILE" 2>/dev/null || true)

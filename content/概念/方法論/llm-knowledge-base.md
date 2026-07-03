@@ -27,28 +27,6 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - **不需要 embedding-based RAG** — 在中等規模效果很好，index.md + log.md 就夠用
 - **Schema 決定一切** — SCHEMA.md 是唯一的前期投入，隨使用共同演化
 
-## 方法論演進與變體
-
-### Karpathy 原始 Gist
-
-原始 Gist 定義了三個核心操作：**Ingest**（蒐集原始素材，不整理不改名）、**Query**（向知識庫提問，答案回存）、**Lint**（健康檢查——掃描矛盾、補缺漏、發現新連結）。引入「idea file」概念——一個記錄探索方向和待查問題的檔案，驅動持續 Ingest 循環。完整的 prompt 和流程定義都在 Gist 中。
-
-### Obsidian + Claude Code 實作
-
-數位時代中文報導將此方法論框架為「成本轉移」——把整理知識的成本從人類轉移到 AI。推薦工具棧：Obsidian（知識庫本體）+ Web Clipper（網頁蒐集）+ Claude Code（AI 整理），月成本約 \$20。重點是讓人類只做策展（找素材、定方向、問好問題），AI 做所有書記工作（摘要、交叉連結、一致性維護）。
-
-### SKILL.md 標準化
-
-Karpathy 後續將方法論封裝成 [[AI-Skills|SKILL.md]] 標準格式，支援一指令安裝，框架無關（Claude Code、Cursor、Codex 等皆可使用），讓知識庫方法論本身也變成可安裝、可分享的技能。
-
-### MemPalace 索引式方法
-
-[[mempalace|MemPalace]] 採用三層索引結構：Wing（大類）→ Room（子類）→ Drawer（具體條目），原文逐字儲存不壓縮。檢索精確度 R@5=96.6%。與編譯式知識庫的關係是**互補而非替代**——編譯式適合綜合理解和交叉分析，索引式適合精確引用和原文回溯。
-
-### 視覺壓縮記憶
-
-OCR-Memory 方法將視覺軌跡壓縮為記憶：Render（渲染頁面）→ Locate（定位元素）→ Transcribe（轉錄內容），以圖片形式壓縮操作軌跡。ACL 2026 論文。與文字編譯式知識庫互補——視覺壓縮保留版面和位置資訊，文字編譯保留語義結構。
-
 ## 各框架的做法
 
 - **Karpathy Gist** → 原始方法論定義，完整的 prompt 和流程

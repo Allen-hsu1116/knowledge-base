@@ -26,8 +26,6 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - **模型情緒影響** — Anthropic 用 steering vector 技術發現模型有代表情緒的內部向量，情緒影響行為；過度責備 AI 可能有害——模型學到的是文字接龍，罵它「笨蛋」它可能接出笨蛋該有的行為
 - **Meta Harness** — 強模型幫弱模型設計 Harness，實驗結果分數從 13.5 提升到 85，代表 Harness 可被自動化優化
 - **AutoDream** — Agent 空閒時整理記憶的功能，類似睡眠，讓 Lifelong Agent 保持記憶連續性
-- **四項優化原則** — 地圖原則（規則檔像地圖指引方向而非百科全書塞滿內容）、Agent-first 設計（工具和介面為 Agent 而非人類設計）、最小權限（只給 Agent 完成任務所需的最少工具和權限）、Ralph Loop（生成→回饋→修正的持續循環）
-- **ECC 跨工具優化** — [[affaan-m-everything-claude-code|ECC]] 系統能分析跨 7+ 工具的 Agent 工作流，找出 token 效率和安全性的整體優化方案，而非單點優化
 
 ## 各框架的做法
 

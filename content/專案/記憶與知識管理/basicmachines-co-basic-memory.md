@@ -20,7 +20,7 @@ Basic Memory 是一個 MCP 原生的 AI 記憶系統。它讓 AI 助手（Claude
 
 核心理念是本地優先（local-first）：你的知識永遠是純文字，在你的硬碟上，永遠屬於你。Basic Memory 不是把記憶藏進某個資料庫，而是把記憶變成你和 AI 都能理解的 Markdown 文件。觀察（observations）和維基連結（wikilinks）組成真正的知識圖譜，語意搜尋讓你用意義找筆記，不只是關鍵詞。
 
-雲端是選項，不是前提。Basic Memory 提供託管版本（\$15/月，終身鎖價），但本地安裝永遠免費（AGPL-3.0）。兩者跑同一個引擎、用同一種 Markdown 檔案，隨時可以切換。
+雲端是選項，不是前提。Basic Memory 提供託管版本（$15/月，終身鎖價），但本地安裝永遠免費（AGPL-3.0）。兩者跑同一個引擎、用同一種 Markdown 檔案，隨時可以切換。
 
 ## 核心特色
 
@@ -76,7 +76,7 @@ Basic Memory 的 Markdown 檔案與 Obsidian 直接相容。在 Obsidian 中開�
 
 | 方案 | Stars | 類型 | 儲存格式 | MCP | 雙向同步 | 雲端 |
 |------|-------|------|---------|-----|---------|------|
-| **Basic Memory** | ⭐3.2k | AI 記憶 | Markdown | ✅ 原生 | ✅ | ✅ 選項 \$15/mo |
+| **Basic Memory** | ⭐3.2k | AI 記憶 | Markdown | ✅ 原生 | ✅ | ✅ 選項 $15/mo |
 | [[mem0ai-mem0|Mem0]] | ⭐58k | AI 記憶層 | 向量 + DB | ✅ | ❌ | ✅ |
 | [[supermemoryai-supermemory|Supermemory]] | ⭐23k | AI 記憶引擎 | DB | MCP | ❌ | ✅ |
 | [[rohitg00-agentmemory|agentmemory]] | ⭐15k | Agent 記憶 | 向量 | MCP | ❌ | ❌ |
