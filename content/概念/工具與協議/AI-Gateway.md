@@ -24,6 +24,15 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
 - **Token 壓縮**：壓縮 prompt context，降低 token 消耗與費用
 - **統一監控計量**：集中記錄用量、成本、延遲，支援限流與配額管理
 
+## 各框架的做法
+
+- **OmniRoute** → 聚合 236+ LLM 提供者，RTK + Caveman token 壓縮，免費 1.6B tokens/月
+  👉 詳見 [[ogulcancelik-OmniRoute|OmniRoute]]
+- **LiteLLM** → 100+ Provider 統一 API，支援 OpenAI 格式呼叫所有模型
+  👉 詳見 [[litellm|LiteLLM]]
+- **Open WebUI** → 自架 LLM 平台內建多模型路由，Docker 一鍵部署
+  👉 詳見 [[open-webui-open-webui|Open WebUI]]
+
 ## 相關概念
 
 - [[MCP]] — MCP 定義工具連接方式，Gateway 定義模型路由方式
