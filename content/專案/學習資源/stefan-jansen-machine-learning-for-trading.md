@@ -75,7 +75,7 @@ docker run -it ml4t
 - raw/2026-06-02-stefan-jansen-machine-learning-for-trading.md
 - GitHub: [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
 - 書籍官網: [ml4trading.io](https://ml4trading.io)
-- Raw 檔案: [[raw/2026-06-02-stefan-jansen-machine-learning-for-trading|原始資料]]
+- Raw 檔案: 原始資料
 
 ---
 

@@ -16,7 +16,7 @@ topics: OCR, PDF, VLM, Document-Parsing, LLM-Dataset
 
 - 📄 **文件解析** → [[document-parsing|文件解析]]
 - 🧠 **RAG** → [[rag|RAG]]
-- 🔍 **OCR** → [[OCR|OCR]]
+- 🔍 **OCR** → OCR
 - 📦 **MinerU** → [[opendatalab-MinerU|MinerU]]
 
 ## 是什麼
@@ -85,7 +85,7 @@ olmOCR 是 [[document-parsing|文件解析]] 領域的頂級方案之一，專�
 
 ## 相關概念
 
-← [[document-parsing|文件解析]] · [[rag|RAG]] · [[OCR|OCR]] · [[opendatalab-MinerU|MinerU]]
+← [[document-parsing|文件解析]] · [[rag|RAG]] · OCR · [[opendatalab-MinerU|MinerU]]
 
 ## 來源
 

@@ -31,7 +31,7 @@ Coding Agent CLI 的能力不只來自 LLM，還來自底層工具基礎設施�
 
 ## Spec-Driven Development
 
-Spec-Driven Development（規格驅動開發）是一種結構化開發工作流：**Propose**（提出規格變更）→ **Explore**（探索影響範圍）→ **Apply**（實作變更）→ **Archive**（歸檔規格）。[[OpenSpec]] 和 [[Spec Kit]] 等工具將此流程自動化，讓 AI Agent 能以規格檔為中心進行開發，而非直接修改程式碼。這為 Coding Agent CLI 提供了從「隨意改碼」到「規格先行」的工作流基礎。
+Spec-Driven Development（規格驅動開發）是一種結構化開發工作流：**Propose**（提出規格變更）→ **Explore**（探索影響範圍）→ **Apply**（實作變更）→ **Archive**（歸檔規格）。[[Fission-AI-OpenSpec]] 和 [[github-spec-kit]] 等工具將此流程自動化，讓 AI Agent 能以規格檔為中心進行開發，而非直接修改程式碼。這為 Coding Agent CLI 提供了從「隨意改碼」到「規格先行」的工作流基礎。
 
 ## Copilot 生態系
 

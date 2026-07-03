@@ -72,7 +72,7 @@ cli-hub install blender
 
 ## 來源
 
-> 完整 README 見 [[raw/2025-06-07-HKUDS-CLI-Anything|raw 檔案]]
+> 完整 README 見 raw 檔案
 
 ---
 

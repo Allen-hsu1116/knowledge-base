@@ -82,7 +82,7 @@ export ANTHROPIC_API_KEY=***
 - raw/2026-06-02-TauricResearch-TradingAgents.md
 - GitHub: [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - 論文: [arXiv 2412.20138](https://arxiv.org/abs/2412.20138)
-- Raw 檔案: [[raw/2026-06-02-TauricResearch-TradingAgents|原始資料]]
+- Raw 檔案: 原始資料
 
 ---
 

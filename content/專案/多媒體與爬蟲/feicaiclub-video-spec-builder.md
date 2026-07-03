@@ -64,7 +64,7 @@ npx skills add feicaiclub/video-spec-builder -g
 
 ## 來源
 
-> 完整 README 見 [[raw/2025-06-07-feicaiclub-video-spec-builder|raw 檔案]]
+> 完整 README 見 raw 檔案
 
 ---
 

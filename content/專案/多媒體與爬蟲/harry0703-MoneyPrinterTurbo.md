@@ -70,7 +70,7 @@ python main.py
 
 ## 來源
 
-> 完整 README 見 [[raw/2025-06-07-harry0703-MoneyPrinterTurbo|raw 檔案]]
+> 完整 README 見 raw 檔案
 
 ---
 

@@ -24,7 +24,7 @@ topics:
 
 - 🤖 **Agent 框架** → [[langgenius-dify|Dify]] · [[FlowiseAI-Flowise|Flowise]]
 - 🔌 **MCP 生態** → [[MCP]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
-- 📖 **學習資源** → [[LangChain]] · [[LlamaIndex]]
+- 📖 **學習資源** → [[LangChain]] · [[llama-index]]
 
 ## 是什麼
 

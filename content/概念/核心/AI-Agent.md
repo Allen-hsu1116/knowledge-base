@@ -26,7 +26,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 多 Agent 框架與角色協作
 
-多 Agent 框架的核心是**角色分工**——讓多個 Agent 各司其職、協作完成複雜任務。[[MetaGPT]] 模擬軟體公司：Product Manager Agent 寫需求、Architect Agent 設計架構、Engineer Agent 寫程式碼、QA Agent 測試，完整重現公司的工作流。[[CrewAI]] 提供角色協作框架：定義多個 Agent 角色、各自目標和工具，透過任務編排實現團隊分工。這從「一個 Agent 做所有事」走向「AI 團隊各做專長事」，提升複雜任務的品質和可靠性。
+多 Agent 框架的核心是**角色分工**——讓多個 Agent 各司其職、協作完成複雜任務。[[FoundationAgents-MetaGPT]] 模擬軟體公司：Product Manager Agent 寫需求、Architect Agent 設計架構、Engineer Agent 寫程式碼、QA Agent 測試，完整重現公司的工作流。[[CrewAI]] 提供角色協作框架：定義多個 Agent 角色、各自目標和工具，透過任務編排實現團隊分工。這從「一個 Agent 做所有事」走向「AI 團隊各做專長事」，提升複雜任務的品質和可靠性。
 
 ## 多 Agent 社會模擬
 

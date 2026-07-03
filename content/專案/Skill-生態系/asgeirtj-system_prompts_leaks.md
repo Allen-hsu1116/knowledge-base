@@ -14,7 +14,7 @@ topics: ["prompt-engineering", "system-prompts", "ai-agents", "llm", "claude", "
 
 ## 快速導航
 
-[[prompt-engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]] · [[anthropics-claude-code|Claude Code]] · [[AI-Agent]]
+[[Prompt-Engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]] · [[anthropics-claude-code|Claude Code]] · [[AI-Agent]]
 
 ## 是什麼
 
@@ -77,7 +77,7 @@ cat Anthropic/claude-code-glob-grep-tools.md
 
 ## 相關概念
 
-← [[prompt-engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]]
+← [[Prompt-Engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]]
 
 ## 來源
 

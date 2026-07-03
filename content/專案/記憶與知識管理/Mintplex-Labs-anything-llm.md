@@ -19,7 +19,7 @@ topics:
 > ⭐62.2k · 全能 AI 應用，本地優先的 ChatGPT 替代方案，聊天+文檔+Agent 一體化
 
 ## 快速導航
-- 🧠 **RAG** → [[RAG]]
+- 🧠 **RAG** → [[rag]]
 - 🏠 **Ollama** → [[Ollama]]
 - 🖥 **Open WebUI** → [[open-webui-open-webui|Open WebUI]]
 
@@ -72,7 +72,7 @@ yarn dev:collector  # 啟動文檔收集器
 | [[CherryHQ-cherry-studio|Cherry Studio]] | ⭐47.3k | AI 客戶端 | 多模型客戶端 | Agent Skills |
 | [[Crosstalk-Solutions-project-nomad|Project N.O.M.A.D.]] | ⭐27k | 離線 AI | Ollama + RAG | 自架知識伺服器 |
 
-← [[RAG]] · [[Ollama]] · [[open-webui-open-webui|Open WebUI]] · [[LangChain]] · [[self-hosted]]
+← [[rag]] · [[Ollama]] · [[open-webui-open-webui|Open WebUI]] · [[LangChain]] · [[self-hosted]]
 
 ## 來源
 

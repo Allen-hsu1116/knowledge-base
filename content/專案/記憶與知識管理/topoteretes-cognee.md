@@ -14,7 +14,7 @@ topics: ["ai-memory", "knowledge-graph", "ai-agents", "vector-database", "graph-
 
 ## 快速導航
 
-[[mem0ai-mem0|Mem0]] · [[rag]] · [[knowledge-graph]] · [[AI-Agent]] · [[MCP]]
+[[mem0ai-mem0|Mem0]] · [[rag]] · [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]]
 
 ## 是什麼
 
@@ -110,7 +110,7 @@ claude --plugin-dir ./cognee-integrations/integrations/claude-code
 
 ## 相關概念
 
-← [[mem0ai-mem0|Mem0]] · [[rag]] · [[knowledge-graph]] · [[AI-Agent]]
+← [[mem0ai-mem0|Mem0]] · [[rag]] · [[Knowledge-Graph]] · [[AI-Agent]]
 
 ## 來源
 

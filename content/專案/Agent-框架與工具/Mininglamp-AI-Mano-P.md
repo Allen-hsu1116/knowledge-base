@@ -65,7 +65,7 @@ pip install cider-sdk
 
 ## 來源
 
-> 完整 README 見 [[raw/2025-06-07-Mininglamp-AI-Mano-P|raw 檔案]]
+> 完整 README 見 raw 檔案
 
 ---
 

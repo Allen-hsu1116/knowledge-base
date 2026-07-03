@@ -10,7 +10,7 @@ language: zh-TW
 ## 2026-06-28（Lint 檢查）
 
 ### 修復項目
-- **斷掉的 cross-links (3)**：`FoundationAgents-MetaGPT.md` 中 `[[AutoGen]]` → `[[microsoft-autogen|AutoGen]]`；`github-awesome-copilot.md` 和 `wshobson-agents.md` 中 `[[Coding-Agent]]` → `[[Coding-Agent-CLI]]`
+- **斷掉的 cross-links (3)**：`FoundationAgents-MetaGPT.md` 中 `[[microsoft-autogen]]` → `[[microsoft-autogen|AutoGen]]`；`github-awesome-copilot.md` 和 `wshobson-agents.md` 中 `Coding-Agent` → `[[Coding-Agent-CLI]]`
 - **index.md 斷連 (9)**：移除了 9 個指向不存在 wiki 頁面的 wikilink（design-system-spec, in-page-gui-agent, llm-fine-tuning, multi-agent-framework, copilot-ecosystem, spec-driven-development, real-time-rag, prompt-optimization, social-media-crawler），改為純文字
 - **projects.md 日期排序 (5)**：修復了 5 處日期未按降序排列的問題（學習資源區、效能與壓縮區、應用區、Skill 生態系區）
 
@@ -178,7 +178,7 @@ language: zh-TW
   - `[[diffusion-model|擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
   - `[[rasbt-LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
   - `[[czlonkowski-n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
-  - `[[raw/...]]` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
+  - `raw/...` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
   - `CRM` `DNS` `NAS` — 拆掉非頁面 wikilink
   - `Vibe-Coding` → 純文字 "Vibe Coding"
   - `[[Coding-Agent-CLI]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`

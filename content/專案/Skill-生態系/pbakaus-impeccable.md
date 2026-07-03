@@ -81,7 +81,7 @@ npx skills add pbakaus/impeccable
 - raw/2026-06-02-pbakaus-impeccable.md
 - GitHub: [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - 官網: [impeccable.style](https://impeccable.style)
-- Raw 檔案: [[raw/2026-06-02-pbakaus-impeccable|原始資料]]
+- Raw 檔案: 原始資料
 
 ---
 
