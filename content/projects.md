@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-03
+updated: 2026-07-04
 ---
 
 # 專案索引
@@ -158,6 +158,7 @@ updated: 2026-07-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[elastic-elasticsearch\|Elasticsearch]] | ⭐77.3k | 分散式搜尋引擎, 向量資料庫, RAG, 全文搜尋, 混合搜尋, Lucene, Kibana | 2026-07-04 |
 | [[yichuan-w-LEANN\|LEANN]] | ⭐11,790 | RAG, 向量資料庫, MCP, 本地隱私 | 2026-05-28 |
 | [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
 | [[Qdrant]] | ⭐31,189 | RAG, 向量資料庫 | 2026-05-10 |
@@ -334,6 +335,7 @@ updated: 2026-07-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[supabase-supabase\|Supabase]] | ⭐105.5k | PostgreSQL 後端平台, pgvector, 向量搜尋, 認證, 即時訂閱, Edge Functions, Firebase 替代, 自架 | 2026-07-04 |
 | [[logto-io-logto\|Logto]] | ⭐12.7k | 認證基礎設施, OIDC, OAuth 2.1, SSO, RBAC, MCP, AI Agent 認證, 多租戶, 30+ SDK | 2026-06-30 |
 | [[Kong-insomnia\|Insomnia]] | ⭐38.7k | API Client, GraphQL/REST/gRPC, 開源, Apache-2.0 | 2026-06-19 |
 | [[dotnet-aspnetcore\|ASP.NET Core]] | ⭐38.1k | Web 框架, C#, 跨平台, 微軟開源, MIT | 2026-06-19 |
