@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-04
+updated: 2026-07-05
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[alirezarezvani-claude-skills\|Claude Code Skills & Plugins]] | ⭐20.2k | AI Skills, 354 Skills, 13 工具, Claude Code/Codex/Gemini, C-Level, 研究, 合規 | 2026-07-05 |
 | [[langflow-ai-langflow\|Langflow]] | ⭐150.7k | 視覺化 AI Agent 工作流, 拖拽設計, API/MCP 部署, 多 Agent 編排, Playground, LangSmith/LangFuse 整合 | 2026-07-03 |
 | [[diegosouzapw-OmniRoute\|OmniRoute]] | ⭐9.5k | AI Gateway, 236 提供者, RTK+Caveman 壓縮, 16+ 編碼代理, MCP, A2A, 免費 1.6B tokens/月 | 2026-07-02 |
 | [[ogulcancelik-herdr\|herdr]] | ⭐9k | Agent 多工器, 終端機, tmux-for-agents, 狀態感知, SSH 遠端, Socket API, 15+ Agent 支援, Rust | 2026-07-01 |
@@ -168,6 +169,7 @@ updated: 2026-07-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Zackriya-Solutions-meetily\|Meetily]] | ⭐15.3k | 隱私優先 AI 會議助手, 100% 本地, Whisper/Parakeet 轉錄, Ollama 摘要, 語者分離, Rust | 2026-07-05 |
 | [[altic-dev-FluidVoice\|FluidVoice]] | ⭐5.5k | macOS 聽寫, on-device STT, Fluid Intelligence, Command/Write Mode, 8+ 語音模型, 本地優先 | 2026-07-02 |
 | [[browser-use-video-use\|video-use]] | ⭐12.6k | Coding Agent 影片編輯, 文字優先理解, 自我評估迴圈, ElevenLabs Scribe, Skill 格式 | 2026-07-01 |
 | [[NanmiCoder-MediaCrawler\|MediaCrawler]] | ⭐52.8k | 社群媒體爬蟲, 小紅書/抖音/快手/B站/微博/貼吧/知乎, Playwright+CDP, WebUI | 2026-06-26 |
@@ -294,6 +296,7 @@ updated: 2026-07-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[CoplayDev-unity-mcp\|MCP for Unity]] | ⭐11.6k | MCP, Unity Editor, 47 工具, 遊戲開發, 自然語言操控, AI Agent | 2026-07-05 |
 | [[agentskills-agentskills\|Agent Skills]] | ⭐21.6k | Agent Skill 開放標準, SKILL.md 格式, 漸進式揭露, 跨產品複用, Anthropic 發起 | 2026-07-03 |
 | [[Fission-AI-OpenSpec\|OpenSpec]] | ⭐57.1k | Spec-Driven Development, 四步工作流, opsx, brownfield, AI coding | 2026-06-28 |
 | [[wshobson-agents\|wshobson/agents]] | ⭐37.2k | 插件市場, 88 插件 + 194 Agent + 158 Skill, 5 大 Harness, PluginEval | 2026-06-27 |
@@ -335,6 +338,8 @@ updated: 2026-07-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[rommapp-romm\|RomM]] | ⭐10.2k | 自架 ROM 管理器, 400+ 平台, EmulatorJS 瀏覽器遊玩, IGDB 中繼資料, AGPL | 2026-07-05 |
+| [[immich-app-immich\|Immich]] | ⭐105.6k | 自架照片/影片管理, Google Photos 替代, 人臉辨識, CLIP 搜尋, Flutter App, NestJS | 2026-07-05 |
 | [[supabase-supabase\|Supabase]] | ⭐105.5k | PostgreSQL 後端平台, pgvector, 向量搜尋, 認證, 即時訂閱, Edge Functions, Firebase 替代, 自架 | 2026-07-04 |
 | [[logto-io-logto\|Logto]] | ⭐12.7k | 認證基礎設施, OIDC, OAuth 2.1, SSO, RBAC, MCP, AI Agent 認證, 多租戶, 30+ SDK | 2026-06-30 |
 | [[Kong-insomnia\|Insomnia]] | ⭐38.7k | API Client, GraphQL/REST/gRPC, 開源, Apache-2.0 | 2026-06-19 |

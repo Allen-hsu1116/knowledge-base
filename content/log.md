@@ -2,10 +2,24 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-06-28
+updated: 2026-07-05
 stars: —
 language: zh-TW
 ---
+
+## 2026-07-05（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **immich-app/immich** — 高效能自架照片/影片管理，Google Photos 替代，人臉辨識 + CLIP 搜尋 + Flutter App（⭐ 105,632）
+- **alirezarezvani/claude-skills** — 354 個生產級 Claude Code Skills + Agent Plugins，支援 13 個 AI 編碼工具（⭐ 20,163）
+- **Zackriya-Solutions/meetily** — 隱私優先 AI 會議助手，100% 本地，Whisper/Parakeet 轉錄 + Ollama 摘要，Rust（⭐ 15,283）
+- **CoplayDev/unity-mcp** — MCP for Unity，透過 MCP 協議讓 AI 助手操控 Unity Editor，47 工具入口（⭐ 11,600）
+- **rommapp/romm** — 自架 ROM 管理器與播放器，400+ 平台，EmulatorJS 瀏覽器遊玩（⭐ 10,208）
+
+### 分類
+- 🏗 基礎設施：Immich, RomM
+- 🛠 Skill 生態系：Claude Code Skills & Plugins, MCP for Unity
+- 🎯 多媒體與爬蟲：Meetily
 
 ## 2026-06-28（Lint 檢查）
 
