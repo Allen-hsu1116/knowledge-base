@@ -3,7 +3,9 @@ title: Printing Press
 slug: printing-press
 created: 2026-05-09
 updated: 2026-05-09
+stars: 30
 language: zh-TW
+topics: [Prompt Engineering, 文件轉換]
 ---
 
 # Printing Press

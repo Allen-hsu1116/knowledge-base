@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 48112
 language: Rust
+topics: [AI Agent, MCP, ACP, 通用 Agent, Rust]
 ---
 
 # Goose

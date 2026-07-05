@@ -1,11 +1,13 @@
 ---
 title: Multica
 slug: multica-ai-multica
+created: 2026-05-24
 date: 2026-05-24
 stars: 31926
 repo: multica-ai/multica
 url: https://github.com/multica-ai/multica
 language: TypeScript
+topics: [AI Agent, Managed Agents, 多Agent協作]
 updated: 2026-06-14
 ---
 

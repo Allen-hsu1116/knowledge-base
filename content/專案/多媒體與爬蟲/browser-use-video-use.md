@@ -90,6 +90,11 @@ claude    # 或 codex, hermes 等
 
 ← [[anthropics-claude-code|Claude Code]] · [[browser-use-browser-use|Browser Use]] · [[AI-video-generation|AI 影片生成]] · [[content-automation|內容自動化]]
 
+
+## 相關概念
+
+← [[anthropics-claude-code]] · [[Coding-Agent-CLI]] · [[AI-video-generation]] · [[content-automation]]
+
 ## 來源
 
 - GitHub: <https://github.com/browser-use/video-use>

@@ -5,6 +5,7 @@ created: 2026-05-29
 updated: 2026-05-29
 stars: 17771
 language: TypeScript
+topics: [AI Skills, 複利工程, Coding Agent CLI]
 ---
 
 # Compound Engineering Plugin

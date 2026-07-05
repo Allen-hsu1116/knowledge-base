@@ -1,6 +1,8 @@
 ---
 title: AI 影片生成
 slug: AI-video-generation
+created: 2026-06-04
+updated: 2026-06-04
 language: zh-TW
 ---
 

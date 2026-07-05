@@ -1,10 +1,12 @@
 ---
 title: ECC
 slug: affaan-m-ECC
+created: 2026-05-20
 date: 2026-05-20
 stars: 187193
 repo: https://github.com/affaan-m/ECC
 language: JavaScript
+topics: [AI Agent, Harness, Token Optimization]
 updated: 2026-06-14
 ---
 

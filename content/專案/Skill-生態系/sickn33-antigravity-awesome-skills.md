@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 36,216
 language: zh-TW
+topics: [AI Skills, MCP, Prompt Engineering]
 ---
 
 # antigravity-awesome-skills

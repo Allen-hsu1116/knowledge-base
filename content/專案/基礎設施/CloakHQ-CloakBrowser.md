@@ -5,6 +5,7 @@ created: 2026-02-22
 updated: 2026-02-22
 stars: —
 language: zh-TW
+topics: [隱私, 瀏覽器, 反偵測]
 ---
 
 # CloakBrowser

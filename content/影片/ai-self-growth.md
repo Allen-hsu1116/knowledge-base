@@ -1,6 +1,8 @@
 ---
 title: AI Self-Growth 人工智慧自我成長
 slug: ai-self-growth
+created: 2026-06-04
+updated: 2026-06-04
 language: zh-TW
 ---
 

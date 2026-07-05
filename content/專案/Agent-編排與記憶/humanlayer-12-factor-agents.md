@@ -5,6 +5,7 @@ created: 2025-03-30
 updated: 2025-03-30
 stars: —
 language: zh-TW
+topics: [Agent 設計原則, 工程實踐]
 ---
 
 # 12-Factor Agents

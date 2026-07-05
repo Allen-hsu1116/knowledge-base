@@ -5,6 +5,7 @@ created: 2026-05-13
 stars: '⭐16611'
 updated: 2026-05-13
 language: zh-TW
+topics: [AI Agent, MCP, 金融交易]
 ---
 
 # AI-Trader 智能體交易平台

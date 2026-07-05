@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 99,208
 language: zh-TW
+topics: [語音辨識, 多模態]
 ---
 
 # Whisper

@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: —
 language: zh-TW
+topics: [ai-agent, agent-interaction, teaching]
 ---
 
 # AI Agent 之間的互動

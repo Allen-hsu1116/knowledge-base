@@ -5,6 +5,7 @@ created: 2026-06-06
 updated: 2026-06-06
 stars: 32684
 language: TypeScript
+topics: [AI Agent, Generative UI, AG-UI Protocol, React]
 ---
 
 # CopilotKit

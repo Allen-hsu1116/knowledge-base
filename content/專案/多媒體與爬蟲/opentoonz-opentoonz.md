@@ -5,6 +5,7 @@ created: 2026-05-22
 updated: 2026-05-22
 stars: 6347
 language: C++
+topics: [2D 動畫, 開源, 生成式 AI]
 ---
 
 # OpenToonz — 開源 2D 動畫創作軟體

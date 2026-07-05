@@ -87,6 +87,11 @@ npx agent-skills-cli add alirezarezvani/claude-skills --agent codex
 
 ← [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
+
+## 相關概念
+
+← [[AI-Skills]] · [[Coding-Agent-CLI]] · [[hermes-agent]] · [[NVIDIA-SkillSpector]]
+
 ## 來源
 
 - GitHub: https://github.com/alirezarezvani/claude-skills

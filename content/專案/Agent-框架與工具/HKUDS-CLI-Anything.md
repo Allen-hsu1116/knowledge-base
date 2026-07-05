@@ -5,6 +5,7 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 42231
 language: Python
+topics: [CLI, Agent-Native, MCP, Software-Automation]
 ---
 
 # CLI-Anything

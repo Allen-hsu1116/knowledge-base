@@ -5,6 +5,7 @@ created: 2026-02-24
 updated: 2026-02-24
 stars: 17,551
 language: zh-TW
+topics: [AI Agent, MCP, Knowledge Graph]
 ---
 
 # OpenFang

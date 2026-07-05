@@ -5,6 +5,7 @@ created: 2026-06-12
 updated: 2026-06-12
 stars: 131562
 language: TypeScript
+topics: [網頁爬蟲 API, LLM-ready, MCP, Agent]
 ---
 
 # Firecrawl

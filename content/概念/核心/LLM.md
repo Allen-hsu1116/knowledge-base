@@ -1,6 +1,8 @@
 ---
 title: LLM
 slug: LLM
+created: 2026-06-04
+updated: 2026-06-04
 language: zh-TW
 ---
 

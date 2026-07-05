@@ -5,6 +5,7 @@ created: 2026-04-28
 stars: '⭐37.9k'
 updated: 2026-04-28
 language: zh-TW
+topics: [Agent Skills, 開源 Skill 庫]
 ---
 
 # addyosmani/agent-skills

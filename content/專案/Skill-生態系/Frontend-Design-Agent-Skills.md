@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: —
 language: zh-TW
+topics: [frontend-design, agent-skills, design-system, web-testing, accessibility, ui-ux]
 ---
 
 # Frontend Design Agent Skills
@@ -19,6 +20,39 @@ language: zh-TW
 - 🧪 **自動化測試** → [[anthropics-skills|Anthropic Skills]] — webapp-testing Skill
 - 🤖 **Agent 生態系** → [[AI-Skills]] · [[AI-Skills]]
 - 🖌️ **Figma 整合** → [[Figma-Skills]]
+
+## 是什麼
+
+Frontend Design Agent Skills 是四個專注前端設計品質的 Agent Skill 總覽，涵蓋從設計哲學到規範審查、從設計系統建構到自動化測試的完整生命週期。這些 Skill 來自 Anthropic、Vercel 和 SoftaWorks 三個團隊，組合起來形成一個端到端的前端設計工作流。
+
+它們不是單一工具，而是一組可執行的操作手冊（SKILL.md），讓 AI Agent 在編碼前先確立設計方向、在編碼後審查品質、在完成後自動化測試。
+
+## 核心特色
+
+- **設計哲學引導** — frontend-design Skill 要求 Agent 拒絕「通用 AI 美學」，選擇獨特字體、銳利配色、非預期佈局
+- **規範動態取得** — web-design-guidelines 每次審查都從 GitHub 取得最新規則，不依賴本地快取
+- **完整設計系統** — design-system-starter 從 Token 到元件到主題到文件，一次產出生產級設計系統
+- **Playwright 自動化測試** — webapp-testing 用 Reconnaissance-then-Action 模式，先截圖識別 DOM 再操作
+- **四階段協作流程** — 設計構想 → 系統建立 → 品質審查 → 測試驗證，每階段對應一個 Skill
+
+## 怎麼用
+
+```bash
+# 1. 設計方向（frontend-design）
+# 將 Skill 安裝到 Claude Code / Codex / Cursor
+cp -r skills/frontend-design ~/.claude/skills/
+
+# 2. 規範審查（web-design-guidelines）
+cp -r skills/web-design-guidelines ~/.claude/skills/
+# Agent 會自動從 GitHub 取得最新審查規則
+
+# 3. 設計系統建構（design-system-starter）
+cp -r skills/design-system-starter ~/.claude/skills/
+
+# 4. 自動化測試（webapp-testing）
+cp -r skills/webapp-testing ~/.claude/skills/
+# 需要先安裝 Playwright: pip install playwright && playwright install
+```
 
 ## 核心內容
 

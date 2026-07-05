@@ -5,6 +5,7 @@ created: 2026-05-22
 updated: 2026-05-22
 stars: 4864
 language: TypeScript
+topics: [WhatsApp, API Gateway, 工作流自動化]
 ---
 
 # OpenWA — 開源 WhatsApp API Gateway

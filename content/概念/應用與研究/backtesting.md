@@ -1,6 +1,8 @@
 ---
 title: 回測
 slug: backtesting
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

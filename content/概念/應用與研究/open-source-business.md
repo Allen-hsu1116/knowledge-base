@@ -1,6 +1,8 @@
 ---
 title: 開源商業模式
 slug: open-source-business
+created: 2026-06-03
+updated: 2026-06-03
 language: zh-TW
 ---
 

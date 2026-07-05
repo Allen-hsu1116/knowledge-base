@@ -73,6 +73,11 @@ openspec init
 
 ← [[github-spec-kit|Spec Kit]] · [[Coding-Agent-CLI]] · [[context-engineering-basics|Context Engineering]]
 
+
+## 相關概念
+
+← [[github-spec-kit]] · [[Coding-Agent-CLI]] · [[context-engineering-basics]]
+
 ## 來源
 
 - GitHub: <https://github.com/Fission-AI/OpenSpec>

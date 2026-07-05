@@ -99,6 +99,11 @@ npx skills add anthropics/skills --skill code-review -g
 
 ← [[AI-Skills|AI Skills]] · [[anthropics-skills|Anthropic Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[AI-Skills|CLAUDE.md]]
 
+
+## 相關概念
+
+← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[anthropics-skills]]
+
 ## 來源
 
 - GitHub: <https://github.com/agentskills/agentskills>

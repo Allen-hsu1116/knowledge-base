@@ -5,6 +5,7 @@ created: 2026-05-09
 stars: '⭐100'
 updated: 2026-05-09
 language: zh-TW
+topics: [RAG, 搜尋引擎, 自架式]
 ---
 
 # Flamehaven Filesearch

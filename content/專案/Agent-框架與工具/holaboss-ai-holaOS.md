@@ -5,6 +5,7 @@ created: 2026-05-06
 stars: '⭐4757'
 updated: 2026-05-06
 language: zh-TW
+topics: [AI Agent, 環境工程, 記憶連續性]
 ---
 
 # holaOS

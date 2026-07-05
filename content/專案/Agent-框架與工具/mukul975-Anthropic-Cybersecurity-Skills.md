@@ -1,11 +1,13 @@
 ---
 title: Anthropic Cybersecurity Skills
 slug: mukul975-Anthropic-Cybersecurity-Skills
+created: 2026-05-24
 date: 2026-05-24
 stars: 7418
 repo: mukul975/Anthropic-Cybersecurity-Skills
 url: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 language: Python
+topics: [AI Skills, 網安, Cybersecurity]
 updated: 2026-06-14
 ---
 

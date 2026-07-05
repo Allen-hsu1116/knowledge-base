@@ -5,6 +5,7 @@ created: 2026-06-06
 updated: 2026-06-06
 stars: 9417
 language: Jupyter Notebook
+topics: [世界模型, Physical AI, 機器人, 自駕車, 多模態]
 ---
 
 # NVIDIA Cosmos

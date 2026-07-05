@@ -1,10 +1,12 @@
 ---
 title: ERPNext
 slug: frappe-erpnext
+created: 2026-05-20
 date: 2026-05-20
 stars: 34279
 repo: https://github.com/frappe/erpnext
 language: Python
+topics: [ERP, 企業管理, 開源]
 updated: 2026-06-14
 ---
 

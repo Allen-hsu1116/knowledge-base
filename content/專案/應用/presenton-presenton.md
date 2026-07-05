@@ -1,11 +1,13 @@
 ---
 title: Presenton
 slug: presenton-presenton
+created: 2026-05-24
 date: 2026-05-24
 stars: 6369
 repo: presenton/presenton
 url: https://github.com/presenton/presenton
 language: TypeScript
+topics: [AI, PPT, 簡報生成]
 updated: 2026-06-14
 ---
 

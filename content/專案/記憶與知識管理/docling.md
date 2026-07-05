@@ -1,11 +1,13 @@
 ---
 title: Docling
 slug: docling
+created: 2026-05-03
 source: https://github.com/docling-project/docling
 date: 2026-05-03
 stars: '⭐59878'
 updated: 2026-06-14
 language: zh-TW
+topics: [RAG, 文件解析]
 ---
 
 # Docling

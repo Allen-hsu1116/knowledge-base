@@ -5,6 +5,7 @@ created: 2022-02-12
 updated: 2026-05-26
 stars: 41336
 language: Python
+topics: [文件管理, OCR, 自架平台]
 ---
 
 # Paperless-ngx

@@ -5,6 +5,7 @@ created: 2026-05-08
 updated: 2026-05-26
 stars: 5829
 language: JavaScript
+topics: [AI Agent, 瀏覽器自動化, 反偵測]
 ---
 
 # Camofox Browser

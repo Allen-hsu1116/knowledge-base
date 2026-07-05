@@ -1,10 +1,12 @@
 ---
 title: Agency Agents
 slug: msitarzewski-agency-agents
+created: 2026-05-20
 date: 2026-05-20
 stars: 101621
 repo: https://github.com/msitarzewski/agency-agents
 language: Shell
+topics: [Agent Persona, AI Skills, 人格庫]
 updated: 2026-06-14
 ---
 

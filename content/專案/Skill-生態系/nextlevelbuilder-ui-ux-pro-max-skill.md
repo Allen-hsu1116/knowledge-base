@@ -3,9 +3,11 @@ title: "nextlevelbuilder/ui-ux-pro-max-skill"
 stars: 88842
 license: MIT
 language: Python
+topics: [AI Skills, Frontend Design, UI/UX]
 source: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 website: https://uupm.cc
 slug: nextlevelbuilder-ui-ux-pro-max-skill
+created: 2026-06-08
 updated: 2026-06-08
 ---
 

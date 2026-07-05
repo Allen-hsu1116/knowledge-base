@@ -1,6 +1,8 @@
 ---
 title: 免費軟體
 slug: free-software
+created: 2026-05-27
+updated: 2026-05-27
 language: zh-TW
 ---
 

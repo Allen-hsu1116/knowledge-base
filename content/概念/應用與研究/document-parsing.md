@@ -1,6 +1,8 @@
 ---
 title: 文件解析
 slug: document-parsing
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

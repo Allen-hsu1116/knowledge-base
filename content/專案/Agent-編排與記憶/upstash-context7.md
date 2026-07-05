@@ -1,11 +1,13 @@
 ---
 title: Context7
 slug: upstash-context7
+created: 2026-05-09
 source: https://github.com/upstash/context7
 date: 2026-05-09
 stars: '⭐54.8k'
 updated: 2026-06-14
 language: zh-TW
+topics: [LLM 文件查詢, MCP]
 ---
 
 # Context7

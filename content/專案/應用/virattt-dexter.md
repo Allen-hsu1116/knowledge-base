@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 23,560
 language: zh-TW
+topics: [LLM, AI Agent, 金融研究]
 ---
 
 # Dexter

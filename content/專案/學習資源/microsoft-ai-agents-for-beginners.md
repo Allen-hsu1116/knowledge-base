@@ -1,9 +1,11 @@
 ---
 title: microsoft/ai-agents-for-beginners
 slug: microsoft-ai-agents-for-beginners
+created: 2026-05-18
 date: 2026-05-18
 stars: 62542
 language: Jupyter Notebook
+topics: [AI Agent, 教學課程, MCP]
 source: https://github.com/microsoft/ai-agents-for-beginners
 updated: 2026-06-14
 ---

@@ -74,6 +74,11 @@ docker compose up -d
 
 ← [[harness-engineering|Harness Engineering]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
+
+## 相關概念
+
+← [[harness-engineering]] · [[AI-Agent]] · [[MCP]]
+
 ## 來源
 
 - GitHub: <https://github.com/zhayujie/CowAgent>

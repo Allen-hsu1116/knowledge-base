@@ -1,6 +1,8 @@
 ---
 title: RAG（檢索增強生成）
 slug: rag
+created: 2026-06-03
+updated: 2026-06-03
 language: zh-TW
 ---
 

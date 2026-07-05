@@ -5,6 +5,7 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 306
 language: JavaScript
+topics: [Video-Generation, Spec-Driven, Coding-Agent]
 ---
 
 # video-spec-builder

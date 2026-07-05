@@ -1,11 +1,13 @@
 ---
 title: waoowaoo
 slug: waoowaoo
+created: 2026-05-05
 aliases:
   - waoowaoo
 stars: '⭐12k'
 updated: 2026-06-14
 language: zh-TW
+topics: [ai, short-drama, video-production]
 ---
 
 # waoowaoo

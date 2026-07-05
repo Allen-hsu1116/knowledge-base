@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 18,951
 language: zh-TW
+topics: [AI Agent, AI Skills, MCP, 金融服務]
 ---
 
 # Anthropic Financial Services

@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 31,189
 language: zh-TW
+topics: [RAG, 向量資料庫]
 ---
 
 # Qdrant

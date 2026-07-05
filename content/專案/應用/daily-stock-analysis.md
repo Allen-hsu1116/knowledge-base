@@ -5,6 +5,7 @@ created: 2026-05-03
 stars: '⭐38.1k'
 updated: 2026-05-22
 language: zh-TW
+topics: [LLM, 股市分析, GitHub Actions]
 ---
 
 # 每日股票分析 (daily-stock-analysis)

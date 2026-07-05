@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 109,260
 language: zh-TW
+topics: [LLM, 推論加速, 本地部署]
 ---
 
 # llama.cpp

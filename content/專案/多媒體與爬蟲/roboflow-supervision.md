@@ -5,6 +5,7 @@ created: 2026-05-15
 stars: '⭐38878'
 updated: 2026-05-15
 language: zh-TW
+topics: [電腦視覺, 模型無關工具箱]
 ---
 
 # supervision

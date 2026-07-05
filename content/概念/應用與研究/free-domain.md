@@ -1,6 +1,8 @@
 ---
 title: 免費域名
 slug: free-domain
+created: 2026-05-27
+updated: 2026-05-27
 language: zh-TW
 ---
 

@@ -5,6 +5,7 @@ created: 2026-04-28
 stars: '⭐9.6k'
 updated: 2026-04-28
 language: zh-TW
+topics: [Agent Skills, GCP, 雲端]
 ---
 
 # Google Skills

@@ -5,6 +5,7 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: 79871
 language: Python
+topics: [OCR, 文件解析, LLM-Ready, RAG]
 ---
 
 # PaddleOCR

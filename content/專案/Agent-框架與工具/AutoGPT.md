@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 184,119
 language: zh-TW
+topics: [AI Agent, 自主規劃]
 ---
 
 # AutoGPT

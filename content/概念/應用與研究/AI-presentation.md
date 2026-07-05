@@ -1,6 +1,8 @@
 ---
 title: AI 簡報
 slug: AI-presentation
+created: 2026-06-04
+updated: 2026-06-04
 language: zh-TW
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: Free Claude Code
 slug: Alishahryar1-free-claude-code
+created: 2026-05-20
 date: 2026-05-20
 stars: 26376
 repo: https://github.com/Alishahryar1/free-claude-code
 language: Python
+topics: [Coding Agent CLI, LLM, AI Agent]
 updated: 2026-06-14
 ---
 

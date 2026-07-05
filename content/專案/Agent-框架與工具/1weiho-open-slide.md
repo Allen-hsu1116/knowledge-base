@@ -5,6 +5,7 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: 4744
 language: TypeScript
+topics: [AI Agent, Presentation, Agent-Native, React]
 license: MIT
 ---
 

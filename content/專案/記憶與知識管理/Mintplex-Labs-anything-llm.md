@@ -74,6 +74,11 @@ yarn dev:collector  # 啟動文檔收集器
 
 ← [[rag]] · [[Ollama]] · [[open-webui-open-webui|Open WebUI]] · [[LangChain]] · [[self-hosted]]
 
+
+## 相關概念
+
+← [[rag]] · [[Ollama]] · [[open-webui-open-webui]]
+
 ## 來源
 
 - GitHub: <https://github.com/Mintplex-Labs/anything-llm>

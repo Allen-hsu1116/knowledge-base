@@ -5,6 +5,7 @@ created: 2026-05-30
 updated: 2026-05-30
 stars: 26965
 language: TypeScript
+topics: [離線知識伺服器, 自架 AI 平台, Ollama, RAG]
 ---
 
 # Project N.O.M.A.D.

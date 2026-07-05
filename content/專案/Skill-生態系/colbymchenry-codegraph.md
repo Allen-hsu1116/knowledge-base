@@ -4,6 +4,7 @@ slug: colbymchenry-codegraph
 github: https://github.com/colbymchenry/codegraph
 stars: 3112
 language: TypeScript
+topics: [程式碼智慧, Knowledge Graph, MCP]
 created: 2026-01-18
 added: 2026-05-17
 updated: 2026-01-18

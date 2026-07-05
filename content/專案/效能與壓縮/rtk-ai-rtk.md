@@ -1,12 +1,14 @@
 ---
 title: RTK (Rust Token Killer)
 slug: rtk-ai-rtk
+created: 2026-05-03
 aliases:
   - rtk-ai-rtk
   - RTK AI
 stars: '⭐6k'
 updated: 2026-06-14
 language: zh-TW
+topics: [token-optimization, prompt-engineering, compression]
 ---
 
 # RTK (Rust Token Killer)

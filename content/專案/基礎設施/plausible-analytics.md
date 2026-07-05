@@ -5,6 +5,7 @@ created: 2018-12-04
 updated: 2018-12-04
 stars: —
 language: zh-TW
+topics: [隱私分析, 網站統計, GDPR 合規]
 ---
 
 # Plausible Analytics

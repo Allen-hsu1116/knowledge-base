@@ -5,6 +5,7 @@ created: 2026-05-09
 stars: '⭐5.7'
 updated: 2026-05-09
 language: zh-TW
+topics: [Knowledge Graph, JavaScript]
 ---
 
 # fireworks-tech-graph

@@ -1,6 +1,8 @@
 ---
 title: 生產力
 slug: productivity
+created: 2026-06-16
+updated: 2026-06-16
 language: zh-TW
 ---
 

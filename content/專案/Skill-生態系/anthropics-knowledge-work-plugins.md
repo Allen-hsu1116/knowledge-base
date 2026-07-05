@@ -5,6 +5,7 @@ url: https://github.com/anthropics/knowledge-work-plugins
 stars: 15460
 created: 2026-01-23
 language: Python
+topics: [AI Skills, MCP, Prompt Engineering]
 date: 2026-05-26
 updated: 2026-01-23
 ---

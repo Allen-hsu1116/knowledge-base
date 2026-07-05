@@ -5,6 +5,7 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 113600
 language: Python
+topics: [LLM, RAG, AI-Agent, Awesome-List]
 ---
 
 # Awesome LLM Apps

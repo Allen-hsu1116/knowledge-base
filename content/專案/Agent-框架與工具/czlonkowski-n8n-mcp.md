@@ -1,10 +1,12 @@
 ---
 title: n8n-MCP
 slug: czlonkowski-n8n-mcp
+created: 2026-05-16
 date: 2026-05-16
 stars: '⭐21031'
 updated: 2026-06-14
 language: zh-TW
+topics: [MCP, AI Agent, 工作流自動化]
 ---
 
 # n8n-MCP

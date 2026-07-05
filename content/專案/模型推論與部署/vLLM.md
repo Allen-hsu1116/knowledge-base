@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 79,515
 language: zh-TW
+topics: [LLM, 推論加速]
 ---
 
 # vLLM

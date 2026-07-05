@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: —
 language: zh-TW
+topics: [Token Optimization, LLM 推理加速]
 ---
 
 # Gemma 4 MTP Drafters

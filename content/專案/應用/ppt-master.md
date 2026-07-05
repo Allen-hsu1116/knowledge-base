@@ -1,12 +1,14 @@
 ---
 title: PPT Master
 slug: ppt-master
+created: 2026-05-05
 aliases:
   - ppt-master
   - PPT Master
 stars: '⭐11.3k'
 updated: 2026-06-14
 language: zh-TW
+topics: [ai, ppt, presentation]
 ---
 
 # PPT Master

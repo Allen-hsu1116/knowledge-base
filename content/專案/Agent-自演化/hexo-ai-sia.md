@@ -5,6 +5,7 @@ created: 2026-03-25
 updated: 2026-06-14
 stars: 1655
 language: Python
+topics: [Self-Improving AI, Harness + 權重更新, 基準測試驅動]
 ---
 
 # SIA (Self-Improving AI)

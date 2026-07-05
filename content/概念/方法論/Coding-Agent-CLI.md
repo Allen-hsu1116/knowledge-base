@@ -1,6 +1,8 @@
 ---
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 147937
 language: Python
+topics: [AI Skills, Frontend Design, Web Testing]
 ---
 
 # Anthropic Skills

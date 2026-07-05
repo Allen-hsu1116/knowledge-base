@@ -1,11 +1,13 @@
 ---
 title: Frigate NVR
 slug: blakeblackshear-frigate
+created: 2026-05-26
 date: 2026-05-25
 stars: 32846
 repo: blakeblackshear/frigate
 url: https://github.com/blakeblackshear/frigate
 language: TypeScript
+topics: [邊緣AI, 電腦視覺, 自架NVR]
 updated: 2026-06-14
 ---
 

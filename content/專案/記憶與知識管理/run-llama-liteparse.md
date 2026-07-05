@@ -5,6 +5,7 @@ created: 2026-05-30
 updated: 2026-05-30
 stars: 7302
 language: Rust
+topics: [文件解析, PDF, OCR, Rust]
 ---
 
 # LiteParse

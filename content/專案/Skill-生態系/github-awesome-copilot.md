@@ -67,6 +67,11 @@ copilot plugin install <plugin-name>@awesome-copilot
 
 ← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code|Claude Code]] · [[MCP]] · [[Coding-Agent-CLI]]
 
+
+## 相關概念
+
+← [[AI-Skills]] · [[anthropics-claude-code]] · [[MCP]]
+
 ## 來源
 
 - GitHub: <https://github.com/github/awesome-copilot>

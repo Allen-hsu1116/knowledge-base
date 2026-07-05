@@ -1,6 +1,8 @@
 ---
 title: 擴散模型
 slug: diffusion-model
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

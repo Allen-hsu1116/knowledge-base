@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 171,080
 language: zh-TW
+topics: [LLM, 本地部署]
 ---
 
 # Ollama

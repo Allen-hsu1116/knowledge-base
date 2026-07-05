@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 11,300
 language: zh-TW
+topics: [AI, PPT, 可編輯]
 ---
 
 # PPT Master

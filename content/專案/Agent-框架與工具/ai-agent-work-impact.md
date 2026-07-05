@@ -1,8 +1,11 @@
 ---
 title: AI Agent 對工作的衝擊（學術研究篇）
 slug: ai-agent-work-impact
+created: 2026-05-03
 updated: 2026-06-14
+stars: —
 language: zh-TW
+topics: [ai-agent, work-impact, teaching]
 ---
 
 # AI Agent 對工作的衝擊（學術研究篇）
@@ -27,7 +30,7 @@ AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具�
 
 ## 核心特色
 
-- **100 倍 Research Assistant**：Stanford 教授 Andrew Hall 用 Claude Code 一小時寫完論文，博士生需 16 小時、成本 $1000 vs $10——便宜 100 倍
+- **100 倍 Research Assistant**：Stanford 教授 Andrew Hall 用 Claude Code 一小時寫完論文，博士生需 16 小時、成本 \$1000 vs \$10——便宜 100 倍
 - **AI 產生研究 Idea 的表面新穎性**：2024 年研究顯示 LLM 產生的 idea 在 novelty 上超越人類，但 2025 年續作發現實作後 novelty 大幅下降——AI 擅長堆砌新穎詞彙，但實作性不足
 - **AI 審稿的信任危機**：AAAI 2026 正式引入 AI reviewer（只給意見不打分），但人類 reviewer 背後可能也在用 AI——「反對的不是用 AI review，而是用不夠好的 AI review」
 - **研究閉環的風險**：AI 寫論文 → AI 審稿 → AI 接受 → 技術自動進步。但被接受的論文中，人類在「點子發想」和「實驗設計」的介入度明顯較高

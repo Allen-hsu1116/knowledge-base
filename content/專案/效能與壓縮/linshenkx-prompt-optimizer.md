@@ -78,6 +78,11 @@ npm run dev
 
 ← [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]] · [[promptfoo-promptfoo|Promptfoo]]
 
+
+## 相關概念
+
+← [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]]
+
 ## 來源
 
 - GitHub: <https://github.com/linshenkx/prompt-optimizer>

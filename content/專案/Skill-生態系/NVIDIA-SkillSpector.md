@@ -5,6 +5,7 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 3496
 language: Python
+topics: [Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩]
 ---
 
 # SkillSpector

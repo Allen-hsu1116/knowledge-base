@@ -5,6 +5,7 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: 25031
 language: TypeScript
+topics: [NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast]
 ---
 
 # Open Notebook

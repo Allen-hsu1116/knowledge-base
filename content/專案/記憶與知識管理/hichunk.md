@@ -5,6 +5,7 @@ created: 2026-05-13
 stars: '⭐96'
 updated: 2026-05-13
 language: zh-TW
+topics: [RAG, 文件分塊, 階層式結構化]
 ---
 
 # HiChunk

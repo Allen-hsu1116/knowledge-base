@@ -5,6 +5,7 @@ created: 2026-05-09
 stars: '⭐47k'
 updated: 2026-05-09
 language: zh-TW
+topics: [多Agent編排, Swarm, 聯邦通訊]
 ---
 
 # Ruflo

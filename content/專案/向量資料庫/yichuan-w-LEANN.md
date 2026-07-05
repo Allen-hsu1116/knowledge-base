@@ -5,6 +5,7 @@ created: 2026-05-28
 updated: 2026-05-28
 stars: 11790
 language: Python
+topics: [RAG, 向量資料庫, MCP, 本地隱私]
 ---
 
 # LEANN

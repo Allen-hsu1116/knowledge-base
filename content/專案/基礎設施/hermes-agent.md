@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 154,414
 language: zh-TW
+topics: [AI Agent, 學習閉環, 跨 session 記憶]
 ---
 
 # Hermes Agent

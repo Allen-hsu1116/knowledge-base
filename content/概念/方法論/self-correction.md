@@ -1,6 +1,8 @@
 ---
 title: Self-Correction 自我修正
 slug: self-correction
+created: 2026-05-03
+updated: 2026-05-03
 language: zh-TW
 ---
 

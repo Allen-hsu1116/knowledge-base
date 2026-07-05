@@ -1,6 +1,8 @@
 ---
 title: AI Agent 人格與角色設計
 slug: agent-persona
+created: 2026-05-05
+updated: 2026-05-05
 language: zh-TW
 ---
 

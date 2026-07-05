@@ -5,6 +5,7 @@ created: 2026-06-03
 updated: 2026-06-03
 stars: 8356
 language: Python
+topics: [AI 陪伴, VTuber, Live2D, 語音互動, 離線]
 ---
 
 # Open-LLM-VTuber

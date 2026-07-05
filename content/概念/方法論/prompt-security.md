@@ -1,6 +1,8 @@
 ---
 title: Prompt 安全與越獄
 slug: prompt-security
+created: 2026-06-22
+updated: 2026-06-22
 language: zh-TW
 ---
 

@@ -5,6 +5,7 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 5268
 language: JavaScript
+topics: [免費軟體, 工具策展, 開源]
 ---
 
 # Awesome Free Apps

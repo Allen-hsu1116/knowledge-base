@@ -5,6 +5,7 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 7176
 language: Rust
+topics: [MCP, 檔案搜尋, AI Agent 工具, Neovim]
 ---
 
 # FFF

@@ -5,6 +5,7 @@ created: 2026-05-15
 stars: 49,422
 updated: 2026-05-15
 language: zh-TW
+topics: [RAG, 資料框架, 文件解析]
 ---
 
 # LlamaIndex

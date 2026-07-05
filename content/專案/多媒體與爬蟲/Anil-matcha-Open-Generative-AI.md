@@ -4,6 +4,7 @@ slug: Anil-matcha-Open-Generative-AI
 github: https://github.com/Anil-matcha/Open-Generative-AI
 stars: 14436
 language: JavaScript
+topics: [生成式 AI, 影片生成, 開源]
 created: 2023-05-09
 added: 2026-05-17
 updated: 2023-05-09

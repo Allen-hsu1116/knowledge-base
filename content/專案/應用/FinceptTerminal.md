@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 22,646
 language: zh-TW
+topics: [AI Agent, 金融預測, 金融分析]
 ---
 
 # Fincept Terminal

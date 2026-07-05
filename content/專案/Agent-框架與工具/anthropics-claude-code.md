@@ -5,6 +5,7 @@ created: 2026-05-30
 updated: 2026-05-30
 stars: 127875
 language: Python
+topics: [Coding Agent CLI, AI Agent, Git 工作流]
 ---
 
 # Claude Code

@@ -5,6 +5,7 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 12114
 language: TypeScript
+topics: [股市追蹤, 開源, 即時報價]
 ---
 
 # OpenStock

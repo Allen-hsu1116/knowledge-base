@@ -1,6 +1,8 @@
 ---
 title: 可觀測性
 slug: observability
+created: 2026-06-12
+updated: 2026-06-12
 language: zh-TW
 ---
 

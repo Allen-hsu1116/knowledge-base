@@ -1,6 +1,8 @@
 ---
 title: 工作流自動化
 slug: workflow-automation
+created: 2026-06-15
+updated: 2026-06-15
 language: zh-TW
 ---
 

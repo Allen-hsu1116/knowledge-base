@@ -5,6 +5,7 @@ created: 2026-06-06
 updated: 2026-06-06
 stars: 9244
 language: Java
+topics: [AI Agent, Agent SDK, MCP, BYOK]
 ---
 
 # GitHub Copilot SDK

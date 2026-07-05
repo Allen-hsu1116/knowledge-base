@@ -5,6 +5,7 @@ created: 2025-06-07
 updated: 2025-06-07
 stars: 2288
 language: Python/Model
+topics: [VLA, GUI-Agent, Computer-Use, Edge-AI]
 ---
 
 # Mano-P

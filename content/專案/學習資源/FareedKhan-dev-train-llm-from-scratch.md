@@ -5,6 +5,7 @@ created: 2026-05-31
 updated: 2026-05-31
 stars: 2258
 language: Jupyter Notebook
+topics: [LLM, 從零訓練, 教學, Transformer]
 ---
 
 # Train LLM From Scratch

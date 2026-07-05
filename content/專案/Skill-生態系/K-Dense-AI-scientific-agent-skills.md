@@ -5,6 +5,7 @@ created: 2026-05-14
 stars: '⭐21'
 updated: 2026-05-14
 language: zh-TW
+topics: [AI Skills, AI Agent, 科學研究]
 ---
 
 # Scientific Agent Skills

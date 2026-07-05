@@ -79,6 +79,11 @@ pnpm install
 
 ← [[語音辨識|語音辨識]] · [[self-hosted|自架]]
 
+
+## 相關概念
+
+← [[語音辨識]] · [[self-hosted]] · [[Ollama]] · [[privacy]]
+
 ## 來源
 
 - GitHub: https://github.com/Zackriya-Solutions/meetily

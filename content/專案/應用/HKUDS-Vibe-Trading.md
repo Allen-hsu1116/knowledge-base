@@ -5,6 +5,7 @@ created: 2026-05-06
 stars: '⭐5120'
 updated: 2026-05-06
 language: zh-TW
+topics: [AI Agent, AI Skills, MCP, 金融交易]
 ---
 
 # Vibe-Trading

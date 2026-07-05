@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: —
 language: zh-TW
+topics: [ai-agent, openclaw, agent-anatomy, teaching]
 ---
 
 # 解剖小龍蝦 — AI Agent 運作原理

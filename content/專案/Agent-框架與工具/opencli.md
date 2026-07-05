@@ -1,10 +1,13 @@
 ---
 title: OpenCLI
 slug: opencli
+created: 2026-05-05
 aliases:
   - OpenCLI
 updated: 2026-06-14
+stars: 18,700
 language: zh-TW
+topics: [ai-agent, mcp, ai-skills]
 ---
 
 # OpenCLI

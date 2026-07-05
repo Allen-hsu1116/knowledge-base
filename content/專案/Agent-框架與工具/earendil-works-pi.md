@@ -1,11 +1,13 @@
 ---
 title: Pi Agent Harness
 slug: earendil-works-pi
+created: 2026-05-26
 date: 2026-05-25
 stars: 53931
 repo: earendil-works/pi
 url: https://github.com/earendil-works/pi
 language: TypeScript
+topics: [Coding Agent CLI, Agent Skills, Agent Runtime]
 updated: 2026-06-14
 ---
 

@@ -103,6 +103,11 @@ function App() {
 
 ← [[MCP]] · [[AI-Agent]] · [[n8n-io-n8n|n8n]] · [[self-hosted|自架 AI 平台]]
 
+
+## 相關概念
+
+← [[MCP]] · [[AI-Agent]] · [[n8n-io-n8n]] · [[Kong-insomnia]]
+
 ## 來源
 
 - GitHub: <https://github.com/logto-io/logto>

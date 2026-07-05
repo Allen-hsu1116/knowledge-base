@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 4,108
 language: zh-TW
+topics: [Coding Agent CLI, LSP, 自主記憶]
 ---
 
 # Oh My Pi

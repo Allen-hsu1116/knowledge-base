@@ -1,6 +1,8 @@
 ---
 title: LLM 知識庫系統
 slug: llm-knowledge-base
+created: 2026-04-28
+updated: 2026-04-28
 language: zh-TW
 ---
 

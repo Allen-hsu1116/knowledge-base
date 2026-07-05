@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 2038
 language: JavaScript
+topics: [AI Skills, Mobile, React Native]
 ---
 
 # Expo Skills

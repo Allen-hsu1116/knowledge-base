@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 6361
 language: zh-TW
+topics: [擴散模型, 影片生成, 世界模型]
 ---
 
 # NVlabs Sana

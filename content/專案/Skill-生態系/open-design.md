@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 30,632
 language: zh-TW
+topics: [AI Skills, Coding Agent CLI, Prompt Engineering]
 ---
 
 # Open Design

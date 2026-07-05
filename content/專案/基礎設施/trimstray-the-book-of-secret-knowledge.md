@@ -5,6 +5,7 @@ created: 2026-05-22
 updated: 2026-05-22
 stars: —
 language: zh-TW
+topics: [DevOps, 資安, 系統管理, 工具全集]
 ---
 
 # the-book-of-secret-knowledge

@@ -1,6 +1,8 @@
 ---
 title: 邊緣裝置 AI
 slug: embedded-AI
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

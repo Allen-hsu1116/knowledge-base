@@ -1,6 +1,8 @@
 ---
 title: 世界模型
 slug: world-model
+created: 2026-06-20
+updated: 2026-06-20
 language: zh-TW
 ---
 

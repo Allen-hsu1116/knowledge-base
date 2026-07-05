@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 51,031
 language: zh-TW
+topics: [AI Agent, 多 Agent 協作]
 ---
 
 # CrewAI

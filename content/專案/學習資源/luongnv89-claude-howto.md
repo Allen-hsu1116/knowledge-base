@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 35777
 language: Python
+topics: [Claude Code, 學習指南, Slash Commands, Skills, Hooks]
 ---
 
 # Claude HowTo

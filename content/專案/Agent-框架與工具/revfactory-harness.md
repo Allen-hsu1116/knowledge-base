@@ -5,6 +5,7 @@ created: 2026-05-29
 updated: 2026-05-29
 stars: 3887
 language: HTML
+topics: [AI Agent, Agent 團隊, Harness Engineering]
 ---
 
 # Harness — Agent 團隊架構工廠

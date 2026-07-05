@@ -5,6 +5,7 @@ created: 2026-05-22
 updated: 2026-05-22
 stars: —
 language: zh-TW
+topics: [MCP, Browser, AI Agent]
 ---
 
 # chrome-devtools-mcp

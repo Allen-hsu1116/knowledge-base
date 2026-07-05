@@ -1,6 +1,8 @@
 ---
 title: GraphRAG
 slug: GraphRAG
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

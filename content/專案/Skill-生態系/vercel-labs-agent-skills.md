@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 27725
 language: JavaScript
+topics: [AI Skills, Web Design, Accessibility]
 ---
 
 # Vercel Agent Skills

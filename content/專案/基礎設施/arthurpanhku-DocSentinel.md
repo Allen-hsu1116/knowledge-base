@@ -5,6 +5,7 @@ created: 2026-05-29
 updated: 2026-05-29
 stars: 88
 language: Python
+topics: [SSDLC, 安全評估, MCP, RAG]
 ---
 
 # DocSentinel — SSDLC 安全評估平台

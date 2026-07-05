@@ -1,10 +1,12 @@
 ---
 title: OpenHuman
 slug: tinyhumansai-openhuman
+created: 2026-05-16
 date: 2026-05-16
 stars: '⭐9.1k'
 updated: 2026-06-14
 language: zh-TW
+topics: [AI Agent, MCP, 記憶]
 ---
 
 # OpenHuman

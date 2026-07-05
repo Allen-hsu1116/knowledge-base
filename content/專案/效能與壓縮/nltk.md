@@ -5,6 +5,7 @@ created: 2026-05-16
 stars: 14,500
 updated: 2026-05-16
 language: zh-TW
+topics: [NLP, 分詞, 詞性標注, 語料庫]
 ---
 
 # NLTK

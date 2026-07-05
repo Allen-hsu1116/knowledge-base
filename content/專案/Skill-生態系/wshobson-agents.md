@@ -78,6 +78,11 @@ make garden       # 漂移/死鏈/上限檢測
 
 ← [[anthropics-claude-code|Claude Code]] · [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 
+
+## 相關概念
+
+← [[anthropics-claude-code]] · [[AI-Skills]] · [[MCP]]
+
 ## 來源
 
 - GitHub: <https://github.com/wshobson/agents>

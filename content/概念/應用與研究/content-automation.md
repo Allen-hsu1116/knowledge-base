@@ -1,6 +1,8 @@
 ---
 title: 內容自動化
 slug: content-automation
+created: 2025-06-07
+updated: 2025-06-07
 language: zh-TW
 ---
 

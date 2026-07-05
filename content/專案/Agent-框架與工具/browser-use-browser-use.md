@@ -5,6 +5,7 @@ created: 2026-06-12
 updated: 2026-06-12
 stars: 98341
 language: Python
+topics: [瀏覽器 Agent, Computer-Use, Rust 核心, MCP]
 ---
 
 # Browser Use

@@ -77,6 +77,11 @@ Immich 與 [[paperless-ngx-paperless-ngx|Paperless-ngx]] 都屬自架媒體管�
 
 ← [[self-hosted|自架]] · [[media-streaming|媒體串流]]
 
+
+## 相關概念
+
+← [[self-hosted]] · [[media-streaming]] · [[paperless-ngx-paperless-ngx]]
+
 ## 來源
 
 - GitHub: https://github.com/immich-app/immich

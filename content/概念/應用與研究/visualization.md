@@ -1,6 +1,8 @@
 ---
 title: 資料視覺化
 slug: visualization
+created: 2026-05-28
+updated: 2026-05-28
 language: zh-TW
 ---
 

@@ -5,6 +5,7 @@ created: 2026-05-06
 stars: '⭐5672'
 updated: 2026-05-06
 language: zh-TW
+topics: [AI Agent, AI Skills, 小說寫作]
 ---
 
 # InkOS

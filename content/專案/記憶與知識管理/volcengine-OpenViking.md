@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 23,398
 language: zh-TW
+topics: [Context Database, RAG, AI Agent]
 ---
 
 # OpenViking

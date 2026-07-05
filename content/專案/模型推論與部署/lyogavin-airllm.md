@@ -5,6 +5,7 @@ created: 2026-06-04
 updated: 2026-06-04
 stars: 18902
 language: Jupyter Notebook
+topics: [LLM, 分層推理, 低 VRAM, 記憶體最佳化]
 ---
 
 # AirLLM

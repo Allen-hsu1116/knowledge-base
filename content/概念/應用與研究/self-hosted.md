@@ -1,6 +1,8 @@
 ---
 title: 自架（Self-Hosted）
 slug: self-hosted
+created: 2026-06-05
+updated: 2026-06-05
 language: zh-TW
 ---
 

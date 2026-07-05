@@ -5,6 +5,7 @@ created: 2026-02-23
 updated: 2026-02-23
 stars: 15,781
 language: zh-TW
+topics: [AI Agent, AI Skills, MCP]
 ---
 
 # Edict（三省六部）

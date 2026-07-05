@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 22,343
 language: zh-TW
+topics: [LLM, 神經網路, 教學]
 ---
 
 # nn-zero-to-hero

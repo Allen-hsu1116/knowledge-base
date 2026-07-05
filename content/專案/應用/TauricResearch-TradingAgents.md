@@ -5,6 +5,7 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 81772
 language: Python
+topics: [AI Agent, 多Agent交易, LLM, 金融預測]
 ---
 
 # TradingAgents

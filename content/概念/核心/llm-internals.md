@@ -1,6 +1,8 @@
 ---
 title: LLM 底層技術
 slug: llm-internals
+created: 2026-06-04
+updated: 2026-06-04
 language: zh-TW
 ---
 

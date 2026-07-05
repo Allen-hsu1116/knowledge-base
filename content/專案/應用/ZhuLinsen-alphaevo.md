@@ -5,6 +5,7 @@ created: 2026-05-21
 updated: 2026-05-28
 stars: 38100
 language: Python
+topics: [策略回測, 金融預測, 自演化]
 ---
 
 # AlphaEvo

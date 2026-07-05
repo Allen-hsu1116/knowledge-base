@@ -102,6 +102,11 @@ for epoch in range(10):
 
 ← [[huggingface-transformers|Hugging Face Transformers]] · [[vLLM]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
 
+
+## 相關概念
+
+← [[huggingface-transformers]] · [[llama-cpp]] · [[microsoft-AI-For-Beginners]] · [[rasbt-LLMs-from-scratch]]
+
 ## 來源
 
 - GitHub: <https://github.com/pytorch/pytorch>

@@ -1,6 +1,8 @@
 ---
 title: Knowledge Graph（知識圖譜）
 slug: Knowledge-Graph
+created: 2026-06-22
+updated: 2026-06-22
 language: zh-TW
 ---
 

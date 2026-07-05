@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 49,797
 language: zh-TW
+topics: [LLM, 從零訓練, 教學]
 ---
 
 # MiniMind

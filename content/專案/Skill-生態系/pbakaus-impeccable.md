@@ -5,6 +5,7 @@ created: 2026-06-02
 updated: 2026-06-02
 stars: 32698
 language: JavaScript
+topics: [AI Skills, 前端設計, 設計語言, 反模式]
 ---
 
 # Impeccable

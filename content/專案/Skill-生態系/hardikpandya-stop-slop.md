@@ -5,6 +5,7 @@ created: 2026-01-11
 updated: 2026-05-28
 stars: 5700
 language: Markdown
+topics: [AI Skills, Prompt Engineering, 寫作品質]
 ---
 
 # Stop Slop

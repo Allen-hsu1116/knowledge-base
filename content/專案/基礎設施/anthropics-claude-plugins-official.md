@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 18,801
 language: zh-TW
+topics: [AI Skills, MCP, Plugin 生態系]
 ---
 
 # Claude Plugins Official

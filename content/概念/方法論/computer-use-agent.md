@@ -1,6 +1,8 @@
 ---
 title: Computer Use Agent
 slug: computer-use-agent
+created: 2026-05-18
+updated: 2026-05-18
 language: zh-TW
 ---
 

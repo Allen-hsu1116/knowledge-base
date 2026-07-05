@@ -1,12 +1,14 @@
 ---
 title: MemPalace
 slug: MemPalace-mempalace
+created: 2026-05-03
 aliases:
   - MemPalace-mempalace
   - MemPalace
 stars: '⭐50787'
 updated: 2026-06-14
 language: zh-TW
+topics: [memory, mcp, rag, knowledge-graph, ai-agent]
 ---
 
 # MemPalace

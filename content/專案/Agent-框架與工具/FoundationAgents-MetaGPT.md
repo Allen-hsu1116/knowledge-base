@@ -85,6 +85,11 @@ asyncio.run(main())
 
 ← [[LangChain]] · [[CrewAI]] · [[microsoft-autogen|AutoGen]] · [[LLM]] · [[AI-Agent]]
 
+
+## 相關概念
+
+← [[LangChain]] · [[CrewAI]] · [[microsoft-autogen]]
+
 ## 來源
 
 - GitHub: <https://github.com/FoundationAgents/MetaGPT>

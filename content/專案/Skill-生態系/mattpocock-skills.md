@@ -1,9 +1,11 @@
 ---
 title: Matt Pocock Skills
 slug: mattpocock-skills
+created: 2026-05-18
 stars: 89,433
 updated: 2026-06-14
 language: zh-TW
+topics: [AI Skills, 工程實踐, 對齊, 架構]
 ---
 
 # Matt Pocock Skills

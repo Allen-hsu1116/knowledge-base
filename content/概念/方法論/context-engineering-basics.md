@@ -1,6 +1,8 @@
 ---
 title: Context Engineering 基本概念
 slug: context-engineering-basics
+created: 2026-05-03
+updated: 2026-05-03
 language: zh-TW
 ---
 

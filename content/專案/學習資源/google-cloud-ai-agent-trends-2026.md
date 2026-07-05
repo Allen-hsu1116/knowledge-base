@@ -5,6 +5,7 @@ created: 2026-06-05
 updated: 2026-06-05
 stars: —
 language: —
+topics: [Agentic AI, AI Agent, Agent Workflow, Enterprise AI]
 ---
 
 # Google Cloud AI Agent Trends 2026

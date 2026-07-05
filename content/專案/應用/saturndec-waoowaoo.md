@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 12,000
 language: zh-TW
+topics: [AI, 短劇, 影片製作]
 ---
 
 # waoowaoo AI 影視 Studio

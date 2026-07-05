@@ -122,6 +122,11 @@ Elasticsearch 與 [[Milvus]]、[[Qdrant]]、[[Chroma]] 等專用向量資料庫�
 
 ← [[向量資料庫]] · [[rag|RAG]] · [[Milvus]]
 
+
+## 相關概念
+
+← [[向量資料庫]] · [[rag]] · [[Milvus]] · [[qmd]]
+
 ## 來源
 
 - [GitHub: elastic/elasticsearch](https://github.com/elastic/elasticsearch)

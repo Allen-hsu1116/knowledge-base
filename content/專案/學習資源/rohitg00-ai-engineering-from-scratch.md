@@ -5,6 +5,7 @@ created: 2026-05-22
 updated: 2026-05-22
 stars: 9567
 language: Python
+topics: [LLM, AI Agent, MCP, 教學]
 ---
 
 # AI Engineering from Scratch

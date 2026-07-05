@@ -1,9 +1,11 @@
 ---
 title: DS4
 slug: ds4
+created: 2026-05-13
 stars: '⭐10277'
 updated: 2026-06-14
 language: zh-TW
+topics: [LLM, 推論加速, 本地部署, DeepSeek]
 ---
 
 # DS4 — DeepSeek 4 Flash 本地推論引擎

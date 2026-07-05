@@ -1,11 +1,13 @@
 ---
 title: cmux
 slug: manaflow-ai-cmux
+created: 2026-05-26
 date: 2026-05-25
 stars: 19020
 repo: manaflow-ai/cmux
 url: https://github.com/manaflow-ai/cmux
 language: Swift
+topics: [Coding Agent CLI, 終端機, AI Agent 通知]
 updated: 2026-06-14
 ---
 

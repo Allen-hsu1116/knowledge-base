@@ -79,6 +79,11 @@ streamlit run ui/app.py
 
 ← [[rag|RAG]] · [[LangChain]] · [[llama-index|LlamaIndex]] · [[ragflow|RAGFlow]]
 
+
+## 相關概念
+
+← [[rag]] · [[LangChain]] · [[llama-index]]
+
 ## 來源
 
 - GitHub: <https://github.com/pathwaycom/llm-app>

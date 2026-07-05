@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 10,444
 language: zh-TW
+topics: [RAG, OCR, 文件解析]
 ---
 
 # Chandra

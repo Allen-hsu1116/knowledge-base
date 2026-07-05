@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 1,664
 language: zh-TW
+topics: [RAG, 文件解析, OCR]
 ---
 
 # PyMuPDF4LLM

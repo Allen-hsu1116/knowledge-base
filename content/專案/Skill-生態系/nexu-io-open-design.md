@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 61555
 language: TypeScript
+topics: [AI Skills, 前端設計, Design System, MCP]
 license: Apache-2.0
 source: https://github.com/nexu-io/open-design
 ---

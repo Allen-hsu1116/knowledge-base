@@ -1,11 +1,13 @@
 ---
 title: MiroFish
 slug: 666ghj-MiroFish
+created: 2026-05-26
 date: 2026-05-25
 stars: 62147
 repo: 666ghj/MiroFish
 url: https://github.com/666ghj/MiroFish
 language: Python
+topics: [AI Agent, 世界模型, 群體智慧, 金融預測]
 updated: 2026-06-14
 ---
 

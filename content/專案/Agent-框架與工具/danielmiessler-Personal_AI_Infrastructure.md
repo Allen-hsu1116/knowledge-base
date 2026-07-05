@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 15425
 language: TypeScript
+topics: [Life OS, Ideal State, Context Scaffolding, 記憶]
 ---
 
 # Personal AI Infrastructure (PAI)

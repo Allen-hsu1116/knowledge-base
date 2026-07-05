@@ -5,6 +5,7 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 167376
 language: HTML
+topics: [免費域名, 自架, 開源]
 ---
 
 # DigitalPlat FreeDomain

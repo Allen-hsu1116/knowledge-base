@@ -5,6 +5,7 @@ created: 2026-06-03
 updated: 2026-06-03
 stars: 6376
 language: Python
+topics: [RAG, Agentic RAG, OpenSearch, FastAPI, 課程]
 ---
 
 # Production Agentic RAG Course

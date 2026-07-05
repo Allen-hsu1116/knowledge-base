@@ -113,6 +113,11 @@ npx skills add ogulcancelik/herdr --skill herdr -g
 
 ← [[anthropics-claude-code|Claude Code]] · [[Coding-Agent-CLI]] · [[AI-Agent]] · [[nesquena-hermes-webui|Hermes WebUI]]
 
+
+## 相關概念
+
+← [[anthropics-claude-code]] · [[Coding-Agent-CLI]] · [[AI-Agent]] · [[harness-engineering]]
+
 ## 來源
 
 - GitHub: <https://github.com/ogulcancelik/herdr>

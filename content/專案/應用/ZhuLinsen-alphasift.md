@@ -5,6 +5,7 @@ created: 2026-05-21
 updated: 2026-05-28
 stars: 38100
 language: Python
+topics: [多因子選股, 股市掃描, 金融分析]
 ---
 
 # AlphaSift

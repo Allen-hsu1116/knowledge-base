@@ -1,6 +1,8 @@
 ---
 title: 程式碼智慧
 slug: code-intelligence
+created: 2026-05-07
+updated: 2026-05-07
 language: zh-TW
 ---
 

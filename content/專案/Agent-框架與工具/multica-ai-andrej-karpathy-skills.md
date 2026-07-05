@@ -5,6 +5,7 @@ created: 2026-05-20
 updated: 2026-05-22
 stars: 141652
 language: Markdown
+topics: [AI Skills, Prompt Engineering, CLAUDE.md, Coding Agent CLI]
 repo: https://github.com/multica-ai/andrej-karpathy-skills
 ---
 

@@ -5,6 +5,7 @@ created: 2026-05-16
 stars: 34,952
 updated: 2026-05-16
 language: zh-TW
+topics: [NLP, 中文分詞, 關鍵詞提取]
 ---
 
 # jieba

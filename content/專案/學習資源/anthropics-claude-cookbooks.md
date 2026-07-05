@@ -5,6 +5,7 @@ created: 2023-08-15
 updated: 2026-05-26
 stars: 44023
 language: Jupyter Notebook
+topics: [LLM, Prompt Engineering, RAG, AI Agent]
 ---
 
 # Claude Cookbooks

@@ -5,6 +5,7 @@ created: 2026-05-09
 stars: '⭐264'
 updated: 2026-05-09
 language: zh-TW
+topics: [OCR, 文件解析, GPU 加速]
 ---
 
 # TurboOCR

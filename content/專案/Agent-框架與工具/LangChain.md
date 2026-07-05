@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 136,755
 language: zh-TW
+topics: [AI Agent, LLM, RAG]
 ---
 
 # LangChain

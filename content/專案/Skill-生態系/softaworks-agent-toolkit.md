@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 1979
 language: Python
+topics: [AI Skills, Design System, UI/UX]
 ---
 
 # SoftaWorks Agent Toolkit

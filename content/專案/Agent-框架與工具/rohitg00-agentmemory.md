@@ -5,6 +5,7 @@ created: 2026-05-22
 updated: 2026-05-22
 stars: 15140
 language: TypeScript
+topics: [AI Agent, MCP, 記憶, RAG]
 ---
 
 # agentmemory — Persistent Memory for AI Coding Agents

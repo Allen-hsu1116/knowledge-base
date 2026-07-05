@@ -5,6 +5,7 @@ created: 2026-05-28
 updated: 2026-05-28
 stars: 30250
 language: TypeScript
+topics: [AI, draw.io, MCP, 資料視覺化]
 ---
 
 # Next AI Draw.io

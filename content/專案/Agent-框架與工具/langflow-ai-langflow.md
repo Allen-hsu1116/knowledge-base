@@ -81,6 +81,11 @@ docker run -p 7860:7860 langflowai/langflow:latest
 
 ← [[langgenius-dify|Dify]] · [[FlowiseAI-Flowise|Flowise]] · [[LangChain]] · [[MCP]]
 
+
+## 相關概念
+
+← [[langgenius-dify]] · [[FlowiseAI-Flowise]] · [[MCP]] · [[punkpeye-awesome-mcp-servers]]
+
 ## 來源
 
 - GitHub: <https://github.com/langflow-ai/langflow>

@@ -5,6 +5,7 @@ created: 2026-05-27
 updated: 2026-05-27
 stars: 46861
 language: TypeScript
+topics: [CRM, 開源, AI 整合]
 ---
 
 # Twenty

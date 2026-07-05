@@ -1,6 +1,8 @@
 ---
 title: 自主學習
 slug: self-education
+created: 2026-05-11
+updated: 2026-05-11
 language: zh-TW
 ---
 

@@ -4,6 +4,7 @@ slug: self-rag
 created: 2026-05-11
 updated: 2026-05-11
 language: zh-TW
+topics: [RAG, 自我反思, 研究]
 stars: 2377
 ---
 

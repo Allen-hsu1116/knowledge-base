@@ -5,6 +5,7 @@ created: 2026-06-01
 updated: 2026-06-01
 stars: 9980
 language: Python
+topics: [Coding Agent CLI, AI Agent, Web UI]
 ---
 
 # Hermes WebUI

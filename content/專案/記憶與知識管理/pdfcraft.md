@@ -1,9 +1,11 @@
 ---
 title: PDFCraft
 slug: pdfcraft
+created: 2026-05-13
 stars: '⭐5.5k'
 updated: 2026-06-14
 language: zh-TW
+topics: [文件解析, PDF, 隱私優先]
 ---
 
 # PDFCraft — 瀏覽器端隱私優先 PDF 工具箱

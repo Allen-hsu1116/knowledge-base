@@ -90,6 +90,11 @@ marimo run lab_00_introduction.py
 
 ← [[microsoft-AI-For-Beginners|AI for Beginners]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[模型推論與部署]]
 
+
+## 相關概念
+
+← [[microsoft-AI-For-Beginners]] · [[rasbt-LLMs-from-scratch]] · [[模型推論與部署]] · [[vLLM]]
+
 ## 來源
 
 - GitHub: <https://github.com/harvard-edge/cs249r_book>

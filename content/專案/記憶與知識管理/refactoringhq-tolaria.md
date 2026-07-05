@@ -5,6 +5,7 @@ created: 2026-06-09
 updated: 2026-06-09
 stars: 13580
 language: TypeScript
+topics: [Markdown 知識庫, Git-first, AI Agent 整合, 桌面應用]
 ---
 
 # Tolaria

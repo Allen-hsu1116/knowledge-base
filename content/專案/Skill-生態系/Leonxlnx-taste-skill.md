@@ -5,6 +5,7 @@ url: https://github.com/Leonxlnx/taste-skill
 stars: 36016
 created: 2026-02-19
 language: Shell
+topics: [AI Skills, Prompt Engineering, 前端設計]
 date: 2026-06-07
 updated: 2026-06-07
 ---

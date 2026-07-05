@@ -1,10 +1,12 @@
 ---
 title: Supertonic
 slug: supertone-inc-supertonic
+created: 2026-05-16
 date: 2026-05-16
 stars: '⭐6.0k'
 updated: 2026-06-14
 language: zh-TW
+topics: [TTS, 邊緣裝置, 語音合成]
 ---
 
 # Supertonic

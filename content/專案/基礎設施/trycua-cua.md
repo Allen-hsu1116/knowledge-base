@@ -3,6 +3,7 @@ title: CUA (Computer-Use Agents)
 slug: trycua-cua
 updated: 2026-05-18
 language: zh-TW
+topics: [沙箱, Computer-Use, 桌面操控]
 created: 2026-05-18
 stars: 16887
 ---

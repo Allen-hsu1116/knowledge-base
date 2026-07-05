@@ -5,6 +5,7 @@ created: 2026-05-15
 stars: '⭐24824'
 updated: 2026-05-15
 language: zh-TW
+topics: [金融預測, LLM 基礎模型, K 線]
 ---
 
 # Kronos

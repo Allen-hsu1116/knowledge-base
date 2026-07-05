@@ -5,6 +5,7 @@ source: https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
 date: 2026-04-28
 updated: 2026-04-28
 language: zh-TW
+topics: [LLM 知識庫, Karpathy, Claude Code]
 created: 2026-04-28
 stars: —
 ---

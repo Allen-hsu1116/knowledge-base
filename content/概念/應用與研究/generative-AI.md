@@ -1,6 +1,8 @@
 ---
 title: 生成式 AI
 slug: generative-AI
+created: 2026-06-20
+updated: 2026-06-20
 language: zh-TW
 ---
 

@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 4,927
 language: zh-TW
+topics: [AI Skills, AI Agent, 學術研究]
 ---
 
 # Academic Research Skills

@@ -5,6 +5,7 @@ created: 2026-06-08
 updated: 2026-06-08
 stars: 21702
 language: Python
+topics: [AI Skills, Figma, Design System]
 ---
 
 # OpenAI Skills

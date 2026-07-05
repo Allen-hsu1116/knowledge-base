@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 25,668
 language: zh-TW
+topics: [Coding Agent CLI, AI Agent, MCP]
 ---
 
 # OpenClaude

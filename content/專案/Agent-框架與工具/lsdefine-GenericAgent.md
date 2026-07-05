@@ -5,6 +5,7 @@ created: 2026-05-06
 stars: '⭐9199'
 updated: 2026-05-06
 language: zh-TW
+topics: [AI Agent, 自演化, Token Optimization]
 ---
 
 # GenericAgent

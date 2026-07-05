@@ -1,6 +1,8 @@
 ---
 title: 電腦視覺
 slug: computer-vision
+created: 2026-05-18
+updated: 2026-05-18
 language: zh-TW
 ---
 

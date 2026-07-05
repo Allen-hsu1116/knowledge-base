@@ -80,6 +80,11 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ← [[mlabonne-llm-course|LLM Course]] · [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]] · [[AI-Tutoring]] · [[harvard-edge-cs249r_book|ML Systems (CS249r)]]
 
+
+## 相關概念
+
+← [[mlabonne-llm-course]] · [[microsoft-ai-agents-for-beginners]] · [[LLM]] · [[AI-Agent]]
+
 ## 來源
 
 - GitHub: <https://github.com/microsoft/AI-For-Beginners>

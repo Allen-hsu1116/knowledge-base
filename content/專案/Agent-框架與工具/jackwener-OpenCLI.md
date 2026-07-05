@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 18,700
 language: zh-TW
+topics: [AI Agent, MCP, AI Skills]
 ---
 
 # OpenCLI

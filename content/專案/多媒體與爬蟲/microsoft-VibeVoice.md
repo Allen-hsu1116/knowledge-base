@@ -5,6 +5,7 @@ created: 2026-06-07
 updated: 2026-06-07
 stars: 48476
 language: Python
+topics: [ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS]
 ---
 
 # VibeVoice

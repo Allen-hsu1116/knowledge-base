@@ -5,6 +5,7 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 3193
 language: Python
+topics: [醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX]
 ---
 
 # OpenMed

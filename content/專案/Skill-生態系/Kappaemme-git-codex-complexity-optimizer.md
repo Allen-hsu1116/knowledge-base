@@ -1,9 +1,11 @@
 ---
 title: Codex Complexity Optimizer
 slug: Kappaemme-git-codex-complexity-optimizer
+created: 2026-05-18
 stars: 648
 updated: 2026-06-14
 language: zh-TW
+topics: [AI Skills, 演算法複雜度, 效能優化]
 ---
 
 # Codex Complexity Optimizer

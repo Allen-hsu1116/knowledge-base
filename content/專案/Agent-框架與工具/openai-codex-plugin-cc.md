@@ -5,6 +5,7 @@ created: 2026-05-10
 updated: 2026-05-10
 stars: 17,527
 language: zh-TW
+topics: [AI Agent, AI Skills, Coding Agent CLI]
 ---
 
 # Codex Plugin for Claude Code

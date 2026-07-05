@@ -5,6 +5,7 @@ created: 2026-06-13
 updated: 2026-06-13
 stars: 2757
 language: Python
+topics: [Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線]
 ---
 
 # BugHunter

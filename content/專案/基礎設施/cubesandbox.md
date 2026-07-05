@@ -5,6 +5,7 @@ created: 2026-05-09
 stars: '⭐5.2'
 updated: 2026-05-09
 language: zh-TW
+topics: [沙箱, Rust, 程式碼執行]
 ---
 
 # CubeSandbox

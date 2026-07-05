@@ -1,9 +1,11 @@
 ---
 title: KeygraphHQ/shannon
 slug: KeygraphHQ-shannon
+created: 2026-05-18
 date: 2026-05-18
 stars: 42711
 language: TypeScript
+topics: [滲透測試, AI Agent, 白箱安全]
 source: https://github.com/KeygraphHQ/shannon
 updated: 2026-06-14
 ---
