@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-05
+updated: 2026-07-06
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OthmanAdi-planning-with-files\|Planning with Files]] | ⭐24.7k | 檔案規劃, Crash-proof, Session 恢復, 18+ 平台, Agent Skills, 多 Agent 共享, 完成驗證門 | 2026-07-06 |
 | [[alirezarezvani-claude-skills\|Claude Code Skills & Plugins]] | ⭐20.2k | AI Skills, 354 Skills, 13 工具, Claude Code/Codex/Gemini, C-Level, 研究, 合規 | 2026-07-05 |
 | [[langflow-ai-langflow\|Langflow]] | ⭐150.7k | 視覺化 AI Agent 工作流, 拖拽設計, API/MCP 部署, 多 Agent 編排, Playground, LangSmith/LangFuse 整合 | 2026-07-03 |
 | [[diegosouzapw-OmniRoute\|OmniRoute]] | ⭐9.5k | AI Gateway, 236 提供者, RTK+Caveman 壓縮, 16+ 編碼代理, MCP, A2A, 免費 1.6B tokens/月 | 2026-07-02 |
@@ -96,6 +97,7 @@ updated: 2026-07-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[gastownhall-gastown\|Gas Town]] | ⭐16.4k | 多 Agent 工作空間, The Mayor 協調, Git-backed hooks, Beads tracking, 20-30 agents, Refinery 合併佇列 | 2026-07-06 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | ⭐20,278 | Agent 設計原則, 工程實踐 | 2026-05-18 |
 | [[ruvnet-ruflo\|Ruflo]] | ⭐47,000 | 多Agent編排, Swarm, 聯邦通訊 | 2026-05-09 |
 | [[upstash-context7\|Context7]] | ⭐54,800 | LLM 文件查詢, MCP | 2026-05-09 |
@@ -219,6 +221,7 @@ updated: 2026-07-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hesreallyhim-awesome-claude-code\|Awesome Claude Code]] | ⭐48.4k | 策展列表, 19 大分類, Claude Code 全生態, Skills/Plugins/Hooks/Subagents, GitHub shields | 2026-07-06 |
 | [[harvard-edge-cs249r_book\|ML Systems (CS249r)]] | ⭐25.6k | Harvard ML Systems 教科書, AI Engineering, TinyTorch, Labs, MLSys·im 模擬器, 硬體 Kits, StaffML 面試, MIT Press 2026 | 2026-07-03 |
 | [[microsoft-AI-For-Beginners\|AI for Beginners]] | ⭐49.4k | AI 入門課程, 12 週 24 課, PyTorch+TensorFlow, 電腦視覺, NLP, GAN, RNN, 50+ 語言翻譯 | 2026-07-01 |
 | [[shanraisshan-claude-code-best-practice\|Claude Code Best Practice]] | ⭐59.4k | Claude Code, 最佳實踐, Subagents, Skills, Hooks, MCP, 20+ 概念 | 2026-06-24 |
@@ -253,6 +256,7 @@ updated: 2026-07-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[steipete-CodexBar\|CodexBar]] | ⭐16.2k | macOS 選單列, 57+ AI provider 使用量監控, 重置倒數, 信用餘額, 支出儀表板, CLI, WidgetKit | 2026-07-06 |
 | [[soxoj-maigret\|Maigret]] | ⭐34.4k | OSINT, 用戶名搜尋, 3000+ 站台, AI 分析模式, 遞迴搜尋, Tor/I2P, 多格式報告 | 2026-06-30 |
 | [[koala73-worldmonitor\|WorldMonitor]] | ⭐57.2k | 全球情報儀表板, AI 新聞聚合, Ollama 本地, 地緣政治監控 | 2026-06-20 |
 | [[google-research-timesfm\|TimesFM]] | ⭐23.2k | 時間序列預測, 基礎模型, Google Research, ICML 2024 | 2026-06-19 |
@@ -296,6 +300,7 @@ updated: 2026-07-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[coreyhaines31-marketingskills\|Marketing Skills]] | ⭐36.4k | 行銷 Skills, 45+ skills, CRO/SEO/文案, Agent Skills 規範, product-marketing 基礎, 7 大領域 | 2026-07-06 |
 | [[CoplayDev-unity-mcp\|MCP for Unity]] | ⭐11.6k | MCP, Unity Editor, 47 工具, 遊戲開發, 自然語言操控, AI Agent | 2026-07-05 |
 | [[agentskills-agentskills\|Agent Skills]] | ⭐21.6k | Agent Skill 開放標準, SKILL.md 格式, 漸進式揭露, 跨產品複用, Anthropic 發起 | 2026-07-03 |
 | [[Fission-AI-OpenSpec\|OpenSpec]] | ⭐57.1k | Spec-Driven Development, 四步工作流, opsx, brownfield, AI coding | 2026-06-28 |
