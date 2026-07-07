@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-06
+updated: 2026-07-07
 ---
 
 # 專案索引
@@ -107,6 +107,7 @@ updated: 2026-07-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[karakeep-app-karakeep\|Karakeep]] | ⭐26.9k | 自架書籤管理, AI 自動標記, 全文搜尋, Agent 友善 CLI+Skills, 頁面存檔, OCR, 多平台 App | 2026-07-07 |
 | [[allenai-olmocr\|olmOCR]] | ⭐18.2k | VLM OCR, PDF 線性化, LLM 資料集, 7B VLM, RL 訓練, olmOCR-Bench | 2026-07-02 |
 | [[pathwaycom-llm-app\|Pathway LLM App]] | ⭐59.2k | 即時資料同步 RAG 管線, 零外部依賴, 7+ 模板, Docker, Adaptive RAG | 2026-06-28 |
 | [[Mintplex-Labs-anything-llm\|AnythingLLM]] | ⭐62.2k | 本地優先 AI 應用, 30+ LLM, RAG, Agent, 多用戶, 向量資料庫, MCP | 2026-06-27 |
@@ -161,6 +162,7 @@ updated: 2026-07-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[alibaba-zvec\|Zvec]] | ⭐13.5k | In-process 向量資料庫, 阿里巴巴, 毫秒級搜尋, Dense+Sparse, 全文搜尋, 混合搜尋, DiskANN, WAL, Python/Node/Go/Rust/Dart | 2026-07-07 |
 | [[elastic-elasticsearch\|Elasticsearch]] | ⭐77.3k | 分散式搜尋引擎, 向量資料庫, RAG, 全文搜尋, 混合搜尋, Lucene, Kibana | 2026-07-04 |
 | [[yichuan-w-LEANN\|LEANN]] | ⭐11,790 | RAG, 向量資料庫, MCP, 本地隱私 | 2026-05-28 |
 | [[Milvus]] | ⭐44,202 | RAG, 向量資料庫 | 2026-05-10 |
@@ -171,6 +173,7 @@ updated: 2026-07-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[bradautomates-claude-video\|Claude Video (/watch)]] | ⭐4.2k | 影片分析 Skill, Claude 看影片, 場景感知截取, 免費字幕優先, Whisper fallback, 畫面去重, 50+ Agent 宿主 | 2026-07-07 |
 | [[Zackriya-Solutions-meetily\|Meetily]] | ⭐15.3k | 隱私優先 AI 會議助手, 100% 本地, Whisper/Parakeet 轉錄, Ollama 摘要, 語者分離, Rust | 2026-07-05 |
 | [[altic-dev-FluidVoice\|FluidVoice]] | ⭐5.5k | macOS 聽寫, on-device STT, Fluid Intelligence, Command/Write Mode, 8+ 語音模型, 本地優先 | 2026-07-02 |
 | [[browser-use-video-use\|video-use]] | ⭐12.6k | Coding Agent 影片編輯, 文字優先理解, 自我評估迴圈, ElevenLabs Scribe, Skill 格式 | 2026-07-01 |

@@ -2,10 +2,22 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-05
+updated: 2026-07-07
 stars: —
 language: zh-TW
 ---
+
+## 2026-07-07（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **karakeep-app/karakeep** — 自架「收藏一切」應用，AI 自動標記 + 全文搜尋 + Agent 友善 CLI 和 Skills（⭐ 26,897）
+- **alibaba/zvec** — 阿里巴巴開源 in-process 向量資料庫，毫秒級搜尋十億級向量，零伺服器零設定（⭐ 13,506）
+- **bradautomates/claude-video** — 讓 Claude 能「看」影片的 Agent Skill，自動下載截取畫面轉錄音訊（⭐ 4,237）
+
+### 分類
+- 🧠 記憶與知識管理：Karakeep
+- 🔍 向量資料庫：Zvec
+- 🎯 多媒體與爬蟲：Claude Video (/watch)
 
 ## 2026-07-05（每日 LLM 熱門專案搜尋）
 
