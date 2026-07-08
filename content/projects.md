@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 # 專案索引
@@ -107,6 +107,7 @@ updated: 2026-07-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ComPDFKit-docslight\|DocSlight]] | ⭐108 | 文件解析引擎, PDF/掃描/圖片/Office, OCR 80+ 語言, 結構化擷取, Bounding Box, Markdown/JSON, RAG 就緒 | 2026-07-08 |
 | [[karakeep-app-karakeep\|Karakeep]] | ⭐26.9k | 自架書籤管理, AI 自動標記, 全文搜尋, Agent 友善 CLI+Skills, 頁面存檔, OCR, 多平台 App | 2026-07-07 |
 | [[allenai-olmocr\|olmOCR]] | ⭐18.2k | VLM OCR, PDF 線性化, LLM 資料集, 7B VLM, RL 訓練, olmOCR-Bench | 2026-07-02 |
 | [[pathwaycom-llm-app\|Pathway LLM App]] | ⭐59.2k | 即時資料同步 RAG 管線, 零外部依賴, 7+ 模板, Docker, Adaptive RAG | 2026-06-28 |
@@ -173,6 +174,8 @@ updated: 2026-07-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[kyutai-labs-pocket-tts\|Pocket TTS]] | ⭐6.2k | TTS, CPU 原生, 100M 參數, 6x 即時, 200ms 延遲, 語音克隆, 6 語言, 瀏覽器端 WASM | 2026-07-08 |
+| [[AhmadIbrahiim-Website-downloader\|Website Downloader]] | ⭐4k | 網站完整下載, wget 鏡像, CSS/JS/圖片, 自動 ZIP 壓縮, Web 介面, 6+ 雲端部署 | 2026-07-08 |
 | [[bradautomates-claude-video\|Claude Video (/watch)]] | ⭐4.2k | 影片分析 Skill, Claude 看影片, 場景感知截取, 免費字幕優先, Whisper fallback, 畫面去重, 50+ Agent 宿主 | 2026-07-07 |
 | [[Zackriya-Solutions-meetily\|Meetily]] | ⭐15.3k | 隱私優先 AI 會議助手, 100% 本地, Whisper/Parakeet 轉錄, Ollama 摘要, 語者分離, Rust | 2026-07-05 |
 | [[altic-dev-FluidVoice\|FluidVoice]] | ⭐5.5k | macOS 聽寫, on-device STT, Fluid Intelligence, Command/Write Mode, 8+ 語音模型, 本地優先 | 2026-07-02 |
@@ -259,6 +262,7 @@ updated: 2026-07-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[MadsLorentzen-ai-job-search\|AI Job Search]] | ⭐10.9k | AI 求職框架, Claude Code, Drafter-Reviewer 雙 Agent, PDF 驗證迴圈, ATS 可讀性驗證, LaTeX CV/求職信, 6+ 指令 | 2026-07-08 |
 | [[steipete-CodexBar\|CodexBar]] | ⭐16.2k | macOS 選單列, 57+ AI provider 使用量監控, 重置倒數, 信用餘額, 支出儀表板, CLI, WidgetKit | 2026-07-06 |
 | [[soxoj-maigret\|Maigret]] | ⭐34.4k | OSINT, 用戶名搜尋, 3000+ 站台, AI 分析模式, 遞迴搜尋, Tor/I2P, 多格式報告 | 2026-06-30 |
 | [[koala73-worldmonitor\|WorldMonitor]] | ⭐57.2k | 全球情報儀表板, AI 新聞聚合, Ollama 本地, 地緣政治監控 | 2026-06-20 |
@@ -303,6 +307,7 @@ updated: 2026-07-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[iOfficeAI-OfficeCLI\|OfficeCLI]] | ⭐10k | AI Agent Office 套件, Word/Excel/PPT, 單一二進位, HTML/PNG 渲染引擎, LaTeX 方程式, Mermaid 圖表, 即時預覽 | 2026-07-08 |
 | [[coreyhaines31-marketingskills\|Marketing Skills]] | ⭐36.4k | 行銷 Skills, 45+ skills, CRO/SEO/文案, Agent Skills 規範, product-marketing 基礎, 7 大領域 | 2026-07-06 |
 | [[CoplayDev-unity-mcp\|MCP for Unity]] | ⭐11.6k | MCP, Unity Editor, 47 工具, 遊戲開發, 自然語言操控, AI Agent | 2026-07-05 |
 | [[agentskills-agentskills\|Agent Skills]] | ⭐21.6k | Agent Skill 開放標準, SKILL.md 格式, 漸進式揭露, 跨產品複用, Anthropic 發起 | 2026-07-03 |
