@@ -83,13 +83,14 @@ cd server && make bootstrap
 | 方案 | Stars | 類型 | 記憶層級 | Token 效率 | SOTA 分數 |
 |------|-------|------|---------|-----------|----------|
 | **Mem0** | ⭐58k | 記憶層 | User/Session/Agent | 7K tokens | LoCoMo 91.6 |
+| [[TencentCloud-TencentDB-Agent-Memory\|TencentDB Agent Memory]] | ⭐7.6k | Agent 記憶 | 4 層金字塔 | 61% 節省 | PersonaMem 76% |
 | [[supermemoryai-supermemory|Supermemory]] | ⭐23k | 記憶引擎 | User | 較高 | — |
 | [[rohitg00-agentmemory|agentmemory]] | ⭐15k | Agent 記憶 | Agent | — | — |
 | [[thedotmack-claude-mem|claude-mem]] | ⭐73k | Claude 記憶 | Agent | — | — |
 | [[upstash-context7|Context7]] | ⭐54k | 文件查詢 | — | — | — |
 
 ## 相關概念
-← [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
+← [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]] · [[TencentCloud-TencentDB-Agent-Memory|TencentDB Agent Memory]]
 
 ## 來源
 

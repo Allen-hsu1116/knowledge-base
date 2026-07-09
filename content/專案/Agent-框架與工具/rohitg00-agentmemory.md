@@ -63,7 +63,7 @@ npx agentmemory
 
 ## 相關概念
 
-← [[AI-Agent]] · [[MCP]] · [[LLM]] · [[rag]] · [[supermemoryai-supermemory|Supermemory]]
+← [[AI-Agent]] · [[MCP]] · [[LLM]] · [[rag]] · [[supermemoryai-supermemory|Supermemory]] · [[TencentCloud-TencentDB-Agent-Memory|TencentDB Agent Memory]]
 
 ## 來源
 

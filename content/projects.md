@@ -17,6 +17,7 @@ updated: 2026-07-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[wonderwhy-er-DesktopCommanderMCP\|Desktop Commander MCP]] | ⭐6.4k | MCP Server, 終端控制, 檔案系統, Excel/PDF/DOCX, 遠端 MCP, Docker 沙箱 | 2026-07-09 |
 | [[OthmanAdi-planning-with-files\|Planning with Files]] | ⭐24.7k | 檔案規劃, Crash-proof, Session 恢復, 18+ 平台, Agent Skills, 多 Agent 共享, 完成驗證門 | 2026-07-06 |
 | [[alirezarezvani-claude-skills\|Claude Code Skills & Plugins]] | ⭐20.2k | AI Skills, 354 Skills, 13 工具, Claude Code/Codex/Gemini, C-Level, 研究, 合規 | 2026-07-05 |
 | [[langflow-ai-langflow\|Langflow]] | ⭐150.7k | 視覺化 AI Agent 工作流, 拖拽設計, API/MCP 部署, 多 Agent 編排, Playground, LangSmith/LangFuse 整合 | 2026-07-03 |
@@ -107,6 +108,7 @@ updated: 2026-07-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[TencentCloud-TencentDB-Agent-Memory\|TencentDB Agent Memory]] | ⭐7.6k | Agent 記憶, 4 層金字塔, Mermaid 符號化, 61% Token 節省, 零外部 API, OpenClaw/Hermes | 2026-07-09 |
 | [[ComPDFKit-docslight\|DocSlight]] | ⭐108 | 文件解析引擎, PDF/掃描/圖片/Office, OCR 80+ 語言, 結構化擷取, Bounding Box, Markdown/JSON, RAG 就緒 | 2026-07-08 |
 | [[karakeep-app-karakeep\|Karakeep]] | ⭐26.9k | 自架書籤管理, AI 自動標記, 全文搜尋, Agent 友善 CLI+Skills, 頁面存檔, OCR, 多平台 App | 2026-07-07 |
 | [[allenai-olmocr\|olmOCR]] | ⭐18.2k | VLM OCR, PDF 線性化, LLM 資料集, 7B VLM, RL 訓練, olmOCR-Bench | 2026-07-02 |

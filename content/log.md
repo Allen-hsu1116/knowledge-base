@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-07
+updated: 2026-07-09
 stars: —
 language: zh-TW
 ---
+
+## 2026-07-09（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **TencentCloud/TencentDB-Agent-Memory** — AI Agent 全本地長期記憶系統，4 層漸進式管線 + Mermaid 符號化短期記憶，61% Token 節省（⭐ 7,646）
+- **wonderwhy-er/DesktopCommanderMCP** — MCP Server，讓 AI 擁有終端控制、檔案系統操作、Excel/PDF/DOCX 讀寫能力（⭐ 6,375）
+
+### 分類
+- 🧠 記憶與知識管理：TencentDB Agent Memory
+- 🤖 Agent 框架與工具：Desktop Commander MCP
+
+### 回頭更新
+- 更新 mem0ai-mem0.md 比較表加入 TencentDB Agent Memory
+- 更新 rohitg00-agentmemory.md 相關概念加入 TencentDB Agent Memory
+- 更新 known-repos.json（+2 repos, +6 concepts）
 
 ## 2026-07-07（每日 LLM 熱門專案搜尋）
 
