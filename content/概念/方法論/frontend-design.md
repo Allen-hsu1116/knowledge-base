@@ -41,6 +41,8 @@ language: zh-TW
   👉 詳見 [[nexu-io-open-design]]
 - **Penpot** → 開源設計平台，支援 Design Tokens 和 MCP Server 整合
   👉 詳見 [[penpot-penpot]]
+- **Awesome DESIGN.md** → 73 個知名網站的 DESIGN.md 設計系統文件，AI agent 直接讀取生成一致 UI
+  👉 詳見 [[VoltAgent-awesome-design-md]]
 
 ## 相關概念
 

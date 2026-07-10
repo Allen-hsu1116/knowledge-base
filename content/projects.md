@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-08
+updated: 2026-07-10
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vxcontrol-pentagi\|PentAGI]] | ⭐19.4k | 全自主 AI Agent 滲透測試, 多 Agent 委派, 沙箱隔離, 20+ 安全工具, Graphiti 知識圖譜, 10+ LLM 提供者, 自架 | 2026-07-10 |
 | [[wonderwhy-er-DesktopCommanderMCP\|Desktop Commander MCP]] | ⭐6.4k | MCP Server, 終端控制, 檔案系統, Excel/PDF/DOCX, 遠端 MCP, Docker 沙箱 | 2026-07-09 |
 | [[OthmanAdi-planning-with-files\|Planning with Files]] | ⭐24.7k | 檔案規劃, Crash-proof, Session 恢復, 18+ 平台, Agent Skills, 多 Agent 共享, 完成驗證門 | 2026-07-06 |
 | [[alirezarezvani-claude-skills\|Claude Code Skills & Plugins]] | ⭐20.2k | AI Skills, 354 Skills, 13 工具, Claude Code/Codex/Gemini, C-Level, 研究, 合規 | 2026-07-05 |
@@ -309,6 +310,7 @@ updated: 2026-07-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[VoltAgent-awesome-design-md\|Awesome DESIGN.md]] | ⭐99.7k | DESIGN.md 設計系統文件, 73 網站, Google Stitch, AI Agent UI 生成, Vibe Coding, 設計 Token | 2026-07-10 |
 | [[iOfficeAI-OfficeCLI\|OfficeCLI]] | ⭐10k | AI Agent Office 套件, Word/Excel/PPT, 單一二進位, HTML/PNG 渲染引擎, LaTeX 方程式, Mermaid 圖表, 即時預覽 | 2026-07-08 |
 | [[coreyhaines31-marketingskills\|Marketing Skills]] | ⭐36.4k | 行銷 Skills, 45+ skills, CRO/SEO/文案, Agent Skills 規範, product-marketing 基礎, 7 大領域 | 2026-07-06 |
 | [[CoplayDev-unity-mcp\|MCP for Unity]] | ⭐11.6k | MCP, Unity Editor, 47 工具, 遊戲開發, 自然語言操控, AI Agent | 2026-07-05 |
