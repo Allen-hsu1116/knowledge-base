@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-09
+updated: 2026-07-11
 stars: —
 language: zh-TW
 ---
+
+## 2026-07-11（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **vercel/next.js** — Vercel 全棧 React 框架，SSR/SSG/ISR + Rust 編譯器（⭐ 140,706）
+- **microsoft/TypeScript** — 微軟 JavaScript 超集，靜態型別檢查（⭐ 109,776）
+- **oven-sh/bun** — 一體化 JS/TS 工具鏈，Rust 執行環境 + 套件管理 + 測試 + 打包（⭐ 94,228）
+- **hashicorp/terraform** — HashiCorp 基礎設施即程式碼工具，多雲管理（⭐ 49,167）
+- **grpc/grpc** — Google 高效能 RPC 框架，HTTP/2 + Protocol Buffers（⭐ 45,136）
+
+### 分類
+- 🏗 基礎設施：Next.js, TypeScript, Bun, Terraform, gRPC
+
+### 回頭更新
+- 更新 known-repos.json（+5 repos）
 
 ## 2026-07-09（每日 LLM 熱門專案搜尋）
 

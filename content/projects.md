@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-10
+updated: 2026-07-11
 ---
 
 # 專案索引
@@ -355,6 +355,11 @@ updated: 2026-07-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vercel-next.js\|Next.js]] | ⭐140.7k | 全棧 React 框架, SSR/SSG/ISR, App Router, Server Components, SWC 編譯器, API Routes, Edge Runtime | 2026-07-11 |
+| [[microsoft-TypeScript\|TypeScript]] | ⭐109.8k | JavaScript 超集, 靜態型別, 漸進式型別, 型別推論, Compiler API | 2026-07-11 |
+| [[oven-sh-bun\|Bun]] | ⭐94.2k | 一體化 JS/TS 工具鏈, Rust 執行環境, JavaScriptCore, Node.js 替代, 套件管理, 測試框架, 打包器 | 2026-07-11 |
+| [[hashicorp-terraform\|Terraform]] | ⭐49.2k | 基礎設施即程式碼, HCL, 執行計畫, 資源圖譜, 多雲, Module 複用 | 2026-07-11 |
+| [[grpc-grpc\|gRPC]] | ⭐45.1k | 高效能 RPC 框架, HTTP/2, Protocol Buffers, 雙向串流, 10+ 語言, 跨平台 | 2026-07-11 |
 | [[rommapp-romm\|RomM]] | ⭐10.2k | 自架 ROM 管理器, 400+ 平台, EmulatorJS 瀏覽器遊玩, IGDB 中繼資料, AGPL | 2026-07-05 |
 | [[immich-app-immich\|Immich]] | ⭐105.6k | 自架照片/影片管理, Google Photos 替代, 人臉辨識, CLIP 搜尋, Flutter App, NestJS | 2026-07-05 |
 | [[supabase-supabase\|Supabase]] | ⭐105.5k | PostgreSQL 後端平台, pgvector, 向量搜尋, 認證, 即時訂閱, Edge Functions, Firebase 替代, 自架 | 2026-07-04 |
