@@ -142,6 +142,6 @@ GPU 有兩種記憶體：
 
 - [Flash Attention 課程筆記](../raw/2026-05-03-flash-attention.md)
 
----
-
-_此頁由 daily-llm-trending 自動維護_
+---_此頁由 daily-llm-trending 自動維護_
+- **收錄日期**: 2026-05-10
+- **License**: 未標示

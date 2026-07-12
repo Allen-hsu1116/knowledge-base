@@ -3,7 +3,7 @@ title: Figma Skills
 slug: Figma-Skills
 created: 2026-06-08
 updated: 2026-06-08
-stars: —
+stars: 23546
 language: zh-TW
 topics: [AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作]
 ---
@@ -90,3 +90,4 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 |------|------|
 | 類型 | 概念頁 |
 | 收錄日期 | 2026-06-08 |
+| **License** | 未標示 |

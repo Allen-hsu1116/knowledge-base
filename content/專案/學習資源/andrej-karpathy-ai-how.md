@@ -195,3 +195,4 @@ my-knowledge-base/
 |------|------|
 | **GitHub** | https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how |
 | **收錄日期** | 2026-04-28 |
+| **License** | 未標示 |

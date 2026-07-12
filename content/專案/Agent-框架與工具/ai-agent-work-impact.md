@@ -80,6 +80,6 @@ AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具�
 - Andrew Hall: "100x Research Assistant"（Stanford）
 - AAAI 2026 AI Reviewer 政策
 
----
-
-_此頁由 daily-llm-trending 自動維護_
+---_此頁由 daily-llm-trending 自動維護_
+- **收錄日期**: 2026-05-03
+- **License**: 未標示

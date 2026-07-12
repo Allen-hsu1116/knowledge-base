@@ -3,7 +3,7 @@ title: CloakBrowser
 slug: CloakHQ-CloakBrowser
 created: 2026-02-22
 updated: 2026-02-22
-stars: —
+stars: 28078
 language: zh-TW
 topics: [隱私, 瀏覽器, 反偵測]
 ---

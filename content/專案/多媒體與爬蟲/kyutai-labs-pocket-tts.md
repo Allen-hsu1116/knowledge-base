@@ -17,6 +17,14 @@ topics:
 
 > ⭐6.2k · 裝得進口袋的 CPU 級 TTS——100M 參數、6 倍即時速度、200ms 首段延遲，MacBook Air M4 上只用 2 核心
 
+## 快速導航
+- [[語音辨識]]
+- [[embedded-AI]]
+- [[模型推論與部署]]
+- [[jamiepine-voicebox]]
+- [[OpenBMB-VoxCPM]]
+
+
 快速導航：[[語音辨識]] · [[embedded-AI]] · [[模型推論與部署]]
 
 ## 是什麼
@@ -87,6 +95,10 @@ scipy.io.wavfile.write("output.wav", tts_model.sample_rate, audio.numpy())
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2.2k | TTS | 部分 | 較大 | ✅ | ❌ |
 
 ← [[語音辨識]] · [[embedded-AI]] · [[模型推論與部署]]
+
+## 相關概念
+
+← [[語音辨識] · [[embedded-AI] · [[模型推論與部署] · [[jamiepine-voicebox] · [[OpenBMB-VoxCPM]
 
 ## 來源
 

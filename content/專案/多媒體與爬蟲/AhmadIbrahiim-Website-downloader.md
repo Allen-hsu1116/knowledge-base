@@ -16,6 +16,14 @@ topics:
 
 > ⭐4k · 下載任何網站的完整原始碼（含所有資源）——JavaScript、CSS、圖片，用 wget + archiver 一鍵打包
 
+## 快速導航
+- [[網頁爬蟲]]
+- [[self-hosted]]
+- [[productivity]]
+- [[firecrawl-firecrawl]]
+- [[D4Vinci-Scrapling]]
+
+
 快速導航：[[網頁爬蟲]] · [[self-hosted]] · [[productivity]]
 
 ## 是什麼
@@ -69,6 +77,10 @@ npm start
 | wget (命令列) | — | CLI 工具 | ❌ | ✅ | ❌ | ❌ |
 
 ← [[網頁爬蟲]] · [[self-hosted]] · [[productivity]]
+
+## 相關概念
+
+← [[網頁爬蟲] · [[self-hosted] · [[productivity] · [[firecrawl-firecrawl] · [[D4Vinci-Scrapling]
 
 ## 來源
 

@@ -20,6 +20,14 @@ topics:
 
 > ⭐108 · 開源文件解析與資料擷取引擎——精確解析 PDF、掃描檔、圖片和 Office 檔案，OCR 支援 80+ 語言
 
+## 快速導航
+- [[document-parsing]]
+- [[rag]]
+- [[網頁爬蟲]]
+- [[opendatalab-MinerU]]
+- [[docling]]
+
+
 快速導航：[[document-parsing]] · [[rag]] · [[網頁爬蟲]]
 
 ## 是什麼
@@ -109,6 +117,10 @@ docker compose -f docker/docker-compose.yml up
 | [[PaddlePaddle-PaddleOCR\|PaddleOCR]] | ⭐80k | OCR | 多語言 | ❌ | 部分 | ✅ |
 
 ← [[document-parsing]] · [[rag]] · [[網頁爬蟲]]
+
+## 相關概念
+
+← [[document-parsing] · [[rag] · [[網頁爬蟲] · [[opendatalab-MinerU] · [[docling]
 
 ## 來源
 

@@ -159,3 +159,5 @@ claude
 
 - [科技翰林院原文](https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/)
 - [原始資料](../raw/2026-05-06-claude-code-boris-cherny-advanced-techniques.md)
+- **收錄日期**: 2026-05-06
+- **License**: 未標示

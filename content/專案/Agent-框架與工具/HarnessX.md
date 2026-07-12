@@ -95,3 +95,4 @@ Overall            +14.5%          +44.0%
 | 年份 | 2026 |
 | 作者 | Tingyang Chen, Shuo Lu, Kang Zhao 等 14 人 |
 | 收錄日期 | 2026-06-20 |
+| **License** | 未標示 |

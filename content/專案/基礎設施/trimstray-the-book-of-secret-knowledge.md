@@ -3,7 +3,7 @@ title: the-book-of-secret-knowledge
 slug: trimstray-the-book-of-secret-knowledge
 created: 2026-05-22
 updated: 2026-05-22
-stars: —
+stars: 232835
 language: zh-TW
 topics: [DevOps, 資安, 系統管理, 工具全集]
 ---
@@ -91,3 +91,4 @@ the-book-of-secret-knowledge 的獨特價值在於「廣度+品質」——不�
 |------|------|
 | **GitHub** | https://github.com/trimstray/the-book-of-secret-knowledge |
 | **收錄日期** | 2026-05-22 |
+| **License** | MIT |

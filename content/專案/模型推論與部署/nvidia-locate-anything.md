@@ -99,3 +99,4 @@ pip install torch transformers
 | 年份 | 2026 |
 | 作者 | Shihao Wang, Shilong Liu 等 |
 | 收錄日期 | 2026-06-05 |
+| **License** | 未標示 |

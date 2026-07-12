@@ -17,6 +17,14 @@ topics:
 
 > ⭐26.9k · 自架「收藏一切」應用，AI 自動標記 + 全文搜尋 + Agent 友善 CLI 和 Skills
 
+## 快速導航
+- [[self-hosted]]
+- [[AI-Agent]]
+- [[rag]]
+- [[AI-Skills]]
+- [[paperless-ngx-paperless-ngx]]
+
+
 快速導航：[[self-hosted]] · [[AI-Agent]] · [[rag]] · [[AI-Skills]]
 
 ## 是什麼
@@ -89,6 +97,10 @@ karakeep list
 | Pocket (已關閉) | — | 書籤 | ❌ | ❌ | ❌ | ❌ |
 
 ← [[self-hosted]] · [[AI-Agent]] · [[rag]] · [[AI-Skills]]
+
+## 相關概念
+
+← [[self-hosted] · [[AI-Agent] · [[rag] · [[AI-Skills] · [[paperless-ngx-paperless-ngx]
 
 ## 來源
 

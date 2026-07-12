@@ -90,3 +90,4 @@ npm install gsap
 | 作者 | Joanna Chang |
 | 日期 | 2026-06-17 |
 | 收錄日期 | 2026-06-20 |
+| **License** | 未標示 |

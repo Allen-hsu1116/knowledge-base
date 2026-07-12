@@ -88,3 +88,4 @@ curl http://localhost:8080/status
 | **GitHub** | https://github.com/flamehaven01/Flamehaven-Filesearch |
 | **Stars** | ⭐'⭐100' |
 | **收錄日期** | 2026-05-09 |
+| **License** | MIT |

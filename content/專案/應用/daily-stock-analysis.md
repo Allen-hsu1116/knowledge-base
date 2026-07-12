@@ -89,3 +89,4 @@ python main.py --webui             # 啟動 Web 介面
 | **GitHub** | https://github.com/ZhuLinsen/daily_stock_analysis.git |
 | **Stars** | ⭐'⭐38.1k' |
 | **收錄日期** | 2026-05-03 |
+| **License** | MIT |

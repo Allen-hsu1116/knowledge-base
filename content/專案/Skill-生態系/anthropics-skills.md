@@ -107,3 +107,4 @@ python scripts/with_server.py \
 | 語言 | Python |
 | 技能 | frontend-design, webapp-testing |
 | 收錄日期 | 2026-06-08 |
+| **License** | 未標示 |

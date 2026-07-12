@@ -72,9 +72,7 @@ press build my-book.md --theme ./my-theme.css --output pdf
 
 ## 來源
 
-- Stars: ⭐30+
-- 概念：Prompt Engineering, 文件轉換
-- 收錄日期: 2026-05-09
+- （無明確來源）
 
 ---
 
@@ -82,3 +80,4 @@ press build my-book.md --theme ./my-theme.css --output pdf
 |------|------|
 | **Stars** | ⭐30 |
 | **收錄日期** | 2026-05-09 |
+| **License** | 未標示 |

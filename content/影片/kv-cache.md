@@ -145,6 +145,6 @@ system_prompt = """
 
 - [KV Cache 課程筆記](../raw/2026-05-03-kv-cache.md)
 
----
-
-_此頁由 daily-llm-trending 自動維護_
+---_此頁由 daily-llm-trending 自動維護_
+- **收錄日期**: 2026-05-10
+- **License**: 未標示

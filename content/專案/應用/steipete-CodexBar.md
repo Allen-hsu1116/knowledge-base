@@ -93,6 +93,10 @@ CodexBar 與 [[kenn-io-agentsview|agentsview]] 都追蹤 AI coding 成本，但 
 
 ← [[anthropics-claude-code|Claude Code]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[Token-Optimization|Token Optimization]]
 
+## 相關概念
+
+← [[anthropics-claude-code] · [[Coding-Agent-CLI] · [[observability] · [[Token-Optimization] · [[kenn-io-agentsview]
+
 ## 來源
 
 - GitHub: https://github.com/steipete/CodexBar

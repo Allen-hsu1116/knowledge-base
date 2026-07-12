@@ -65,7 +65,8 @@ python app.py
 
 ## 來源
 
-> 完整 README 見 raw 檔案
+- **GitHub**: https://github.com/linyqh/NarratoAI
+- raw/2025-06-07-linyqh-NarratoAI.md
 
 ---
 

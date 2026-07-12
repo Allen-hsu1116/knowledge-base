@@ -3,7 +3,7 @@ title: Plausible Analytics
 slug: plausible-analytics
 created: 2018-12-04
 updated: 2018-12-04
-stars: —
+stars: 27669
 language: zh-TW
 topics: [隱私分析, 網站統計, GDPR 合規]
 ---
@@ -117,3 +117,4 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 |------|------|
 | **GitHub** | https://github.com/plausible/analytics |
 | **收錄日期** | 2018-12-04 |
+| **License** | AGPL-3.0 |

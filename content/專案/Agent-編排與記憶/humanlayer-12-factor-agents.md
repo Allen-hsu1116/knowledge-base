@@ -3,7 +3,7 @@ title: 12-Factor Agents
 slug: humanlayer-12-factor-agents
 created: 2025-03-30
 updated: 2025-03-30
-stars: —
+stars: 24159
 language: zh-TW
 topics: [Agent 設計原則, 工程實踐]
 ---
@@ -116,3 +116,4 @@ cd 12-factor-agents
 |------|------|
 | **GitHub** | https://github.com/humanlayer/12-factor-agents |
 | **收錄日期** | 2025-03-30 |
+| **License** | NOASSERTION |

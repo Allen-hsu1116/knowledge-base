@@ -120,3 +120,5 @@ AI Agent 之間的互動研究探討的是：多個 AI Agent 一起工作或對�
 
 ## 來源
 - raw/2026-05-03-ai-agent-interaction.md
+- **收錄日期**: 2026-05-10
+- **License**: 未標示

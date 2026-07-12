@@ -81,3 +81,4 @@ result = rag.query("什麼是 Flash Attention？")
 | **GitHub** | https://github.com/LeDat98/NexusRAG |
 | **Stars** | ⭐'⭐297' |
 | **收錄日期** | 2026-05-09 |
+| **License** | 未標示 |

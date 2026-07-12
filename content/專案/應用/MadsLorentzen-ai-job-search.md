@@ -18,6 +18,13 @@ topics:
 
 > ⭐10.9k · 基於 Claude Code 的 AI 求職框架——Fork 它、填入你的履歷，讓 Claude 評估職缺、客製化 CV、寫求職信、準備面試
 
+## 快速導航
+- [[Coding-Agent-CLI]]
+- [[AI-Skills]]
+- [[productivity]]
+- [[santifer-career-ops]]
+
+
 快速導航：[[Coding-Agent-CLI]] · [[AI-Skills]] · [[productivity]]
 
 ## 是什麼
@@ -84,6 +91,10 @@ claude
 | [[santifer-career-ops\|Career Ops]] | ⭐41.9k | AI Agent 求職 | ✅ | ❌ | ❌ | ❌ |
 
 ← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[productivity]]
+
+## 相關概念
+
+← [[Coding-Agent-CLI] · [[AI-Skills] · [[productivity] · [[santifer-career-ops]
 
 ## 來源
 

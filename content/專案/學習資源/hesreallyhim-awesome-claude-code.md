@@ -67,6 +67,10 @@ Awesome Claude Code 是 Claude Code 生態系中最全面的策展列表之一�
 
 ← [[anthropics-claude-code|Claude Code]] · [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
+## 相關概念
+
+← [[anthropics-claude-code] · [[AI-Skills] · [[AI-Agent] · [[Coding-Agent-CLI] · [[ComposioHQ-awesome-claude-skills]
+
 ## 來源
 
 - GitHub: https://github.com/hesreallyhim/awesome-claude-code

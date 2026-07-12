@@ -71,7 +71,8 @@ python main.py
 
 ## 來源
 
-> 完整 README 見 raw 檔案
+- **GitHub**: https://github.com/harry0703/MoneyPrinterTurbo
+- raw/2025-06-07-harry0703-MoneyPrinterTurbo.md
 
 ---
 

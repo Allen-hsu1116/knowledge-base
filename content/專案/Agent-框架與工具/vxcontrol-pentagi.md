@@ -74,6 +74,10 @@ PentAGI 與 [[pentesting|滲透測試]] 概念直接相關，代表了 AI Agent 
 
 ← [[pentesting]] · [[AI-Agent]] · [[AI-Skills]]
 
+## 相關概念
+
+← [[pentesting] · [[AI-Agent] · [[AI-Skills] · [[usestrix-strix]
+
 ## 來源
 
 - GitHub: https://github.com/vxcontrol/pentagi

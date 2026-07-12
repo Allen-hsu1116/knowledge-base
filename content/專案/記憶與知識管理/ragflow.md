@@ -3,7 +3,7 @@ title: RAGFlow
 slug: ragflow
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 84833
 language: zh-TW
 topics: [RAG, AI Agent]
 ---

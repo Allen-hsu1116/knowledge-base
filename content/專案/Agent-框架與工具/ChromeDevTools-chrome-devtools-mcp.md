@@ -3,7 +3,7 @@ title: chrome-devtools-mcp
 slug: ChromeDevTools-chrome-devtools-mcp
 created: 2026-05-22
 updated: 2026-05-22
-stars: —
+stars: 46697
 language: zh-TW
 topics: [MCP, Browser, AI Agent]
 ---
@@ -127,3 +127,4 @@ Check the performance of https://developers.chrome.com
 |------|------|
 | **GitHub** | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **收錄日期** | 2026-05-22 |
+| **License** | Apache-2.0 |

@@ -119,3 +119,5 @@ OpenClaw 的解剖幫助你理解所有 AI Agent 框架的核心——Context En
 
 ## 來源
 - raw/2026-05-03-agent-anatomy-openclaw.md
+- **收錄日期**: 2026-05-10
+- **License**: 未標示

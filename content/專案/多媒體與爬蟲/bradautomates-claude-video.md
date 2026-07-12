@@ -7,7 +7,7 @@ stars: 4237
 language: Python
 topics:
   - AI-Skills
-  - Claude-Code
+  - anthropics-claude-code
   - video-analysis
   - multimodal
   - agent-skills
@@ -17,7 +17,15 @@ topics:
 
 > ⭐4.2k · 讓 Claude 能「看」任何影片——自動下載、截取畫面、轉錄音訊，全部交給 Claude 分析
 
-快速導航：[[AI-Skills]] · [[Claude-Code]] · [[AI-Agent]] · [[Whisper]]
+## 快速導航
+- [[AI-Skills]]
+- [[anthropics-claude-code]]
+- [[AI-Agent]]
+- [[Whisper]]
+- [[browser-use-video-use]]
+
+
+快速導航：[[AI-Skills]] · [[anthropics-claude-code|Claude Code]] · [[AI-Agent]] · [[Whisper]]
 
 ## 是什麼
 
@@ -97,7 +105,11 @@ npx skills add bradautomates/claude-video -g
 | [[Whisper]] | ⭐99.2k | 獨立工具 | ✅ 純語音 | pip install | PyTorch | — |
 | [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | 獨立工具 | ✅ 純語音 | pip install | PyTorch | — |
 
-← [[AI-Skills]] · [[Claude-Code]] · [[AI-Agent]] · [[Whisper]]
+← [[AI-Skills]] · [[anthropics-claude-code|Claude Code]] · [[AI-Agent]] · [[Whisper]]
+
+## 相關概念
+
+← [[AI-Skills] · [[anthropics-claude-code] · [[AI-Agent] · [[Whisper] · [[browser-use-video-use]
 
 ## 來源
 

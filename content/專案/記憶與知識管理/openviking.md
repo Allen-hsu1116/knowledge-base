@@ -3,7 +3,7 @@ title: OpenViking
 slug: openviking
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 26594
 language: zh-TW
 topics: [context-database, rag, ai-agent]
 ---

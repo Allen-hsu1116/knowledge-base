@@ -85,3 +85,4 @@ curl -X POST http://localhost:8000/ocr/batch \
 | **GitHub** | https://github.com/aiptimizer/TurboOCR.git |
 | **Stars** | ⭐'⭐264' |
 | **收錄日期** | 2026-05-09 |
+| **License** | MIT |

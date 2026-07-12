@@ -17,6 +17,14 @@ topics:
 
 > ⭐13.5k · 阿里巴巴開源 in-process 向量資料庫，毫秒級搜尋十億級向量，零伺服器零設定
 
+## 快速導航
+- [[rag]]
+- [[向量資料庫]]
+- [[AI-Agent]]
+- [[MCP]]
+- [[Milvus]]
+
+
 快速導航：[[rag]] · [[向量資料庫]] · [[AI-Agent]] · [[MCP]]
 
 ## 是什麼
@@ -110,6 +118,10 @@ results = collection.query(
 | [[yichuan-w-LEANN\|LEANN]] | ⭐11.8k | 嵌入式 | 嵌入式庫 | ✅ | ❌ | Python |
 
 ← [[rag]] · [[向量資料庫]] · [[AI-Agent]] · [[MCP]]
+
+## 相關概念
+
+← [[rag] · [[向量資料庫] · [[AI-Agent] · [[MCP] · [[Milvus]
 
 ## 來源
 

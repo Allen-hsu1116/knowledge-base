@@ -22,6 +22,13 @@ topics:
 
 > ⭐10k · 世界首個為 AI Agent 量身打造的 Office 套件——一行指令讓任何 AI Agent 讀寫編輯 Word、Excel、PowerPoint
 
+## 快速導航
+- [[AI-Skills]]
+- [[Coding-Agent-CLI]]
+- [[productivity]]
+- [[presenton-presenton]]
+
+
 快速導航：[[AI-Skills]] · [[Coding-Agent-CLI]] · [[productivity]]
 
 ## 是什麼
@@ -100,6 +107,10 @@ officecli watch deck.pptx
 | [[presenton-presenton\|Presenton]] | ⭐6.4k | AI 簡報 | 部分 | ✅ | ❌ | PPT only |
 
 ← [[AI-Skills]] · [[Coding-Agent-CLI]] · [[productivity]]
+
+## 相關概念
+
+← [[AI-Skills] · [[Coding-Agent-CLI] · [[productivity] · [[presenton-presenton]
 
 ## 來源
 

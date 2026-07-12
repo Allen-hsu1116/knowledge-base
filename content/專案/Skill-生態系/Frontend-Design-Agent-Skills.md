@@ -205,3 +205,4 @@ cp -r skills/webapp-testing ~/.claude/skills/
 |------|------|
 | 類型 | 概念頁 |
 | 收錄日期 | 2026-06-08 |
+| **License** | 未標示 |

@@ -3,7 +3,7 @@ title: Project Golem
 slug: project-golem
 created: 2026-05-10
 updated: 2026-05-10
-stars: —
+stars: 630
 language: zh-TW
 topics: [AI Agent, 記憶系統, MCP]
 ---
@@ -126,3 +126,4 @@ project-golem-plus/
 |------|------|
 | **GitHub** | https://github.com/Arvincreator/project-golem |
 | **收錄日期** | 2026-05-10 |
+| **License** | NOASSERTION |

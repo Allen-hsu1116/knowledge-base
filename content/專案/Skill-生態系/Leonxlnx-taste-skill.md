@@ -81,3 +81,4 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 | **GitHub** | https://github.com/Leonxlnx/taste-skill |
 | **Stars** | ⭐36016 |
 | **收錄日期** | 2026-02-19 |
+| **License** | MIT |

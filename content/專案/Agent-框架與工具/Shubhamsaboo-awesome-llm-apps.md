@@ -69,7 +69,8 @@ python ai_news_agent.py
 
 ## 來源
 
-> 完整 README 見 raw 檔案
+- **GitHub**: https://github.com/Shubhamsaboo/awesome-llm-apps
+- raw/2025-06-07-Shubhamsaboo-awesome-llm-apps.md
 
 ---
 

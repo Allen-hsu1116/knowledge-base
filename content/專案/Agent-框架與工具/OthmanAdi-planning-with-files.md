@@ -75,6 +75,10 @@ Planning with Files 專注於「規劃狀態持久化」這個特定場景，與
 
 ← [[AI-Skills|AI Skills]] · [[context-engineering-basics|Context Engineering]] · [[agentskills-agentskills|Agent Skills]]
 
+## 相關概念
+
+← [[AI-Skills] · [[context-engineering-basics] · [[Coding-Agent-CLI] · [[agentskills-agentskills] · [[anthropics-claude-code]
+
 ## 來源
 
 - GitHub: https://github.com/OthmanAdi/planning-with-files
