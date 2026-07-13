@@ -1230,3 +1230,16 @@ known-repos.json: 271 repos, 362 concepts
 
 更新 backlinks: document-parsing.md, 語音辨識.md, embedded-AI.md, litellm.md
 新增概念: AI Gateway → index.md 工具與協議區
+
+## 2026-07-13 daily-llm-trending
+
+新增 2 個 repos：
+- **virattt/ai-hedge-fund** (⭐61.4k) — 多 Agent AI 對沖基金，13 位投資大師模擬 → wiki/virattt-ai-hedge-fund.md (📊 應用)
+- **davila7/claude-code-templates** (⭐29.2k) — Claude Code 模板庫，100+ Agent/Command/MCP/Hook/Skill → wiki/davila7-claude-code-templates.md (🤖 Agent 框架與工具)
+
+跳過 3 個非 LLM 相關：home-assistant/core (智慧家庭), chen08209/FlClash (代理客戶端), PrefectHQ/prefect (資料管道)
+
+更新 backlinks: agent-trading.md (+AI Hedge Fund), TauricResearch-TradingAgents.md (比較表), hesreallyhim-awesome-claude-code.md (比較表)
+新增概念: AI-hedge-fund, investor-agent-simulation, claude-code-templates, template-management
+
+known-repos.json: +2 repos, +4 concepts

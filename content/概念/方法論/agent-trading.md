@@ -38,6 +38,8 @@ Agent 交易的優勢在於能整合多種資訊來源並做出即時決策。�
   👉 詳見 [[FinceptTerminal]]
 - **MiroFish** → 群體智慧 + 世界模型，多 Agent 金融預測
   👉 詳見 [[666ghj-MiroFish]]
+- **AI Hedge Fund** → 13 位投資大師 Agent 模擬，LLM 驅動的選股 + 風控全流程
+  👉 詳見 [[virattt-ai-hedge-fund]]
 
 ## 相關概念
 

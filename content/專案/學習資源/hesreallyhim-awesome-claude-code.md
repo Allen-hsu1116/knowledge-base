@@ -59,6 +59,7 @@ npx skills add <repo-owner>/<repo-name>
 | 方案 | 類型 | 範圍 | Stars |
 |------|------|------|-------|
 | **Awesome Claude Code** | 策展列表 | 19 大分類，Claude Code 全生態 | ⭐48.4k |
+| [[davila7-claude-code-templates\|Claude Code Templates]] | 模板庫 + 工具 | Agent/Command/MCP/Setting/Hook/Skill，npx 一鍵安裝 | ⭐29.2k |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | 策展列表 | 1000+ Skills，Claude Code/Codex/Cursor | ⭐64.6k |
 | [[sickn33-antigravity-awesome-skills\|Antigravity Awesome Skills]] | 策展列表 | MCP + Skills | ⭐36.2k |
 | [[github-awesome-copilot\|Awesome GitHub Copilot]] | 策展列表 | Copilot 生態系 | ⭐35.8k |

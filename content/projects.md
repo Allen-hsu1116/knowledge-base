@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[davila7-claude-code-templates\|Claude Code Templates]] | ⭐29.2k | Claude Code 模板庫, 100+ Agent/Command/MCP/Hook/Skill, npx 一鍵安裝, Analytics, Health Check | 2026-07-13 |
 | [[vxcontrol-pentagi\|PentAGI]] | ⭐19.4k | 全自主 AI Agent 滲透測試, 多 Agent 委派, 沙箱隔離, 20+ 安全工具, Graphiti 知識圖譜, 10+ LLM 提供者, 自架 | 2026-07-10 |
 | [[wonderwhy-er-DesktopCommanderMCP\|Desktop Commander MCP]] | ⭐6375 | MCP Server, 終端控制, 檔案系統, Excel/PDF/DOCX, 遠端 MCP, Docker 沙箱 | 2026-07-09 |
 | [[OthmanAdi-planning-with-files\|Planning with Files]] | ⭐24.7k | 檔案規劃, Crash-proof, Session 恢復, 18+ 平台, Agent Skills, 多 Agent 共享, 完成驗證門 | 2026-07-06 |
@@ -265,6 +266,7 @@ updated: 2026-07-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[virattt-ai-hedge-fund\|AI Hedge Fund]] | ⭐61.4k | AI Agent, 多Agent交易, 13 投資大師模擬, LLM, 金融預測, 回測 | 2026-07-13 |
 | [[MadsLorentzen-ai-job-search\|AI Job Search]] | ⭐10898 | AI 求職框架, Claude Code, Drafter-Reviewer 雙 Agent, PDF 驗證迴圈, ATS 可讀性驗證, LaTeX CV/求職信, 6+ 指令 | 2026-07-08 |
 | [[steipete-CodexBar\|CodexBar]] | ⭐16.2k | macOS 選單列, 57+ AI provider 使用量監控, 重置倒數, 信用餘額, 支出儀表板, CLI, WidgetKit | 2026-07-06 |
 | [[soxoj-maigret\|Maigret]] | ⭐34379 | OSINT, 用戶名搜尋, 3000+ 站台, AI 分析模式, 遞迴搜尋, Tor/I2P, 多格式報告 | 2026-06-30 |
