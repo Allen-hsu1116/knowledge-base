@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-13
+updated: 2026-07-14
 ---
 
 # 專案索引
@@ -312,6 +312,7 @@ updated: 2026-07-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Nutlope-hallmark\|Hallmark]] | ⭐5.1k | 反 AI 味設計 Skill, 57 道 slop-test gate, 21 種巨觀結構, 20 種主題, 14 種導覽原型, OKLCH 色彩, Claude Code/Cursor/Codex | 2026-07-14 |
 | [[VoltAgent-awesome-design-md\|Awesome DESIGN.md]] | ⭐99.7k | DESIGN.md 設計系統文件, 73 網站, Google Stitch, AI Agent UI 生成, Vibe Coding, 設計 Token | 2026-07-10 |
 | [[iOfficeAI-OfficeCLI\|OfficeCLI]] | ⭐9959 | AI Agent Office 套件, Word/Excel/PPT, 單一二進位, HTML/PNG 渲染引擎, LaTeX 方程式, Mermaid 圖表, 即時預覽 | 2026-07-08 |
 | [[coreyhaines31-marketingskills\|Marketing Skills]] | ⭐36.4k | 行銷 Skills, 45+ skills, CRO/SEO/文案, Agent Skills 規範, product-marketing 基礎, 7 大領域 | 2026-07-06 |

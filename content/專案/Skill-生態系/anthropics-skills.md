@@ -75,6 +75,7 @@ python scripts/with_server.py \
 | 方案 | 定位 | 與 Anthropic Skills 的關係 |
 |------|------|---------------------------|
 | [[AI-Skills|AI Skills 通用概念]] | 概念框架 | Skills 是 AI Skills 概念的官方實作 |
+| [[Nutlope-hallmark|Hallmark]] | 設計 Skill | 受 Anthropic frontend-design 啟發，加入 57 道 slop-test gate 和結構多樣性強制 |
 | [[frontend-design]] | 具體技能 | 倉庫中的前端設計技能定義檔 |
 | [[anthropics-skills]] | 具體技能 | 倉庫中的網頁測試技能定義檔 |
 | [[AI-Skills]] | 生態系 | Skills 是該生態系的標竿專案 |

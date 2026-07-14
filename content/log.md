@@ -2,10 +2,21 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-11
+updated: 2026-07-14
 stars: —
 language: zh-TW
 ---
+
+## 2026-07-14（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **Nutlope/hallmark** — 反 AI 味設計 Skill，57 道 slop-test gate + 21 種巨觀結構 + 20 種主題，讓 Claude Code/Cursor/Codex 生成的 UI 不再有 AI 味（⭐ 5,149）
+
+### 分類
+- 🛠 Skill 生態系：Hallmark
+
+### 回頭更新
+- 更新 known-repos.json（+1 repo）
 
 ## 2026-07-11（每日 LLM 熱門專案搜尋）
 
