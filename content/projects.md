@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-14
+updated: 2026-07-15
 ---
 
 # 專案索引
@@ -231,6 +231,7 @@ updated: 2026-07-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[HenryNdubuaku-maths-cs-ai-compendium\|Maths, CS & AI Compendium]] | ⭐5.2k | 開源教科書, 18 章全棧, 數學/ML/AI/GPU, MCP Server 知識庫, 面試實戰驗證 | 2026-07-15 |
 | [[hesreallyhim-awesome-claude-code\|Awesome Claude Code]] | ⭐48.4k | 策展列表, 19 大分類, Claude Code 全生態, Skills/Plugins/Hooks/Subagents, GitHub shields | 2026-07-06 |
 | [[harvard-edge-cs249r_book\|ML Systems (CS249r)]] | ⭐25586 | Harvard ML Systems 教科書, AI Engineering, TinyTorch, Labs, MLSys·im 模擬器, 硬體 Kits, StaffML 面試, MIT Press 2026 | 2026-07-03 |
 | [[microsoft-AI-For-Beginners\|AI for Beginners]] | ⭐49365 | AI 入門課程, 12 週 24 課, PyTorch+TensorFlow, 電腦視覺, NLP, GAN, RNN, 50+ 語言翻譯 | 2026-07-01 |
@@ -358,6 +359,7 @@ updated: 2026-07-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[chenyme-grok2api\|Grok2API]] | ⭐5.8k | AI Gateway, Grok 專用, 多帳號池調度, OpenAI+Anthropic 雙協議, Go, 媒體生成 | 2026-07-15 |
 | [[vercel-next.js\|Next.js]] | ⭐140706 | 全棧 React 框架, SSR/SSG/ISR, App Router, Server Components, SWC 編譯器, API Routes, Edge Runtime | 2026-07-11 |
 | [[microsoft-TypeScript\|TypeScript]] | ⭐109776 | JavaScript 超集, 靜態型別, 漸進式型別, 型別推論, Compiler API | 2026-07-11 |
 | [[oven-sh-bun\|Bun]] | ⭐94228 | 一體化 JS/TS 工具鏈, Rust 執行環境, JavaScriptCore, Node.js 替代, 套件管理, 測試框架, 打包器 | 2026-07-11 |

@@ -2,7 +2,7 @@
 title: AI Gateway
 slug: AI-Gateway
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-15
 language: zh-TW
 ---
 
@@ -34,6 +34,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
   👉 詳見 [[litellm|LiteLLM]]
 - **Open WebUI** → 自架 LLM 平台內建多模型路由，Docker 一鍵部署
   👉 詳見 [[open-webui-open-webui|Open WebUI]]
+- **Grok2API** → Grok 專用多帳號網關，三 Provider 獨立路由 + 智慧調度 + OpenAI/Anthropic 雙協議相容
+  👉 詳見 [[chenyme-grok2api|Grok2API]]
 
 ## 相關概念
 
