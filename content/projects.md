@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-15
+updated: 2026-07-16
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-07-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[openinterpreter-openinterpreter\|Open Interpreter]] | ⭐65.5k | Coding Agent CLI, 低成本模型, 多 Harness 模擬, 原生沙箱, QA Skill, ACP, Rust | 2026-07-16 |
+| [[Dicklesworthstone-destructive_command_guard\|dcg (Destructive Command Guard)]] | ⭐4.8k | Agent 安全, 命令攔截 Hook, 50+ Pack, 10+ Agent 平台, SIMD 加速, Rust | 2026-07-16 |
 | [[davila7-claude-code-templates\|Claude Code Templates]] | ⭐29.2k | Claude Code 模板庫, 100+ Agent/Command/MCP/Hook/Skill, npx 一鍵安裝, Analytics, Health Check | 2026-07-13 |
 | [[vxcontrol-pentagi\|PentAGI]] | ⭐19.4k | 全自主 AI Agent 滲透測試, 多 Agent 委派, 沙箱隔離, 20+ 安全工具, Graphiti 知識圖譜, 10+ LLM 提供者, 自架 | 2026-07-10 |
 | [[wonderwhy-er-DesktopCommanderMCP\|Desktop Commander MCP]] | ⭐6375 | MCP Server, 終端控制, 檔案系統, Excel/PDF/DOCX, 遠端 MCP, Docker 沙箱 | 2026-07-09 |

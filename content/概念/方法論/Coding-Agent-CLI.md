@@ -51,6 +51,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[AI-Skills]] — CLAUDE.md 是 Agent 行為規範的核心載體
 - [[harness-engineering]] — CLI 的配置和規則是 Harness Engineering 的實作
 - [[Coding-Agent-CLI]] — 工具包為 CLI 提供搜尋和導航能力
+- [[openinterpreter-openinterpreter|Open Interpreter]] — 低成本模型 Coding Agent，多 Harness 模擬
+- [[Dicklesworthstone-destructive_command_guard|dcg]] — AI Coding Agent 命令安全守衛
 
 ## 來源
 

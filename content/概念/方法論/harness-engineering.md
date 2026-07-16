@@ -55,6 +55,7 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - [[prompt-security]] — 安全限制是 Harness 的防禦邊界
 - [[context-engineering-basics]] — Context Engineering 是 Harness 按需載入的基礎
 - [[Token-Optimization]] — Harness 設計需考慮 token 消耗
+- [[openinterpreter-openinterpreter|Open Interpreter]] — 多 Harness 模擬，低成本模型優化
 
 ## 來源
 

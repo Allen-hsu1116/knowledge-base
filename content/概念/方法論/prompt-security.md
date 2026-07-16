@@ -50,6 +50,7 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 - [[MCP]] — MCP 定義了 Agent 的工具存取邊界
 - [[Token-Optimization]] — 過度壓縮 token 可能影響指令完整性
 - [[self-correction]] — 自我修正可用於偵測攻擊行為
+- [[Dicklesworthstone-destructive_command_guard|dcg]] — 命令層安全守衛，攔截危險命令執行
 
 ## 來源
 
