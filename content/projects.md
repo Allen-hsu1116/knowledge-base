@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-16
+updated: 2026-07-17
 ---
 
 # 專案索引
@@ -180,6 +180,7 @@ updated: 2026-07-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OpenCut-app-OpenCut\|OpenCut]] | ⭐74k | 開源 CapCut 替代, 跨平台影片編輯器, Rust 核心, Plugin-first, MCP Server, 無頭模式 | 2026-07-17 |
 | [[kyutai-labs-pocket-tts\|Pocket TTS]] | ⭐6168 | TTS, CPU 原生, 100M 參數, 6x 即時, 200ms 延遲, 語音克隆, 6 語言, 瀏覽器端 WASM | 2026-07-08 |
 | [[AhmadIbrahiim-Website-downloader\|Website Downloader]] | ⭐3999 | 網站完整下載, wget 鏡像, CSS/JS/圖片, 自動 ZIP 壓縮, Web 介面, 6+ 雲端部署 | 2026-07-08 |
 | [[bradautomates-claude-video\|Claude Video (/watch)]] | ⭐4237 | 影片分析 Skill, Claude 看影片, 場景感知截取, 免費字幕優先, Whisper fallback, 畫面去重, 50+ Agent 宿主 | 2026-07-07 |
@@ -233,6 +234,7 @@ updated: 2026-07-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ossu-computer-science\|OSSU Computer Science]] | ⭐206.5k | 完整免費自學資工系課程, Harvard/MIT/Princeton 精選, CS 2013 課綱, 2 年可完成, 4 階段架構 | 2026-07-17 |
 | [[HenryNdubuaku-maths-cs-ai-compendium\|Maths, CS & AI Compendium]] | ⭐5.2k | 開源教科書, 18 章全棧, 數學/ML/AI/GPU, MCP Server 知識庫, 面試實戰驗證 | 2026-07-15 |
 | [[hesreallyhim-awesome-claude-code\|Awesome Claude Code]] | ⭐48.4k | 策展列表, 19 大分類, Claude Code 全生態, Skills/Plugins/Hooks/Subagents, GitHub shields | 2026-07-06 |
 | [[harvard-edge-cs249r_book\|ML Systems (CS249r)]] | ⭐25586 | Harvard ML Systems 教科書, AI Engineering, TinyTorch, Labs, MLSys·im 模擬器, 硬體 Kits, StaffML 面試, MIT Press 2026 | 2026-07-03 |
@@ -269,6 +271,7 @@ updated: 2026-07-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hasaneyldrm-exercises-dataset\|Exercises Dataset]] | ⭐15k | 1,324 健身動作資料集, 動畫 GIF, 10 語言步驟, JSON Schema, 互動瀏覽器, SQL/API 整合指南 | 2026-07-17 |
 | [[virattt-ai-hedge-fund\|AI Hedge Fund]] | ⭐61.4k | AI Agent, 多Agent交易, 13 投資大師模擬, LLM, 金融預測, 回測 | 2026-07-13 |
 | [[MadsLorentzen-ai-job-search\|AI Job Search]] | ⭐10898 | AI 求職框架, Claude Code, Drafter-Reviewer 雙 Agent, PDF 驗證迴圈, ATS 可讀性驗證, LaTeX CV/求職信, 6+ 指令 | 2026-07-08 |
 | [[steipete-CodexBar\|CodexBar]] | ⭐16.2k | macOS 選單列, 57+ AI provider 使用量監控, 重置倒數, 信用餘額, 支出儀表板, CLI, WidgetKit | 2026-07-06 |
@@ -315,6 +318,7 @@ updated: 2026-07-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ibelick-ui-skills\|UI Skills]] | ⭐4.3k | 設計工程師 UI Skill 路由, 分類管理, CLI 查詢, npx 一鍵啟動, motion/layout/color Skill 集 | 2026-07-17 |
 | [[Nutlope-hallmark\|Hallmark]] | ⭐5.1k | 反 AI 味設計 Skill, 57 道 slop-test gate, 21 種巨觀結構, 20 種主題, 14 種導覽原型, OKLCH 色彩, Claude Code/Cursor/Codex | 2026-07-14 |
 | [[VoltAgent-awesome-design-md\|Awesome DESIGN.md]] | ⭐99.7k | DESIGN.md 設計系統文件, 73 網站, Google Stitch, AI Agent UI 生成, Vibe Coding, 設計 Token | 2026-07-10 |
 | [[iOfficeAI-OfficeCLI\|OfficeCLI]] | ⭐9959 | AI Agent Office 套件, Word/Excel/PPT, 單一二進位, HTML/PNG 渲染引擎, LaTeX 方程式, Mermaid 圖表, 即時預覽 | 2026-07-08 |
@@ -361,6 +365,7 @@ updated: 2026-07-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[PostHog-posthog\|PostHog]] | ⭐35.8k | 開源產品分析+AI 觀測, self-driving mode, session replay, feature flags, A/B 實驗, MCP 整合, AI observability | 2026-07-17 |
 | [[chenyme-grok2api\|Grok2API]] | ⭐5.8k | AI Gateway, Grok 專用, 多帳號池調度, OpenAI+Anthropic 雙協議, Go, 媒體生成 | 2026-07-15 |
 | [[vercel-next.js\|Next.js]] | ⭐140706 | 全棧 React 框架, SSR/SSG/ISR, App Router, Server Components, SWC 編譯器, API Routes, Edge Runtime | 2026-07-11 |
 | [[microsoft-TypeScript\|TypeScript]] | ⭐109776 | JavaScript 超集, 靜態型別, 漸進式型別, 型別推論, Compiler API | 2026-07-11 |
