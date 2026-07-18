@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-17
+updated: 2026-07-18
 ---
 
 # 專案索引
@@ -151,6 +151,7 @@ updated: 2026-07-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[PrismML-Eng-Bonsai-demo\|Bonsai Demo]] | ⭐1.7k | 1-bit/Ternary LLM, 超低精度量化, 27B 視覺語言, iPhone 可跑, llama.cpp/MLX, Tool Calling, MCP, 256k 上下文 | 2026-07-18 |
 | [[pytorch-pytorch\|PyTorch]] | ⭐101233 | 深度學習框架, 動態計算圖, autograd, GPU/TPU 加速, 分散式訓練, TorchScript, 量化, LLM 生態基石 | 2026-07-03 |
 | [[hiyouga-LlamaFactory\|LlamaFactory]] | ⭐72532 | LLM 微調, 100+ 模型, LoRA/QLoRA, SFT/DPO/PPO, vLLM/SGLang 推理, Web UI | 2026-06-27 |
 | [[LMCache-LMCache\|LMCache]] | ⭐8600 | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
@@ -169,6 +170,7 @@ updated: 2026-07-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[RyanCodrai-turbovec\|turbovec]] | ⭐13.3k | 向量索引, TurboQuant, 無訓練量化, 16x 壓縮, SIMD 加速, Rust, Python 綁定, LangChain/LlamaIndex/Haystack 整合 | 2026-07-18 |
 | [[alibaba-zvec\|Zvec]] | ⭐13506 | In-process 向量資料庫, 阿里巴巴, 毫秒級搜尋, Dense+Sparse, 全文搜尋, 混合搜尋, DiskANN, WAL, Python/Node/Go/Rust/Dart | 2026-07-07 |
 | [[elastic-elasticsearch\|Elasticsearch]] | ⭐77337 | 分散式搜尋引擎, 向量資料庫, RAG, 全文搜尋, 混合搜尋, Lucene, Kibana | 2026-07-04 |
 | [[yichuan-w-LEANN\|LEANN]] | ⭐11790 | RAG, 向量資料庫, MCP, 本地隱私 | 2026-05-28 |
@@ -234,6 +236,7 @@ updated: 2026-07-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anthropics-cwc-workshops\|Code with Claude Workshops]] | ⭐1.6k | Anthropic 官方工作坊, 9 個實作 workshop, Claude Managed Agents, Skills, MCP, Evals, Agent Memory, 多 Agent 分解 | 2026-07-18 |
 | [[ossu-computer-science\|OSSU Computer Science]] | ⭐206.5k | 完整免費自學資工系課程, Harvard/MIT/Princeton 精選, CS 2013 課綱, 2 年可完成, 4 階段架構 | 2026-07-17 |
 | [[HenryNdubuaku-maths-cs-ai-compendium\|Maths, CS & AI Compendium]] | ⭐5.2k | 開源教科書, 18 章全棧, 數學/ML/AI/GPU, MCP Server 知識庫, 面試實戰驗證 | 2026-07-15 |
 | [[hesreallyhim-awesome-claude-code\|Awesome Claude Code]] | ⭐48.4k | 策展列表, 19 大分類, Claude Code 全生態, Skills/Plugins/Hooks/Subagents, GitHub shields | 2026-07-06 |
