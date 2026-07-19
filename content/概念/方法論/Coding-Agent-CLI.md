@@ -53,6 +53,7 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[Coding-Agent-CLI]] — 工具包為 CLI 提供搜尋和導航能力
 - [[openinterpreter-openinterpreter|Open Interpreter]] — 低成本模型 Coding Agent，多 Harness 模擬
 - [[Dicklesworthstone-destructive_command_guard|dcg]] — AI Coding Agent 命令安全守衛
+- [[MoonshotAI-kimi-cli|Kimi CLI]] — Moonshot AI 終端 AI Agent，Shell 模式 + ACP + MCP
 
 ## 來源
 

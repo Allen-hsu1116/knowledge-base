@@ -40,6 +40,10 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
   👉 詳見 [[czlonkowski-n8n-mcp|n8n MCP]]
 - **Awesome MCP Servers** → 30+ 分類的 MCP Server 策展列表
   👉 詳見 [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
+- **Kimi CLI** → Moonshot AI 終端 Agent，`kimi mcp` 子命令管理 MCP Server
+  👉 詳見 [[MoonshotAI-kimi-cli|Kimi CLI]]
+- **wigolo** → 本地優先 MCP 網頁情報層，10 工具免 API key
+  👉 詳見 [[KnockOutEZ-wigolo|wigolo]]
 
 ## 相關概念
 

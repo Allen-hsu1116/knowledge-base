@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[MoonshotAI-kimi-cli\|Kimi CLI]] | ⭐9.5k | Coding Agent CLI, Moonshot AI, Shell 模式, ACP, MCP, VS Code, Zsh 整合 | 2026-07-19 |
 | [[openinterpreter-openinterpreter\|Open Interpreter]] | ⭐65.5k | Coding Agent CLI, 低成本模型, 多 Harness 模擬, 原生沙箱, QA Skill, ACP, Rust | 2026-07-16 |
 | [[Dicklesworthstone-destructive_command_guard\|dcg (Destructive Command Guard)]] | ⭐4.8k | Agent 安全, 命令攔截 Hook, 50+ Pack, 10+ Agent 平台, SIMD 加速, Rust | 2026-07-16 |
 | [[davila7-claude-code-templates\|Claude Code Templates]] | ⭐29.2k | Claude Code 模板庫, 100+ Agent/Command/MCP/Hook/Skill, npx 一鍵安裝, Analytics, Health Check | 2026-07-13 |
@@ -182,6 +183,7 @@ updated: 2026-07-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[KnockOutEZ-wigolo\|wigolo]] | ⭐1.2k | 本地優先 MCP 網頁情報層, 10 工具, 18 引擎搜尋, 免 API key, byte-pinned evidence, REST+SDK, 自主收集 | 2026-07-19 |
 | [[OpenCut-app-OpenCut\|OpenCut]] | ⭐74k | 開源 CapCut 替代, 跨平台影片編輯器, Rust 核心, Plugin-first, MCP Server, 無頭模式 | 2026-07-17 |
 | [[kyutai-labs-pocket-tts\|Pocket TTS]] | ⭐6168 | TTS, CPU 原生, 100M 參數, 6x 即時, 200ms 延遲, 語音克隆, 6 語言, 瀏覽器端 WASM | 2026-07-08 |
 | [[AhmadIbrahiim-Website-downloader\|Website Downloader]] | ⭐3999 | 網站完整下載, wget 鏡像, CSS/JS/圖片, 自動 ZIP 壓縮, Web 介面, 6+ 雲端部署 | 2026-07-08 |
@@ -274,6 +276,7 @@ updated: 2026-07-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[elder-plinius-G0DM0D3\|G0DM0D3]] | ⭐9.5k | 多模型越獄對話介面, 60+ OpenRouter 模型競賽, Parseltongue 33 擾動, AutoTune, Ollama, 紅隊測試 | 2026-07-19 |
 | [[hasaneyldrm-exercises-dataset\|Exercises Dataset]] | ⭐15k | 1,324 健身動作資料集, 動畫 GIF, 10 語言步驟, JSON Schema, 互動瀏覽器, SQL/API 整合指南 | 2026-07-17 |
 | [[virattt-ai-hedge-fund\|AI Hedge Fund]] | ⭐61.4k | AI Agent, 多Agent交易, 13 投資大師模擬, LLM, 金融預測, 回測 | 2026-07-13 |
 | [[MadsLorentzen-ai-job-search\|AI Job Search]] | ⭐10898 | AI 求職框架, Claude Code, Drafter-Reviewer 雙 Agent, PDF 驗證迴圈, ATS 可讀性驗證, LaTeX CV/求職信, 6+ 指令 | 2026-07-08 |

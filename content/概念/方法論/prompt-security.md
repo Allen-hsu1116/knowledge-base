@@ -39,6 +39,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
   👉 詳見 [[mukul975-Anthropic-Cybersecurity-Skills]]
 - **Promptfoo** → LLM 評測和紅隊測試平台，CI/CD 整合
   👉 詳見 [[promptfoo-promptfoo]]
+- **G0DM0D3** → 多模型越獄競賽介面，Parseltongue 33 種輸入擾動技術
+  👉 詳見 [[elder-plinius-G0DM0D3|G0DM0D3]]
 
 ## 相關概念
 
