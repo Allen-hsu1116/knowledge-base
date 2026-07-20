@@ -93,6 +93,8 @@ pi install npm:@ff-labs/pi-fff
 
 ## 來源
 
+- 原始素材: `raw/2026-06-02-dmtrKovalenko-fff.md`
+
 - GitHub: [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
 - Raw 檔案: 原始資料
 

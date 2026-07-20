@@ -92,6 +92,8 @@ Open Interpreter 是 Codex 分支，Claude Code 是 Anthropic 官方產品。Ope
 - **Open Interpreter vs [[OpenHands-OpenHands|OpenHands]]**
 OpenHands 是多後端 Agent 控制中心，Open Interpreter 更偏向終端原生體驗與 Harness 切換。
 
+
+## 相關概念
 ← [[Coding-Agent-CLI|Coding Agent CLI]] · [[harness-engineering|Harness Engineering]] · [[LLM|LLM]] · [[MCP|MCP]]
 
 ## 來源

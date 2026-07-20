@@ -95,10 +95,12 @@ export WIGOLO_LLM_PROVIDER=ollama
 | **wigolo** | ⭐1.2k | 不需要 | ✅ | ✅ (18) | ✅ | ✅ |
 | [[firecrawl-firecrawl\|Firecrawl]] | ⭐132k | 需要 | — | ✅ | ✅ | ✅ |
 | [[D4Vinci-Scrapling\|Scrapling]] | ⭐57k | 不需要 | — | — | ✅ | ✅ |
-| [[unclecode-crawl4ai\|Crawl4AI]] | ⭐65k | 不需要 | — | — | ✅ | ✅ |
+| [[Crawl4AI\|Crawl4AI]] | ⭐65k | 不需要 | — | — | ✅ | ✅ |
 
 wigolo 的核心差異化在於「全工具免 API key + 本地記憶複利」。Firecrawl 需要付費 API key，Crawl4AI 和 Scrapling 偏重爬蟲/抓取。wigolo 把搜尋、抓取、爬蟲、擷取、快取、研究全整合在一個本地優先層，且每個搜尋結果帶有 byte-pinned evidence 和可解釋分數——這是付費服務也不一定有的透明度。
 
+
+## 相關概念
 ← [[網頁爬蟲]] · [[MCP]] · [[rag]]
 
 ## 來源

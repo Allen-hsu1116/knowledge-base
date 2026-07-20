@@ -2,7 +2,7 @@
 title: HiChunk
 slug: hichunk
 created: 2026-05-13
-stars: '⭐96'
+stars: 96
 updated: 2026-05-13
 language: zh-TW
 topics: [RAG, 文件分塊, 階層式結構化]
@@ -129,5 +129,5 @@ GitHub: [TencentCloudADP/hichunk](https://github.com/TencentCloudADP/hichunk) ·
 | 項目 | 值 |
 |------|------|
 | **GitHub** | https://github.com/TencentCloudADP/hichunk.git |
-| **Stars** | ⭐'⭐96' |
+| **Stars** | ⭐96 |
 | **收錄日期** | 2026-05-13 |

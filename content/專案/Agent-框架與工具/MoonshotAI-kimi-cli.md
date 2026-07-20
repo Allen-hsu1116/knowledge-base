@@ -113,6 +113,8 @@ make build
 
 Kimi CLI 的差異化在於 **Shell 模式**（Ctrl-X 切換）和 **Zsh 整合**——它不只是 coding agent，還直接成為 shell 的一部分。相比之下，Claude Code 和 OpenCode 更偏純 Agent 工作流。Kimi CLI 背後是 Moonshot AI 的模型能力（Kimi 系列），在中文場景有天然優勢。
 
+
+## 相關概念
 ← [[Coding-Agent-CLI]] · [[MCP]] · [[AI-Agent]]
 
 ## 來源

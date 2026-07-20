@@ -18,6 +18,8 @@ topics:
 
 > ⭐35.8k · 開源產品分析與 AI 可觀測平台，從分析、session replay 到 feature flags、實驗、錯誤追蹤一站式搞定
 
+
+## 快速導航
 快速導航：[[observability|可觀測性]] · [[langfuse-langfuse|Langfuse]] · [[MCP]]
 
 ## 是什麼

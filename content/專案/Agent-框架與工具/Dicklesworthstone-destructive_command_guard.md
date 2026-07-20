@@ -98,6 +98,8 @@ Cybersecurity Skills 是安全評估的 Agent Skill 集合，dcg 是跨 Agent �
 - **dcg vs [[arthurpanhku-DocSentinel|DocSentinel]]**
 DocSentinel 專注 SSDLC 安全評估流程，dcg 專注即時命令攔截，定位不同。
 
+
+## 相關概念
 ← [[prompt-security|Prompt Security]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[anthropics-claude-code|Claude Code]]
 
 ## 來源

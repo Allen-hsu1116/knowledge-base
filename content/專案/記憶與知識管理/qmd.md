@@ -2,7 +2,7 @@
 title: QMD
 slug: qmd
 created: 2026-05-15
-stars: '⭐24.9k'
+stars: 24863
 updated: 2026-05-15
 language: zh-TW
 topics: [RAG, 本地搜尋引擎, MCP]
@@ -89,5 +89,5 @@ GitHub: https://github.com/tobi/qmd | Stars: ⭐24,863 | License: MIT | 收錄�
 | 項目 | 值 |
 |------|------|
 | **GitHub** | https://github.com/tobi/qmd |
-| **Stars** | ⭐'⭐24.9k' |
+| **Stars** | ⭐24,863 |
 | **收錄日期** | 2026-05-15 |

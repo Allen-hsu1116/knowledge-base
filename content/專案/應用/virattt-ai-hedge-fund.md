@@ -84,6 +84,8 @@ poetry run python src/backtester.py --ticker AAPL,MSFT,NVDA
 
 AI Hedge Fund 與 [[TauricResearch-TradingAgents|TradingAgents]] 都是多 Agent 交易框架，但 AI Hedge Fund 的獨特之處在於模擬具名投資大師的決策風格（人格化 Agent），而 TradingAgents 模擬的是交易公司的職能分工（分析師、交易員、風控）。兩者互補：AI Hedge Fund 適合探索不同投資哲學如何分析同一標的，TradingAgents 適合研究結構化的交易決策流程。
 
+
+## 相關概念
 ← [[AI-Agent|AI Agent]] · [[agent-trading|Agent 交易]] · [[financial-forecasting|金融預測]] · [[virattt-dexter|Dexter]]
 
 ## 來源

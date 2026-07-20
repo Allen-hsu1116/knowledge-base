@@ -5,14 +5,14 @@ created: 2026-05-05
 aliases:
   - OpenCLI
 updated: 2026-06-14
-stars: 18,700
+stars: 26909
 language: zh-TW
 topics: [ai-agent, mcp, ai-skills]
 ---
 
 # OpenCLI
 
-> ⭐— · 詳見 [[jackwener-OpenCLI]]
+> ⭐26.9k · 詳見 [[jackwener-OpenCLI]]
 
 ## 快速導航
 
@@ -95,7 +95,7 @@ Skills 讓 AI Agent 可以透過已登入的瀏覽器 session 操作網站。
 | 項目 | 值 |
 |------|-----|
 | GitHub | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) |
-| Stars | ⭐— |
+| Stars | ⭐26,909 |
 | License | MIT |
 | Language | Node.js |
 | 收錄日期 | 2026-05-05 |

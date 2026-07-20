@@ -92,6 +92,8 @@ curl http://127.0.0.1:8000/v1/responses \
 
 Grok2API 的獨特定位是「Grok 專用多帳號網關」——其他方案聚合多家 Provider，Grok2API 則專注於 Grok 三個介面的深度整合與帳號池調度。
 
+
+## 相關概念
 ← [[AI-Gateway|AI Gateway]] · [[LLM|LLM]] · [[MCP|MCP]]
 
 ## 來源

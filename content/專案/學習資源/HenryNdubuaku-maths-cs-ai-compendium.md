@@ -75,6 +75,8 @@ cd maths-cs-ai-compendium
 
 Compendium 的獨特定位是「全棧 + 直覺 + MCP」——其他資源專注 LLM 或入門，Compendium 從數學基礎到 GPU 程式設計全覆蓋，而且內建 MCP Server 讓 AI 助手直接當知識庫用。
 
+
+## 相關概念
 ← [[AI-Tutoring|AI Tutoring]] · [[llm-knowledge-base|LLM 知識庫]] · [[MCP|MCP]]
 
 ## 來源

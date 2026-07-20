@@ -18,6 +18,8 @@ topics:
 
 > ⭐5.1k · 反 AI 味設計 Skill，讓 Claude Code、Cursor、Codex 生成的 UI 看起來像人做的，不是 AI 吐出來的
 
+
+## 快速導航
 快速導航：[[AI-Skills|AI Skills]] · [[frontend-design|前端設計]] · [[anthropics-skills|Anthropic Skills]] · [[Leonxlnx-taste-skill|Taste Skill]]
 
 ## 是什麼

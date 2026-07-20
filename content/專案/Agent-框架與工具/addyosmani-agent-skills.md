@@ -74,6 +74,8 @@ addyosmani/agent-skills 是 [[AI-Skills|Agent Skills 生態系]] 的核心專案
 
 ## 來源
 
+- 原始素材: `raw/2026-04-28-addyosmani-agent-skills.md`
+
 - GitHub: https://github.com/addyosmani/agent-skills
 
 ---

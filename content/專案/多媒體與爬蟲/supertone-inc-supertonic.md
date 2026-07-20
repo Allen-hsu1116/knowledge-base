@@ -3,7 +3,7 @@ title: Supertonic
 slug: supertone-inc-supertonic
 created: 2026-05-16
 date: 2026-05-16
-stars: '⭐6.0k'
+stars: 13316
 updated: 2026-06-14
 language: zh-TW
 topics: [TTS, 邊緣裝置, 語音合成]
@@ -11,14 +11,14 @@ topics: [TTS, 邊緣裝置, 語音合成]
 
 # Supertonic
 
-> ⭐6.0k · 閃電般快速的裝置端多語言 TTS 系統——基於 ONNX Runtime，完全在本機推論，無需雲端、無 API 呼叫、無隱私疑慮。支援 31 種語言，可部署於瀏覽器、桌面與邊緣裝置。
+> ⭐13.3k · 閃電般快速的裝置端多語言 TTS 系統——基於 ONNX Runtime，完全在本機推論，無需雲端、無 API 呼叫、無隱私疑慮。支援 31 種語言，可部署於瀏覽器、桌面與邊緣裝置。
 
 ## 基本資訊
 
 | 項目 | 內容 |
 |------|------|
 | GitHub | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) |
-| Stars | ⭐6.0k |
+| Stars | ⭐13,316 |
 | Language | Swift (主要) + 多語言 SDK |
 | 建立日期 | 2025-11-18 |
 | 收錄日期 | 2026-05-16 |
@@ -100,4 +100,4 @@ cd web && npm install && npm run dev
 
 ---
 
-GitHub: [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) · Stars: ⭐6.0k · License: 開源 · 收錄日期: 2026-05-16
+GitHub: [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) · Stars: ⭐13,316 · License: 開源 · 收錄日期: 2026-05-16

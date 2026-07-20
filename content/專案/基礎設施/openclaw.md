@@ -3,14 +3,14 @@ title: OpenClaw
 slug: openclaw
 created: 2026-05-10
 updated: 2026-05-10
-stars: 382625
+stars: 383411
 language: zh-TW
 topics: [AI Agent, Skill, MCP, 自架助手框架]
 ---
 
 # OpenClaw
 
-> ⭐— · 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
+> ⭐383k · 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
 
 ## 快速導航
 - ⚡ [[agent-persona]] · [[AI-Skills]] · [[llm-knowledge-base]] · [[AI-Agent]]
@@ -87,7 +87,7 @@ Gateway 只是控制面板，產品是助手本身。
 | 項目 | 值 |
 |------|-----|
 | GitHub | [openclaw/openclaw](https://github.com/openclaw/openclaw) |
-| Stars | —（無公開 stars） |
+| Stars | ⭐383,411 |
 | License | MIT |
 | Language | Node.js |
 | 收錄日期 | 2026-05-03 |

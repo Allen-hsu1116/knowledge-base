@@ -15,6 +15,8 @@ topics:
 
 > ⭐74k · 開源 CapCut 替代品，免費的跨平台影片編輯器（Web、桌面、手機）
 
+
+## 快速導航
 快速導航：[[AI-video-generation|AI 影片生成]] · [[content-automation|內容自動化]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
 
 ## 是什麼

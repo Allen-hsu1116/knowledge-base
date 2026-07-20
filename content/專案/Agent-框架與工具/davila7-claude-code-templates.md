@@ -89,6 +89,8 @@ npx claude-code-templates@latest --plugins
 
 Claude Code Templates 與其他策展列表的不同之處在於它是**可安裝的工具**而非只是列表。[[hesreallyhim-awesome-claude-code|Awesome Claude Code]] 和 [[ComposioHQ-awesome-claude-skills|Awesome Claude Skills]] 是讓你「發現」資源的目錄，Claude Code Templates 則是讓你「直接安裝」這些資源的 CLI 工具，並且附帶 Analytics、Health Check 等額外開發工具。
 
+
+## 相關概念
 ← [[anthropics-claude-code|Claude Code]] · [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[MCP|MCP]]
 
 ## 來源

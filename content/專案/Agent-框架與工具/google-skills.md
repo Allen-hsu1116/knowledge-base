@@ -72,6 +72,8 @@ Google Skills 使用與 [[addyosmani-agent-skills|addyosmani/agent-skills]] 相�
 
 ## 來源
 
+- 原始素材: `raw/2026-04-28-google-skills.md`
+
 - GitHub: https://github.com/google/skills
 
 ---

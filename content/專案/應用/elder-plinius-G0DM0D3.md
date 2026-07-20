@@ -85,6 +85,8 @@ ollama serve
 
 G0DM0D3 的獨特定位是「紅隊測試專用多模型對話介面」。Cherry Studio 和 Open WebUI 是通用 LLM 前端，Heretic 偏重審查移除。G0DM0D3 把多模型並行競賽（GODMODE CLASSIC / ULTRAPLINIAN）、輸入擾動（Parseltongue）、自適應取樣（AutoTune）三者結合，形成一個完整的 post-training 層測試工具鏈。
 
+
+## 相關概念
 ← [[prompt-security]] · [[LLM]] · [[Prompt-Engineering]]
 
 ## 來源

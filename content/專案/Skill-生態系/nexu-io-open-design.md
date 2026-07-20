@@ -83,6 +83,8 @@ pnpm dev
 
 ## 來源
 
+- 原始素材: `raw/2026-06-08-nexu-io-open-design.md`
+
 - https://github.com/nexu-io/open-design
 - https://github.com/nexu-io/open-design/blob/main/docs/i18n/README.zh-TW.md（中文說明）
 

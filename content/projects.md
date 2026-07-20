@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[AstrBotDevs-AstrBot\|AstrBot]] | ⭐36.7k | IM 優先 Agent 平台, 15+ 平台整合, MCP, Agent Sandbox, 1000+ 插件, 多模型, WebUI, 語音 | 2026-07-20 |
 | [[MoonshotAI-kimi-cli\|Kimi CLI]] | ⭐9.5k | Coding Agent CLI, Moonshot AI, Shell 模式, ACP, MCP, VS Code, Zsh 整合 | 2026-07-19 |
 | [[openinterpreter-openinterpreter\|Open Interpreter]] | ⭐65.5k | Coding Agent CLI, 低成本模型, 多 Harness 模擬, 原生沙箱, QA Skill, ACP, Rust | 2026-07-16 |
 | [[Dicklesworthstone-destructive_command_guard\|dcg (Destructive Command Guard)]] | ⭐4.8k | Agent 安全, 命令攔截 Hook, 50+ Pack, 10+ Agent 平台, SIMD 加速, Rust | 2026-07-16 |

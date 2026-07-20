@@ -231,6 +231,8 @@ Skills 會自動根據觸發條件載入，不需要手動指定。
 
 ## 來源
 
+- 原始素材: `raw/2026-06-08-openai-skills.md`
+
 - https://github.com/openai/skills
 - https://github.com/openai/skills/blob/main/skills/.curated/figma/SKILL.md
 - https://github.com/openai/skills/blob/main/skills/.curated/figma-use/SKILL.md
