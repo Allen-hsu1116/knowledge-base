@@ -83,7 +83,7 @@ Whisper 是語音辨識的基準模型，很多專案基於它做改進：
 - **各種蒸餾模型**：Hugging Face 上有大量 Whisper 微調版本，針對特定語言或場景優化
 
 ## 相關概念
-← [[LLM]] · [[AI-Agent]]
+← [[LLM]] · [[AI-Agent]] · [[moonshine-ai-moonshine]]
 
 ## 來源
 - raw/2026-05-10-whisper.md

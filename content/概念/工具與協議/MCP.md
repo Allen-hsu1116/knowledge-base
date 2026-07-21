@@ -53,6 +53,7 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - [[Knowledge-Graph]] — 知識圖譜可透過 MCP 介面提供查詢服務
 - [[sandbox]] — MCP 的沙盒化設計是安全邊界的一部分
 - [[harness-engineering]] — MCP 是 Harness 的工具連接標準
+- [[PrefectHQ-fastmcp]] — 最 Pythonic 的 MCP Server/Client 建構框架
 
 ## 來源
 - MCP 官方規範與相關原始資料

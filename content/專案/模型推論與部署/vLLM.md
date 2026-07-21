@@ -71,7 +71,7 @@ vllm serve meta-llama/Meta-Llama-3-8B --enable-prefix-caching
 | [[llm-internals]] | 概念頁 | — | PagedAttention 是 KV Cache 管理的突破 |
 
 ## 相關概念
-← [[llm-internals]] · [[LLM]] · [[Token-Optimization]]
+← [[llm-internals]] · [[LLM]] · [[Token-Optimization]] · [[kvcache-ai-ktransformers]]
 
 ## 來源
 - raw/2026-05-10-vllm.md

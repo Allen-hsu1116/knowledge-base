@@ -50,6 +50,7 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - [[MCP]] — 讓 LLM 連接外部工具
 - [[rag]] — 讓 LLM 存取外部知識
 - [[self-correction]] — 提升 LLM 的可靠性
+- [[kvcache-ai-ktransformers]] — CPU-GPU 異構運算，消費級硬體跑超大 MoE 模型
 
 ## 來源
 - 知識庫內 LLM 相關原始資料與專案頁面

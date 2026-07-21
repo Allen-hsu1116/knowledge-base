@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # 專案索引
@@ -153,6 +153,7 @@ updated: 2026-07-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[kvcache-ai-ktransformers\|KTransformers]] | ⭐18.7k | CPU-GPU 異構推論, MoE 專家調度, AMX/AVX 加速, LLaMA-Factory 微調, DeepSeek-R1 24GB VRAM, Day0 模型支援 | 2026-07-21 |
 | [[PrismML-Eng-Bonsai-demo\|Bonsai Demo]] | ⭐1.7k | 1-bit/Ternary LLM, 超低精度量化, 27B 視覺語言, iPhone 可跑, llama.cpp/MLX, Tool Calling, MCP, 256k 上下文 | 2026-07-18 |
 | [[pytorch-pytorch\|PyTorch]] | ⭐101233 | 深度學習框架, 動態計算圖, autograd, GPU/TPU 加速, 分散式訓練, TorchScript, 量化, LLM 生態基石 | 2026-07-03 |
 | [[hiyouga-LlamaFactory\|LlamaFactory]] | ⭐72532 | LLM 微調, 100+ 模型, LoRA/QLoRA, SFT/DPO/PPO, vLLM/SGLang 推理, Web UI | 2026-06-27 |
@@ -184,6 +185,8 @@ updated: 2026-07-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[PrefectHQ-fastmcp\|FastMCP]] | ⭐26.5k | MCP 框架, 零樣板 Python API, 自動 schema/驗證, Apps 互動式 UI, Client 連接, Horizon 企業 Gateway | 2026-07-21 |
+| [[moonshine-ai-moonshine\|Moonshine Voice]] | ⭐9.8k | 即時語音 AI, 串流 STT/TTS/意圖辨識, 超低延遲 107ms, 全裝置本地, 語言專屬模型, 比 Whisper V3 更準 | 2026-07-21 |
 | [[KnockOutEZ-wigolo\|wigolo]] | ⭐1.2k | 本地優先 MCP 網頁情報層, 10 工具, 18 引擎搜尋, 免 API key, byte-pinned evidence, REST+SDK, 自主收集 | 2026-07-19 |
 | [[OpenCut-app-OpenCut\|OpenCut]] | ⭐74k | 開源 CapCut 替代, 跨平台影片編輯器, Rust 核心, Plugin-first, MCP Server, 無頭模式 | 2026-07-17 |
 | [[kyutai-labs-pocket-tts\|Pocket TTS]] | ⭐6168 | TTS, CPU 原生, 100M 參數, 6x 即時, 200ms 延遲, 語音克隆, 6 語言, 瀏覽器端 WASM | 2026-07-08 |
