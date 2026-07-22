@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # 專案索引
@@ -153,6 +153,7 @@ updated: 2026-07-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[dottxt-ai-outlines\|Outlines]] | ⭐14.8k | 結構化生成, logits mask + CFG, Pydantic/JSON/Regex/Function Calling, 跨 OpenAI/vLLM/Ollama/transformers/llama.cpp, Jinja 模板, .txt 公司 | 2026-07-22 |
 | [[kvcache-ai-ktransformers\|KTransformers]] | ⭐18.7k | CPU-GPU 異構推論, MoE 專家調度, AMX/AVX 加速, LLaMA-Factory 微調, DeepSeek-R1 24GB VRAM, Day0 模型支援 | 2026-07-21 |
 | [[PrismML-Eng-Bonsai-demo\|Bonsai Demo]] | ⭐1.7k | 1-bit/Ternary LLM, 超低精度量化, 27B 視覺語言, iPhone 可跑, llama.cpp/MLX, Tool Calling, MCP, 256k 上下文 | 2026-07-18 |
 | [[pytorch-pytorch\|PyTorch]] | ⭐101233 | 深度學習框架, 動態計算圖, autograd, GPU/TPU 加速, 分散式訓練, TorchScript, 量化, LLM 生態基石 | 2026-07-03 |

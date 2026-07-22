@@ -1254,3 +1254,13 @@ known-repos.json: 271 repos, 362 concepts
 新增概念: AI-hedge-fund, investor-agent-simulation, claude-code-templates, template-management
 
 known-repos.json: +2 repos, +4 concepts
+
+## 2026-07-22 Daily LLM Trending Search
+
+新增 1 個 repo：
+- **dottxt-ai/outlines** (⭐14.8k) — LLM 結構化生成函式庫，生成時 logits mask + CFG 保證輸出結構，跨 OpenAI/vLLM/Ollama/transformers/llama.cpp → wiki/dottxt-ai-outlines.md (🧠 模型推論與部署)
+
+跳過 4 個非 LLM 相關：chrislgarry/Apollo-11 (AGC 原始碼), DioxusLabs/dioxus (Rust 全端框架), hyprwm/Hyprland (Wayland compositor), schollz/croc (檔案傳輸)
+
+更新 backlinks: 模型推論與部署.md (+Outlines), Prompt-Engineering.md (+Outlines)
+known-repos.json: +1 repo

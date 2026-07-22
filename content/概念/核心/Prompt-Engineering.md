@@ -38,6 +38,8 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
   👉 詳見 [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]]
 - **Karpathy CLAUDE.md 規則** → CLAUDE.md 結構化 prompt 實作範例
   👉 詳見 [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md 規則]]
+- **Outlines** → 結構化生成函式庫，在生成時保證 LLM 輸出符合 Pydantic/JSON/Regex/CFG 結構
+  👉 詳見 [[dottxt-ai-outlines|Outlines]]
 
 ## 相關概念
 
