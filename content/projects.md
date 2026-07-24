@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-22
+updated: 2026-07-24
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[alibaba-open-code-review\|Open Code Review]] | ⭐11.5k | AI 程式碼審查, 確定性工程+LLM Agent 混合架構, 行級精度, 內建規則集, CI/CD, Claude Code/Codex/Cursor | 2026-07-24 |
 | [[AstrBotDevs-AstrBot\|AstrBot]] | ⭐36.7k | IM 優先 Agent 平台, 15+ 平台整合, MCP, Agent Sandbox, 1000+ 插件, 多模型, WebUI, 語音 | 2026-07-20 |
 | [[MoonshotAI-kimi-cli\|Kimi CLI]] | ⭐9.5k | Coding Agent CLI, Moonshot AI, Shell 模式, ACP, MCP, VS Code, Zsh 整合 | 2026-07-19 |
 | [[openinterpreter-openinterpreter\|Open Interpreter]] | ⭐65.5k | Coding Agent CLI, 低成本模型, 多 Harness 模擬, 原生沙箱, QA Skill, ACP, Rust | 2026-07-16 |
@@ -329,6 +330,7 @@ updated: 2026-07-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[earthtojake-text-to-cad\|Text-to-CAD]] | ⭐10.0k | CAD/機器人/硬體設計 Agent Skills, 11 Skills, STEP/STL/3MF/GLB/DXF/URDF/SRDF/SDF/G-code, 自然語言生成, 3D 列印 | 2026-07-24 |
 | [[ibelick-ui-skills\|UI Skills]] | ⭐4.3k | 設計工程師 UI Skill 路由, 分類管理, CLI 查詢, npx 一鍵啟動, motion/layout/color Skill 集 | 2026-07-17 |
 | [[Nutlope-hallmark\|Hallmark]] | ⭐5.1k | 反 AI 味設計 Skill, 57 道 slop-test gate, 21 種巨觀結構, 20 種主題, 14 種導覽原型, OKLCH 色彩, Claude Code/Cursor/Codex | 2026-07-14 |
 | [[VoltAgent-awesome-design-md\|Awesome DESIGN.md]] | ⭐99.7k | DESIGN.md 設計系統文件, 73 網站, Google Stitch, AI Agent UI 生成, Vibe Coding, 設計 Token | 2026-07-10 |

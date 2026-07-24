@@ -2,10 +2,23 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-14
+updated: 2026-07-24
 stars: —
 language: zh-TW
 ---
+
+## 2026-07-24（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **alibaba/open-code-review** — 阿里巴巴開源 AI 程式碼審查工具，確定性工程+LLM Agent 混合架構，行級精度，1/9 token 消耗（⭐ 11,528）
+- **earthtojake/text-to-cad** — CAD/機器人/硬體設計 Agent Skills 庫，11 個 Skills，自然語言生成 STEP/STL/URDF 等（⭐ 9,980）
+
+### 分類
+- 🤖 Agent 框架與工具：Open Code Review
+- 🛠 Skill 生態系：Text-to-CAD
+
+### 回頭更新
+- 更新 known-repos.json（+2 repos）
 
 ## 2026-07-14（每日 LLM 熱門專案搜尋）
 
