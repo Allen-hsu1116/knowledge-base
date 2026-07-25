@@ -2,9 +2,23 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-24
+updated: 2026-07-25
 stars: —
 language: zh-TW
+---
+
+## 2026-07-25（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **Lordog/dive-into-llms** — 上海交通大學大模型入門編程實踐教程，11 主題含越獄/水印/隱寫等安全議題，聯合華為昇騰國產化課程（⭐ 45,000）
+- **OtterMind/Chat2DB** — AI 驅動資料庫工具，30+ DB 支援，BYO AI 模型，MCP 支援，AES-256-GCM 加密（⭐ 26,327）
+
+### 分類
+- 📖 學習資源：Dive into LLMs
+- 🤖 Agent 框架與工具：Chat2DB
+
+### 回頭更新
+
 ---
 
 ## 2026-07-24（每日 LLM 熱門專案搜尋）

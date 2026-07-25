@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-24
+updated: 2026-07-25
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OtterMind-Chat2DB\|Chat2DB]] | ⭐26.3k | AI 資料庫工具, 30+ DB, BYO AI 模型, SQL 生成/解釋/優化, MCP, AES-256-GCM 加密, 儀表板, ER 圖, Docker | 2026-07-25 |
 | [[alibaba-open-code-review\|Open Code Review]] | ⭐11.5k | AI 程式碼審查, 確定性工程+LLM Agent 混合架構, 行級精度, 內建規則集, CI/CD, Claude Code/Codex/Cursor | 2026-07-24 |
 | [[AstrBotDevs-AstrBot\|AstrBot]] | ⭐36.7k | IM 優先 Agent 平台, 15+ 平台整合, MCP, Agent Sandbox, 1000+ 插件, 多模型, WebUI, 語音 | 2026-07-20 |
 | [[MoonshotAI-kimi-cli\|Kimi CLI]] | ⭐9.5k | Coding Agent CLI, Moonshot AI, Shell 模式, ACP, MCP, VS Code, Zsh 整合 | 2026-07-19 |
@@ -244,6 +245,7 @@ updated: 2026-07-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Lordog-dive-into-llms\|Dive into LLMs]] | ⭐45k | 上海交通大學大模型教程, 11 主題, 微調/提示/知識編輯/數學推理/水印/越獄/隱寫/多模態/GUI Agent/安全對齊, 華為昇騰國產化 | 2026-07-25 |
 | [[anthropics-cwc-workshops\|Code with Claude Workshops]] | ⭐1.6k | Anthropic 官方工作坊, 9 個實作 workshop, Claude Managed Agents, Skills, MCP, Evals, Agent Memory, 多 Agent 分解 | 2026-07-18 |
 | [[ossu-computer-science\|OSSU Computer Science]] | ⭐206.5k | 完整免費自學資工系課程, Harvard/MIT/Princeton 精選, CS 2013 課綱, 2 年可完成, 4 階段架構 | 2026-07-17 |
 | [[HenryNdubuaku-maths-cs-ai-compendium\|Maths, CS & AI Compendium]] | ⭐5.2k | 開源教科書, 18 章全棧, 數學/ML/AI/GPU, MCP Server 知識庫, 面試實戰驗證 | 2026-07-15 |
