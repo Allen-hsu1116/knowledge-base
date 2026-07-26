@@ -2,9 +2,24 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-25
+updated: 2026-07-26
 stars: —
 language: zh-TW
+---
+
+## 2026-07-26（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **CoreBunch/Instatic** — 自架視覺化 CMS，一個 Bun 伺服器搞定編輯器、內容引擎、AI Agent 和靜態頁面發布，BYO 模型（Claude/OpenAI/Ollama），QuickJS-WASM 插件沙箱（⭐ 5,082）
+- **block/buzz** — Block, Inc. 出品的人類+AI Agent 共建工作空間，Nostr relay 底層，ACP harness 整合 Goose/Codex/Claude Code，YAML 工作流，NIP-34 Git 整合（⭐ 11,934）
+
+### 分類
+- 🤖 Agent 框架與工具：Instatic
+- 🔄 Agent 編排與記憶：Buzz
+
+### 篩選說明
+5 個候選中 3 個與 LLM 無關（bitchat 藍牙通訊、harper 文法檢查、Pumpkin Minecraft 伺服器），2 個新增。
+
 ---
 
 ## 2026-07-25（每日 LLM 熱門專案搜尋）

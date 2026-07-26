@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-25
+updated: 2026-07-26
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[CoreBunch-Instatic\|Instatic]] | ⭐5k | 自架視覺化 CMS, Bun 伺服器, AI Agent 直接編輯畫布, BYO 模型, 純靜態 HTML/CSS 輸出, QuickJS-WASM 插件沙箱, Core Framework 設計系統 | 2026-07-26 |
 | [[OtterMind-Chat2DB\|Chat2DB]] | ⭐26.3k | AI 資料庫工具, 30+ DB, BYO AI 模型, SQL 生成/解釋/優化, MCP, AES-256-GCM 加密, 儀表板, ER 圖, Docker | 2026-07-25 |
 | [[alibaba-open-code-review\|Open Code Review]] | ⭐11.5k | AI 程式碼審查, 確定性工程+LLM Agent 混合架構, 行級精度, 內建規則集, CI/CD, Claude Code/Codex/Cursor | 2026-07-24 |
 | [[AstrBotDevs-AstrBot\|AstrBot]] | ⭐36.7k | IM 優先 Agent 平台, 15+ 平台整合, MCP, Agent Sandbox, 1000+ 插件, 多模型, WebUI, 語音 | 2026-07-20 |
@@ -106,6 +107,7 @@ updated: 2026-07-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[block-buzz\|Buzz]] | ⭐11.9k | 人類+AI Agent 共建工作空間, Nostr relay, ACP harness (Goose/Codex/Claude Code), buzz-cli, YAML 工作流, NIP-34 Git 整合, Rust | 2026-07-26 |
 | [[gastownhall-gastown\|Gas Town]] | ⭐16.4k | 多 Agent 工作空間, The Mayor 協調, Git-backed hooks, Beads tracking, 20-30 agents, Refinery 合併佇列 | 2026-07-06 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | ⭐24159 | Agent 設計原則, 工程實踐 | 2026-05-18 |
 | [[ruvnet-ruflo\|Ruflo]] | ⭐'47k' | 多Agent編排, Swarm, 聯邦通訊 | 2026-05-09 |
