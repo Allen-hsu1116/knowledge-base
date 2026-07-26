@@ -106,3 +106,12 @@ OpenFang 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的根本差�
 
 - [原始資料](../raw/2026-05-07-RightNow-AI-openfang.md)
 - GitHub: https://github.com/RightNow-AI/openfang
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) |
+| Stars | ⭐17,551 |
+| License | — |
+| 收錄日期 | 2026-02-24 |

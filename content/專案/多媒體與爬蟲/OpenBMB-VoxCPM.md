@@ -147,7 +147,7 @@ curl http://localhost:8000/v1/audio/speech \
 - 🤗 HuggingFace：[openbmb/VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)
 - 📄 技術報告：[arXiv:2606.06928](https://arxiv.org/abs/2606.06928)
 - 📁 raw：`raw/2026-06-20-OpenBMB-VoxCPM.md`
-
+- raw/2026-05-31-OpenBMB-VoxCPM.md
 ---
 
 | 項目 | 值 |

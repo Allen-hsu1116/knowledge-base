@@ -27,7 +27,7 @@ Codex Complexity Optimizer 是一個安裝到 Codex Agent 的 Skill，用於分�
 - **安全報告模式**：預設只分析不修改，需明確要求才會實作優化，避免意外破壞
 - **精細報告**：包含檔案/行號、當前複雜度、建議修改、預期改善（Big-O 降級）、風險等級、所需測試
 - **可控風險**：可以先看報告再決定是否實作最低風險的優化，逐步改善
-- **一鍵安裝**：npm 全域安裝即可自動部署到 Codex Skills 目錄（`${CODEX_HOME:-~/.codex}/skills/complexity-optimizer`）
+- **一鍵安裝**：npm 全域安裝即可自動部署到 Codex Skills 目錄（`\${CODEX_HOME:-~/.codex}/skills/complexity-optimizer`）
 - **npx 支援**：不需要全域安裝，用 `npx` 也能直接執行
 
 ## 怎麼用

@@ -58,6 +58,6 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 
 ## 來源
 
-- Karpathy LLM 知識庫原始 Gist
-- 數位時代中文報導
-- Karpathy Skills 專案
+- raw/2026-04-28-karpathy-gist-llm-wiki.md（Karpathy LLM 知識庫原始 Gist）
+- raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md（數位時代中文報導）
+- raw/2026-05-03-ocr-memory.md（Karpathy Skills 專案）

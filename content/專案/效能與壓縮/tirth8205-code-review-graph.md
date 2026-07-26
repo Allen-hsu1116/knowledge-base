@@ -99,3 +99,12 @@ code-review-graph 跟 [[cocoindex]] 都是增量式系統，但場景完全不�
 
 - [原始資料](../raw/2026-05-07-tirth8205-code-review-graph.md)
 - GitHub: https://github.com/tirth8205/code-review-graph
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) |
+| Stars | ⭐15,581 |
+| License | — |
+| 收錄日期 | 2026-02-26 |

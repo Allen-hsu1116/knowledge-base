@@ -68,7 +68,7 @@ pip install cider-sdk
 
 - **GitHub**: https://github.com/Mininglamp-AI/Mano-P
 - raw/2025-06-07-Mininglamp-AI-Mano-P.md
-
+- raw/2026-05-20-Mininglamp-AI-Mano-P.md
 ---
 
 | 項目 | 資訊 |

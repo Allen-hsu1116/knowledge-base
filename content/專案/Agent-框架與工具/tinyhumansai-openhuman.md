@@ -76,7 +76,7 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 
 - GitHub：https://github.com/tinyhumansai/openhuman
 - Raw 檔案：`raw/2026-05-16-openhuman.md`
-
+- raw/2026-05-16-tinyhumansai-openhuman.md
 ---
 
 | 項目 | 值 |

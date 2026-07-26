@@ -95,7 +95,7 @@ npx skills@latest add vercel-labs/agent-skills
 
 - GitHub: <https://github.com/vercel-labs/agent-skills>
 - 原始技能: `raw/2026-06-08-vercel-labs-agent-skills-web-design-guidelines.md`
-
+- raw/2026-06-08-vercel-labs-agent-skills.md
 ---
 
 | 項目 | 值 |

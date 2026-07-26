@@ -98,3 +98,12 @@ MIT License
 ## 來源
 
 - [原始資料](../raw/2026-05-18-microsoft-ai-agents-for-beginners.md)
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) |
+| Stars | ⭐62542 |
+| License | — |
+| 收錄日期 | 2026-05-18 |

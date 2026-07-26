@@ -72,7 +72,7 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy
 - [原始資料](../raw/2026-05-20-multica-ai-andrej-karpathy-skills.md)
 - https://github.com/multica-ai/andrej-karpathy-skills
 - https://abmedia.io/claude-md-12-rules-karpathy-mnilax-extended-may-2026（Mnilax 12 條擴充版報導）
-
+- raw/2026-04-28-karpathy-skills.md
 ---
 
 | GitHub | Stars | License | 收錄日期 |

@@ -52,5 +52,5 @@ Agent 的進化分三個層次：工具（你下指令，AI 執行）→ 助理�
 
 ## 來源
 
-- Persona + Skill 打造 AI 同事方法論筆記
+- raw/2026-04-28-persona-skill-colleague.md（Persona + Skill 打造 AI 同事方法論筆記）
 - Agency Agents 144 人格開源專案

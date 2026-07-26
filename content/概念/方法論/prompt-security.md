@@ -56,5 +56,5 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 
 ## 來源
 
-- CL4R1T4S 安全研究
+- raw/2026-04-28-cl4r1t4s.md（CL4R1T4S 安全研究）
 - Anthropic steering vector 研究筆記

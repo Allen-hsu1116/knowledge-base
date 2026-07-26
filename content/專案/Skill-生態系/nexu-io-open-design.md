@@ -87,7 +87,7 @@ pnpm dev
 
 - https://github.com/nexu-io/open-design
 - https://github.com/nexu-io/open-design/blob/main/docs/i18n/README.zh-TW.md（中文說明）
-
+- raw/2026-06-08-nexu-io-open-design-zh-TW.md（中文翻譯版）
 ---
 
 | 項目 | 資訊 |

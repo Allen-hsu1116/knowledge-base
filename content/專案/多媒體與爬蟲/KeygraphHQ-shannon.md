@@ -104,3 +104,12 @@ npx @keygraph/shannon status
 ## 來源
 
 - [原始資料](../raw/2026-05-18-KeygraphHQ-shannon.md)
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) |
+| Stars | ⭐42711 |
+| License | — |
+| 收錄日期 | 2026-05-18 |

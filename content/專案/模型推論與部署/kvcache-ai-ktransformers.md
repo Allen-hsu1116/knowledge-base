@@ -18,7 +18,9 @@ topics:
 
 > ⭐18.7k · CPU-GPU 異構運算框架，讓超大 MoE 模型在消費級硬體上高效推論與微調
 
-快速導航：[[LLM]] · [[vLLM]] · [[kv-cache]]
+## 快速導航
+
+[[LLM]] · [[vLLM]] · [[kv-cache]]
 
 ## 是什麼
 
@@ -75,7 +77,9 @@ DeepSeek-R1 推論範例（24GB VRAM + 382GB DRAM）：
 | [[lyogavin-airllm\|AirLLM]] | ⭐18.9k | 低 VRAM 推論 | 分層推理 | 記憶體最佳化 |
 | [[NVIDIA-TensorRT-LLM]] | ⭐13.6k | GPU 推論 | TensorRT 最佳化 | NVIDIA 官方 |
 
-← [[LLM]] · [[vLLM]] · [[kv-cache]] · [[LLM-quantization]]
+## 相關概念
+
+← [[LLM]] · [[vLLM]] · [[kv-cache]]
 
 ## 來源
 

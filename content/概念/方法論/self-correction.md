@@ -48,3 +48,4 @@ Self-Correction（自我修正）是指語言模型在無人工介入的情況�
 ## 來源
 
 - Self-Correction 課程筆記（李宏毅，2026-04-25）
+- raw/2026-05-03-self-correction.md

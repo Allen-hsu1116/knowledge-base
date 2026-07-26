@@ -143,3 +143,10 @@ Self-Attention 是置換不變的（permutation invariant）：把輸入 token �
 - raw/2026-05-03-positional-embedding-evolution.md
 - **收錄日期**: 2026-05-03
 - **License**: 未標示
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| 來源 | 教學/文章 |
+| 收錄日期 | 2026-05-03 |

@@ -171,7 +171,7 @@ MemPalace 的宮殿結構（Wings → Rooms → Drawers）跟 [[llm-knowledge-ba
 
 ## 來源
 
-- raw/2026-05-02-mempalace.md
+- raw/MemPalace-mempalace.md（raw/2026-05-02-mempalace.md）
 - raw/2026-05-07-mempalace-usage-discussion.md
 
 ---

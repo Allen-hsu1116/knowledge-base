@@ -21,7 +21,9 @@ topics:
 
 > ⭐26.5k · 最快速、最 Pythonic 的 MCP Server/Client 建構框架，由 Prefect 團隊打造
 
-快速導航：[[MCP]] · [[AI-Skills]] · [[LLM]]
+## 快速導航
+
+[[MCP]] · [[AI-Skills]] · [[LLM]]
 
 ## 是什麼
 
@@ -88,6 +90,8 @@ pip install --force-reinstall fastmcp
 | [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]] | ⭐89.2k | MCP 策展列表 | 30+ 分類目錄 | 社群策展 |
 | [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐8.2k | MCP Server | 程式碼知識圖譜 | 158 語言 |
 | [[ChromeDevTools-chrome-devtools-mcp\|Chrome DevTools MCP]] | ⭐46.7k | MCP Server | 瀏覽器自動化 | DevTools 整合 |
+
+## 相關概念
 
 ← [[MCP]] · [[LLM]] · [[AI-Skills]]
 

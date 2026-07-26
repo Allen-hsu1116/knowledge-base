@@ -85,6 +85,8 @@ yay -S astrbot-git
 
 AstrBot 的最大差異化在於「IM 優先」——它不是把聊天機器人塞進網頁，而是把 AI Agent 塞進你日常使用的通訊軟體。
 
+## 相關概念
+
 ← [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[langgenius-dify]] · [[open-webui-open-webui]]
 
 ## 來源

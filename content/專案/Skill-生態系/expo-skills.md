@@ -109,7 +109,7 @@ eas submit --platform ios
 
 - GitHub: <https://github.com/expo/skills>
 - 原始 README: `raw/2026-06-08-expo-skills-README.md`
-
+- raw/2026-06-08-expo-skills.md
 ---
 
 | 項目 | 值 |

@@ -68,6 +68,8 @@ with open('data/exercises.json') as f:
 | wger | ⭐— | 開源健身 | 開源健身追蹤器 + 運動資料庫，含 API |
 | [[data-analysis\|資料分析]] | — | 概念 | 資料集分析的通用方法 |
 
+## 相關概念
+
 ← [[data-analysis|資料分析]] · [[generative-AI|生成式 AI]] · [[self-hosted|自架]]
 
 ## 來源

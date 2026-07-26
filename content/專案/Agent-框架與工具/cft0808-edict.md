@@ -98,3 +98,12 @@ python3 dashboard/server.py
 
 - [原始資料](../raw/2026-05-07-cft0808-edict.md)
 - GitHub: https://github.com/cft0808/edict
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [cft0808/edict](https://github.com/cft0808/edict) |
+| Stars | ⭐15,781 |
+| License | — |
+| 收錄日期 | 2026-02-23 |

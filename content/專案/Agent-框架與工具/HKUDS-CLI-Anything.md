@@ -75,7 +75,7 @@ cli-hub install blender
 
 - **GitHub**: https://github.com/HKUDS/CLI-Anythin
 - raw/2025-06-07-HKUDS-CLI-Anything.md
-
+- raw/2026-05-18-HKUDS-CLI-Anything.md
 ---
 
 | 項目 | 資訊 |

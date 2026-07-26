@@ -60,6 +60,8 @@ OSSU（Open Source Society University）電腦科學課程是一個完整的自�
 | [[microsoft-AI-For-Beginners\|AI for Beginners]] | ⭐49.4k | AI 課程 | 微軟出品 12 週 AI 入門課程 |
 | [[mlabonne-llm-course\|LLM Course]] | ⭐80.2k | LLM 課程 | 聚焦 LLM 微調、量化、合併的學習路線圖 |
 
+## 相關概念
+
 ← [[self-education|自主學習]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
 
 ## 來源

@@ -67,6 +67,8 @@ npm install posthog-js
 | Google Analytics | — | 網站分析 | PostHog 的商業替代目標之一 |
 | Mixpanel | — | 產品分析 | 商業產品分析工具，PostHog 開源替代 |
 
+## 相關概念
+
 ← [[observability|可觀測性]] · [[langfuse-langfuse|Langfuse]] · [[MCP]]
 
 ## 來源

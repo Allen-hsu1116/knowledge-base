@@ -83,7 +83,10 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 - https://github.com/openai/skills/blob/main/skills/.curated/figma-use/SKILL.md
 - https://github.com/openai/skills/blob/main/skills/.curated/figma-generate-design/SKILL.md
 - https://github.com/openai/skills/blob/main/skills/.curated/figma-implement-design/SKILL.md
-
+- raw/2026-06-08-openai-skills-figma-figma.md
+- raw/2026-06-08-openai-skills-figma-generate-figma-generate-design.md
+- raw/2026-06-08-openai-skills-figma-implement-figma-implement-design.md
+- raw/2026-06-08-openai-skills-figma-use-figma-use.md
 ---
 
 | 項目 | 資訊 |

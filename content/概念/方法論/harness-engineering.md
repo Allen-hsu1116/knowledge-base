@@ -61,3 +61,5 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 
 - Harness Engineering 課程筆記
 - WalkingLabs Harness Engineering 學習資源
+- raw/2026-05-22-abmedia-claude-md-12-rules.md（CLAUDE.md 12 條規則）
+- raw/2026-05-03-harness-engineering.md

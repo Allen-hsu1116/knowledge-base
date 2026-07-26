@@ -137,7 +137,7 @@ curl -o SKILL.md https://raw.githubusercontent.com/softaworks/agent-toolkit/main
 
 - GitHub: <https://github.com/softaworks/agent-toolkit>
 - 原始 README: `raw/2026-06-08-softaworks-agent-toolkit-design-system-starter.md`
-
+- raw/2026-06-08-softaworks-agent-toolkit.md
 ---
 
 | 項目 | 值 |

@@ -98,7 +98,7 @@ python scripts/with_server.py \
 - https://github.com/anthropics/skills
 - `raw/2026-06-08-anthropics-skills-frontend-design.md`
 - `raw/2026-06-08-anthropics-skills-webapp-testing.md`
-
+- raw/2026-06-08-anthropics-skills.md
 ---
 
 | 項目 | 資訊 |

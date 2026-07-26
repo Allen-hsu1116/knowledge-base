@@ -103,3 +103,12 @@ llmfit 對應 [[LLM]] 本地部署流程的「模型選擇」階段。[[Token-Op
 
 - [原始資料](../raw/2026-05-07-AlexsJones-llmfit.md)
 - GitHub: https://github.com/AlexsJones/llmfit
+
+---
+
+| 項目 | 值 |
+|------|-----|
+| GitHub | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) |
+| Stars | ⭐26,314 |
+| License | — |
+| 收錄日期 | 2026-02-15 |

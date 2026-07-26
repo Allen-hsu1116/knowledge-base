@@ -18,7 +18,10 @@ topics:
 
 > ⭐9.8k · 開源即時語音 AI 工具包，超低延遲 STT/TTS/意圖辨識，全裝置本地運行
 
-快速導航：[[TTS]] · [[on-device-STT]] · [[voice-AI]]
+## 快速導航
+
+- 🔊 **語音辨識** → [[語音辨識]]
+- 🎤 **Whisper 對比** → [[Whisper]]
 
 ## 是什麼
 
@@ -87,7 +90,9 @@ tts = TextToSpeech(language="en_us")
 | [[microsoft-VibeVoice\|VibeVoice]] | ⭐48.5k | ASR/TTS | 長語音辨識 | 串流 TTS |
 | [[jamiepine-voicebox\|Voicebox]] | ⭐31.0k | 語音工作室 | 7 TTS 引擎 | MCP 整合 |
 
-← [[TTS]] · [[on-device-STT]] · [[voice-AI]] · [[Whisper]]
+## 相關概念
+
+← [[語音辨識]] · [[Whisper]]
 
 ## 來源
 

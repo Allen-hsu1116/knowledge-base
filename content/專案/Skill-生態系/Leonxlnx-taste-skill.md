@@ -73,7 +73,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 ## 來源
 
 - [原始資料](../raw/2026-06-07-Leonxlnx-taste-skill.md)
-
+- raw/2026-05-26-Leonxlnx-taste-skill.md
 ---
 
 | 項目 | 值 |
