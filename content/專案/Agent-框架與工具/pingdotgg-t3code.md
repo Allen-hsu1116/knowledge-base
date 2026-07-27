@@ -87,6 +87,8 @@ opencode auth login
 
 T3 Code 的獨特之處在於它不是 Agent 本身，而是 Agent 的「統一遙控器」。其他工具如 Claude Code、OpenCode 都是單獨的 Coding Agent，而 T3 Code 把它們包在一個共同的 GUI 裡，降低了使用門檻。
 
+## 相關概念
+
 ← [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]] · [[AI-Agent|AI Agent]]
 
 ## 來源
