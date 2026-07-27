@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-26
+updated: 2026-07-27
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-07-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[pingdotgg-t3code\|T3 Code]] | ⭐15k | Coding Agent Web GUI, 多 Agent 統一介面, Codex+Claude+Cursor+OpenCode, BYO Agent, 桌面+CLI, TypeScript, Vite+ | 2026-07-27 |
 | [[CoreBunch-Instatic\|Instatic]] | ⭐5k | 自架視覺化 CMS, Bun 伺服器, AI Agent 直接編輯畫布, BYO 模型, 純靜態 HTML/CSS 輸出, QuickJS-WASM 插件沙箱, Core Framework 設計系統 | 2026-07-26 |
 | [[OtterMind-Chat2DB\|Chat2DB]] | ⭐26.3k | AI 資料庫工具, 30+ DB, BYO AI 模型, SQL 生成/解釋/優化, MCP, AES-256-GCM 加密, 儀表板, ER 圖, Docker | 2026-07-25 |
 | [[alibaba-open-code-review\|Open Code Review]] | ⭐11.5k | AI 程式碼審查, 確定性工程+LLM Agent 混合架構, 行級精度, 內建規則集, CI/CD, Claude Code/Codex/Cursor | 2026-07-24 |

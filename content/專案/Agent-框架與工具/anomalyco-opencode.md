@@ -72,7 +72,7 @@ brew install --cask opencode-desktop
 | 語言 | TypeScript | TypeScript | TypeScript | Rust |
 
 ## 相關概念
-← [[Coding-Agent-CLI|Coding Agent CLI]] · [[AI-Skills|Agent Skills 生態系]]
+← [[Coding-Agent-CLI|Coding Agent CLI]] · [[AI-Skills|Agent Skills 生態系]] · [[pingdotgg-t3code|T3 Code]]
 
 ## 來源
 

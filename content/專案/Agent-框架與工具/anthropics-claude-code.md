@@ -68,6 +68,7 @@ claude
 | [[affaan-m-everything-claude-code|Everything Claude Code]] | ⭐172k | Skills 庫 | Claude Code 技能擴充大全 | CLI |
 | [[garrytan-gstack|gstack]] | ⭐97k | Agent Skills | Agent 工作流程最佳化 | CLI |
 | [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | Web UI | 自架 LLM 介面、RAG 支援 | Web |
+| [[pingdotgg-t3code\|T3 Code]] | ⭐15k | Agent GUI | 多 Agent 統一 Web GUI（含 Claude Code） | Web, 桌面 |
 
 Claude Code 與 [[Coding-Agent-CLI|Coding Agent CLI]] 概念密切相關，是目前市場上最成熟的 agentic coding 工具之一。它與 [[MCP]] 協議整合，可以連接外部工具和資料來源。[[affaan-m-everything-claude-code|Everything Claude Code]] 是圍繞它建立的最大社群 Skills 庫。
 
