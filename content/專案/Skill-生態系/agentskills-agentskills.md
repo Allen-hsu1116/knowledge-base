@@ -102,7 +102,7 @@ npx skills add anthropics/skills --skill code-review -g
 
 ## 相關概念
 
-← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[anthropics-skills]]
+← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[anthropics-skills]] · [[virgiliojr94-book-to-skill\|book-to-skill]]
 
 ## 來源
 

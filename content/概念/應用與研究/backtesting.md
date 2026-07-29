@@ -52,3 +52,4 @@ language: zh-TW
 
 - AlphaEvo、ML for Trading、AlphaSift 等專案頁面
 - 量化交易回測方法論相關文獻
+- [[paperswithbacktest-awesome-systematic-trading\|Awesome Systematic Trading]] — 40+ 策略含 QuantConnect 回測實作

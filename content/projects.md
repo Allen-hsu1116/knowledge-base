@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-27
+updated: 2026-07-29
 ---
 
 # 專案索引
@@ -287,6 +287,7 @@ updated: 2026-07-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[paperswithbacktest-awesome-systematic-trading\|Awesome Systematic Trading]] | ⭐9.6k | 量化交易策展清單, 97 庫, 40+ 策略+論文+程式碼, 55 本書, 跨資產類別, Sharpe 排序 | 2026-07-29 |
 | [[elder-plinius-G0DM0D3\|G0DM0D3]] | ⭐9.5k | 多模型越獄對話介面, 60+ OpenRouter 模型競賽, Parseltongue 33 擾動, AutoTune, Ollama, 紅隊測試 | 2026-07-19 |
 | [[hasaneyldrm-exercises-dataset\|Exercises Dataset]] | ⭐15k | 1,324 健身動作資料集, 動畫 GIF, 10 語言步驟, JSON Schema, 互動瀏覽器, SQL/API 整合指南 | 2026-07-17 |
 | [[virattt-ai-hedge-fund\|AI Hedge Fund]] | ⭐61.4k | AI Agent, 多Agent交易, 13 投資大師模擬, LLM, 金融預測, 回測 | 2026-07-13 |
@@ -335,6 +336,7 @@ updated: 2026-07-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[virgiliojr94-book-to-skill\|book-to-skill]] | ⭐11.4k | AI Skills, 技術書→Skill, PDF/EPUB/DOCX, 24-51x Token 節省, 按需章節載入, Discovery Loop Tax, 跨 Agent 平台 | 2026-07-29 |
 | [[earthtojake-text-to-cad\|Text-to-CAD]] | ⭐10.0k | CAD/機器人/硬體設計 Agent Skills, 11 Skills, STEP/STL/3MF/GLB/DXF/URDF/SRDF/SDF/G-code, 自然語言生成, 3D 列印 | 2026-07-24 |
 | [[ibelick-ui-skills\|UI Skills]] | ⭐4.3k | 設計工程師 UI Skill 路由, 分類管理, CLI 查詢, npx 一鍵啟動, motion/layout/color Skill 集 | 2026-07-17 |
 | [[Nutlope-hallmark\|Hallmark]] | ⭐5.1k | 反 AI 味設計 Skill, 57 道 slop-test gate, 21 種巨觀結構, 20 種主題, 14 種導覽原型, OKLCH 色彩, Claude Code/Cursor/Codex | 2026-07-14 |
