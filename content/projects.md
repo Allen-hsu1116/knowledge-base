@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-29
+updated: 2026-07-30
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-07-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[1jehuang-jcode\|jcode]] | ⭐13.5k | Coding Agent Harness, Rust, 27.8MB RAM, 14ms 首帧, 語意向量記憶, Swarm 多 Agent, Self-Dev 模式, 25+ Provider, MCP, 跨 Harness Session 恢復 | 2026-07-30 |
+| [[different-ai-openwork\|OpenWork]] | ⭐17.9k | 開源 Claude Cowork, 一個 MCP 跨 Agent 共享 Skills/Plugins/服務, 桌面 App, Den 組織管理, Marketplace, Anthropic 插件匯入 | 2026-07-30 |
 | [[pingdotgg-t3code\|T3 Code]] | ⭐15k | Coding Agent Web GUI, 多 Agent 統一介面, Codex+Claude+Cursor+OpenCode, BYO Agent, 桌面+CLI, TypeScript, Vite+ | 2026-07-27 |
 | [[CoreBunch-Instatic\|Instatic]] | ⭐5k | 自架視覺化 CMS, Bun 伺服器, AI Agent 直接編輯畫布, BYO 模型, 純靜態 HTML/CSS 輸出, QuickJS-WASM 插件沙箱, Core Framework 設計系統 | 2026-07-26 |
 | [[OtterMind-Chat2DB\|Chat2DB]] | ⭐26.3k | AI 資料庫工具, 30+ DB, BYO AI 模型, SQL 生成/解釋/優化, MCP, AES-256-GCM 加密, 儀表板, ER 圖, Docker | 2026-07-25 |

@@ -2,9 +2,23 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-26
+updated: 2026-07-30
 stars: —
 language: zh-TW
+---
+
+## 2026-07-30（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **different-ai/openwork** — 開源版 Claude Cowork，用一個 MCP 把 Skills、Plugins 和連接的服務跨 Agent、跨團隊、跨機器共享，桌面 App + Den 組織管理（⭐ 17,911）
+- **1jehuang/jcode** — 最省 RAM 的 Coding Agent Harness，Rust 打造，27.8MB RAM、14ms 首帧，語意向量記憶系統，Swarm 多 Agent 協作，Self-Dev 模式，25+ Provider（⭐ 13,456）
+
+### 分類
+- 🤖 Agent 框架與工具：OpenWork、jcode
+
+### 篩選說明
+5 個候選中 3 個與 LLM 無關（deepfakes/faceswap 換臉軟體、pascalorg/editor 3D 建築編輯器、grokability/snipe-it IT 資產管理），2 個新增。
+
 ---
 
 ## 2026-07-26（每日 LLM 熱門專案搜尋）
@@ -1306,3 +1320,15 @@ known-repos.json: +2 repos, +4 concepts
 
 更新 backlinks: 模型推論與部署.md (+Outlines), Prompt-Engineering.md (+Outlines)
 known-repos.json: +1 repo
+
+## 2026-07-29 — Daily LLM Trending
+
+- **virgiliojr94/book-to-skill** (⭐11.4k) → 🛠 Skill 生態系
+  - 技術書 PDF 轉 Agent Skill，24-51x Token 節省，按需章節載入
+  - 支援 PDF/EPUB/DOCX/HTML/RTF/MOBI，跨 Copilot CLI/Amp/Claude Code
+- **paperswithbacktest/awesome-systematic-trading** (⭐9.6k) → 📊 應用
+  - 量化交易策展清單，97 庫 + 40+ 策略(含論文+QuantConnect程式碼) + 55 本書
+- 跳過 3 個非 LLM 相關 repos（jenkins, superfile, pascalorg/editor）
+- 更新 backlinks: agentskills-agentskills.md, backtesting.md
+- 已 sync + deploy 到 GitHub Pages
+
