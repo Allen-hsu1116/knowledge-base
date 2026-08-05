@@ -36,6 +36,8 @@ language: zh-TW
   👉 詳見 [[opentoonz-opentoonz|OpenToonz]]
 - **Sana** → NVIDIA 高效擴散模型家族，涵蓋圖片、影片和世界模型生成
   👉 詳見 [[NVlabs-Sana|Sana]]
+- **Generative AI for Beginners** → 微軟 21 課生成式 AI 入門課程，涵蓋 LLM、Prompt Engineering、RAG、Function Calling、AI Agent
+  👉 詳見 [[microsoft-generative-ai-for-beginners|Generative AI for Beginners]]
 
 ## 相關概念
 

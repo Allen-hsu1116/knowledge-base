@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-07-30
+updated: 2026-08-05
 ---
 
 # 專案索引
@@ -250,6 +250,7 @@ updated: 2026-07-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-generative-ai-for-beginners\|Generative AI for Beginners]] | ⭐116.3k | 微軟 21 課 GenAI 入門, LLM, Prompt Engineering, RAG, Function Calling, AI Agent, 微調, Python+TS, 50+ 語言翻譯 | 2026-08-05 |
 | [[Lordog-dive-into-llms\|Dive into LLMs]] | ⭐45k | 上海交通大學大模型教程, 11 主題, 微調/提示/知識編輯/數學推理/水印/越獄/隱寫/多模態/GUI Agent/安全對齊, 華為昇騰國產化 | 2026-07-25 |
 | [[anthropics-cwc-workshops\|Code with Claude Workshops]] | ⭐1.6k | Anthropic 官方工作坊, 9 個實作 workshop, Claude Managed Agents, Skills, MCP, Evals, Agent Memory, 多 Agent 分解 | 2026-07-18 |
 | [[ossu-computer-science\|OSSU Computer Science]] | ⭐206.5k | 完整免費自學資工系課程, Harvard/MIT/Princeton 精選, CS 2013 課綱, 2 年可完成, 4 階段架構 | 2026-07-17 |
