@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-08-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[agentscope-ai-QwenPaw\|QwenPaw]] | ⭐33.6k | 個人 AI 助理, Agent OS, 三層記憶+ReMe, 7+ 通道, Loop Engineering, Scroll Context, Skills+Plugins, MCP, 自架 QwenPaw-Flash 模型, Kernel 級沙箱, Coding Mode | 2026-08-06 |
+| [[esengine-DeepSeek-Reasonix\|DeepSeek-Reasonix]] | ⭐31.6k | DeepSeek 原生 Coding Agent, prefix-cache 穩定性, 99.82% cache hit, 三支柱架構, SEARCH/REPLACE diff, MCP, Skills, Memory, Hooks, Claude 格式相容, TUI+桌面 | 2026-08-06 |
 | [[1jehuang-jcode\|jcode]] | ⭐13.5k | Coding Agent Harness, Rust, 27.8MB RAM, 14ms 首帧, 語意向量記憶, Swarm 多 Agent, Self-Dev 模式, 25+ Provider, MCP, 跨 Harness Session 恢復 | 2026-07-30 |
 | [[different-ai-openwork\|OpenWork]] | ⭐17.9k | 開源 Claude Cowork, 一個 MCP 跨 Agent 共享 Skills/Plugins/服務, 桌面 App, Den 組織管理, Marketplace, Anthropic 插件匯入 | 2026-07-30 |
 | [[pingdotgg-t3code\|T3 Code]] | ⭐15k | Coding Agent Web GUI, 多 Agent 統一介面, Codex+Claude+Cursor+OpenCode, BYO Agent, 桌面+CLI, TypeScript, Vite+ | 2026-07-27 |
@@ -121,6 +123,7 @@ updated: 2026-08-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[firecrawl-pdf-inspector\|pdf-inspector]] | ⭐11.5k | 高速 Rust PDF 解析, 智慧分類 TextBased/Scanned/Mixed, OCR 路由, 位置感知擷取, Markdown 轉換, 雙模式表格偵測, 瀏覽器 WASM, 200ms 本地處理 | 2026-08-06 |
 | [[TencentCloud-TencentDB-Agent-Memory\|TencentDB Agent Memory]] | ⭐7646 | Agent 記憶, 4 層金字塔, Mermaid 符號化, 61% Token 節省, 零外部 API, OpenClaw/Hermes | 2026-07-09 |
 | [[ComPDFKit-docslight\|DocSlight]] | ⭐108 | 文件解析引擎, PDF/掃描/圖片/Office, OCR 80+ 語言, 結構化擷取, Bounding Box, Markdown/JSON, RAG 就緒 | 2026-07-08 |
 | [[karakeep-app-karakeep\|Karakeep]] | ⭐26897 | 自架書籤管理, AI 自動標記, 全文搜尋, Agent 友善 CLI+Skills, 頁面存檔, OCR, 多平台 App | 2026-07-07 |

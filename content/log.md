@@ -2,11 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-07-30
+updated: 2026-08-06
 stars: —
 language: zh-TW
 ---
+## 2026-08-06（每日 LLM 熱門專案搜尋）
 
+### 新增專案頁
+- **agentscope-ai/QwenPaw** — 個人 AI 助理平台，Agent OS 架構，三層記憶+ReMe 自演化知識庫，7+ IM 通道，Skills+Plugins Marketplace，Kernel 級沙箱，QwenPaw-Flash 自架模型（⭐ 33,569）
+- **esengine/DeepSeek-Reasonix** — DeepSeek 原生終端 Coding Agent，專為 prefix-cache 穩定性設計，99.82% cache hit，三支柱架構（Cache-first loop / Tool-call repair / Cost control），SEARCH/REPLACE diff，Claude 格式 Skills 相容（⭐ 31,619）
+- **firecrawl/pdf-inspector** — 高速 Rust PDF 解析庫，智慧分類 TextBased/Scanned/Mixed + OCR 路由，位置感知擷取，雙模式表格偵測，Markdown 輸出，200ms 本地處理，Python/Node/WASM/CLI 綁定（⭐ 11,460）
+
+### 分類
+- 🤖 Agent 框架與工具：QwenPaw、DeepSeek-Reasonix
+- 🧠 記憶與知識管理：pdf-inspector
+
+### 篩選說明
+5 個候選中 2 個與 LLM 無關（donnemartin/system-design-primer 系統設計面試準備、tailwindlabs/tailwindcss CSS 框架），3 個新增。
+
+---
 ## 2026-07-30（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁
