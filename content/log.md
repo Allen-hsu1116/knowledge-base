@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-06
+updated: 2026-08-07
 stars: —
 language: zh-TW
 ---
+## 2026-08-07（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **cloudflare/computer** — Agent 虛擬電腦，Durable Object + SQLite 虛擬檔案系統，可插拔後端（Container/Isolate Shell/Isolate JS），FUSE 掛載，capnweb RPC 同步，@cloudflare/think 整合（⭐ 4,797）→ 分類：Agent 框架與工具
+- **huangruiteng/loopx** — Agent 迴圈工程控制平面，本地狀態核心，目標+關卡+待辦+證據+配額，Agent 無關設計（Codex/Claude Code/Cursor），Peer Agent 交接，Quota 感知排程，200+ 小時驗證案例（⭐ 2,865）→ 分類：Agent 編排與記憶
+
+### 動作
+- fetch README + metadata（gh repo view + curl raw）
+- 寫入 raw/2026-08-07-cloudflare-computer.md, raw/2026-08-07-huangruiteng-loopx.md
+- 寫入 wiki/cloudflare-computer.md（112 行, 10 區塊齊全）
+- 寫入 wiki/huangruiteng-loopx.md（113 行, 10 區塊齊全）
+- 更新 projects.md（Agent 框架與工具 + Agent 編排與記憶）
+- 更新 known-repos.json（2 repos, 376 total）
+- 更新 log.md
+
 ## 2026-08-06（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

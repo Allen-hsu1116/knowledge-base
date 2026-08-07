@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-08-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cloudflare-computer\|Cloudflare Computer]] | ⭐4.8k | Agent 虛擬電腦, Durable Object + SQLite 虛擬 FS, 可插拔後端 (Container/Isolate Shell/Isolate JS), FUSE 掛載, capnweb RPC, @cloudflare/think 整合 | 2026-08-07 |
 | [[agentscope-ai-QwenPaw\|QwenPaw]] | ⭐33.6k | 個人 AI 助理, Agent OS, 三層記憶+ReMe, 7+ 通道, Loop Engineering, Scroll Context, Skills+Plugins, MCP, 自架 QwenPaw-Flash 模型, Kernel 級沙箱, Coding Mode | 2026-08-06 |
 | [[esengine-DeepSeek-Reasonix\|DeepSeek-Reasonix]] | ⭐31.6k | DeepSeek 原生 Coding Agent, prefix-cache 穩定性, 99.82% cache hit, 三支柱架構, SEARCH/REPLACE diff, MCP, Skills, Memory, Hooks, Claude 格式相容, TUI+桌面 | 2026-08-06 |
 | [[1jehuang-jcode\|jcode]] | ⭐13.5k | Coding Agent Harness, Rust, 27.8MB RAM, 14ms 首帧, 語意向量記憶, Swarm 多 Agent, Self-Dev 模式, 25+ Provider, MCP, 跨 Harness Session 恢復 | 2026-07-30 |
@@ -112,6 +113,7 @@ updated: 2026-08-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[huangruiteng-loopx\|LoopX]] | ⭐2.9k | Agent 迴圈工程控制平面, 本地狀態核心, 目標+關卡+待辦+證據+配額, Agent 無關 (Codex/Claude Code/Cursor), Peer Agent 交接, Quota 感知排程, 200+ 小時案例 | 2026-08-07 |
 | [[block-buzz\|Buzz]] | ⭐11.9k | 人類+AI Agent 共建工作空間, Nostr relay, ACP harness (Goose/Codex/Claude Code), buzz-cli, YAML 工作流, NIP-34 Git 整合, Rust | 2026-07-26 |
 | [[gastownhall-gastown\|Gas Town]] | ⭐16.4k | 多 Agent 工作空間, The Mayor 協調, Git-backed hooks, Beads tracking, 20-30 agents, Refinery 合併佇列 | 2026-07-06 |
 | [[humanlayer-12-factor-agents\|12-Factor Agents]] | ⭐24159 | Agent 設計原則, 工程實踐 | 2026-05-18 |

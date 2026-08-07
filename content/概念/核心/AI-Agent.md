@@ -53,6 +53,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[harness-engineering]] — 系統化駕馭 Agent 的方法論
 - [[self-correction]] — Agent 自我修正的三條路徑
 - [[llm-knowledge-base]] — 如何管理 Agent 的知識
+- [[cloudflare-computer]] — 給 Agent 一台虛擬電腦，Durable Object 虛擬 FS + 可插拔執行層
+- [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，長時間運行的狀態管理
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

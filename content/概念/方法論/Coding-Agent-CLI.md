@@ -54,6 +54,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[openinterpreter-openinterpreter|Open Interpreter]] — 低成本模型 Coding Agent，多 Harness 模擬
 - [[Dicklesworthstone-destructive_command_guard|dcg]] — AI Coding Agent 命令安全守衛
 - [[MoonshotAI-kimi-cli|Kimi CLI]] — Moonshot AI 終端 AI Agent，Shell 模式 + ACP + MCP
+- [[cloudflare-computer]] — Agent 虛擬電腦，為 Coding Agent 提供隔離執行環境
+- [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，管理 Coding Agent 的長時間運行狀態
 
 ## 來源
 
