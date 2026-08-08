@@ -56,6 +56,7 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[MoonshotAI-kimi-cli|Kimi CLI]] — Moonshot AI 終端 AI Agent，Shell 模式 + ACP + MCP
 - [[cloudflare-computer]] — Agent 虛擬電腦，為 Coding Agent 提供隔離執行環境
 - [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，管理 Coding Agent 的長時間運行狀態
+- [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
 
 ## 來源
 

@@ -2,10 +2,27 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-07
+updated: 2026-08-08
 stars: —
 language: zh-TW
 ---
+## 2026-08-08（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **PrimeIntellect-ai/prime-agent** — 自我進化 RLM Agent，持久 IPython REPL + Continual Harness (/refine 自動精煉)，內建子 Agent (rlm())，背景守護行程，Agent 間直接通訊，可執行 Skills，長任務心跳+排程+自主模式（⭐ 6,544）→ 分類：Agent 框架與工具
+
+### 動作
+- fetch README + metadata（curl raw + GitHub API）
+- 寫入 raw/2026-08-08-PrimeIntellect-ai-prime-agent.md
+- 寫入 wiki/PrimeIntellect-ai-prime-agent.md（115 行, 10 區塊齊全）
+- 更新 projects.md（Agent 框架與工具，最上方）
+- 更新 known-repos.json（+1 repo, 377 total）
+- 更新 backlinks：AI-Agent.md + Coding-Agent-CLI.md + harness-engineering.md
+- 更新 log.md
+
+### 篩選說明
+5 個候選中 4 個與 LLM 無關（google/guava Java 核心庫、jdx/mise 開發工具管理器、goauthentik/authentik 認證系統、pranshuparmar/witr 進程追蹤工具），1 個新增。
+
 ## 2026-08-07（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

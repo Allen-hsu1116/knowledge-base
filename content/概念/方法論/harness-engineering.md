@@ -43,6 +43,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
   👉 詳見 [[revfactory-harness]]
 - **HarnessX** → 研究論文，Substitution Algebra 和 AEGIS 框架
   👉 詳見 [[HarnessX]]
+- **Prime Agent** → Continual Harness + `/refine` 自動精煉，持久 IPython + RLM
+  👉 詳見 [[PrimeIntellect-ai-prime-agent]]
 
 ## 相關概念
 

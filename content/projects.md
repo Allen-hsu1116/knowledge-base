@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-07
+updated: 2026-08-08
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-08-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[PrimeIntellect-ai-prime-agent\|Prime Agent]] | ⭐6.5k | 自我進化 RLM Agent, 持久 IPython REPL, Continual Harness (/refine), 內建子 Agent (rlm()), 背景守護行程, Agent 間直接通訊, Skills 可執行, 長任務心跳+排程+自主模式 | 2026-08-08 |
 | [[cloudflare-computer\|Cloudflare Computer]] | ⭐4.8k | Agent 虛擬電腦, Durable Object + SQLite 虛擬 FS, 可插拔後端 (Container/Isolate Shell/Isolate JS), FUSE 掛載, capnweb RPC, @cloudflare/think 整合 | 2026-08-07 |
 | [[agentscope-ai-QwenPaw\|QwenPaw]] | ⭐33.6k | 個人 AI 助理, Agent OS, 三層記憶+ReMe, 7+ 通道, Loop Engineering, Scroll Context, Skills+Plugins, MCP, 自架 QwenPaw-Flash 模型, Kernel 級沙箱, Coding Mode | 2026-08-06 |
 | [[esengine-DeepSeek-Reasonix\|DeepSeek-Reasonix]] | ⭐31.6k | DeepSeek 原生 Coding Agent, prefix-cache 穩定性, 99.82% cache hit, 三支柱架構, SEARCH/REPLACE diff, MCP, Skills, Memory, Hooks, Claude 格式相容, TUI+桌面 | 2026-08-06 |
