@@ -105,6 +105,8 @@ detect-pdf document.pdf --json   # 只做分類
 
 pdf-inspector 屬於 [[document-parsing\|文件解析]] 生態的純本地、無 OCR 路線。與需要完整 OCR 的方案（如 [[opendatalab-MinerU\|MinerU]]、[[PaddlePaddle-PaddleOCR\|PaddleOCR]]）互補——pdf-inspector 先快速分類，只把需要 OCR 的路由出去。它的 Markdown 輸出可直接用於 [[rag\|RAG]] 管線。
 
+## 相關概念
+
 ← [[document-parsing\|文件解析]] · [[rag\|RAG]] · [[firecrawl-firecrawl\|Firecrawl]]
 
 ## 來源

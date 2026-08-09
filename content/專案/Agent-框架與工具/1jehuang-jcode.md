@@ -28,7 +28,7 @@ topics:
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI]]
-- 🧠 **Agent 記憶** → [[agent-memory]]
+- 🧠 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 
@@ -114,7 +114,7 @@ jcode 的核心差異化在於：Rust 帶來的極致資源效率（省 6-14 倍
 
 ## 相關概念
 
-← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[agent-memory]] · [[MCP]] · [[Token-Optimization]] · [[harness-engineering]]
+← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[MCP]] · [[Token-Optimization]] · [[harness-engineering]]
 
 ## 來源
 

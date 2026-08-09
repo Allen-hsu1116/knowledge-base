@@ -82,6 +82,8 @@ uv run python chapter1/context/main.py
 
 AI Agent Book 的核心差異化：不是泛泛的 AI 入門，而是專注 Agent 工程的深度教科書，有 95 個可運行實驗，且覆蓋了其他教程很少涉及的評估方法論和後訓練決策框架。
 
+## 相關概念
+
 ← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[context-engineering-basics|Context Engineering]] · [[rag|RAG]] · [[MCP]]
 
 ## 來源

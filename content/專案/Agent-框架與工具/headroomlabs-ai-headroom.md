@@ -81,6 +81,8 @@ headroom learn --verbosity --apply      # 套用
 
 Headroom 的核心差異化：可逆壓縮 + 輸出 token 削減 + 跨 Agent 記憶 + 18+ Agent 相容。其他方案要麼不可逆，要麼只壓輸入不壓輸出，要麼只支援少數 Agent。
 
+## 相關概念
+
 ← [[Token-Optimization]] · [[MCP]] · [[context-engineering-basics|Context Engineering]] · [[chopratejas-headroom|Headroom (chopratejas)]]
 
 ## 來源

@@ -95,6 +95,8 @@ qwenpaw uninstall --purge  # 全部清除
 
 QwenPaw 與 [[harness-engineering\|Harness Engineering]] 和 Loop Engineering 密切相關——它把 Agent 迴圈做成可組合的模板，並用 Scroll Context 解決長對話的上下文遺失問題。ReMe 的自演化知識庫與 [[llm-knowledge-base\|LLM 知識庫]] 方法論相通。
 
+## 相關概念
+
 ← [[harness-engineering\|Harness Engineering]] · [[MCP]] · [[AI-Agent\|AI Agent]] · [[self-hosted\|自架]] · [[llm-knowledge-base\|LLM 知識庫]]
 
 ## 來源

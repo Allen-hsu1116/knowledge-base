@@ -82,6 +82,8 @@ pip3 install docling  # ~1.5s/page，保留 markdown 表格和程式碼區塊
 | 手動筆記 | 自己整理重點 | 視筆記大小 | 低 | ❌ |
 | [[rag|RAG]] 系統 | 向量搜尋 + 生成 | 視 chunk 大小 | 低 | ✅ |
 
+## 相關概念
+
 ← [[agentskills-agentskills|Agent Skills]] · [[Token-Optimization|Token Optimization]] · [[document-parsing|文件解析]] · [[llm-knowledge-base|LLM 知識庫]]
 
 ## 來源

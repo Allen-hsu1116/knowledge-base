@@ -393,6 +393,8 @@ updated: 2026-08-09
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐18,926 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
 | [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+| [[zhaoxuya520-reverse-skill\|reverse-skill]] | ⭐10.8k | AI Skills, Cybersecurity, 逆向工程, 滲透測試, CTF, LLM Security, Skill Router | 2026-08-01 |
+
 ## 🏗 基礎設施
 
 | 專案 | Stars | 概念 | 收錄日期 |

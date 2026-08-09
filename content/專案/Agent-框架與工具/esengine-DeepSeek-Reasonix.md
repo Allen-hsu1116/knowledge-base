@@ -32,7 +32,7 @@ topics:
 
 DeepSeek-Reasonix（簡稱 Reasonix）是一個專為 DeepSeek 模型設計的終端 Coding Agent。它的核心差異化不在於多 Provider 支援——恰恰相反，它故意只支援 DeepSeek，因為整個 Agent 迴圈都是圍繞 DeepSeek 的 byte-stable prefix-cache 機制設計的。每個層次（工具呼叫格式、session 管理、檔案操作）都經過調校，確保 prefix 在長 session 中保持可快取。
 
-實際效果驚人：一位真實用戶在單日使用了 435M input tokens，達到 99.82% cache hit，只花了約 $12——而同樣的工作量如果沒有 cache 在 `v4-flash` 上要花約 $61。這不是偶然，而是 Reasonix 四個機制（Pillar 1）刻意設計的結果。
+實際效果驚人：一位真實用戶在單日使用了 435M input tokens，達到 99.82% cache hit，只花了約 \$12——而同樣的工作量如果沒有 cache 在 `v4-flash` 上要花約 \$61。這不是偶然，而是 Reasonix 四個機制（Pillar 1）刻意設計的結果。
 
 Reasonix 已從 TypeScript（0.x 維護模式）遷移到 Go 重寫（main-v2 分支為新預設）。提供 CLI、桌面客戶端（Tauri，預覽版）和 QQ 遠端通道。支援 SEARCH/REPLACE diff 編輯、Plan mode、MCP、Skills、Memory、Hooks、語意索引等完整 Agent 能力。
 
@@ -98,6 +98,8 @@ reasonix update           # 升級
 | 桌面客戶端 | ✅（預覽） | — | — | — |
 
 Reasonix 的 prefix-cache 穩定性設計是 [[harness-engineering\|Harness Engineering]] 的深度實踐——它不是把 cache 當功能，而是當作整個迴圈設計的不變量。這與一般多 Provider Agent（如 [[anomalyco-opencode\|OpenCode]]）的設計哲學完全不同：Reasonix 故意只支援 DeepSeek，因為耦合到一個後端正是特色而非限制。
+
+## 相關概念
 
 ← [[harness-engineering\|Harness Engineering]] · [[Coding-Agent-CLI\|Coding Agent CLI]] · [[AI-Agent\|AI Agent]] · [[Token-Optimization\|Token Optimization]]
 

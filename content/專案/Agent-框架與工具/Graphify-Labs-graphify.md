@@ -87,6 +87,8 @@ graphify-out/
 
 Graphify 的核心差異化：不用向量庫，用 AST 確定性解析，每條邊都有信心標籤。向量 RAG 靠語意相似度，Graphify 靠程式碼結構的確定關係。
 
+## 相關概念
+
 ← [[Knowledge-Graph]] · [[rag|RAG]] · [[AI-Skills]] · [[code-intelligence|Code Intelligence]]
 
 ## 來源

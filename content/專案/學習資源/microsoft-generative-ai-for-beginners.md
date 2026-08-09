@@ -81,6 +81,8 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 - **[[Prompt-Engineering]]** → Lesson 04-05 涵蓋 Prompt Engineering 基礎與進階技巧
 - **[[AI-Tutoring]]** → 本課程是教學導向的 AI 應用，將生成式 AI 知識系統化傳遞給學習者
 
+## 相關概念
+
 ← [[generative-AI|生成式 AI]] · [[LLM]] · [[Prompt-Engineering]] · [[rag]] · [[AI-Agent]] · [[AI-Tutoring]] · [[self-education|自主學習]]
 
 ## 來源

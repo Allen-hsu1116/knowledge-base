@@ -64,6 +64,8 @@ git clone https://github.com/paperswithbacktest/awesome-systematic-trading.git
 | [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | 教學書 | — | ✅ Jupyter | ❌ |
 | [[backtesting\|回測方法論]] | 概念 | — | — | — |
 
+## 相關概念
+
 ← [[financial-forecasting|金融預測]] · [[agent-trading|Agent 交易]] · [[backtesting|回測]] · [[stock-tracking|股市追蹤]]
 
 ## 來源
