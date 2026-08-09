@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # 專案索引
@@ -17,6 +17,9 @@ updated: 2026-08-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Graphify-Labs-graphify\|Graphify (Graphify-Labs)]] | ⭐104.4k | Knowledge Graph Skill, tree-sitter AST 本地解析, EXTRACTED/INFERRED 邊標籤, 無向量庫, ~40 語言, Leiden 社群偵測, YC S26, 多模態（程式碼/PDF/圖片/影片） | 2026-08-09 |
+| [[headroomlabs-ai-headroom\|Headroom (headroomlabs-ai)]] | ⭐65.5k | Token Optimization, Context 壓縮層, 60-95% JSON 壓縮, 可逆 CCR, 輸出 token 削減, 跨 Agent 記憶, headroom learn, 18+ Agent 相容, MCP, Proxy | 2026-08-09 |
+| [[bojieli-ai-agent-book\|深入理解 AI Agent]] | ⭐34.8k | 開源 AI Agent 教科書, 10 章 95 實驗, Agent=LLM+上下文+工具, MCP 專章, 評估方法論, SFT/RL 決策框架, 13 語言翻譯 | 2026-08-09 |
 | [[PrimeIntellect-ai-prime-agent\|Prime Agent]] | ⭐6.5k | 自我進化 RLM Agent, 持久 IPython REPL, Continual Harness (/refine), 內建子 Agent (rlm()), 背景守護行程, Agent 間直接通訊, Skills 可執行, 長任務心跳+排程+自主模式 | 2026-08-08 |
 | [[cloudflare-computer\|Cloudflare Computer]] | ⭐4.8k | Agent 虛擬電腦, Durable Object + SQLite 虛擬 FS, 可插拔後端 (Container/Isolate Shell/Isolate JS), FUSE 掛載, capnweb RPC, @cloudflare/think 整合 | 2026-08-07 |
 | [[agentscope-ai-QwenPaw\|QwenPaw]] | ⭐33.6k | 個人 AI 助理, Agent OS, 三層記憶+ReMe, 7+ 通道, Loop Engineering, Scroll Context, Skills+Plugins, MCP, 自架 QwenPaw-Flash 模型, Kernel 級沙箱, Coding Mode | 2026-08-06 |
