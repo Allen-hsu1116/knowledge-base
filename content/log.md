@@ -1378,3 +1378,18 @@ known-repos.json: +1 repo
 - 更新 backlinks: agentskills-agentskills.md, backtesting.md
 - 已 sync + deploy 到 GitHub Pages
 
+
+## 2026-08-09 — 手動批次收錄（6 repos）
+
+### 新增 2 個 repo：
+- **langchain-ai/openwiki** (⭐14.8k) — 自我維護 wiki CLI，Deep Agents 驅動，Code+Personal 雙模式，12 模型供應商，OKF v0.1 輸出，Mermaid 圖表，互動式節點圖視覺化 → wiki/langchain-ai-openwiki.md (🤖 Agent 框架與工具)
+- **linear/linear** (⭐1.5k) — Linear 官方 GraphQL API SDK monorepo，TypeScript 型別安全 SDK，Codegen 插件，匯入工具 → wiki/linear-linear.md (🏗 基礎設施)
+
+### 更新 4 個 repo：
+- **HKUDS/Vibe-Trading** (⭐5.1k → ⭐30.4k) — 大幅更新：88 Skills、68 Tools、23 資料來源、12 券商連接器、Alpha Zoo 462 因子、Shadow Account、跨市場回測
+- **Shubhamsaboo/awesome-llm-apps** (⭐113.6k → ⭐131.7k) — 更新模板清單：Agent Skills、Voice AI、Generative UI、MCP Agents、多 Agent 團隊
+- **VoltAgent/awesome-design-md** (⭐99.7k → ⭐107.4k) — 新增 Retro Web DESIGN.md、更多網站
+- **DeusData/codebase-memory-mcp** (⭐8.2k → ⭐38.3k) — 大幅更新：43 Agent 支援面、Hybrid LSP、語義搜尋、Cypher 查詢、跨 repo 智慧、死碼偵測、ADR、團隊共享圖譜 artifact
+
+更新 backlinks: 待手動檢查
+known-repos.json: +2 new repos, +4 updated, +19 new concept tags

@@ -2,15 +2,15 @@
 title: Vibe-Trading
 slug: HKUDS-Vibe-Trading
 created: 2026-05-06
-stars: '⭐5120'
-updated: 2026-05-06
+updated: 2026-08-09
+stars: 30429
 language: zh-TW
-topics: [AI Agent, AI Skills, MCP, 金融交易]
+topics: [AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Account, Alpha Zoo]
 ---
 
 # Vibe-Trading
 
-> ⭐5120 · 你的個人交易 Agent：74 個 Skill + 27 個 Tool + 6 個資料來源，一條指令賦能 Agent 全面交易能力。HKUDS 出品。⭐5,120
+> ⭐30.4k · 你的個人交易 Agent：88 個 Skill + 68 個 Tool + 23 個資料來源 + 12 家券商連接器，一條指令賦能 Agent 全面交易研究能力。HKUDS 出品。
 
 ## 快速導航
 - 🤖 **Agent 工作流** → [[AI-Agent]]（Vibe-Trading 是垂直領域交易 Agent）

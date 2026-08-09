@@ -17,6 +17,7 @@ updated: 2026-08-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[langchain-ai-openwiki\|OpenWiki]] | ⭐14.8k | 自我維護 wiki CLI, Deep Agents, Code+Personal 模式, 12 模型供應商, OKF v0.1, Mermaid 圖表, 互動式節點圖, LangSmith 整合 | 2026-08-09 |
 | [[Graphify-Labs-graphify\|Graphify (Graphify-Labs)]] | ⭐104.4k | Knowledge Graph Skill, tree-sitter AST 本地解析, EXTRACTED/INFERRED 邊標籤, 無向量庫, ~40 語言, Leiden 社群偵測, YC S26, 多模態（程式碼/PDF/圖片/影片） | 2026-08-09 |
 | [[headroomlabs-ai-headroom\|Headroom (headroomlabs-ai)]] | ⭐65.5k | Token Optimization, Context 壓縮層, 60-95% JSON 壓縮, 可逆 CCR, 輸出 token 削減, 跨 Agent 記憶, headroom learn, 18+ Agent 相容, MCP, Proxy | 2026-08-09 |
 | [[bojieli-ai-agent-book\|深入理解 AI Agent]] | ⭐34.8k | 開源 AI Agent 教科書, 10 章 95 實驗, Agent=LLM+上下文+工具, MCP 專章, 評估方法論, SFT/RL 決策框架, 13 語言翻譯 | 2026-08-09 |
@@ -51,7 +52,7 @@ updated: 2026-08-09
 | [[JCodesMore-ai-website-cloner-template\|AI Website Cloner Template]] | ⭐17.7k | AI Coding Agent, 網站克隆, Next.js, 平行 builder, 12+ Agent 平台 | 2026-06-23 |
 | [[Kilo-Org-kilocode\|Kilo Code]] | ⭐23359 | AI 編碼 Agent, VS Code+JetBrains+CLI, 500+ 模型, MCP Marketplace, 自主模式 | 2026-06-21 |
 | [[HarnessX]] | —（研究論文） | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
-| [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐8238 | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter | 2026-06-20 |
+| [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐38.3k | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter, Hybrid LSP, 43 Agent 支援面, 語義搜尋, Cypher, 跨 repo, 死碼偵測, ADR | 2026-08-09 |
 | [[OpenHands-OpenHands\|OpenHands]] | ⭐77391 | Coding Agent 控制中心, ACP 協議, 多後端, 自動化工作流 | 2026-06-17 |
 | [[microsoft-autogen\|AutoGen]] | ⭐59010 | 多 Agent 框架, AgentChat, MCP 整合, 維護模式 | 2026-06-17 |
 | [[farion1231-cc-switch\|CC Switch]] | ⭐101664 | AI Agent 管理器, 跨平台桌面, Claude Code/Codex/OpenCode | 2026-06-16 |
@@ -109,7 +110,7 @@ updated: 2026-08-09
 | [[addyosmani-agent-skills\|addyosmani/agent-skills]] | ⭐'37.9k' | Agent Skills, 開源 Skill 庫 | 2026-04-28 |
 | [[google-skills\|google/skills]] | ⭐'9.6k' | Agent Skills, GCP, 雲端 | 2026-04-28 |
 | [[agency-agents-144-personas\|Agency Agents 144 人格]] | ⭐84k+ | Agent Persona, 開源人格庫 | 2026-04-28 |
-| [[Shubhamsaboo-awesome-llm-apps\|Awesome LLM Apps]] | ⭐113600 | LLM, RAG, AI-Agent, Awesome-List | 2025-06-07 |
+| [[Shubhamsaboo-awesome-llm-apps\|Awesome LLM Apps]] | ⭐131.7k | LLM, RAG, AI-Agent, Awesome-List, Agent Skills, Voice AI, MCP, Generative UI, 多 Agent 團隊 | 2026-08-09 |
 | [[Mininglamp-AI-Mano-P\|Mano-P]] | ⭐2288 | VLA, GUI-Agent, Computer-Use, Edge-AI | 2025-06-07 |
 | [[HKUDS-CLI-Anything\|CLI-Anything]] | ⭐42231 | CLI, Agent-Native, MCP, Software-Automation | 2025-06-07 |
 
@@ -328,7 +329,7 @@ updated: 2026-08-09
 | [[anthropics-financial-services\|Anthropic Financial Services]] | ⭐18,951 | AI Agent, AI Skills, MCP, 金融服務 | 2026-05-11 |
 | [[Imbad0202-academic-research-skills]] | ⭐4,927 | AI Skills, AI Agent, 學術研究 | 2026-05-08 |
 | [[Narcooo-inkos]] | ⭐'5672' | AI Agent, AI Skills, 小說寫作 | 2026-05-06 |
-| [[HKUDS-Vibe-Trading]] | ⭐'5120' | AI Agent, AI Skills, MCP, 金融交易 | 2026-05-06 |
+| [[HKUDS-Vibe-Trading]] | ⭐30.4k | AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Account, Alpha Zoo, 12 券商連接器, 23 資料來源 | 2026-08-09 |
 | [[saturndec-waoowaoo\|waoowaoo AI 影視 Studio]]（[[waoowaoo\|別名]]） | ⭐'12k' | AI, 短劇, 影片製作 | 2026-05-05 |
 | [[hugohe3-ppt-master\|PPT Master]]（[[ppt-master\|別名]]） | ⭐'11.3k' | AI, PPT, 可編輯 | 2026-05-05 |
 | [[virattt-dexter]] | ⭐23,560 | LLM, AI Agent, 金融研究 | 2026-05-05 |
@@ -352,7 +353,7 @@ updated: 2026-08-09
 | [[earthtojake-text-to-cad\|Text-to-CAD]] | ⭐10.0k | CAD/機器人/硬體設計 Agent Skills, 11 Skills, STEP/STL/3MF/GLB/DXF/URDF/SRDF/SDF/G-code, 自然語言生成, 3D 列印 | 2026-07-24 |
 | [[ibelick-ui-skills\|UI Skills]] | ⭐4.3k | 設計工程師 UI Skill 路由, 分類管理, CLI 查詢, npx 一鍵啟動, motion/layout/color Skill 集 | 2026-07-17 |
 | [[Nutlope-hallmark\|Hallmark]] | ⭐5.1k | 反 AI 味設計 Skill, 57 道 slop-test gate, 21 種巨觀結構, 20 種主題, 14 種導覽原型, OKLCH 色彩, Claude Code/Cursor/Codex | 2026-07-14 |
-| [[VoltAgent-awesome-design-md\|Awesome DESIGN.md]] | ⭐99.7k | DESIGN.md 設計系統文件, 73 網站, Google Stitch, AI Agent UI 生成, Vibe Coding, 設計 Token | 2026-07-10 |
+| [[VoltAgent-awesome-design-md\|Awesome DESIGN.md]] | ⭐107.4k | DESIGN.md 設計系統文件, 73 網站, Google Stitch, AI Agent UI 生成, Vibe Coding, 設計 Token, Retro Web | 2026-08-09 |
 | [[iOfficeAI-OfficeCLI\|OfficeCLI]] | ⭐9959 | AI Agent Office 套件, Word/Excel/PPT, 單一二進位, HTML/PNG 渲染引擎, LaTeX 方程式, Mermaid 圖表, 即時預覽 | 2026-07-08 |
 | [[coreyhaines31-marketingskills\|Marketing Skills]] | ⭐36.4k | 行銷 Skills, 45+ skills, CRO/SEO/文案, Agent Skills 規範, product-marketing 基礎, 7 大領域 | 2026-07-06 |
 | [[CoplayDev-unity-mcp\|MCP for Unity]] | ⭐11.6k | MCP, Unity Editor, 47 工具, 遊戲開發, 自然語言操控, AI Agent | 2026-07-05 |
@@ -399,6 +400,7 @@ updated: 2026-08-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[linear-linear\|Linear API]] | ⭐1.5k | 專案管理, GraphQL SDK, TypeScript, Codegen 插件, 匯入工具, Monorepo | 2026-08-09 |
 | [[PostHog-posthog\|PostHog]] | ⭐35.8k | 開源產品分析+AI 觀測, self-driving mode, session replay, feature flags, A/B 實驗, MCP 整合, AI observability | 2026-07-17 |
 | [[chenyme-grok2api\|Grok2API]] | ⭐5.8k | AI Gateway, Grok 專用, 多帳號池調度, OpenAI+Anthropic 雙協議, Go, 媒體生成 | 2026-07-15 |
 | [[vercel-next.js\|Next.js]] | ⭐140706 | 全棧 React 框架, SSR/SSG/ISR, App Router, Server Components, SWC 編譯器, API Routes, Edge Runtime | 2026-07-11 |

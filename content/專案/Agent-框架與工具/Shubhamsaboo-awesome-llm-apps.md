@@ -2,15 +2,15 @@
 title: Awesome LLM Apps
 slug: Shubhamsaboo-awesome-llm-apps
 created: 2025-06-07
-updated: 2025-06-07
-stars: 113600
+updated: 2026-08-09
+stars: 131666
 language: Python
-topics: [LLM, RAG, AI-Agent, Awesome-List]
+topics: [LLM, RAG, AI-Agent, Awesome-List, Agent-Skills, Voice-AI, MCP, Generative-UI]
 ---
 
 # Awesome LLM Apps
 
-> ⭐113.6k · 100+ 個可直接運行的 AI Agent & RAG 應用模板集合，clone、客製化、部署。
+> ⭐131.7k · 100+ 個可直接運行的 AI Agent、Agent Skills 和 RAG 應用模板，手工打造、端到端測試、Apache-2.0。
 
 ## 快速導航
 

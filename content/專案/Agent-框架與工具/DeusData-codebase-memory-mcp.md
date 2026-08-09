@@ -2,15 +2,15 @@
 title: Codebase Memory MCP
 slug: DeusData-codebase-memory-mcp
 created: 2026-06-20
-updated: 2026-06-20
-stars: 8238
+updated: 2026-08-09
+stars: 38261
 language: C
-topics: [claude-code, code-analysis, code-intelligence, knowledge-graph, mcp, mcp-server, model-context-protocol, sqlite, tree-sitter, codex, cursor, windsurf, aider, gemini-cli, graph-visualization, opencode, ast, cypher]
+topics: [claude-code, code-analysis, code-intelligence, knowledge-graph, mcp, mcp-server, model-context-protocol, sqlite, tree-sitter, codex, cursor, windsurf, aider, gemini-cli, graph-visualization, opencode, ast, cypher, hybrid-lsp, cross-repo, dead-code, adr, semantic-search]
 ---
 
 # Codebase Memory MCP
 
-> ⭐8.2k · 最快的 AI 編碼代理程式碼智慧引擎——將整個程式碼庫索引為知識圖譜，查詢低於 1ms。
+> ⭐38.3k · 最快最有效率 AI 編碼代理程式碼智慧引擎——將整個程式碼庫索引為持久化知識圖譜，平均 repo 毫秒級完成，查詢低於 1ms，158 語言，43 個 Agent 支援面。
 
 ## 快速導航
 [[colbymchenry-codegraph|CodeGraph]] · [[Understand-Anything|Understand Anything]] · [[tirth8205-code-review-graph|Code Review Graph]] · [[MCP|MCP]]

@@ -2,15 +2,15 @@
 title: Awesome DESIGN.md
 slug: VoltAgent-awesome-design-md
 created: 2026-07-10
-updated: 2026-07-10
-stars: 99.7k
+updated: 2026-08-09
+stars: 107397
 language: Markdown
-topics: awesome-list, design-md, design-system, design-tokens, figma, google-stitch, vibe-coding, vibe-design
+topics: awesome-list, design-md, design-system, design-tokens, figma, google-stitch, vibe-coding, vibe-design, retro-web
 ---
 
 # Awesome DESIGN.md
 
-> ⭐99.7k · 73 個知名網站的 DESIGN.md 設計系統文件，讓 AI coding agent 生成視覺一致的 UI
+> ⭐107.4k · 73 個知名網站的 DESIGN.md 設計系統文件，讓 AI coding agent 生成視覺一致的 UI
 
 ## 快速導航
 
