@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-09
+updated: 2026-08-10
 ---
 
 # 專案索引
@@ -130,6 +130,7 @@ updated: 2026-08-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vitali87-code-graph-rag\|Code-Graph-RAG]] | ⭐3k | 程式碼 RAG, Tree-sitter 多語言 AST, Memgraph 知識圖譜, 自然語言→Cypher, AST 手術式修改, Dead Code 偵測, ast-grep 結構化搜尋, MCP Server, Qdrant 語意搜尋, 即時更新 | 2026-08-10 |
 | [[firecrawl-pdf-inspector\|pdf-inspector]] | ⭐11.5k | 高速 Rust PDF 解析, 智慧分類 TextBased/Scanned/Mixed, OCR 路由, 位置感知擷取, Markdown 轉換, 雙模式表格偵測, 瀏覽器 WASM, 200ms 本地處理 | 2026-08-06 |
 | [[TencentCloud-TencentDB-Agent-Memory\|TencentDB Agent Memory]] | ⭐7646 | Agent 記憶, 4 層金字塔, Mermaid 符號化, 61% Token 節省, 零外部 API, OpenClaw/Hermes | 2026-07-09 |
 | [[ComPDFKit-docslight\|DocSlight]] | ⭐108 | 文件解析引擎, PDF/掃描/圖片/Office, OCR 80+ 語言, 結構化擷取, Bounding Box, Markdown/JSON, RAG 就緒 | 2026-07-08 |
