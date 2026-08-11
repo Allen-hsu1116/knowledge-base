@@ -45,6 +45,10 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
   👉 詳見 [[HarnessX]]
 - **Prime Agent** → Continual Harness + `/refine` 自動精煉，持久 IPython + RLM
   👉 詳見 [[PrimeIntellect-ai-prime-agent]]
+- **LifeOS** → General Purpose AI Harness，Current→Ideal State hill-climbing，TELOS + Algorithm + Euphoric Surprise
+  👉 詳見 [[danielmiessler-LifeOS]]
+- **Paperclip** → Agent 公司編排，組織架構 + 預算 + 治理，Harness 管理多 Agent 協作
+  👉 詳見 [[paperclipai-paperclip]]
 
 ## 相關概念
 

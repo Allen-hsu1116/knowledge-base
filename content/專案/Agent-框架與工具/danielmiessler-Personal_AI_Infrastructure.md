@@ -65,6 +65,8 @@ cd ~/.claude && ./install.sh
 
 PAI 與其他 Agent 框架最大的不同是它的「生活 OS」定位：不侷限於程式開發，而是涵蓋生活的各個層面。它的「Ideal State」概念是獨特的——其他框架大多只回答「怎麼做」，PAI 還要回答「完成了長什麼樣」。
 
+PAI 後來進化為 [[danielmiessler-LifeOS|LifeOS]]，加入了 Intent Engineering、Euphoric Surprise、TELOS 等新概念，從「個人生活 OS」升級為「通用 AI 駕馭框架」。
+
 ## 相關概念
 ← [[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 

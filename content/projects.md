@@ -17,6 +17,8 @@ updated: 2026-08-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[paperclipai-paperclip\|Paperclip]] | ⭐76.5k | AI Agent 編排平台, 多 Agent 公司管理, 組織架構, 預算控制, 治理審批, Heartbeat 排程, BYO Agent, 多公司隔離, 持久狀態 | 2026-08-11 |
+| [[danielmiessler-LifeOS\|LifeOS]] | ⭐17.9k | General AI Harness, Current→Ideal State, Hill-Climbing, Intent Engineering, Euphoric Surprise, TELOS, Harness-Agnostic, 持久記憶, 自改進 | 2026-08-11 |
 | [[langchain-ai-openwiki\|OpenWiki]] | ⭐14.8k | 自我維護 wiki CLI, Deep Agents, Code+Personal 模式, 12 模型供應商, OKF v0.1, Mermaid 圖表, 互動式節點圖, LangSmith 整合 | 2026-08-09 |
 | [[Graphify-Labs-graphify\|Graphify (Graphify-Labs)]] | ⭐104.4k | Knowledge Graph Skill, tree-sitter AST 本地解析, EXTRACTED/INFERRED 邊標籤, 無向量庫, ~40 語言, Leiden 社群偵測, YC S26, 多模態（程式碼/PDF/圖片/影片） | 2026-08-09 |
 | [[headroomlabs-ai-headroom\|Headroom (headroomlabs-ai)]] | ⭐65.5k | Token Optimization, Context 壓縮層, 60-95% JSON 壓縮, 可逆 CCR, 輸出 token 削減, 跨 Agent 記憶, headroom learn, 18+ Agent 相容, MCP, Proxy | 2026-08-09 |
