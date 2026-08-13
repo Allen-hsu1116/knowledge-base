@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # 專案索引
@@ -174,6 +174,7 @@ updated: 2026-08-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cactus-compute-needle\|Needle 2]] | ⭐4.2k | 14MB 基礎模型, 45M 參數, on-device tool calling, 28MB RAM, CQ2-bit 量化, Simple Attention Network, byte-level grammar, 信心 gating, tool retrieval, LoRA 微調, 結構化擷取 | 2026-08-13 |
 | [[dottxt-ai-outlines\|Outlines]] | ⭐14.8k | 結構化生成, logits mask + CFG, Pydantic/JSON/Regex/Function Calling, 跨 OpenAI/vLLM/Ollama/transformers/llama.cpp, Jinja 模板, .txt 公司 | 2026-07-22 |
 | [[kvcache-ai-ktransformers\|KTransformers]] | ⭐18.7k | CPU-GPU 異構推論, MoE 專家調度, AMX/AVX 加速, LLaMA-Factory 微調, DeepSeek-R1 24GB VRAM, Day0 模型支援 | 2026-07-21 |
 | [[PrismML-Eng-Bonsai-demo\|Bonsai Demo]] | ⭐1.7k | 1-bit/Ternary LLM, 超低精度量化, 27B 視覺語言, iPhone 可跑, llama.cpp/MLX, Tool Calling, MCP, 256k 上下文 | 2026-07-18 |
@@ -353,6 +354,7 @@ updated: 2026-08-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cathrynlavery-diagram-design\|Diagram Design]] | ⭐10.4k | AI Skills, 27 種編輯級圖表, HTML+SVG 自包含, 品牌自動適配, WCAG AA, draw.io/Mermaid 匯入, 四調節旋鈕, 語意模式, 可選無障礙動畫, Claude Code/Codex/Pi | 2026-08-13 |
 | [[virgiliojr94-book-to-skill\|book-to-skill]] | ⭐11.4k | AI Skills, 技術書→Skill, PDF/EPUB/DOCX, 24-51x Token 節省, 按需章節載入, Discovery Loop Tax, 跨 Agent 平台 | 2026-07-29 |
 | [[earthtojake-text-to-cad\|Text-to-CAD]] | ⭐10.0k | CAD/機器人/硬體設計 Agent Skills, 11 Skills, STEP/STL/3MF/GLB/DXF/URDF/SRDF/SDF/G-code, 自然語言生成, 3D 列印 | 2026-07-24 |
 | [[ibelick-ui-skills\|UI Skills]] | ⭐4.3k | 設計工程師 UI Skill 路由, 分類管理, CLI 查詢, npx 一鍵啟動, motion/layout/color Skill 集 | 2026-07-17 |
