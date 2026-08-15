@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-08-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[citrolabs-ego-lite\|ego lite]] | ⭐10.4k | AI Agent 瀏覽器, 平行 Space, code-base 驅動, ego-browser Skill, Chrome 資料繼承, kernel 級快照, 2.5x 更快, Claude Code/Codex/Cursor, 經驗積累 | 2026-08-15 |
 | [[semantica-agi-semantica\|Semantica]] | ⭐4.9k | Graph-Native AI 基礎設施, Context Graph, Decision Intelligence, W3C PROV-O 溯源, 確定性推理 (Rete/Datalog/SPARQL), SHACL 治理, OWL/SKOS 本體, Polyglot 圖儲存 (RDF+LPG), Databricks/Snowflake 連接器, MCP | 2026-08-12 |
 | [[paperclipai-paperclip\|Paperclip]] | ⭐76.5k | AI Agent 編排平台, 多 Agent 公司管理, 組織架構, 預算控制, 治理審批, Heartbeat 排程, BYO Agent, 多公司隔離, 持久狀態 | 2026-08-11 |
 | [[danielmiessler-LifeOS\|LifeOS]] | ⭐17.9k | General AI Harness, Current→Ideal State, Hill-Climbing, Intent Engineering, Euphoric Surprise, TELOS, Harness-Agnostic, 持久記憶, 自改進 | 2026-08-11 |
