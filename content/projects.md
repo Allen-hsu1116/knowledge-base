@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-15
+updated: 2026-08-16
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-08-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[langroid-langroid\|Langroid]] | ⭐4.1k | 多 Agent Python 框架, Actor 模型啟發, CMU+UW-Madison, 不依賴 Langchain, MCP 工具轉接器, 本地 LLM, DocChatAgent (RAG), Task 子任務委派, Claude Code 插件 | 2026-08-16 |
 | [[citrolabs-ego-lite\|ego lite]] | ⭐10.4k | AI Agent 瀏覽器, 平行 Space, code-base 驅動, ego-browser Skill, Chrome 資料繼承, kernel 級快照, 2.5x 更快, Claude Code/Codex/Cursor, 經驗積累 | 2026-08-15 |
 | [[semantica-agi-semantica\|Semantica]] | ⭐4.9k | Graph-Native AI 基礎設施, Context Graph, Decision Intelligence, W3C PROV-O 溯源, 確定性推理 (Rete/Datalog/SPARQL), SHACL 治理, OWL/SKOS 本體, Polyglot 圖儲存 (RDF+LPG), Databricks/Snowflake 連接器, MCP | 2026-08-12 |
 | [[paperclipai-paperclip\|Paperclip]] | ⭐76.5k | AI Agent 編排平台, 多 Agent 公司管理, 組織架構, 預算控制, 治理審批, Heartbeat 排程, BYO Agent, 多公司隔離, 持久狀態 | 2026-08-11 |
@@ -134,6 +135,7 @@ updated: 2026-08-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Unstructured-IO-unstructured\|Unstructured]] | ⭐15.3k | 開源文件 ETL, 60+ 格式 (PDF/HTML/Word/圖片/掃描), Transform MCP Server, OCR (tesseract), 分塊/嵌入, Docker, Claude Code/Cursor/Codex CLI | 2026-08-16 |
 | [[vitali87-code-graph-rag\|Code-Graph-RAG]] | ⭐3k | 程式碼 RAG, Tree-sitter 多語言 AST, Memgraph 知識圖譜, 自然語言→Cypher, AST 手術式修改, Dead Code 偵測, ast-grep 結構化搜尋, MCP Server, Qdrant 語意搜尋, 即時更新 | 2026-08-10 |
 | [[firecrawl-pdf-inspector\|pdf-inspector]] | ⭐11.5k | 高速 Rust PDF 解析, 智慧分類 TextBased/Scanned/Mixed, OCR 路由, 位置感知擷取, Markdown 轉換, 雙模式表格偵測, 瀏覽器 WASM, 200ms 本地處理 | 2026-08-06 |
 | [[TencentCloud-TencentDB-Agent-Memory\|TencentDB Agent Memory]] | ⭐7646 | Agent 記憶, 4 層金字塔, Mermaid 符號化, 61% Token 節省, 零外部 API, OpenClaw/Hermes | 2026-07-09 |
@@ -356,6 +358,8 @@ updated: 2026-08-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[blader-humanizer\|Humanizer]] | ⭐35.8k | AI 寫作去痕跡 Skill, 33 模式偵測 (Wikipedia Signs of AI writing), 雙重審計, 語音校準, 不捏造規則, 跨 harness 便攜 (Claude Code/Codex/Cursor), skills.sh 安裝 | 2026-08-16 |
+| [[cursor-plugins\|Cursor Plugins]] | ⭐3.0k | Cursor 官方插件規範, 11 開發工具插件 (Continual Learning/Thermos/Orchestrate 等), 11+ 第三方 MCP 整合 (Gmail/Salesforce/HubSpot), marketplace.json 結構 | 2026-08-16 |
 | [[kepano-obsidian-skills\|Obsidian Skills]] | ⭐45.8k | Obsidian 官方 Agent Skills, 5 Skill (Markdown/Bases/JSON Canvas/CLI/Defuddle), Agent Skills 規範相容, 跨 Claude Code/Codex/OpenCode/Hermes, kepano 出品 | 2026-08-14 |
 | [[cathrynlavery-diagram-design\|Diagram Design]] | ⭐10.4k | AI Skills, 27 種編輯級圖表, HTML+SVG 自包含, 品牌自動適配, WCAG AA, draw.io/Mermaid 匯入, 四調節旋鈕, 語意模式, 可選無障礙動畫, Claude Code/Codex/Pi | 2026-08-13 |
 | [[virgiliojr94-book-to-skill\|book-to-skill]] | ⭐11.4k | AI Skills, 技術書→Skill, PDF/EPUB/DOCX, 24-51x Token 節省, 按需章節載入, Discovery Loop Tax, 跨 Agent 平台 | 2026-07-29 |
@@ -409,6 +413,7 @@ updated: 2026-08-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mlflow-mlflow\|MLflow]] | ⭐27.5k | 開源 AI 工程平台, LLM Tracing (OpenTelemetry), 60+ 框架自動追蹤, 50+ 評估指標, Prompt 管理與優化, AI Gateway, 模型註冊表, 6000 萬月下載, MCP 整合 | 2026-08-16 |
 | [[linear-linear\|Linear API]] | ⭐1.5k | 專案管理, GraphQL SDK, TypeScript, Codegen 插件, 匯入工具, Monorepo | 2026-08-09 |
 | [[PostHog-posthog\|PostHog]] | ⭐35.8k | 開源產品分析+AI 觀測, self-driving mode, session replay, feature flags, A/B 實驗, MCP 整合, AI observability | 2026-07-17 |
 | [[chenyme-grok2api\|Grok2API]] | ⭐5.8k | AI Gateway, Grok 專用, 多帳號池調度, OpenAI+Anthropic 雙協議, Go, 媒體生成 | 2026-07-15 |
