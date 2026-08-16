@@ -15,7 +15,7 @@ topics: [agent-skills, ai-agent, automation, browser, browser-automation, claude
 ## 快速導航
 
 - 🤖 **Agent 框架** → [[browser-use-browser-use]] · [[alibaba-page-agent]]
-- 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[agent-skills-ecosystem]]
+- 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[AI-Skills]]
 - 🌐 **瀏覽器自動化** → [[ChromeDevTools-chrome-devtools-mcp]] · [[CloakHQ-CloakBrowser]]
 
 ## 是什麼

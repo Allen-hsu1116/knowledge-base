@@ -14,7 +14,7 @@ topics: [agents, ai, llm, llm-agent, llm-framework, multi-agent-systems, rag, fu
 
 ## 快速導航
 
-- 🤖 **Agent 框架** → [[crewAIInc-crewAI]] · [[microsoft-autogen]] · [[langchain-ai-langchain]]
+- 🤖 **Agent 框架** → [[CrewAI]] · [[microsoft-autogen]] · [[LangChain]]
 - 🔍 **RAG** → [[rag]] · [[langgenius-dify]]
 
 ## 是什麼
@@ -94,7 +94,7 @@ teacher_task.run()
 
 ## 相關概念
 
-← [[crewAIInc-crewAI]] · [[microsoft-autogen]] · [[langchain-ai-langchain]] · [[rag]] · [[AI-Agent]] · [[MCP]]
+← [[CrewAI]] · [[microsoft-autogen]] · [[LangChain]] · [[rag]] · [[AI-Agent]] · [[MCP]]
 
 ## 來源
 

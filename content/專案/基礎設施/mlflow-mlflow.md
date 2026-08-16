@@ -14,9 +14,9 @@ topics: [agentops, agents, ai, ai-governance, apache-spark, evaluation, langchai
 
 ## 快速導航
 
-- 📊 **LLM 評測與監控** → [[langfuse-langfuse]] · [[LLM-observability]]
+- 📊 **LLM 評測與監控** → [[langfuse-langfuse]] · [[observability]]
 - 🚪 **AI Gateway** → [[diegosouzapw-OmniRoute]] · [[AI-Gateway]]
-- 🤖 **Agent 框架** → [[langchain-ai-langchain]] · [[crewAIInc-crewAI]]
+- 🤖 **Agent 框架** → [[LangChain]] · [[CrewAI]]
 
 ## 是什麼
 
@@ -80,7 +80,7 @@ client.responses.create(
 
 ## 相關概念
 
-← [[langfuse-langfuse]] · [[diegosouzapw-OmniRoute]] · [[promptfoo-promptfoo]] · [[AI-Gateway]] · [[LLM-observability]] · [[LLM-evaluation]] · [[microsoft-autogen]] · [[crewAIInc-crewAI]]
+← [[langfuse-langfuse]] · [[diegosouzapw-OmniRoute]] · [[promptfoo-promptfoo]] · [[AI-Gateway]] · [[observability]] · LLM 評測 · [[microsoft-autogen]] · [[CrewAI]]
 
 ## 來源
 

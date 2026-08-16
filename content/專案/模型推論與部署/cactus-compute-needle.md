@@ -15,7 +15,7 @@ topics: [on-device-ai, llm, tool-calling, edge-ai, structured-extraction, cactus
 ## 快速導航
 
 - 🧠 **LLM** → [[LLM]]
-- 📱 **邊緣 AI** → [[edge-AI]]
+- 📱 **邊緣 AI** → [[embedded-AI]]
 - 🖥️ **模型推論與部署** → [[模型推論與部署]]
 - ⚡ **Token 優化** → [[Token-Optimization]]
 
@@ -102,7 +102,7 @@ Needle 2 不是要取代大模型，而是填補「設備太小、RAM 太少、�
 
 ## 相關概念
 
-← [[LLM]] · [[edge-AI]] · [[模型推論與部署]] · [[Token-Optimization]] · [[llama-cpp]]
+← [[LLM]] · [[embedded-AI]] · [[模型推論與部署]] · [[Token-Optimization]] · [[llama-cpp]]
 
 ## 來源
 

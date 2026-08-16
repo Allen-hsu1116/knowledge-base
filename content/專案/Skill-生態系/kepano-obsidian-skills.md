@@ -14,10 +14,10 @@ topics: [agents, agentskills, obsidian, claude, codex, opencode, hermes, opencla
 
 ## 快速導航
 
-- 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[agent-skills-ecosystem]]
-- 🤖 **Agent 框架** → [[Claude-Code]] · [[anthropics-claude-code]]
+- 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[AI-Skills]]
+- 🤖 **Agent 框架** → [[anthropics-claude-code]] · [[anthropics-claude-code]]
 - 🧠 **知識管理** → [[llm-knowledge-base]] · [[basicmachines-co-basic-memory]]
-- 📝 **Obsidian 生態** → [[markdown-knowledge-graph]] · [[refactoringhq-tolaria]]
+- 📝 **Obsidian 生態** → [[llm-knowledge-base]] · [[refactoringhq-tolaria]]
 
 ## 是什麼
 
@@ -78,7 +78,7 @@ Obsidian Skills 的定位是「Obsidian 的 agent 介面」——不替代 Obsid
 
 ## 相關概念
 
-← [[agentskills-agentskills]] · [[agent-skills-ecosystem]] · [[Claude-Code]] · [[llm-knowledge-base]] · [[markdown-knowledge-graph]] · [[MCP]]
+← [[agentskills-agentskills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[llm-knowledge-base]] · [[llm-knowledge-base]] · [[MCP]]
 
 ## 來源
 

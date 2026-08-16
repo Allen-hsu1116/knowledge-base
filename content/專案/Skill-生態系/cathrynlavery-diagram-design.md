@@ -82,7 +82,7 @@ Diagram Design 不取代 Figma 的全部能力，而是填補「需要一張好�
 
 ## 相關概念
 
-← [[AI-Skills]] · [[anthropics-claude-code]] · [[google-labs-code-design.md]] · [[Frontend-Design-Agent-Skills]] · [[Hallmark]]
+← [[AI-Skills]] · [[anthropics-claude-code]] · [[google-labs-code-design.md]] · [[Frontend-Design-Agent-Skills]] · [[Nutlope-hallmark]]
 
 ## 來源
 

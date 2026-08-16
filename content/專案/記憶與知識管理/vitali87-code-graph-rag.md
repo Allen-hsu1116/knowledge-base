@@ -84,7 +84,9 @@ MCP Server 設定（Claude Code 等）：
 | [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | 自帶 | ❌ | ✅ tree-sitter | 158 | ✅ | ❌ |
 | [[rag\|傳統向量 RAG]] | ❌ | ✅ 必須 | ❌ | — | — | ❌ |
 
-Code-Graph-RAG 的定位：介於 Graphify（純 AST 圖譜 skill）和 Codebase Memory MCP（大規模 code intelligence）之間。Graphify 是 AI assistant 的 skill，不持久化圖譜；Code-Graph-RAG 用 Memgraph 持久化，可以跨 session 查詢。Codebase Memory MCP 支援更多語言但沒有內建程式碼修改功能。
+|Code-Graph-RAG 的定位：介於 Graphify（純 AST 圖譜 skill）和 Codebase Memory MCP（大規模 code intelligence）之間。Graphify 是 AI assistant 的 skill，不持久化圖譜；Code-Graph-RAG 用 Memgraph 持久化，可以跨 session 查詢。Codebase Memory MCP 支援更多語言但沒有內建程式碼修改功能。
+
+## 相關概念
 
 ← [[Knowledge-Graph]] · [[rag|RAG]] · [[MCP]] · [[code-intelligence|Code Intelligence]]
 

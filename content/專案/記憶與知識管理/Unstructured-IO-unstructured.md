@@ -78,7 +78,7 @@ print("\n\n".join([str(el) for el in elements]))
 
 ## 相關概念
 
-← [[opendataloader-project-opendataloader-pdf]] · [[document-parsing]] · [[rag]] · [[langgenius-dify]] · [[ocr-memory]]
+← [[opendataloader-project-opendataloader-pdf]] · [[document-parsing]] · [[rag]] · [[langgenius-dify]] · OCR Memory
 
 ## 來源
 

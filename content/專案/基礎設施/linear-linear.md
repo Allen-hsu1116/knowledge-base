@@ -14,7 +14,7 @@ topics: [linear, api, sdk, graphql, project-management, issue-tracking, monorepo
 
 ## 快速導航
 - 🛠 [[Coding-Agent-CLI]] — Linear SDK 可被 coding agent 用來管理 issues
-- 📋 [[linear]] — Linear 技能（Hermes 內建 Linear 整合）
+- 📋 Linear — Linear 技能（Hermes 內建 Linear 整合）
 
 ## 是什麼
 
@@ -69,7 +69,7 @@ pnpm changeset
 | Asana | 專案管理 | REST | 多語言 |
 
 ## 相關概念
-← [[Coding-Agent-CLI]] · [[linear]]
+← [[Coding-Agent-CLI]] · Linear
 
 ## 來源
 - raw/2026-08-09-linear-linear.md

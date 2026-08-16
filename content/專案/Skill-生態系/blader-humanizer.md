@@ -95,7 +95,7 @@ Now humanize this text:
 
 ## 相關概念
 
-← [[agentskills-agentskills]] · [[AI-Skills]] · [[dair-ai-Prompt-Engineering-Guide]] · [[Prompt-Engineering]] · [[agent-skills-ecosystem]]
+← [[agentskills-agentskills]] · [[AI-Skills]] · [[dair-ai-Prompt-Engineering-Guide]] · [[Prompt-Engineering]] · [[AI-Skills]]
 
 ## 來源
 

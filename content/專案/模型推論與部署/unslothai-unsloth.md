@@ -16,7 +16,7 @@ topics: [fine-tuning, llm, self-hosted, reinforcement-learning, qwen, deepseek, 
 
 - 🧠 **LLM 本地部署** → [[Ollama]] · [[llama-cpp]]
 - 🎯 **模型推論與部署** → [[模型推論與部署]]
-- 🤖 **Agent 整合** → [[Claude-Code]] · [[MCP]]
+- 🤖 **Agent 整合** → [[anthropics-claude-code]] · [[MCP]]
 - 🏠 **自架平台** → [[self-hosted]] · [[open-webui-open-webui]]
 
 ## 是什麼
@@ -87,7 +87,7 @@ Unsloth 的定位是「本地 AI 的瑞士刀」——從訓練到推論到 agen
 
 ## 相關概念
 
-← [[Ollama]] · [[llama-cpp]] · [[模型推論與部署]] · [[self-hosted]] · [[Claude-Code]] · [[MCP]] · [[vLLM]]
+← [[Ollama]] · [[llama-cpp]] · [[模型推論與部署]] · [[self-hosted]] · [[anthropics-claude-code]] · [[MCP]] · [[vLLM]]
 
 ## 來源
 
