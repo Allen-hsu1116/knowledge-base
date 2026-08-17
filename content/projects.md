@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-16
+updated: 2026-08-17
 ---
 
 # 專案索引
@@ -413,6 +413,7 @@ updated: 2026-08-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ToolJet-ToolJet\|ToolJet]] | ⭐40k | 開源低代碼平台, AI 應用生成, 60+ 元件, 80+ 資料來源, 內建資料庫, AI Agent 建構器, 自架 Docker/K8s, AES-256-GCM, GitSync, 多人協作 | 2026-08-17 |
 | [[mlflow-mlflow\|MLflow]] | ⭐27.5k | 開源 AI 工程平台, LLM Tracing (OpenTelemetry), 60+ 框架自動追蹤, 50+ 評估指標, Prompt 管理與優化, AI Gateway, 模型註冊表, 6000 萬月下載, MCP 整合 | 2026-08-16 |
 | [[linear-linear\|Linear API]] | ⭐1.5k | 專案管理, GraphQL SDK, TypeScript, Codegen 插件, 匯入工具, Monorepo | 2026-08-09 |
 | [[PostHog-posthog\|PostHog]] | ⭐35.8k | 開源產品分析+AI 觀測, self-driving mode, session replay, feature flags, A/B 實驗, MCP 整合, AI observability | 2026-07-17 |

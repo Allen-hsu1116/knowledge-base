@@ -2,10 +2,109 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-08
+updated: 2026-08-16
 stars: —
 language: zh-TW
 ---
+## 2026-08-16（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **langroid-langroid/Langroid** — 多 Agent Python 框架，Actor 模型啟發，CMU+UW-Madison 出品，不依賴 LangChain，MCP 工具轉接器，本地 LLM，DocChatAgent (RAG)，Task 子任務委派，Claude Code 插件（⭐ 4.1k）→ 分類：Agent 框架與工具
+- **Unstructured-IO/unstructured** — 開源文件 ETL，60+ 格式（PDF/HTML/Word/圖片/掃描）轉 LLM 結構化資料，OCR（tesseract），分塊/嵌入，Docker，Claude Code/Cursor/Codex CLI（⭐ 15.3k）→ 分類：記憶與知識管理
+- **blader-humanizer/Humanizer** — AI 寫作去痕跡 Skill，33 模式偵測（Wikipedia Signs of AI writing），雙重審計，語音校準，跨 harness 便攜（Claude Code/Codex/Cursor），skills.sh 安裝（⭐ 35.8k）→ 分類：Skill 生態系
+- **cursor-plugins/Cursor Plugins** — Cursor 官方插件規範，11 開發工具插件（Continual Learning/Thermos/Orchestrate 等），11+ 第三方 MCP 整合（Gmail/Salesforce/HubSpot），marketplace.json 結構（⭐ 3.0k）→ 分類：Skill 生態系
+- **mlflow-mlflow/MLflow** — 開源 AI 工程平台，LLM Tracing（OpenTelemetry），60+ 框架自動追蹤，50+ 評估指標，Prompt 管理與優化，AI Gateway，模型註冊表，6000 萬月下載，MCP 整合（⭐ 27.5k）→ 分類：模型推論與部署
+
+### 動作
+- 寫入 5 個 wiki 頁面（10 區塊齊全）
+- 更新 projects.md（Agent 框架與工具、記憶與知識管理、Skill 生態系、模型推論與部署）
+- 更新 log.md
+
+## 2026-08-15（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **citrolabs-ego-lite/ego lite** — AI Agent 專用瀏覽器，你和 agent 在同一個瀏覽器並行工作，Agent 在獨立 Space 跑任務，code-base 驅動，ego-browser Skill，Chrome 資料繼承，kernel 級快照，2.5x 更快，支援 Claude Code/Codex/Cursor，經驗積累（⭐ 10.4k）→ 分類：Agent 框架與工具
+
+### 動作
+- 寫入 wiki/citrolabs-ego-lite.md
+- 更新 projects.md（Agent 框架與工具）
+- 更新 log.md
+
+## 2026-08-14（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **kepano-obsidian-skills/Obsidian Skills** — Obsidian 官方 Agent Skills（kepano 出品），5 Skill（Markdown/Bases/JSON Canvas/CLI/Defuddle），Agent Skills 規範相容，跨 Claude Code/Codex/OpenCode/Hermes（⭐ 45.8k）→ 分類：Skill 生態系
+- **unslothai-unsloth/Unsloth** — 本地桌面 App，跑+訓練 LLM/Diffusion/TTS/Embedding，2x 更快 70% 更少 VRAM，Unsloth Start 接 Claude Code/Codex/Hermes，OpenAI 相容 API，MCP，GRPO/DPO/FP8，GGUF 匯出（⭐ 71.1k）→ 分類：模型推論與部署
+
+### 動作
+- 寫入 2 個 wiki 頁面
+- 更新 projects.md（Skill 生態系、模型推論與部署）
+- 更新 log.md
+
+## 2026-08-13（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **cathrynlavery-diagram-design/Diagram Design** — 27 種編輯級圖表 Agent Skill，自包含 HTML+SVG，不需要 Figma/Mermaid，品牌自動適配，WCAG AA，draw.io/Mermaid 匯入，四調節旋鈕，Claude Code/Codex/Pi（⭐ 10.4k）→ 分類：Skill 生態系
+- **cactus-compute-needle/Needle 2** — 14MB 基礎模型，45M 參數，on-device tool calling，28MB RAM，CQ2-bit 量化，Simple Attention Network，byte-level grammar，信心 gating，tool retrieval，LoRA 微調，為手機/穿戴/智慧家庭/機器人設計（⭐ 4.2k）→ 分類：模型推論與部署
+
+### 動作
+- 寫入 2 個 wiki 頁面
+- 更新 projects.md（Skill 生態系、模型推論與部署）
+- 更新 log.md
+
+## 2026-08-12（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **semantica-agi-semantica/Semantica** — Graph-Native AI 基礎設施（開源版 Palantir），Context Graph，Decision Intelligence，W3C PROV-O 溯源，確定性推理（Rete/Datalog/SPARQL），SHACL 治理，OWL/SKOS 本體，Polyglot 圖儲存（RDF+LPG），Databricks/Snowflake 連接器，MCP（⭐ 4.9k）→ 分類：Agent 編排與記憶
+
+### 動作
+- 寫入 wiki/semantica-agi-semantica.md
+- 更新 projects.md（Agent 編排與記憶）
+- 更新 log.md
+
+## 2026-08-11（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **paperclipai-paperclip/Paperclip** — AI Agent 編排平台，把多個 AI Agent 組織成一家公司，組織架構、預算控制、治理審批，Heartbeat 排程，BYO Agent，多公司隔離，持久狀態（⭐ 76.5k）→ 分類：Agent 編排與記憶
+- **danielmiessler-LifeOS/LifeOS** — 通用 AI 駕馭框架（Daniel Miessler 出品），Current→Ideal State hill-climbing 系統，Intent Engineering，Euphoric Surprise，TELOS，Harness-Agnostic，持久記憶，自改進（⭐ 17.9k）→ 分類：Agent 編排與記憶
+
+### 動作
+- 寫入 2 個 wiki 頁面
+- 更新 projects.md（Agent 編排與記憶）
+- 更新 log.md
+
+## 2026-08-10（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **vitali87-code-graph-rag/Code-Graph-RAG** — 程式碼 RAG，Tree-sitter 多語言 AST，Memgraph 知識圖譜，自然語言→Cypher，AST 手術式修改，Dead Code 偵測，ast-grep 結構化搜尋，MCP Server，Qdrant 語意搜尋，即時更新（⭐ 3.0k）→ 分類：程式碼智慧
+
+### 動作
+- 寫入 wiki/vitali87-code-graph-rag.md
+- 更新 projects.md（程式碼智慧）
+- 更新 log.md
+
+## 2026-08-09（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **Graphify-Labs-graphify/Graphify** — Knowledge Graph Skill，tree-sitter AST 本地解析，EXTRACTED/INFERRED 邊標籤，無向量庫，~40 語言，Leiden 社群偵測，YC S26，多模態（程式碼/PDF/圖片/影片）（⭐ 104.4k）→ 分類：程式碼智慧
+- **headroomlabs-ai-headroom/Headroom** — Token Optimization 上下文壓縮層，60-95% JSON 壓縮，可逆 CCR，輸出 token 削減，跨 Agent 記憶，headroom learn，18+ Agent 相容，MCP，Proxy（⭐ 65.5k）→ 分類：效能與壓縮
+- **langchain-ai-openwiki/OpenWiki** — 自我維護 wiki CLI（LangChain 出品），Deep Agents，Code+Personal 模式，12 模型供應商，OKF v0.1，Mermaid 圖表，互動式節點圖，LangSmith 整合（⭐ 14.8k）→ 分類：記憶與知識管理
+- **bojieli-ai-agent-book/深入理解 AI Agent** — 開源 AI Agent 教科書，10 章 95 實驗，Agent=LLM+上下文+工具，MCP 專章，評估方法論，SFT/RL 決策框架，13 語言翻譯（⭐ 34.8k）→ 分類：學習資源
+- **linear-linear/Linear API** — 專案管理 GraphQL SDK，TypeScript，Codegen 插件，匯入工具，Monorepo（⭐ 1.5k）→ 分類：基礎設施
+
+### 動作
+- 寫入 5 個 wiki 頁面
+- 更新 projects.md（程式碼智慧、效能與壓縮、記憶與知識管理、學習資源、基礎設施）
+- 更新 log.md
+
+### 更新既有頁面（Stars 刷新）
+- VoltAgent-awesome-design-md（updated 2026-08-09，收錄 2026-07-10）
+- DeusData-codebase-memory-mcp（updated 2026-08-09，收錄 2026-06-20）
+- HKUDS-Vibe-Trading（updated 2026-08-09，收錄 2026-05-06）
+- Shubhamsaboo-awesome-llm-apps（updated 2026-08-09，收錄 2025-06-07）
+
+---
+
 ## 2026-08-08（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁
