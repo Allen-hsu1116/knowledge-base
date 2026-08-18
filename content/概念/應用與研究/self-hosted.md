@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-08-18
 language: zh-TW
 ---
 
@@ -43,6 +43,8 @@ language: zh-TW
   👉 詳見 [[blakeblackshear-frigate|Frigate NVR]]
 - **FreeDomain** → 免費域名資源，降低自架服務的基礎設施門檻
   👉 詳見 [[DigitalPlatDev-FreeDomain|FreeDomain]]
+- **oMLX** → 在 Apple Silicon Mac 自架 OpenAI/Anthropic-compatible LLM endpoint，並以本機選單列與 Web 管理台營運
+  👉 詳見 [[jundot-omlx|oMLX]]
 
 ## 相關概念
 

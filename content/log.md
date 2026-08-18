@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-16
+updated: 2026-08-18
 stars: —
 language: zh-TW
 ---
+## 2026-08-18（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **jundot/omlx** — Apple Silicon LLM 推論伺服器，continuous batching、RAM＋SSD 分層 KV Cache、跨重啟 prefix reuse、OpenAI＋Anthropic API、多模型服務與 macOS 原生管理（⭐ 19k）→ 分類：模型推論與部署
+- **akitaonrails/ai-memory** — Coding Agent 長期記憶服務，以 lifecycle hooks、Markdown＋Git wiki、MCP 和 managed workstreams 實現跨 session、跨 harness handoff（⭐ 2.1k）→ 分類：記憶與知識管理
+
+### 動作
+- fetch README + metadata，寫入 2 個 raw 頁面
+- 寫入 2 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：模型推論與部署、自架、LLM 知識庫、Coding Agent CLI、AI Agent
+- 更新 projects.md 與 known-repos.json
+
+### 篩選說明
+- 5 個候選中 3 個與 LLM 主題無直接關係（Motrix 下載管理器、NautilusTrader 交易引擎、Cordis TypeScript 組合框架），2 個新增。
+
 ## 2026-08-16（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

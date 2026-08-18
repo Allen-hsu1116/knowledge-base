@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2025-06-07
+updated: 2026-08-18
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
   👉 詳見 [[earendil-works-pi]]
 - **OpenClaude** → 開源多模型 CLI，支援 200+ 模型 + MCP + Skills + Agent Routing
   👉 詳見 [[Gitlawb-openclaude]]
+- **ai-memory** → 以 hooks、MCP 與 managed workstreams 讓 Claude Code、Codex、OpenCode 等 CLI 共用長期記憶和 handoff
+  👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
 
 ## 相關概念
 
@@ -57,6 +59,7 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[cloudflare-computer]] — Agent 虛擬電腦，為 Coding Agent 提供隔離執行環境
 - [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，管理 Coding Agent 的長時間運行狀態
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
+- [[akitaonrails-ai-memory|ai-memory]] — 跨 Coding Agent CLI 的 session 記憶、原生恢復與進度交接層
 
 ## 來源
 

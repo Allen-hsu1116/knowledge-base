@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-18
 language: zh-TW
 ---
 
@@ -42,6 +42,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
   👉 詳見 [[hermes-agent]]
 - **GenericAgent** → 自演化 Agent，技能自動結晶，越用越強
   👉 詳見 [[lsdefine-GenericAgent]]
+- **ai-memory** → 為多種 Coding Agent harness 提供 lifecycle capture、持久 wiki 與跨 session handoff
+  👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
 
 ## 相關概念
 
@@ -56,6 +58,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[cloudflare-computer]] — 給 Agent 一台虛擬電腦，Durable Object 虛擬 FS + 可插拔執行層
 - [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，長時間運行的狀態管理
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
+- [[akitaonrails-ai-memory|ai-memory]] — 將 Agent 的短期 session 觀察固化成可查詢的長期專案記憶
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

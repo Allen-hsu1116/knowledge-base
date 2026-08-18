@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-08-18
 language: zh-TW
 ---
 
@@ -45,6 +45,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
   👉 詳見 [[openviking]]
 - **CocoIndex** → 增量索引引擎，宣告目標狀態只跑 delta
   👉 詳見 [[cocoindex]]
+- **ai-memory** → 從 Coding Agent lifecycle observations 編譯 Git-versioned Markdown wiki，並把 session 摘要交接給下一個 harness
+  👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
 
 ## 相關概念
 

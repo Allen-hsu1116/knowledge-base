@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 專案索引
@@ -135,6 +135,7 @@ updated: 2026-08-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[akitaonrails-ai-memory\|ai-memory]] | ⭐2.1k | Coding Agent 長期記憶, lifecycle hooks, 跨 Claude Code/Codex/OpenCode handoff, managed workstreams, Markdown+Git wiki, FTS5+entity+graph+vector 混合召回, MCP, 專案隔離, capture exclusions, 自架 Rust 服務 | 2026-08-18 |
 | [[Unstructured-IO-unstructured\|Unstructured]] | ⭐15.3k | 開源文件 ETL, 60+ 格式 (PDF/HTML/Word/圖片/掃描), Transform MCP Server, OCR (tesseract), 分塊/嵌入, Docker, Claude Code/Cursor/Codex CLI | 2026-08-16 |
 | [[vitali87-code-graph-rag\|Code-Graph-RAG]] | ⭐3k | 程式碼 RAG, Tree-sitter 多語言 AST, Memgraph 知識圖譜, 自然語言→Cypher, AST 手術式修改, Dead Code 偵測, ast-grep 結構化搜尋, MCP Server, Qdrant 語意搜尋, 即時更新 | 2026-08-10 |
 | [[firecrawl-pdf-inspector\|pdf-inspector]] | ⭐11.5k | 高速 Rust PDF 解析, 智慧分類 TextBased/Scanned/Mixed, OCR 路由, 位置感知擷取, Markdown 轉換, 雙模式表格偵測, 瀏覽器 WASM, 200ms 本地處理 | 2026-08-06 |
@@ -177,6 +178,7 @@ updated: 2026-08-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jundot-omlx\|oMLX]] | ⭐19k | Apple Silicon LLM 推論伺服器, MLX, continuous batching, RAM+SSD 分層 KV Cache, 跨重啟 prefix reuse, OpenAI+Anthropic API, 多模型 LLM/VLM/OCR/Embedding/Reranker, macOS 選單列, Coding Agent 整合 | 2026-08-18 |
 | [[unslothai-unsloth\|Unsloth]] | ⭐71.1k | 本地桌面 App, 跑+訓練 LLM/Diffusion/TTS/Embedding, 2x 更快 70% 更少 VRAM, Unsloth Start 接 Claude Code/Codex/Hermes, OpenAI 相容 API, MCP, GRPO/DPO/FP8, GGUF 匯出, Cloudflare HTTPS | 2026-08-14 |
 | [[cactus-compute-needle\|Needle 2]] | ⭐4.2k | 14MB 基礎模型, 45M 參數, on-device tool calling, 28MB RAM, CQ2-bit 量化, Simple Attention Network, byte-level grammar, 信心 gating, tool retrieval, LoRA 微調, 結構化擷取 | 2026-08-13 |
 | [[dottxt-ai-outlines\|Outlines]] | ⭐14.8k | 結構化生成, logits mask + CFG, Pydantic/JSON/Regex/Function Calling, 跨 OpenAI/vLLM/Ollama/transformers/llama.cpp, Jinja 模板, .txt 公司 | 2026-07-22 |
