@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-19
 language: zh-TW
 ---
 
@@ -40,6 +40,8 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
   👉 詳見 [[huggingface-transformers|Hugging Face Transformers]]
 - **LiteLLM** → LLM Gateway，100+ Provider 統一 API
   👉 詳見 [[litellm]]
+- **GenLayer Project Boilerplate** → 將 LLM 的非確定性網頁判讀放進可由 equivalence principle 驗證的 intelligent contract
+  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 
 ## 相關概念
 
@@ -51,6 +53,7 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - [[rag]] — 讓 LLM 存取外部知識
 - [[self-correction]] — 提升 LLM 的可靠性
 - [[kvcache-ai-ktransformers]] — CPU-GPU 異構運算，消費級硬體跑超大 MoE 模型
+- [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 以共識驗證 LLM 從外部資料擷取出的結果
 
 ## 來源
 - 知識庫內 LLM 相關原始資料與專案頁面

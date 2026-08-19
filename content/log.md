@@ -2,10 +2,24 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-18
+updated: 2026-08-19
 stars: —
 language: zh-TW
 ---
+## 2026-08-19（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **genlayerlabs/genlayer-project-boilerplate** — GenLayer Intelligent Contract 起始專案，整合網頁存取、LLM 判讀、equivalence principle 共識驗證、Direct Mode mocks、靜態檢查、整合測試與 Next.js 前端（⭐ 15.9k）→ 分類：Agent 框架與工具
+
+### 動作
+- fetch README + metadata，寫入 1 個 raw 頁面
+- 寫入 1 個 wiki 專案頁（10 段、107 行）
+- 更新 backlinks：LLM、AI Agent、工作流自動化、沙箱
+- 更新 projects.md 與 known-repos.json
+
+### 篩選說明
+- 5 個候選中 4 個與 LLM 主題無直接關係（Public APIs 清單、Motrix 下載管理器、Omarchy Linux 發行版、AERIS-10 雷達硬體），1 個新增。
+
 ## 2026-08-18（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

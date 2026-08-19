@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-08-18
+updated: 2026-08-19
 language: zh-TW
 ---
 
@@ -44,6 +44,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
   👉 詳見 [[lsdefine-GenericAgent]]
 - **ai-memory** → 為多種 Coding Agent harness 提供 lifecycle capture、持久 wiki 與跨 session handoff
   👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
+- **GenLayer Project Boilerplate** → 以 lint、Direct Mode 與整合測試，讓 Coding Agent 能快速迭代具 LLM 能力的 intelligent contract
+  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 
 ## 相關概念
 
@@ -59,6 +61,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，長時間運行的狀態管理
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
 - [[akitaonrails-ai-memory|ai-memory]] — 將 Agent 的短期 session 觀察固化成可查詢的長期專案記憶
+- [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 為 Agent 開發提供可 mock LLM/Web 的快速合約驗證迴圈
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

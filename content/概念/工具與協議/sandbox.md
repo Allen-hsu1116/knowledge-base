@@ -2,7 +2,7 @@
 title: 沙箱
 slug: sandbox
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-19
 language: zh-TW
 ---
 
@@ -39,6 +39,8 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
   👉 詳見 [[bytedance-deer-flow|DeerFlow 2.0]]
 - **OpenSandbox（字節跳動）** → AI Agent + MCP + Context Database + 沙箱
   👉 詳見 [[volcengine-OpenSandbox|OpenSandbox]]
+- **GenLayer Direct Mode** → 在記憶體中部署合約並 mock Web/LLM 呼叫，隔離快速測試與真實共識環境
+  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 
 ## 相關概念
 
@@ -48,6 +50,7 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 - [[harness-engineering]] — 沙箱是 Harness 安全防護的一部分
 - [[self-hosted]] — 自架平台需要沙箱來安全運行 Agent 程式碼
 - [[prompt-security]] — 沙箱是 Prompt 安全的實體防線
+- [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 用 Direct Mode 隔離外部網路與 LLM 依賴的測試
 
 ## 來源
 - 知識庫內沙箱相關原始資料與專案頁面

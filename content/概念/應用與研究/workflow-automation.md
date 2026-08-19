@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-08-19
 language: zh-TW
 ---
 
@@ -39,6 +39,8 @@ language: zh-TW
   👉 詳見 [[rmyndharis-OpenWA|OpenWA]]
 - **iii** → 後端平台，Agent 友善的工作流自動化整合
   👉 詳見 [[iii-hq-iii|iii]]
+- **GenLayer Project Boilerplate** → 把 intelligent contract 的 lint、直接測試、共識整合測試與部署串成分層驗證流程
+  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 
 ## 相關概念
 
@@ -47,6 +49,7 @@ language: zh-TW
 - [[self-hosted|自架 AI 平台]] — 提供工作流運行環境
 - [[sandbox|沙箱]] — 工作流中的程式碼執行需要在沙箱中進行
 - [[rag|RAG]] — 為工作流提供知識檢索能力
+- [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 展示 LLM 合約從快速回饋到真實共識的自動化開發流程
 
 ## 來源
 
