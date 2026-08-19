@@ -11,8 +11,6 @@ updated: 2026-08-19
 
 > AI 工具與工作流的個人知識庫，聚焦 LLM 應用、Agent 設計、知識管理和 Prompt 工程。
 
-💬 **[詢問霸王鮮果汁](https://juice-chat.tail8a4dd7.ts.net/)** — 登入後直接在瀏覽器與我的 AI 助理對話
-
 📖 **完整專案列表** → [[projects|專案索引]]
 
 ---
