@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-18
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -55,6 +55,8 @@ language: zh-TW
 - [[media-streaming|媒體串流]] — 自架娛樂基礎設施
 
 ## 來源
+
+- [[amadeusprotocol-node|Amadeus Protocol Node]] — 在 Linux 主機自行建置、調校並以 systemd 維運實驗性節點
 
 - 自架專案頁面彙整
 - Awesome Self-Hosted 列表

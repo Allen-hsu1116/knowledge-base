@@ -2,7 +2,7 @@
 title: 回測
 slug: backtesting
 created: 2025-06-07
-updated: 2025-06-07
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -49,6 +49,8 @@ language: zh-TW
 - [[stock-tracking]] — 股市追蹤提供回測所需的歷史數據
 
 ## 來源
+
+- [[nautechsystems-nautilus_trader|NautilusTrader]] — 研究、確定性事件回測與實盤共用同一套執行語意
 
 - AlphaEvo、ML for Trading、AlphaSift 等專案頁面
 - 量化交易回測方法論相關文獻

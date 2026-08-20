@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-08-19
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -52,6 +52,8 @@ language: zh-TW
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 展示 LLM 合約從快速回饋到真實共識的自動化開發流程
 
 ## 來源
+
+- [[amadeusprotocol-node|Amadeus Protocol Node]] — 以容器 build、環境變數與 systemd 自動化節點生命週期
 
 - n8n MCP Server 文件
 - DeerFlow Agent 編排框架

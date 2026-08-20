@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -48,6 +48,8 @@ language: zh-TW
 - [[AI-Agent|AI Agent]] — Agent 驅動生成式模型進行自動化
 
 ## 來源
+
+- [[marceloprates-prettymaps|prettymaps]] — 以公開地理資料、圖層規則與程式化樣式產生風格化地圖
 
 - 知識庫內生成式 AI 相關專案頁面
 - Sana、Open Generative AI、ViMax 等專案文件

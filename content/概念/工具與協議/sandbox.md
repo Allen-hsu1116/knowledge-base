@@ -2,7 +2,7 @@
 title: 沙箱
 slug: sandbox
 created: 2026-05-18
-updated: 2026-08-19
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -53,4 +53,6 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 用 Direct Mode 隔離外部網路與 LLM 依賴的測試
 
 ## 來源
+
+- [[amadeusprotocol-node|Amadeus Protocol Node]] — 以本地 testnet 隔離驗證 RPC、轉帳與 WebAssembly 合約
 - 知識庫內沙箱相關原始資料與專案頁面

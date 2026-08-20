@@ -2,7 +2,7 @@
 title: 資料分析
 slug: data-analysis
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -52,6 +52,8 @@ AI Agent 正在改變資料分析的工作方式。傳統流程需要分析師�
 - [[AI-Agent]] — AI Agent 自主執行資料分析的端到端流程
 
 ## 來源
+
+- [[marceloprates-prettymaps|prettymaps]] — 將 OpenStreetMap 地理圖層轉為可客製化的靜態視覺成果
 
 - ML for Trading、Daily Stock Analysis、Fincept Terminal 等專案頁面
 - 資料分析方法論與 AI 驅動分析相關文獻

@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-18
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -62,6 +62,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[akitaonrails-ai-memory|ai-memory]] — 跨 Coding Agent CLI 的 session 記憶、原生恢復與進度交接層
 
 ## 來源
+
+- [[chaitanyagiri-munder-difflin|Munder Difflin]] — 統一包裝 Claude Code、Codex、OpenCode、Kimi、Qwen 等終端 Agent 並提供多 Agent 協作層
 
 - Claude Code、OpenCode、OpenHands 等專案頁面
 - Agent Routing 和 Provider Profile 相關技術文件

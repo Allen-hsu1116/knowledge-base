@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -62,6 +62,7 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - [[context-engineering-basics]] — Context Engineering 是 Harness 按需載入的基礎
 - [[Token-Optimization]] — Harness 設計需考慮 token 消耗
 - [[openinterpreter-openinterpreter|Open Interpreter]] — 多 Harness 模擬，低成本模型優化
+- [[chaitanyagiri-munder-difflin|Munder Difflin]] — 在既有 CLI Agent 外疊加 PTY、路由、記憶、安全閘門與可觀測性
 
 ## 來源
 

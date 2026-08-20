@@ -2,10 +2,24 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-19
+updated: 2026-08-20
 stars: —
 language: zh-TW
 ---
+## 2026-08-20（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **chaitanyagiri/munder-difflin** — 本地多 Agent harness，包裝 10 種終端 Coding Agent，以 supervisor、Hive mailbox、長期記憶、人類閘門與觀測系統協作（⭐ 2.7k）→ 分類：Agent 框架與工具
+- **nautechsystems/nautilus_trader** — Rust 原生多資產交易引擎，研究、確定性事件回測與實盤共用執行語意（⭐ 26.4k）→ 分類：應用
+- **marceloprates/prettymaps** — 使用 OpenStreetMap、OSMnx、Matplotlib 與 Shapely 製作風格化地圖（⭐ 13.1k）→ 分類：應用
+- **amadeusprotocol/node** — 可自行建置、啟動本地 testnet、部署 WebAssembly 合約並以 systemd 維運的實驗性節點（⭐ 4.6k）→ 分類：基礎設施
+
+### 動作
+- fetch 4 個 README + metadata，寫入 4 個 raw 頁面
+- 寫入 4 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：AI Agent、Harness Engineering、Coding Agent CLI、LLM 知識庫、回測、Agent 交易、金融預測、生成式 AI、資料分析、網頁爬蟲、自架、沙箱、工作流自動化
+- 更新 projects.md 與 known-repos.json
+
 ## 2026-08-19（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

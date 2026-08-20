@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-08-19
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -62,6 +62,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
 - [[akitaonrails-ai-memory|ai-memory]] — 將 Agent 的短期 session 觀察固化成可查詢的長期專案記憶
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 為 Agent 開發提供可 mock LLM/Web 的快速合約驗證迴圈
+- [[chaitanyagiri-munder-difflin|Munder Difflin]] — 把多種終端 Coding Agent 組成本地協作團隊，加入 supervisor、mailbox、記憶與人類審批
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

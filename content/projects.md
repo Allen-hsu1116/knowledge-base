@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-08-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[chaitanyagiri-munder-difflin\|Munder Difflin]] | ⭐2.7k | 本地多 Agent harness, 10 種終端 Coding Agent, GOD supervisor, Hive mailbox+blackboard, Markdown 語意記憶, human gates, circuit breaker, per-agent worktree, OTel 成本觀測, Electron 2D 辦公室 | 2026-08-20 |
 | [[genlayerlabs-genlayer-project-boilerplate\|GenLayer Project Boilerplate]] | ⭐15.9k | Intelligent Contract 起始專案, LLM 網頁判讀, equivalence principle 共識驗證, Direct Mode Web/LLM mocks, genvm-lint, GenLayer Studio 整合測試, Next.js 15 前端, Coding Agent 快速回饋迴圈 | 2026-08-19 |
 | [[langroid-langroid\|Langroid]] | ⭐4.1k | 多 Agent Python 框架, Actor 模型啟發, CMU+UW-Madison, 不依賴 Langchain, MCP 工具轉接器, 本地 LLM, DocChatAgent (RAG), Task 子任務委派, Claude Code 插件 | 2026-08-16 |
 | [[citrolabs-ego-lite\|ego lite]] | ⭐10.4k | AI Agent 瀏覽器, 平行 Space, code-base 驅動, ego-browser Skill, Chrome 資料繼承, kernel 級快照, 2.5x 更快, Claude Code/Codex/Cursor, 經驗積累 | 2026-08-15 |
@@ -312,6 +313,8 @@ updated: 2026-08-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nautechsystems-nautilus_trader\|NautilusTrader]] | ⭐26.4k | Rust 原生交易引擎, 研究到實盤一致性, 確定性事件驅動回測, 多資產多場所, Python 控制平面, 進階訂單, AI trading agent 訓練 | 2026-08-20 |
+| [[marceloprates-prettymaps\|prettymaps]] | ⭐13.1k | OpenStreetMap 地圖視覺化, OSMnx, Matplotlib, Shapely, 生成藝術, 圖層樣式, JSON preset, Streamlit+marimo | 2026-08-20 |
 | [[HKUDS-Vibe-Trading]] | ⭐30.4k | AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Account, Alpha Zoo, 12 券商連接器, 23 資料來源 | 2026-08-09 |
 | [[paperswithbacktest-awesome-systematic-trading\|Awesome Systematic Trading]] | ⭐9.6k | 量化交易策展清單, 97 庫, 40+ 策略+論文+程式碼, 55 本書, 跨資產類別, Sharpe 排序 | 2026-07-29 |
 | [[elder-plinius-G0DM0D3\|G0DM0D3]] | ⭐9.5k | 多模型越獄對話介面, 60+ OpenRouter 模型競賽, Parseltongue 33 擾動, AutoTune, Ollama, 紅隊測試 | 2026-07-19 |
@@ -416,6 +419,7 @@ updated: 2026-08-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[amadeusprotocol-node\|Amadeus Protocol Node]] | ⭐4.6k | 實驗性區塊鏈節點, 本地 testnet, RPC API, WebAssembly 合約, Podman/Docker build, systemd 維運, Linux UDP 調校, validator 模式 | 2026-08-20 |
 | [[ToolJet-ToolJet\|ToolJet]] | ⭐40k | 開源低代碼平台, AI 應用生成, 60+ 元件, 80+ 資料來源, 內建資料庫, AI Agent 建構器, 自架 Docker/K8s, AES-256-GCM, GitSync, 多人協作 | 2026-08-17 |
 | [[mlflow-mlflow\|MLflow]] | ⭐27.5k | 開源 AI 工程平台, LLM Tracing (OpenTelemetry), 60+ 框架自動追蹤, 50+ 評估指標, Prompt 管理與優化, AI Gateway, 模型註冊表, 6000 萬月下載, MCP 整合 | 2026-08-16 |
 | [[linear-linear\|Linear API]] | ⭐1.5k | 專案管理, GraphQL SDK, TypeScript, Codegen 插件, 匯入工具, Monorepo | 2026-08-09 |

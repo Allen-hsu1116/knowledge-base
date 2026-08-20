@@ -2,7 +2,7 @@
 title: Agent 交易
 slug: agent-trading
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -49,6 +49,8 @@ Agent 交易的優勢在於能整合多種資訊來源並做出即時決策。�
 - [[MCP]] — MCP 讓交易 Agent 連接券商 API 和數據源
 
 ## 來源
+
+- [[nautechsystems-nautilus_trader|NautilusTrader]] — 可作為 AI 交易 Agent 的多市場模擬、訓練與實盤執行底座
 
 - TradingAgents、AI-Trader、Vibe Trading 等專案頁面
 - Anthropic Financial Services 相關資源

@@ -2,7 +2,7 @@
 title: 金融預測
 slug: financial-forecasting
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -51,6 +51,8 @@ language: zh-TW
 - [[AI-Agent]] — AI Agent 是金融預測的自主執行者
 
 ## 來源
+
+- [[nautechsystems-nautilus_trader|NautilusTrader]] — 將預測訊號接入確定性回測與交易執行環境
 
 - Kronos、TimesFM、Fincept Terminal 等專案頁面
 -《Advances in Financial Machine Learning》— Marcos López de Prado

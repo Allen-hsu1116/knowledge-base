@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-08-18
+updated: 2026-08-20
 language: zh-TW
 ---
 
@@ -59,6 +59,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - [[llm-knowledge-base]] — 視覺壓縮記憶（用圖片壓縮軌跡，ACL 2026）
 
 ## 來源
+
+- [[chaitanyagiri-munder-difflin|Munder Difflin]] — 以 Markdown-first 記憶、語意索引與 condensation 支援多 Agent 跨 session recall
 
 - raw/2026-04-28-karpathy-gist-llm-wiki.md（Karpathy LLM 知識庫原始 Gist）
 - raw/2026-04-28-llm-knowledge-base-obsidian-claude-code.md（數位時代中文報導）
