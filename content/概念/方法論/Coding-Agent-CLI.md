@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-20
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- **OpenAI Codex CLI** → OpenAI 官方 Rust Coding Agent，支援 AGENTS.md、Skills、MCP、沙箱、IDE 與非互動自動化
+  👉 詳見 [[openai-codex]]
 - **Claude Code** → Anthropic 官方 CLI，Git 工作流深度整合，Skills 支援
   👉 詳見 [[anthropics-claude-code]]
 - **OpenCode** → 開源 Coding Agent CLI，子 Agent + 工作樹平行執行

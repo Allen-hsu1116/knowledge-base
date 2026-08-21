@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-21
+updated: 2026-08-22
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-08-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[openai-codex\|OpenAI Codex CLI]] | ⭐111.0k | OpenAI 官方 Coding Agent, Rust 核心, 終端機+IDE+桌面+Web, AGENTS.md, Skills, MCP, 沙箱與審批, 非互動自動化, ChatGPT 登入 | 2026-08-22 |
 | [[agent-substrate-substrate\|Agent Substrate]] | ⭐1.4k | 高密度 Agent 執行基礎設施, Actor/Worker multiplexing, 亞秒級 suspend/resume, RAM+FS 快照, Kubernetes, gVisor+microVM, request parking, 30x+ oversubscription | 2026-08-21 |
 | [[Tencent-AI-Infra-Guard\|AI-Infra-Guard]] | ⭐5.0k | 全棧 AI 紅隊平台, Agent/Skill/MCP 掃描, 2000+ CVE 規則, 越獄評估, SkillTrustBench, Docker+API+CLI, 騰訊朱雀實驗室 | 2026-08-21 |
 | [[chaitanyagiri-munder-difflin\|Munder Difflin]] | ⭐2.7k | 本地多 Agent harness, 10 種終端 Coding Agent, GOD supervisor, Hive mailbox+blackboard, Markdown 語意記憶, human gates, circuit breaker, per-agent worktree, OTel 成本觀測, Electron 2D 辦公室 | 2026-08-20 |

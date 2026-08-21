@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- **OpenAI Codex CLI** → 原生支援 Skills，將可重用操作流程載入本機 Coding Agent
+  👉 詳見 [[openai-codex]]
 - **Anthropic Skills** → 官方結構化 Skill 集，前端設計、Web 測試等
   👉 詳見 [[anthropics-skills|Anthropic Skills]]
 - **Awesome Claude Skills** → 1000+ 可安裝 Skills，跨 Claude Code / Codex / Cursor

@@ -2,7 +2,7 @@
 title: Prompt 安全與越獄
 slug: prompt-security
 created: 2026-06-22
-updated: 2026-08-21
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 
 ## 各框架的做法
 
+- **OpenAI Codex CLI** → 以 sandbox、approval 與 execution policy 限制高權限 Coding Agent 的檔案和命令存取
+  👉 詳見 [[openai-codex]]
 - **CL4R1T4S** → 系統性收集越獄技術，作為紅隊測試的攻擊模式參考
   👉 詳見 [[prompt-security]]
 - **ECC** → 含 AgentShield 安全掃描功能，偵測 Skill 中的安全風險

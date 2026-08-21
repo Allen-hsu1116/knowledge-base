@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- **OpenAI Codex CLI** → 內建 MCP client/server 相關模組，讓本機 Coding Agent 接入外部工具與資料
+  👉 詳見 [[openai-codex]]
 - **Claude Code** → Anthropic 官方 Coding Agent CLI，MCP 原生支援
   👉 詳見 [[anthropics-claude-code|Claude Code]]
 - **Goose** → 通用 AI Agent，MCP + ACP，Rust 實現

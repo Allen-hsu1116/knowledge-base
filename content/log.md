@@ -2,10 +2,21 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-20
+updated: 2026-08-22
 stars: —
 language: zh-TW
 ---
+## 2026-08-22（手動收錄）
+
+### 新增專案頁
+- **openai/codex** — OpenAI 官方開源 Coding Agent，Rust 核心，支援終端機、IDE、桌面 App、Codex Web、AGENTS.md、Skills、MCP、沙箱與非互動自動化（⭐ 111.0k）→ 分類：Agent 框架與工具
+
+### 動作
+- 擷取 GitHub README、metadata、語言統計與最新 Release，寫入 raw/2026-08-22-openai-codex.md
+- 新增 wiki/openai-codex.md，完成專案頁 10 段格式
+- 更新 backlinks：Coding Agent CLI、AI Agent、Harness Engineering、AI Skills、MCP、Prompt Security
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-20（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

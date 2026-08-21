@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-08-21
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **OpenAI Codex CLI** → OpenAI 官方本機 Coding Agent，以工具、沙箱、AGENTS.md 與驗證迴圈完成程式開發任務
+  👉 詳見 [[openai-codex]]
 - **LangChain** → LLM 應用開發框架，100+ 整合，最廣泛使用的 Agent 開發工具鏈
   👉 詳見 [[LangChain]]
 - **CrewAI** → 多 Agent 角色扮演協作框架，擅長多 Agent 團隊分工
