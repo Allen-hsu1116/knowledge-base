@@ -1535,3 +1535,13 @@ known-repos.json: +1 repo
 
 更新 backlinks: 待手動檢查
 known-repos.json: +2 new repos, +4 updated, +19 new concept tags
+
+## [2026-08-21] ingest | Daily LLM Trending（5 repos）
+
+- **modular/modular** (⭐27.9k) — Mojo + MAX 統一 AI 開發與推論平台 → 模型推論與部署
+- **AprilNEA/OpenLogi** (⭐11.9k) — 本地優先 Logitech Options+ 替代品 → 應用
+- **Tencent/AI-Infra-Guard** (⭐5.0k) — Agent、Skill、MCP、AI Infra 全棧紅隊平台 → Agent 框架與工具
+- **mahlernim/google-timeline-visualizer** (⭐1.6k) — 本地 Timeline 旅行動畫產生器 → 應用
+- **agent-substrate/substrate** (⭐1.4k) — 高密度 stateful Agent 執行基礎設施 → Agent 框架與工具
+- 更新 backlinks：模型推論與部署、privacy、prompt-security、visualization、AI-Agent、sandbox
+- 更新 projects.md 與 known-repos.json

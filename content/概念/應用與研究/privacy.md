@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-08-21
 language: zh-TW
 ---
 
@@ -43,6 +43,10 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
   👉 詳見 [[pdfcraft|PDFCraft]]
 - **LEANN** → 本地隱私優先的向量資料庫，97% 儲存節省
   👉 詳見 [[yichuan-w-LEANN|LEANN]]
+- **OpenLogi** → 不需帳號或遙測，以本地 TOML 管理 Logitech 裝置設定
+  👉 詳見 [[AprilNEA-OpenLogi|OpenLogi]]
+- **Google Timeline Visualizer** → Timeline JSON 留在裝置端，只向底圖供應商請求可見區域 tiles
+  👉 詳見 [[mahlernim-google-timeline-visualizer|Google Timeline Visualizer]]
 
 ## 相關概念
 

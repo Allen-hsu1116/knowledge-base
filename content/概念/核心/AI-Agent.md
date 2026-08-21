@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-08-20
+updated: 2026-08-21
 language: zh-TW
 ---
 
@@ -46,6 +46,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
   👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
 - **GenLayer Project Boilerplate** → 以 lint、Direct Mode 與整合測試，讓 Coding Agent 能快速迭代具 LLM 能力的 intelligent contract
   👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
+- **Agent Substrate** → 以 actor/worker multiplexing、快照與亞秒級恢復承載大規模 stateful Agent
+  👉 詳見 [[agent-substrate-substrate|Agent Substrate]]
 
 ## 相關概念
 

@@ -2,7 +2,7 @@
 title: Prompt 安全與越獄
 slug: prompt-security
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-08-21
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
   👉 詳見 [[promptfoo-promptfoo]]
 - **G0DM0D3** → 多模型越獄競賽介面，Parseltongue 33 種輸入擾動技術
   👉 詳見 [[elder-plinius-G0DM0D3|G0DM0D3]]
+- **AI-Infra-Guard** → 統一執行 Agent、Skill、MCP、AI Infra 與 LLM 越獄安全評估
+  👉 詳見 [[Tencent-AI-Infra-Guard|AI-Infra-Guard]]
 
 ## 相關概念
 

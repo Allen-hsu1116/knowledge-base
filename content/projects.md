@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-20
+updated: 2026-08-21
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-08-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[agent-substrate-substrate\|Agent Substrate]] | ⭐1.4k | 高密度 Agent 執行基礎設施, Actor/Worker multiplexing, 亞秒級 suspend/resume, RAM+FS 快照, Kubernetes, gVisor+microVM, request parking, 30x+ oversubscription | 2026-08-21 |
+| [[Tencent-AI-Infra-Guard\|AI-Infra-Guard]] | ⭐5.0k | 全棧 AI 紅隊平台, Agent/Skill/MCP 掃描, 2000+ CVE 規則, 越獄評估, SkillTrustBench, Docker+API+CLI, 騰訊朱雀實驗室 | 2026-08-21 |
 | [[chaitanyagiri-munder-difflin\|Munder Difflin]] | ⭐2.7k | 本地多 Agent harness, 10 種終端 Coding Agent, GOD supervisor, Hive mailbox+blackboard, Markdown 語意記憶, human gates, circuit breaker, per-agent worktree, OTel 成本觀測, Electron 2D 辦公室 | 2026-08-20 |
 | [[genlayerlabs-genlayer-project-boilerplate\|GenLayer Project Boilerplate]] | ⭐15.9k | Intelligent Contract 起始專案, LLM 網頁判讀, equivalence principle 共識驗證, Direct Mode Web/LLM mocks, genvm-lint, GenLayer Studio 整合測試, Next.js 15 前端, Coding Agent 快速回饋迴圈 | 2026-08-19 |
 | [[langroid-langroid\|Langroid]] | ⭐4.1k | 多 Agent Python 框架, Actor 模型啟發, CMU+UW-Madison, 不依賴 Langchain, MCP 工具轉接器, 本地 LLM, DocChatAgent (RAG), Task 子任務委派, Claude Code 插件 | 2026-08-16 |
@@ -180,6 +182,7 @@ updated: 2026-08-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[modular-modular\|Modular Platform]] | ⭐27.9k | Mojo 語言, MAX Framework, AI 推論服務, accelerator kernels, Python graph pipelines, OpenAI 相容 API, 跨層效能最佳化 | 2026-08-21 |
 | [[jundot-omlx\|oMLX]] | ⭐19k | Apple Silicon LLM 推論伺服器, MLX, continuous batching, RAM+SSD 分層 KV Cache, 跨重啟 prefix reuse, OpenAI+Anthropic API, 多模型 LLM/VLM/OCR/Embedding/Reranker, macOS 選單列, Coding Agent 整合 | 2026-08-18 |
 | [[unslothai-unsloth\|Unsloth]] | ⭐71.1k | 本地桌面 App, 跑+訓練 LLM/Diffusion/TTS/Embedding, 2x 更快 70% 更少 VRAM, Unsloth Start 接 Claude Code/Codex/Hermes, OpenAI 相容 API, MCP, GRPO/DPO/FP8, GGUF 匯出, Cloudflare HTTPS | 2026-08-14 |
 | [[cactus-compute-needle\|Needle 2]] | ⭐4.2k | 14MB 基礎模型, 45M 參數, on-device tool calling, 28MB RAM, CQ2-bit 量化, Simple Attention Network, byte-level grammar, 信心 gating, tool retrieval, LoRA 微調, 結構化擷取 | 2026-08-13 |
@@ -313,6 +316,8 @@ updated: 2026-08-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mahlernim-google-timeline-visualizer\|Google Timeline Visualizer]] | ⭐1.6k | Google Timeline JSON, 本地旅行軌跡視覺化, Android+iPhone Web+Python, 動畫 MP4, GPS 跳點過濾, 隱私優先 | 2026-08-21 |
+| [[AprilNEA-OpenLogi\|OpenLogi]] | ⭐11.9k | Logitech Options+ 開源替代, Rust+GPUI, HID++/UVC, 按鍵重映射, DPI+SmartShift, TOML+CLI, 跨平台, 無帳號無遙測 | 2026-08-21 |
 | [[nautechsystems-nautilus_trader\|NautilusTrader]] | ⭐26.4k | Rust 原生交易引擎, 研究到實盤一致性, 確定性事件驅動回測, 多資產多場所, Python 控制平面, 進階訂單, AI trading agent 訓練 | 2026-08-20 |
 | [[marceloprates-prettymaps\|prettymaps]] | ⭐13.1k | OpenStreetMap 地圖視覺化, OSMnx, Matplotlib, Shapely, 生成藝術, 圖層樣式, JSON preset, Streamlit+marimo | 2026-08-20 |
 | [[HKUDS-Vibe-Trading]] | ⭐30.4k | AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Account, Alpha Zoo, 12 券商連接器, 23 資料來源 | 2026-08-09 |

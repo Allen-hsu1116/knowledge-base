@@ -2,7 +2,7 @@
 title: 資料視覺化
 slug: visualization
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-08-21
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ language: zh-TW
   👉 詳見 [[colbymchenry-codegraph|CodeGraph]]
 - **Understand Anything** — 程式碼智慧視覺化，Domain View 和 tree-sitter+LLM
   👉 詳見 [[Understand-Anything|Understand Anything]]
+- **Google Timeline Visualizer** → 將個人 Timeline JSON 在裝置端轉成旅行軌跡動畫 MP4
+  👉 詳見 [[mahlernim-google-timeline-visualizer|Google Timeline Visualizer]]
 
 ## 相關概念
 

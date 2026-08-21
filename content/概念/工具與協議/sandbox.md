@@ -2,7 +2,7 @@
 title: 沙箱
 slug: sandbox
 created: 2026-05-18
-updated: 2026-08-20
+updated: 2026-08-21
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
   👉 詳見 [[volcengine-OpenSandbox|OpenSandbox]]
 - **GenLayer Direct Mode** → 在記憶體中部署合約並 mock Web/LLM 呼叫，隔離快速測試與真實共識環境
   👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
+- **Agent Substrate** → 在 Kubernetes 上統一管理 gVisor 與 microVM sandbox，並以快照保存 Agent 狀態
+  👉 詳見 [[agent-substrate-substrate|Agent Substrate]]
 
 ## 相關概念
 
