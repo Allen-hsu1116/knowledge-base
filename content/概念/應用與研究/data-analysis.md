@@ -2,7 +2,7 @@
 title: 資料分析
 slug: data-analysis
 created: 2026-06-15
-updated: 2026-08-20
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ AI Agent 正在改變資料分析的工作方式。傳統流程需要分析師�
   👉 詳見 [[koala73-worldmonitor]]
 - **TrendRadar** → AI 輿情監控，多平台資料聚合與分析
   👉 詳見 [[sansan0-TrendRadar]]
+- **Protocol Buffers** → 以明確 schema、緊湊二進位格式與跨語言 codegen 傳輸結構化資料
+  👉 詳見 [[protocolbuffers-protobuf|Protocol Buffers]]
 
 ## 相關概念
 
@@ -50,6 +52,7 @@ AI Agent 正在改變資料分析的工作方式。傳統流程需要分析師�
 - [[backtesting]] — 回測是資料分析在交易策略驗證上的應用
 - [[rag]] — RAG 讓分析 Agent 能結合外部知識做深度解讀
 - [[AI-Agent]] — AI Agent 自主執行資料分析的端到端流程
+- [[protocolbuffers-protobuf|Protocol Buffers]] — 大規模資料管線常用的 schema-first 序列化格式
 
 ## 來源
 

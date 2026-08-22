@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-20
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -45,6 +45,8 @@ language: zh-TW
   👉 詳見 [[DigitalPlatDev-FreeDomain|FreeDomain]]
 - **oMLX** → 在 Apple Silicon Mac 自架 OpenAI/Anthropic-compatible LLM endpoint，並以本機選單列與 Web 管理台營運
   👉 詳見 [[jundot-omlx|oMLX]]
+- **Ghost** → 可用 Ghost CLI 自架專業出版、會員與 newsletter 平台，也可改用官方代管
+  👉 詳見 [[TryGhost-Ghost|Ghost]]
 
 ## 相關概念
 
@@ -53,6 +55,7 @@ language: zh-TW
 - [[privacy|隱私]] — 自架的核心驅動力
 - [[free-domain|免費域名]] — 降低自架服務對外存取門檻
 - [[media-streaming|媒體串流]] — 自架娛樂基礎設施
+- [[TryGhost-Ghost|Ghost]] — 兼具自架控制權與官方 SaaS 的出版平台
 
 ## 來源
 

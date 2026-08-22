@@ -2,7 +2,7 @@
 title: 開源商業模式
 slug: open-source-business
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ language: zh-TW
   👉 詳見 [[frappe-erpnext|ERPNext]]
 - **Langfuse** → 開源 LLM 觀測平台，自架免費，雲端版訂閱制
   👉 詳見 [[langfuse-langfuse|Langfuse]]
+- **Ghost** → MIT 開源出版核心搭配 Ghost(Pro) 代管，收入回饋非營利基金會與專案維護
+  👉 詳見 [[TryGhost-Ghost|Ghost]]
 
 ## 相關概念
 
@@ -48,6 +50,7 @@ language: zh-TW
 - [[free-software|免費軟體]] — 開源軟體的免費使用面向
 - [[productivity|生產力]] — 開源生產力工具的商業化
 - [[self-hosted|自架 AI 平台]] — AI 領域的開源商業模式實踐
+- [[TryGhost-Ghost|Ghost]] — 開源軟體＋官方代管服務的基金會營運案例
 
 ## 來源
 

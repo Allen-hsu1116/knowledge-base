@@ -2,7 +2,7 @@
 title: LLM 底層技術
 slug: llm-internals
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -39,6 +39,8 @@ Positional Embedding 從 Sinusoidal（2017）到 ALiBi（2021）到 RoPE（2022�
   👉 詳見 [[llama-cpp|llama.cpp]]
 - **LMCache** → KV Cache 跨實例共享，降低 TTFT
   👉 詳見 [[LMCache-LMCache|LMCache]]
+- **OBLITERATUS** → 以 activation probing、SVD、cross-layer alignment、residual decomposition 定位與修改拒答機制
+  👉 詳見 [[elder-plinius-OBLITERATUS|OBLITERATUS]]
 
 ## 相關概念
 
@@ -48,6 +50,7 @@ Positional Embedding 從 Sinusoidal（2017）到 ALiBi（2021）到 RoPE（2022�
 - [[flash-attention]] — Flash Attention 的詳細教學
 - [[kv-cache]] — KV Cache 的詳細教學
 - [[positional-embedding-evolution]] — 位置編碼演進歷史
+- [[elder-plinius-OBLITERATUS|OBLITERATUS]] — 從可解釋性角度分析 refusal directions 與 guardrail geometry
 
 ## 來源
 - 知識庫內 Flash Attention、KV Cache、Positional Embedding 相關原始資料

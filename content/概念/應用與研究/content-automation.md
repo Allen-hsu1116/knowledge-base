@@ -2,7 +2,7 @@
 title: 內容自動化
 slug: content-automation
 created: 2025-06-07
-updated: 2025-06-07
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ language: zh-TW
   👉 詳見 [[hugohe3-ppt-master|PPT Master]]
 - **AiToEarn** → AI Agent 內容變現平台，自動化內容生成與分發
   👉 詳見 [[yikart-AiToEarn|AiToEarn]]
+- **Ghost** → 將文章、網站、會員與 newsletter 發佈整合成可自架或代管的出版平台
+  👉 詳見 [[TryGhost-Ghost|Ghost]]
 
 ## 相關概念
 
@@ -50,6 +52,7 @@ language: zh-TW
 - [[browser-use-video-use|video-use]] — 用 Coding Agent 編輯影片，內容自動化的新範式
 - [[語音辨識]] — TTS 語音合成是影片和簡報自動化的關鍵環節
 - [[workflow-automation|工作流自動化]] — 內容自動化是工作流自動化的應用場景
+- [[TryGhost-Ghost|Ghost]] — 承接內容管線最後的出版、會員與電子報配送
 
 ## 來源
 

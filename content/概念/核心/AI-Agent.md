@@ -50,6 +50,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
   👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 - **Agent Substrate** → 以 actor/worker multiplexing、快照與亞秒級恢復承載大規模 stateful Agent
   👉 詳見 [[agent-substrate-substrate|Agent Substrate]]
+- **Apache Maka** → Local-first Agent workspace，以 Runtime Event Log、單一 Runtime Host、recovery 與 eval 統一桌面、TUI、CLI
+  👉 詳見 [[apache-maka|Apache Maka]]
 
 ## 相關概念
 
@@ -67,6 +69,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[akitaonrails-ai-memory|ai-memory]] — 將 Agent 的短期 session 觀察固化成可查詢的長期專案記憶
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 為 Agent 開發提供可 mock LLM/Web 的快速合約驗證迴圈
 - [[chaitanyagiri-munder-difflin|Munder Difflin]] — 把多種終端 Coding Agent 組成本地協作團隊，加入 supervisor、mailbox、記憶與人類審批
+- [[apache-maka|Apache Maka]] — 將 Agent 的執行事實、上下文 projection、權限與恢復整合在本地 runtime
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

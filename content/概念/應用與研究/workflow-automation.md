@@ -41,6 +41,8 @@ language: zh-TW
   👉 詳見 [[iii-hq-iii|iii]]
 - **GenLayer Project Boilerplate** → 把 intelligent contract 的 lint、直接測試、共識整合測試與部署串成分層驗證流程
   👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
+- **Protocol Buffers** → 以 `.proto` schema 與 `protoc` codegen 固化跨語言工作流中的資料契約
+  👉 詳見 [[protocolbuffers-protobuf|Protocol Buffers]]
 
 ## 相關概念
 
@@ -50,6 +52,7 @@ language: zh-TW
 - [[sandbox|沙箱]] — 工作流中的程式碼執行需要在沙箱中進行
 - [[rag|RAG]] — 為工作流提供知識檢索能力
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 展示 LLM 合約從快速回饋到真實共識的自動化開發流程
+- [[protocolbuffers-protobuf|Protocol Buffers]] — 將 schema 編譯與多語言程式碼生成納入 CI／build
 
 ## 來源
 

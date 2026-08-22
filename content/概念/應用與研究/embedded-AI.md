@@ -2,7 +2,7 @@
 title: 邊緣裝置 AI
 slug: embedded-AI
 created: 2025-06-07
-updated: 2025-06-07
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -43,6 +43,8 @@ language: zh-TW
   👉 詳見 [[blakeblackshear-frigate|Frigate NVR]]
 - **FluidVoice** → macOS 聽寫應用，完全本地 on-device STT + AI 增強
   👉 詳見 [[altic-dev-FluidVoice|FluidVoice]]
+- **ONNX Runtime** → 用 Execution Provider 把 ONNX 模型映射到 CPU、GPU、NPU、CoreML、QNN 等裝置後端
+  👉 詳見 [[microsoft-onnxruntime|ONNX Runtime]]
 
 ## 相關概念
 
@@ -51,6 +53,7 @@ language: zh-TW
 - [[computer-vision|電腦視覺]] — 電腦視覺是邊緣 AI 的重要應用場景
 - [[self-hosted|自架 AI 平台]] — 自架是伺服器端，嵌入式是裝置端，兩者互補
 - [[diffusion-model|擴散模型]] — 擴散模型量化後可在邊緣裝置生成圖像
+- [[microsoft-onnxruntime|ONNX Runtime]] — 邊緣裝置常用的跨平台推論 runtime
 
 ## 來源
 

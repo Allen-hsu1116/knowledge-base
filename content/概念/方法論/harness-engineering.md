@@ -51,6 +51,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
   👉 詳見 [[danielmiessler-LifeOS]]
 - **Paperclip** → Agent 公司編排，組織架構 + 預算 + 治理，Harness 管理多 Agent 協作
   👉 詳見 [[paperclipai-paperclip]]
+- **Apache Maka** → 以 Runtime Event Log、Runtime Host、context projection、recovery 與 eval 組成可稽核的 local-first harness
+  👉 詳見 [[apache-maka|Apache Maka]]
 
 ## 相關概念
 
@@ -65,6 +67,7 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - [[Token-Optimization]] — Harness 設計需考慮 token 消耗
 - [[openinterpreter-openinterpreter|Open Interpreter]] — 多 Harness 模擬，低成本模型優化
 - [[chaitanyagiri-munder-difflin|Munder Difflin]] — 在既有 CLI Agent 外疊加 PTY、路由、記憶、安全閘門與可觀測性
+- [[apache-maka|Apache Maka]] — 用單一執行權威統一 Desktop、TUI、CLI 與評測
 
 ## 來源
 

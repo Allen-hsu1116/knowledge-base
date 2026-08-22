@@ -2,7 +2,7 @@
 title: Context Database
 slug: Context-Database
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-08-22
 language: zh-TW
 ---
 
@@ -40,6 +40,8 @@ Context Database 解決了 AI Agent 開發的五大上下文挑戰：碎片化�
   👉 詳見 [[basicmachines-co-basic-memory|Basic Memory]]
 - **CocoIndex** → 增量索引引擎，只索引變更部分，delta-only 最高效率
   👉 詳見 [[cocoindex]]
+- **Apache Maka** → 以 append-only Runtime Event Log 保存 evidence，再將 session、UI 與模型 context 投影成不同視圖
+  👉 詳見 [[apache-maka|Apache Maka]]
 
 ## 相關概念
 
@@ -49,6 +51,7 @@ Context Database 解決了 AI Agent 開發的五大上下文挑戰：碎片化�
 - [[Token-Optimization]] — 分層載入是 Token 優化的核心策略
 - [[llm-knowledge-base]] — 編譯式知識管理，raw→wiki 精煉後載入
 - [[rag]] — Context Database 是 RAG 的進化形態
+- [[apache-maka|Apache Maka]] — 展示「執行記錄不等於推論上下文」的 local-first runtime 設計
 
 ## 來源
 - 知識庫內 Context Database 相關原始資料與專案頁面

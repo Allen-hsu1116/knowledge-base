@@ -17,6 +17,7 @@ updated: 2026-08-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[apache-maka\|Apache Maka]] | ⭐2.0k | Local-first Agent workspace, Runtime Event Log, Runtime Host, context projection, recovery, Desktop+TUI+CLI+Eval, 權限工具, SQLite | 2026-08-22 |
 | [[openai-codex\|OpenAI Codex CLI]] | ⭐111.0k | OpenAI 官方 Coding Agent, Rust 核心, 終端機+IDE+桌面+Web, AGENTS.md, Skills, MCP, 沙箱與審批, 非互動自動化, ChatGPT 登入 | 2026-08-22 |
 | [[agent-substrate-substrate\|Agent Substrate]] | ⭐1.4k | 高密度 Agent 執行基礎設施, Actor/Worker multiplexing, 亞秒級 suspend/resume, RAM+FS 快照, Kubernetes, gVisor+microVM, request parking, 30x+ oversubscription | 2026-08-21 |
 | [[Tencent-AI-Infra-Guard\|AI-Infra-Guard]] | ⭐5.0k | 全棧 AI 紅隊平台, Agent/Skill/MCP 掃描, 2000+ CVE 規則, 越獄評估, SkillTrustBench, Docker+API+CLI, 騰訊朱雀實驗室 | 2026-08-21 |
@@ -183,6 +184,8 @@ updated: 2026-08-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-onnxruntime\|ONNX Runtime]] | ⭐21.5k | 跨平台 ML runtime, ONNX graph, Execution Providers, CPU/GPU/NPU/行動/Web, 推論與訓練加速 | 2026-08-22 |
+| [[elder-plinius-OBLITERATUS\|OBLITERATUS]] | ⭐7.8k | LLM refusal directions, abliteration, 權重投影, steering vectors, mechanistic interpretability, alignment 紅隊研究 | 2026-08-22 |
 | [[modular-modular\|Modular Platform]] | ⭐27.9k | Mojo 語言, MAX Framework, AI 推論服務, accelerator kernels, Python graph pipelines, OpenAI 相容 API, 跨層效能最佳化 | 2026-08-21 |
 | [[jundot-omlx\|oMLX]] | ⭐19k | Apple Silicon LLM 推論伺服器, MLX, continuous batching, RAM+SSD 分層 KV Cache, 跨重啟 prefix reuse, OpenAI+Anthropic API, 多模型 LLM/VLM/OCR/Embedding/Reranker, macOS 選單列, Coding Agent 整合 | 2026-08-18 |
 | [[unslothai-unsloth\|Unsloth]] | ⭐71.1k | 本地桌面 App, 跑+訓練 LLM/Diffusion/TTS/Embedding, 2x 更快 70% 更少 VRAM, Unsloth Start 接 Claude Code/Codex/Hermes, OpenAI 相容 API, MCP, GRPO/DPO/FP8, GGUF 匯出, Cloudflare HTTPS | 2026-08-14 |
@@ -317,6 +320,7 @@ updated: 2026-08-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[TryGhost-Ghost\|Ghost]] | ⭐54.9k | 開源專業出版 CMS, 會員, 付費訂閱, newsletter, Content API, 主題, 自架或 Ghost(Pro) | 2026-08-22 |
 | [[mahlernim-google-timeline-visualizer\|Google Timeline Visualizer]] | ⭐1.6k | Google Timeline JSON, 本地旅行軌跡視覺化, Android+iPhone Web+Python, 動畫 MP4, GPS 跳點過濾, 隱私優先 | 2026-08-21 |
 | [[AprilNEA-OpenLogi\|OpenLogi]] | ⭐11.9k | Logitech Options+ 開源替代, Rust+GPUI, HID++/UVC, 按鍵重映射, DPI+SmartShift, TOML+CLI, 跨平台, 無帳號無遙測 | 2026-08-21 |
 | [[nautechsystems-nautilus_trader\|NautilusTrader]] | ⭐26.4k | Rust 原生交易引擎, 研究到實盤一致性, 確定性事件驅動回測, 多資產多場所, Python 控制平面, 進階訂單, AI trading agent 訓練 | 2026-08-20 |
@@ -425,6 +429,7 @@ updated: 2026-08-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[protocolbuffers-protobuf\|Protocol Buffers]] | ⭐71.8k | schema-first 二進位序列化, `.proto`, protoc codegen, 跨語言資料契約, schema 演化, RPC/資料管線 | 2026-08-22 |
 | [[amadeusprotocol-node\|Amadeus Protocol Node]] | ⭐4.6k | 實驗性區塊鏈節點, 本地 testnet, RPC API, WebAssembly 合約, Podman/Docker build, systemd 維運, Linux UDP 調校, validator 模式 | 2026-08-20 |
 | [[ToolJet-ToolJet\|ToolJet]] | ⭐40k | 開源低代碼平台, AI 應用生成, 60+ 元件, 80+ 資料來源, 內建資料庫, AI Agent 建構器, 自架 Docker/K8s, AES-256-GCM, GitSync, 多人協作 | 2026-08-17 |
 | [[mlflow-mlflow\|MLflow]] | ⭐27.5k | 開源 AI 工程平台, LLM Tracing (OpenTelemetry), 60+ 框架自動追蹤, 50+ 評估指標, Prompt 管理與優化, AI Gateway, 模型註冊表, 6000 萬月下載, MCP 整合 | 2026-08-16 |

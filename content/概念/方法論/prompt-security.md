@@ -45,6 +45,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
   👉 詳見 [[elder-plinius-G0DM0D3|G0DM0D3]]
 - **AI-Infra-Guard** → 統一執行 Agent、Skill、MCP、AI Infra 與 LLM 越獄安全評估
   👉 詳見 [[Tencent-AI-Infra-Guard|AI-Infra-Guard]]
+- **OBLITERATUS** → 從 activation 與權重層研究、移除拒答方向，用於 alignment robustness 與紅隊基準
+  👉 詳見 [[elder-plinius-OBLITERATUS|OBLITERATUS]]
 
 ## 相關概念
 
@@ -57,6 +59,7 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 - [[Token-Optimization]] — 過度壓縮 token 可能影響指令完整性
 - [[self-correction]] — 自我修正可用於偵測攻擊行為
 - [[Dicklesworthstone-destructive_command_guard|dcg]] — 命令層安全守衛，攔截危險命令執行
+- [[elder-plinius-OBLITERATUS|OBLITERATUS]] — 展示模型護欄可能被 weight-level 介入移除，部署時需外部防禦與隔離
 
 ## 來源
 
