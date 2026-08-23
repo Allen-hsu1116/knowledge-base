@@ -2,10 +2,22 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-22
+updated: 2026-08-23
 stars: —
 language: zh-TW
 ---
+## 2026-08-23（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **ripienaar/free-for-dev** — 開發者 SaaS、PaaS、IaaS 與生成式 AI 免費額度策展清單（⭐ 133.9k）→ 分類：學習資源
+- **Wei-Shaw/sub2api** — 自架 AI API Gateway，聚合 Claude、OpenAI、Gemini、Grok 訂閱帳號池並提供配額、計費、限流與支付（⭐ 38.8k）→ 分類：基礎設施
+
+### 動作
+- fetch 2 個 README + metadata，寫入 2 個 raw 頁面
+- 寫入 2 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：免費軟體、自主學習、自架、AI Gateway、Coding Agent CLI
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-22（手動收錄）
 
 ### 新增專案頁

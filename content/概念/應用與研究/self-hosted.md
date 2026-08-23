@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-22
+updated: 2026-08-23
 language: zh-TW
 ---
 
@@ -47,6 +47,10 @@ language: zh-TW
   👉 詳見 [[jundot-omlx|oMLX]]
 - **Ghost** → 可用 Ghost CLI 自架專業出版、會員與 newsletter 平台，也可改用官方代管
   👉 詳見 [[TryGhost-Ghost|Ghost]]
+- **Sub2API** → 以 Docker Compose 或 systemd 自架訂閱配額型 AI API Gateway
+  👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
+- **free-for.dev** → 提供代管免費層清單，可用來比較 SaaS 與自行架設的成本界線
+  👉 詳見 [[ripienaar-free-for-dev|free-for.dev]]
 
 ## 相關概念
 

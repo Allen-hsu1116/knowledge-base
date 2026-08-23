@@ -2,7 +2,7 @@
 title: AI Gateway
 slug: AI-Gateway
 created: 2026-06-04
-updated: 2026-07-15
+updated: 2026-08-23
 language: zh-TW
 ---
 
@@ -36,6 +36,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
   👉 詳見 [[open-webui-open-webui|Open WebUI]]
 - **Grok2API** → Grok 專用多帳號網關，三 Provider 獨立路由 + 智慧調度 + OpenAI/Anthropic 雙協議相容
   👉 詳見 [[chenyme-grok2api|Grok2API]]
+- **Sub2API** → 聚合 Claude、OpenAI、Gemini、Grok 的訂閱帳號池，提供配額分發、token 計費、支付與並行控制；使用前須確認上游 ToS
+  👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
 
 ## 相關概念
 

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # 專案索引
@@ -280,6 +280,7 @@ updated: 2026-08-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ripienaar-free-for-dev\|free-for.dev]] | ⭐133.9k | 開發者免費服務策展, SaaS/PaaS/IaaS free tier, 雲端與 DevOps 基礎設施, Generative AI, 1600+ 社群貢獻者 | 2026-08-23 |
 | [[microsoft-generative-ai-for-beginners\|Generative AI for Beginners]] | ⭐116.3k | 微軟 21 課 GenAI 入門, LLM, Prompt Engineering, RAG, Function Calling, AI Agent, 微調, Python+TS, 50+ 語言翻譯 | 2026-08-05 |
 | [[Lordog-dive-into-llms\|Dive into LLMs]] | ⭐45k | 上海交通大學大模型教程, 11 主題, 微調/提示/知識編輯/數學推理/水印/越獄/隱寫/多模態/GUI Agent/安全對齊, 華為昇騰國產化 | 2026-07-25 |
 | [[anthropics-cwc-workshops\|Code with Claude Workshops]] | ⭐1.6k | Anthropic 官方工作坊, 9 個實作 workshop, Claude Managed Agents, Skills, MCP, Evals, Agent Memory, 多 Agent 分解 | 2026-07-18 |
@@ -429,6 +430,7 @@ updated: 2026-08-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Wei-Shaw-sub2api\|Sub2API]] | ⭐38.8k | 自架 AI Gateway, Claude/OpenAI/Gemini/Grok, 訂閱配額分發, 多帳號池, token 計費, 限流與支付, Docker, 上游 ToS 風險 | 2026-08-23 |
 | [[protocolbuffers-protobuf\|Protocol Buffers]] | ⭐71.8k | schema-first 二進位序列化, `.proto`, protoc codegen, 跨語言資料契約, schema 演化, RPC/資料管線 | 2026-08-22 |
 | [[amadeusprotocol-node\|Amadeus Protocol Node]] | ⭐4.6k | 實驗性區塊鏈節點, 本地 testnet, RPC API, WebAssembly 合約, Podman/Docker build, systemd 維運, Linux UDP 調校, validator 模式 | 2026-08-20 |
 | [[ToolJet-ToolJet\|ToolJet]] | ⭐40k | 開源低代碼平台, AI 應用生成, 60+ 元件, 80+ 資料來源, 內建資料庫, AI Agent 建構器, 自架 Docker/K8s, AES-256-GCM, GitSync, 多人協作 | 2026-08-17 |

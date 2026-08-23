@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-22
+updated: 2026-08-23
 language: zh-TW
 ---
 
@@ -45,6 +45,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
   👉 詳見 [[Gitlawb-openclaude]]
 - **ai-memory** → 以 hooks、MCP 與 managed workstreams 讓 Claude Code、Codex、OpenCode 等 CLI 共用長期記憶和 handoff
   👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
+- **Sub2API** → 讓 Claude Code、Codex、Gemini CLI 改用自架 Gateway 的 Base URL 與平台 API Key；須先確認上游服務條款
+  👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
 
 ## 相關概念
 

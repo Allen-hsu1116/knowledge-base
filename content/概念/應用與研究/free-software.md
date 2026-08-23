@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-08-23
 language: zh-TW
 ---
 
@@ -43,6 +43,8 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
   👉 詳見 [[Kong-insomnia|Insomnia]]
 - **freeCodeCamp** → 免費程式學習平台，Full-Stack 課程和認證
   👉 詳見 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]]
+- **free-for.dev** → 依 SaaS、PaaS、IaaS 與開發領域整理可長期使用的免費服務額度
+  👉 詳見 [[ripienaar-free-for-dev|free-for.dev]]
 
 ## 相關概念
 
