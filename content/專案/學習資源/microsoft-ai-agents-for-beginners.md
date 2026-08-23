@@ -19,13 +19,14 @@ updated: 2026-06-14
 | 項目 | 內容 |
 |------|------|
 | GitHub | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) |
-| Stars | ⭐62.5k |
+| Stars | ⭐62542|
 | Language | Jupyter Notebook |
 | 建立日期 | 2024-11-28 |
 | 收錄日期 | 2026-05-18 |
 | 授權 | MIT |
 
 ## 快速導航
+
 
 - ⚡ [[AI-Agent]] · [[AI-Tutoring]] · [[MCP]] · [[rag]] · [[context-engineering-basics]] · [[Prompt-Engineering]] · [[LLM]]
 
@@ -83,7 +84,8 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ## 相關概念
 
-← [[AI-Agent]] · [[AI-Tutoring]] · [[MCP]] · [[rag]] · [[context-engineering-basics]] · [[Prompt-Engineering]] · [[LLM]]
+
+← [[AI-Agent]] · [[AI-Tutoring]] · [[MCP]] · [[rag]] · [[context-engineering-basics]] · [[Prompt-Engineering]]
 
 ## 授權
 
@@ -97,13 +99,14 @@ MIT License
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/microsoft/ai-agents-for-beginners)
 - [原始資料](../raw/2026-05-18-microsoft-ai-agents-for-beginners.md)
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/ai-agents-for-beginners |
 | Stars | ⭐62542 |
-| License | — |
+| License | 未標示 |
 | 收錄日期 | 2026-05-18 |

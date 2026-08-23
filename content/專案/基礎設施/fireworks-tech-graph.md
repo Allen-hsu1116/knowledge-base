@@ -10,16 +10,20 @@ topics: [Knowledge Graph, JavaScript]
 
 # fireworks-tech-graph
 
-> ⭐5.7 · 用自然語言描述系統，秒級生成出版品質的 SVG + PNG 技術圖表。7 種視覺風格、14 種 UML 圖類型、AI/Agent 領域圖表模式。⭐5.7K
+> ⭐6 · 用自然語言描述系統，秒級生成出版品質的 SVG + PNG 技術圖表。7 種視覺風格、14 種 UML 圖類型、AI/Agent 領域圖表模式。⭐5.7K
 
 ## 快速導航
+
 - ⚡ **Prompt 工程** → [[Prompt-Engineering]]（自然語言描述生成圖表的 prompt 工程）
 - 🎨 **開源設計** → [[open-design]]（開源設計工具）
 - 🤖 **AI Agent** → [[AI-Agent]]（內建 AI/Agent 領域圖表模式）
 
 ## 是什麼
 
-fireworks-tech-graph 是一個 Claude Code Skill（也可以獨立使用），讓你用自然語言描述一個系統架構，然後自動生成專業品質的技術圖表。它不是另一個 Mermaid 或 draw.io——它理解 AI/Agent 領域的特定模式（RAG pipeline、Agentic Search、Mem0 memory、Multi-Agent collaboration、Tool Call flow），並用語義化的形狀詞彙和箭頭系統來呈現。輸出 SVG 原始檔和 1920px PNG，可直接嵌入文件和簡報。
+
+fireworks-tech-graph 是一個 Claude Code Skill（也可以獨立使用），讓你用自然語言描述一個系統架構，然後自動生成專業品質的技術圖表。
+
+它不是另一個 Mermaid 或 draw.io——它理解 AI/Agent 領域的特定模式（RAG pipeline、Agentic Search、Mem0 memory、Multi-Agent collaboration、Tool Call flow），並用語義化的形狀詞彙和箭頭系統來呈現。輸出 SVG 原始檔和 1920px PNG，可直接嵌入文件和簡報。
 
 ## 核心特色
 
@@ -71,23 +75,19 @@ Generate a Mem0 architecture diagram, output to ~/Desktop/
 
 ## 相關概念
 
+
 ← [[Prompt-Engineering]] · [[open-design]] · [[AI-Agent]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
 - raw/2026-05-09-fireworks-tech-graph.md
 
 ---
 
-- **GitHub**: https://github.com/yizhiyanhua-ai/fireworks-tech-graph
-- **Stars**: ⭐5,741
-- **License**: MIT
-- **收錄日期**: 2026-05-09
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/yizhiyanhua-ai/fireworks-tech-graph |
-| **Stars** | ⭐'⭐5.7' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/yizhiyanhua-ai/fireworks-tech-graph |
+| Stars | ⭐6|
+| License | MIT |
+| 收錄日期 | 2026-05-09 |

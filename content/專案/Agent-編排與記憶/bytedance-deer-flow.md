@@ -14,13 +14,17 @@ topics: [Agent 編排, 子Agent, 沙箱]
 
 ## 快速導航
 
+
 - 🤖 **AI Agent** → [[AI-Agent]]（DeerFlow 是多 Agent 編排框架）
 - 🔄 **Ruflo** → [[ruvnet-ruflo|Ruflo]]（另一個多 Agent 編排方案）
 - 🔌 **MCP** → [[MCP]]（DeerFlow 支援 MCP 整合）
 
 ## 是什麼
 
-DeerFlow 2.0（Deep Exploration and Efficient Research Flow）是字節跳動開源的 Super Agent 框架。它編排子 Agent、記憶和沙箱，透過可擴充 Skill 系統完成複雜任務。與 v1 無共用程式碼，從頭重寫。
+
+DeerFlow 2.0（Deep Exploration and Efficient Research Flow）是字節跳動開源的 Super Agent 框架。
+
+它編排子 Agent、記憶和沙箱，透過可擴充 Skill 系統完成複雜任務。與 v1 無共用程式碼，從頭重寫。
 
 ## 核心特色
 
@@ -59,15 +63,23 @@ make docker-start   # 啟動服務
 
 ## 跟其他方案的關係
 
+
 DeerFlow 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的差異在於它是 Super Agent 架構——不只編排 Agent，還管理記憶、沙箱和 context。CrewAI 是簡單的 Agent 編排，DeerFlow 是完整的 Agent 作業系統。
 
 跟 [[RightNow-AI-openfang|OpenFang]] 的對比：OpenFang 是 Rust 寫的自治 Agent OS（Hands 排程驅動），DeerFlow 是 Python 寫的多 Agent 編排框架（Skills 擴充）。一個強調自治排程，一個強調子 Agent 協作。
 
 [[cft0808-edict|三省六部]] 用制度性審核確保品質，DeerFlow 用沙箱隔離確保安全。兩者方向不同：三省六部是「分工制衡」，DeerFlow 是「擴充協作」。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[RightNow-AI-openfang]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
 
-← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[opensandbox|OpenSandbox]]
+
+← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[opensandbox]]
 
 ## 來源
 
@@ -76,11 +88,9 @@ DeerFlow 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的差異在�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/bytedance/deer-flow |
-| Stars | ⭐68,098 |
-| Language | Python |
-| 建立日期 | 2025-05-07 |
-| 授權 | MIT |
+| Stars | ⭐68098|
+| License | 未標示 |
 | 收錄日期 | 2026-05-09 |

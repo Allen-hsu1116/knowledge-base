@@ -10,7 +10,7 @@ topics: [隱私, 瀏覽器, 反偵測]
 
 # CloakBrowser
 
-> ⭐14,651 · Stealth Chromium that passes every bot detection test — drop-in Playwright/Puppeteer replacement
+> ⭐28078 · Stealth Chromium that passes every bot detection test — drop-in Playwright/Puppeteer replacement
 
 **Repo:** <https://github.com/CloakHQ/CloakBrowser>
 **Stars:** ⭐ 14,651
@@ -22,6 +22,7 @@ topics: [隱私, 瀏覽器, 反偵測]
 CloakBrowser 是從 Chromium C++ 原始碼層級修改指紋的隱形瀏覽器，通過 reCAPTCHA v3、Cloudflare Turnstile 等 30+ 偵測服務，一行 `from cloakbrowser import launch` 就能取代 Playwright。
 
 ## 快速導航
+
 
 - ⚡ [[網頁爬蟲]] · [[pentesting]]
 
@@ -104,19 +105,32 @@ await browser.close();
 - 與 [[KeygraphHQ-shannon|Shannon]] 互補：繞過 bot detection 是 AI 滲透測試的前置需求
 - 可搭配 Crawl4AI、browser-use、LangChain 等 AI agent framework 使用
 
+## 核心特色
+
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
+
 ## 相關概念
+
 
 - [[網頁爬蟲]] — 隱形瀏覽器是進階爬蟲的基礎設施
 - [[網頁爬蟲]] — 搭配 Crawl4AI 等 framework 使用
 - [[KeygraphHQ-shannon]] — 繞過 bot detection 是滲透測試的前置需求
 
+← [[網頁爬蟲]] · [[網頁爬蟲]] · [[KeygraphHQ-shannon]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/CloakHQ/CloakBrowser)
 - [原始資料](../raw/2026-05-18-CloakHQ-CloakBrowser.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/CloakHQ/CloakBrowser |
-| **收錄日期** | 2026-02-22 |
+| GitHub | https://github.com/CloakHQ/CloakBrowser |
+| Stars | ⭐28078|
+| License | 未標示 |
+| 收錄日期 | 2026-02-22 |

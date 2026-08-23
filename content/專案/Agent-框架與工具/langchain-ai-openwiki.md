@@ -10,9 +10,10 @@ topics: [documentation, wiki, agent-memory, deep-agents, code-wiki, personal-wik
 
 # OpenWiki
 
-> ⭐14.8k · 自我維護的 wiki CLI——Agent 讀你的程式碼，生成有連結的 Markdown wiki，每次變更自動更新。
+> ⭐14764 · 自我維護的 wiki CLI——Agent 讀你的程式碼，生成有連結的 Markdown wiki，每次變更自動更新。
 
 ## 快速導航
+
 - 🧠 [[llm-knowledge-base]] — 知識庫方法論，OpenWiki 是 code wiki + personal wiki 的實作
 - 🤖 [[AI-Agent]] — Agent 讀 wiki 作為記憶，Agent 寫 wiki 作為輸出
 - 🛠 [[harness-engineering]] — OpenWiki 自動維護 AGENTS.md 和 CLAUDE.md
@@ -80,14 +81,19 @@ CI 自動更新：將 `openwiki-update.yml` 複製到 `.github/workflows/` 即�
 | Mintlify | 文件平台 | Code | 手動 |
 
 ## 相關概念
+
 ← [[llm-knowledge-base]] · [[AI-Agent]] · [[harness-engineering]] · [[MCP]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/langchain-ai/deepagentsjs)
 - raw/2026-08-09-langchain-ai-openwiki.md
 
 ---
 
-- **GitHub**: https://github.com/langchain-ai/openwiki
-- **Stars**: ⭐14,764
-- **License**: MIT
-- **收錄日期**: 2026-08-09
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/langchain-ai/deepagentsjs |
+| Stars | ⭐14764|
+| License | MIT |
+| 收錄日期 | 2026-08-09 |

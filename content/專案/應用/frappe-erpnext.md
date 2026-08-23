@@ -18,11 +18,15 @@ ERPNext 是一個完全開源的 ERP 系統，將所有企業營運整合到單�
 
 ## 快速導航
 
+
 - ⚡ [[self-hosted]] · [[LLM]]
 
 ## 是什麼
 
-ERPNext 是一個 100% 開源的 ERP（企業資源規劃）系統，由 Frappe 團隊開發維護。它將會計、訂單管理、製造、資產管理、專案管理等企業營運功能整合到單一平台，完全免費使用。底層基於 Frappe Framework（Python/JavaScript 全端 web 框架）和 Frappe UI（Vue-based 元件庫），可透過 Frappe Cloud 託管或 Docker 自行部署。
+
+ERPNext 是一個 100% 開源的 ERP（企業資源規劃）系統，由 Frappe 團隊開發維護。
+
+它將會計、訂單管理、製造、資產管理、專案管理等企業營運功能整合到單一平台，完全免費使用。底層基於 Frappe Framework（Python/JavaScript 全端 web 框架）和 Frappe UI（Vue-based 元件庫），可透過 Frappe Cloud 託管或 Docker 自行部署。
 
 ## 核心特色
 
@@ -67,7 +71,10 @@ bench --site mysite.local serve
 
 ## 相關概念
 
+
 - [[LLM]] — 大語言模型生態
+
+← [[LLM]] · [[self-hosted]]
 
 ## 來源
 
@@ -76,10 +83,9 @@ bench --site mysite.local serve
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [frappe/erpnext](https://github.com/frappe/erpnext) |
-| Stars | ⭐34279 |
-| License | — |
-| Language | Python |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/frappe/erpnext |
+| Stars | ⭐34279|
+| License | 未標示 |
 | 收錄日期 | 2026-05-20 |

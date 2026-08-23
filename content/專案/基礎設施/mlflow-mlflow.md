@@ -10,9 +10,10 @@ topics: [agentops, agents, ai, ai-governance, apache-spark, evaluation, langchai
 
 # MLflow
 
-> ⭐27.5k · 開源 AI 工程平台，為 Agent、LLM 和 ML 模型提供除錯、評估、監控和優化的完整工具鏈，月下載量超過 6000 萬
+> ⭐27529 · 開源 AI 工程平台，為 Agent、LLM 和 ML 模型提供除錯、評估、監控和優化的完整工具鏈，月下載量超過 6000 萬
 
 ## 快速導航
+
 
 - 📊 **LLM 評測與監控** → [[langfuse-langfuse]] · [[observability]]
 - 🚪 **AI Gateway** → [[diegosouzapw-OmniRoute]] · [[AI-Gateway]]
@@ -80,7 +81,8 @@ client.responses.create(
 
 ## 相關概念
 
-← [[langfuse-langfuse]] · [[diegosouzapw-OmniRoute]] · [[promptfoo-promptfoo]] · [[AI-Gateway]] · [[observability]] · LLM 評測 · [[microsoft-autogen]] · [[CrewAI]]
+
+← [[langfuse-langfuse]] · [[diegosouzapw-OmniRoute]] · [[promptfoo-promptfoo]] · [[AI-Gateway]] · [[observability]] · [[microsoft-autogen]]
 
 ## 來源
 
@@ -91,10 +93,9 @@ client.responses.create(
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | mlflow/mlflow |
-| Stars | ⭐27.5k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/mlflow/mlflow |
+| Stars | ⭐27529|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-08-16 |

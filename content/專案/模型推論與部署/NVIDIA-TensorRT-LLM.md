@@ -10,16 +10,20 @@ topics: [LLM, 推論加速, GPU 最佳化]
 
 # TensorRT-LLM
 
-> ⭐13,598 · NVIDIA 官方的 LLM 推論加速框架，在 NVIDIA GPU 上提供高效能推論最佳化。13.6K ⭐。
+> ⭐13598 · NVIDIA 官方的 LLM 推論加速框架，在 NVIDIA GPU 上提供高效能推論最佳化。13.6K ⭐。
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（推論加速是 LLM 生產部署的關鍵）
 - ⚡ **推論加速** → [[llm-internals]]（TensorRT-LLM 實作了 Flash Attention、KV Cache、投機解碼等底層技術）
 - 🚀 **推論引擎比較** → [[vLLM]]、[[sgl-project-sglang|SGLang]]、[[llama-cpp|llama.cpp]]（同類推論框架）
 
 ## 是什麼
 
-TensorRT-LLM 是 NVIDIA 官方出品的 LLM 推論加速框架，用 Python API 定義模型，C++ runtime 高效執行。它深度最佳化 NVIDIA GPU 推論，支援 Tensor Core、多種量化、CUDA Graph，以及 Disaggregated Serving 和 Expert Parallelism 等生產級部署特性。對於在 NVIDIA GPU 上部署 LLM 推論服務的場景，TensorRT-LLM 提供了最極致的效能。
+
+TensorRT-LLM 是 NVIDIA 官方出品的 LLM 推論加速框架，用 Python API 定義模型，C++ runtime 高效執行。
+
+它深度最佳化 NVIDIA GPU 推論，支援 Tensor Core、多種量化、CUDA Graph，以及 Disaggregated Serving 和 Expert Parallelism 等生產級部署特性。對於在 NVIDIA GPU 上部署 LLM 推論服務的場景，TensorRT-LLM 提供了最極致的效能。
 
 ## 核心特色
 
@@ -71,22 +75,19 @@ python -m tensorrt_llm.entrypoints.openai.api_server --engine_dir ./engine
 | [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可管理 TensorRT-LLM 服務的模型路由 |
 
 ## 相關概念
+
 ← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/NVIDIA/TensorRT-LLM)
 - raw/2026-05-10-NVIDIA-TensorRT-LLM.md
 
 ---
 
-- **GitHub**: https://github.com/NVIDIA/TensorRT-LLM
-- **Stars**: ⭐13,598
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/NVIDIA/TensorRT-LLM |
-| **Stars** | ⭐13,598 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/NVIDIA/TensorRT-LLM |
+| Stars | ⭐13598|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

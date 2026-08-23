@@ -10,9 +10,10 @@ topics: [WhatsApp, API Gateway, 工作流自動化]
 
 # OpenWA — 開源 WhatsApp API Gateway
 
-> ⭐4.9k · 免費、開源、自架的 WhatsApp API Gateway，pluggable 架構，無 vendor lock-in
+> ⭐4864 · 免費、開源、自架的 WhatsApp API Gateway，pluggable 架構，無 vendor lock-in
 
 ## 快速導航
+
 
 - 🔄 **工作流自動化** → [[workflow-automation]]（搭配 n8n 做工作流自動化）
 - 🔒 **沙箱隔離** → [[sandbox]]（自架通訊閘道的隔離與安全考量）
@@ -20,7 +21,10 @@ topics: [WhatsApp, API Gateway, 工作流自動化]
 
 ## 是什麼
 
-OpenWA 是一個免費、開源、自架的 WhatsApp API Gateway。採用 pluggable 架構，透過 config 切換資料庫/儲存/快取後端，無 vendor lock-in。支援同一實例管理多個 WhatsApp 帳號，提供完整 REST API、Webhooks + HMAC 簽名、React 管理面板、API Key 認證 + Swagger 文件。
+
+OpenWA 是一個免費、開源、自架的 WhatsApp API Gateway。
+
+採用 pluggable 架構，透過 config 切換資料庫/儲存/快取後端，無 vendor lock-in。支援同一實例管理多個 WhatsApp 帳號，提供完整 REST API、Webhooks + HMAC 簽名、React 管理面板、API Key 認證 + Swagger 文件。
 
 ## 核心特色
 
@@ -63,14 +67,19 @@ npm run start
 
 ## 相關概念
 
+
 ← [[workflow-automation]] · [[sandbox]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/rmyndharis/OpenWA)
 - raw/2026-05-22-rmyndharis-OpenWA.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | ⭐4,864 | 待確認 | 2026-05-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/rmyndharis/OpenWA |
+| Stars | ⭐4864|
+| License | 未標示 |
+| 收錄日期 | 2026-05-22 |

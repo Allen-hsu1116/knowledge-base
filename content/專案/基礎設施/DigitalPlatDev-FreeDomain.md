@@ -10,14 +10,18 @@ topics: [免費域名, 自架, 開源]
 
 # DigitalPlat FreeDomain
 
-> ⭐167k+ · 完全免費的域名註冊服務，讓每個人都能擁有自己的數位身份
+> ⭐167376 · 完全免費的域名註冊服務，讓每個人都能擁有自己的數位身份
 
 ## 快速導航
+
 [[free-domain|免費域名]] · [[self-hosted|自架服務]] · DNS · [[open-source-business|開源商業模式]]
 
 ## 是什麼
 
-DigitalPlat FreeDomain 是一個由 DigitalPlat Foundation 維護的非營利免費域名註冊服務。提供 `.DPDNS.ORG`、`.US.KG`、`.QZZ.IO`、`.XX.KG`、`.QD.JE` 等多種免費頂級網域，可搭配 Cloudflare、FreeDNS 等第三方 DNS 服務自行託管。已有超過 50 萬個域名完成註冊。
+
+DigitalPlat FreeDomain 是一個由 DigitalPlat Foundation 維護的非營利免費域名註冊服務。
+
+提供 `.DPDNS.ORG`、`.US.KG`、`.QZZ.IO`、`.XX.KG`、`.QD.JE` 等多種免費頂級網域，可搭配 Cloudflare、FreeDNS 等第三方 DNS 服務自行託管。已有超過 50 萬個域名完成註冊。
 
 ## 核心特色
 
@@ -56,7 +60,8 @@ DigitalPlat FreeDomain 是一個由 DigitalPlat Foundation 維護的非營利免
 | 購買傳統域名 | — | 域名服務 | ❌ | ✅ | ❌ |
 
 ## 相關概念
-← [[free-domain|免費域名]] · [[self-hosted|自架服務]] · DNS · [[open-source-business|開源商業模式]]
+
+← [[free-domain]] · [[self-hosted]] · [[open-source-business]]
 
 ## 來源
 
@@ -66,10 +71,9 @@ DigitalPlat FreeDomain 是一個由 DigitalPlat Foundation 維護的非營利免
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) |
-| Stars | ⭐167,376 |
-| License | — |
-| Language | HTML |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/DigitalPlatDev/FreeDomain |
+| Stars | ⭐167376|
+| License | 未標示 |
 | 收錄日期 | 2026-05-27 |

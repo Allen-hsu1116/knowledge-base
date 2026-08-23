@@ -5,14 +5,15 @@ created: 2026-07-15
 updated: 2026-07-15
 stars: 5.2k
 language: TypeScript
-topics: AI-Tutoring, LLM, Deep-Learning, Computer-Vision, NLP, Reinforcement-Learning, MCP, Machine-Learning
+topics: ["AI-Tutoring", "LLM", "Deep-Learning", "Computer-Vision", "NLP", "Reinforcement-Learning", "MCP", "Machine-Learning"]
 ---
 
 # Maths, CS & AI Compendium
 
-> ⭐5.2k · Henry Ndubuaku · TypeScript · Apache-2.0 — 開源非傳統教科書，從基礎到進階涵蓋數學、計算機科學與 AI，18 章完整內容 + MCP Server 知識庫。
+> ⭐5200 · Apache-2.0 — 開源非傳統教科書，從基礎到進階涵蓋數學、計算機科學與 AI，18 章完整內容 + MCP Server 知識庫。
 
 ## 快速導航
+
 
 - 📖 **AI Tutoring** → [[AI-Tutoring|AI Tutoring]] — AI 技術實現個人化教學
 - 🧠 **LLM** → [[LLM|LLM]] — 大語言模型基礎
@@ -77,7 +78,8 @@ Compendium 的獨特定位是「全棧 + 直覺 + MCP」——其他資源專注
 
 
 ## 相關概念
-← [[AI-Tutoring|AI Tutoring]] · [[llm-knowledge-base|LLM 知識庫]] · [[MCP|MCP]]
+
+← [[AI-Tutoring]] · [[llm-knowledge-base]] · [[MCP]]
 
 ## 來源
 
@@ -89,10 +91,9 @@ Compendium 的獨特定位是「全棧 + 直覺 + MCP」——其他資源專注
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | HenryNdubuaku/maths-cs-ai-compendium |
-| Stars | ⭐5.2k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/HenryNdubuaku/maths-cs-ai-compendium |
+| Stars | ⭐5200|
 | License | Apache-2.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-15 |

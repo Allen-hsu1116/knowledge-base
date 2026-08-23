@@ -5,14 +5,15 @@ created: 2026-07-06
 updated: 2026-07-06
 stars: 48.4k
 language: Python
-topics: awesome-list, claude-code, agent-skills, coding-agent, llm
+topics: ["awesome-list", "claude-code", "agent-skills", "coding-agent", "llm"]
 ---
 
 # Awesome Claude Code
 
-> ⭐48.4k · 精心策展的 Claude Code 資源合集——skills、agents、status lines、開發者工具、plugins
+> ⭐48400 · 精心策展的 Claude Code 資源合集——skills、agents、status lines、開發者工具、plugins
 
 ## 快速導航
+
 
 - 🤖 **Claude Code** → [[anthropics-claude-code|Claude Code]]
 - 🛠 **AI Skills** → [[AI-Skills|AI Skills]]
@@ -70,7 +71,8 @@ Awesome Claude Code 是 Claude Code 生態系中最全面的策展列表之一�
 
 ## 相關概念
 
-← [[anthropics-claude-code] · [[AI-Skills] · [[AI-Agent] · [[Coding-Agent-CLI] · [[ComposioHQ-awesome-claude-skills]
+
+← [[anthropics-claude-code]] · [[AI-Skills]]
 
 ## 來源
 
@@ -79,10 +81,9 @@ Awesome Claude Code 是 Claude Code 生態系中最全面的策展列表之一�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/hesreallyhim/awesome-claude-code |
-| **Stars** | ⭐ 48,361 |
-| **License** | NOASSERTION |
-| **Language** | Python |
-| **收錄日期** | 2026-07-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hesreallyhim/awesome-claude-code |
+| Stars | ⭐48400|
+| License | NOASSERTION |
+| 收錄日期 | 2026-07-06 |

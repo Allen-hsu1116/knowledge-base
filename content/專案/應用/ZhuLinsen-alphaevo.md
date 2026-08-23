@@ -10,14 +10,18 @@ topics: [策略回測, 金融預測, 自演化]
 
 # AlphaEvo
 
-> ⭐38.1k · 策略回測與自我進化引擎，Daily Stock Analysis 生態系的驗證子專案
+> ⭐38100 · 策略回測與自我進化引擎，Daily Stock Analysis 生態系的驗證子專案
 
 ## 快速導航
+
 [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] · [[ZhuLinsen-alphasift|AlphaSift]] · [[financial-forecasting|金融預測]] · [[backtesting|回測]]
 
 ## 是什麼
 
-AlphaEvo 是 [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] 生態系中的策略回測引擎，負責驗證選股訊號和策略的自我進化。AlphaSift 做初篩，AlphaEvo 做驗證——兩者構成了 Daily Stock Analysis 的量化策略閉環。透過回測評估策略表現，並以迭代探索優化策略參數與組合。
+
+AlphaEvo 是 [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] 生態系中的策略回測引擎，負責驗證選股訊號和策略的自我進化。
+
+AlphaSift 做初篩，AlphaEvo 做驗證——兩者構成了 Daily Stock Analysis 的量化策略閉環。透過回測評估策略表現，並以迭代探索優化策略參數與組合。
 
 ## 核心特色
 
@@ -62,7 +66,8 @@ python main.py --stocks 600519,hk00700,AAPL --backtest
 > *Stars 數為 Daily Stock Analysis 主專案數據
 
 ## 相關概念
-← [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] · [[ZhuLinsen-alphasift|AlphaSift]] · [[financial-forecasting|金融預測]] · [[backtesting|回測]]
+
+← [[ZhuLinsen-daily_stock_analysis]] · [[ZhuLinsen-alphasift]] · [[financial-forecasting]] · [[backtesting]]
 
 ## 來源
 
@@ -72,12 +77,9 @@ python main.py --stocks 600519,hk00700,AAPL --backtest
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [ZhuLinsen/alphaevo](https://github.com/ZhuLinsen/alphaevo) |
-| Stars | ⭐38,100* |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ZhuLinsen/daily_stock_analysis |
+| Stars | ⭐38100|
 | License | MIT |
-| Language | Python |
-| 收錄日期 | 2026-05-28 |
-
-> *Stars 數為 Daily Stock Analysis 主專案數據
+| 收錄日期 | 2026-05-21 |

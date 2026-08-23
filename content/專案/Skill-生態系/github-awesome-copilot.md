@@ -15,9 +15,10 @@ topics:
 
 # Awesome GitHub Copilot
 
-> ⭐35.8k · GitHub Copilot 社群貢獻的 Agent、Skill、Hook、Workflow 和 Plugin 集合
+> ⭐35791 · GitHub Copilot 社群貢獻的 Agent、Skill、Hook、Workflow 和 Plugin 集合
 
 ## 快速導航
+
 - 🧠 **AI Skills** → [[AI-Skills]]
 - 🔧 **Claude Code** → [[anthropics-claude-code|Claude Code]]
 - 🔌 **MCP** → [[MCP]]
@@ -70,6 +71,7 @@ copilot plugin install <plugin-name>@awesome-copilot
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[anthropics-claude-code]] · [[MCP]]
 
 ## 來源
@@ -79,10 +81,9 @@ copilot plugin install <plugin-name>@awesome-copilot
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [github/awesome-copilot](https://github.com/github/awesome-copilot) |
-| Stars | ⭐35,791 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/github/awesome-copilot |
+| Stars | ⭐35791|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-27 |

@@ -10,9 +10,10 @@ topics: [Agent, RLM, Self-Improving, Coding Agent, Long-Running, Subagent, Harne
 
 # Prime Agent
 
-> ⭐6.5k · 自我進化的 RLM Agent——持久 IPython 環境 + 可精煉的 Continual Harness + 內建子 Agent + 背景守護行程
+> ⭐6544 · 自我進化的 RLM Agent——持久 IPython 環境 + 可精煉的 Continual Harness + 內建子 Agent + 背景守護行程
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — Prime Agent 是具備自我進化能力的 Coding/Research Agent
 - 🧠 [[harness-engineering]] — Continual Harness 是 Harness Engineering 的進一步演化，支援 `/refine` 自動精煉
@@ -80,6 +81,7 @@ prime-agent shutdown [--force]       # 停止所有 agent、worker 和背景服�
 
 ## 跟其他方案的關係
 
+
 Prime Agent 與其他 Coding/Research Agent 的比較：
 
 - **Prime Agent** — RLM + Continual Harness，持久 IPython，`/refine` 自我精煉，內建子 Agent，背景守護，Agent 間直接通訊
@@ -94,12 +96,20 @@ Prime Agent 與其他 Coding/Research Agent 的比較：
 
 Prime Agent 的獨特之處在於 RLM 把 context 當變數、把子 Agent 當函式呼叫的程式化範式，以及 Continual Harness 讓 harness 可以像程式碼一樣持續迭代——這兩個原語讓「自我進化」成為架構級別的能力，而非附加功能。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[anthropics-claude-code]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[anomalyco-opencode]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[harness-engineering]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/earendil-works/pi)
 - raw/2026-08-08-PrimeIntellect-ai-prime-agent.md
 - GitHub: https://github.com/PrimeIntellect-ai/prime-agent
 - RLM blog: https://www.primeintellect.ai/blog/rlm
@@ -107,10 +117,9 @@ Prime Agent 的獨特之處在於 RLM 把 context 當變數、把子 Agent 當�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/PrimeIntellect-ai/prime-agent |
-| **Stars** | ⭐6,544 |
-| **License** | MIT |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-08-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/earendil-works/pi |
+| Stars | ⭐6544|
+| License | MIT |
+| 收錄日期 | 2026-08-08 |

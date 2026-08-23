@@ -10,18 +10,19 @@ topics: [AI Skills, AI Agent, Prompt Engineering]
 
 # Hyperframes
 
-> ⭐18,926 · Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
+> ⭐18926 · Write HTML. Render video. Built for agents. HeyGen 開源的影片渲染框架，HTML-native + AI-first，同一份 HTML 即是預覽也是最終渲染。
 
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/heygen-com/hyperframes |
-| Stars | ⭐18,926 |
+| Stars | ⭐18926|
 | Language | TypeScript |
 | 建立日期 | 2026-03-10 |
 | 授權 | Apache-2.0 |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（Hyperframes 是 Agent-first 的影片生成工具）
 - 🛠 **AI Skills** → [[AI-Skills]]（以 Skills 格式教 Agent 寫影片 composition）
@@ -87,11 +88,19 @@ npx hyperframes render    # 渲染 MP4
 
 ## 跟其他方案的關係
 
+
 Hyperframes 把 [[AI-Agent]] 的 HTML 能力直接轉換成影片生成能力，是 [[AI-Skills]] 生態系的影片工具。Agent 透過 skill 學會寫 composition，CLI 非互動設計適合 Agent 驅動的 [[Prompt-Engineering]] 工作流。
 
 跟 Remotion 的核心差異：Remotion 用 React component 寫 composition（需要 React 知識），Hyperframes 用純 HTML（Agent 本來就會）。兩者都用 headless Chrome + 確定性渲染，但 Hyperframes 的「HTML-native」決定讓 AI Agent 的入門門檻降到最低。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[Prompt-Engineering]]
 
@@ -102,9 +111,9 @@ Hyperframes 把 [[AI-Agent]] 的 HTML 能力直接轉換成影片生成能力，
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
-| Stars | ⭐18,926 |
-| License | — |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/heygen-com/hyperframes |
+| Stars | ⭐18926 |
+| License | 未標示 |
 | 收錄日期 | 2026-03-10 |

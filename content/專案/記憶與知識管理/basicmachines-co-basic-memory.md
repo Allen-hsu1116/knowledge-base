@@ -10,9 +10,10 @@ topics: [AI 記憶, MCP, Markdown, 知識圖譜, 語意搜尋]
 
 # Basic Memory
 
-> ⭐3.2k · AI 永遠不忘，Markdown 即記憶，MCP 原生，你和 AI 讀寫同一份檔案
+> ⭐3215 · AI 永遠不忘，Markdown 即記憶，MCP 原生，你和 AI 讀寫同一份檔案
 
 ## 快速導航
+
 [[mem0ai-mem0|Mem0]] · [[MCP]] · [[Knowledge-Graph|知識圖譜]] · [[rag]]
 
 ## 是什麼
@@ -84,7 +85,8 @@ Basic Memory 的 Markdown 檔案與 Obsidian 直接相容。在 Obsidian 中開�
 | [[refactoringhq-tolaria|Tolaria]] | ⭐14k | 知識庫管理 | Markdown | ❌ | 部分 | ❌ |
 
 ## 相關概念
-← [[mem0ai-mem0|Mem0]] · [[MCP]] · [[Knowledge-Graph|知識圖譜]] · [[rag]]
+
+← [[mem0ai-mem0]] · [[MCP]] · [[Knowledge-Graph]] · [[rag]]
 
 ## 來源
 
@@ -93,10 +95,9 @@ Basic Memory 的 Markdown 檔案與 Obsidian 直接相容。在 Obsidian 中開�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) |
-| Stars | ⭐3,215 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/basicmachines-co/basic-memory |
+| Stars | ⭐3215|
 | License | AGPL-3.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-13 |

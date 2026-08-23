@@ -10,9 +10,10 @@ topics: [RAG, 本地搜尋引擎, MCP]
 
 # QMD
 
-> ⭐24.9k · 本地優先的混合搜尋引擎，BM25 + 向量 + LLM 重排序全部跑在裝置上，為你的筆記、文件、會議紀錄而生。
+> ⭐24863 · 本地優先的混合搜尋引擎，BM25 + 向量 + LLM 重排序全部跑在裝置上，為你的筆記、文件、會議紀錄而生。
 
 ## 快速導航
+
 
 - [[rag|RAG（檢索增強生成）]] — QMD 是 RAG 流程中的檢索層
 - [[向量資料庫]] — 向量搜尋的基礎設施
@@ -20,7 +21,10 @@ topics: [RAG, 本地搜尋引擎, MCP]
 
 ## 是什麼
 
-QMD 是 Shopify 創辦人 Tobi Lütke 開發的本地搜尋引擎 CLI 工具。它把你的 Markdown 筆記、會議紀錄、文件建立索引，支援關鍵字搜尋（BM25）、語意搜尋（向量嵌入）、和 LLM 重排序三種模式，全部在本地執行，不需要呼叫雲端 API。
+
+QMD 是 Shopify 創辦人 Tobi Lütke 開發的本地搜尋引擎 CLI 工具。
+
+它把你的 Markdown 筆記、會議紀錄、文件建立索引，支援關鍵字搜尋（BM25）、語意搜尋（向量嵌入）、和 LLM 重排序三種模式，全部在本地執行，不需要呼叫雲端 API。
 
 ## 核心特色
 
@@ -70,24 +74,25 @@ QMD 的定位是**個人/小型團隊的本地搜尋引擎**，跟 RAGFlow（大
 
 ## 相關概念
 
+
 - [[rag]] — 檢索增強生成
 - [[向量資料庫]] — 向量儲存與檢索
 - [[MCP]] — Model Context Protocol，QMD 的 Agent 整合介面
 - [[cocoindex]] — 增量索引管線
 - [[ragflow]] — 開源 RAG 引擎
 
+← [[rag]] · [[向量資料庫]] · [[MCP]] · [[cocoindex]] · [[ragflow]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/tobi/qmd)
 - raw/2026-05-15-qmd.md
 
 ---
 
-GitHub: https://github.com/tobi/qmd | Stars: ⭐24,863 | License: MIT | 收錄日期: 2026-05-15
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/tobi/qmd |
-| **Stars** | ⭐24,863 |
-| **收錄日期** | 2026-05-15 |
+| GitHub | https://github.com/tobi/qmd |
+| Stars | ⭐24863|
+| License | MIT |
+| 收錄日期 | 2026-05-15 |

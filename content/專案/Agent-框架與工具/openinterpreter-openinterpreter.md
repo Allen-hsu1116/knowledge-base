@@ -5,14 +5,15 @@ created: 2026-07-16
 updated: 2026-07-16
 stars: 65.5k
 language: Rust
-topics: Coding-Agent-CLI, Agent-Harness, LLM, Computer-Use, MCP, ACP, Sandbox
+topics: ["Coding-Agent-CLI", "Agent-Harness", "LLM", "Computer-Use", "MCP", "ACP", "Sandbox"]
 ---
 
 # Open Interpreter
 
-> ⭐65.5k · openinterpreter · Rust · Apache-2.0 — 基於 OpenAI Codex 分支的低成本模型 Coding Agent，支援多 Harness 模擬、原生沙箱、QA 測試與 ACP 協議。
+> ⭐65500 · Apache-2.0 — 基於 OpenAI Codex 分支的低成本模型 Coding Agent，支援多 Harness 模擬、原生沙箱、QA 測試與 ACP 協議。
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]] — 終端 AI 編碼代理概念
 - 🧠 **LLM** → [[LLM|LLM]] — 大語言模型基礎
@@ -85,6 +86,7 @@ interpreter acp
 
 ## 跟其他方案的關係
 
+
 - **Open Interpreter vs [[anthropics-claude-code|Claude Code]]**
 Open Interpreter 是 Codex 分支，Claude Code 是 Anthropic 官方產品。Open Interpreter 專注低成本模型，Claude Code 專注 Claude 模型。
 - **Open Interpreter vs [[anomalyco-opencode|OpenCode]]**
@@ -92,9 +94,15 @@ Open Interpreter 是 Codex 分支，Claude Code 是 Anthropic 官方產品。Ope
 - **Open Interpreter vs [[OpenHands-OpenHands|OpenHands]]**
 OpenHands 是多後端 Agent 控制中心，Open Interpreter 更偏向終端原生體驗與 Harness 切換。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[anthropics-claude-code]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[anomalyco-opencode]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
-← [[Coding-Agent-CLI|Coding Agent CLI]] · [[harness-engineering|Harness Engineering]] · [[LLM|LLM]] · [[MCP|MCP]]
+
+← [[Coding-Agent-CLI]] · [[harness-engineering]] · [[LLM]] · [[MCP]]
 
 ## 來源
 
@@ -106,10 +114,9 @@ OpenHands 是多後端 Agent 控制中心，Open Interpreter 更偏向終端原�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | openinterpreter/openinterpreter |
-| Stars | ⭐65.5k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/openinterpreter/openinterpreter |
+| Stars | ⭐65500|
 | License | Apache-2.0 |
-| Language | Rust |
 | 收錄日期 | 2026-07-16 |

@@ -30,6 +30,7 @@ Self-Correction（自我修正）是指語言模型在無人工介入的情況�
 
 ## 各框架的做法
 
+
 - **Self-RAG** → 在 RAG 流程中加入自我審查反思 token，檢索層的自我修正
   👉 詳見 [[self-rag]]
 - **Agent 工作流** → Generation + Verification 是 Agent 自我修正的 workflow 層實現
@@ -38,6 +39,10 @@ Self-Correction（自我修正）是指語言模型在無人工介入的情況�
   👉 詳見 [[harness-engineering]]
 - **Prompt 安全** → 自我修正可用於偵測 prompt injection 攻擊
   👉 詳見 [[prompt-security]]
+- **Autoresearch** → 用外部評測結果驅動反覆實驗與修正
+  👉 詳見 [[autoresearch]]
+- **Promptfoo** → 以自動化測試和評測資料提供可靠外部回饋
+  👉 詳見 [[promptfoo-promptfoo]]
 
 ## 相關概念
 

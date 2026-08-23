@@ -22,9 +22,10 @@ topics:
 
 # Text-to-CAD
 
-> ⭐10.0k · CAD、機器人與硬體設計的 Agent Skills 庫，從自然語言生成 STEP/STL/3MF/GLB/DXF/URDF 等工程檔案
+> ⭐9980 · CAD、機器人與硬體設計的 Agent Skills 庫，從自然語言生成 STEP/STL/3MF/GLB/DXF/URDF 等工程檔案
 
 ## 快速導航
+
 
 - 🛠 **AI Skills** → [[AI-Skills]]
 - 🤖 **AI Agent** → [[AI-Agent]]
@@ -85,6 +86,7 @@ Text-to-CAD 是目前唯一將 Agent Skills 延伸到實體硬體設計與製造
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[AI-Agent]] · [[MCP]]
 
 ## 來源
@@ -96,10 +98,9 @@ Text-to-CAD 是目前唯一將 Agent Skills 延伸到實體硬體設計與製造
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) |
-| Stars | ⭐9,980 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/earthtojake/text-to-cad |
+| Stars | ⭐9980|
 | License | MIT |
-| Language | JavaScript |
 | 收錄日期 | 2026-07-24 |

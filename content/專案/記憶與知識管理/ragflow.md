@@ -10,13 +10,14 @@ topics: [RAG, AI Agent]
 
 # RAGFlow
 
-> ⭐79,665 · 領先的開源 RAG+Agent 引擎，深度文件理解 + 模板化分塊 + 接地引用，有 OpenClaw Skill 可直接操作。（詳細參考頁）
+> ⭐84833 · 領先的開源 RAG+Agent 引擎，深度文件理解 + 模板化分塊 + 接地引用，有 OpenClaw Skill 可直接操作。（詳細參考頁）
 
 ## 專案資訊
 
 - **GitHub**: [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 ## 快速導航
+
 - 📚 **知識方法論** → [[llm-knowledge-base]]（RAG 是知識庫的工業級實作）
 - 📄 **文件解析** → [[docling]]（RAGFlow 支援 Docling 作為解析器）
 - 🔄 **增量索引** → [[cocoindex]]（同為 RAG 管線生態）
@@ -25,7 +26,10 @@ topics: [RAG, AI Agent]
 
 ## 是什麼
 
-RAGFlow 是一個開源 RAG + Agent 引擎，融合收斂式上下文引擎和預建 Agent 模板，把非結構化資料轉成高保真、生產就緒的 AI 系統。它解決的核心問題是：如何讓 LLM 可靠地使用外部文件知識，而不產生幻覺。
+
+RAGFlow 是一個開源 RAG + Agent 引擎，融合收斂式上下文引擎和預建 Agent 模板，把非結構化資料轉成高保真、生產就緒的 AI 系統。
+
+它解決的核心問題是：如何讓 LLM 可靠地使用外部文件知識，而不產生幻覺。
 
 ## 核心特色
 
@@ -91,14 +95,19 @@ docker compose -f docker/docker-compose.yml up -d
 - 40k+ stars
 
 ## 相關概念
+
 ← [[llm-knowledge-base]] · [[docling]] · [[openclaw]] · [[cocoindex]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/infiniflow/ragflow)
 - raw/2026-05-03-ragflow.md
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/infiniflow/ragflow |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/infiniflow/ragflow |
+| Stars | ⭐84833|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

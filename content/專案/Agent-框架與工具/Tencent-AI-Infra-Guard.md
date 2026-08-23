@@ -16,9 +16,10 @@ topics:
 
 # AI-Infra-Guard
 
-> ⭐5.0k · 騰訊朱雀實驗室開源的全棧 AI 紅隊平台，統一掃描 Agent、Skills、MCP、AI 基礎設施與 LLM 越獄風險。
+> ⭐4967 · 騰訊朱雀實驗室開源的全棧 AI 紅隊平台，統一掃描 Agent、Skills、MCP、AI 基礎設施與 LLM 越獄風險。
 
 ## 快速導航
+
 
 - 🛡️ **Prompt 安全與越獄** → [[prompt-security]]
 - 🔌 **MCP** → [[MCP]]
@@ -75,6 +76,7 @@ A.I.G 偏向主動發現與評估，dcg 偏向執行期阻擋；兩者可以互�
 
 ## 相關概念
 
+
 ← [[prompt-security]] · [[MCP]] · [[AI-Skills]] · [[pentesting]]
 
 ## 來源
@@ -88,7 +90,6 @@ A.I.G 偏向主動發現與評估，dcg 偏向執行期阻擋；兩者可以互�
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/Tencent/AI-Infra-Guard |
-| Stars | ⭐4,967 |
+| Stars | ⭐4967|
 | License | Apache-2.0（含 NOTICE 與產品歸屬要求） |
-| Language | Python |
 | 收錄日期 | 2026-08-21 |

@@ -10,9 +10,10 @@ topics: [ai, cuda, whisper, mlx, voice-ai, voice-clone, qwen3-tts]
 
 # Voicebox
 
-> ⭐31k · 開源 AI 語音工作室——語音克隆、TTS、聽寫、MCP Agent 語音輸出，本地優先一站式搞定。
+> ⭐31021 · 開源 AI 語音工作室——語音克隆、TTS、聽寫、MCP Agent 語音輸出，本地優先一站式搞定。
 
 ## 快速導航
+
 [[OpenBMB-VoxCPM|VoxCPM]] · [[microsoft-VibeVoice|VibeVoice]] · [[MCP]] · [[Open-LLM-VTuber-Open-LLM-VTuber|Open-LLM-VTuber]]
 
 ## 是什麼
@@ -81,7 +82,8 @@ curl -X POST http://127.0.0.1:17493/transcribe \
 
 ## 相關概念
 
-← [[OpenBMB-VoxCPM|VoxCPM]] · [[microsoft-VibeVoice|VibeVoice]] · [[MCP]] · [[Open-LLM-VTuber-Open-LLM-VTuber|Open-LLM-VTuber]]
+
+← [[OpenBMB-VoxCPM]] · [[microsoft-VibeVoice]] · [[MCP]] · [[Open-LLM-VTuber-Open-LLM-VTuber]]
 
 ## 來源
 
@@ -93,10 +95,9 @@ curl -X POST http://127.0.0.1:17493/transcribe \
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) |
-| Stars | ⭐31,021 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jamiepine/voicebox |
+| Stars | ⭐31021|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-21 |

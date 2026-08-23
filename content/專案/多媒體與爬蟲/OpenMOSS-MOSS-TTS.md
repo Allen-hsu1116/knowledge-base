@@ -10,9 +10,10 @@ topics: [TTS, 語音合成, 語音克隆, 多語言]
 
 # MOSS-TTS — 語音合成模型家族
 
-> ⭐2.2k · OpenMOSS 團隊的開源語音與音效生成模型家族，涵蓋長語音合成、多說話者對話、語音設計、音效生成和即時串流 TTS。
+> ⭐2241 · OpenMOSS 團隊的開源語音與音效生成模型家族，涵蓋長語音合成、多說話者對話、語音設計、音效生成和即時串流 TTS。
 
 ## 快速導航
+
 [[語音辨識]] · [[模型推論與部署]] · [[rag|RAG]]
 
 ## 是什麼
@@ -87,7 +88,8 @@ audio.save("output.wav")
 | Fish Speech | ⭐15k+ | 開源 TTS | 多語言語音克隆 | 串流推論 |
 
 ## 相關概念
-← [[語音辨識]] · [[模型推論與部署]] · [[embedded-AI|邊緣裝置 AI]]
+
+← [[語音辨識]] · [[模型推論與部署]] · [[embedded-AI]]
 
 ## 來源
 
@@ -96,10 +98,9 @@ audio.save("output.wav")
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) |
-| Stars | ⭐2,241 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/OpenMOSS/MOSS-TTS |
+| Stars | ⭐2241|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-05-29 |

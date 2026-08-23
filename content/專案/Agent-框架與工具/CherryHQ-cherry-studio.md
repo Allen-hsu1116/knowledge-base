@@ -10,9 +10,10 @@ topics: [ai-agent, agent-skills, claude-code, codex, deepseek, hermes-agent, ope
 
 # Cherry Studio
 
-> ⭐47.3k · AI 生產力工作室，300+ 預設助手，整合多家 LLM 提供商，支援自主 Agent 和多模型對話。
+> ⭐47327 · AI 生產力工作室，300+ 預設助手，整合多家 LLM 提供商，支援自主 Agent 和多模型對話。
 
 ## 快速導航
+
 [[open-webui-open-webui|Open WebUI]] · [[langgenius-dify|Dify]] · [[AI-Agent|AI Agent]]
 
 ## 是什麼
@@ -64,7 +65,8 @@ docker run -d -p 8080:8080 cherryhq/cherry-studio
 | Jan | 桌面客戶端 | ✅ 本地 | ❌ | ❌ | ✅ 內建 |
 
 ## 相關概念
-← [[open-webui-open-webui|Open WebUI]] · [[langgenius-dify|Dify]]
+
+← [[open-webui-open-webui]] · [[langgenius-dify]]
 
 ## 來源
 
@@ -74,10 +76,9 @@ docker run -d -p 8080:8080 cherryhq/cherry-studio
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) |
-| Stars | ⭐47,327 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/CherryHQ/cherry-studio |
+| Stars | ⭐47327|
 | License | AGPL-3.0 |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-15 |
+| 收錄日期 | 2024-05-24 |

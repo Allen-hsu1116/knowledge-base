@@ -10,9 +10,10 @@ topics: [AI 陪伴, VTuber, Live2D, 語音互動, 離線]
 
 # Open-LLM-VTuber
 
-> ⭐8.4k · 開源語音互動 AI 陪伴系統，支援實時語音對話、Live2D 虛擬形象，完全離線跨平台運行
+> ⭐8356 · 開源語音互動 AI 陪伴系統，支援實時語音對話、Live2D 虛擬形象，完全離線跨平台運行
 
 ## 快速導航
+
 [[Open-LLM-VTuber-Open-LLM-VTuber]] · [[語音辨識]] · [[模型推論與部署|Ollama]] · [[self-hosted]]
 
 ## 是什麼
@@ -68,7 +69,8 @@ v1.0.0 有 breaking changes，建議重新部署而非原地升級。
 | [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | LLM Web UI | RAG + 多模型管理 | ✅ |
 
 ## 相關概念
-← [[語音辨識]] · [[self-hosted]] · [[模型推論與部署|Ollama]]
+
+← [[語音辨識]] · [[self-hosted]] · [[模型推論與部署]] · [[Open-LLM-VTuber-Open-LLM-VTuber]]
 
 ## 來源
 
@@ -77,10 +79,9 @@ v1.0.0 有 breaking changes，建議重新部署而非原地升級。
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/open-llm-vtuber) |
-| Stars | ⭐8,356 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Open-LLM-VTuber/Open-LLM-VTuber |
+| Stars | ⭐8356|
 | License | MIT (code), Live2D models under separate license |
-| Language | Python |
 | 收錄日期 | 2026-06-03 |

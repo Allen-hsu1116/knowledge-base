@@ -10,9 +10,10 @@ topics: [AI Skills, 程式碼優化]
 
 # CodeBurn
 
-> ⭐5.9 · 跨 18 種 AI coding 工具的 token 用量、成本與效能追蹤儀表板。完全本地執行，不需代理、不需 API key。⭐5.9K
+> ⭐6 · 跨 18 種 AI coding 工具的 token 用量、成本與效能追蹤儀表板。完全本地執行，不需代理、不需 API key。⭐5.9K
 
 ## 快速導航
+
 - 💻 **Coding Agent CLI** → [[Coding-Agent-CLI]]（CodeBurn 追蹤 coding agent 的 token 和成本）
 - ⚡ **Token 優化** → [[Token-Optimization]]（CodeBurn 的 optimize 功能偵測 token 浪費）
 - 📊 **AI Agent 影響** → [[ai-agent-work-impact]]（CodeBurn 的 yield 功能量化 AI 投資回報率）
@@ -67,23 +68,19 @@ codeburn yield
 
 ## 相關概念
 
+
 ← [[Coding-Agent-CLI]] · [[Token-Optimization]] · [[ai-agent-work-impact]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/getagentseal/codeburn)
 - raw/2026-05-09-codeburn.md
 
 ---
 
-- **GitHub**: https://github.com/getagentseal/codeburn
-- **Stars**: ⭐5,885
-- **License**: MIT
-- **收錄日期**: 2026-05-09
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/getagentseal/codeburn |
-| **Stars** | ⭐'⭐5.9' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/getagentseal/codeburn |
+| Stars | ⭐6|
+| License | MIT |
+| 收錄日期 | 2026-05-09 |

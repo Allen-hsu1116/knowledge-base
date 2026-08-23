@@ -5,14 +5,15 @@ created: 2026-07-02
 updated: 2026-07-02
 stars: 18.2k
 language: Python
-topics: OCR, PDF, VLM, Document-Parsing, LLM-Dataset
+topics: ["OCR", "PDF", "VLM", "Document-Parsing", "LLM-Dataset"]
 ---
 
 # olmOCR
 
-> ⭐18.2k · Allen Institute for AI (Ai2) · Python
+> ⭐18200 · Python
 
 ## 快速導航
+
 
 - 📄 **文件解析** → [[document-parsing|文件解析]]
 - 🧠 **RAG** → [[rag|RAG]]
@@ -85,7 +86,8 @@ olmOCR 是 [[document-parsing|文件解析]] 領域的頂級方案之一，專�
 
 ## 相關概念
 
-← [[document-parsing|文件解析]] · [[rag|RAG]] · OCR · [[opendatalab-MinerU|MinerU]]
+
+← [[document-parsing]] · [[rag]] · [[opendatalab-MinerU]]
 
 ## 來源
 
@@ -97,10 +99,9 @@ olmOCR 是 [[document-parsing|文件解析]] 領域的頂級方案之一，專�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/allenai/olmocr |
-| **Stars** | ⭐18,267 |
-| **License** | Apache-2.0 |
-| **Language** | Python |
-| **收錄日期** | 2026-07-02 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/allenai/olmocr |
+| Stars | ⭐18200|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-02 |

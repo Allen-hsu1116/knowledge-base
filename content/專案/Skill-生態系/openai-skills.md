@@ -10,9 +10,10 @@ topics: [AI Skills, Figma, Design System]
 
 # OpenAI Skills
 
-> ⭐21.7k · OpenAI 官方 Skills Catalog for Codex，包含 Figma 工作流和設計實作的系列 Skill。
+> ⭐21702 · OpenAI 官方 Skills Catalog for Codex，包含 Figma 工作流和設計實作的系列 Skill。
 
 ## 快速導航
+
 
 - 🎨 [[Figma-Skills]] · 🤖 [[AI-Skills]] · [[AI-Skills]]
 - 🖌️ [[frontend-design]] · [[softaworks-agent-toolkit|Design System Starter]]
@@ -227,6 +228,7 @@ Skills 會自動根據觸發條件載入，不需要手動指定。
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[Figma-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
@@ -241,10 +243,9 @@ Skills 會自動根據觸發條件載入，不需要手動指定。
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | [openai/skills](https://github.com/openai/skills) |
-| Stars | 21,702 |
-| 語言 | Python |
+| GitHub | https://github.com/openai/skills |
+| Stars | ⭐21702|
 | License | 未指定 |
 | 收錄日期 | 2026-06-08 |

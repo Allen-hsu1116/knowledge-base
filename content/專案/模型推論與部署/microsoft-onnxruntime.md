@@ -10,9 +10,10 @@ topics: [onnx, inference, training, hardware-acceleration, cross-platform]
 
 # ONNX Runtime
 
-> ⭐21.5k · Microsoft 維護的跨平台機器學習推論與訓練加速器，透過 ONNX 將不同框架模型部署到多種硬體後端。
+> ⭐21451 · Microsoft 維護的跨平台機器學習推論與訓練加速器，透過 ONNX 將不同框架模型部署到多種硬體後端。
 
 ## 快速導航
+
 
 - 🚀 [[模型推論與部署]] — 把訓練完成的模型轉成高效、可攜的執行服務
 - 🧠 [[LLM]] — Transformer 與其他深度學習模型可透過 ONNX 圖執行
@@ -73,6 +74,7 @@ ORT 不是模型伺服器本身，而是可嵌入產品的執行引擎；vLLM、
 
 ## 相關概念
 
+
 ← [[模型推論與部署]] · [[LLM]] · [[embedded-AI]]
 
 ## 來源
@@ -83,10 +85,9 @@ ORT 不是模型伺服器本身，而是可嵌入產品的執行引擎；vLLM、
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/microsoft/onnxruntime |
-| **Stars** | ⭐21,451 |
-| **License** | MIT |
-| **Language** | C++ |
-| **收錄日期** | 2026-08-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/onnxruntime |
+| Stars | ⭐21451|
+| License | MIT |
+| 收錄日期 | 2026-08-22 |

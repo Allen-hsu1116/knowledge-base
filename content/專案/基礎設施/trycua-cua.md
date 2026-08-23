@@ -14,6 +14,7 @@ stars: 16887
 
 ## 快速導航
 
+
 - 🛠️ **沙箱** → [[sandbox]]
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
@@ -21,7 +22,10 @@ stars: 16887
 
 ## 是什麼
 
-CUA 是一套開源的 Computer-Use Agent 基礎設施，讓 AI Agent 能看螢幕、點按鈕、完成任務。提供統一的 Sandbox API 支援 Linux 容器、Linux VM、macOS、Windows、Android，可以在雲端（cua.ai）或本地（QEMU）執行。
+
+CUA 是一套開源的 Computer-Use Agent 基礎設施，讓 AI Agent 能看螢幕、點按鈕、完成任務。
+
+提供統一的 Sandbox API 支援 Linux 容器、Linux VM、macOS、Windows、Android，可以在雲端（cua.ai）或本地（QEMU）執行。
 
 ## 核心特色
 
@@ -73,23 +77,19 @@ async with Sandbox.ephemeral(Image.linux()) as sb:
 
 ## 相關概念
 
+
 ← [[sandbox]] · [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/trycua/cua)
 - raw/2026-05-18-cua-computer-use-agents.md
 
 ---
 
-- **GitHub**: https://github.com/trycua/cua
-- **Stars**: ⭐16,887
-- **License**: MIT
-- **收錄日期**: 2026-05-18
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/trycua/cua |
-| **Stars** | ⭐16887 |
-| **收錄日期** | 2026-05-18 |
+| GitHub | https://github.com/trycua/cua |
+| Stars | ⭐16887|
+| License | MIT |
+| 收錄日期 | 2026-05-18 |

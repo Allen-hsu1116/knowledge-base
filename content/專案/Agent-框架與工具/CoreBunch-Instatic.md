@@ -16,9 +16,10 @@ topics:
 
 # Instatic
 
-> ⭐5k · 自架視覺化 CMS，一個 Bun 伺服器搞定編輯器、內容引擎、AI Agent 和靜態頁面發布
+> ⭐5082 · 自架視覺化 CMS，一個 Bun 伺服器搞定編輯器、內容引擎、AI Agent 和靜態頁面發布
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🏗 **自架** → [[self-hosted]]
@@ -81,20 +82,21 @@ Instatic 的核心差異化在於：一個 Bun 伺服器取代整個工具鏈，
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[self-hosted]] · [[frontend-design]] · [[sandbox]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/corebunch/instatic)
 - GitHub: https://github.com/CoreBunch/Instatic
 - 官網: https://instatic.com
 - 原始 README: `raw/2026-07-26-CoreBunch-Instatic.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) |
-| Stars | ⭐5,082 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/corebunch/instatic |
+| Stars | ⭐5082|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-26 |

@@ -15,9 +15,10 @@ topics:
 
 # Buzz 🐝
 
-> ⭐11.9k · 人類與 AI Agent 共建的工作空間，建立在自有 Nostr relay 上
+> ⭐11934 · 人類與 AI Agent 共建的工作空間，建立在自有 Nostr relay 上
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🏗 **自架** → [[self-hosted]]
@@ -89,6 +90,7 @@ Buzz 的核心差異化在於 Nostr 事件 log 作為單一真相來源——人
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[self-hosted]] · [[Coding-Agent-CLI]] · [[privacy]]
 
 ## 來源
@@ -98,10 +100,9 @@ Buzz 的核心差異化在於 Nostr 事件 log 作為單一真相來源——人
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [block/buzz](https://github.com/block/buzz) |
-| Stars | ⭐11,934 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/block/buzz |
+| Stars | ⭐11934|
 | License | Apache 2.0 |
-| Language | Rust |
 | 收錄日期 | 2026-07-26 |

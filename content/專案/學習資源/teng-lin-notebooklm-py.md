@@ -10,11 +10,12 @@ updated: 2026-05-26
 
 # notebooklm-py ⭐15.2k
 
-> ⭐15157
+> ⭐15157 · notebooklm-py 是一個開源（MIT）Python 函式庫，讓開發者能用 Python API、CLI 或 AI Agent 介面操作 Google NotebookLM 的全部功能。
 
 Google NotebookLM 的非官方 Python API 與 Agent Skill，提供完整程式化存取——包含網頁 UI 未暴露的能力——透過 Python、CLI 與 AI Agent（Claude Code、Codex、OpenClaw）操作。
 
 ## 快速導航
+
 
 - 📓 **RAG** → [[rag|RAG]] · [[lfnovo-open-notebook|Open Notebook]]
 - 🤖 **AI Agent** → [[AI-Skills|AI Skills]] · [[openclaw|OpenClaw]]
@@ -110,8 +111,11 @@ npx skills add teng-lin/notebooklm-py
 
 ## 相關概念
 
+
 - [[AI-Agent]] — Agent 架構與工具整合
 - [[AI-Skills]] — AI Agent 的 Skill 發現與安裝生態系
+
+← [[AI-Agent]] · [[AI-Skills]] · [[rag]]
 
 ## 來源
 
@@ -120,12 +124,10 @@ npx skills add teng-lin/notebooklm-py
 - PyPI: <https://pypi.org/project/notebooklm-py/>
 
 ---
-*Last updated: 2026-05-26 | Stars: 15,157 | License: MIT*
 
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/teng-lin/notebooklm-py |
-| **Stars** | ⭐15157 |
-| **收錄日期** | 2026-05-26 |
+| GitHub | https://github.com/teng-lin/notebooklm-py |
+| Stars | ⭐15157|
+| License | MIT |
+| 收錄日期 | 2026-05-26 |

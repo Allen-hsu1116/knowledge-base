@@ -10,14 +10,18 @@ topics: [CRM, 開源, AI 整合]
 
 # Twenty
 
-> ⭐46.9k · 開源 CRM 的第一名，Salesforce 替代方案，為 AI 時代而生
+> ⭐46861 · 開源 CRM 的第一名，Salesforce 替代方案，為 AI 時代而生
 
 ## 快速導航
+
 CRM · [[open-source-business|開源商業模式]] · [[open-webui-open-webui|AI 整合]] · [[self-hosted|自架服務]]
 
 ## 是什麼
 
-Twenty 是排名第一的開源 CRM，作為 Salesforce 的替代方案。它提供技術團隊客製化 CRM 的建構積木，讓 CRM 像其他軟體一樣可以用程式碼定義、版本控制和部署。支援雲端 SaaS 和自架兩種模式。用 TypeScript 定義物件、欄位和視圖，像寫程式一樣建 CRM。
+
+Twenty 是排名第一的開源 CRM，作為 Salesforce 的替代方案。
+
+它提供技術團隊客製化 CRM 的建構積木，讓 CRM 像其他軟體一樣可以用程式碼定義、版本控制和部署。支援雲端 SaaS 和自架兩種模式。用 TypeScript 定義物件、欄位和視圖，像寫程式一樣建 CRM。
 
 ## 核心特色
 
@@ -63,7 +67,8 @@ npx twenty app:publish
 
 ## 相關概念
 
-← CRM · [[open-source-business|開源商業模式]] · [[open-webui-open-webui|AI 整合]] · [[self-hosted|自架服務]]
+
+← [[open-source-business]] · [[open-webui-open-webui]] · [[self-hosted]]
 
 ## 來源
 
@@ -74,10 +79,9 @@ npx twenty app:publish
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [twentyhq/twenty](https://github.com/twentyhq/twenty) |
-| Stars | ⭐46,861 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/twentyhq/twenty |
+| Stars | ⭐46861|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-27 |

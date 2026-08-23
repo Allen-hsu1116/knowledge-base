@@ -10,9 +10,10 @@ topics: [project-management, jira-alternative, kanban, open-source, docker, kube
 
 # Plane
 
-> ⭐51.8k · 開源專案管理平台，Jira/Linear/Monday/ClickUp 的現代替代方案。
+> ⭐51840 · 開源專案管理平台，Jira/Linear/Monday/ClickUp 的現代替代方案。
 
 ## 快速導航
+
 [[twentyhq-twenty|Twenty]] · [[frappe-erpnext|ERPNext]] · [[self-hosted|自架]]
 
 ## 是什麼
@@ -67,7 +68,8 @@ Plane 與 [[twentyhq-twenty|Twenty]]（CRM）和 [[frappe-erpnext|ERPNext]]（ER
 
 ## 相關概念
 
-← [[twentyhq-twenty|Twenty]] · [[frappe-erpnext|ERPNext]] · [[self-hosted|自架]]
+
+← [[twentyhq-twenty]] · [[frappe-erpnext]] · [[self-hosted]]
 
 ## 來源
 
@@ -79,10 +81,9 @@ Plane 與 [[twentyhq-twenty|Twenty]]（CRM）和 [[frappe-erpnext|ERPNext]]（ER
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [makeplane/plane](https://github.com/makeplane/plane) |
-| Stars | ⭐51,840 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/makeplane/plane |
+| Stars | ⭐51840|
 | License | AGPL-3.0 |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-19 |
+| 收錄日期 | 2022-11-19 |

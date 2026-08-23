@@ -10,9 +10,10 @@ topics: [隱私, Rust, 瀏覽器]
 
 # Obscura
 
-> ⭐11.1 · 開源無頭瀏覽器引擎，用 Rust 打造，完整支援 Chrome DevTools Protocol，Puppeteer/Playwright 即插即用替代品。⭐11.1K
+> ⭐11 · 開源無頭瀏覽器引擎，用 Rust 打造，完整支援 Chrome DevTools Protocol，Puppeteer/Playwright 即插即用替代品。⭐11.1K
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（Obscura 專為 AI agent 自動化設計）
 - 🔌 **MCP** → [[MCP]]（Model Context Protocol）
 - 🔄 **Agent 互動** → [[ai-agent-interaction]]（Agent 互動模式）
@@ -82,23 +83,19 @@ const browser = await chromium.connectOverCDP({
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[ai-agent-interaction]] · [[Crawl4AI]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/h4ckf0r0day/obscura)
 - raw/2026-05-09-obscura.md
 
 ---
 
-- **GitHub**: https://github.com/h4ckf0r0day/obscura
-- **Stars**: ⭐11,146
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-09
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/h4ckf0r0day/obscura |
-| **Stars** | ⭐'⭐11.1' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/h4ckf0r0day/obscura |
+| Stars | ⭐11|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-09 |

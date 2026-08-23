@@ -10,9 +10,10 @@ topics: [瀏覽器 Agent, Computer-Use, Rust 核心, MCP]
 
 # Browser Use
 
-> ⭐98k · 開源瀏覽器 AI Agent，讓 LLM 直接操作網頁——點擊、填表、導航，Rust 核心驅動
+> ⭐98341 · 開源瀏覽器 AI Agent，讓 LLM 直接操作網頁——點擊、填表、導航，Rust 核心驅動
 
 ## 快速導航
+
 [[AI-Agent]] · [[computer-use-agent]] · [[網頁爬蟲]] · [[MCP]]
 
 ## 是什麼
@@ -92,7 +93,8 @@ curl -o ~/.claude/skills/browser-use/SKILL.md \
 | [[trycua-cua|CUA]] | ⭐16k | Computer Use 框架 | ✅ | ❌ | ❌ |
 
 ## 相關概念
-← [[AI-Agent]] · [[computer-use-agent]] · [[網頁爬蟲]] · [[MCP]] · [[browser-use-video-use|video-use]]
+
+← [[AI-Agent]] · [[computer-use-agent]] · [[網頁爬蟲]] · [[MCP]] · [[browser-use-video-use]]
 
 ## 來源
 
@@ -101,10 +103,9 @@ curl -o ~/.claude/skills/browser-use/SKILL.md \
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [browser-use/browser-use](https://github.com/browser-use/browser-use) |
-| Stars | ⭐98,341 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/browser-use/browser-use |
+| Stars | ⭐98341|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-12 |

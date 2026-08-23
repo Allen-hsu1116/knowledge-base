@@ -13,6 +13,7 @@ topics: [AI Agent, 自演化, Token Optimization]
 > ⭐9199 · 極簡自演化 Agent：3K 行程式碼起家，每次解題自動結晶成技能，越用越強。9 個原子工具 + 100 行 Agent Loop。⭐9,199
 
 ## 快速導航
+
 - 🤖 **Agent 自演化** → [[AI-Agent]]（GenericAgent 是自演化 Agent 的極簡實作）
 - 🧠 **記憶系統** → [[mempalace]]（分層記憶 vs 宮殿索引，互補架構）
 - 🛠 **Agent Skills** → [[AI-Skills]]（技能結晶 vs 結構化 Skill 格式）
@@ -82,23 +83,19 @@ streamlit run web_ui.py
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[mempalace]] · [[EvoMap-evolver]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/lsdefine/GenericAgent)
 - raw/2026-05-06-lsdefine-GenericAgent.md
 
 ---
 
-- **GitHub**: https://github.com/lsdefine/GenericAgent
-- **Stars**: ⭐9,199
-- **License**: MIT
-- **收錄日期**: 2026-05-06
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/lsdefine/GenericAgent.git |
-| **Stars** | ⭐'⭐9199' |
-| **收錄日期** | 2026-05-06 |
+| GitHub | https://github.com/lsdefine/GenericAgent |
+| Stars | ⭐9199|
+| License | MIT |
+| 收錄日期 | 2026-05-06 |

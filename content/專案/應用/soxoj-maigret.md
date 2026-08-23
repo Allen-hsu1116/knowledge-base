@@ -20,9 +20,10 @@ topics:
 
 # Maigret
 
-> ⭐34.4k · 只靠用戶名就能從 3000+ 網站收集完整個人情報，開源 OSINT 工具，支援 AI 分析模式
+> ⭐34379 · 只靠用戶名就能從 3000+ 網站收集完整個人情報，開源 OSINT 工具，支援 AI 分析模式
 
 ## 快速導航
+
 
 - 🕵️ **OSINT** → [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[reconurge-flowsint|Flowsint]]
 - 🛡️ **滲透測試** → [[pentesting|滲透測試]] · [[KeygraphHQ-shannon|Shannon]]
@@ -85,6 +86,7 @@ python maigret.py YOUR_USERNAME
 
 ## 跟其他方案的關係
 
+
 - **Sherlock** → 類似的用戶名搜尋工具，Maigret 功能更豐富且支援 AI 分析
 - **Reconurge Flowsint** → 圖譜調查導向的 OSINT 工具，Maigret 更專注帳號搜尋
 - **Shadowbroker** → AI Agent 情報平台，Maigret 是更輕量的 CLI 工具
@@ -92,8 +94,14 @@ python maigret.py YOUR_USERNAME
 
 ← [[pentesting|滲透測試]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[reconurge-flowsint|Flowsint]] · [[網頁爬蟲|網頁爬取]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[pentesting]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[BigBodyCobain-Shadowbroker]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[BigBodyCobain-Shadowbroker]] · [[reconurge-flowsint]] · [[pentesting]] · [[KeygraphHQ-shannon]]
 
@@ -106,10 +114,9 @@ python maigret.py YOUR_USERNAME
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [soxoj/maigret](https://github.com/soxoj/maigret) |
-| Stars | ⭐34,379 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/soxoj/maigret |
+| Stars | ⭐34379|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-30 |

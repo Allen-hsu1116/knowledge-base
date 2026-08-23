@@ -14,6 +14,7 @@ topics: [LLM, 推論加速, 本地部署, DeepSeek]
 
 ## 快速導航
 
+
 - 🧠 **LLM** → [[LLM]]: DS4 是 LLM 推論引擎
 - ⚡ **LLM 底層** → [[llm-internals|LLM 底層技術]]: KV cache 壓縮是底層技術的一環
 - 🖥️ **Ollama** → [[模型推論與部署|Ollama]]: 通用本地部署方案，DS4 是單模型專用方案
@@ -21,7 +22,10 @@ topics: [LLM, 推論加速, 本地部署, DeepSeek]
 
 ## 是什麼
 
-DS4（DrawfStar 4）是 antirez 為 DeepSeek V4 Flash 打造的專用本地推論引擎。不是通用 GGUF runner，而是完全自包含的單模型引擎，針對 Metal（macOS）和 CUDA（NVIDIA）最佳化。
+
+DS4（DrawfStar 4）是 antirez 為 DeepSeek V4 Flash 打造的專用本地推論引擎。
+
+不是通用 GGUF runner，而是完全自包含的單模型引擎，針對 Metal（macOS）和 CUDA（NVIDIA）最佳化。
 
 ## 核心特色
 
@@ -59,15 +63,23 @@ curl http://localhost:8080/v1/chat/completions \
 
 ## 跟其他方案的關係
 
+
 DS4 跟 [[模型推論與部署|Ollama]] 的定位根本不同：Ollama 是通用本地部署方案（跑任何 GGUF 模型），DS4 是 DeepSeek V4 Flash 專用引擎（只跑一個模型，但跑得又快又好）。Ollama 是瑞士刀，DS4 是手術刀。
 
 跟 [[llama-cpp|llama.cpp]] 的關係：DS4 基於 llama.cpp/GGML 開發路徑，但做了 DeepSeek V4 Flash 專用的深度最佳化（KV cache 壓縮、2-bit 量化、Metal/CUDA 最佳化）。
 
 跟 [[vLLM]] 的差異：vLLM 是伺服器端推論加速方案，DS4 是本地端專用引擎。一個偏向資料中心，一個偏向個人開發者。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[模型推論與部署]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[llama-cpp]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
 
-← [[LLM]] · [[llm-internals|LLM 底層技術]] · [[模型推論與部署|Ollama]] · [[llama-cpp|llama.cpp]]
+
+← [[LLM]] · [[llm-internals]] · [[模型推論與部署]] · [[llama-cpp]]
 
 ## 來源
 
@@ -76,11 +88,9 @@ DS4 跟 [[模型推論與部署|Ollama]] 的定位根本不同：Ollama 是通�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/antirez/ds4 |
-| Stars | ⭐10,277 |
-| Language | C |
-| 建立日期 | 2026-05-06 |
-| 授權 | MIT |
-| 收錄日期 | 2026-05-07 |
+| Stars | ⭐10277|
+| License | 未標示 |
+| 收錄日期 | 2026-05-13 |

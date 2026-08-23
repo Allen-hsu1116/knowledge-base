@@ -24,9 +24,10 @@ topics:
 
 # MinerU
 
-> ⭐69.6k · Python · 高精度文件解析引擎，把 PDF/DOCX/PPTX/XLSX/圖片轉成 LLM-ready Markdown/JSON，支援 109 語言 OCR、VLM+OCR 雙引擎
+> ⭐69600 · 高精度文件解析引擎，把 PDF/DOCX/PPTX/XLSX/圖片轉成 LLM-ready Markdown/JSON，支援 109 語言 OCR、VLM+OCR 雙引擎
 
 ## 快速導航
+
 
 - 📄 **文件解析** → [[document-parsing|文件解析]]
 - 🔍 **RAG** → [[rag|RAG]]
@@ -43,6 +44,7 @@ MinerU 不只是一個解析器——它已進化成企業級文件解析基礎�
 
 ## 核心特色
 
+
 1. **全格式原生解析** — 支援 PDF、圖片、DOCX、PPTX、XLSX 五大格式，原生解析 DOCX 不需先轉 PDF，端到端速度快數十倍且零幻覺
 2. **VLM + OCR 雙引擎** — pipeline 後端用 PP-OCRv6 OCR 模型（109 語言），vlm-engine 用 MinerU2.5-Pro VLM 模型（支援圖表解析、跨頁合併），hybrid-engine 兼顧精度與速度
 3. **公式與表格結構化** — 數學公式自動轉 LaTeX，表格自動轉 HTML，精確保留原始文件結構包含標題、段落、列表
@@ -50,6 +52,10 @@ MinerU 不只是一個解析器——它已進化成企業級文件解析基礎�
 5. **企業級部署** — mineru-router 支援多服務多 GPU 統一入口與負載平衡，滑動窗口機制大幅降低長文檔記憶體峰值，多執行緒並發推理
 6. **MCP + 主流框架整合** — 原生 MCP Server 讓 AI coding tool 直接呼叫，LangChain/LlamaIndex/RAGFlow/Dify/FastGPT 開箱即用
 7. **全平台 + 離線支援** — Windows/Linux/macOS 全支援，純 CPU 環境也能跑，GPU/MPS 加速可選，完全離線私有部署
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -99,7 +105,8 @@ MinerU 跟 PaddleOCR 的差異在於：PaddleOCR 專注 OCR 引擎本身，Miner
 
 ## 相關概念
 
-← [[document-parsing|文件解析]] · [[rag|RAG]] · [[llm-knowledge-base|OCR-Memory]] · [[AI-Agent|AI Agent]]
+
+← [[document-parsing]] · [[rag]] · [[llm-knowledge-base]] · [[AI-Agent]]
 
 ## 來源
 
@@ -108,10 +115,9 @@ MinerU 跟 PaddleOCR 的差異在於：PaddleOCR 專注 OCR 引擎本身，Miner
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/opendatalab/MinerU |
-| **Stars** | ⭐69.6k |
-| **License** | MinerU Open Source License (based on Apache 2.0) |
-| **Language** | Python |
-| **收錄日期** | 2026-06-26 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/opendatalab/MinerU |
+| Stars | ⭐69600|
+| License | MinerU Open Source License (based on Apache 2.0) |
+| 收錄日期 | 2026-06-26 |

@@ -10,9 +10,10 @@ topics: [Knowledge Graph, RAG, MCP]
 
 # graphify
 
-> ⭐41,860 · Claude Code skill — 把任何資料夾轉成知識圖譜，支援程式碼、PDF、圖片等多模態輸入，號稱比直接讀原始檔案減少 71.5x token 消耗。
+> ⭐41860 · Claude Code skill — 把任何資料夾轉成知識圖譜，支援程式碼、PDF、圖片等多模態輸入，號稱比直接讀原始檔案減少 71.5x token 消耗。
 
 ## 快速導航
+
 
 - 🕸️ **知識圖譜** → [[Knowledge-Graph]]
 - 🔍 **RAG** → [[MCP]]
@@ -20,7 +21,10 @@ topics: [Knowledge Graph, RAG, MCP]
 
 ## 是什麼
 
-graphify 是一個 Claude Code skill，輸入 `/graphify` 指令後，它會讀取你的檔案、建立知識圖譜，並產生互動式視覺化、Obsidian vault、Wiki、JSON 等多種格式輸出。靈感來自 Andrej Karpathy 的 `/raw` 資料夾習慣 — graphify 把散落的筆記、論文、截圖、白板照片轉成結構化圖譜。
+
+graphify 是一個 Claude Code skill，輸入 `/graphify` 指令後，它會讀取你的檔案、建立知識圖譜，並產生互動式視覺化、Obsidian vault、Wiki、JSON 等多種格式輸出。
+
+靈感來自 Andrej Karpathy 的 `/raw` 資料夾習慣 — graphify 把散落的筆記、論文、截圖、白板照片轉成結構化圖譜。
 
 ## 核心特色
 
@@ -68,27 +72,30 @@ graphify-out/
 
 ## 跟其他方案的關係
 
+
 graphify 是 [[Knowledge-Graph]] 的工具化實作，可啟動 [[MCP]] stdio server 讓其他工具查詢圖譜，本身是一個 [[AI-Skills]] 格式的 Claude Code skill。圖譜引擎用 NetworkX + Leiden，程式碼解析用 tree-sitter，視覺化用 vis.js，LLM 用 Claude 做概念提取 + 關係推斷，完全本地運行無需 Neo4j。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[Knowledge-Graph]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[MCP]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[Knowledge-Graph]] · [[MCP]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/safishamsi/graphify)
 - raw/safishamsi-graphify.md
 
 ---
 
-- **GitHub**: https://github.com/safishamsi/graphify
-- **Stars**: ⭐41,860
-- **License**: MIT
-- **收錄日期**: 2026-05-04
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/safishamsi/graphify |
-| **Stars** | ⭐41,860 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/safishamsi/graphify |
+| Stars | ⭐41860|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

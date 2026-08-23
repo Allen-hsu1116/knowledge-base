@@ -13,20 +13,22 @@ updated: 2026-06-14
 
 # Presenton
 
-> ⭐6369
-
-⭐ 6.4k · 開源 AI 簡報產生器與 API，Gamma / Beautiful AI / Decktopus 的自架替代方案
+> ⭐6369 · 開源 AI 簡報產生器與 API，Gamma / Beautiful AI / Decktopus 的自架替代方案
 
 ## 一句話
 
 完全自架的 AI 簡報生成工具——支援 10+ 種 LLM provider、MCP Server、自訂模板、PPTX 匯出，不鎖定 SaaS 不強迫訂閱。
 
 ## 快速導航
+
 - ⚡ [[generative-AI]] · [[MCP]] · [[self-hosted]]
 
 ## 是什麼
 
-Presenton 是開源的 AI 簡報產生器與 API，是 Gamma / Beautiful AI / Decktopus 的自架替代方案。核心差異：完全自架、資料在自己手上、BYOK（自帶 API Key），不鎖定 SaaS 不強迫訂閱。支援 10+ 種 LLM provider（OpenAI、Gemini、Anthropic、Ollama 等），內建 MCP Server 讓 Agent 可以直接透過 Model Context Protocol 生成簡報，輸出可編輯的 PPTX。
+
+Presenton 是開源的 AI 簡報產生器與 API，是 Gamma / Beautiful AI / Decktopus 的自架替代方案。
+
+核心差異：完全自架、資料在自己手上、BYOK（自帶 API Key），不鎖定 SaaS 不強迫訂閱。支援 10+ 種 LLM provider（OpenAI、Gemini、Anthropic、Ollama 等），內建 MCP Server 讓 Agent 可以直接透過 Model Context Protocol 生成簡報，輸出可編輯的 PPTX。
 
 ## 核心特色
 
@@ -79,6 +81,7 @@ Presenton 和 [[ppt-master|PPT Master]] 是唯二的開源 AI 簡報方案。Pre
 - [[AI-presentation]] — 可程式化的 PPTX 生成
 
 ## 相關概念
+
 ← [[generative-AI]] · [[MCP]] · [[self-hosted]] · [[AI-presentation]]
 
 ## 來源
@@ -88,10 +91,9 @@ Presenton 和 [[ppt-master|PPT Master]] 是唯二的開源 AI 簡報方案。Pre
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [presenton/presenton](https://github.com/presenton/presenton) |
-| Stars | ⭐6369 |
-| License | — |
-| Language | TypeScript |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/presenton/presenton |
+| Stars | ⭐6369|
+| License | 未標示 |
 | 收錄日期 | 2026-05-24 |

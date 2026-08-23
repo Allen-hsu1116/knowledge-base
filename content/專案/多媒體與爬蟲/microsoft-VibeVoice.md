@@ -10,9 +10,10 @@ topics: [ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS]
 
 # VibeVoice
 
-> ⭐48.5k · 微軟開源前沿語音 AI 家族——60 分鐘長語音辨識 + 90 分鐘多語者 TTS + 即時串流語音合成
+> ⭐48476 · 微軟開源前沿語音 AI 家族——60 分鐘長語音辨識 + 90 分鐘多語者 TTS + 即時串流語音合成
 
 ## 快速導航
+
 [[Whisper]] · [[OpenBMB-VoxCPM|VoxCPM]] · [[OpenMOSS-MOSS-TTS]] · [[語音辨識]]
 
 ## 是什麼
@@ -72,6 +73,7 @@ ASR Playground 線上試玩：<https://aka.ms/vibevoice-asr>
 | [[OpenMOSS-MOSS-TTS|MOSS-TTS]] | ⭐2.2k | TTS | 可變 | ❌ | 1+ | — | — | Apache-2.0 |
 
 ## 相關概念
+
 ← [[Whisper]] · [[OpenBMB-VoxCPM]] · [[語音辨識]] · [[OpenMOSS-MOSS-TTS]]
 
 ## 來源
@@ -82,10 +84,9 @@ ASR Playground 線上試玩：<https://aka.ms/vibevoice-asr>
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) |
-| Stars | ⭐48,476 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/VibeVoice |
+| Stars | ⭐48476|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-07 |

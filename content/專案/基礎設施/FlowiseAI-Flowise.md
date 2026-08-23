@@ -10,9 +10,10 @@ topics: [agentic-ai, agentic-workflow, agents, chatbot, langchain, large-languag
 
 # Flowise
 
-> ⭐53.7k · 低代碼視覺化建構 AI Agent 和 LLM 工作流，拖曳即可串接 LangChain
+> ⭐53659 · 低代碼視覺化建構 AI Agent 和 LLM 工作流，拖曳即可串接 LangChain
 
 ## 快速導航
+
 [[rag|RAG 檢索增強生成]] · [[workflow-automation|Agent 工作流]] · [[n8n-io-n8n|n8n]]
 
 ## 是什麼
@@ -67,7 +68,8 @@ pnpm start
 | LangFlow | LangChain 視覺化 | ✅ | ✅ 開源 | ⚠️ 基礎 | LangChain 原型開發 |
 
 ## 相關概念
-← [[rag|RAG 檢索增強生成]] · [[workflow-automation|Agent 工作流]] · [[n8n-io-n8n|n8n]] · [[langflow-ai-langflow|Langflow]]
+
+← [[rag]] · [[workflow-automation]] · [[n8n-io-n8n]] · [[langflow-ai-langflow]]
 
 ## 來源
 
@@ -78,10 +80,9 @@ pnpm start
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) |
-| Stars | ⭐53,659 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/FlowiseAI/Flowise |
+| Stars | ⭐53659|
 | License | 自訂授權（Flowise AI Inc.） |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-17 |
+| 收錄日期 | 2023-03-31 |

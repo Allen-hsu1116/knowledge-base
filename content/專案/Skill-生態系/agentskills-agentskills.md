@@ -15,9 +15,10 @@ topics:
 
 # Agent Skills
 
-> ⭐21.6k · AI Agent 技能的開放標準規範，一個 SKILL.md 檔案讓 Agent 獲得新能力和專業知識
+> ⭐21614 · AI Agent 技能的開放標準規範，一個 SKILL.md 檔案讓 Agent 獲得新能力和專業知識
 
 ## 快速導航
+
 
 - 🛠 **Skill 生態** → [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]]
 - 🤖 **Agent 框架** → [[anthropics-claude-code|Claude Code]] · [[anthropics-skills|Anthropic Skills]]
@@ -90,6 +91,7 @@ npx skills add anthropics/skills --skill code-review -g
 
 ## 跟其他方案的關係
 
+
 - **[[AI-Skills|AI Skills]]** → 知識庫中的概念頁，Agent Skills 是其標準格式
 - **[[anthropics-skills|Anthropic Skills]]** → Anthropic 官方發布的 skill 集合，Agent Skills 是其底層格式規範
 - **[[AI-Skills|CLAUDE.md]]** → 用自然語言定義 Agent 行為規範，SKILL.md 更聚焦於單一任務
@@ -99,10 +101,16 @@ npx skills add anthropics/skills --skill code-review -g
 
 ← [[AI-Skills|AI Skills]] · [[anthropics-skills|Anthropic Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[AI-Skills|CLAUDE.md]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[anthropics-skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
 
-← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[anthropics-skills]] · [[virgiliojr94-book-to-skill\|book-to-skill]]
+
+← [[AI-Skills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[anthropics-skills]] · [[virgiliojr94-book-to-skill]]
 
 ## 來源
 
@@ -115,10 +123,9 @@ npx skills add anthropics/skills --skill code-review -g
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [agentskills/agentskills](https://github.com/agentskills/agentskills) |
-| Stars | ⭐21,614 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anthropics/skills |
+| Stars | ⭐21614|
 | License | Apache 2.0 (程式碼) / CC-BY-4.0 (文件) |
-| Language | Python |
 | 收錄日期 | 2026-07-03 |

@@ -10,9 +10,10 @@ topics: [AI Harness, Life OS, Intent Engineering, Personal AI, Productivity]
 
 # LifeOS
 
-> ⭐17.9k · 通用 AI 駕馭框架——從 Current State 到 Ideal State 的 hill-climbing 系統，涵蓋生活與工作的完整 AI 作業系統
+> ⭐17911 · 通用 AI 駕馭框架——從 Current State 到 Ideal State 的 hill-climbing 系統，涵蓋生活與工作的完整 AI 作業系統
 
 ## 快速導航
+
 
 - 🧠 **Harness Engineering** → [[harness-engineering]]
 - 🛠 **AI Agent** → [[AI-Agent]]
@@ -66,6 +67,7 @@ LifeOS 是 PAI（Personal AI Infrastructure）的進化版。PAI 是 Daniel Mies
 
 ## 相關概念
 
+
 ← [[harness-engineering]] · [[AI-Agent]] · [[context-engineering-basics]] · [[danielmiessler-Personal_AI_Infrastructure]]
 
 ## 來源
@@ -75,10 +77,9 @@ LifeOS 是 PAI（Personal AI Infrastructure）的進化版。PAI 是 Daniel Mies
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) |
-| Stars | ⭐17,911 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/danielmiessler/LifeOS |
+| Stars | ⭐17911|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-08-11 |

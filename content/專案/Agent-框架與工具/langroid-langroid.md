@@ -10,9 +10,10 @@ topics: [agents, ai, llm, llm-agent, llm-framework, multi-agent-systems, rag, fu
 
 # Langroid
 
-> ⭐4.1k · 來自 CMU 和 UW-Madison 研究者的輕量級多 Agent Python 框架，Actor 模型啟發的 Agent 協作
+> ⭐4099 · 來自 CMU 和 UW-Madison 研究者的輕量級多 Agent Python 框架，Actor 模型啟發的 Agent 協作
 
 ## 快速導航
+
 
 - 🤖 **Agent 框架** → [[CrewAI]] · [[microsoft-autogen]] · [[LangChain]]
 - 🔍 **RAG** → [[rag]] · [[langgenius-dify]]
@@ -94,6 +95,7 @@ teacher_task.run()
 
 ## 相關概念
 
+
 ← [[CrewAI]] · [[microsoft-autogen]] · [[LangChain]] · [[rag]] · [[AI-Agent]] · [[MCP]]
 
 ## 來源
@@ -104,10 +106,9 @@ teacher_task.run()
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | langroid/langroid |
-| Stars | ⭐4.1k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/langroid/langroid |
+| Stars | ⭐4099|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-08-16 |

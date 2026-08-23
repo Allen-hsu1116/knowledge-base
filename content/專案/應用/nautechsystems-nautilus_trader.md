@@ -10,9 +10,10 @@ topics: [量化交易, 回測, 金融交易, Rust, Python, 事件驅動]
 
 # NautilusTrader
 
-> ⭐26.4k · Rust 原生的生產級多資產交易引擎，讓研究、確定性回測與實盤執行共用同一套事件驅動語意。
+> ⭐26444 · Rust 原生的生產級多資產交易引擎，讓研究、確定性回測與實盤執行共用同一套事件驅動語意。
 
 ## 快速導航
+
 
 - 📈 [[backtesting]] — 用確定性模擬驗證交易策略
 - 🤖 [[agent-trading]] — 可作為 AI 交易 Agent 的執行與訓練環境
@@ -69,6 +70,7 @@ NautilusTrader 可成為 Agent 產生交易決策後的模擬與執行底座；V
 
 ## 相關概念
 
+
 ← [[backtesting]] · [[agent-trading]] · [[financial-forecasting]]
 
 ## 來源
@@ -79,10 +81,9 @@ NautilusTrader 可成為 Agent 產生交易決策後的模擬與執行底座；V
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/nautechsystems/nautilus_trader |
-| **Stars** | ⭐26,444 |
-| **License** | GNU LGPLv3 |
-| **Language** | Rust（提供 Python bindings） |
-| **收錄日期** | 2026-08-20 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/nautechsystems/nautilus_trader |
+| Stars | ⭐26444|
+| License | GNU LGPLv3 |
+| 收錄日期 | 2026-08-20 |

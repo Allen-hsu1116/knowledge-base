@@ -10,9 +10,10 @@ topics: [MCP, 檔案搜尋, AI Agent 工具, Neovim]
 
 # FFF
 
-> ⭐7.2k · 專為人與 AI Agent 打造的檔案搜尋工具包，比 ripgrep/fzf 更快，frecency 排序 + 模糊容錯。
+> ⭐7176 · 專為人與 AI Agent 打造的檔案搜尋工具包，比 ripgrep/fzf 更快，frecency 排序 + 模糊容錯。
 
 ## 快速導航
+
 [[MCP|MCP]] · [[Coding-Agent-CLI|Coding Agent 工具]] · [[ChromeDevTools-chrome-devtools-mcp|Chrome DevTools MCP]] · [[AI-Agent|AI Agent]]
 
 ## 是什麼
@@ -89,7 +90,8 @@ pi install npm:@ff-labs/pi-fff
 | [[qmd|QMD]] | 搜尋 + RAG | ❌ | ✅ | ❌ | ✅ | 本地知識搜尋 |
 
 ## 相關概念
-← [[MCP|MCP]] · [[Coding-Agent-CLI|Coding Agent 工具]] 相關概念
+
+← [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
@@ -100,10 +102,9 @@ pi install npm:@ff-labs/pi-fff
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) |
-| Stars | ⭐7,176 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/dmtrKovalenko/fff |
+| Stars | ⭐7176|
 | License | MIT |
-| Language | Rust |
 | 收錄日期 | 2026-06-02 |

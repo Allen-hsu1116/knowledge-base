@@ -17,6 +17,7 @@ topics: [memory, mcp, rag, knowledge-graph, ai-agent]
 
 ## 快速導航
 
+
 - 🧠 **記憶方法對比** → [[llm-knowledge-base]]（知識庫 vs 記憶系統的架構差異）
 - 🛠 **MCP 整合** → [[project-golem]]（另一種記憶架構實作）
 - 🔄 **跨 session 記憶** → [[hermes-agent]]（功能互補的記憶方案）
@@ -24,7 +25,10 @@ topics: [memory, mcp, rag, knowledge-graph, ai-agent]
 
 ## 是什麼
 
-MemPalace 是一個 local-first 的 AI 記憶系統。跟 Mem0、Zep 等競品不同，它**不摘要、不提取、不改寫** — 原文逐字儲存，用結構化索引 + 語意搜尋做檢索。宮殿結構（Wings → Rooms → Drawers）讓搜尋可以限定範圍，比單純的向量搜尋更精準。所有資料留在本機，除非你選擇送出。
+
+MemPalace 是一個 local-first 的 AI 記憶系統。
+
+跟 Mem0、Zep 等競品不同，它**不摘要、不提取、不改寫** — 原文逐字儲存，用結構化索引 + 語意搜尋做檢索。宮殿結構（Wings → Rooms → Drawers）讓搜尋可以限定範圍，比單純的向量搜尋更精準。所有資料留在本機，除非你選擇送出。
 
 ## 核心特色
 
@@ -75,14 +79,20 @@ MemPalace 的宮殿結構跟 [[llm-knowledge-base|LLM 知識庫方法]]概念相
 兩者可以互補：MemPalace 負責儲存和檢索，知識庫負責概念整理和交叉連結。
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[rag]] · [[Chroma]] · [[project-golem]] · [[hermes-agent]] · [[supermemoryai-supermemory|Supermemory]]
+
+← [[llm-knowledge-base]] · [[rag]] · [[Chroma]] · [[project-golem]] · [[hermes-agent]] · [[supermemoryai-supermemory]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/MemPalace/mempalace)
 - raw/2026-05-02-mempalace.md
 - raw/2026-05-07-mempalace-usage-discussion.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | ⭐50,787 | MIT | 2026-05-02 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/MemPalace/mempalace |
+| Stars | ⭐50787|
+| License | 未標示 |
+| 收錄日期 | 2026-05-03 |

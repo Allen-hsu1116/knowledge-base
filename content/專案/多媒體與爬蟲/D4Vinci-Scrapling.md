@@ -10,9 +10,10 @@ topics: [網頁爬蟲, 自適應解析, 反偵測, MCP]
 
 # Scrapling
 
-> ⭐56.6k · 自適應網頁爬蟲框架，從單一請求到大規模爬取都能搞定
+> ⭐56630 · 自適應網頁爬蟲框架，從單一請求到大規模爬取都能搞定
 
 ## 快速導航
+
 [[網頁爬蟲]] · [[Crawl4AI]] · [[MCP]]
 
 ## 是什麼
@@ -87,6 +88,7 @@ scrapling mcp
 Scrapling 和 Crawl4AI 都提供 AI 友善的爬蟲方案，但 Scrapling 的自適應解析器是獨特優勢。Crawl4AI 更偏 LLM 內容提取，Scrapling 更偏傳統爬蟲場景的自動化維護。
 
 ## 相關概念
+
 ← [[網頁爬蟲]] · [[Crawl4AI]] · [[MCP]]
 
 ## 來源
@@ -96,10 +98,9 @@ Scrapling 和 Crawl4AI 都提供 AI 友善的爬蟲方案，但 Scrapling 的自
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) |
-| Stars | ⭐56,631 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/D4Vinci/Scrapling |
+| Stars | ⭐56630|
 | License | BSD 3-Clause |
-| Language | Python |
 | 收錄日期 | 2026-06-01 |

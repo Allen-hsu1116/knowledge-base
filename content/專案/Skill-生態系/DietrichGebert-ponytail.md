@@ -10,9 +10,10 @@ topics: [agent-skills, ai-agents, claude, claude-code, prompt-engineering, yagni
 
 # Ponytail
 
-> ⭐36.8k · 讓 AI Agent 像最懶的資深工程師一樣思考——最好的程式碼是你從沒寫過的程式碼。
+> ⭐36775 · 讓 AI Agent 像最懶的資深工程師一樣思考——最好的程式碼是你從沒寫過的程式碼。
 
 ## 快速導航
+
 [[AI-Skills|AI Skills]] · [[affaan-m-ECC|ECC]] · [[Token-Optimization|Token Optimization]] · [[JuliusBrussee-caveman|Caveman]]
 
 ## 是什麼
@@ -73,7 +74,8 @@ Ponytail 和 [[JuliusBrussee-caveman|Caveman]] 互補：Caveman 控制文字風�
 
 ## 相關概念
 
-← [[AI-Skills|AI Skills]] · [[Token-Optimization|Token Optimization]] · [[JuliusBrussee-caveman|Caveman]] · [[affaan-m-ECC|ECC]]
+
+← [[AI-Skills]] · [[Token-Optimization]] · [[JuliusBrussee-caveman]] · [[affaan-m-ECC]]
 
 ## 來源
 
@@ -83,10 +85,9 @@ Ponytail 和 [[JuliusBrussee-caveman|Caveman]] 互補：Caveman 控制文字風�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
-| Stars | ⭐36,775 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/DietrichGebert/ponytail |
+| Stars | ⭐36775|
 | License | MIT |
-| Language | JavaScript |
-| 收錄日期 | 2026-06-19 |
+| 收錄日期 | 2026-06-12 |

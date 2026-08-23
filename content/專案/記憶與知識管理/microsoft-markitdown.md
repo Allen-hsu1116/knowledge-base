@@ -10,9 +10,10 @@ topics: [RAG, 文件解析, MCP]
 
 # MarkItDown
 
-> ⭐120,637 · 微軟開源的文件轉 Markdown 工具 — 把 PDF、Office、圖片、音訊等任何格式轉成 LLM 能讀的 Markdown。
+> ⭐120637 · 微軟開源的文件轉 Markdown 工具 — 把 PDF、Office、圖片、音訊等任何格式轉成 LLM 能讀的 Markdown。
 
 ## 快速導航
+
 
 - 🧠 **LLM** → [[LLM]]（MarkItDown 把非結構化文件轉成 LLM 能理解的 Markdown）
 - 🔌 **MCP** → [[MCP]]（MarkItDown 有 MCP Server 整合）
@@ -21,7 +22,10 @@ topics: [RAG, 文件解析, MCP]
 
 ## 是什麼
 
-MarkItDown 是微軟開源的 Python 工具，把各種文件格式（PDF、DOCX、PPTX、XLSX、圖片、音訊、HTML、ZIP）轉成 Markdown。它的定位是 LLM pipeline 的前置處理器 — 讓任何文件都能被 LLM 讀取。
+
+MarkItDown 是微軟開源的 Python 工具，把各種文件格式（PDF、DOCX、PPTX、XLSX、圖片、音訊、HTML、ZIP）轉成 Markdown。
+
+它的定位是 LLM pipeline 的前置處理器 — 讓任何文件都能被 LLM 讀取。
 
 ## 核心特色
 
@@ -74,23 +78,19 @@ MarkItDown 勝在輕量和格式廣度，適合簡單轉換場景；docling 功�
 
 ## 相關概念
 
+
 ← [[LLM]] · [[MCP]] · [[docling]] · [[pymupdf4llm]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/microsoft/markitdown)
 - raw/2026-05-05-microsoft-markitdown.md
 
 ---
 
-- **GitHub**: https://github.com/microsoft/markitdown
-- **Stars**: ⭐120,637
-- **License**: MIT
-- **收錄日期**: 2026-05-05
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/microsoft/markitdown |
-| **Stars** | ⭐120,637 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/microsoft/markitdown |
+| Stars | ⭐120637|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

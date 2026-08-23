@@ -10,9 +10,10 @@ topics: [文件解析, PDF, OCR, Rust]
 
 # LiteParse
 
-> ⭐7.3k · LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定
+> ⭐7302 · LlamaIndex 出品的開源高速文件解析器，Rust 核心、本地運行、支援多語言綁定
 
 ## 快速導航
+
 [[document-parsing|文件解析]] · [[rag|RAG]] · [[docling]]
 
 ## 是什麼
@@ -86,7 +87,8 @@ lit batch-parse ./input-directory ./output-directory
 | [[pymupdf4llm|PyMuPDF4LLM]] | ⭐1.7k | Python | 輕量 PDF 轉 Markdown | ✅ |
 
 ## 相關概念
-← [[document-parsing|文件解析]] · [[rag|RAG]] · [[docling]] · [[microsoft-markitdown|MarkItDown]]
+
+← [[document-parsing]] · [[rag]] · [[docling]] · [[microsoft-markitdown]]
 
 ## 來源
 
@@ -95,10 +97,9 @@ lit batch-parse ./input-directory ./output-directory
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [run-llama/liteparse](https://github.com/run-llama/liteparse) |
-| Stars | ⭐7,302 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/run-llama/liteparse |
+| Stars | ⭐7302|
 | License | Apache-2.0 |
-| Language | Rust |
 | 收錄日期 | 2026-05-30 |

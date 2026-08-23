@@ -10,9 +10,10 @@ topics: [LLM, 從零訓練, 教學, Transformer]
 
 # Train LLM From Scratch
 
-> ⭐2.3k · 從下載資料到生成文字，一步步用 PyTorch 從零訓練自己的 LLM
+> ⭐2258 · 從下載資料到生成文字，一步步用 PyTorch 從零訓練自己的 LLM
 
 ## 快速導航
+
 [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[llm-internals|LLM 底層技術]] · [[huggingface-transformers|Hugging Face Transformers]] · [[minimind|MiniMind]]
 
 ## 是什麼
@@ -87,7 +88,8 @@ python scripts/generate_text.py
 | llm.c | ⭐25k+ | C/CUDA | 極致效能 | 去除 PyTorch 依賴 | MIT |
 
 ## 相關概念
-← [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[llm-internals|LLM 底層技術]] · [[huggingface-transformers|Hugging Face Transformers]]
+
+← [[rasbt-LLMs-from-scratch]] · [[llm-internals]] · [[huggingface-transformers]]
 
 ## 來源
 
@@ -96,10 +98,9 @@ python scripts/generate_text.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) |
-| Stars | ⭐2,258 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/FareedKhan-dev/train-llm-from-scratch |
+| Stars | ⭐2258|
 | License | MIT |
-| Language | Jupyter Notebook |
 | 收錄日期 | 2026-05-31 |

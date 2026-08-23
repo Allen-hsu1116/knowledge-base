@@ -5,14 +5,15 @@ created: 2026-07-18
 updated: 2026-07-18
 stars: 13309
 language: Python
-topics: ann, avx512, embedding, faiss, nearest-neighbor, neon, quant, quantization, rag, rust, simd, turboquant, vector-search
+topics: ["ann", "avx512", "embedding", "faiss", "nearest-neighbor", "neon", "quant", "quantization", "rag", "rust", "simd", "turboquant", "vector-search"]
 ---
 
 # turbovec
 
-> ⭐13.3k · Rust 向量索引，基於 Google TurboQuant 量化，16x 壓縮且搜尋比 FAISS 快
+> ⭐13309 · Rust 向量索引，基於 Google TurboQuant 量化，16x 壓縮且搜尋比 FAISS 快
 
 ## 快速導航
+
 
 - 🔍 **向量資料庫** → [[向量資料庫]]
 - 🧠 **RAG** → [[rag]]
@@ -116,6 +117,7 @@ turbovec 的核心差異化在於「無訓練」和「極致壓縮」。FAISS �
 
 ## 相關概念
 
+
 ← [[向量資料庫]] · [[rag]] · [[模型推論與部署]]
 
 ## 來源
@@ -126,8 +128,9 @@ turbovec 的核心差異化在於「無訓練」和「極致壓縮」。FAISS �
 
 ---
 
-- **GitHub**: https://github.com/RyanCodrai/turbovec
-- **Stars**: ⭐13,309
-- **License**: MIT
-- **Language**: Python (Rust core)
-- **收錄日期**: 2026-07-18
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/RyanCodrai/turbovec |
+| Stars | ⭐13309|
+| License | MIT |
+| 收錄日期 | 2026-07-18 |

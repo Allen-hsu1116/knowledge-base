@@ -10,9 +10,10 @@ topics: [AI Skills, Mobile, React Native]
 
 # Expo Skills
 
-> ⭐2k · Expo 官方 AI Agent 技能集合，讓 Agent 能高效建構、部署和除錯 React Native / Expo 應用，從開發到上架一站式覆蓋。
+> ⭐2038 · Expo 官方 AI Agent 技能集合，讓 Agent 能高效建構、部署和除錯 React Native / Expo 應用，從開發到上架一站式覆蓋。
 
 ## 快速導航
+
 [[AI-Skills]] · [[AI-Skills]] · [[expo-skills]] · [[expo-skills]]
 
 ## 是什麼
@@ -103,6 +104,7 @@ eas submit --platform ios
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[AI-Skills]] · [[expo-skills]] · [[expo-skills]]
 
 ## 來源
@@ -110,12 +112,12 @@ eas submit --platform ios
 - GitHub: <https://github.com/expo/skills>
 - 原始 README: `raw/2026-06-08-expo-skills-README.md`
 - raw/2026-06-08-expo-skills.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [expo/skills](https://github.com/expo/skills) |
-| Stars | ⭐2,038 |
-| Language | JavaScript |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/expo/skills |
+| Stars | ⭐2038|
 | License | MIT |
 | 收錄日期 | 2026-06-08 |

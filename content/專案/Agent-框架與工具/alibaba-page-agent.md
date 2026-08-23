@@ -18,9 +18,10 @@ topics:
 
 # Page Agent
 
-> ⭐19.8k · TypeScript · 阿里巴巴開源的 in-page GUI Agent，用自然語言控制網頁介面，無需瀏覽器擴充或 Python 環境
+> ⭐19800 · 阿里巴巴開源的 in-page GUI Agent，用自然語言控制網頁介面，無需瀏覽器擴充或 Python 環境
 
 ## 快速導航
+
 
 - 🖥️ **電腦使用代理** → [[computer-use-agent|Computer Use Agent]]
 - 🌐 **瀏覽器使用** → [[browser-use-browser-use|Browser Use]]
@@ -37,6 +38,7 @@ Page Agent 的技術路線跟大多數 GUI Agent 不同——它不使用截圖�
 
 ## 核心特色
 
+
 1. **零安裝 in-page 整合** — 不需要瀏覽器擴充、Python 或無頭瀏覽器，只要一行 `<script>` 標籤或 npm install 就能在網頁中啟動 Agent
 2. **純文字 DOM 操作** — 不截圖、不用多模態 LLM，直接解析 DOM 樹轉文字描述，任何文字 LLM 都能驅動
 3. **BYO LLM** — 支援任何 OpenAI API 相容的模型端點，Qwen/OpenAI/Anthropic/自架模型都能接
@@ -44,6 +46,10 @@ Page Agent 的技術路線跟大多數 GUI Agent 不同——它不使用截圖�
 5. **SaaS AI Copilot** — 幾行程式碼為產品加上 AI 助手，無需重寫後端
 6. **智能表單填寫** — 把複雜的多步驟表單操作簡化成一句自然語言指令
 7. **無障礙存取** — 讓任何網頁透過自然語言、語音指令操作，降低使用門檻
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -97,7 +103,8 @@ Page Agent 跟 Browser Use 的差異在於：Browser Use 需要 Python 環境和
 
 ## 相關概念
 
-← [[computer-use-agent|Computer Use Agent]] · [[browser-use-browser-use|Browser Use]] · [[MCP]] · [[AI-Agent|AI Agent]]
+
+← [[computer-use-agent]] · [[browser-use-browser-use]] · [[MCP]] · [[AI-Agent]]
 
 ## 來源
 
@@ -106,10 +113,9 @@ Page Agent 跟 Browser Use 的差異在於：Browser Use 需要 Python 環境和
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/alibaba/page-agent |
-| **Stars** | ⭐19.8k |
-| **License** | MIT |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-06-26 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/alibaba/page-agent |
+| Stars | ⭐19800|
+| License | MIT |
+| 收錄日期 | 2026-06-26 |

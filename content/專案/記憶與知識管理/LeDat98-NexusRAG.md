@@ -14,6 +14,7 @@ topics: [RAG, Knowledge Graph, 文件解析]
 
 ## 快速導航
 
+
 - 🔍 **RAG** → [[rag]]（NexusRAG 是 RAG 的實作方案之一）
 - 🕸️ **Knowledge Graph** → [[Knowledge-Graph]]（NexusRAG 使用知識圖譜做推理）
 - 📄 **文件解析** → [[document-parsing]]（RAG 的上游步驟）
@@ -66,19 +67,19 @@ result = rag.query("什麼是 Flash Attention？")
 
 ## 相關概念
 
+
 ← [[rag]] · [[Knowledge-Graph]] · [[document-parsing]]
 
 ## 來源
 
 - GitHub: https://github.com/LeDat98/NexusRAG
-- Stars: ⭐297
-- 收錄日期: 2026-05-09
+- 原始素材：`raw/2026-08-23-LeDat98-NexusRAG.md`
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/LeDat98/NexusRAG |
-| **Stars** | ⭐'⭐297' |
-| **收錄日期** | 2026-05-09 |
-| **License** | 未標示 |
+| GitHub | https://github.com/LeDat98/NexusRAG |
+| Stars | ⭐297|
+| License | 未標示 |
+| 收錄日期 | 2026-05-09 |

@@ -5,14 +5,15 @@ created: 2026-08-01
 updated: 2026-08-01
 stars: 10.8k
 language: PowerShell
-topics: cybersecurity, reverse-engineering, ai-skills, pentesting, ctf, llm-security
+topics: ["cybersecurity", "reverse-engineering", "ai-skills", "pentesting", "ctf", "llm-security"]
 ---
 
 # reverse-skill
 
-> ⭐10.8k · Cybersecurity Skills Router — 讓 AI Agent 遇到逆向工程、滲透測試、CTF 時不再瞎猜，自動路由到正確方法論和工具鏈
+> ⭐10800 · Cybersecurity Skills Router — 讓 AI Agent 遇到逆向工程、滲透測試、CTF 時不再瞎猜，自動路由到正確方法論和工具鏈
 
 ## 快速導航
+
 
 - 🧠 **AI Skills 概念** → [[AI-Skills|AI Skills]]
 - 🛡 **滲透測試概念** → [[pentesting|滲透測試]]
@@ -87,7 +88,8 @@ reverse-skill 的獨特定位是「路由器」而非「執行者」——它不
 
 ## 相關概念
 
-← [[AI-Skills|AI Skills]] · [[pentesting|滲透測試]] · [[prompt-security|Prompt 安全與越獄]] · [[MCP]]
+
+← [[AI-Skills]] · [[pentesting]] · [[prompt-security]] · [[MCP]]
 
 ## 來源
 
@@ -96,10 +98,9 @@ reverse-skill 的獨特定位是「路由器」而非「執行者」——它不
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/zhaoxuya520/reverse-skill |
-| **Stars** | ⭐10.8k |
-| **License** | MIT (CTF-Sandbox-Orchestrator: GPLv3, Pentest Swarm AI: AGPL-3.0) |
-| **Language** | PowerShell / Python / Bash |
-| **收錄日期** | 2026-08-01 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/zhaoxuya520/reverse-skill |
+| Stars | ⭐10800|
+| License | MIT (CTF-Sandbox-Orchestrator: GPLv3, Pentest Swarm AI: AGPL-3.0) |
+| 收錄日期 | 2026-08-01 |

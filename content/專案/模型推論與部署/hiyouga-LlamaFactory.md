@@ -17,9 +17,10 @@ topics:
 
 # LlamaFactory
 
-> ⭐72.5k · 統一高效微調 100+ LLMs & VLMs 的零代碼訓練框架
+> ⭐72532 · 統一高效微調 100+ LLMs & VLMs 的零代碼訓練框架
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]
 - 🤗 **Transformers** → [[huggingface-transformers|Transformers]]
 - ⚡ **vLLM** → [[vLLM]]
@@ -83,6 +84,7 @@ llamafactory-cli api \
 
 ## 相關概念
 
+
 ← [[LLM]] · [[huggingface-transformers]] · [[vLLM]]
 
 ## 來源
@@ -92,10 +94,9 @@ llamafactory-cli api \
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) |
-| Stars | ⭐72,532 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hiyouga/LlamaFactory |
+| Stars | ⭐72532|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-27 |

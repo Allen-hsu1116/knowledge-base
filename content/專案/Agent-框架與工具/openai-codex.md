@@ -10,9 +10,10 @@ topics: [Coding-Agent-CLI, AI-Agent, harness-engineering, AGENTS.md, AI-Skills, 
 
 # OpenAI Codex CLI
 
-> ⭐111.0k · OpenAI 官方開源 Coding Agent，主要以 Rust 實作，可在終端機、IDE、桌面 App 與非互動式自動化流程中執行程式開發任務。
+> ⭐110957 · OpenAI 官方開源 Coding Agent，主要以 Rust 實作，可在終端機、IDE、桌面 App 與非互動式自動化流程中執行程式開發任務。
 
 ## 快速導航
+
 
 - 💻 [[Coding-Agent-CLI]] — Codex 的主要產品形態與同類工具定位
 - 🤖 [[AI-Agent]] — 自主規劃、讀寫程式碼、執行命令與驗證結果
@@ -89,6 +90,7 @@ Codex CLI 的優勢是 OpenAI 官方維護、與 ChatGPT/Codex 產品線整合�
 
 ## 相關概念
 
+
 ← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[harness-engineering]] · [[AI-Skills]] · [[MCP]] · [[prompt-security]]
 
 ## 來源
@@ -99,9 +101,9 @@ Codex CLI 的優勢是 OpenAI 官方維護、與 ChatGPT/Codex 產品線整合�
 
 ---
 
-- **GitHub**: https://github.com/openai/codex
-- **Stars**: ⭐110,957（擷取於 2026-08-22）
-- **License**: Apache-2.0
-- **主要語言**: Rust
-- **最新擷取版本**: rust-v0.149.0（2026-08-20 發布）
-- **收錄日期**: 2026-08-22
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/openai/codex |
+| Stars | ⭐110957|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-08-22 |

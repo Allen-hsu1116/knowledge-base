@@ -10,9 +10,10 @@ topics: [ai, dashboard, geopolitics, monitoring, news, osint, opensource, palant
 
 # WorldMonitor
 
-> ⭐57.2k · 即時全球情報儀表板——AI 驅動的新聞聚合、地緣政治監控與基礎設施追蹤。
+> ⭐57245 · 即時全球情報儀表板——AI 驅動的新聞聚合、地緣政治監控與基礎設施追蹤。
 
 ## 快速導航
+
 [[sansan0-TrendRadar|TrendRadar]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[模型推論與部署|Ollama]] · [[open-webui-open-webui|Open WebUI]]
 
 ## 是什麼
@@ -67,7 +68,8 @@ WorldMonitor 與 [[sansan0-TrendRadar|TrendRadar]] 互補：TrendRadar 聚焦輿
 
 ## 相關概念
 
-← [[sansan0-TrendRadar|TrendRadar]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]] · [[open-webui-open-webui|Open WebUI]]
+
+← [[sansan0-TrendRadar]] · [[BigBodyCobain-Shadowbroker]] · [[open-webui-open-webui]]
 
 ## 來源
 
@@ -77,10 +79,9 @@ WorldMonitor 與 [[sansan0-TrendRadar|TrendRadar]] 互補：TrendRadar 聚焦輿
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) |
-| Stars | ⭐57,245 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/koala73/worldmonitor |
+| Stars | ⭐57245|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-20 |

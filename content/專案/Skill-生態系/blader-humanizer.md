@@ -10,9 +10,10 @@ topics: [agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineerin
 
 # Humanizer
 
-> ⭐35.8k · 便攜式 agent skill，移除 AI 生成文字的痕跡，讓文字聽起來更自然、更像真人寫的
+> ⭐35825 · 便攜式 agent skill，移除 AI 生成文字的痕跡，讓文字聽起來更自然、更像真人寫的
 
 ## 快速導航
+
 
 - 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[AI-Skills]]
 - ✍️ **Prompt 工程** → [[dair-ai-Prompt-Engineering-Guide]] · [[Prompt-Engineering]]
@@ -95,6 +96,7 @@ Now humanize this text:
 
 ## 相關概念
 
+
 ← [[agentskills-agentskills]] · [[AI-Skills]] · [[dair-ai-Prompt-Engineering-Guide]] · [[Prompt-Engineering]] · [[AI-Skills]]
 
 ## 來源
@@ -105,10 +107,9 @@ Now humanize this text:
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | blader/humanizer |
-| Stars | ⭐35.8k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/blader/humanizer |
+| Stars | ⭐35825|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-08-16 |

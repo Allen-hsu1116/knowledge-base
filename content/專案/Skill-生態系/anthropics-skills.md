@@ -10,9 +10,10 @@ topics: [AI Skills, Frontend Design, Web Testing]
 
 # Anthropic Skills
 
-> ⭐147.9k · Anthropic 官方 Agent Skills 庫，提供結構化的操作指令讓 AI Agent 執行前端設計等任務。
+> ⭐147937 · Anthropic 官方 Agent Skills 庫，提供結構化的操作指令讓 AI Agent 執行前端設計等任務。
 
 ## 快速導航
+
 
 - 🎨 [[frontend-design]] · 🧪 [[anthropics-skills]] · 🤖 [[AI-Skills]] · [[AI-Skills]]
 
@@ -84,6 +85,7 @@ python scripts/with_server.py \
 
 ## 相關概念
 
+
 - **SKILL.md**：技能定義檔的標準格式，是 Agent Skills 生態系的基本單位
 - **Prompt Engineering**：Skills 的本質是進階 prompt 工程，將隱性知識顯性化
 - **Agent Workflow**：Skills 讓 Agent 能以確定性流程完成開放性任務
@@ -91,7 +93,7 @@ python scripts/with_server.py \
 - **Playwright**：webapp-testing 技能使用的瀏覽器自動化框架
 - **Reconnaissance-then-Action**：先偵察再行動的測試模式，避免盲猜選擇器
 
-← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[AI-Skills]] · [[agentskills-agentskills|Agent Skills]]
+← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[AI-Skills]] · [[agentskills-agentskills]]
 
 ## 來源
 
@@ -99,13 +101,12 @@ python scripts/with_server.py \
 - `raw/2026-06-08-anthropics-skills-frontend-design.md`
 - `raw/2026-06-08-anthropics-skills-webapp-testing.md`
 - raw/2026-06-08-anthropics-skills.md
+
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | [anthropics/skills](https://github.com/anthropics/skills) |
-| Stars | 147,937 |
-| 語言 | Python |
-| 技能 | frontend-design, webapp-testing |
+| GitHub | https://github.com/anthropics/skills |
+| Stars | ⭐147937|
+| License | 未標示 |
 | 收錄日期 | 2026-06-08 |
-| **License** | 未標示 |

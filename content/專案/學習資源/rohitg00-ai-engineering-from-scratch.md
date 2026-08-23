@@ -10,9 +10,10 @@ topics: [LLM, AI Agent, MCP, 教學]
 
 # AI Engineering from Scratch
 
-> ⭐9.6k · 從數學到底到 agent swarm 的 AI 工程全方位課程，435 課、20 階段、約 320 小時
+> ⭐9567 · 從數學到底到 agent swarm 的 AI 工程全方位課程，435 課、20 階段、約 320 小時
 
 ## 快速導航
+
 
 - 🧠 **LLM 從零打造** → [[rasbt-LLMs-from-scratch|LLMs from Scratch]]（同作者 LLM 課程，本課程 Phase 10 延伸）
 - 🤖 **AI Agent** → [[AI-Agent]]（Phase 14-16 從 agent loop 到 autonomous swarms）
@@ -21,7 +22,10 @@ topics: [LLM, AI Agent, MCP, 教學]
 
 ## 是什麼
 
-AI Engineering from Scratch 是一個從數學到底到 agent swarm 的 AI 工程全方位課程，涵蓋 435 課、20 個階段、約 320 小時的學習內容。每堂課遵循「Motto → Problem → Concept → Build It（手刻原始數學）→ Use It（PyTorch/sklearn）→ Ship It（產出 artifact）」六步法，結束時都產出一個可用工具：prompt、skill、agent 或 MCP server。支援 Python、TypeScript、Rust、Julia 四種語言實作。
+
+AI Engineering from Scratch 是一個從數學到底到 agent swarm 的 AI 工程全方位課程，涵蓋 435 課、20 個階段、約 320 小時的學習內容。
+
+每堂課遵循「Motto → Problem → Concept → Build It（手刻原始數學）→ Use It（PyTorch/sklearn）→ Ship It（產出 artifact）」六步法，結束時都產出一個可用工具：prompt、skill、agent 或 MCP server。支援 Python、TypeScript、Rust、Julia 四種語言實作。
 
 ## 核心特色
 
@@ -59,14 +63,19 @@ cd ai-engineering-from-scratch
 
 ## 相關概念
 
-← [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[AI-Agent]] · [[MCP]] · [[microsoft-ai-agents-for-beginners|AI Agent 教學]]
+
+← [[rasbt-LLMs-from-scratch]] · [[AI-Agent]] · [[MCP]] · [[microsoft-ai-agents-for-beginners]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/rohitg00/ai-engineering-from-scratch)
 - raw/2026-05-22-rohitg00-ai-engineering-from-scratch.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | ⭐9,567 | 待確認 | 2026-05-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/rohitg00/ai-engineering-from-scratch |
+| Stars | ⭐9567|
+| License | 未標示 |
+| 收錄日期 | 2026-05-22 |

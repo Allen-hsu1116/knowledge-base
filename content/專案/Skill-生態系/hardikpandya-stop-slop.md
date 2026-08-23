@@ -10,14 +10,18 @@ topics: [AI Skills, Prompt Engineering, 寫作品質]
 
 # Stop Slop
 
-> ⭐5.7k · 移除 AI 寫作痕跡的 skill 檔案，教導 LLM 偵測並消除常見的 AI 寫作模式
+> ⭐5700 · 移除 AI 寫作痕跡的 skill 檔案，教導 LLM 偵測並消除常見的 AI 寫作模式
 
 ## 快速導航
+
 [[Prompt-Engineering]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[LLM]]
 
 ## 是什麼
 
-Stop Slop 是一個 Claude Code Skill，專門用來消除 AI 生成文字中常見的「slop」模式——那些讓人一眼看出是 AI 寫的陳腔濫調。它包含一套完整的禁用短語清單、結構性偵測規則和句子級規則，並透過 5 維度評分系統量化文字品質。
+
+Stop Slop 是一個 Claude Code Skill，專門用來消除 AI 生成文字中常見的「slop」模式——那些讓人一眼看出是 AI 寫的陳腔濫調。
+
+它包含一套完整的禁用短語清單、結構性偵測規則和句子級規則，並透過 5 維度評分系統量化文字品質。
 
 ## 核心特色
 
@@ -62,7 +66,8 @@ cd stop-slop
 | [[anthropics-claude-cookbooks|Claude Cookbooks]] | ⭐44k | 範例集 | ❌ | ❌ | ❌ |
 
 ## 相關概念
-← [[Prompt-Engineering]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[LLM]]
+
+← [[Prompt-Engineering]] · [[AI-Skills]] · [[AI-Skills]] · [[LLM]]
 
 ## 來源
 
@@ -71,10 +76,9 @@ cd stop-slop
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) |
-| Stars | ⭐5,700 |
-| License | — |
-| Language | Markdown |
-| 收錄日期 | 2026-05-28 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hardikpandya/stop-slop |
+| Stars | ⭐5700|
+| License | 未標示 |
+| 收錄日期 | 2026-01-11 |

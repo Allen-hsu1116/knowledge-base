@@ -10,9 +10,10 @@ topics: [agent-skills, ai-agent, automation, browser, browser-automation, claude
 
 # ego lite
 
-> ⭐10.4k · AI Agent 專用瀏覽器——你和 agent 在同一個瀏覽器裡並行工作，agent 在獨立 Space 跑任務，你的分頁不受干擾
+> ⭐10367 · AI Agent 專用瀏覽器——你和 agent 在同一個瀏覽器裡並行工作，agent 在獨立 Space 跑任務，你的分頁不受干擾
 
 ## 快速導航
+
 
 - 🤖 **Agent 框架** → [[browser-use-browser-use]] · [[alibaba-page-agent]]
 - 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[AI-Skills]]
@@ -85,6 +86,7 @@ npx skills add citrolabs/ego-lite
 
 ## 相關概念
 
+
 ← [[browser-use-browser-use]] · [[agentskills-agentskills]] · [[ChromeDevTools-chrome-devtools-mcp]] · [[alibaba-page-agent]] · [[CloakHQ-CloakBrowser]] · [[AI-Agent]]
 
 ## 來源
@@ -95,10 +97,9 @@ npx skills add citrolabs/ego-lite
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | citrolabs/ego-lite |
-| Stars | ⭐10.4k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/citrolabs/ego-lite |
+| Stars | ⭐10367|
 | License | MIT |
-| Language | JavaScript |
 | 收錄日期 | 2026-08-15 |

@@ -14,6 +14,7 @@ topics: [OCR, 文件解析, GPU 加速]
 
 ## 快速導航
 
+
 - 📄 **文件解析** → [[document-parsing]]（TurboOCR 是文件解析管線中的 OCR 環節）
 - 🔍 **RAG** → [[rag]]（OCR 是 RAG 系統的文件攝取步驟）
 - 🖥️ **GPU 加速** → [[模型推論與部署]]（TensorRT FP16 推論加速）
@@ -70,19 +71,19 @@ curl -X POST http://localhost:8000/ocr/batch \
 
 ## 相關概念
 
+
 ← [[document-parsing]] · [[rag]] · [[模型推論與部署]]
 
 ## 來源
 
 - GitHub: https://github.com/aiptimizer/TurboOCR
-- Stars: ⭐264
-- 收錄日期: 2026-05-09
+- 原始素材：`raw/2026-08-23-aiptimizer-TurboOCR.md`
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/aiptimizer/TurboOCR.git |
-| **Stars** | ⭐'⭐264' |
-| **收錄日期** | 2026-05-09 |
-| **License** | MIT |
+| GitHub | https://github.com/aiptimizer/TurboOCR |
+| Stars | ⭐264|
+| License | MIT |
+| 收錄日期 | 2026-05-09 |

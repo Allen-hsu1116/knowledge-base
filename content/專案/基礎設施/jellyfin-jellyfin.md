@@ -10,14 +10,18 @@ topics: [媒體串流, 自架平台, 開源]
 
 # Jellyfin
 
-> ⭐52.4k · 開源免費的媒體管理與串流系統，Plex 和 Emby 的替代方案
+> ⭐52381 · 開源免費的媒體管理與串流系統，Plex 和 Emby 的替代方案
 
 ## 快速導航
+
 [[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · NAS
 
 ## 是什麼
 
-Jellyfin 是開源的媒體管理與串流系統，作為專有軟體 Emby 和 Plex 的完全免費替代方案。從 Emby 3.5.2 fork 而來，移植到 .NET 平台以支援跨平台運行。沒有付費授權、沒有隱藏議題，完全由社群驅動。從自家伺服器串流影片、音樂、照片到各種終端裝置。
+
+Jellyfin 是開源的媒體管理與串流系統，作為專有軟體 Emby 和 Plex 的完全免費替代方案。
+
+從 Emby 3.5.2 fork 而來，移植到 .NET 平台以支援跨平台運行。沒有付費授權、沒有隱藏議題，完全由社群驅動。從自家伺服器串流影片、音樂、照片到各種終端裝置。
 
 ## 核心特色
 
@@ -63,7 +67,8 @@ brew install --cask jellyfin
 | [[paperless-ngx-paperless-ngx|Paperless-ngx]] | ⭐41.3k | 文件管理 | ✅ | ✅ | ✅ |
 
 ## 相關概念
-← [[self-hosted|自架服務]] · [[media-streaming|媒體串流]] · [[open-source-business|開源商業模式]] · NAS
+
+← [[self-hosted]] · [[media-streaming]] · [[open-source-business]]
 
 ## 來源
 
@@ -74,10 +79,9 @@ brew install --cask jellyfin
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) |
-| Stars | ⭐52,381 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jellyfin/jellyfin |
+| Stars | ⭐52381|
 | License | GPL-2.0 |
-| Language | C# |
 | 收錄日期 | 2026-05-27 |

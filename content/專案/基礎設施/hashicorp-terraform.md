@@ -5,14 +5,15 @@ created: 2026-07-11
 updated: 2026-07-11
 stars: 49167
 language: Go
-topics: cloud, cloud-management, graph, infrastructure-as-code, terraform
+topics: ["cloud", "cloud-management", "graph", "infrastructure-as-code", "terraform"]
 ---
 
 # Terraform
 
-> ⭐49.2k · Go · BSL 1.1 · HashiCorp 出品的基礎設施即程式碼工具，用高階語言定義、變更和版本化管理雲端資源
+> ⭐49167 · HashiCorp 出品的基礎設施即程式碼工具，用高階語言定義、變更和版本化管理雲端資源
 
 ## 快速導航
+
 
 - 🏗 **[[workflow-automation|工作流自動化]]** — Terraform 是 DevOps 自動化流程的關鍵工具
 - 🔗 **[[grpc-grpc|gRPC]]** — 微服務架構中 Terraform 管理基礎設施、gRPC 處理服務通訊
@@ -90,7 +91,8 @@ Terraform 管理基礎設施層，[[grpc-grpc|gRPC]] 處理微服務間的通訊
 
 ## 相關概念
 
-← [[workflow-automation|工作流自動化]] · [[grpc-grpc|gRPC]]
+
+← [[workflow-automation]] · [[grpc-grpc]]
 
 ## 來源
 
@@ -100,8 +102,9 @@ Terraform 管理基礎設施層，[[grpc-grpc|gRPC]] 處理微服務間的通訊
 
 ---
 
-- **GitHub**: https://github.com/hashicorp/terraform
-- **Stars**: ⭐ 49,167
-- **License**: Business Source License 1.1
-- **Language**: Go
-- **收錄日期**: 2026-07-11
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hashicorp/terraform |
+| Stars | ⭐49167|
+| License | Business Source License 1.1 |
+| 收錄日期 | 2026-07-11 |

@@ -17,9 +17,10 @@ topics:
 
 # Kimi CLI
 
-> ⭐9.5k · Moonshot AI 出品的終端 AI 編碼助手，支援 MCP、ACP、Shell 模式與 VS Code 整合
+> ⭐9490 · Moonshot AI 出品的終端 AI 編碼助手，支援 MCP、ACP、Shell 模式與 VS Code 整合
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]
 - 🔌 **MCP** → [[MCP]]
@@ -115,6 +116,7 @@ Kimi CLI 的差異化在於 **Shell 模式**（Ctrl-X 切換）和 **Zsh 整合*
 
 
 ## 相關概念
+
 ← [[Coding-Agent-CLI]] · [[MCP]] · [[AI-Agent]]
 
 ## 來源
@@ -125,10 +127,9 @@ Kimi CLI 的差異化在於 **Shell 模式**（Ctrl-X 切換）和 **Zsh 整合*
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) |
-| Stars | ⭐9,490 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/MoonshotAI/kimi-cli |
+| Stars | ⭐9490|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-07-19 |

@@ -10,9 +10,10 @@ topics: [Token Optimization, Prompt Engineering]
 
 # RTK (Rust Token Killer)
 
-> ⭐40,072 · 高效能 CLI proxy，攔截 Bash 命令輸出並壓縮，LLM token 消耗降 60-90%。單一二進位檔、零依賴、4 種壓縮策略。
+> ⭐40072 · 高效能 CLI proxy，攔截 Bash 命令輸出並壓縮，LLM token 消耗降 60-90%。單一二進位檔、零依賴、4 種壓縮策略。
 
 ## 快速導航
+
 
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 - 🛠 **AI 工作流** → [[AI-Agent]]
@@ -20,7 +21,10 @@ topics: [Token Optimization, Prompt Engineering]
 
 ## 是什麼
 
-RTK 是一個 Rust 寫的 CLI proxy，安裝在 LLM CLI 工具（Claude Code、Cursor 等）和 shell 之間，自動攔截並壓縮命令輸出。用 Bash hook 重寫命令（如 `git status` → `rtk git status`），LLM 完全不感知重寫，只看到壓縮後的輸出。4 種壓縮策略：Smart Filtering、Grouping、Truncation、Deduplication。
+
+RTK 是一個 Rust 寫的 CLI proxy，安裝在 LLM CLI 工具（Claude Code、Cursor 等）和 shell 之間，自動攔截並壓縮命令輸出。
+
+用 Bash hook 重寫命令（如 `git status` → `rtk git status`），LLM 完全不感知重寫，只看到壓縮後的輸出。4 種壓縮策略：Smart Filtering、Grouping、Truncation、Deduplication。
 
 ## 核心特色
 
@@ -103,14 +107,19 @@ rtk discover
 
 ## 相關概念
 
+
 ← [[Token-Optimization]] · [[AI-Agent]] · [[LLM]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/rtk-ai/rtk)
 - raw/2026-05-03-rtk.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ⭐40,072 | MIT | 2026-05-03 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/rtk-ai/rtk |
+| Stars | ⭐40072|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

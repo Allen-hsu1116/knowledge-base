@@ -19,9 +19,10 @@ topics:
 
 # DeepSeek-Reasonix
 
-> ⭐31.6k · DeepSeek 原生終端 Coding Agent — 專為 prefix-cache 穩定性設計，長時間運行不崩，99.82% cache hit
+> ⭐31619 · DeepSeek 原生終端 Coding Agent — 專為 prefix-cache 穩定性設計，長時間運行不崩，99.82% cache hit
 
 ## 快速導航
+
 
 - 🧠 [[harness-engineering\|Harness Engineering]] — Reasonix 的三支柱架構：Cache-first loop、Tool-call repair、Cost control
 - 🛠 [[Coding-Agent-CLI\|Coding Agent CLI]] — 終端優先的 Coding Agent 設計
@@ -101,7 +102,8 @@ Reasonix 的 prefix-cache 穩定性設計是 [[harness-engineering\|Harness Engi
 
 ## 相關概念
 
-← [[harness-engineering\|Harness Engineering]] · [[Coding-Agent-CLI\|Coding Agent CLI]] · [[AI-Agent\|AI Agent]] · [[Token-Optimization\|Token Optimization]]
+
+← [[harness-engineering]] · [[Coding-Agent-CLI]] · [[AI-Agent]] · [[Token-Optimization]]
 
 ## 來源
 
@@ -111,10 +113,9 @@ Reasonix 的 prefix-cache 穩定性設計是 [[harness-engineering\|Harness Engi
 
 ---
 
-| 項目 | 內容 |
-|---|---|
-| **GitHub** | https://github.com/esengine/DeepSeek-Reasonix |
-| **Stars** | ⭐ 31,619 |
-| **License** | MIT |
-| **Language** | Go (main-v2), TypeScript (legacy) |
-| **收錄日期** | 2026-08-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/esengine/DeepSeek-Reasonix |
+| Stars | ⭐31619|
+| License | MIT |
+| 收錄日期 | 2026-08-06 |

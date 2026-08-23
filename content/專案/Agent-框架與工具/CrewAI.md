@@ -10,15 +10,19 @@ topics: [AI Agent, 多 Agent 協作]
 
 # CrewAI
 
-> ⭐51,031 · 多 Agent 協作框架，讓 AI Agent 以角色扮演方式團隊合作。51K ⭐。
+> ⭐51031 · 多 Agent 協作框架，讓 AI Agent 以角色扮演方式團隊合作。51K ⭐。
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（CrewAI 是多 Agent 協作的代表框架）
 - 🔄 **Agent 自演化** → [[EvoMap-evolver]]（CrewAI 的角色分工與自演化互補）
 
 ## 是什麼
 
-CrewAI 是 Python 多 Agent 協作框架，讓多個 AI Agent 各自扮演不同角色，組成「Crew」團隊分工完成複雜任務。它完全獨立於 LangChain，從底層重寫，提供高層簡潔性和低層精細控制。51K+ stars，是 2023-2024 年最受歡迎的 Agent 框架之一，擁有 100K+ 開發者認證體系。
+
+CrewAI 是 Python 多 Agent 協作框架，讓多個 AI Agent 各自扮演不同角色，組成「Crew」團隊分工完成複雜任務。
+
+它完全獨立於 LangChain，從底層重寫，提供高層簡潔性和低層精細控制。51K+ stars，是 2023-2024 年最受歡迎的 Agent 框架之一，擁有 100K+ 開發者認證體系。
 
 ## 核心特色
 
@@ -81,22 +85,19 @@ result = crew.kickoff(inputs={"topic": "AI Agents"})
 CrewAI 之後，Agent 框架從「讓 LLM 自己跑」演進到「讓多個 LLM 角色分工合作」——如 CrewAI 的角色分工、Flows 的流程控制。
 
 ## 相關概念
+
 ← [[AI-Agent]] · [[LLM]] · [[EvoMap-evolver]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/crewAIInc/crewAI)
 - raw/2026-05-10-crewai.md
 
 ---
 
-- **GitHub**: https://github.com/crewAIInc/crewAI
-- **Stars**: ⭐51,031
-- **License**: MIT
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/crewAIInc/crewAI |
-| **Stars** | ⭐51,031 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/crewAIInc/crewAI |
+| Stars | ⭐51031|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

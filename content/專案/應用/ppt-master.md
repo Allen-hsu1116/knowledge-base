@@ -13,9 +13,10 @@ topics: [ai, ppt, presentation]
 
 # PPT Master
 
-> ⭐11.3k · AI 生成原可編輯 PPTX，從任何文件（PDF/DOCX/URL/Markdown）生成真正的 PowerPoint。⭐ 11.3k
+> ⭐11300 · AI 生成原可編輯 PPTX，從任何文件（PDF/DOCX/URL/Markdown）生成真正的 PowerPoint。⭐ 11.3k
 
 ## 快速導航
+
 - ⚡ [[AI-presentation]] · [[generative-AI]] · [[MCP]]
 
 ## 是什麼
@@ -73,6 +74,7 @@ pip install -r requirements.txt
 PPT Master 和 [[presenton-presenton|Presenton]] 是唯二的開源 AI 簡報方案。PPT Master 專注在原生 PPTX 生成品質和語音旁白，Presenton 則強調 MCP 整合和自架 API。兩者互補而非競爭。
 
 ## 相關概念
+
 ← [[AI-presentation]] · [[generative-AI]] · [[MCP]] · [[AI-presentation]]
 
 ## 來源
@@ -82,10 +84,9 @@ PPT Master 和 [[presenton-presenton|Presenton]] 是唯二的開源 AI 簡報方
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) |
-| Stars | ⭐11.3k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hugohe3/ppt-master |
+| Stars | ⭐11300|
 | License | MIT |
-| Language | zh-TW |
 | 收錄日期 | 2026-05-05 |

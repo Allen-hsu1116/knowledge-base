@@ -20,9 +20,10 @@ topics:
 
 # AI for Beginners
 
-> ⭐49.4k · 微軟出品 12 週 24 課 AI 入門課程，從符號 AI 到深度學習、電腦視覺、NLP 和強化學習，涵蓋 TensorFlow 和 PyTorch 雙框架
+> ⭐49365 · 微軟出品 12 週 24 課 AI 入門課程，從符號 AI 到深度學習、電腦視覺、NLP 和強化學習，涵蓋 TensorFlow 和 PyTorch 雙框架
 
 ## 快速導航
+
 
 - 📖 **學習資源** → [[mlabonne-llm-course|LLM Course]] · [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]]
 - 🧠 **AI 基礎** → [[LLM]] · [[AI-Agent]]
@@ -72,6 +73,7 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ## 跟其他方案的關係
 
+
 - **[[mlabonne-llm-course|LLM Course]]** → 專注 LLM 的進階課程（微調、量化），AI for Beginners 是更廣泛的 AI 基礎入門
 - **[[microsoft-ai-agents-for-beginners|AI Agents for Beginners]]** → 微軟另一套課程，聚焦 AI Agent 和 MCP，是 AI for Beginners 的延伸
 - **[[rasbt-LLMs-from-scratch|LLMs from Scratch]]** → 從零建構 LLM 的深入教材，AI for Beginners 的第 20 課是入門版
@@ -80,8 +82,14 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ← [[mlabonne-llm-course|LLM Course]] · [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]] · [[AI-Tutoring]] · [[harvard-edge-cs249r_book|ML Systems (CS249r)]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[mlabonne-llm-course]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[microsoft-ai-agents-for-beginners]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[mlabonne-llm-course]] · [[microsoft-ai-agents-for-beginners]] · [[LLM]] · [[AI-Agent]]
 
@@ -93,10 +101,9 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) |
-| Stars | ⭐49,365 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/AI-For-Beginners |
+| Stars | ⭐49365|
 | License | MIT |
-| Language | Jupyter Notebook |
 | 收錄日期 | 2026-07-01 |

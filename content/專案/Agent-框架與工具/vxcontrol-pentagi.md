@@ -5,14 +5,15 @@ created: 2026-07-10
 updated: 2026-07-10
 stars: 19.4k
 language: Go
-topics: ai-agents, ai-security-tool, autonomous-agents, penetration-testing, multi-agent-system, security-automation, self-hosted
+topics: ["ai-agents", "ai-security-tool", "autonomous-agents", "penetration-testing", "multi-agent-system", "security-automation", "self-hosted"]
 ---
 
 # PentAGI
 
-> ⭐19.4k · 全自主 AI Agent 滲透測試系統，在沙箱中自動規劃並執行複雜的資安測試任務
+> ⭐19400 · 全自主 AI Agent 滲透測試系統，在沙箱中自動規劃並執行複雜的資安測試任務
 
 ## 快速導航
+
 
 - 🔒 **滲透測試** → [[pentesting]]
 - 🤖 **AI Agent** → [[AI-Agent]]
@@ -76,7 +77,8 @@ PentAGI 與 [[pentesting|滲透測試]] 概念直接相關，代表了 AI Agent 
 
 ## 相關概念
 
-← [[pentesting] · [[AI-Agent] · [[AI-Skills] · [[usestrix-strix]
+
+← [[pentesting]] · [[AI-Agent]]
 
 ## 來源
 
@@ -86,10 +88,9 @@ PentAGI 與 [[pentesting|滲透測試]] 概念直接相關，代表了 AI Agent 
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/vxcontrol/pentagi |
-| **Stars** | ⭐19,402 |
-| **License** | MIT |
-| **Language** | Go |
-| **收錄日期** | 2026-07-10 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/vxcontrol/pentagi |
+| Stars | ⭐19400|
+| License | MIT |
+| 收錄日期 | 2026-07-10 |

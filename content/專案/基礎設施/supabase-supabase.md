@@ -5,14 +5,15 @@ created: 2026-07-04
 updated: 2026-07-04
 stars: 105480
 language: TypeScript
-topics: database, postgres, pgvector, ai, auth, realtime, storage, edge-functions
+topics: ["database", "postgres", "pgvector", "ai", "auth", "realtime", "storage", "edge-functions"]
 ---
 
 # Supabase
 
-> ⭐105.5k · The Postgres development platform — 開源 Firebase 替代方案，內建 pgvector 向量搜尋，AI 應用一站式後端
+> ⭐105480 · The Postgres development platform — 開源 Firebase 替代方案，內建 pgvector 向量搜尋，AI 應用一站式後端
 
 ## 快速導航
+
 
 - 🧠 **向量資料庫** → [[向量資料庫]]
 - 🛠 **RAG** → [[rag|RAG]]
@@ -111,6 +112,7 @@ Supabase 與 [[Mintplex-Labs-anything-llm|AnythingLLM]] 和 [[ragflow|RAGFlow]] 
 
 ## 相關概念
 
+
 ← [[向量資料庫]] · [[rag]] · [[Mintplex-Labs-anything-llm]] · [[logto-io-logto]]
 
 ## 來源
@@ -122,10 +124,9 @@ Supabase 與 [[Mintplex-Labs-anything-llm|AnythingLLM]] 和 [[ragflow|RAGFlow]] 
 
 ---
 
-| 欄位 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/supabase/supabase |
-| **Stars** | ⭐105,480 |
-| **License** | Apache-2.0 |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-07-04 |
+| GitHub | https://github.com/supabase/supabase |
+| Stars | ⭐105480|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-04 |

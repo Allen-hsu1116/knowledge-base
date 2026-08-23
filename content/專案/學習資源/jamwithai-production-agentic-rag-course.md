@@ -10,9 +10,10 @@ topics: [RAG, Agentic RAG, OpenSearch, FastAPI, 課程]
 
 # Production Agentic RAG Course
 
-> ⭐6.4k · 從基礎設施到 Agentic RAG 的 7 週實戰課程，用 arXiv 論文策展人帶你打造生產級 RAG 系統
+> ⭐6376 · 從基礎設施到 Agentic RAG 的 7 週實戰課程，用 arXiv 論文策展人帶你打造生產級 RAG 系統
 
 ## 快速導航
+
 [[rag|RAG]] · [[LangChain]] · [[document-parsing|文件解析]]
 
 ## 是什麼
@@ -70,7 +71,8 @@ git clone --branch week1.0 https://github.com/jamwithai/arxiv-paper-curator
 | [[rasbt-LLMs-from-scratch|LLMs from Scratch]] | ⭐93.8k | 課程 | 從零訓練 LLM | Python |
 
 ## 相關概念
-← [[rag]] · [[LangChain]] · [[document-parsing|文件解析]]
+
+← [[rag]] · [[LangChain]] · [[document-parsing]]
 
 ## 來源
 
@@ -79,10 +81,9 @@ git clone --branch week1.0 https://github.com/jamwithai/arxiv-paper-curator
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) |
-| Stars | ⭐6,376 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jamwithai/production-agentic-rag-course |
+| Stars | ⭐6376|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-03 |

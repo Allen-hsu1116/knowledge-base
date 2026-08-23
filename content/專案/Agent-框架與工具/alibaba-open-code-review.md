@@ -16,9 +16,10 @@ topics:
 
 # Open Code Review
 
-> ⭐11.5k · 阿里巴巴開源的 AI 程式碼審查工具，混合確定性工程 + LLM Agent 架構，精確到行級的 review 評論
+> ⭐11528 · 阿里巴巴開源的 AI 程式碼審查工具，混合確定性工程 + LLM Agent 架構，精確到行級的 review 評論
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🛠 **AI Skills** → [[AI-Skills]]
@@ -98,6 +99,7 @@ Open Code Review 的核心差異化在於「確定性工程 × Agent 混合架�
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -108,10 +110,9 @@ Open Code Review 的核心差異化在於「確定性工程 × Agent 混合架�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
-| Stars | ⭐11,528 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/alibaba/open-code-review |
+| Stars | ⭐11528|
 | License | Apache-2.0 |
-| Language | Go |
 | 收錄日期 | 2026-07-24 |

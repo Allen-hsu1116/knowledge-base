@@ -10,9 +10,10 @@ topics: [多Agent編排, Swarm, 聯邦通訊]
 
 # Ruflo
 
-> ⭐47k · 多 Agent AI 編排平台，為 Claude Code 加入神經系統——Agent 自組織成 Swarm、自我學習、跨機器聯邦通訊。⭐47k
+> ⭐47000 · 多 Agent AI 編排平台，為 Claude Code 加入神經系統——Agent 自組織成 Swarm、自我學習、跨機器聯邦通訊。⭐47k
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（Ruflo 是多 Agent 編排平台）
 - 🔌 **MCP** → [[MCP]]（Ruflo 提供 MCP Server 整合）
@@ -20,7 +21,10 @@ topics: [多Agent編排, Swarm, 聯邦通訊]
 
 ## 是什麼
 
-Ruflo（前身 Claude Flow）是一個多 Agent AI 編排平台。一個 `npx ruflo init` 就給 Claude Code 一套神經系統：Agent 自組織成 swarm、從每個任務中學習、跨 session 記憶，並透過聯邦通訊安全地與其他機器上的 Agent 交換工作。
+
+Ruflo（前身 Claude Flow）是一個多 Agent AI 編排平台。
+
+一個 `npx ruflo init` 就給 Claude Code 一套神經系統：Agent 自組織成 swarm、從每個任務中學習、跨 session 記憶，並透過聯邦通訊安全地與其他機器上的 Agent 交換工作。
 
 ## 核心特色
 
@@ -72,20 +76,20 @@ Web UI：flo.ruv.io — 多模型聊天，平行 MCP tool calling，持久向量
 
 ## 相關概念
 
-← [[AI-Agent]] · [[MCP]] · [[bytedance-deer-flow|DeerFlow]]
+
+← [[AI-Agent]] · [[MCP]] · [[bytedance-deer-flow]]
 
 ## 來源
 
 - [原始資料](../raw/2026-05-09-ruvnet-ruflo.md)
 - GitHub: https://github.com/ruvnet/ruflo
-- Stars: ⭐47,000
 - License: MIT
-- 收錄日期: 2026-05-09
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/ruvnet/ruflo |
-| **Stars** | ⭐'⭐47k' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/ruvnet/ruflo |
+| Stars | ⭐47000|
+| License | MIT |
+| 收錄日期 | 2026-05-09 |

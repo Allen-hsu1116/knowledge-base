@@ -10,7 +10,7 @@ topics: [MCP, Browser, AI Agent]
 
 # chrome-devtools-mcp
 
-> ⭐40k · chrome-devtools-mcp
+> ⭐46697 · chrome-devtools-mcp
 
 - **Repo**: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - **Stars**: 40k ⭐
@@ -22,6 +22,7 @@ topics: [MCP, Browser, AI Agent]
 Chrome DevTools 的 MCP server——讓 coding agent 直接控制活瀏覽器，做效能分析、网络调试和可靠自動化。
 
 ## 快速導航
+
 
 - ⚡ [[MCP]] · [[Coding-Agent-CLI]] · [[AI-Agent]]
 
@@ -109,6 +110,7 @@ Check the performance of https://developers.chrome.com
 
 ## 相關概念
 
+
 ← [[MCP]] · [[Coding-Agent-CLI]] · [[AI-Agent]]
 
 ## 為什麼值得關注
@@ -119,12 +121,14 @@ Check the performance of https://developers.chrome.com
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [原始資料](../raw/2026-05-22-ChromeDevTools-chrome-devtools-mcp.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/ChromeDevTools/chrome-devtools-mcp |
-| **收錄日期** | 2026-05-22 |
-| **License** | Apache-2.0 |
+| GitHub | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| Stars | ⭐46697|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-22 |

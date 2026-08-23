@@ -15,9 +15,10 @@ topics:
 
 # Pocket TTS
 
-> ⭐6.2k · 裝得進口袋的 CPU 級 TTS——100M 參數、6 倍即時速度、200ms 首段延遲，MacBook Air M4 上只用 2 核心
+> ⭐6168 · 裝得進口袋的 CPU 級 TTS——100M 參數、6 倍即時速度、200ms 首段延遲，MacBook Air M4 上只用 2 核心
 
 ## 快速導航
+
 - [[語音辨識]]
 - [[embedded-AI]]
 - [[模型推論與部署]]
@@ -98,7 +99,8 @@ scipy.io.wavfile.write("output.wav", tts_model.sample_rate, audio.numpy())
 
 ## 相關概念
 
-← [[語音辨識] · [[embedded-AI] · [[模型推論與部署] · [[jamiepine-voicebox] · [[OpenBMB-VoxCPM]
+
+← [[語音辨識]] · [[embedded-AI]]
 
 ## 來源
 
@@ -111,10 +113,9 @@ scipy.io.wavfile.write("output.wav", tts_model.sample_rate, audio.numpy())
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) |
-| Stars | ⭐6,168 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/kyutai-labs/pocket-tts |
+| Stars | ⭐6168|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-08 |

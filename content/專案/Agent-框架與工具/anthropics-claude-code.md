@@ -10,9 +10,10 @@ topics: [Coding Agent CLI, AI Agent, Git 工作流]
 
 # Claude Code
 
-> ⭐128k · Anthropic 官方終端機 AI 編碼助手，用自然語言指令理解程式碼庫、自動執行任務
+> ⭐127875 · Anthropic 官方終端機 AI 編碼助手，用自然語言指令理解程式碼庫、自動執行任務
 
 ## 快速導航
+
 [[Coding-Agent-CLI|Coding Agent CLI]] · [[AI-Agent|AI Agent]] · [[MCP]]
 
 ## 是什麼
@@ -73,7 +74,8 @@ claude
 Claude Code 與 [[Coding-Agent-CLI|Coding Agent CLI]] 概念密切相關，是目前市場上最成熟的 agentic coding 工具之一。它與 [[MCP]] 協議整合，可以連接外部工具和資料來源。[[affaan-m-everything-claude-code|Everything Claude Code]] 是圍繞它建立的最大社群 Skills 庫。
 
 ## 相關概念
-← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]] · [[affaan-m-everything-claude-code]] · [[browser-use-video-use|video-use]] · [[ogulcancelik-herdr|herdr]]
+
+← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]] · [[affaan-m-everything-claude-code]] · [[browser-use-video-use]] · [[ogulcancelik-herdr]]
 
 ## 來源
 
@@ -82,10 +84,9 @@ Claude Code 與 [[Coding-Agent-CLI|Coding Agent CLI]] 概念密切相關，是�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [anthropics/claude-code](https://github.com/anthropics/claude-code) |
-| Stars | ⭐127,875 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anthropics/claude-code |
+| Stars | ⭐127875|
 | License | 未指定（Anthropic 商業授權） |
-| Language | Python |
 | 收錄日期 | 2026-05-30 |

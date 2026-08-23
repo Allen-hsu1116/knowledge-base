@@ -13,6 +13,7 @@ topics: [金融預測, LLM 基礎模型, K 線]
 > ⭐24824 · 金融市場 K 線的基礎模型，在超過 45 個全球交易所資料上預訓練，AAAI 2026 接受。機率性預測 + 金融 tokenizer，4.1M 到 499.2M 多規格。⭐24,824
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（Kronos 使用 Transformer 架構，是金融領域的基礎模型）
 - 📊 **AI Trader** → [[HKUDS-AI-Trader]]（金融市場交易平台）
 - 📊 **Daily Stock** → [[daily-stock-analysis]]（日常股票分析工具）
@@ -20,7 +21,10 @@ topics: [金融預測, LLM 基礎模型, K 線]
 
 ## 是什麼
 
-Kronos 是第一個專為金融 K 線（蠟燭圖）序列設計的開源基礎模型，在超過 45 個全球交易所的資料上預訓練，已被 AAAI 2026 接受。不同於通用時間序列基礎模型（TSFM），Kronos 使用新穎的兩階段框架：先用專門的 tokenizer 將連續的多維 K 線資料（OHLCV）量化為層級化的離散 token，再用大型自回歸 Transformer 在這些 token 上預訓練。
+
+Kronos 是第一個專為金融 K 線（蠟燭圖）序列設計的開源基礎模型，在超過 45 個全球交易所的資料上預訓練，已被 AAAI 2026 接受。
+
+不同於通用時間序列基礎模型（TSFM），Kronos 使用新穎的兩階段框架：先用專門的 tokenizer 將連續的多維 K 線資料（OHLCV）量化為層級化的離散 token，再用大型自回歸 Transformer 在這些 token 上預訓練。
 
 ## 核心特色
 
@@ -65,23 +69,19 @@ pred_df = predictor.predict(
 
 ## 相關概念
 
-← [[LLM]] · [[HKUDS-AI-Trader]] · [[模型推論與部署]] · [[google-research-timesfm|TimesFM]]
+
+← [[LLM]] · [[HKUDS-AI-Trader]] · [[模型推論與部署]] · [[google-research-timesfm]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/shiyu-coder/Kronos)
 - raw/2026-05-15-shiyu-coder-Kronos.md
 
 ---
 
-- **GitHub**: https://github.com/shiyu-coder/Kronos
-- **Stars**: ⭐24,824
-- **License**: MIT
-- **收錄日期**: 2026-05-15
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/shiyu-coder/Kronos |
-| **Stars** | ⭐'⭐24824' |
-| **收錄日期** | 2026-05-15 |
+| GitHub | https://github.com/shiyu-coder/Kronos |
+| Stars | ⭐24824|
+| License | MIT |
+| 收錄日期 | 2026-05-15 |

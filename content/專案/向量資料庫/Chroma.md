@@ -10,15 +10,19 @@ topics: [RAG, 向量資料庫]
 
 # Chroma
 
-> ⭐27,889 · 開源 AI 向量資料庫，API 極簡（只有 4 個核心函數），適合快速原型。27.9K ⭐。
+> ⭐27889 · 開源 AI 向量資料庫，API 極簡（只有 4 個核心函數），適合快速原型。27.9K ⭐。
 
 ## 快速導航
+
 - 📚 **RAG** → [[rag]]（Chroma 是 RAG 原型開發的首選向量資料庫）
 - 🤖 **AI Agent** → [[AI-Agent]]（Chroma 常作為 Agent 的記憶層）
 
 ## 是什麼
 
-Chroma 是開源 AI 向量資料庫，最大的特點是 API 極簡——只有 4 個核心函數（create_collection、add、query、get），5 分鐘就能跑起來。它自動處理嵌入，不需要自己算向量，是 RAG 原型開發的首選。
+
+Chroma 是開源 AI 向量資料庫，最大的特點是 API 極簡——只有 4 個核心函數（create_collection、add、query、get），5 分鐘就能跑起來。
+
+它自動處理嵌入，不需要自己算向量，是 RAG 原型開發的首選。
 
 ## 核心特色
 
@@ -74,22 +78,19 @@ results = collection.query(
 | Weaviate | 向量資料庫 | Weaviate 內建模組化，Chroma 更輕量 |
 
 ## 相關概念
+
 ← [[rag]] · [[AI-Agent]] · [[open-webui-open-webui]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/chroma-core/chroma)
 - raw/2026-05-10-chroma.md
 
 ---
 
-- **GitHub**: https://github.com/chroma-core/chroma
-- **Stars**: ⭐27,889
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/chroma-core/chroma |
-| **Stars** | ⭐27,889 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/chroma-core/chroma |
+| Stars | ⭐27889|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

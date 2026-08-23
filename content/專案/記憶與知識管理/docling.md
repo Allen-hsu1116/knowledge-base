@@ -16,13 +16,17 @@ topics: [RAG, 文件解析]
 
 ## 快速導航
 
+
 - 📚 **知識庫上游** → [[llm-knowledge-base]]（Docling 是知識管線的 parsing 層）
 - 🏰 **記憶系統** → [[mempalace]]（Docling 解析 → MemPalace 儲存/檢索）
 - 🔄 **Agent 工作流** → [[AI-Agent]]（文件解析是 RAG 管線的基礎）
 
 ## 是什麼
 
-Docling 解決的是 AI 應用的「上游」問題：在你能讓 LLM 讀懂文件之前，你必須先把文件從各種格式中解析出來。它是 LLM/RAG 知識管線的基礎設施層。支援 PDF（頁面佈局、閱讀順序、表格結構、程式碼、公式、圖片分類）、DOCX、PPTX、XLSX、HTML、圖片、音訊、LaTeX、專業 XML（USPTO 專利、JATS 論文、XBRL 財報）、WebVTT 影音字幕等格式。
+
+Docling 解決的是 AI 應用的「上游」問題：在你能讓 LLM 讀懂文件之前，你必須先把文件從各種格式中解析出來。
+
+它是 LLM/RAG 知識管線的基礎設施層。支援 PDF（頁面佈局、閱讀順序、表格結構、程式碼、公式、圖片分類）、DOCX、PPTX、XLSX、HTML、圖片、音訊、LaTeX、專業 XML（USPTO 專利、JATS 論文、XBRL 財報）、WebVTT 影音字幕等格式。
 
 ## 核心特色
 
@@ -64,6 +68,7 @@ docling --pipeline vlm --vlm-model granite_docling https://arxiv.org/pdf/2206.01
 
 ## 跟其他方案的關係
 
+
 Docling 是 [[llm-knowledge-base]] 和 [[AI-Agent]] 的基礎設施層。沒有好的文件解析，就沒有好的知識庫和 RAG。
 
 跟 [[cocoindex]] 的關係：Docling 負責上游文件解析（PDF→結構化資料），CocoIndex 負責下游增量索引（結構化資料→向量搜尋）。兩者互補，Docling 解析 → CocoIndex 索引。
@@ -72,21 +77,27 @@ Docling 是 [[llm-knowledge-base]] 和 [[AI-Agent]] 的基礎設施層。沒有�
 
 59k ⭐ 說明這是社群公認的文件解析標準。IBM 開源但社群驅動，不是封閉產品。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[llm-knowledge-base]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[llm-knowledge-base]] · [[mempalace]] · [[AI-Agent]] · [[cocoindex]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/docling-project/docling)
 - raw/2026-05-03-docling.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/docling-project/docling |
-| Stars | ⭐59,878 |
-| Language | Python |
-| 建立日期 | 2024-07-09 |
-| 授權 | MIT |
+| Stars | ⭐59878|
+| License | 未標示 |
 | 收錄日期 | 2026-05-03 |

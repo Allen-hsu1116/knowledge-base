@@ -28,9 +28,10 @@ topics:
 
 # Orca
 
-> ⭐6.8k · TypeScript · YC 培育的 Agent 開發環境（ADE），讓你用平行 worktree 同時跑多個 coding agent，桌面 + 手機遠端監控
+> ⭐6800 · YC 培育的 Agent 開發環境（ADE），讓你用平行 worktree 同時跑多個 coding agent，桌面 + 手機遠端監控
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
 - 🔄 **Agent 編排** → [[bytedance-deer-flow|DeerFlow]]
@@ -47,6 +48,7 @@ Orca 的核心理念是「100x builders」——讓一個人透過平行 agent �
 
 ## 核心特色
 
+
 1. **平行 Worktree** — 一個 prompt 同時 fan-out 到五個 agent，各自在獨立 git worktree 中工作，比較結果後合併最佳版本
 2. **手機 Companion App** — iOS / Android 支援，出門也能監控 agent 進度、收完成通知、發 follow-up 指令
 3. **內嵌 Chromium + Design Mode** — 點擊任何 UI 元素，自動把 HTML、CSS 和裁剪截圖送進 agent 的 prompt，讓 agent 看到真實渲染結果
@@ -54,6 +56,10 @@ Orca 的核心理念是「100x builders」——讓一個人透過平行 agent �
 5. **SSH Worktree** — 在遠端機器上跑 agent，完整檔案編輯、git、終端機，自動重連 + 端口轉發
 6. **AI Diff 標注** — 在任何 diff 行上留言、回送給 agent，review、編輯、commit 不離開 Orca
 7. **Orca CLI** — agent 也能驅動 Orca：`orca worktree create`、`snapshot`、`click`、`fill`，支援 Computer Use 讓 agent 操作桌面應用
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -96,7 +102,8 @@ Orca 跟 CC Switch 的差異在於：CC Switch 是跨平台桌面管理器，切
 
 ## 相關概念
 
-← [[Coding-Agent-CLI|Coding Agent CLI]] · [[AI-Agent|AI Agent]] · [[bytedance-deer-flow|DeerFlow]] · [[farion1231-cc-switch|CC Switch]]
+
+← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[bytedance-deer-flow]] · [[farion1231-cc-switch]]
 
 ## 來源
 
@@ -105,10 +112,9 @@ Orca 跟 CC Switch 的差異在於：CC Switch 是跨平台桌面管理器，切
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/stablyai/orca |
-| **Stars** | ⭐6.8k |
-| **License** | MIT |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-06-25 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/stablyai/orca |
+| Stars | ⭐6800|
+| License | MIT |
+| 收錄日期 | 2026-06-25 |

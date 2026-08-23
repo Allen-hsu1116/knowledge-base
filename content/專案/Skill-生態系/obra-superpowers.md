@@ -13,6 +13,7 @@ topics: [AI Skills, AI Agent, 方法論]
 > ⭐189 · Agentic skills framework & software development methodology that works. 先思考再動手，subagent 驅動開發，TDD 強制執行。⭐189K+
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（Superpowers 是 agentic framework，讓 coding agent 遵循開發方法論）
 - 🛠 **Agent Skills** → [[AI-Skills]]（核心是可組合的 skills 系統）
 - 💻 **Coding Agent CLI** → [[Coding-Agent-CLI]]（支援 Claude Code、Codex CLI、Cursor 等）
@@ -70,23 +71,19 @@ gemini extensions install https://github.com/obra/superpowers
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[self-correction]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/obra/superpowers)
 - raw/2026-05-14-obra-superpowers.md
 
 ---
 
-- **GitHub**: https://github.com/obra/superpowers
-- **Stars**: ⭐189,521
-- **License**: MIT
-- **收錄日期**: 2026-05-14
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/obra/superpowers |
-| **Stars** | ⭐'⭐189' |
-| **收錄日期** | 2026-05-14 |
+| GitHub | https://github.com/obra/superpowers |
+| Stars | ⭐189|
+| License | MIT |
+| 收錄日期 | 2026-05-14 |

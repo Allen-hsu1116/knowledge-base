@@ -13,15 +13,14 @@ updated: 2026-06-14
 
 # Pi Agent Harness
 
-> ⭐53931
-
-⭐ 54k · AI agent 工具包：coding agent CLI、統一 LLM API、TUI 和 Web UI 元件庫、Slack bot、vLLM pods 一次到位。
+> ⭐53931 · AI agent 工具包：coding agent CLI、統一 LLM API、TUI 和 Web UI 元件庫、Slack bot、vLLM pods 一次到位。
 
 ## 一句話
 
 Pi 是一個 monorepo 形式的 AI agent harness，包含互動式 coding agent CLI、統一多供應商 LLM API、Agent runtime（工具呼叫 + 狀態管理）、TUI 渲染庫，還提供 Slack bot 和 vLLM pods——一整套讓 AI coding agent 從 prototype 到 production 的基礎建設。
 
 ## 快速導航
+
 
 - ⚡ [[Coding-Agent-CLI]] · [[AI-Skills]] · [[AI-Agent]]
 
@@ -101,6 +100,7 @@ Pi 支援將開源工作階段發布到 Hugging Face，幫助改善 coding agent
 
 ## 相關概念
 
+
 ← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[AI-Agent]]
 
 ## 為什麼重要
@@ -114,10 +114,9 @@ Pi 不只是一個 coding agent——它把 agent 開發的每層都做成了獨
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [earendil-works/pi](https://github.com/earendil-works/pi) |
-| Stars | ⭐53931 |
-| License | — |
-| Language | TypeScript |
-| 收錄日期 | 2026-05-25 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/earendil-works/pi |
+| Stars | ⭐53931|
+| License | 未標示 |
+| 收錄日期 | 2026-05-26 |

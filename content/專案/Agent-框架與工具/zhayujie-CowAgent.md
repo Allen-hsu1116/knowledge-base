@@ -19,9 +19,10 @@ topics:
 
 # CowAgent
 
-> ⭐45.6k · 開源超級 AI 助理，Agent Harness 工程參考實作 — 規劃、記憶、知識庫、自演化一站搞定
+> ⭐45643 · 開源超級 AI 助理，Agent Harness 工程參考實作 — 規劃、記憶、知識庫、自演化一站搞定
 
 ## 快速導航
+
 - 🧠 **Harness Engineering** → [[harness-engineering|Harness Engineering]]
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
@@ -77,6 +78,7 @@ docker compose up -d
 
 ## 相關概念
 
+
 ← [[harness-engineering]] · [[AI-Agent]] · [[MCP]]
 
 ## 來源
@@ -86,10 +88,9 @@ docker compose up -d
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) |
-| Stars | ⭐45,643 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/zhayujie/CowAgent |
+| Stars | ⭐45643|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-28 |

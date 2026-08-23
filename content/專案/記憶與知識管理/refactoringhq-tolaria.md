@@ -10,9 +10,10 @@ topics: [Markdown 知識庫, Git-first, AI Agent 整合, 桌面應用]
 
 # Tolaria
 
-> ⭐14k · 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合
+> ⭐13580 · 開源 Markdown 知識庫管理桌面應用，Git-first、離線優先，支援 AI Agent 整合
 
 ## 快速導航
+
 [[self-hosted]] · [[llm-knowledge-base]] · [[llm-knowledge-base]]
 
 ## 是什麼
@@ -62,6 +63,7 @@ pnpm tauri dev  # 原生桌面應用
 Tolaria 與 Obsidian 的定位不同：Obsidian 是成熟的外掛生態系統，有大綱檢視和社群外掛；Tolaria 更強調 Git-first 和 AI Agent 原生整合，以及用 Tauri 取代 Electron 的效能優勢。Tolaria 的「離線優先、零鎖定」哲學也非常鮮明。
 
 ## 相關概念
+
 ← [[self-hosted]] · [[llm-knowledge-base]] · [[llm-knowledge-base]]
 
 ## 來源
@@ -71,10 +73,9 @@ Tolaria 與 Obsidian 的定位不同：Obsidian 是成熟的外掛生態系統�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) |
-| Stars | ⭐13,580 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/refactoringhq/tolaria |
+| Stars | ⭐13580|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-09 |

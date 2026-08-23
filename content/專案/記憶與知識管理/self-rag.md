@@ -14,6 +14,7 @@ stars: 2377
 
 ## 快速導航
 
+
 - 📚 **RAG** → [[rag]]（Self-RAG 是 RAG 的進化版）
 - 🧠 **LLM** → [[LLM]]（Self-RAG 訓練 LLM 學習反思 token）
 - 🔄 **自我修正** → [[self-correction]]（Self-RAG 的反思機制是自我修正的一種形式）
@@ -76,14 +77,19 @@ sampling_params = SamplingParams(temperature=0.0, top_p=1.0, max_tokens=100, ski
 
 ## 相關概念
 
+
 ← [[rag]] · [[LLM]] · [[self-correction]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/AkariAsai/self-rag)
 - raw/2026-05-11-self-rag.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [AkariAsai/self-rag](https://github.com/AkariAsai/self-rag) | ⭐2,377 | MIT | 2026-05-11 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/AkariAsai/self-rag |
+| Stars | ⭐2377|
+| License | 未標示 |
+| 收錄日期 | 2026-05-11 |

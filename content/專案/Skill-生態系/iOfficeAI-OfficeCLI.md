@@ -20,9 +20,10 @@ topics:
 
 # OfficeCLI
 
-> ⭐10k · 世界首個為 AI Agent 量身打造的 Office 套件——一行指令讓任何 AI Agent 讀寫編輯 Word、Excel、PowerPoint
+> ⭐9959 · 世界首個為 AI Agent 量身打造的 Office 套件——一行指令讓任何 AI Agent 讀寫編輯 Word、Excel、PowerPoint
 
 ## 快速導航
+
 - [[AI-Skills]]
 - [[Coding-Agent-CLI]]
 - [[productivity]]
@@ -110,7 +111,8 @@ officecli watch deck.pptx
 
 ## 相關概念
 
-← [[AI-Skills] · [[Coding-Agent-CLI] · [[productivity] · [[presenton-presenton]
+
+← [[AI-Skills]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
@@ -121,10 +123,9 @@ officecli watch deck.pptx
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) |
-| Stars | ⭐9,959 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/iOfficeAI/OfficeCLI |
+| Stars | ⭐9959|
 | License | Apache-2.0 |
-| Language | C# |
 | 收錄日期 | 2026-07-08 |

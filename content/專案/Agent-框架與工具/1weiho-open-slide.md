@@ -11,9 +11,10 @@ license: MIT
 
 # open-slide
 
-> ⭐4.7k · The slide framework built for agents — describe your deck in natural language, your coding agent writes the React.
+> ⭐4744 · The slide framework built for agents — describe your deck in natural language, your coding agent writes the React.
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — Agent 框架與工具
 - 🎨 [[AI-presentation]] — AI 簡報生成
@@ -75,6 +76,7 @@ pnpm lint     # biome lint
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-presentation]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -84,10 +86,9 @@ pnpm lint     # biome lint
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [1weiho/open-slide](https://github.com/1weiho/open-slide) |
-| Stars | ⭐4,744 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/1weiho/open-slide |
+| Stars | ⭐4744|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-05 |

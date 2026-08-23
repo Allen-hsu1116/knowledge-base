@@ -10,9 +10,10 @@ topics: [Coding Agent CLI, LSP, 自主記憶]
 
 # Oh My Pi
 
-> ⭐4,108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
+> ⭐4108 · 終端 AI Coding Agent，雜湊錨定編輯 + LSP 整合 + 子代理架構。
 
 ## 快速導航
+
 
 - [[Coding-Agent-CLI|Coding Agent CLI]] — 終端 AI 開發助手
 - [[AI-Agent|AI Agent]] — 自主 AI 系統
@@ -20,7 +21,10 @@ topics: [Coding Agent CLI, LSP, 自主記憶]
 
 ## 是什麼
 
-can1357/oh-my-pi 是 badlogic/pi-mono 的 fork，一個功能完整的終端 AI coding agent。特色是雜湊錨定編輯（不用行號，用程式碼內容的雜湊錨點定位）、LSP 整合（11 種操作，40+ 語言）、持久化 Python kernel、子代理平行執行。用 TypeScript 和 Rust 實作。
+
+can1357/oh-my-pi 是 badlogic/pi-mono 的 fork，一個功能完整的終端 AI coding agent。
+
+特色是雜湊錨定編輯（不用行號，用程式碼內容的雜湊錨點定位）、LSP 整合（11 種操作，40+ 語言）、持久化 Python kernel、子代理平行執行。用 TypeScript 和 Rust 實作。
 
 ## 核心特色
 
@@ -88,16 +92,23 @@ npm start
 
 ## 相關概念
 
+
 - [[Coding-Agent-CLI|Coding Agent CLI]]
 - [[AI-Agent|AI Agent]]
 - [[AI-Skills|AI Skills]]
 
+← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[AI-Skills]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/can1357/oh-my-pi)
 - raw/2026-05-08-can1357-oh-my-pi.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐4,108 | — | 2026-05-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/can1357/oh-my-pi |
+| Stars | ⭐4108|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

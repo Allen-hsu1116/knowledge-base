@@ -16,9 +16,10 @@ topics:
 
 # KTransformers
 
-> ⭐18.7k · CPU-GPU 異構運算框架，讓超大 MoE 模型在消費級硬體上高效推論與微調
+> ⭐18733 · CPU-GPU 異構運算框架，讓超大 MoE 模型在消費級硬體上高效推論與微調
 
 ## 快速導航
+
 
 [[LLM]] · [[vLLM]] · [[kv-cache]]
 
@@ -79,6 +80,7 @@ DeepSeek-R1 推論範例（24GB VRAM + 382GB DRAM）：
 
 ## 相關概念
 
+
 ← [[LLM]] · [[vLLM]] · [[kv-cache]]
 
 ## 來源
@@ -89,10 +91,9 @@ DeepSeek-R1 推論範例（24GB VRAM + 382GB DRAM）：
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) |
-| Stars | ⭐18,733 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/kvcache-ai/ktransformers |
+| Stars | ⭐18733|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-07-21 |

@@ -10,9 +10,10 @@ topics: [LLM, 股市分析, GitHub Actions]
 
 # 每日股票分析 (daily-stock-analysis)
 
-> ⭐38.1k · LLM 驅動的股市分析概念 — 用 AI 大模型每日自動生成投資決策儀表盤
+> ⭐38100 · LLM 驅動的股市分析概念 — 用 AI 大模型每日自動生成投資決策儀表盤
 
 ## 快速導航
+
 
 - 📊 **代表專案** → [[ZhuLinsen-daily_stock_analysis]]（最完整實作，⭐38.1k）
 - 🤖 **AI Agent** → [[AI-Agent]]（自動化分析是 Agent 工作流）
@@ -20,7 +21,10 @@ topics: [LLM, 股市分析, GitHub Actions]
 
 ## 是什麼
 
-每日股票分析是一種自動化工作流：定時拉取行情數據 → 多維度分析（技術面 + 基本面 + 輿情） → LLM 綜合判斷 → 推送決策報告。核心是「數據聚合 + 策略引擎 + LLM 推理 + 多渠道推送」的 pipeline。
+
+每日股票分析是一種自動化工作流：定時拉取行情數據 → 多維度分析（技術面 + 基本面 + 輿情） → LLM 綜合判斷 → 推送決策報告。
+
+核心是「數據聚合 + 策略引擎 + LLM 推理 + 多渠道推送」的 pipeline。
 
 ## 代表專案
 
@@ -76,17 +80,19 @@ python main.py --webui             # 啟動 Web 介面
 
 ## 相關概念
 
+
 ← [[ZhuLinsen-daily_stock_analysis]] · [[AI-Agent]] · [[LLM]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/ZhuLinsen/daily_stock_analysis)
 - [原始資料](../raw/2026-05-03-daily-stock-analysis.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/ZhuLinsen/daily_stock_analysis.git |
-| **Stars** | ⭐'⭐38.1k' |
-| **收錄日期** | 2026-05-03 |
-| **License** | MIT |
+| GitHub | https://github.com/ZhuLinsen/daily_stock_analysis |
+| Stars | ⭐38100|
+| License | MIT |
+| 收錄日期 | 2026-05-03 |

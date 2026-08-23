@@ -10,9 +10,10 @@ topics: [ML, 金融交易, 教學, Jupyter Notebook]
 
 # Machine Learning for Trading
 
-> ⭐17.9k · ML for Algorithmic Trading 第二版配套程式碼，150+ Jupyter Notebook 涵蓋 ML 交易全流程。
+> ⭐17870 · ML for Algorithmic Trading 第二版配套程式碼，150+ Jupyter Notebook 涵蓋 ML 交易全流程。
 
 ## 快速導航
+
 [[financial-forecasting|金融預測]] · [[TauricResearch-TradingAgents|TradingAgents]] · [[HKUDS-AI-Trader|AI-Trader]] · [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]]
 
 ## 是什麼
@@ -69,7 +70,8 @@ docker run -it ml4t
 | [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]] | 教學 | LLM 訓練 | N/A | ❌ | 學習 LLM 底層 |
 
 ## 相關概念
-← [[TauricResearch-TradingAgents|TradingAgents]] · [[financial-forecasting|金融預測]] 相關概念
+
+← [[TauricResearch-TradingAgents]] · [[financial-forecasting]]
 
 ## 來源
 
@@ -80,10 +82,9 @@ docker run -it ml4t
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) |
-| Stars | ⭐17,870 |
-| License | — |
-| Language | Jupyter Notebook |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/stefan-jansen/machine-learning-for-trading |
+| Stars | ⭐17870|
+| License | 未標示 |
 | 收錄日期 | 2026-06-02 |

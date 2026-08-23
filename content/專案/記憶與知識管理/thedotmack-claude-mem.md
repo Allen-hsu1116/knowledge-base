@@ -12,7 +12,7 @@ topics: [記憶, Claude Code, MCP]
 
 # claude-mem
 
-> ⭐83.4k · Claude Code 記憶 MCP — Claude Code 持久記憶壓縮系統
+> ⭐83416 · Claude Code 記憶 MCP — Claude Code 持久記憶壓縮系統
 
 > Persistent memory compression system for Claude Code。自動捕捉工具使用觀察、產生語意摘要、跨 session 保持知識連續性。
 
@@ -21,13 +21,17 @@ topics: [記憶, Claude Code, MCP]
 
 ## 快速導航
 
+
 - 🧠 **記憶系統** → [[llm-knowledge-base]]（claude-mem 是記憶壓縮的實作之一）
 - 🔧 **Agent 技能** → [[AI-Skills]]（claude-mem 用 Skill 機制提供搜尋）
 - 📝 **知識管理** → [[llm-knowledge-base]]（LLM Wiki 是另一種知識持久化方法）
 
 ## 是什麼
 
-Claude-Mem 讓 Claude Code 的 context 跨 session 存活。它自動捕捉工具使用觀察、產生語意摘要、讓未來的 session 可以存取。專案知識在 session 結束後仍然保留，透過 3 層漸進式揭露工作流實現約 10x token 節省。
+
+Claude-Mem 讓 Claude Code 的 context 跨 session 存活。
+
+它自動捕捉工具使用觀察、產生語意摘要、讓未來的 session 可以存取。專案知識在 session 結束後仍然保留，透過 3 層漸進式揭露工作流實現約 10x token 節省。
 
 ## 核心特色
 
@@ -82,7 +86,8 @@ npx claude-mem install
 
 ## 相關概念
 
-← [[llm-knowledge-base]] · [[AI-Skills]] · [[llm-knowledge-base]] · [[supermemoryai-supermemory|Supermemory]]
+
+← [[llm-knowledge-base]] · [[AI-Skills]] · [[llm-knowledge-base]] · [[supermemoryai-supermemory]]
 
 ## 來源
 
@@ -91,10 +96,9 @@ npx claude-mem install
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) |
-| Stars | ⭐83,416 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/thedotmack/claude-mem |
+| Stars | ⭐83416|
 | License | Apache 2.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-09 |

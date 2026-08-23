@@ -13,6 +13,7 @@ topics: [Coding Agent CLI, AI Skills, Agent 工作流程]
 > ⭐96762 · YC 總裁 Garry Tan 的開源軟體工廠，把 Claude Code 變成 23 人虛擬工程團隊——CEO、設計師、QA、安全長，全用斜線指令操作。⭐96,762
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（gstack 是 AI Agent 工作流程的具體實踐）
 - 🛠 **Agent Skills** → [[AI-Skills]]（23 個專家技能，每個都是一個 AI skill）
 - 💻 **Coding Agent CLI** → [[Coding-Agent-CLI]]（支援 10 種 AI 編程 Agent CLI）
@@ -64,23 +65,19 @@ cd ~/gstack && ./setup --host codex  # OpenAI Codex CLI
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/garrytan/gstack)
 - raw/2026-05-15-garrytan-gstack.md
 
 ---
 
-- **GitHub**: https://github.com/garrytan/gstack
-- **Stars**: ⭐96,762
-- **License**: MIT
-- **收錄日期**: 2026-05-15
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/garrytan/gstack.git |
-| **Stars** | ⭐'⭐96762' |
-| **收錄日期** | 2026-05-15 |
+| GitHub | https://github.com/garrytan/gstack |
+| Stars | ⭐96762|
+| License | MIT |
+| 收錄日期 | 2026-05-15 |

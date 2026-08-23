@@ -10,9 +10,10 @@ topics: [agent-skills, ai-agents, claude, claude-code, codex, cursor, gemini-cli
 
 # Awesome Claude Skills
 
-> ⭐64.6k · 1000+ 生產就緒的 Claude Skills 策展列表，涵蓋文件處理、開發工具、資料分析、商業行銷等場景。
+> ⭐64593 · 1000+ 生產就緒的 Claude Skills 策展列表，涵蓋文件處理、開發工具、資料分析、商業行銷等場景。
 
 ## 快速導航
+
 [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
 
 ## 是什麼
@@ -62,7 +63,8 @@ claude --plugin-dir ./connect-apps-plugin
 | [[nextlevelbuilder-ui-ux-pro-max-skill|UI UX Pro Max]] | 單一 Skill | 1 | ✅ | ❌ |
 
 ## 相關概念
-← [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[NVIDIA-SkillSpector|SkillSpector]]
+
+← [[AI-Skills]] · [[AI-Skills]] · [[NVIDIA-SkillSpector]]
 
 ## 來源
 
@@ -72,10 +74,9 @@ claude --plugin-dir ./connect-apps-plugin
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) |
-| Stars | ⭐64,593 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ComposioHQ/awesome-claude-skills |
+| Stars | ⭐64593|
 | License | Apache-2.0 |
-| Language | Python |
-| 收錄日期 | 2026-06-15 |
+| 收錄日期 | 2025-10-17 |

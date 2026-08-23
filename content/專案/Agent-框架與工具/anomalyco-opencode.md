@@ -10,9 +10,10 @@ topics: [Coding Agent CLI, AI Agent, MCP, 子Agent, 工作樹平行]
 
 # OpenCode
 
-> ⭐174k · 開源 AI 編碼代理，支援 15+ LLM 提供商，內建 MCP、Skills、子 Agent 和工作樹平行執行。
+> ⭐174051 · 開源 AI 編碼代理，支援 15+ LLM 提供商，內建 MCP、Skills、子 Agent 和工作樹平行執行。
 
 ## 快速導航
+
 [[Coding-Agent-CLI|Coding Agent CLI]] · [[context-engineering-basics|Context Engineering]] · [[AI-Skills|Agent Skills 生態系]] · [[affaan-m-ECC|ECC]]
 
 ## 是什麼
@@ -72,7 +73,8 @@ brew install --cask opencode-desktop
 | 語言 | TypeScript | TypeScript | TypeScript | Rust |
 
 ## 相關概念
-← [[Coding-Agent-CLI|Coding Agent CLI]] · [[AI-Skills|Agent Skills 生態系]] · [[pingdotgg-t3code|T3 Code]]
+
+← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[pingdotgg-t3code]]
 
 ## 來源
 
@@ -82,10 +84,9 @@ brew install --cask opencode-desktop
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [anomalyco/opencode](https://github.com/anomalyco/opencode) |
-| Stars | ⭐174,051 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anomalyco/opencode |
+| Stars | ⭐174051|
 | License | MIT |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-14 |
+| 收錄日期 | 2025-04-30 |

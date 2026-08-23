@@ -10,9 +10,10 @@ topics: [agent, ai, code-analysis, code-generation, gemini-cli-extension, mcp, t
 
 # Desktop Commander MCP
 
-> ⭐6.4k · MCP Server，讓 AI 擁有終端機控制、檔案系統搜尋、diff 編輯能力，支援 Claude、ChatGPT、Gemini 等多種 AI 客戶端
+> ⭐6375 · MCP Server，讓 AI 擁有終端機控制、檔案系統搜尋、diff 編輯能力，支援 Claude、ChatGPT、Gemini 等多種 AI 客戶端
 
 ## 快速導航
+
 
 - 🔧 **MCP 協議** → [[MCP]]（Model Context Protocol 標準）
 - 🤖 **AI Agent** → [[AI-Agent]]（Agent 連接外部工具的核心概念）
@@ -80,6 +81,7 @@ Desktop Commander MCP 是目前功能最全面的本地 MCP Server 之一，同�
 
 ## 相關概念
 
+
 ← [[MCP]] · [[AI-Agent]] · [[sandbox]] · [[code-intelligence]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -89,10 +91,9 @@ Desktop Commander MCP 是目前功能最全面的本地 MCP Server 之一，同�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
-| Stars | ⭐6,375 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/wonderwhy-er/DesktopCommanderMCP |
+| Stars | ⭐6375|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-09 |

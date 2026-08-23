@@ -10,9 +10,10 @@ topics: [網頁爬蟲 API, LLM-ready, MCP, Agent]
 
 # Firecrawl
 
-> ⭐131k · 網頁爬蟲 API，把任何網頁轉成 LLM 友善的 Markdown/JSON，搜尋+爬取+互動三合一
+> ⭐131562 · 網頁爬蟲 API，把任何網頁轉成 LLM 友善的 Markdown/JSON，搜尋+爬取+互動三合一
 
 ## 快速導航
+
 [[網頁爬蟲]] · [[AI-Agent]] · [[rag]] · [[網頁爬蟲]]
 
 ## 是什麼
@@ -84,6 +85,7 @@ npx firecrawl-mcp
 | [[網頁爬蟲|Web Crawling]] | — | 概念 | — | — | — |
 
 ## 相關概念
+
 ← [[網頁爬蟲]] · [[AI-Agent]] · [[rag]] · [[MCP]]
 
 ## 來源
@@ -93,10 +95,9 @@ npx firecrawl-mcp
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) |
-| Stars | ⭐131,562 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/firecrawl/firecrawl |
+| Stars | ⭐131562|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-12 |

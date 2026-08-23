@@ -10,9 +10,10 @@ topics: [AI, 神話, Python]
 
 # OpenMythos
 
-> ⭐12.3 · 開源實作 Claude Mythos 模型架構——循環深度 Transformer（RDT）推理引擎，支援 MLA/GQA 切換與稀疏 MoE 前饋層。⭐12.3K
+> ⭐12 · 開源實作 Claude Mythos 模型架構——循環深度 Transformer（RDT）推理引擎，支援 MLA/GQA 切換與稀疏 MoE 前饋層。⭐12.3K
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（OpenMythos 是 LLM 架構的開源重實作）
 - 🔬 **LLM 內部** → [[llm-internals]]（注意力、KV-cache 等內部機制）
 - ⚡ **Token 優化** → [[Token-Optimization]]（MLA 壓縮 KV-cache 降低 token 成本）
@@ -77,23 +78,19 @@ logits = model(ids, n_loops=4)
 
 ## 相關概念
 
+
 ← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/kyegomez/OpenMythos)
 - raw/2026-05-09-openmythos.md
 
 ---
 
-- **GitHub**: https://github.com/kyegomez/OpenMythos
-- **Stars**: ⭐12,286
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-09
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/kyegomez/OpenMythos |
-| **Stars** | ⭐'⭐12.3' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/kyegomez/OpenMythos |
+| Stars | ⭐12|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-09 |

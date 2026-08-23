@@ -12,9 +12,10 @@ source: https://github.com/nexu-io/open-design
 
 # Open Design
 
-> ⭐61.6k · 開源的 Claude Design 替代方案 — 本地優先的桌面應用，259+ Skills · 142+ Design Systems · 261 Plugins · HTML/PDF/PPTX/MP4 匯出 · 支援 Claude Code / Codex / Cursor / OpenCode 等 17+ CLI。
+> ⭐61555 · 支援 Claude Code / Codex / Cursor / OpenCode 等 17+ CLI。
 
 ## 快速導航
+
 
 - 🎨 **設計系統** → [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[frontend-design|前端設計]]
 - 🛠️ **Agent Skill** → [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]]
@@ -79,7 +80,8 @@ pnpm dev
 
 ## 相關概念
 
-← [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]] · [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]] · [[Figma-Skills]] · [[MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+
+← [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[Frontend-Design-Agent-Skills]] · [[Figma-Skills]] · [[MCP]]
 
 ## 來源
 
@@ -88,12 +90,12 @@ pnpm dev
 - https://github.com/nexu-io/open-design
 - https://github.com/nexu-io/open-design/blob/main/docs/i18n/README.zh-TW.md（中文說明）
 - raw/2026-06-08-nexu-io-open-design-zh-TW.md（中文翻譯版）
+
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | [nexu-io/open-design](https://github.com/nexu-io/open-design) |
-| Stars | ⭐ 61,555 |
+| GitHub | https://github.com/nexu-io/open-design |
+| Stars | ⭐61555|
 | License | Apache-2.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-08 |

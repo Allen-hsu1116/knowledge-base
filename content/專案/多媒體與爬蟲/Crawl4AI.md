@@ -10,16 +10,20 @@ topics: [RAG, 網頁爬蟲, AI Agent]
 
 # Crawl4AI
 
-> ⭐65,284 · LLM 友善的網頁爬蟲，把網頁轉成乾淨的 Markdown 供 RAG 和 Agent 使用。65.3K ⭐。
+> ⭐65284 · LLM 友善的網頁爬蟲，把網頁轉成乾淨的 Markdown 供 RAG 和 Agent 使用。65.3K ⭐。
 
 ## 快速導航
+
 - 📚 **RAG** → [[rag]]（Crawl4AI 是 RAG 系統的網頁資料採集層）
 - 📄 **文件解析** → [[document-parsing]]（Crawl4AI 把網頁轉成結構化內容）
 - 🤖 **AI Agent** → [[AI-Agent]]（Agent 用 Crawl4AI 抓取網頁資訊）
 
 ## 是什麼
 
-Crawl4AI 是 LLM 友善的開源網頁爬蟲，把網頁轉成乾淨的 Markdown，供 RAG 系統和 AI Agent 使用。它解決了「網頁內容太髒，LLM 無法直接消化」的問題——自動移除廣告、導航、腳本等噪音，處理 Shadow DOM 等動態渲染問題，是 RAG 和 Agent 系統的網頁資料採集基礎設施。
+
+Crawl4AI 是 LLM 友善的開源網頁爬蟲，把網頁轉成乾淨的 Markdown，供 RAG 系統和 AI Agent 使用。
+
+它解決了「網頁內容太髒，LLM 無法直接消化」的問題——自動移除廣告、導航、腳本等噪音，處理 Shadow DOM 等動態渲染問題，是 RAG 和 Agent 系統的網頁資料採集基礎設施。
 
 ## 核心特色
 
@@ -79,22 +83,19 @@ result = await crawler.arun(
 | [[rag]] | 概念頁 | — | — | Crawl4AI 是 RAG 的上游資料採集工具 |
 
 ## 相關概念
-← [[rag]] · [[document-parsing]] · [[AI-Agent]] · [[D4Vinci-Scrapling|Scrapling]]
+
+← [[rag]] · [[document-parsing]] · [[AI-Agent]] · [[D4Vinci-Scrapling]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/unclecode/crawl4ai)
 - raw/2026-05-10-crawl4ai.md
 
 ---
 
-- **GitHub**: https://github.com/unclecode/crawl4ai
-- **Stars**: ⭐65,284
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/unclecode/crawl4ai |
-| **Stars** | ⭐65,284 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/unclecode/crawl4ai |
+| Stars | ⭐65284|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

@@ -16,6 +16,7 @@ updated: 2026-01-18
 
 ## 快速導航
 
+
 - [[Coding-Agent-CLI]] — AI 程式設計代理工具
 - [[MCP]] — Model Context Protocol 生態
 - [[Knowledge-Graph]] — 知識圖譜技術
@@ -23,7 +24,10 @@ updated: 2026-01-18
 
 ## 是什麼
 
-CodeGraph 是一個專為 Claude Code 設計的 MCP（Model Context Protocol）伺服器，透過預先建構的程式碼語意知識圖譜，大幅提升 AI coding agent 的程式碼探索效率。Agent 不再需要逐檔掃描（grep、glob、Read），而是直接查詢知識圖譜即可取得符號關係、呼叫鏈和程式碼結構。跨 6 個真實程式碼庫的基準測試顯示，平均減少 92% 的工具呼叫次數、71% 的探索時間。
+
+CodeGraph 是一個專為 Claude Code 設計的 MCP（Model Context Protocol）伺服器，透過預先建構的程式碼語意知識圖譜，大幅提升 AI coding agent 的程式碼探索效率。
+
+Agent 不再需要逐檔掃描（grep、glob、Read），而是直接查詢知識圖譜即可取得符號關係、呼叫鏈和程式碼結構。跨 6 個真實程式碼庫的基準測試顯示，平均減少 92% 的工具呼叫次數、71% 的探索時間。
 
 ## 核心特色
 
@@ -65,13 +69,21 @@ cg.close();
 
 ## 跟其他方案的關係
 
+
 CodeGraph 對應 [[MCP]] 生態的「程式碼理解」層。跟 [[Coding-Agent-CLI]]（如 Claude Code、Cursor）的關係：CodeGraph 是它們的 MCP 插件，讓 Agent 更快理解程式碼結構，而不是逐檔掃描。
 
 跟 [[code-intelligence]] 的傳統工具（ctags、LSP）相比：CodeGraph 是 Agent-first 設計，透過 MCP 協議直接服務 AI Agent，而不是服務人類編輯器。
 
 跟 [[Knowledge-Graph]] 的關係：CodeGraph 是知識圖譜技術在程式碼理解領域的具體應用，把符號定義、引用、呼叫鏈建模為圖譜。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[MCP]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[Coding-Agent-CLI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[Coding-Agent-CLI]] · [[MCP]] · [[Knowledge-Graph]] · [[code-intelligence]]
 
@@ -82,11 +94,9 @@ CodeGraph 對應 [[MCP]] 生態的「程式碼理解」層。跟 [[Coding-Agent-
 
 ---
 
-| 項目 | 內容 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) |
-| Stars | ⭐3,112 |
-| 語言 | TypeScript |
-| 建立日期 | 2026-01-18 |
-| 收錄日期 | 2026-05-17 |
-| 授權 | MIT |
+| GitHub | https://github.com/colbymchenry/codegraph |
+| Stars | ⭐3112|
+| License | 未標示 |
+| 收錄日期 | 2026-01-18 |

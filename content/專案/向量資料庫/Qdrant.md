@@ -10,15 +10,19 @@ topics: [RAG, 向量資料庫]
 
 # Qdrant
 
-> ⭐31,189 · Rust 寫的高效能向量搜尋引擎，支援過濾、分片、多租戶。31.2K ⭐。
+> ⭐31189 · Rust 寫的高效能向量搜尋引擎，支援過濾、分片、多租戶。31.2K ⭐。
 
 ## 快速導航
+
 - 📚 **RAG** → [[rag]]（Qdrant 是 RAG 系統的向量搜尋引擎）
 - 🔍 **知識圖譜** → [[Knowledge-Graph]]（Qdrant 支援向量+標量混合搜尋）
 
 ## 是什麼
 
-Qdrant（讀 quadrant）是 Rust 寫的高效能向量搜尋引擎和向量資料庫，支援豐富的過濾條件、分片和多租戶。它的 Rust 實現保證了高效能和記憶體安全，適合需要精細過濾的 RAG 和語義搜尋場景。31K+ stars，是向量資料庫領域的主流選擇之一。
+
+Qdrant（讀 quadrant）是 Rust 寫的高效能向量搜尋引擎和向量資料庫，支援豐富的過濾條件、分片和多租戶。
+
+它的 Rust 實現保證了高效能和記憶體安全，適合需要精細過濾的 RAG 和語義搜尋場景。31K+ stars，是向量資料庫領域的主流選擇之一。
 
 ## 核心特色
 
@@ -83,22 +87,19 @@ results = client.search(
 | [[rag]] | 概念頁 | — | — | Qdrant 是 RAG 系統的向量搜尋引擎 |
 
 ## 相關概念
+
 ← [[rag]] · [[Knowledge-Graph]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/qdrant/qdrant)
 - raw/2026-05-10-qdrant.md
 
 ---
 
-- **GitHub**: https://github.com/qdrant/qdrant
-- **Stars**: ⭐31,189
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/qdrant/qdrant |
-| **Stars** | ⭐31,189 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/qdrant/qdrant |
+| Stars | ⭐31189|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

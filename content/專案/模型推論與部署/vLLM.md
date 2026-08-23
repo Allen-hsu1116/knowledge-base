@@ -10,16 +10,20 @@ topics: [LLM, 推論加速]
 
 # vLLM
 
-> ⭐79,515 · 高吞吐量、記憶體效率的 LLM 推論和服務引擎，PagedAttention 發明者。79.5K ⭐。
+> ⭐79515 · 高吞吐量、記憶體效率的 LLM 推論和服務引擎，PagedAttention 發明者。79.5K ⭐。
 
 ## 快速導航
+
 - 🧠 **LLM 底層技術** → [[llm-internals]]（PagedAttention 是 KV Cache 管理的突破）
 - ⚡ **Token 優化** → [[Token-Optimization]]（高效推理等同於單位時間產出更多 token）
 - 🏠 **本地部署** → [[模型推論與部署|Ollama]]（Ollama 適合本地，vLLM 適合生產）
 
 ## 是什麼
 
-vLLM 是高吞吐量、記憶體效率的 LLM 推論和服務引擎，最初由 UC Berkeley Sky Computing Lab 開發，現由 2000+ 貢獻者維護。它發明了 PagedAttention 技術，徹底改變了 LLM 服務的記憶體管理方式，是 LLM 服務化的事實標準。79K+ stars，是生產環境部署 LLM 的首選引擎。
+
+vLLM 是高吞吐量、記憶體效率的 LLM 推論和服務引擎，最初由 UC Berkeley Sky Computing Lab 開發，現由 2000+ 貢獻者維護。
+
+它發明了 PagedAttention 技術，徹底改變了 LLM 服務的記憶體管理方式，是 LLM 服務化的事實標準。79K+ stars，是生產環境部署 LLM 的首選引擎。
 
 ## 核心特色
 
@@ -71,22 +75,19 @@ vllm serve meta-llama/Meta-Llama-3-8B --enable-prefix-caching
 | [[llm-internals]] | 概念頁 | — | PagedAttention 是 KV Cache 管理的突破 |
 
 ## 相關概念
+
 ← [[llm-internals]] · [[LLM]] · [[Token-Optimization]] · [[kvcache-ai-ktransformers]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/vllm-project/vllm)
 - raw/2026-05-10-vllm.md
 
 ---
 
-- **GitHub**: https://github.com/vllm-project/vllm
-- **Stars**: ⭐79,515
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/vllm-project/vllm |
-| **Stars** | ⭐79,515 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/vllm-project/vllm |
+| Stars | ⭐79515|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

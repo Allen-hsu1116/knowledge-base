@@ -10,9 +10,10 @@ topics: [Coding Agent CLI, AI Agent, Web UI]
 
 # Hermes WebUI
 
-> ⭐10k · Hermes Agent 的 Web 介面，用手機或瀏覽器操控你的 AI Agent
+> ⭐9980 · Hermes Agent 的 Web 介面，用手機或瀏覽器操控你的 AI Agent
 
 ## 快速導航
+
 [[hermes-agent]] · [[open-webui-open-webui]] · [[AI-Agent]]
 
 ## 是什麼
@@ -64,7 +65,8 @@ ssh -L 8888:localhost:8888 your-server
 Hermes WebUI 是專為 Hermes Agent 設計的 Web 介面，和 Open WebUI 的定位不同——Open WebUI 是通用 LLM 平台（支援多種模型和 RAG），Hermes WebUI 則是深度整合 Hermes Agent 的操作介面。搭配 Hermes Agent 使用，可以讓 Agent 的跨 session 記憶、定時任務等功能在瀏覽器中完整發揮。
 
 ## 相關概念
-← [[hermes-agent]] · [[open-webui-open-webui]] · [[AI-Agent]] · [[ogulcancelik-herdr|herdr]]
+
+← [[hermes-agent]] · [[open-webui-open-webui]] · [[AI-Agent]] · [[ogulcancelik-herdr]]
 
 ## 來源
 
@@ -73,10 +75,9 @@ Hermes WebUI 是專為 Hermes Agent 設計的 Web 介面，和 Open WebUI 的定
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) |
-| Stars | ⭐9,981 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/nesquena/hermes-webui |
+| Stars | ⭐9980|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-01 |

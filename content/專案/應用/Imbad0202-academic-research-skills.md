@@ -10,9 +10,10 @@ topics: [AI Skills, AI Agent, 學術研究]
 
 # Academic Research Skills
 
-> ⭐4,927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
+> ⭐4927 · Claude Code 學術研究技能套件，從研究到發表的完整管線 — 13 Agent 研究 + 12 Agent 寫作 + 7 Agent 審查 + 10 階段管線。
 
 ## 快速導航
+
 
 - [[AI-Skills|AI Skills]] — 技能格式與生態系
 - [[AI-Agent|AI Agent]] — 自主 AI 系統
@@ -20,7 +21,10 @@ topics: [AI Skills, AI Agent, 學術研究]
 
 ## 是什麼
 
-Imbad0202/academic-research-skills 是一套 Claude Code 技能組合，涵蓋學術研究全流程：深度研究（13 Agent 團隊）、論文撰寫（12 Agent）、同儕審查（7 Agent）、管線編排（10 階段）。受 PaperOrchestra 和 The AI Scientist 啟發，目標是讓 AI 輔助從研究問題到發表的每個步驟。
+
+Imbad0202/academic-research-skills 是一套 Claude Code 技能組合，涵蓋學術研究全流程：深度研究（13 Agent 團隊）、論文撰寫（12 Agent）、同儕審查（7 Agent）、管線編排（10 階段）。
+
+受 PaperOrchestra 和 The AI Scientist 啟發，目標是讓 AI 輔助從研究問題到發表的每個步驟。
 
 ## 核心特色
 
@@ -76,17 +80,24 @@ Imbad0202/academic-research-skills 是一套 Claude Code 技能組合，涵蓋�
 
 ## 相關概念
 
+
 - [[AI-Skills|AI Skills]]
 - [[AI-Agent|AI Agent]]
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[AI-Tutoring|AI Tutoring]]
 
+← [[AI-Skills]] · [[AI-Agent]] · [[Prompt-Engineering]] · [[AI-Tutoring]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Imbad0202/academic-research-skills)
 - raw/2026-05-08-Imbad0202-academic-research-skills.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | ⭐4,927 | — | 2026-05-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Imbad0202/academic-research-skills |
+| Stars | ⭐4927|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

@@ -5,14 +5,15 @@ created: 2026-07-11
 updated: 2026-07-11
 stars: 109776
 language: TypeScript
-topics: javascript, language, typechecker, typescript
+topics: ["javascript", "language", "typechecker", "typescript"]
 ---
 
 # TypeScript
 
-> ⭐109.8k · TypeScript · Apache-2.0 · 微軟出品的 JavaScript 超集，加入靜態型別檢查
+> ⭐109776 · 微軟出品的 JavaScript 超集，加入靜態型別檢查
 
 ## 快速導航
+
 
 - 🛠 **[[vercel-next.js|Next.js]]** — 全棧 React 框架，與 TypeScript 深度整合
 - ⚡ **[[oven-sh-bun|Bun]]** — 原生支援 TypeScript 的 JS/TS 全能工具鏈
@@ -81,7 +82,8 @@ TypeScript 與 [[vercel-next.js|Next.js]] 深度整合，是全棧 React 開發�
 
 ## 相關概念
 
-← [[vercel-next.js|Next.js]] · [[oven-sh-bun|Bun]]
+
+← [[vercel-next.js]] · [[oven-sh-bun]]
 
 ## 來源
 
@@ -91,8 +93,9 @@ TypeScript 與 [[vercel-next.js|Next.js]] 深度整合，是全棧 React 開發�
 
 ---
 
-- **GitHub**: https://github.com/microsoft/TypeScript
-- **Stars**: ⭐ 109,776
-- **License**: Apache-2.0
-- **Language**: TypeScript
-- **收錄日期**: 2026-07-11
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/TypeScript |
+| Stars | ⭐109776|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-11 |

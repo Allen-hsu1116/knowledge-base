@@ -10,9 +10,10 @@ topics: [離線知識伺服器, 自架 AI 平台, Ollama, RAG]
 
 # Project N.O.M.A.D.
 
-> ⭐27k · 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖、AI 聊天與工具於一體
+> ⭐26965 · 離線優先的全功能知識與 AI 伺服器，打包 Wikipedia、教育平台、地圖、AI 聊天與工具於一體
 
 ## 快速導航
+
 [[self-hosted|自架 AI 平台]] · [[模型推論與部署|Ollama]] · [[rag|RAG]]
 
 ## 是什麼
@@ -63,7 +64,8 @@ sudo bash install_nomad.sh
 | [[paperless-ngx-paperless-ngx|Paperless-ngx]] | ⭐41k | 文件管理 | 自架文件管理 + OCR | ✅ |
 
 ## 相關概念
-← [[self-hosted|自架 AI 平台]] · [[模型推論與部署|Ollama]] · [[rag|RAG]]
+
+← [[self-hosted]] · [[模型推論與部署]] · [[rag]]
 
 ## 來源
 
@@ -72,10 +74,9 @@ sudo bash install_nomad.sh
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) |
-| Stars | ⭐26,965 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Crosstalk-Solutions/project-nomad |
+| Stars | ⭐26965|
 | License | Apache-2.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-30 |

@@ -15,9 +15,10 @@ topics:
 
 # Modular Platform
 
-> ⭐27.9k · 把 Mojo 語言、MAX 推論框架、加速核心與 OpenAI 相容服務整合成同一套 AI 開發與部署平台。
+> ⭐27948 · 把 Mojo 語言、MAX 推論框架、加速核心與 OpenAI 相容服務整合成同一套 AI 開發與部署平台。
 
 ## 快速導航
+
 
 - 🚀 **模型推論與部署** → [[模型推論與部署]]
 - 🧠 **大語言模型** → [[LLM]]
@@ -73,6 +74,7 @@ Modular 與 PyTorch、JAX 並非單純一對一替代；它更強調從編譯器
 
 ## 相關概念
 
+
 ← [[模型推論與部署]] · [[LLM]] · [[Token-Optimization]]
 
 ## 來源
@@ -87,7 +89,6 @@ Modular 與 PyTorch、JAX 並非單純一對一替代；它更強調從編譯器
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/modular/modular |
-| Stars | ⭐27,948 |
+| Stars | ⭐27948|
 | License | Apache-2.0 with LLVM Exceptions；MAX 另受 Modular Community License 約束 |
-| Language | Mojo |
 | 收錄日期 | 2026-08-21 |

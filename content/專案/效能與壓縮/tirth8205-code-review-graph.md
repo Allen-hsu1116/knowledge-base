@@ -10,18 +10,19 @@ topics: [Knowledge Graph, Token Optimization, MCP]
 
 # code-review-graph
 
-> ⭐15,581 · 本地知識圖譜 for AI Coding Tools。用 Tree-sitter 建程式碼結構圖，MCP 精準投餵上下文，code review 平均省 8.2x token，單檔改動最高省 16.4x。
+> ⭐15581 · 本地知識圖譜 for AI Coding Tools。用 Tree-sitter 建程式碼結構圖，MCP 精準投餵上下文，code review 平均省 8.2x token，單檔改動最高省 16.4x。
 
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/tirth8205/code-review-graph |
-| Stars | ⭐15,581 |
+| Stars | ⭐15581|
 | Language | Python |
 | 建立日期 | 2026-02-26 |
 | 授權 | MIT |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
+
 
 - 🕸️ **知識圖譜** → [[Knowledge-Graph]]（code-review-graph 是程式碼圖譜的實作）
 - ⚡ **Token 優化** → [[Token-Optimization]]（精準投餵 = 大幅省 token）
@@ -85,13 +86,21 @@ code-review-graph install --platform kiro
 
 ## 跟其他方案的關係
 
+
 code-review-graph 跟 [[cocoindex]] 都是增量式系統，但場景完全不同：cocoindex 是 RAG 管線（文件 → 嵌入 → 向量索引），code-review-graph 是程式碼圖譜（原始碼 → AST → 依賴圖 → blast radius）。
 
 跟 [[safishamsi-graphify]] 的差異：graphify 是 Claude Code skill，用 LLM 做概念提取 + 關係推斷，輸出互動式視覺化；code-review-graph 是 MCP server，用 Tree-sitter 做確定性 AST 解析，輸出精確的依賴路徑和影響範圍。一個重理解，一個重精準。
 
 [[Knowledge-Graph]] 概念頁把兩者統整在「圖結構組織資訊」的大傘下。[[Token-Optimization]] 是 code-review-graph 的直接效益——精準投餵 = 省 token = 省成本。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[cocoindex]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[safishamsi-graphify]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[Knowledge-Graph]] · [[Token-Optimization]] · [[MCP]] · [[cocoindex]]
 
@@ -102,9 +111,9 @@ code-review-graph 跟 [[cocoindex]] 都是增量式系統，但場景完全不�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) |
-| Stars | ⭐15,581 |
-| License | — |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/tirth8205/code-review-graph |
+| Stars | ⭐15581 |
+| License | 未標示 |
 | 收錄日期 | 2026-02-26 |

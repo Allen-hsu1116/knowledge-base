@@ -16,10 +16,10 @@ topics:
 
 # PostHog
 
-> ⭐35.8k · 開源產品分析與 AI 可觀測平台，從分析、session replay 到 feature flags、實驗、錯誤追蹤一站式搞定
-
+> ⭐35834 · 開源產品分析與 AI 可觀測平台，從分析、session replay 到 feature flags、實驗、錯誤追蹤一站式搞定
 
 ## 快速導航
+
 快速導航：[[observability|可觀測性]] · [[langfuse-langfuse|Langfuse]] · [[MCP]]
 
 ## 是什麼
@@ -69,7 +69,8 @@ npm install posthog-js
 
 ## 相關概念
 
-← [[observability|可觀測性]] · [[langfuse-langfuse|Langfuse]] · [[MCP]]
+
+← [[observability]] · [[langfuse-langfuse]] · [[MCP]]
 
 ## 來源
 
@@ -79,10 +80,9 @@ npm install posthog-js
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [PostHog/posthog](https://github.com/PostHog/posthog) |
-| Stars | ⭐35,834 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/PostHog/posthog |
+| Stars | ⭐35834|
 | License | MIT（核心），ee 目錄另有授權 |
-| Language | Python |
 | 收錄日期 | 2026-07-17 |

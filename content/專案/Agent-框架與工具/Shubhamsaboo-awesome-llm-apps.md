@@ -10,9 +10,10 @@ topics: [LLM, RAG, AI-Agent, Awesome-List, Agent-Skills, Voice-AI, MCP, Generati
 
 # Awesome LLM Apps
 
-> ⭐131.7k · 100+ 個可直接運行的 AI Agent、Agent Skills 和 RAG 應用模板，手工打造、端到端測試、Apache-2.0。
+> ⭐131666 · 100+ 個可直接運行的 AI Agent、Agent Skills 和 RAG 應用模板，手工打造、端到端測試、Apache-2.0。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — AI 智能體模式與框架
 - 📚 [[rag]] — 檢索增強生成技術
@@ -65,18 +66,20 @@ python ai_news_agent.py
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[rag]] · [[self-education]] · [[self-hosted]]
 
 ## 來源
 
 - **GitHub**: https://github.com/Shubhamsaboo/awesome-llm-apps
 - raw/2025-06-07-Shubhamsaboo-awesome-llm-apps.md
+- 原始素材：`raw/2026-08-09-Shubhamsaboo-awesome-llm-apps.md`
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/Shubhamsaboo/awesome-llm-apps |
-| Stars | ⭐ 113,600 |
+| Stars | ⭐131666|
 | License | Apache License 2.0 |
 | 收錄日期 | 2025-06-07 |

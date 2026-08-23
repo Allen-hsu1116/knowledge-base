@@ -4,15 +4,16 @@ slug: x1xhlol-system-prompts-and-models-of-ai-tools
 created: 2026-06-12
 updated: 2026-06-12
 stars: 139871
-language: ""
+language: Various
 topics: [Prompt Engineering, System Prompts, 安全研究]
 ---
 
 # System Prompts and Models of AI Tools
 
-> ⭐139k · 最完整的 AI 工具 system prompts 收集，揭露 Augment Code、Claude Code、Cursor、Devin 等 30+ 產品的提示詞設計
+> ⭐139871 · 最完整的 AI 工具 system prompts 收集，揭露 Augment Code、Claude Code、Cursor、Devin 等 30+ 產品的提示詞設計
 
 ## 快速導航
+
 [[Prompt-Engineering]] · [[prompt-security]] · [[AI-Agent]] · [[AI-Skills]]
 
 ## 是什麼
@@ -62,6 +63,7 @@ cat "Cursor/system_prompt.md"
 | [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md]] | ⭐141k | Skill 規則 | Karpathy 的 CLAUDE.md 規則 | ✅ 正面設計視角 |
 
 ## 相關概念
+
 ← [[Prompt-Engineering]] · [[prompt-security]] · [[AI-Agent]] · [[AI-Skills]]
 
 ## 來源
@@ -71,10 +73,9 @@ cat "Cursor/system_prompt.md"
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) |
-| Stars | ⭐139,871 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools |
+| Stars | ⭐139871|
 | License | GPL-3.0 |
-| Language | Markdown |
 | 收錄日期 | 2026-06-12 |

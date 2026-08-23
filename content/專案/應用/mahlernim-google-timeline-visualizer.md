@@ -15,9 +15,10 @@ topics:
 
 # Google Timeline Visualizer
 
-> ⭐1.6k · 在手機或桌面本地讀取 Google Maps Timeline JSON，將一段時間的旅行軌跡轉成動畫地圖 MP4。
+> ⭐1562 · 在手機或桌面本地讀取 Google Maps Timeline JSON，將一段時間的旅行軌跡轉成動畫地圖 MP4。
 
 ## 快速導航
+
 
 - 📊 **資料視覺化** → [[visualization]]
 - 🔐 **隱私** → [[privacy]]
@@ -74,6 +75,7 @@ python -m pytest
 
 ## 相關概念
 
+
 ← [[visualization]] · [[privacy]] · [[content-automation]]
 
 ## 來源
@@ -87,7 +89,6 @@ python -m pytest
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/mahlernim/google-timeline-visualizer |
-| Stars | ⭐1,562 |
+| Stars | ⭐1562|
 | License | MIT |
-| Language | Kotlin |
 | 收錄日期 | 2026-08-21 |

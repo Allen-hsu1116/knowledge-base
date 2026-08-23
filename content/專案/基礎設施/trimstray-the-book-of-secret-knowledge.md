@@ -10,7 +10,7 @@ topics: [DevOps, 資安, 系統管理, 工具全集]
 
 # the-book-of-secret-knowledge
 
-> ⭐222k · the-book-of-secret-knowledge
+> ⭐232835 · the-book-of-secret-knowledge
 
 - **Repo**: [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - **Stars**: 222k ⭐
@@ -22,6 +22,7 @@ topics: [DevOps, 資安, 系統管理, 工具全集]
 系統管理、DevOps、資安研究者的瑞士刀——CLI/GUI/Web 工具、cheatsheet、one-liner 大全集。
 
 ## 快速導航
+
 - ⚡ [[pentesting]] · [[Coding-Agent-CLI]]
 
 ## 是什麼
@@ -79,16 +80,19 @@ the-book-of-secret-knowledge 的獨特價值在於「廣度+品質」——不�
 
 ## 相關概念
 
+
 ← [[pentesting]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [原始資料](../raw/2026-05-22-trimstray-the-book-of-secret-knowledge.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/trimstray/the-book-of-secret-knowledge |
-| **收錄日期** | 2026-05-22 |
-| **License** | MIT |
+| GitHub | https://github.com/trimstray/the-book-of-secret-knowledge |
+| Stars | ⭐232835|
+| License | MIT |
+| 收錄日期 | 2026-05-22 |

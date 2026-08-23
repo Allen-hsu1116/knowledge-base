@@ -15,9 +15,10 @@ topics:
 
 # Claude Video (/watch)
 
-> ⭐4.2k · 讓 Claude 能「看」任何影片——自動下載、截取畫面、轉錄音訊，全部交給 Claude 分析
+> ⭐4237 · 讓 Claude 能「看」任何影片——自動下載、截取畫面、轉錄音訊，全部交給 Claude 分析
 
 ## 快速導航
+
 - [[AI-Skills]]
 - [[anthropics-claude-code]]
 - [[AI-Agent]]
@@ -109,7 +110,8 @@ npx skills add bradautomates/claude-video -g
 
 ## 相關概念
 
-← [[AI-Skills] · [[anthropics-claude-code] · [[AI-Agent] · [[Whisper] · [[browser-use-video-use]
+
+← [[AI-Skills]] · [[anthropics-claude-code]]
 
 ## 來源
 
@@ -120,10 +122,9 @@ npx skills add bradautomates/claude-video -g
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) |
-| Stars | ⭐4,237 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/bradautomates/claude-video |
+| Stars | ⭐4237|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-07 |

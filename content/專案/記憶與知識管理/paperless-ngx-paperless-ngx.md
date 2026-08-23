@@ -10,14 +10,18 @@ topics: [文件管理, OCR, 自架平台]
 
 # Paperless-ngx
 
-> ⭐41.3k · 開源文件管理系統，掃描、OCR、索引、歸檔一把罩
+> ⭐41336 · 開源文件管理系統，掃描、OCR、索引、歸檔一把罩
 
 ## 快速導航
+
 [[document-parsing|文件解析]] · [[llm-knowledge-base|文字辨識]] · [[self-hosted|自架 AI 平台]] · [[self-hosted|自架服務]]
 
 ## 是什麼
 
-Paperless-ngx 是開源的文件管理系統，把實體文件數位化後建立可搜尋的線上檔案庫。是原版 Paperless 和 Paperless-ng 的官方繼任專案。掃描文件後自動 OCR 建立全文索引，機器學習自動幫文件分類、加標籤。透過 Docker 一鍵部署，提供完整的 Web 管理介面。
+
+Paperless-ngx 是開源的文件管理系統，把實體文件數位化後建立可搜尋的線上檔案庫。
+
+是原版 Paperless 和 Paperless-ng 的官方繼任專案。掃描文件後自動 OCR 建立全文索引，機器學習自動幫文件分類、加標籤。透過 Docker 一鍵部署，提供完整的 Web 管理介面。
 
 ## 核心特色
 
@@ -61,7 +65,8 @@ docker compose exec webserver createsuperuser
 | [[jellyfin-jellyfin|Jellyfin]] | ⭐52.4k | 媒體管理 | ❌ | ✅ | ✅ | ✅ |
 
 ## 相關概念
-← [[document-parsing|文件解析]] · [[llm-knowledge-base|文字辨識]] · [[self-hosted|自架 AI 平台]] · [[self-hosted|自架服務]]
+
+← [[document-parsing]] · [[llm-knowledge-base]] · [[self-hosted]] · [[self-hosted]]
 
 ## 來源
 
@@ -71,10 +76,9 @@ docker compose exec webserver createsuperuser
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) |
-| Stars | ⭐41,336 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/paperless-ngx/paperless-ngx |
+| Stars | ⭐41336|
 | License | GPL-3.0 |
-| Language | Python |
-| 收錄日期 | 2026-05-26 |
+| 收錄日期 | 2022-02-12 |

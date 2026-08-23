@@ -10,9 +10,10 @@ topics: [AI Agent 記憶層, RAG, SOTA, 向量資料庫]
 
 # Mem0
 
-> ⭐58k · AI Agent 記憶層，讓 AI 記住使用者偏好、持續學習，LoCoMo 91.6 分 SOTA
+> ⭐58363 · AI Agent 記憶層，讓 AI 記住使用者偏好、持續學習，LoCoMo 91.6 分 SOTA
 
 ## 快速導航
+
 [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]]
 
 ## 是什麼
@@ -90,7 +91,8 @@ cd server && make bootstrap
 | [[upstash-context7|Context7]] | ⭐54k | 文件查詢 | — | — | — |
 
 ## 相關概念
-← [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]] · [[TencentCloud-TencentDB-Agent-Memory|TencentDB Agent Memory]]
+
+← [[AI-Agent]] · [[rag]] · [[向量資料庫]] · [[MCP]] · [[TencentCloud-TencentDB-Agent-Memory]]
 
 ## 來源
 
@@ -99,10 +101,9 @@ cd server && make bootstrap
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [mem0ai/mem0](https://github.com/mem0ai/mem0) |
-| Stars | ⭐58,363 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/mem0ai/mem0 |
+| Stars | ⭐58363|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-12 |

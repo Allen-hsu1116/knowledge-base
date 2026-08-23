@@ -10,9 +10,10 @@ topics: [serialization, protocol-buffers, protoc, rpc, cross-language]
 
 # Protocol Buffers
 
-> ⭐71.8k · Google 推出的跨語言、跨平台結構化資料序列化格式，以 `.proto` schema 與程式碼生成建立穩定的資料交換契約。
+> ⭐71770 · Google 推出的跨語言、跨平台結構化資料序列化格式，以 `.proto` schema 與程式碼生成建立穩定的資料交換契約。
 
 ## 快速導航
+
 
 - 🧠 [[data-analysis]] — 結構化資料需要明確 schema 與可演化的交換格式
 - 🛠 [[workflow-automation]] — 程式碼生成可納入建置與 CI 工作流
@@ -82,6 +83,7 @@ protobuf 是資料格式與工具鏈；gRPC 則是 RPC 框架。兩者常一起�
 
 ## 相關概念
 
+
 ← [[data-analysis]] · [[workflow-automation]] · [[模型推論與部署]]
 
 ## 來源
@@ -92,10 +94,9 @@ protobuf 是資料格式與工具鏈；gRPC 則是 RPC 框架。兩者常一起�
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/protocolbuffers/protobuf |
-| **Stars** | ⭐71,770 |
-| **License** | BSD 3-Clause（repository metadata 顯示 Other） |
-| **Language** | C++ |
-| **收錄日期** | 2026-08-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/protocolbuffers/protobuf |
+| Stars | ⭐71770|
+| License | BSD 3-Clause（repository metadata 顯示 Other） |
+| 收錄日期 | 2026-08-22 |

@@ -16,9 +16,10 @@ topics:
 
 # Pathway LLM App
 
-> ⭐59k · 即時資料同步的 RAG 管線模板庫，Docker-friendly、免外部向量資料庫
+> ⭐59201 · 即時資料同步的 RAG 管線模板庫，Docker-friendly、免外部向量資料庫
 
 ## 快速導航
+
 - 🧠 **RAG** → [[rag|RAG]]
 - 🔗 **LangChain** → [[LangChain]]
 - 📚 **LlamaIndex** → [[llama-index|LlamaIndex]]
@@ -82,6 +83,7 @@ streamlit run ui/app.py
 
 ## 相關概念
 
+
 ← [[rag]] · [[LangChain]] · [[llama-index]]
 
 ## 來源
@@ -91,10 +93,9 @@ streamlit run ui/app.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) |
-| Stars | ⭐59,201 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/pathwaycom/llm-app |
+| Stars | ⭐59201|
 | License | MIT |
-| Language | Jupyter Notebook |
 | 收錄日期 | 2026-06-28 |

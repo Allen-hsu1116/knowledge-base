@@ -5,14 +5,15 @@ created: 2026-07-06
 updated: 2026-07-06
 stars: 16.2k
 language: Swift
-topics: ai, claude-code, codex, usage-monitoring, menu-bar, macos
+topics: ["ai", "claude-code", "codex", "usage-monitoring", "menu-bar", "macos"]
 ---
 
 # CodexBar
 
-> ⭐16.2k · macOS 選單列應用——57+ AI coding provider 使用量即時顯示，重置倒數，信用餘額追蹤
+> ⭐16200 · macOS 選單列應用——57+ AI coding provider 使用量即時顯示，重置倒數，信用餘額追蹤
 
 ## 快速導航
+
 
 - 🤖 **Claude Code** → [[anthropics-claude-code|Claude Code]]
 - 🔧 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
@@ -95,7 +96,8 @@ CodexBar 與 [[kenn-io-agentsview|agentsview]] 都追蹤 AI coding 成本，但 
 
 ## 相關概念
 
-← [[anthropics-claude-code] · [[Coding-Agent-CLI] · [[observability] · [[Token-Optimization] · [[kenn-io-agentsview]
+
+← [[anthropics-claude-code]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
@@ -105,10 +107,9 @@ CodexBar 與 [[kenn-io-agentsview|agentsview]] 都追蹤 AI coding 成本，但 
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/steipete/CodexBar |
-| **Stars** | ⭐ 16,219 |
-| **License** | MIT |
-| **Language** | Swift |
-| **收錄日期** | 2026-07-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/steipete/CodexBar |
+| Stars | ⭐16200|
+| License | MIT |
+| 收錄日期 | 2026-07-06 |

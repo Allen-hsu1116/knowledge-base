@@ -17,9 +17,10 @@ topics:
 
 # Pocket Flow
 
-> ⭐10.9k · 100 行的極簡 LLM 框架，零依賴零廠商綁定，讓 AI Agent 幫你建 Agent
+> ⭐10882 · 100 行的極簡 LLM 框架，零依賴零廠商綁定，讓 AI Agent 幫你建 Agent
 
 ## 快速導航
+
 - 🧠 **LangChain** → [[LangChain]]
 - 🤖 **CrewAI** → [[CrewAI]]
 - 🔧 **AutoGen** → [[microsoft-autogen|AutoGen]]
@@ -91,6 +92,7 @@ flow = Flow(start=DecideAction())
 
 ## 相關概念
 
+
 ← [[LangChain]] · [[CrewAI]] · [[microsoft-autogen]]
 
 ## 來源
@@ -100,10 +102,9 @@ flow = Flow(start=DecideAction())
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) |
-| Stars | ⭐10,882 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/The-Pocket/PocketFlow |
+| Stars | ⭐10882|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-28 |

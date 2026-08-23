@@ -20,9 +20,10 @@ topics:
 
 # wigolo
 
-> ⭐1.2k · 本地優先的 AI Agent 網頁情報層，搜尋/抓取/爬蟲/擷取/快取全免 API key，MCP+REST+SDK
+> ⭐1240 · 本地優先的 AI Agent 網頁情報層，搜尋/抓取/爬蟲/擷取/快取全免 API key，MCP+REST+SDK
 
 ## 快速導航
+
 
 - 🌐 **網頁爬蟲** → [[網頁爬蟲]]
 - 🔌 **MCP** → [[MCP]]
@@ -101,6 +102,7 @@ wigolo 的核心差異化在於「全工具免 API key + 本地記憶複利」�
 
 
 ## 相關概念
+
 ← [[網頁爬蟲]] · [[MCP]] · [[rag]]
 
 ## 來源
@@ -111,10 +113,9 @@ wigolo 的核心差異化在於「全工具免 API key + 本地記憶複利」�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) |
-| Stars | ⭐1,240 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/KnockOutEZ/wigolo |
+| Stars | ⭐1240|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-19 |

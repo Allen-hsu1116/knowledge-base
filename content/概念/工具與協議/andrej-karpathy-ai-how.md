@@ -1,31 +1,46 @@
 ---
 title: Karpathy 同款「AI 知識庫」完整拆解
 slug: andrej-karpathy-ai-how
-source: https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
-date: 2026-04-28
-updated: 2026-04-28
-language: zh-TW
-topics: [LLM 知識庫, Karpathy, Claude Code]
 created: 2026-04-28
-stars: —
+updated: 2026-08-23
+language: zh-TW
 ---
 
 # Karpathy 同款「AI 知識庫」完整拆解
 
-> ⭐— · 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
+> 不用 Obsidian 也能建 AI 知識庫！Nick Spisak 拆解了 Karpathy 的 LLM 知識庫方法，只要三個資料夾加一份文字檔。核心觀念：你只管把東西往裡丟，整理是 AI 的事。
 
-## 快速導航
+## 核心內容
+
+Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法。核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。三個資料夾 + 一份 CLAUDE.md 設定檔，就能建構一個讓 LLM 自動整理和查詢的知識庫。
+
+這個主題可從技術原理、實作流程與相關工具三個層次理解，並透過來源資料持續核對其適用範圍與限制。
+
+## 關鍵要素
+
+- **核心原理** — 先理解問題定義與技術機制，再評估實作方式。
+- **實作脈絡** — 將方法放回工具鏈與工作流程中觀察其價值。
+- **限制與取捨** — 依資料、效能與維護成本選擇合適方案。
+
+## 各框架的做法
+
+- **langchain-ai-openwiki** → 展示此主題在實際專案或工具中的做法
+  👉 詳見 [[langchain-ai-openwiki]]
+- **lfnovo-open-notebook** → 展示此主題在實際專案或工具中的做法
+  👉 詳見 [[lfnovo-open-notebook]]
+
+## 延伸筆記
+
+### 原有筆記：快速導航
 - 🧠 **LLM 知識庫方法** → [[llm-knowledge-base]]（我們實作的 Karpathy 方法延伸）
 - 📝 **CLAUDE.md** → [[AI-Skills]]（知識庫的 Schema 設定檔）
 - 🔧 **Context Engineering** → [[context-engineering-basics]]（管理 LLM 看到的內容）
 - 🛠 **Agent Skills 生態系** → [[AI-Skills]]（Skills 和知識庫是 Agent 兩大支柱）
 
-## 是什麼
-
+### 原有筆記：是什麼
 Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法。核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。三個資料夾 + 一份 CLAUDE.md 設定檔，就能建構一個讓 LLM 自動整理和查詢的知識庫。
 
-## 核心特色
-
+### 原有筆記：核心特色
 ### 極簡架構
 只需三個資料夾（raw、wiki、skills）和一份 CLAUDE.md，零配置即可開始。
 
@@ -35,8 +50,7 @@ Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法。核心
 ### 雙向連結
 概念之間透過 `[[]]` 語法自動串連，形成知識網路。
 
-## 核心內容
-
+### 原有筆記：核心內容
 Andrej Karpathy 的 LLM Wiki 方法是一套極簡的 AI 知識庫建構方法，核心觀念是「你只管把東西往裡丟，整理是 AI 的事」。2026 年 4 月，Nick Spisak 拆解了 Karpathy 的方法，簡化為三個資料夾 + 一份 CLAUDE.md 設定檔的架構。
 
 ### 三層架構
@@ -75,7 +89,7 @@ my-knowledge-base/
 ### CLAUDE.md 設定檔模板
 
 ```markdown
-# 知識庫規則說明
+
 
 ## 這個知識庫是什麼
 一份關於 [你的主題] 的個人知識庫。
@@ -143,8 +157,7 @@ my-knowledge-base/
 - **Obsidian 版本**：多全文搜尋、筆記互連、圖譜視覺化功能
 - 核心邏輯一樣，差別只在最上層有沒有筆記 App 當介面
 
-## 怎麼用
-
+### 原有筆記：怎麼用
 ### 使用此知識庫
 1. Clone 或下載 repo
 2. 閱讀 `wiki/` 目錄下的概念頁面
@@ -156,8 +169,7 @@ my-knowledge-base/
 - `wiki/projects.md`：專案索引
 - `CLAUDE.md`：Agent 行為設定
 
-## 跟其他方案的關係
-
+### 原有筆記：跟其他方案的關係
 | 方案 | 格式 | 自動整理 | 雙向連結 | AI 原生 |
 |------|------|----------|----------|---------|
 | **Karpathy 方法** | 三層資料夾 | ✅ | ✅ WikiLink | ✅ |
@@ -171,8 +183,7 @@ my-knowledge-base/
 - [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]]
 - [[AI-Skills|Agent Skills 生態系]]
 
-## 相關概念
-
+### 原有筆記：相關概念
 - [[llm-knowledge-base|LLM 知識庫方法]] — 我們實作的知識庫系統，就是 Karpathy 方法的延伸
 - [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階技巧]] — Claude Code 是實作 LLM Wiki 的工具之一
 - [[AI-Skills|Agent Skills 生態系]] — Skills 和知識庫是 Agent 的兩大支柱
@@ -184,15 +195,41 @@ my-knowledge-base/
 
 - [Nick Spisak X 貼文](https://x.com/nickspisak_/status/2040448463540830705)
 - [數位時代報導](https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how)
-- [Karpathy LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- [Karpathy LLM Wiki Gist](GitHub 連結（見來源）)
 
-## 來源
+### 原有筆記：來源
 - raw/2026-04-28-andrej-karpathy-ai-how.md
 
----
+### 延伸筆記：核心特色
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
-| 項目 | 值 |
-|------|------|
-| **來源** | 數位時代 BusinessNext |
-| **收錄日期** | 2026-04-28 |
-| **License** | 未標示 |
+### 延伸筆記：快速導航
+- 🔗 **延伸主題** → [[langchain-ai-openwiki]]
+- 🔗 **延伸主題** → [[lfnovo-open-notebook]]
+
+### 延伸筆記：跟其他方案的關係
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[langchain-ai-openwiki]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[lfnovo-open-notebook]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
+## 相關概念
+
+- [[llm-knowledge-base]]
+- [[AI-Skills]]
+- [[context-engineering-basics]]
+- [[claude-code-boris-cherny-advanced-techniques]]
+- [[AI-Agent]]
+- [[LLM]]
+
+## 來源
+
+- https://x.com/nickspisak_/status/2040448463540830705
+- https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
+- https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- `raw/2026-04-28-andrej-karpathy-ai-how.md`
+- raw/2026-04-28-andrej-karpathy-ai-how.md

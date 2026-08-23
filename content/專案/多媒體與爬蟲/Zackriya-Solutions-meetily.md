@@ -5,14 +5,15 @@ created: 2026-07-05
 updated: 2026-07-05
 stars: 15.3k
 language: Rust
-topics: ai-meeting-assistant, local-ai, ollama, whisper, privacy-focused, transcription
+topics: ["ai-meeting-assistant", "local-ai", "ollama", "whisper", "privacy-focused", "transcription"]
 ---
 
 # Meetily
 
-> ⭐15.3k · 隱私優先的 AI 會議助手，100% 本地處理，Rust 打造
+> ⭐15300 · 隱私優先的 AI 會議助手，100% 本地處理，Rust 打造
 
 ## 快速導航
+
 
 - 🧠 **語音辨識** → [[語音辨識\|語音辨識 (ASR/TTS)]]
 - 🛠 **自架平台** → [[self-hosted\|自架]]
@@ -82,20 +83,21 @@ pnpm install
 
 ## 相關概念
 
+
 ← [[語音辨識]] · [[self-hosted]] · [[Ollama]] · [[privacy]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Zackriya-Solutions/meeting-minutes)
 - GitHub: https://github.com/Zackriya-Solutions/meetily
 - 官網: https://meetily.ai
 - raw/2026-07-05-Zackriya-Solutions-meetily.md
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/Zackriya-Solutions/meetily |
-| **Stars** | ⭐ 15,283 |
-| **License** | MIT |
-| **Language** | Rust |
-| **收錄日期** | 2026-07-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Zackriya-Solutions/meeting-minutes |
+| Stars | ⭐15300|
+| License | MIT |
+| 收錄日期 | 2026-07-05 |

@@ -10,9 +10,10 @@ topics: [cms, publishing, newsletters, memberships, self-hosted]
 
 # Ghost
 
-> ⭐54.9k · 面向專業出版、會員與電子報經營的開源 Node.js CMS，可自架，也可使用官方 Ghost(Pro) 代管服務。
+> ⭐54888 · 面向專業出版、會員與電子報經營的開源 Node.js CMS，可自架，也可使用官方 Ghost(Pro) 代管服務。
 
 ## 快速導航
+
 
 - 🧠 [[content-automation]] — 內容建立、發佈與電子報配送的工作流
 - 🏠 [[self-hosted]] — 可自行管理網站、資料與升級節奏
@@ -68,6 +69,7 @@ Ghost 與通用 CMS 的差別在於把出版、會員與 newsletter 做成核心
 
 ## 相關概念
 
+
 ← [[content-automation]] · [[self-hosted]] · [[open-source-business]]
 
 ## 來源
@@ -78,10 +80,9 @@ Ghost 與通用 CMS 的差別在於把出版、會員與 newsletter 做成核心
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/TryGhost/Ghost |
-| **Stars** | ⭐54,888 |
-| **License** | MIT |
-| **Language** | JavaScript |
-| **收錄日期** | 2026-08-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/TryGhost/Ghost |
+| Stars | ⭐54888|
+| License | MIT |
+| 收錄日期 | 2026-08-22 |

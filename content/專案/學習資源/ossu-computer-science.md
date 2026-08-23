@@ -14,10 +14,10 @@ topics:
 
 # OSSU Computer Science
 
-> ⭐206.5k · 完整的免費自學資工系課程，從 Harvard、MIT、Princeton 等頂尖大學精選課程組成
-
+> ⭐206512 · 完整的免費自學資工系課程，從 Harvard、MIT、Princeton 等頂尖大學精選課程組成
 
 ## 快速導航
+
 快速導航：[[self-education|自主學習]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
 
 ## 是什麼
@@ -62,7 +62,8 @@ OSSU（Open Source Society University）電腦科學課程是一個完整的自�
 
 ## 相關概念
 
-← [[self-education|自主學習]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
+
+← [[self-education]] · [[freeCodeCamp-freeCodeCamp]] · [[codecrafters-io-build-your-own-x]]
 
 ## 來源
 
@@ -72,10 +73,9 @@ OSSU（Open Source Society University）電腦科學課程是一個完整的自�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [ossu/computer-science](https://github.com/ossu/computer-science) |
-| Stars | ⭐206,512 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ossu/computer-science |
+| Stars | ⭐206512|
 | License | MIT |
-| Language | HTML |
 | 收錄日期 | 2026-07-17 |

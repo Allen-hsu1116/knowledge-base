@@ -10,9 +10,10 @@ topics: [evaluation, langchain, llm, llm-evaluation, llm-observability, llmops, 
 
 # Langfuse
 
-> ⭐29.2k · 開源 LLM 工程平台，提供追蹤、評測、Prompt 管理、Playground，Y Combinator W23
+> ⭐29216 · 開源 LLM 工程平台，提供追蹤、評測、Prompt 管理、Playground，Y Combinator W23
 
 ## 快速導航
+
 [[Prompt-Engineering|Prompt Engineering]] · [[LLM|LLM 基礎]] · [[promptfoo-promptfoo|Prompt 測試]]
 
 ## 是什麼
@@ -74,7 +75,8 @@ result = story()
 | Weight & Biases | ML 實驗追蹤 | ❌ 僅雲端 | ✅ | ⚠️ | ✅ | 企業 ML 平台 |
 
 ## 相關概念
-← [[Prompt-Engineering|Prompt Engineering]] · [[LLM|LLM 基礎]] · [[promptfoo-promptfoo|Prompt 測試]]
+
+← [[Prompt-Engineering]] · [[LLM]] · [[promptfoo-promptfoo]]
 
 ## 來源
 
@@ -85,10 +87,9 @@ result = story()
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [langfuse/langfuse](https://github.com/langfuse/langfuse) |
-| Stars | ⭐29,216 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/langfuse/langfuse |
+| Stars | ⭐29216|
 | License | MIT (EE 目錄另授權) |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-17 |
+| 收錄日期 | 2023-05-18 |

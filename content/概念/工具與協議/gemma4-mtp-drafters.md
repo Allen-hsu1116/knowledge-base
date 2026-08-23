@@ -2,28 +2,45 @@
 title: Gemma 4 MTP Drafters
 slug: gemma4-mtp-drafters
 created: 2026-05-10
-updated: 2026-05-10
-stars: —
+updated: 2026-08-23
 language: zh-TW
-topics: [Token Optimization, LLM 推理加速]
 ---
 
 # Gemma 4 MTP Drafters
 
-> ⭐— · Google 為 Gemma 4 推出的多 Token 預測投機模型，用投機解碼讓本地端推理速度最高提升 3 倍，零品質損失。
+> Google 為 Gemma 4 推出的多 Token 預測投機模型，用投機解碼讓本地端推理速度最高提升 3 倍，零品質損失。
 
-## 快速導航
+## 核心內容
 
+Google 於 2026 年 5 月 5 日發布的 Gemma 4 MTP Drafters（Multi-Token Prediction Drafters），是一組輕量級「草稿模型」，搭配 Gemma 4 主模型使用投機解碼（Speculative Decoding），讓本地端推理速度最高提升 3 倍，且完全不影響輸出品質。
+
+這個主題可從技術原理、實作流程與相關工具三個層次理解，並透過來源資料持續核對其適用範圍與限制。
+
+## 關鍵要素
+
+- **投機解碼（Speculative Decoding）**：由輕量 Drafter 快速預測多個 token 序列，主模型一次平行驗證，同意就整段接受
+- **共享 KV Cache**：Drafter 直接使用主模型的 KV Cache，不重新計算已處理的上下文，大幅降低額外開銷
+- **零品質損失**：主模型仍負責最終驗證，Drafter 只加速不改品質
+- **多硬體最佳化**：Pixel 手機、Apple Silicon、NVIDIA GPU 都有效能提升數據
+
+## 各框架的做法
+
+- **vLLM** → 展示此主題在實際專案或工具中的做法
+  👉 詳見 [[vLLM]]
+- **sgl-project-sglang** → 展示此主題在實際專案或工具中的做法
+  👉 詳見 [[sgl-project-sglang]]
+
+## 延伸筆記
+
+### 原有筆記：快速導航
 - ⚡ **Token 優化** → [[Token-Optimization]]（投機解碼是 token 層級的推理加速）
 - 🧠 **LLM 底層** → [[llm-internals]]（KV Cache 重用、自迴歸生成瓶頸）
 - 🔌 **LLM** → [[LLM]]（Gemma 4 開源模型）
 
-## 是什麼
-
+### 原有筆記：是什麼
 Google 於 2026 年 5 月 5 日發布的 Gemma 4 MTP Drafters（Multi-Token Prediction Drafters），是一組輕量級「草稿模型」，搭配 Gemma 4 主模型使用投機解碼（Speculative Decoding），讓本地端推理速度最高提升 3 倍，且完全不影響輸出品質。
 
-## 核心特色
-
+### 原有筆記：核心特色
 - **投機解碼（Speculative Decoding）**：由輕量 Drafter 快速預測多個 token 序列，主模型一次平行驗證，同意就整段接受
 - **共享 KV Cache**：Drafter 直接使用主模型的 KV Cache，不重新計算已處理的上下文，大幅降低額外開銷
 - **零品質損失**：主模型仍負責最終驗證，Drafter 只加速不改品質
@@ -60,22 +77,21 @@ Google 於 2026 年 5 月 5 日發布的 Gemma 4 MTP Drafters（Multi-Token Pred
 
 投機解碼的數學保證：主模型的驗證步驟保證最終輸出的分佈與不做投機解碼時完全一致。拒絕時取樣方式保證分佈不變。Drafter 只影響速度，不影響正確性。
 
-## 怎麼用
-
+### 原有筆記：怎麼用
 ```bash
-# Ollama（最簡單）
+
 ollama run gemma4:31b-coding-mtp-bf16
 
-# Hugging Face Transformers
+
 from transformers import AutoModelForCausalLM
 model = AutoModelForCausalLM.from_pretrained("google/gemma-4-31b")
 
-# MLX（Apple Silicon）
-# 從 Hugging Face 下載 MTP drafter 權重
-# MLX 框架原生支援 speculative decoding
 
-# vLLM / SGLang
-# 兩者都內建 speculative decoding 支援
+
+
+
+
+
 ```
 
 - 授權：Apache 2.0
@@ -83,8 +99,7 @@ model = AutoModelForCausalLM.from_pretrained("google/gemma-4-31b")
 - 支援框架：Hugging Face Transformers、MLX、vLLM、SGLang、Ollama
 - Android/iOS：Google AI Edge Gallery
 
-## 跟其他方案的關係
-
+### 原有筆記：跟其他方案的關係
 - **vs [[JuliusBrussee-caveman]]**：Caveman 用 token 壓縮減少輸出量，MTP 用投機解碼加速推理，兩者互補（一個減量、一個加速）
 - **vs [[rtk]]**：RTK 是 token 節省框架，MTP 是推理加速，不同層面的優化
 - **vs KV Cache 優化（[[llm-internals]]）**：MTP 重用 KV Cache 是其核心技巧，跟 Flash Attention、Paged Attention 等 KV Cache 優化是同一生態系的技術
@@ -100,16 +115,22 @@ model = AutoModelForCausalLM.from_pretrained("google/gemma-4-31b")
 | **Batch 排程** | 平行處理多個請求 | 零 | 取決於 batch |
 | **模型蒸餾** | 小模型模仿大模型 | 有損 | 取決於模型大小差異 |
 
+### 原有筆記：相關概念
+← [[Token-Optimization]] · [[llm-internals]] · [[LLM]]
+
+### 原有筆記：來源
+- raw/2026-05-09-gemma4-mtp-drafters.md
+
 ## 相關概念
 
-← [[Token-Optimization]] · [[llm-internals]] · [[LLM]]
+- [[Token-Optimization]]
+- [[llm-internals]]
+- [[LLM]]
+- [[AI-Agent]]
+- [[AI-Skills]]
 
 ## 來源
 
+- https://www.koc.com.tw/archives/641923
+- `raw/2026-05-09-gemma4-mtp-drafters.md`
 - raw/2026-05-09-gemma4-mtp-drafters.md
-
----
-
-| 來源 | 發布日期 | License | 收錄日期 |
-|------|----------|---------|----------|
-| [KOC / Google](https://www.koc.com.tw/archives/641923) | 2026-05-05 | Apache 2.0 | 2026-05-09 |

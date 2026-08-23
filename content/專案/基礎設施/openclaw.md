@@ -10,14 +10,18 @@ topics: [AI Agent, Skill, MCP, 自架助手框架]
 
 # OpenClaw
 
-> ⭐383k · 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
+> ⭐383411 · 個人 AI 助手框架，在任何 OS、任何通訊軟體上跑你的 AI Agent。🦞 我們正在用它！（詳細參考頁）
 
 ## 快速導航
+
 - ⚡ [[agent-persona]] · [[AI-Skills]] · [[llm-knowledge-base]] · [[AI-Agent]]
 
 ## 是什麼
 
-OpenClaw 是一個開源個人 AI 助手框架，核心設計原則是**本地優先、單用戶、多頻道**。Gateway 只是控制面板，真正的產品是助手本身——你不需要學新介面，OpenClaw 直接回答你在已經使用的通訊軟體上。支援 25+ 頻道（WhatsApp、Telegram、Slack、Discord、Signal、iMessage、LINE 等等），可以在 macOS、Linux、Windows WSL2 上跑。Node.js 驅動，MIT 開源，Discord 和 GitHub Issues 社群活躍。
+
+OpenClaw 是一個開源個人 AI 助手框架，核心設計原則是**本地優先、單用戶、多頻道**。
+
+Gateway 只是控制面板，真正的產品是助手本身——你不需要學新介面，OpenClaw 直接回答你在已經使用的通訊軟體上。支援 25+ 頻道（WhatsApp、Telegram、Slack、Discord、Signal、iMessage、LINE 等等），可以在 macOS、Linux、Windows WSL2 上跑。Node.js 驅動，MIT 開源，Discord 和 GitHub Issues 社群活躍。
 
 ## 核心特色
 
@@ -73,6 +77,7 @@ OpenClaw 的架構分為兩部分：
 Gateway 只是控制面板，產品是助手本身。
 
 ## 相關概念
+
 ← [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[llm-knowledge-base]]
 
 ## 來源
@@ -84,10 +89,9 @@ Gateway 只是控制面板，產品是助手本身。
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [openclaw/openclaw](https://github.com/openclaw/openclaw) |
-| Stars | ⭐383,411 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/openclaw/openclaw |
+| Stars | ⭐383411|
 | License | MIT |
-| Language | Node.js |
-| 收錄日期 | 2026-05-03 |
+| 收錄日期 | 2026-05-10 |

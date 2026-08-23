@@ -10,9 +10,10 @@ topics: [awesome, awesome-list, generative-ai, interview-questions, large-langua
 
 # Awesome Generative AI Guide
 
-> ⭐27.6k · 生成式 AI 一站式資源庫——研究論文、面試題、課程、筆記本應有盡有。
+> ⭐27628 · 生成式 AI 一站式資源庫——研究論文、面試題、課程、筆記本應有盡有。
 
 ## 快速導航
+
 [[mlabonne-llm-course|LLM Course]] · [[dair-ai-Prompt-Engineering-Guide|Prompt Engineering Guide]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
 
 ## 是什麼
@@ -59,7 +60,8 @@ jupyter notebook
 
 ## 相關概念
 
-← [[mlabonne-llm-course|LLM Course]] · [[dair-ai-Prompt-Engineering-Guide|Prompt Engineering Guide]] · [[freeCodeCamp-freeCodeCamp|freeCodeCamp]]
+
+← [[mlabonne-llm-course]] · [[dair-ai-Prompt-Engineering-Guide]] · [[freeCodeCamp-freeCodeCamp]]
 
 ## 來源
 
@@ -69,10 +71,9 @@ jupyter notebook
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) |
-| Stars | ⭐27,628 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/aishwaryanr/awesome-generative-ai-guide |
+| Stars | ⭐27628|
 | License | MIT |
-| Language | HTML |
 | 收錄日期 | 2026-06-20 |

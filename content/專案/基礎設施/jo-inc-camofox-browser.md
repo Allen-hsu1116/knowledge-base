@@ -10,16 +10,20 @@ topics: [AI Agent, 瀏覽器自動化, 反偵測]
 
 # Camofox Browser
 
-> ⭐5.8k · AI Agent 專用隱身無頭瀏覽器 — C++ 層指紋偽裝繞過 Cloudflare，REST API 直接替代 Puppeteer/Playwright。
+> ⭐5829 · AI Agent 專用隱身無頭瀏覽器 — C++ 層指紋偽裝繞過 Cloudflare，REST API 直接替代 Puppeteer/Playwright。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent|AI Agent]] — 自主 AI 系統
 - 🔌 [[MCP]] — Model Context Protocol
 
 ## 是什麼
 
-jo-inc/camofox-browser 基於 Camoufox（Firefox fork，在 C++ 層做指紋偽裝），包裝成 AI agent 友善的 REST API。是 Puppeteer/Playwright 的直接替代品，但能繞過 Google、Cloudflare 等反機器人偵測。支援 Docker、Fly.io、Railway 部署，也有 OpenClaw 插件。
+
+jo-inc/camofox-browser 基於 Camoufox（Firefox fork，在 C++ 層做指紋偽裝），包裝成 AI agent 友善的 REST API。
+
+是 Puppeteer/Playwright 的直接替代品，但能繞過 Google、Cloudflare 等反機器人偵測。支援 Docker、Fly.io、Railway 部署，也有 OpenClaw 插件。
 
 ## 核心特色
 
@@ -76,6 +80,7 @@ curl http://localhost:9377/openapi.json
 
 ## 跟其他方案的關係
 
+
 - **Camofox Browser** — ✅ C++ 層反偵測 · ✅ 90% Token 壓縮 · ✅ REST + refs · Docker/Fly/Railway
 - **Puppeteer** — ❌ 反偵測 · ❌ raw HTML · ⚠️ 需寫 JS · 自行部署
 - **Playwright** — ❌ 反偵測 · ❌ raw HTML · ⚠️ 需寫 JS · 自行部署
@@ -85,17 +90,28 @@ curl http://localhost:9377/openapi.json
 - 有 OpenClaw 插件，直接整合到 OpenClaw 工作流，Agent 不需要額外配置
 - 與 AI Agent 概念相關：Agent 需要網頁互動能力，Camofox 提供最可靠的方案
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[MCP]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
 
-← [[AI-Agent|AI Agent]] · [[MCP]]
+
+← [[AI-Agent]] · [[MCP]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/jo-inc/camofox-browser)
 - raw/2026-05-26-jo-inc-camofox-browser.md
 - raw/2026-05-08-jo-inc-camofox-browser.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | ⭐5,829 | MIT | 2026-05-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jo-inc/camofox-browser |
+| Stars | ⭐5829|
+| License | 未標示 |
+| 收錄日期 | 2026-05-08 |

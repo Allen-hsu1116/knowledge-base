@@ -10,9 +10,10 @@ topics: [ai-tools, claude-code, codex, hermes-agent, mcp, desktop-app, openclaw,
 
 # CC Switch
 
-> ⭐101.7k · 跨平台 AI 程式碼助手管理器，一個桌面 App 管理 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI、Hermes Agent
+> ⭐101664 · 跨平台 AI 程式碼助手管理器，一個桌面 App 管理 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI、Hermes Agent
 
 ## 快速導航
+
 [[AI-Skills|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
 
 ## 是什麼
@@ -62,7 +63,8 @@ pnpm tauri dev
 | [[CherryHQ-cherry-studio|AionUi]] | 桌面客戶端 | 多個 | Win/Mac/Linux | Agent Cowork |
 
 ## 相關概念
-← [[AI-Skills|Agent Skills 生態系]] · [[hermes-agent|Hermes Agent]]
+
+← [[AI-Skills]] · [[hermes-agent]]
 
 ## 來源
 
@@ -72,10 +74,9 @@ pnpm tauri dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) |
-| Stars | ⭐101,664 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/farion1231/cc-switch |
+| Stars | ⭐101664|
 | License | MIT |
-| Language | Rust / TypeScript (Tauri 2) |
-| 收錄日期 | 2026-06-16 |
+| 收錄日期 | 2025-08-04 |

@@ -10,9 +10,10 @@ topics: [algorithmic-trading, quant, quantitative-finance, backtesting, trading-
 
 # Awesome Systematic Trading
 
-> ⭐9.6k · Python · A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+> ⭐9601 · A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 
 ## 快速導航
+
 
 - 📊 **金融預測** → [[financial-forecasting|金融預測]]
 - 🤖 **Agent 交易** → [[agent-trading|Agent 交易]]
@@ -66,7 +67,8 @@ git clone https://github.com/paperswithbacktest/awesome-systematic-trading.git
 
 ## 相關概念
 
-← [[financial-forecasting|金融預測]] · [[agent-trading|Agent 交易]] · [[backtesting|回測]] · [[stock-tracking|股市追蹤]]
+
+← [[financial-forecasting]] · [[agent-trading]] · [[backtesting]] · [[stock-tracking]]
 
 ## 來源
 
@@ -76,10 +78,9 @@ git clone https://github.com/paperswithbacktest/awesome-systematic-trading.git
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/paperswithbacktest/awesome-systematic-trading |
-| Stars | ⭐9,601 |
-| License | — |
-| Language | Python |
+| Stars | ⭐9601|
+| License | 未標示 |
 | 收錄日期 | 2026-07-29 |

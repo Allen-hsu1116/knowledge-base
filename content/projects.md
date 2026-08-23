@@ -64,7 +64,7 @@ updated: 2026-08-23
 | [[stablyai-orca\|Orca]] | ⭐6.8k | ADE, 平行 worktree, 25+ Agent 支援, 手機 Companion, SSH Worktree, Design Mode | 2026-06-25 |
 | [[JCodesMore-ai-website-cloner-template\|AI Website Cloner Template]] | ⭐17.7k | AI Coding Agent, 網站克隆, Next.js, 平行 builder, 12+ Agent 平台 | 2026-06-23 |
 | [[Kilo-Org-kilocode\|Kilo Code]] | ⭐23359 | AI 編碼 Agent, VS Code+JetBrains+CLI, 500+ 模型, MCP Marketplace, 自主模式 | 2026-06-21 |
-| [[HarnessX]] | —（研究論文） | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
+| [[HarnessX]] | ⭐442 | Agent Harness, Harness Evolution, Substitution Algebra, AEGIS, RL | 2026-06-20 |
 | [[OpenHands-OpenHands\|OpenHands]] | ⭐77391 | Coding Agent 控制中心, ACP 協議, 多後端, 自動化工作流 | 2026-06-17 |
 | [[microsoft-autogen\|AutoGen]] | ⭐59010 | 多 Agent 框架, AgentChat, MCP 整合, 維護模式 | 2026-06-17 |
 | [[farion1231-cc-switch\|CC Switch]] | ⭐101664 | AI Agent 管理器, 跨平台桌面, Claude Code/Codex/OpenCode | 2026-06-16 |
@@ -196,7 +196,6 @@ updated: 2026-08-23
 | [[pytorch-pytorch\|PyTorch]] | ⭐101233 | 深度學習框架, 動態計算圖, autograd, GPU/TPU 加速, 分散式訓練, TorchScript, 量化, LLM 生態基石 | 2026-07-03 |
 | [[hiyouga-LlamaFactory\|LlamaFactory]] | ⭐72532 | LLM 微調, 100+ 模型, LoRA/QLoRA, SFT/DPO/PPO, vLLM/SGLang 推理, Web UI | 2026-06-27 |
 | [[LMCache-LMCache\|LMCache]] | ⭐8600 | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
-| [[nvidia-locate-anything\|LocateAnything (NVIDIA)]] | —（研究論文） | VLM, Object Detection, Visual Grounding, Parallel Box Decoding | 2026-06-05 |
 | [[lyogavin-airllm\|AirLLM]] | ⭐18902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
 | [[p-e-w-heretic\|Heretic]] | ⭐22010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
 | [[ds4\|DS4]] | ⭐'10277' | LLM, 推論加速, 本地部署, DeepSeek | 2026-05-13 |
@@ -269,7 +268,6 @@ updated: 2026-08-23
 | [[mksglu-context-mode\|Context Mode]] | ⭐17358 | Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台 | 2026-06-14 |
 | [[jieba\|jieba 結巴分詞]] | ⭐34,952 | NLP, 中文分詞, 關鍵詞提取 | 2026-05-16 |
 | [[nltk\|NLTK]] | ⭐14,500 | NLP, 分詞, 詞性標注, 語料庫 | 2026-05-16 |
-| [[gemma4-mtp-drafters]] | ⭐—（研究文章，非 GitHub 專案） | Token Optimization, LLM 推理加速 | 2026-05-09 |
 | [[AlexsJones-llmfit]] | ⭐26,314 | LLM, Token Optimization | 2026-05-07 |
 | [[tirth8205-code-review-graph]] | ⭐15,581 | Knowledge Graph, Token Optimization, MCP | 2026-05-07 |
 | [[rtk\|RTK (Rust Token Killer)]]（[[rtk-ai-rtk\|別名]]） | ⭐'6k' | Token Optimization, Prompt Engineering | 2026-05-03 |
@@ -297,7 +295,6 @@ updated: 2026-08-23
 | [[dair-ai-Prompt-Engineering-Guide\|Prompt Engineering Guide]] | ⭐75657 | Prompt Engineering, RAG, AI Agents, 論文+課程 | 2026-06-16 |
 | [[shareAI-lab-learn-claude-code\|Learn Claude Code]] | ⭐66678 | Harness Engineering, Agent Loop, 從零建構 | 2026-06-16 |
 | [[luongnv89-claude-howto\|Claude HowTo]] | ⭐35777 | Claude Code, 學習指南, Slash Commands, Skills, Hooks | 2026-06-09 |
-| [[google-cloud-ai-agent-trends-2026\|Google AI Agent Trends 2026]] | —（研究報告） | Agentic AI, AI Agent, Agent Workflow, Enterprise AI | 2026-06-05 |
 | [[lfnovo-open-notebook\|Open Notebook]] | ⭐25031 | NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast | 2026-06-05 |
 | [[jamwithai-production-agentic-rag-course\|Production Agentic RAG Course]] | ⭐6376 | RAG, Agentic RAG, OpenSearch, FastAPI, 課程 | 2026-06-03 |
 | [[stefan-jansen-machine-learning-for-trading\|ML for Trading]] | ⭐17870 | ML, 金融交易, 教學, Jupyter Notebook | 2026-06-02 |
@@ -314,8 +311,6 @@ updated: 2026-08-23
 | [[minimind\|MiniMind]] | ⭐49,797 | LLM, 從零訓練, 教學 | 2026-05-14 |
 | [[rasbt-LLMs-from-scratch\|LLMs from Scratch]] | ⭐'93785' | LLM, 底層技術, KV Cache | 2026-05-13 |
 | [[datawhalechina-hello-agents\|Hello-Agents]] | ⭐'48' | AI Agent, MCP, RAG, Prompt Engineering | 2026-05-13 |
-| [[claude-code-boris-cherny-advanced-techniques\|Claude Code 進階技巧]] | —（文章/技巧） | Claude Code, 進階技巧, 生產力, 自動化 | 2026-05-06 |
-| [[andrej-karpathy-ai-how\|Karpathy 知識庫完整拆解]] | —（文章報導） | LLM 知識庫, Karpathy, Claude Code | 2026-04-28 |
 
 ## 📊 應用
 
@@ -394,7 +389,6 @@ updated: 2026-08-23
 | [[github-awesome-copilot\|Awesome GitHub Copilot]] | ⭐35791 | Copilot 資源, Agent/Skill/Hook/Workflow/Plugin, GitHub 官方, llms.txt | 2026-06-27 |
 | [[google-labs-code-design.md\|DESIGN.md]] | ⭐17.3k | Design System Spec, YAML Tokens, Visual Identity, WCAG Contrast, CLI Lint | 2026-06-25 |
 | [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | ⭐44397 | Prompt Engineering, System Prompts, AI 透明性, 安全研究, 15+ 廠商 | 2026-06-22 |
-| [[gsap-ai-skills\|GSAP AI Skills]] | —（文章/概念） | AI Skills, Frontend, Animation, GSAP, Web Design, Design Taste | 2026-06-20 |
 | [[Understand-Anything\|Understand Anything]] | ⭐64284 | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
 | [[DietrichGebert-ponytail\|Ponytail]] | ⭐36775 | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
 | [[penpot-penpot\|Penpot]] | ⭐50086 | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
@@ -409,7 +403,7 @@ updated: 2026-08-23
 | [[softaworks-agent-toolkit\|Softaworks Agent Toolkit]] | ⭐1979 | AI Skills, Design System, UI/UX | 2026-06-08 |
 | [[expo-skills\|Expo Skills]] | ⭐2038 | AI Skills, Mobile, React Native | 2026-06-08 |
 | [[Figma-Skills\|Figma Skills]] | ⭐23546 | AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作 | 2026-06-08 |
-| [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | — | AI Skills, 前端設計, Design System, Web Design Guidelines | 2026-06-08 |
+| [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | ⭐171039 | AI Skills, 前端設計, Design System, Web Design Guidelines | 2026-06-08 |
 | [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐36016 | AI Skills, Prompt Engineering, 前端設計 | 2026-06-07 |
 | [[mvanhorn-last30days-skill\|last30days]] | ⭐27580 | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
@@ -473,7 +467,7 @@ updated: 2026-08-23
 | [[fireworks-tech-graph\|Fireworks Tech Graph]] | ⭐'5.7' | Knowledge Graph, JavaScript | 2026-05-09 |
 | [[openmythos\|OpenMythos]] | ⭐'12.3' | AI, 神話, Python | 2026-05-09 |
 | [[codeburn\|CodeBurn]] | ⭐'5.9' | AI Skills, 程式碼優化 | 2026-05-09 |
-| [[printing-press]] | ⭐30+ | Prompt Engineering, 文件轉換 | 2026-05-09 |
+| [[printing-press]] | ⭐1 | TypeScript Markdown 靜態網站產生器, CLI, 已封存 | 2026-05-09 |
 | [[anthropics-claude-plugins-official]] | ⭐18,801 | AI Skills, MCP, Plugin 生態系 | 2026-05-08 |
 | [[can1357-oh-my-pi]] | ⭐4,108 | Coding Agent CLI, LSP, 自主記憶 | 2026-05-08 |
 | [[volcengine-OpenSandbox\|OpenSandbox]]（[[opensandbox\|別名]]） | ⭐10,400 | AI Agent, MCP, Context Database | 2026-05-05 |

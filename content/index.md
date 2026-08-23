@@ -95,6 +95,15 @@ updated: 2026-08-19
 
 ---
 
+### 研究與方法筆記
+
+- [[andrej-karpathy-ai-how|Karpathy AI 知識庫方法]] — 極簡編譯式知識庫的實作思路
+- [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階工作法]] — 平行執行、驗證迴圈與委派模式
+- [[gemma4-mtp-drafters|MTP 投機解碼]] — 多 Token 預測與推論加速
+- [[google-cloud-ai-agent-trends-2026|企業 AI Agent 趨勢]] — 企業導入 Agentic AI 的研究摘要
+- [[gsap-ai-skills|GSAP AI 動畫技能]] — AI 前端動畫與設計品味
+- [[nvidia-locate-anything|Parallel Box Decoding]] — VLM 視覺定位的平行解碼方法
+
 ## 📦 待分類
 
 > 新加入但尚未歸入層次的概念。歡迎協助分類。

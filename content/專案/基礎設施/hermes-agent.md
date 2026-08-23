@@ -10,9 +10,10 @@ topics: [AI Agent, 學習閉環, 跨 session 記憶]
 
 # Hermes Agent
 
-> ⭐154,414 · Nous Research 自我改進 AI Agent，內建學習閉環：從經驗建立技能、技能自我改進、跨 session 記憶與使用者建模。
+> ⭐154414 · Nous Research 自我改進 AI Agent，內建學習閉環：從經驗建立技能、技能自我改進、跨 session 記憶與使用者建模。
 
 ## 快速導航
+
 
 - 🧠 **使用者建模** → [[agent-persona]]（Honcho dialectic user modeling）
 - 🛠 **Skill 標準** → [[AI-Skills]]（相容 agentskills.io 開放標準）
@@ -21,7 +22,10 @@ topics: [AI Agent, 學習閉環, 跨 session 記憶]
 
 ## 是什麼
 
-Hermes Agent 是 Nous Research（開源 LLM 模型知名團隊）推出的自主 AI Agent。最大賣點是內建學習閉環——不是被動等指令，而是主動從經驗中學習、建立技能、改進技能、記住過去對話、並跨 session 建立對使用者的深層理解。支援 200+ 模型（透過 OpenRouter）、6 種終端後端、多平台 Gateway（Telegram、Discord、Slack、WhatsApp、Signal、CLI）。
+
+Hermes Agent 是 Nous Research（開源 LLM 模型知名團隊）推出的自主 AI Agent。
+
+最大賣點是內建學習閉環——不是被動等指令，而是主動從經驗中學習、建立技能、改進技能、記住過去對話、並跨 session 建立對使用者的深層理解。支援 200+ 模型（透過 OpenRouter）、6 種終端後端、多平台 Gateway（Telegram、Discord、Slack、WhatsApp、Signal、CLI）。
 
 ## 核心特色
 
@@ -58,6 +62,7 @@ hermes schedule add "每天早上9點摘要新聞" --cron "0 9 * * *"
 
 ## 跟其他方案的關係
 
+
 跟 [[project-golem]] 的差異：Golem 是 Node.js 寫的自主 Agent 系統，Hermes 是 Python 寫的。Golem 沒有學習閉環（不會自動建立和改進技能），Hermes 的核心就是學習閉環。Golem 用自有技能系統，Hermes 相容 agentskills.io 開放標準。
 
 跟 [[autoresearch]] 的差異：AutoResearch 是人類寫 program.md、Agent 執行；Hermes 是 Agent 自己建立技能、自己改進。兩者可以結合：用 Hermes 的學習閉環來自動改進 AutoResearch 的 program.md。
@@ -68,21 +73,27 @@ Hermes 相容 [[AI-Skills]] 的 agentskills.io 開放標準，跟 [[addyosmani-a
 
 [[nesquena-hermes-webui|Hermes WebUI]] 是 Hermes Agent 的 Web 介面，提供三欄式佈局、CLI 完全同位、遠端存取等功能，讓你能從瀏覽器或手機操作 Hermes Agent。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[project-golem]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[autoresearch]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
 
-← [[AI-Skills]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]] · [[nesquena-hermes-webui|Hermes WebUI]]
+
+← [[AI-Skills]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]] · [[nesquena-hermes-webui]] · [[agent-persona]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/nousresearch/hermes-agent)
 - raw/2026-05-02-hermes-agent.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/nousresearch/hermes-agent |
-| Stars | ⭐154,414 |
-| Language | Python |
-| 建立日期 | 2025-07-22 |
-| 授權 | MIT |
-| 收錄日期 | 2026-05-02 |
+| Stars | ⭐154414|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

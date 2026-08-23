@@ -11,9 +11,10 @@ repo: https://github.com/multica-ai/andrej-karpathy-skills
 
 # Karpathy CLAUDE.md 規則（4+8 條完整版）
 
-> ⭐141.7k · 從 Karpathy 對 LLM coding 的抱怨出發，先有 4 條基礎規則（Forrest Chang），後由 Mnilax 擴充 8 條成為 12 條完整版，是 Claude Code 社群最具影響力的行為契約。
+> ⭐141652 · 從 Karpathy 對 LLM coding 的抱怨出發，先有 4 條基礎規則（Forrest Chang），後由 Mnilax 擴充 8 條成為 12 條完整版，是 Claude Code 社群最具影響力的行為契約。
 
 ## 快速導航
+
 
 - 🧠 **Prompt 工程** → [[Prompt-Engineering]]（規則 = 結構化 prompt）
 - 🤖 **Agent 技能** → [[AI-Skills]]（CLAUDE.md 是 Agent 行為契約）
@@ -65,6 +66,7 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[Prompt-Engineering]] · [[Coding-Agent-CLI]] · [[AI-Skills]] · [[andrej-karpathy-ai-how]]
 
 ## 來源
@@ -73,8 +75,12 @@ curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy
 - https://github.com/multica-ai/andrej-karpathy-skills
 - https://abmedia.io/claude-md-12-rules-karpathy-mnilax-extended-may-2026（Mnilax 12 條擴充版報導）
 - raw/2026-04-28-karpathy-skills.md
+
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐141,652 | MIT | 2026-05-20 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/multica-ai/andrej-karpathy-skills |
+| Stars | ⭐141652|
+| License | 未標示 |
+| 收錄日期 | 2026-05-20 |

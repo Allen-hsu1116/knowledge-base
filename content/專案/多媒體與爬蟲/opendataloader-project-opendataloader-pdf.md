@@ -16,9 +16,10 @@ topics:
 
 # opendataloader-pdf
 
-> ⭐25.5k · Java · Apache-2.0 · PDF 解析器界的 #1，為 AI/RAG 管線而生，還自動生成 Tagged PDF 達成無障礙合規
+> ⭐25475 · PDF 解析器界的 #1，為 AI/RAG 管線而生，還自動生成 Tagged PDF 達成無障礙合規
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — RAG 是 Agent 的核心能力之一
 - 🔍 [[rag|RAG]] — 檢索增強生成概念
@@ -115,19 +116,20 @@ opendataloader_pdf.convert(
 
 ## 相關概念
 
-← [[rag|RAG]] · [[AI-Agent]] · [[document-parsing|PDF Documents]] · [[llama-index|LlamaIndex]]
+
+← [[rag]] · [[AI-Agent]] · [[document-parsing]] · [[llama-index]]
 
 ## 來源
 
 - 📦 GitHub：[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 - 📁 raw：`raw/2026-06-20-opendataloader-project-opendataloader-pdf.md`
 - raw/2026-06-04-opendataloader-project-opendataloader-pdf.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) |
-| Stars | ⭐25,475 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/opendataloader-project/opendataloader-pdf |
+| Stars | ⭐25475|
 | License | Apache-2.0 |
-| 語言 | Java |
 | 收錄日期 | 2026-06-20 |

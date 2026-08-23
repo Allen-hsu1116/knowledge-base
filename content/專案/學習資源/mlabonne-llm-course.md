@@ -10,9 +10,10 @@ topics: [course, large-language-models, llm, machine-learning, roadmap]
 
 # LLM Course
 
-> ⭐80.2k · 從基礎到進階的 LLM 完整學習路線圖，附帶可執行的 Colab 筆記本
+> ⭐80186 · 從基礎到進階的 LLM 完整學習路線圖，附帶可執行的 Colab 筆記本
 
 ## 快速導航
+
 [[LLM|LLM 基礎]] · [[Prompt-Engineering|Prompt Engineering]] · [[rasbt-LLMs-from-scratch|從零打造 LLM]]
 
 ## 是什麼
@@ -59,7 +60,8 @@ pip install unsloth  # 高效微調
 | Fast.ai Practical DL | 課程 | 深度學習基礎 | 影片+筆記本 | DL 入門 |
 
 ## 相關概念
-← [[LLM|LLM 基礎]] · [[Prompt-Engineering|Prompt Engineering]] · [[rasbt-LLMs-from-scratch|從零打造 LLM]]
+
+← [[LLM]] · [[Prompt-Engineering]] · [[rasbt-LLMs-from-scratch]]
 
 ## 來源
 
@@ -71,10 +73,9 @@ pip install unsloth  # 高效微調
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) |
-| Stars | ⭐80,186 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/mlabonne/llm-course |
+| Stars | ⭐80186|
 | License | Apache-2.0 |
-| Language | Jupyter Notebook |
-| 收錄日期 | 2026-06-17 |
+| 收錄日期 | 2023-06-17 |

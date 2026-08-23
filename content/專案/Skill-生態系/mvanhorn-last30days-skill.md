@@ -10,9 +10,10 @@ topics: [AI Skills, 社群搜尋引擎, OSINT, Agent 整合]
 
 # last30days
 
-> ⭐28k · AI Agent 驅動的社群搜尋引擎，用 Reddit upvote、X like、Polymarket 真金白銀評分，一次搜遍 14 個平台
+> ⭐27580 · AI Agent 驅動的社群搜尋引擎，用 Reddit upvote、X like、Polymarket 真金白銀評分，一次搜遍 14 個平台
 
 ## 快速導航
+
 [[AI-Agent|AI Agent]] · [[AI-Skills|AI Skills]] · [[網頁爬蟲|Web Crawling]]
 
 ## 是什麼
@@ -74,7 +75,8 @@ eli5 on
 last30days 的差異化在於「群眾評分 + 跨平台搜尋 + Agent 原生整合」三合一。其他方案只看 SEO 或單一來源，last30days 用 real people 的 real engagement 當排序依據。
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[AI-Skills|AI Skills]] · [[網頁爬蟲|Web Crawling]]
+
+← [[AI-Agent]] · [[AI-Skills]] · [[網頁爬蟲]]
 
 ## 來源
 
@@ -83,10 +85,9 @@ last30days 的差異化在於「群眾評分 + 跨平台搜尋 + Agent 原生整
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
-| Stars | ⭐27,580 |
-| License | — |
-| Language | Python |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/mvanhorn/last30days-skill |
+| Stars | ⭐27580|
+| License | 未標示 |
 | 收錄日期 | 2026-06-05 |

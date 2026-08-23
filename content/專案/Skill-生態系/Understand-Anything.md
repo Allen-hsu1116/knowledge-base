@@ -16,9 +16,10 @@ topics:
 
 # Understand-Anything
 
-> ⭐64.3k · TypeScript · MIT · 將任何程式碼庫/知識庫/文件轉成互動式知識圖譜，不只顯示結構，還教你程式碼背後的故事
+> ⭐64284 · 將任何程式碼庫/知識庫/文件轉成互動式知識圖譜，不只顯示結構，還教你程式碼背後的故事
 
 ## 快速導航
+
 
 - 🧠 [[Knowledge-Graph]] — 知識圖譜概念
 - 🤖 [[AI-Agent]] — 多 Agent 流水線
@@ -87,6 +88,7 @@ curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/
 
 ## 相關概念
 
+
 ← [[Knowledge-Graph]] · [[AI-Agent]] · [[code-intelligence]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -99,11 +101,9 @@ curl -fsSL https://raw.githubusercontent.com/Egonex-AI/Understand-Anything/main/
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) |
-| Stars | ⭐64,284（+45,656 ⬆️ 自 2026-05-23） |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Egonex-AI/Understand-Anything |
+| Stars | ⭐64284|
 | License | MIT |
-| 語言 | TypeScript |
-| 公司 | Egonex-AI（原作者 Lum1104） |
-| 收錄日期 | 2026-05-23（初次），2026-06-20（更新） |
+| 收錄日期 | 2026-05-10 |

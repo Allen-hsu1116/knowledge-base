@@ -36,6 +36,7 @@ topics: [llm, positional-embedding, sinusoidal, alibi, rope, teaching]
 
 ## 快速導航
 
+
 - ⚡ **Flash Attention** → [[flash-attention]]（減少記憶體搬運的最佳化）
 - 🗄️ **KV Cache** → [[kv-cache]]（避免重算 K/V 的快取機制）
 - 🧠 **LLM** → [[LLM]]（大型語言模型總覽）
@@ -131,9 +132,12 @@ Self-Attention 是置換不變的（permutation invariant）：把輸入 token �
 
 ## 相關概念
 
+
 - [[flash-attention|Flash Attention]] — 減少記憶體搬運
 - [[kv-cache|KV Cache]] — 避免重算 K/V
 - [[LLM|LLM 總覽]]
+
+← [[flash-attention]] · [[kv-cache]] · [[LLM]]
 
 ## 來源
 
@@ -146,7 +150,9 @@ Self-Attention 是置換不變的（permutation invariant）：把輸入 token �
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| 來源 | 教學/文章 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | 不適用（非 GitHub 專案；見來源） |
+| Stars | ⭐未標示 |
+| License | 未標示 |
 | 收錄日期 | 2026-05-03 |

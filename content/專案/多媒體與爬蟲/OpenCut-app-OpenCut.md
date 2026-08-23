@@ -13,10 +13,10 @@ topics:
 
 # OpenCut
 
-> ⭐74k · 開源 CapCut 替代品，免費的跨平台影片編輯器（Web、桌面、手機）
-
+> ⭐74004 · 開源 CapCut 替代品，免費的跨平台影片編輯器（Web、桌面、手機）
 
 ## 快速導航
+
 快速導航：[[AI-video-generation|AI 影片生成]] · [[content-automation|內容自動化]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
 
 ## 是什麼
@@ -65,7 +65,8 @@ moon run desktop:dev   # 見 apps/desktop/README.md
 
 ## 相關概念
 
-← [[AI-video-generation|AI 影片生成]] · [[content-automation|內容自動化]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
+
+← [[AI-video-generation]] · [[content-automation]] · [[harry0703-MoneyPrinterTurbo]]
 
 ## 來源
 
@@ -75,10 +76,9 @@ moon run desktop:dev   # 見 apps/desktop/README.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) |
-| Stars | ⭐74,004 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/OpenCut-app/OpenCut |
+| Stars | ⭐74004|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-17 |

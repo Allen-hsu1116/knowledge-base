@@ -10,9 +10,10 @@ topics: [AI Skills, Coding Agent CLI, Prompt Engineering]
 
 # Open Design
 
-> ⭐30,632 · 開源版 Claude Design — 本地優先、BYOK、skill-driven 的 AI 設計工具，讓你既有的 coding agent CLI 變成設計引擎。
+> ⭐30632 · 開源版 Claude Design — 本地優先、BYOK、skill-driven 的 AI 設計工具，讓你既有的 coding agent CLI 變成設計引擎。
 
 ## 快速導航
+
 - 🛠 **AI Skills** → [[AI-Skills]]（OD 的 31 個 Skills 遵循 SKILL.md 格式）
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]（OD 偵測並串接 16 個 CLI agent）
 - 🔌 **MCP** → [[MCP]]（Skills 定義「做什麼」，MCP 定義「怎麼連」）
@@ -20,7 +21,10 @@ topics: [AI Skills, Coding Agent CLI, Prompt Engineering]
 
 ## 是什麼
 
-Open Design 是 Anthropic Claude Design 的開源替代品。同樣是「AI 驅動設計產出」的思維，但不鎖定模型、不鎖定平台、本地優先、BYOK。它不自己實作 agent——而是偵測你機器上已有的 coding agent CLI（如 Claude Code、Codex CLI、Gemini CLI 等），把它們接入 skill-driven 的設計工作流。
+
+Open Design 是 Anthropic Claude Design 的開源替代品。
+
+同樣是「AI 驅動設計產出」的思維，但不鎖定模型、不鎖定平台、本地優先、BYOK。它不自己實作 agent——而是偵測你機器上已有的 coding agent CLI（如 Claude Code、Codex CLI、Gemini CLI 等），把它們接入 skill-driven 的設計工作流。
 
 ## 核心特色
 
@@ -74,22 +78,19 @@ OD 站在四個開源專案的肩膀上：
 4. **multica** — Daemon + runtime 架構（PATH-scan agent detection、本地 daemon）
 
 ## 相關概念
+
 ← [[AI-Skills]] · [[Coding-Agent-CLI]] · [[MCP]] · [[Prompt-Engineering]] · [[AI-Agent]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/nexu-io/open-design)
 - raw/2026-05-07-open-design.md
 
 ---
 
-- **GitHub**: https://github.com/nexu-io/open-design
-- **Stars**: ⭐30,632
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-07
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/nexu-io/open-design |
-| **Stars** | ⭐30,632 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/nexu-io/open-design |
+| Stars | ⭐30632|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

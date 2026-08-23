@@ -10,16 +10,20 @@ topics: [NLP, 中文分詞, 關鍵詞提取]
 
 # jieba
 
-> ⭐34,952 · 結巴中文分詞 — Python 最流行的中文分詞套件，支援四種分詞模式、關鍵詞提取、詞性標注。35K ⭐。
+> ⭐34952 · 結巴中文分詞 — Python 最流行的中文分詞套件，支援四種分詞模式、關鍵詞提取、詞性標注。35K ⭐。
 
 ## 快速導航
+
 - 📝 **NLP** → [[nltk]]（jieba 是中文分詞，NLTK 是通用 NLP 工具包）
 - 🔍 **RAG** → [[rag]]（中文 RAG 系統的前端分詞基礎）
 - 📄 **文件解析** → [[document-parsing]]（中文文件處理的分詞前置步驟）
 
 ## 是什麼
 
-jieba（結巴）是 Python 最流行的中文分詞套件，提供精確模式、全模式、搜索引擎模式、Paddle 模式四種分詞策略。基於前綴詞典和動態規劃算法，對未登錄詞使用 HMM（Viterbi 算法）識別，同時支援繁體中文和自定義詞典。
+
+jieba（結巴）是 Python 最流行的中文分詞套件，提供精確模式、全模式、搜索引擎模式、Paddle 模式四種分詞策略。
+
+基於前綴詞典和動態規劃算法，對未登錄詞使用 HMM（Viterbi 算法）識別，同時支援繁體中文和自定義詞典。
 
 ## 核心特色
 
@@ -61,23 +65,19 @@ tags = jieba.analyse.extract_tags(text, topK=20)
 
 ## 相關概念
 
+
 ← [[nltk]] · [[rag]] · [[document-parsing]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/fxsjy/jieba)
 - raw/2026-05-16-jieba.md
 
 ---
 
-- **GitHub**: https://github.com/fxsjy/jieba
-- **Stars**: ⭐34,952
-- **License**: MIT
-- **收錄日期**: 2026-05-16
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/fxsjy/jieba |
-| **Stars** | ⭐34,952 |
-| **收錄日期** | 2026-05-16 |
+| GitHub | https://github.com/fxsjy/jieba |
+| Stars | ⭐34952|
+| License | MIT |
+| 收錄日期 | 2026-05-16 |

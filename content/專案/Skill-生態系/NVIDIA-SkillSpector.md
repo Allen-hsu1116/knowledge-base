@@ -10,9 +10,10 @@ topics: [Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩]
 
 # SkillSpector
 
-> ⭐3.5k · AI Agent Skills 安全掃描器，64 種漏洞模式 x 16 大類，安裝 Skill 前先問它
+> ⭐3496 · AI Agent Skills 安全掃描器，64 種漏洞模式 x 16 大類，安裝 Skill 前先問它
 
 ## 快速導航
+
 [[prompt-security|Prompt 安全]] · [[AI-Skills|AI Skills]] · [[prompt-security|CL4R1T4S]] · [[pentesting|滲透測試]]
 
 ## 是什麼
@@ -84,19 +85,20 @@ skillspector scan ./my-skill/ --no-llm
 | [[mukul975-Anthropic-Cybersecurity-Skills|Cybersecurity Skills]] | ⭐7.4k | Agent 網安 Skills | MITRE ATT&CK | ❌ | ❌ |
 
 ## 相關概念
-← [[prompt-security|Prompt 安全]] · [[AI-Skills|AI Skills]] · [[prompt-security|CL4R1T4S]]
+
+← [[prompt-security]] · [[AI-Skills]] · [[prompt-security]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/NVIDIA/skillspector)
 - GitHub: <https://github.com/NVIDIA/SkillSpector>
 - 原始 README: `raw/2026-06-13-NVIDIA-SkillSpector.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
-| Stars | ⭐3,496 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/NVIDIA/skillspector |
+| Stars | ⭐3496|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-13 |

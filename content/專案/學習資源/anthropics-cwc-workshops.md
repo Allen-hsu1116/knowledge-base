@@ -5,14 +5,15 @@ created: 2026-07-18
 updated: 2026-07-18
 stars: 1585
 language: TypeScript
-topics: claude, managed-agents, skills, mcp, evals, workshops
+topics: ["claude", "managed-agents", "skills", "mcp", "evals", "workshops"]
 ---
 
 # Code with Claude Workshops
 
-> ⭐1.6k · Anthropic 官方「Code with Claude」工作坊教材，9 個實戰 workshop 涵蓋 Skills、MCP、Managed Agents、Evals
+> ⭐1585 · Anthropic 官方「Code with Claude」工作坊教材，9 個實戰 workshop 涵蓋 Skills、MCP、Managed Agents、Evals
 
 ## 快速導航
+
 
 - 🛠 **AI Skills** → [[AI-Skills]]
 - 🔌 **MCP** → [[MCP]]
@@ -84,6 +85,7 @@ CWC Workshops 的獨特價值在於它是 Anthropic 官方的第一手實戰教�
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[MCP]] · [[AI-Agent]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -93,8 +95,9 @@ CWC Workshops 的獨特價值在於它是 Anthropic 官方的第一手實戰教�
 
 ---
 
-- **GitHub**: https://github.com/anthropics/cwc-workshops
-- **Stars**: ⭐1,585
-- **License**: Apache-2.0
-- **Language**: TypeScript
-- **收錄日期**: 2026-07-18
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anthropics/cwc-workshops |
+| Stars | ⭐1585|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-18 |

@@ -14,6 +14,7 @@ topics: [llm, kv-cache, gqa, mla, sliding-window, teaching]
 
 ## 快速導航
 
+
 - ⚡ [[flash-attention]] · [[LLM]] · [[Token-Optimization]] · [[llm-internals]]
 - 💾 **Flash Attention** → [[flash-attention]]（KV Cache 優化的基礎技術）
 - 🧭 **位置編碼演進** → [[positional-embedding-evolution]]（Transformer 另一個關鍵組件）
@@ -133,6 +134,7 @@ system_prompt = """
 
 ## 相關概念
 
+
 ← [[flash-attention]] · [[LLM]] · [[Token-Optimization]] · [[llm-internals]] · [[positional-embedding-evolution]] · [[gemma4-mtp-drafters]]
 
 ## 參考資料
@@ -143,8 +145,14 @@ system_prompt = """
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/user-attachments/assets)
 - [KV Cache 課程筆記](../raw/2026-05-03-kv-cache.md)
 
----_此頁由 daily-llm-trending 自動維護_
-- **收錄日期**: 2026-05-10
-- **License**: 未標示
+---
+
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/user-attachments/assets |
+| Stars | ⭐未標示 |
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

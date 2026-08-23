@@ -10,9 +10,10 @@ topics: [AI Skills, Agent Skills, PDF, EPUB, Claude Code, GitHub Copilot, Token 
 
 # book-to-skill
 
-> ⭐11.4k · Python · Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+> ⭐11380 · Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
 ## 快速導航
+
 
 - 🧠 **AI Skills 標準** → [[agentskills-agentskills|Agent Skills]]
 - 🛠 **Token 優化原理** → [[Token-Optimization|Token Optimization]]
@@ -84,7 +85,8 @@ pip3 install docling  # ~1.5s/page，保留 markdown 表格和程式碼區塊
 
 ## 相關概念
 
-← [[agentskills-agentskills|Agent Skills]] · [[Token-Optimization|Token Optimization]] · [[document-parsing|文件解析]] · [[llm-knowledge-base|LLM 知識庫]]
+
+← [[agentskills-agentskills]] · [[Token-Optimization]] · [[document-parsing]] · [[llm-knowledge-base]]
 
 ## 來源
 
@@ -93,10 +95,9 @@ pip3 install docling  # ~1.5s/page，保留 markdown 表格和程式碼區塊
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/virgiliojr94/book-to-skill |
-| Stars | ⭐11,380 |
+| Stars | ⭐11380|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-29 |

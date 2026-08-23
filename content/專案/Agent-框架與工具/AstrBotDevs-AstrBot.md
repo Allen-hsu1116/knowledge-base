@@ -10,9 +10,10 @@ topics: [agent, chatbot, llm, mcp, qq, telegram, discord, docker, plugin]
 
 # AstrBot
 
-> ⭐36.7k · 開源全能 Agent 聊天機器人平台，整合主流即時通訊應用（QQ、Telegram、Discord、Slack 等），支援 LLM 對話、MCP、Agent Sandbox、1000+ 插件。
+> ⭐36702 · 開源全能 Agent 聊天機器人平台，整合主流即時通訊應用（QQ、Telegram、Discord、Slack 等），支援 LLM 對話、MCP、Agent Sandbox、1000+ 插件。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
@@ -87,20 +88,21 @@ AstrBot 的最大差異化在於「IM 優先」——它不是把聊天機器人
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[AI-Skills]] · [[langgenius-dify]] · [[open-webui-open-webui]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/AstrBotDevs/AstrBot-desktop)
 - **GitHub**: https://github.com/AstrBotDevs/AstrBot
 - **官方文件**: https://astrbot.app/
 - **raw 檔案**: `raw/2026-07-20-AstrBotDevs-AstrBot.md`
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | AstrBotDevs/AstrBot |
-| Stars | 36,702 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/AstrBotDevs/AstrBot-desktop |
+| Stars | ⭐36702|
 | License | AGPL-3.0 |
-| Language | Python |
 | 收錄日期 | 2026-07-20 |

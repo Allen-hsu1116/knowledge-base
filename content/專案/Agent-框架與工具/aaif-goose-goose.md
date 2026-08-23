@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, ACP, 通用 Agent, Rust]
 
 # Goose
 
-> ⭐48k · 開源通用 AI Agent，桌面應用 + CLI + API，支援 15+ LLM 提供商與 70+ MCP 擴展
+> ⭐48112 · 開源通用 AI Agent，桌面應用 + CLI + API，支援 15+ LLM 提供商與 70+ MCP 擴展
 
 ## 快速導航
+
 [[AI-Agent]] · [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 是什麼
@@ -64,6 +65,7 @@ goose --provider anthropic
 Goose 與 Claude Code 的定位不同：Claude Code 專注於程式碼開發工作流，而 Goose 是一個更通用的 Agent，涵蓋研究、寫作、自動化等場景。Goose 的 ACP 協議是獨特賣點，讓使用者不需要額外購買 API key 就能連接現有的 AI 訂閱服務。
 
 ## 相關概念
+
 ← [[AI-Agent]] · [[MCP]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -73,10 +75,9 @@ Goose 與 Claude Code 的定位不同：Claude Code 專注於程式碼開發工�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [aaif-goose/goose](https://github.com/aaif-goose/goose) |
-| Stars | ⭐48,112 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/aaif-goose/goose |
+| Stars | ⭐48112|
 | License | Apache-2.0 |
-| Language | Rust |
 | 收錄日期 | 2026-06-09 |

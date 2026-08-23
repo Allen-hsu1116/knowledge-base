@@ -10,16 +10,20 @@ topics: [LLM, 本地部署]
 
 # Ollama
 
-> ⭐171,080 · 本地一鍵運行大型語言模型，支援 Llama、Gemma、DeepSeek 等數百種開源模型。171K ⭐。
+> ⭐171080 · 本地一鍵運行大型語言模型，支援 Llama、Gemma、DeepSeek 等數百種開源模型。171K ⭐。
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（Ollama 讓 LLM 本地部署變簡單）
 - 📡 **推論加速** → [[llm-internals]]（Ollama 底層用 llama.cpp 做推理）
 - ⚡ **效能優化** → [[Token-Optimization]]（本地推理降低 API 成本）
 
 ## 是什麼
 
-Ollama 讓你在本地一鍵運行大型語言模型，是目前本地 LLM 部署的事實標準工具。它把複雜的模型下載、量化、GPU 配置封裝成一條 `ollama run` 命令，大幅降低了本地推理的門檻。
+
+Ollama 讓你在本地一鍵運行大型語言模型，是目前本地 LLM 部署的事實標準工具。
+
+它把複雜的模型下載、量化、GPU 配置封裝成一條 `ollama run` 命令，大幅降低了本地推理的門檻。
 
 ## 核心特色
 
@@ -80,22 +84,19 @@ ollama run my-assistant
 | [[litellm]] | LLM Gateway | LiteLLM 可以統一管理 Ollama 和雲端 API |
 
 ## 相關概念
+
 ← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/ollama/ollama)
 - raw/2026-05-10-ollama.md
 
 ---
 
-- **GitHub**: https://github.com/ollama/ollama
-- **Stars**: ⭐171,080
-- **License**: MIT
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/ollama/ollama |
-| **Stars** | ⭐171,080 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/ollama/ollama |
+| Stars | ⭐171080|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

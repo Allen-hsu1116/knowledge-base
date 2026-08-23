@@ -13,6 +13,7 @@ topics: [AI Agent, 環境工程, 記憶連續性]
 > ⭐4757 · 開放 Agent 電腦 — 把電腦重新想像成人與 AI Agent 並肩工作的共享環境，記憶、執行、目標都在同一個地方保持連貫。⭐4,757
 
 ## 快速導航
+
 - 🤖 **Agent 工作流** → [[AI-Agent]]（holaOS 是 Agent 的完整作業環境）
 - 🧠 **記憶與連續性** → [[mempalace]]（持久記憶 + 長期任務恢復）
 - 🗄️ **Context Database** → [[Context-Database]]（Workspace Model 的概念基礎）
@@ -64,23 +65,19 @@ npm run desktop:dev
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[mempalace]] · [[Context-Database]] · [[openclaw]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/holaboss-ai/holaOS)
 - raw/2026-05-06-holaboss-ai-holaOS.md
 
 ---
 
-- **GitHub**: https://github.com/holaboss-ai/holaOS
-- **Stars**: ⭐4,757
-- **License**: MIT
-- **收錄日期**: 2026-05-06
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/holaboss-ai/holaOS.git |
-| **Stars** | ⭐'⭐4757' |
-| **收錄日期** | 2026-05-06 |
+| GitHub | https://github.com/holaboss-ai/holaOS |
+| Stars | ⭐4757|
+| License | MIT |
+| 收錄日期 | 2026-05-06 |

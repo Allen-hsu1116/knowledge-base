@@ -5,14 +5,15 @@ created: 2026-07-10
 updated: 2026-08-09
 stars: 107397
 language: Markdown
-topics: awesome-list, design-md, design-system, design-tokens, figma, google-stitch, vibe-coding, vibe-design, retro-web
+topics: ["awesome-list", "design-md", "design-system", "design-tokens", "figma", "google-stitch", "vibe-coding", "vibe-design", "retro-web"]
 ---
 
 # Awesome DESIGN.md
 
-> ⭐107.4k · 73 個知名網站的 DESIGN.md 設計系統文件，讓 AI coding agent 生成視覺一致的 UI
+> ⭐107397 · 73 個知名網站的 DESIGN.md 設計系統文件，讓 AI coding agent 生成視覺一致的 UI
 
 ## 快速導航
+
 
 - 🎨 **前端設計** → [[frontend-design]]
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]
@@ -68,20 +69,21 @@ DESIGN.md 與 [[frontend-design|前端設計]] 概念高度相關——它是將
 
 ## 相關概念
 
-← [[frontend-design] · [[Coding-Agent-CLI] · [[AI-Skills]
+
+← [[frontend-design]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
 - GitHub: https://github.com/VoltAgent/awesome-design-md
 - Homepage: https://getdesign.md/
 - raw/2026-07-10-VoltAgent-awesome-design-md.md
+- 原始素材：`raw/2026-08-09-VoltAgent-awesome-design-md.md`
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/VoltAgent/awesome-design-md |
-| **Stars** | ⭐99,684 |
-| **License** | MIT |
-| **Language** | Markdown |
-| **收錄日期** | 2026-07-10 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/VoltAgent/awesome-design-md |
+| Stars | ⭐107397|
+| License | MIT |
+| 收錄日期 | 2026-07-10 |

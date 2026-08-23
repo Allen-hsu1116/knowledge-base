@@ -5,14 +5,15 @@ created: 2026-07-04
 updated: 2026-07-04
 stars: 77337
 language: Java
-topics: elasticsearch, search-engine, java, vector-search, rag
+topics: ["elasticsearch", "search-engine", "java", "vector-search", "rag"]
 ---
 
 # Elasticsearch
 
-> ⭐77.3k · 分散式搜尋與分析引擎，向量資料庫，RAG 與生成式 AI 應用的搜尋基石
+> ⭐77337 · 分散式搜尋與分析引擎，向量資料庫，RAG 與生成式 AI 應用的搜尋基石
 
 ## 快速導航
+
 
 - 🧠 **向量資料庫** → [[向量資料庫]]
 - 🛠 **RAG** → [[rag|RAG]]
@@ -125,6 +126,7 @@ Elasticsearch 與 [[Milvus]]、[[Qdrant]]、[[Chroma]] 等專用向量資料庫�
 
 ## 相關概念
 
+
 ← [[向量資料庫]] · [[rag]] · [[Milvus]] · [[qmd]]
 
 ## 來源
@@ -137,10 +139,9 @@ Elasticsearch 與 [[Milvus]]、[[Qdrant]]、[[Chroma]] 等專用向量資料庫�
 
 ---
 
-| 欄位 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/elastic/elasticsearch |
-| **Stars** | ⭐77,337 |
-| **License** | Elastic License |
-| **Language** | Java |
-| **收錄日期** | 2026-07-04 |
+| GitHub | https://github.com/elastic/elasticsearch |
+| Stars | ⭐77337|
+| License | Elastic License |
+| 收錄日期 | 2026-07-04 |

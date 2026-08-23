@@ -13,13 +13,17 @@ topics: [電腦視覺, 模型無關工具箱]
 > ⭐38878 · 電腦視覺的可重用工具箱，從資料載入到即時區域計數，提供構建 CV 應用所需的基礎模組。⭐38,878
 
 ## 快速導航
+
 - 🖥️ **電腦視覺** → [[visualization]]（提供豐富的視覺化 annotator）
 - 🔍 **文件解析** → [[document-parsing]]（視覺化標註工具可輔助文件解析）
 - 🌐 **網頁爬蟲** → [[網頁爬蟲]]（即時串流處理可結合網路攝影機資料）
 
 ## 是什麼
 
-supervision 是 Roboflow 開源的電腦視覺工具庫，設計哲學是「模型無關」。不管你用的是 Ultralytics YOLO、HuggingFace Transformers、MMDetection 還是 Roboflow Inference，只要插入模型輸出，supervision 就能處理後續的視覺化、追蹤、區域分析等工作。核心抽象是 `sv.Detections`，一個統一的偵測結果格式。
+
+supervision 是 Roboflow 開源的電腦視覺工具庫，設計哲學是「模型無關」。
+
+不管你用的是 Ultralytics YOLO、HuggingFace Transformers、MMDetection 還是 Roboflow Inference，只要插入模型輸出，supervision 就能處理後續的視覺化、追蹤、區域分析等工作。核心抽象是 `sv.Detections`，一個統一的偵測結果格式。
 
 ## 核心特色
 
@@ -76,23 +80,19 @@ for frame in video_frames:
 
 ## 相關概念
 
+
 ← [[visualization]] · [[document-parsing]] · [[網頁爬蟲]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/roboflow/supervision)
 - raw/2026-05-15-roboflow-supervision.md
 
 ---
 
-- **GitHub**: https://github.com/roboflow/supervision
-- **Stars**: ⭐38,878
-- **License**: MIT
-- **收錄日期**: 2026-05-15
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/roboflow/supervision |
-| **Stars** | ⭐'⭐38878' |
-| **收錄日期** | 2026-05-15 |
+| GitHub | https://github.com/roboflow/supervision |
+| Stars | ⭐38878|
+| License | MIT |
+| 收錄日期 | 2026-05-15 |

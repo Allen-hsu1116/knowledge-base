@@ -10,9 +10,10 @@ topics: [free-for-developers, awesome-list, free-software, developer-infrastruct
 
 # free-for.dev
 
-> ⭐133.9k · 為開發者與 DevOps 工作者整理 SaaS、PaaS、IaaS 等長期免費方案的社群策展清單。
+> ⭐133911 · 為開發者與 DevOps 工作者整理 SaaS、PaaS、IaaS 等長期免費方案的社群策展清單。
 
 ## 快速導航
+
 
 - 💸 **免費開發資源** → [[free-software]]（理解免費方案、開源與零成本工具的差異）
 - 🧱 **開發基礎設施** → [[self-hosted]]（比較代管免費層與自行架設的取捨）
@@ -68,6 +69,7 @@ free-for.dev 與 Awesome Free Apps 都是策展型專案，但前者關注「開
 
 ## 相關概念
 
+
 ← [[free-software]] · [[self-hosted]] · [[self-education]]
 
 ## 來源
@@ -79,9 +81,8 @@ free-for.dev 與 Awesome Free Apps 都是策展型專案，但前者關注「開
 ---
 
 | 欄位 | 資訊 |
-|---|---|
+|------|------|
 | GitHub | https://github.com/ripienaar/free-for-dev |
-| Stars | ⭐133,911 |
+| Stars | ⭐133911|
 | License | 未標示 |
-| Language | HTML |
 | 收錄日期 | 2026-08-23 |

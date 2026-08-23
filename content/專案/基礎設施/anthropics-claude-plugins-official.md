@@ -10,9 +10,10 @@ topics: [AI Skills, MCP, Plugin 生態系]
 
 # Claude Plugins Official
 
-> ⭐18,801 · Anthropic 官方維護的 Claude Code 高品質插件目錄 — 內部插件 + 第三方插件，統一結構與品質把關。
+> ⭐18801 · Anthropic 官方維護的 Claude Code 高品質插件目錄 — 內部插件 + 第三方插件，統一結構與品質把關。
 
 ## 快速導航
+
 
 - [[AI-Skills|AI Skills]] — 技能格式與生態系
 - [[MCP]] — Model Context Protocol
@@ -20,7 +21,10 @@ topics: [AI Skills, MCP, Plugin 生態系]
 
 ## 是什麼
 
-anthropics/claude-plugins-official 是 Anthropic 官方管理的 Claude Code 插件目錄。分為兩大類：內部插件（Anthropic 自行開發維護）和第三方外部插件（合作夥伴和社群提交，需通過品質與安全審核）。統一的 plugin.json + 標準目錄結構確保一致性和可組合性。
+
+anthropics/claude-plugins-official 是 Anthropic 官方管理的 Claude Code 插件目錄。
+
+分為兩大類：內部插件（Anthropic 自行開發維護）和第三方外部插件（合作夥伴和社群提交，需通過品質與安全審核）。統一的 plugin.json + 標準目錄結構確保一致性和可組合性。
 
 ## 核心特色
 
@@ -80,17 +84,24 @@ my-plugin/
 
 ## 相關概念
 
+
 - [[AI-Skills|AI Skills]]
 - [[MCP]]
 - [[Coding-Agent-CLI|Coding Agent CLI]]
 - [[AI-Skills|CLAUDE.md]]
 
+← [[AI-Skills]] · [[MCP]] · [[Coding-Agent-CLI]] · [[AI-Skills]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/anthropics/claude-plugins-official)
 - raw/2026-05-08-anthropics-claude-plugins-official.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ⭐18,801 | — | 2026-05-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anthropics/claude-plugins-official |
+| Stars | ⭐18801|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

@@ -15,9 +15,10 @@ topics:
 
 # Agent Substrate
 
-> ⭐1.4k · 面向大規模 stateful Agent 的高密度執行基礎設施，以 Kubernetes、gVisor／microVM 與快照提供亞秒級暫停恢復。
+> ⭐1396 · 面向大規模 stateful Agent 的高密度執行基礎設施，以 Kubernetes、gVisor／microVM 與快照提供亞秒級暫停恢復。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 📦 **沙箱** → [[sandbox]]
@@ -77,6 +78,7 @@ Agent Substrate 不取代 LangChain 或 Agent SDK，而是成為它們的執行�
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[sandbox]] · [[observability]] · [[self-hosted]]
 
 ## 來源
@@ -90,7 +92,6 @@ Agent Substrate 不取代 LangChain 或 Agent SDK，而是成為它們的執行�
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/agent-substrate/substrate |
-| Stars | ⭐1,396 |
+| Stars | ⭐1396|
 | License | Apache-2.0 |
-| Language | Go |
 | 收錄日期 | 2026-08-21 |

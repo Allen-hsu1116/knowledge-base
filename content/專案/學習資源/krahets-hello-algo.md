@@ -10,9 +10,10 @@ topics: [algorithm, data-structure, education, coding-interview, self-education]
 
 # Hello 算法
 
-> ⭐127.4k · 動畫圖解、一鍵運行的數據結構與算法教程，支援 12+ 語言與多語言翻譯。
+> ⭐127446 · 動畫圖解、一鍵運行的數據結構與算法教程，支援 12+ 語言與多語言翻譯。
 
 ## 快速導航
+
 [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[codecrafters-io-build-your-own-x|Build Your Own X]] · [[self-education|自主學習]]
 
 ## 是什麼
@@ -62,7 +63,8 @@ python chapter_stack_queue/stack.py
 | LeetCode | 練題平台 | 20+ | ❌ | ❌ | ❌ |
 
 ## 相關概念
-← [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[self-education|自主學習]]
+
+← [[rasbt-LLMs-from-scratch]] · [[self-education]]
 
 ## 來源
 
@@ -72,10 +74,9 @@ python chapter_stack_queue/stack.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [krahets/hello-algo](https://github.com/krahets/hello-algo) |
-| Stars | ⭐127,446 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/krahets/hello-algo |
+| Stars | ⭐127446|
 | License | CC BY-NC-SA 4.0 |
-| Language | Java |
-| 收錄日期 | 2026-06-18 |
+| 收錄日期 | 2022-11-04 |

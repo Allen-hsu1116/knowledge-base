@@ -10,16 +10,20 @@ topics: [Token Optimization, Prompt Engineering]
 
 # caveman
 
-> ⭐52,506 · Claude Code / Codex 的 token 壓縮 plugin — 用「穴居人語」回答，砍掉 75% output token 但保持 100% 技術準確度。附帶 caveman-shrink MCP middleware 壓縮 46% input token。
+> ⭐52506 · Claude Code / Codex 的 token 壓縮 plugin — 用「穴居人語」回答，砍掉 75% output token 但保持 100% 技術準確度。附帶 caveman-shrink MCP middleware 壓縮 46% input token。
 
 ## 快速導航
+
 
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 - 📝 **Prompt Engineering** → [[Prompt-Engineering]]
 
 ## 是什麼
 
-Caveman 是一個 Claude Code / Codex plugin，核心理念：**為什麼用很多字，當少少字就夠了？** 它讓 AI 用極簡語法回答（穴居人語），把冗長的自然語言描述壓縮成關鍵資訊密集的簡短回應。技術準確度 100% 保留，但 token 消耗大幅降低。
+
+Caveman 是一個 Claude Code / Codex plugin，核心理念：**為什麼用很多字，當少少字就夠了？
+
+** 它讓 AI 用極簡語法回答（穴居人語），把冗長的自然語言描述壓縮成關鍵資訊密集的簡短回應。技術準確度 100% 保留，但 token 消耗大幅降低。
 
 ## 核心特色
 
@@ -67,23 +71,19 @@ caveman 的 input 壓縮類似 [[rtk]] 但用 MCP 介面而非 CLI proxy。[[Die
 
 ## 相關概念
 
-← [[Token-Optimization]] · [[Prompt-Engineering]] · [[rtk]] · [[DietrichGebert-ponytail|Ponytail]]
+
+← [[Token-Optimization]] · [[Prompt-Engineering]] · [[rtk]] · [[DietrichGebert-ponytail]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/JuliusBrussee/caveman)
 - raw/JuliusBrussee-caveman.md
 
 ---
 
-- **GitHub**: https://github.com/JuliusBrussee/caveman
-- **Stars**: ⭐52,506
-- **License**: MIT
-- **收錄日期**: 2026-05-03
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/JuliusBrussee/caveman |
-| **Stars** | ⭐52,506 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/JuliusBrussee/caveman |
+| Stars | ⭐52506|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

@@ -10,9 +10,10 @@ topics: [AI Agent, Agent Orchestration, Multi-Agent, Governance, Budget Control]
 
 # Paperclip
 
-> ⭐76.5k · 開源 AI Agent 編排平台——把多個 AI Agent 組織成一家公司，有組織架構、預算、治理和目標對齊
+> ⭐76485 · 開源 AI Agent 編排平台——把多個 AI Agent 組織成一家公司，有組織架構、預算、治理和目標對齊
 
 ## 快速導航
+
 
 - 🧠 **AI Agent** → [[AI-Agent]]
 - 🛠 **Agent 編排** → [[block-buzz]]
@@ -72,6 +73,7 @@ Paperclip 與其他 Agent 編排工具最大的不同是它的「公司」定位
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[harness-engineering]] · [[block-buzz]] · [[MCP]]
 
 ## 來源
@@ -81,10 +83,9 @@ Paperclip 與其他 Agent 編排工具最大的不同是它的「公司」定位
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) |
-| Stars | ⭐76,485 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/paperclipai/paperclip |
+| Stars | ⭐76485|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-08-11 |

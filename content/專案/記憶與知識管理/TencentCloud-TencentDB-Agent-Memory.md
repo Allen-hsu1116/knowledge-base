@@ -10,9 +10,10 @@ topics: [agent, ai-agent, embedding, llm, local-first, long-term-memory, memory,
 
 # TencentDB Agent Memory
 
-> ⭐7.6k · AI Agent 的全本地長期記憶系統，4 層漸進式管線，零外部 API 依賴，符號化短期記憶 + 分層長期記憶
+> ⭐7646 · AI Agent 的全本地長期記憶系統，4 層漸進式管線，零外部 API 依賴，符號化短期記憶 + 分層長期記憶
 
 ## 快速導航
+
 
 - 🧠 **AI Agent 記憶** → [[mem0ai-mem0|Mem0]]（通用記憶層）· [[rohitg00-agentmemory|agentmemory]]（Coding Agent 記憶）
 - 🔧 **MCP 協議** → [[MCP]]（Agent 連接外部工具的標準協議）
@@ -92,7 +93,8 @@ TencentDB Agent Memory 的獨特之處在於用 Mermaid 符號化記憶做短期
 
 ## 相關概念
 
-← [[mem0ai-mem0|Mem0]] · [[rohitg00-agentmemory|agentmemory]] · [[MCP]] · [[rag]] · [[向量資料庫]]
+
+← [[mem0ai-mem0]] · [[rohitg00-agentmemory]] · [[MCP]] · [[rag]] · [[向量資料庫]]
 
 ## 來源
 
@@ -101,10 +103,9 @@ TencentDB Agent Memory 的獨特之處在於用 Mermaid 符號化記憶做短期
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
-| Stars | ⭐7,646 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/TencentCloud/TencentDB-Agent-Memory |
+| Stars | ⭐7646|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-09 |

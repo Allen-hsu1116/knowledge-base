@@ -20,9 +20,10 @@ topics:
 
 # OpenMontage
 
-> ⭐12.1k · 全球首個開源 agentic 影片製作系統，12 條管線、52 個工具、500+ agent skills，把你的 AI coding assistant 變成完整影片製作工作室
+> ⭐12100 · 全球首個開源 agentic 影片製作系統，12 條管線、52 個工具、500+ agent skills，把你的 AI coding assistant 變成完整影片製作工作室
 
 ## 快速導航
+
 
 - 🎬 **AI 影片生成** → [[AI-video-generation|AI 影片生成]]
 - 🤖 **AI Agent** → [[AI-Agent|AI Agent]]
@@ -40,12 +41,17 @@ OpenMontage 是全球第一個開源的 agentic 影片製作系統。它的核�
 
 ## 核心特色
 
+
 1. **12 條生產管線** — 覆蓋圖片動畫、真實素材蒙太奇、AI 影片生成、產品廣告、動畫短片、Ghibli 風格等，每條管線有獨立的 stage director skill
 2. **52 個工具 + 500+ Agent Skills** — 透過 tool registry 自動發現，涵蓋圖片生成、影片生成、TTS、音樂、字幕、渲染等全流程
 3. **參考影片起點** — 可以貼一個 YouTube/TikTok/Reel 影片作為參考，agent 分析逐字稿、節奏、場景、關鍵幀和風格，產出 2-3 個差異化概念和成本估算
 4. **多供應商整合** — FAL（FLUX + Veo/Kling/MiniMax）、OpenAI、ElevenLbs、Google、xAI、HeyGen、Runway、Suno，支援本地 GPU 生成（Wan2.1、Hunyuan、LTX2、CogVideo）
 5. **自動品質審查** — ffprobe 驗證、幀取樣、音量分析、交付承諾驗證、字幕檢查，在成品交付前跑多點自審
 6. **極低成本示範** — Pixar 風格動畫短片 \$1.33、產品廣告 \$0.69、Ghibli 風格動畫 \$0.15，證明開源流程的成本優勢
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -99,7 +105,8 @@ OpenMontage 的獨特之處在於它是管線驅動的 agent 系統——不是�
 
 ## 相關概念
 
-← [[AI-video-generation|AI 影片生成]] · [[AI-Agent|AI Agent]] · [[generative-AI|生成式 AI]] · [[AI-Skills|Agent Skills 生態系]] · [[content-automation|內容自動化]] · [[palmier-io-palmier-pro|Palmier Pro]]
+
+← [[AI-video-generation]] · [[AI-Agent]] · [[generative-AI]] · [[AI-Skills]] · [[content-automation]] · [[palmier-io-palmier-pro]]
 
 ## 來源
 
@@ -108,10 +115,9 @@ OpenMontage 的獨特之處在於它是管線驅動的 agent 系統——不是�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/calesthio/OpenMontage |
-| **Stars** | ⭐12.1k |
-| **License** | AGPL-3.0 |
-| **Language** | Python |
-| **收錄日期** | 2026-06-23 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/calesthio/OpenMontage |
+| Stars | ⭐12100|
+| License | AGPL-3.0 |
+| 收錄日期 | 2026-06-23 |

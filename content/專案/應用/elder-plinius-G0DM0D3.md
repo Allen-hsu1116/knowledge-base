@@ -18,9 +18,10 @@ topics:
 
 # G0DM0D3
 
-> ⭐9.5k · 開源多模型 AI 對話介面，專為紅隊測試、越獄研究與認知研究設計，60+ 模型並行競賽
+> ⭐9510 · 開源多模型 AI 對話介面，專為紅隊測試、越獄研究與認知研究設計，60+ 模型並行競賽
 
 ## 快速導航
+
 
 - 🔒 **Prompt Security** → [[prompt-security]]
 - 🧠 **LLM** → [[LLM]]
@@ -87,6 +88,7 @@ G0DM0D3 的獨特定位是「紅隊測試專用多模型對話介面」。Cherry
 
 
 ## 相關概念
+
 ← [[prompt-security]] · [[LLM]] · [[Prompt-Engineering]]
 
 ## 來源
@@ -97,10 +99,9 @@ G0DM0D3 的獨特定位是「紅隊測試專用多模型對話介面」。Cherry
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) |
-| Stars | ⭐9,510 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/elder-plinius/G0DM0D3 |
+| Stars | ⭐9510|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-19 |

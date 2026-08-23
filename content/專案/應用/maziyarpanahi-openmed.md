@@ -10,9 +10,10 @@ topics: [醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX]
 
 # OpenMed
 
-> ⭐3.2k · 本地優先醫療 AI，1,000+ 專科模型全在裝置上跑，病人資料不出網路
+> ⭐3193 · 本地優先醫療 AI，1,000+ 專科模型全在裝置上跑，病人資料不出網路
 
 ## 快速導航
+
 [[embedded-AI|邊緣裝置 AI]] · [[computer-vision]] · [[rag]] · [[self-hosted]]
 
 ## 是什麼
@@ -90,7 +91,8 @@ dependencies: [
 | [[embedded-AI|邊緣裝置 AI]] | — | 概念 | ✅ | — | — | — |
 
 ## 相關概念
-← [[embedded-AI|邊緣裝置 AI]] · [[rag]] · [[self-hosted]]
+
+← [[embedded-AI]] · [[rag]] · [[self-hosted]]
 
 ## 來源
 
@@ -99,10 +101,9 @@ dependencies: [
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) |
-| Stars | ⭐3,193 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/maziyarpanahi/openmed |
+| Stars | ⭐3193|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-13 |

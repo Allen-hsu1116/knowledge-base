@@ -5,14 +5,15 @@ created: 2026-07-06
 updated: 2026-07-06
 stars: 36.4k
 language: JavaScript
-topics: claude, codex, marketing, agent-skills, cro, seo, copywriting
+topics: ["claude", "codex", "marketing", "agent-skills", "cro", "seo", "copywriting"]
 ---
 
 # Marketing Skills
 
-> ⭐36.4k · 為 AI Agent 打造的行銷 Skills 集合——CRO、文案、SEO、分析、成長工程，45+ skills 互相引用
+> ⭐36400 · 為 AI Agent 打造的行銷 Skills 集合——CRO、文案、SEO、分析、成長工程，45+ skills 互相引用
 
 ## 快速導航
+
 
 - 🛠 **AI Skills** → [[AI-Skills|AI Skills]]
 - 🤖 **Coding Agent** → [[anthropics-claude-code|Claude Code]]
@@ -78,7 +79,8 @@ Marketing Skills 是目前最完整的行銷領域 Agent Skills 集合，與通�
 
 ## 相關概念
 
-← [[AI-Skills] · [[anthropics-claude-code] · [[agentskills-agentskills] · [[Coding-Agent-CLI] · [[anthropics-skills]
+
+← [[AI-Skills]] · [[anthropics-claude-code]]
 
 ## 來源
 
@@ -88,10 +90,9 @@ Marketing Skills 是目前最完整的行銷領域 Agent Skills 集合，與通�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/coreyhaines31/marketingskills |
-| **Stars** | ⭐ 36,430 |
-| **License** | MIT |
-| **Language** | JavaScript |
-| **收錄日期** | 2026-07-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/coreyhaines31/marketingskills |
+| Stars | ⭐36400|
+| License | MIT |
+| 收錄日期 | 2026-07-06 |

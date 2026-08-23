@@ -10,15 +10,19 @@ topics: [AI Agent, 自主規劃]
 
 # AutoGPT
 
-> ⭐184,119 · 2023 年引爆 AI Agent 浪潮的自主 Agent 框架，讓 LLM 能自主規劃和執行任務。184K ⭐。
+> ⭐184119 · 2023 年引爆 AI Agent 浪潮的自主 Agent 框架，讓 LLM 能自主規劃和執行任務。184K ⭐。
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（AutoGPT 是 Agent 自主規劃的里程碑）
 - 🧠 **LLM** → [[LLM]]（AutoGPT 以 LLM 為大腦驅動自主行為）
 
 ## 是什麼
 
-AutoGPT 是 2023 年出現的自主 AI Agent 框架，證明了 LLM 不只能對話，還能自主規劃、分解任務、使用工具、記住結果，持續迭代直到目標完成。它引爆了整個 AI Agent 生態系——184K+ stars，是 GitHub 上最多星的 AI 專案之一。
+
+AutoGPT 是 2023 年出現的自主 AI Agent 框架，證明了 LLM 不只能對話，還能自主規劃、分解任務、使用工具、記住結果，持續迭代直到目標完成。
+
+它引爆了整個 AI Agent 生態系——184K+ stars，是 GitHub 上最多星的 AI 專案之一。
 
 ## 核心特色
 
@@ -71,22 +75,19 @@ docker compose run autogpt
 AutoGPT 之後，Agent 框架從「讓 LLM 自己跑」演進到「讓 LLM 在架構內跑」——如 CrewAI 的角色分工、LangChain 的 Chain 編排、OpenClaw 的 SKILL 定義。AutoGPT 的貢獻在於證明了 LLM 可以不只是對話工具，而是能自主完成複雜任務的系統。
 
 ## 相關概念
+
 ← [[AI-Agent]] · [[LLM]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/Significant-Gravitas/AutoGPT)
 - raw/2026-05-10-autogpt.md
 
 ---
 
-- **GitHub**: https://github.com/Significant-Gravitas/AutoGPT
-- **Stars**: ⭐184,119
-- **License**: MIT
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Significant-Gravitas/AutoGPT.git |
-| **Stars** | ⭐184,119 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/Significant-Gravitas/AutoGPT |
+| Stars | ⭐184119|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

@@ -10,9 +10,10 @@ topics: [OCR, 文件解析, LLM-Ready, RAG]
 
 # PaddleOCR
 
-> ⭐80k · 百度開源的全能 OCR 工具包，把 PDF 和圖片轉成 LLM 可用的結構化資料，支援 100+ 語言
+> ⭐79871 · 百度開源的全能 OCR 工具包，把 PDF 和圖片轉成 LLM 可用的結構化資料，支援 100+ 語言
 
 ## 快速導航
+
 [[document-parsing|文件解析]] · [[rag|RAG]] · [[PaddlePaddle-PaddleOCR|PaddleOCR]]
 
 ## 是什麼
@@ -72,7 +73,8 @@ result = table_engine("table_page.png")
 PaddleOCR 的差異化在於它是少數同時提供 VLM 級別文件理解（PaddleOCR-VL）和結構化版面解析（PP-StructureV3）的方案，而且 0.9B 模型就能達到 SOTA 準確率，部署門檻極低。
 
 ## 相關概念
-← [[document-parsing|文件解析]] · [[rag|RAG]] · [[llm-knowledge-base|OCR-Memory]]
+
+← [[document-parsing]] · [[rag]] · [[llm-knowledge-base]]
 
 ## 來源
 
@@ -81,10 +83,9 @@ PaddleOCR 的差異化在於它是少數同時提供 VLM 級別文件理解（Pa
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) |
-| Stars | ⭐79,871 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/PaddlePaddle/PaddleOCR |
+| Stars | ⭐79871|
 | License | Apache 2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-05 |

@@ -13,6 +13,7 @@ topics: [嵌入式AI, WiFi感測, 電腦視覺]
 > ⭐56007 · 用 WiFi 訊號實現空間感知與生命體徵監測的無攝影機方案。CSI 感測 + 邊緣智慧 + 密碼學證明鏈，完全不需要攝影機或穿戴裝置。⭐56,007
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（邊緣智慧模組在 ESP32 上獨立執行 AI 推論）
 - 🔌 **MCP** → [[MCP]]（支援 MCP proxy 整合）
 - 🔄 **RuFlo** → [[ruvnet-ruflo]]（同一作者的 RuFlo 專案）
@@ -66,23 +67,19 @@ python -m esptool --chip esp32s3 --port COM9 --baud 460800 \
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[ruvnet-ruflo]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/ruvnet/RuView)
 - raw/2026-05-15-ruvnet-RuView.md
 
 ---
 
-- **GitHub**: https://github.com/ruvnet/RuView
-- **Stars**: ⭐56,007
-- **License**: MIT
-- **收錄日期**: 2026-05-15
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/ruvnet/RuView |
-| **Stars** | ⭐'⭐56007' |
-| **收錄日期** | 2026-05-15 |
+| GitHub | https://github.com/ruvnet/RuView |
+| Stars | ⭐56007|
+| License | MIT |
+| 收錄日期 | 2026-05-15 |

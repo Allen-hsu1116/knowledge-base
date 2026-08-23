@@ -12,9 +12,10 @@ topics: [ai-agent, mcp, ai-skills]
 
 # Agent Reach
 
-> ⭐18,700 · 詳見 [[Panniantong-Agent-Reach]]
+> ⭐54949 · 詳見 [[Panniantong-Agent-Reach]]
 
 ## 快速導航
+
 
 - ⚡ [[AI-Agent]] · [[AI-Skills]] · [[MCP]]
 
@@ -74,6 +75,7 @@ agent-reach install --dry-run
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[Panniantong-Agent-Reach]]
 
 ## 來源
@@ -83,10 +85,9 @@ agent-reach install --dry-run
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
-| Stars | ⭐18,700 |
-| License | — |
-| Language | zh-TW |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Panniantong/Agent-Reach |
+| Stars | ⭐54949|
+| License | 未標示 |
 | 收錄日期 | 2026-05-05 |

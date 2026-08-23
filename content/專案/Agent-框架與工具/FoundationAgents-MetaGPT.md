@@ -14,9 +14,10 @@ topics:
 
 # MetaGPT
 
-> ⭐69k · 多 Agent 框架，用自然語言編程的「第一家 AI 軟體公司」
+> ⭐69060 · 多 Agent 框架，用自然語言編程的「第一家 AI 軟體公司」
 
 ## 快速導航
+
 - 🧠 **LangChain** → [[LangChain]]
 - 🤖 **CrewAI** → [[CrewAI]]
 - 🔧 **AutoGen** → [[microsoft-autogen|AutoGen]]
@@ -88,6 +89,7 @@ asyncio.run(main())
 
 ## 相關概念
 
+
 ← [[LangChain]] · [[CrewAI]] · [[microsoft-autogen]]
 
 ## 來源
@@ -97,10 +99,9 @@ asyncio.run(main())
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) |
-| Stars | ⭐69,060 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/FoundationAgents/MetaGPT |
+| Stars | ⭐69060|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-27 |

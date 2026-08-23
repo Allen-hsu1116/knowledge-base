@@ -15,10 +15,10 @@ topics:
 
 # Exercises Dataset
 
-> ⭐15k · 1,324 個健身動作的完整資料集，含動畫 GIF、縮圖、肌群分類、器材資訊和 10 種語言的步驟說明
-
+> ⭐15034 · 1,324 個健身動作的完整資料集，含動畫 GIF、縮圖、肌群分類、器材資訊和 10 種語言的步驟說明
 
 ## 快速導航
+
 快速導航：[[data-analysis|資料分析]] · [[generative-AI|生成式 AI]] · [[self-hosted|自架]]
 
 ## 是什麼
@@ -70,7 +70,8 @@ with open('data/exercises.json') as f:
 
 ## 相關概念
 
-← [[data-analysis|資料分析]] · [[generative-AI|生成式 AI]] · [[self-hosted|自架]]
+
+← [[data-analysis]] · [[generative-AI]] · [[self-hosted]]
 
 ## 來源
 
@@ -80,10 +81,9 @@ with open('data/exercises.json') as f:
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |
-| Stars | ⭐15,034 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hasaneyldrm/exercises-dataset |
+| Stars | ⭐15034|
 | License | MIT + 媒體授權條款 |
-| Language | HTML |
 | 收錄日期 | 2026-07-17 |

@@ -20,9 +20,10 @@ topics:
 
 # Logto
 
-> ⭐12.7k · 開源認證與授權基礎設施，為 SaaS 和 AI 應用而生，支援 OIDC、OAuth 2.1、多租戶、企業 SSO 和 RBAC
+> ⭐12672 · 開源認證與授權基礎設施，為 SaaS 和 AI 應用而生，支援 OIDC、OAuth 2.1、多租戶、企業 SSO 和 RBAC
 
 ## 快速導航
+
 
 - 🔐 **MCP** → [[MCP]]
 - 🤖 **AI Agent** → [[AI-Agent]]
@@ -96,6 +97,7 @@ function App() {
 
 ## 跟其他方案的關係
 
+
 - **Auth0** → 商業認證服務，Logto 是開源替代，功能相近但可自架
 - **Cognito** → AWS 託管認證，Logto 提供跨雲的開源選項
 - **Keycloak** → 另一個開源認證方案，Logto 更現代化、開發者體驗更好
@@ -103,8 +105,14 @@ function App() {
 
 ← [[MCP]] · [[AI-Agent]] · [[n8n-io-n8n|n8n]] · [[self-hosted|自架 AI 平台]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[MCP]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[MCP]] · [[AI-Agent]] · [[n8n-io-n8n]] · [[Kong-insomnia]]
 
@@ -117,10 +125,9 @@ function App() {
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [logto-io/logto](https://github.com/logto-io/logto) |
-| Stars | ⭐12,672 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/logto-io/logto |
+| Stars | ⭐12672|
 | License | MPL-2.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-30 |

@@ -10,9 +10,10 @@ topics: [agentic-ai, agentic-coding, agentic-engineering, claude-code, claude-co
 
 # Claude Code Best Practice
 
-> ⭐59.4k · 從 vibe coding 到 agentic engineering——最完整的 Claude Code 最佳實踐指南，涵蓋 Subagents、Commands、Skills、Hooks、MCP 等 20+ 核心概念
+> ⭐59447 · 從 vibe coding 到 agentic engineering——最完整的 Claude Code 最佳實踐指南，涵蓋 Subagents、Commands、Skills、Hooks、MCP 等 20+ 核心概念
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]（Claude Code 是 Coding Agent CLI 的代表）
 - 🛠 **AI Skills** → [[AI-Skills]]（Skills 是 Claude Code 的核心擴展機制）
@@ -78,6 +79,7 @@ Claude Code Best Practice 與其他方案的定位差異在於：它是「百科
 
 ## 相關概念
 
+
 ← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
@@ -87,10 +89,9 @@ Claude Code Best Practice 與其他方案的定位差異在於：它是「百科
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) |
-| Stars | ⭐59,447 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/shanraisshan/claude-code-best-practice |
+| Stars | ⭐59447|
 | License | MIT |
-| Language | HTML |
 | 收錄日期 | 2026-06-24 |

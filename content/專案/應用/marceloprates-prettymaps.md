@@ -10,9 +10,10 @@ topics: [地圖視覺化, OpenStreetMap, 生成藝術, Python, Matplotlib, 資�
 
 # prettymaps
 
-> ⭐13.1k · 以 OpenStreetMap 資料、Matplotlib 與 Shapely 繪製可高度客製化城市地圖的 Python 工具。
+> ⭐13121 · 以 OpenStreetMap 資料、Matplotlib 與 Shapely 繪製可高度客製化城市地圖的 Python 工具。
 
 ## 快速導航
+
 
 - 🎨 [[generative-AI]] — 以資料與程式規則創作視覺內容
 - 📊 [[data-analysis]] — 將地理資料轉換成可讀的視覺表達
@@ -78,6 +79,7 @@ prettymaps 本身建立在 OSMnx 等函式庫之上，替使用者封裝常見�
 
 ## 相關概念
 
+
 ← [[generative-AI]] · [[data-analysis]] · [[網頁爬蟲]]
 
 ## 來源
@@ -88,10 +90,9 @@ prettymaps 本身建立在 OSMnx 等函式庫之上，替使用者封裝常見�
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/marceloprates/prettymaps |
-| **Stars** | ⭐13,121 |
-| **License** | GNU AGPLv3 |
-| **Language** | Python |
-| **收錄日期** | 2026-08-20 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/marceloprates/prettymaps |
+| Stars | ⭐13121|
+| License | GNU AGPLv3 |
+| 收錄日期 | 2026-08-20 |

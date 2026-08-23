@@ -13,6 +13,7 @@ topics: [文件解析, AI Agent, 評測基準]
 > ⭐468 · 用 ~2,000 頁真實企業文件評測文件解析工具，看它們轉出來的結構化輸出是否可靠到能讓 AI Agent 直接使用。⭐468
 
 ## 快速導航
+
 - 🔍 **文件解析** → [[document-parsing]]（ParseBench 是文件解析的基準測試框架）
 - 🤖 **AI Agent** → [[AI-Agent]]（解析結果是 AI Agent 自主決策的基礎）
 - 🧠 **LLM** → [[LLM]]（大型語言模型相關）
@@ -62,23 +63,19 @@ uv run parse-bench serve llamaparse_agentic
 
 ## 相關概念
 
+
 ← [[document-parsing]] · [[AI-Agent]] · [[LLM]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/run-llama/ParseBench)
 - raw/2026-05-09-run-llama-ParseBench.md
 
 ---
 
-- **GitHub**: https://github.com/run-llama/ParseBench
-- **Stars**: ⭐468
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-09
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/run-llama/ParseBench |
-| **Stars** | ⭐'⭐468' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/run-llama/ParseBench |
+| Stars | ⭐468|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-09 |

@@ -13,11 +13,15 @@ topics: [ai-agent, mcp, context-database, sandbox]
 > ⭐10400 · 阿里巴巴開源的通用 AI 沙箱平台，多語言 SDK + Docker/K8s runtime，支援 Coding Agent、GUI Agent、Agent 評估、AI 程式碼執行、RL 訓練。⭐ 10.4k
 
 ## 快速導航
+
 - ⚡ [[sandbox]] · [[Coding-Agent-CLI]] · [[MCP]]
 
 ## 是什麼
 
-OpenSandbox 是阿里巴巴開源的通用 AI 沙箱平台，提供多語言 SDK（Python、Java/Kotlin、JS/TS、C#/.NET、Go）、統一沙箱 API、以及 Docker/Kubernetes runtime。列入 CNCF Landscape。設計目的是讓 AI Agent 在安全隔離的環境中執行程式碼——無論是 coding agent 需要跑測試、GUI agent 需要操作桌面、還是 RL 訓練需要環境模擬，OpenSandbox 都能提供標準化的沙箱管理。
+
+OpenSandbox 是阿里巴巴開源的通用 AI 沙箱平台，提供多語言 SDK（Python、Java/Kotlin、JS/TS、C#/.NET、Go）、統一沙箱 API、以及 Docker/Kubernetes runtime。
+
+列入 CNCF Landscape。設計目的是讓 AI Agent 在安全隔離的環境中執行程式碼——無論是 coding agent 需要跑測試、GUI agent 需要操作桌面、還是 RL 訓練需要環境模擬，OpenSandbox 都能提供標準化的沙箱管理。
 
 ## 核心特色
 
@@ -86,14 +90,19 @@ Agent 整合：支援 Claude Code、Gemini CLI、Codex CLI、Qwen Code、Kimi CL
 OpenSandbox 跟 [[sandbox]] 概念直接相關——它是 sandbox 概念在 AI Agent 場景的工業化實作。MCP Server 整合讓 [[Coding-Agent-CLI]] 如 Claude Code、Cursor 可以直接使用，是 Agent 安全執行程式碼的基礎設施。
 
 ## 相關概念
+
 ← [[sandbox]] · [[Coding-Agent-CLI]] · [[MCP]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/alibaba/OpenSandbox)
 - [原始資料](../raw/2026-05-05-opensandbox.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **Stars** | ⭐10400 |
-| **收錄日期** | 2026-05-05 |
+| GitHub | https://github.com/alibaba/OpenSandbox |
+| Stars | ⭐10400|
+| License | 未標示 |
+| 收錄日期 | 2026-05-05 |

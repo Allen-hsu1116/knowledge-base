@@ -10,9 +10,10 @@ topics: [沙箱, Rust, 程式碼執行]
 
 # CubeSandbox
 
-> ⭐5.2 · 騰訊雲出品的高性能 AI agent 安全沙盒，基於 RustVMM 和 KVM 打造。冷啟動 60ms，記憶體 <5MB，E2B SDK 即插即用。⭐5.2K
+> ⭐5 · 騰訊雲出品的高性能 AI agent 安全沙盒，基於 RustVMM 和 KVM 打造。冷啟動 60ms，記憶體 <5MB，E2B SDK 即插即用。⭐5.2K
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（CubeSandbox 是 AI Agent 的安全執行環境）
 - 🔌 **MCP** → [[MCP]]（Model Context Protocol）
 - 🔄 **Agent 互動** → [[ai-agent-interaction]]（Agent 互動模式）
@@ -81,23 +82,19 @@ with Sandbox.create(template=os.environ["CUBE_TEMPLATE_ID"]) as sandbox:
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[ai-agent-interaction]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/tencentcloud/CubeSandbox)
 - raw/2026-05-09-cubesandbox.md
 
 ---
 
-- **GitHub**: https://github.com/TencentCloud/CubeSandbox
-- **Stars**: ⭐5,184
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-09
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/tencentcloud/CubeSandbox |
-| **Stars** | ⭐'⭐5.2' |
-| **收錄日期** | 2026-05-09 |
+| GitHub | https://github.com/tencentcloud/CubeSandbox |
+| Stars | ⭐5|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-09 |

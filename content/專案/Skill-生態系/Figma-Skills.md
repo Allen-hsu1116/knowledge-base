@@ -10,9 +10,10 @@ topics: [AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作]
 
 # Figma Skills
 
-> ⭐— · AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。
+> ⭐23546 · AI Agent Skill 系列，涵蓋 Figma 設計脈絡取得、工具使用、設計生成和程式碼實作的完整工作流。
 
 ## 快速導航
+
 
 - 🎨 **Figma 工作流** → [[openai-skills|OpenAI Skills（4 個 Figma Skill）]]
 - 🖌️ **前端設計** → [[frontend-design]]
@@ -75,6 +76,7 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 
 ## 相關概念
 
+
 ← [[openai-skills]] · [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[frontend-design]]
 
 ## 來源
@@ -87,10 +89,12 @@ Skills 會根據觸發條件自動載入。當使用者提到 Figma 相關操作
 - raw/2026-06-08-openai-skills-figma-generate-figma-generate-design.md
 - raw/2026-06-08-openai-skills-figma-implement-figma-implement-design.md
 - raw/2026-06-08-openai-skills-figma-use-figma-use.md
+
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| 類型 | 概念頁 |
+| GitHub | https://github.com/openai/skills |
+| Stars | ⭐23546|
+| License | 未標示 |
 | 收錄日期 | 2026-06-08 |
-| **License** | 未標示 |

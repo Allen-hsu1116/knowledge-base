@@ -10,9 +10,10 @@ topics: [agent, agent-collaboration, agent-harness, ai, cao, chatgpt, claude, de
 
 # LobeHub
 
-> ⭐78.7k · 你的 Agent 首席營運官——招募、排班、回報，讓 AI 團隊 7×24 運作
+> ⭐78706 · 你的 Agent 首席營運官——招募、排班、回報，讓 AI 團隊 7×24 運作
 
 ## 快速導航
+
 [[AI-Skills|Agent Skills 生態系]] · [[MCP|MCP 協議]] · [[self-hosted|自架 AI 平台]]
 
 ## 是什麼
@@ -65,7 +66,8 @@ pnpm dev
 | [[farion1231-cc-switch|CC Switch]] | 桌面管理器 | ⚠️ 切換管理 | ✅ | AI Agent 切換 |
 
 ## 相關概念
-← [[AI-Skills|Agent Skills 生態系]] · [[MCP|MCP 協議]]
+
+← [[AI-Skills]] · [[MCP]]
 
 ## 來源
 
@@ -76,10 +78,9 @@ pnpm dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [lobehub/lobehub](https://github.com/lobehub/lobehub) |
-| Stars | ⭐78,706 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/lobehub/lobehub |
+| Stars | ⭐78706|
 | License | Custom (Source Available) |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-16 |
+| 收錄日期 | 2023-05-21 |

@@ -5,14 +5,15 @@ created: 2026-07-18
 updated: 2026-07-18
 stars: 1710
 language: Shell
-topics: bonsai, llamacpp, llm, mlx, prism-ml, small-models
+topics: ["bonsai", "llamacpp", "llm", "mlx", "prism-ml", "small-models"]
 ---
 
 # Bonsai Demo
 
-> ⭐1.7k · Prism ML 的 1-bit 和 Ternary LLM 本地運行工具，27B 模型壓到 iPhone 可跑
+> ⭐1710 · Prism ML 的 1-bit 和 Ternary LLM 本地運行工具，27B 模型壓到 iPhone 可跑
 
 ## 快速導航
+
 
 - 🧠 **模型推論與部署** → [[模型推論與部署]]
 - 🧠 **LLM** → [[LLM]]
@@ -100,6 +101,7 @@ Bonsai 的核心差異化在於「極致壓縮」——1-bit 和 Ternary 量化�
 
 ## 相關概念
 
+
 ← [[模型推論與部署]] · [[LLM]] · [[self-hosted]]
 
 ## 來源
@@ -110,8 +112,9 @@ Bonsai 的核心差異化在於「極致壓縮」——1-bit 和 Ternary 量化�
 
 ---
 
-- **GitHub**: https://github.com/PrismML-Eng/Bonsai-demo
-- **Stars**: ⭐1,710
-- **License**: Apache-2.0
-- **Language**: Shell
-- **收錄日期**: 2026-07-18
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/PrismML-Eng/Bonsai-demo |
+| Stars | ⭐1710|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-18 |

@@ -10,14 +10,18 @@ topics: [多因子選股, 股市掃描, 金融分析]
 
 # AlphaSift
 
-> ⭐38.1k · 多因子選股與全市場掃描引擎，Daily Stock Analysis 生態系的選股子專案
+> ⭐38100 · 多因子選股與全市場掃描引擎，Daily Stock Analysis 生態系的選股子專案
 
 ## 快速導航
+
 [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] · [[ZhuLinsen-alphaevo|AlphaEvo]] · [[financial-forecasting|金融預測]] · [[stock-tracking|股票追蹤]]
 
 ## 是什麼
 
-AlphaSift 是 [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] 生態系中的選股引擎，負責多因子篩選和全市場掃描。它從龐大的股票池中快速提取候選標的，然後交給 [[ZhuLinsen-alphaevo|AlphaEvo]] 進行策略回測驗證。支援 A 股、港股、美股多市場，內建多種選股因子和篩選策略。
+
+AlphaSift 是 [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] 生態系中的選股引擎，負責多因子篩選和全市場掃描。
+
+它從龐大的股票池中快速提取候選標的，然後交給 [[ZhuLinsen-alphaevo|AlphaEvo]] 進行策略回測驗證。支援 A 股、港股、美股多市場，內建多種選股因子和篩選策略。
 
 ## 核心特色
 
@@ -62,7 +66,8 @@ python main.py --stocks 600519,hk00700,AAPL
 > *Stars 數為 Daily Stock Analysis 主專案數據
 
 ## 相關概念
-← [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]] · [[ZhuLinsen-alphaevo|AlphaEvo]] · [[financial-forecasting|金融預測]] · [[stock-tracking|股票追蹤]]
+
+← [[ZhuLinsen-daily_stock_analysis]] · [[ZhuLinsen-alphaevo]] · [[financial-forecasting]] · [[stock-tracking]]
 
 ## 來源
 
@@ -72,12 +77,9 @@ python main.py --stocks 600519,hk00700,AAPL
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [ZhuLinsen/alphasift](https://github.com/ZhuLinsen/alphasift) |
-| Stars | ⭐38,100* |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ZhuLinsen/daily_stock_analysis |
+| Stars | ⭐38100|
 | License | MIT |
-| Language | Python |
-| 收錄日期 | 2026-05-28 |
-
-> *Stars 數為 Daily Stock Analysis 主專案數據
+| 收錄日期 | 2026-05-21 |

@@ -10,9 +10,10 @@ topics: [Agent, Loop Engineering, Control Plane, Codex, Claude Code, Quota, Evid
 
 # LoopX
 
-> ⭐2.9k · 長時間運行 AI Agent 的本地控制平面——目標、關卡、待卡、待辦、證據、配額、交接的持久狀態核心
+> ⭐2865 · 長時間運行 AI Agent 的本地控制平面——目標、關卡、待卡、待辦、證據、配額、交接的持久狀態核心
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — Agent 需要控制平面來管理長時間運行的多回合任務
 - 🧠 [[Coding-Agent-CLI]] — 支援 Codex CLI、Claude Code、Cursor 等多種 Coding Agent
@@ -85,6 +86,7 @@ $loopx <complex task>
 
 ## 跟其他方案的關係
 
+
 LoopX 與其他 Agent 治理/編排方案的比較：
 
 - **LoopX** — 本地控制平面，持久狀態核心，Agent 無關，配額感知，適合長時間運行
@@ -95,7 +97,14 @@ LoopX 與其他 Agent 治理/編排方案的比較：
 
 LoopX 的獨特定位是「Agent-native Kanban」——像看板管理一樣管理長時間運行的 Agent 工作，但狀態始終以 LoopX 為權威來源，外部投影（如 Lark Kanban）只是視覺化層。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[Coding-Agent-CLI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[AI-Skills]]
 
@@ -107,8 +116,9 @@ LoopX 的獨特定位是「Agent-native Kanban」——像看板管理一樣管�
 
 ---
 
-- **GitHub**: https://github.com/huangruiteng/loopx
-- **Stars**: ⭐2,865
-- **License**: MIT
-- **Language**: Python
-- **收錄日期**: 2026-08-07
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/huangruiteng/loopx |
+| Stars | ⭐2865|
+| License | MIT |
+| 收錄日期 | 2026-08-07 |

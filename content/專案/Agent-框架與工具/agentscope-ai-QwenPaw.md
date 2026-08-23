@@ -17,9 +17,10 @@ topics:
 
 # QwenPaw
 
-> ⭐33.6k · 個人 AI 助理 — 本地或雲端部署，三層記憶系統，Skills 與 Plugins 生態，7+ 通道整合，Agent OS 架構
+> ⭐33569 · 個人 AI 助理 — 本地或雲端部署，三層記憶系統，Skills 與 Plugins 生態，7+ 通道整合，Agent OS 架構
 
 ## 快速導航
+
 
 - 🧠 [[harness-engineering\|Harness Engineering]] — QwenPaw 2.0 的 Loop Engineering 和 Agent OS 架構核心
 - 🛠 [[MCP]] — 透過 MCP / A2A / ACP 連接外部工具
@@ -97,7 +98,8 @@ QwenPaw 與 [[harness-engineering\|Harness Engineering]] 和 Loop Engineering �
 
 ## 相關概念
 
-← [[harness-engineering\|Harness Engineering]] · [[MCP]] · [[AI-Agent\|AI Agent]] · [[self-hosted\|自架]] · [[llm-knowledge-base\|LLM 知識庫]]
+
+← [[harness-engineering]] · [[MCP]] · [[AI-Agent]] · [[self-hosted]] · [[llm-knowledge-base]]
 
 ## 來源
 
@@ -107,10 +109,9 @@ QwenPaw 與 [[harness-engineering\|Harness Engineering]] 和 Loop Engineering �
 
 ---
 
-| 項目 | 內容 |
-|---|---|
-| **GitHub** | https://github.com/agentscope-ai/QwenPaw |
-| **Stars** | ⭐ 33,569 |
-| **License** | Apache-2.0 |
-| **Language** | Python |
-| **收錄日期** | 2026-08-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/agentscope-ai/QwenPaw |
+| Stars | ⭐33569|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-08-06 |

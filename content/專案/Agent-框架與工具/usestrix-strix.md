@@ -17,9 +17,10 @@ topics:
 
 # Strix
 
-> ⭐26.7k · 開源 AI 駭客 Agent，自動發現並修復你的應用漏洞，用真實 PoC 驗證而非誤報
+> ⭐26735 · 開源 AI 駭客 Agent，自動發現並修復你的應用漏洞，用真實 PoC 驗證而非誤報
 
 ## 快速導航
+
 
 - 🔧 **Shannon** → [[KeygraphHQ-shannon|Shannon]]
 - 🕷️ **Browser Use** → [[browser-use-browser-use|Browser Use]]
@@ -110,10 +111,12 @@ jobs:
 
 ## 相關概念
 
+
 ← [[KeygraphHQ-shannon]] · [[browser-use-browser-use]] · [[shuvonsec-claude-bug-bounty]] · [[AI-Agent]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/org/repo)
 - GitHub: <https://github.com/usestrix/strix>
 - 官網: <https://strix.ai>
 - 文件: <https://docs.strix.ai>
@@ -121,10 +124,9 @@ jobs:
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [usestrix/strix](https://github.com/usestrix/strix) |
-| Stars | ⭐26,735 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/org/repo |
+| Stars | ⭐26735|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-29 |

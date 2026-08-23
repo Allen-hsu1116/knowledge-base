@@ -10,9 +10,10 @@ topics: [Knowledge Graph, Context Graph, Decision Intelligence, Provenance, AI G
 
 # Semantica
 
-> ⭐4.9k · Graph-Native Infrastructure for Context and Accountable AI Systems——開源版 Palantir，為 AI Agent 提供可解釋、可追溯、可稽核的圖原生基礎設施
+> ⭐4892 · Graph-Native Infrastructure for Context and Accountable AI Systems——開源版 Palantir，為 AI Agent 提供可解釋、可追溯、可稽核的圖原生基礎設施
 
 ## 快速導航
+
 
 - 🧠 **知識圖譜** → [[Knowledge-Graph]]
 - 🔍 **Context Engineering** → [[context-engineering-basics]]
@@ -75,13 +76,21 @@ compliant = graph.check_decision_rules({"category": "credit_application"})
 
 ## 跟其他方案的關係
 
+
 - **Vector DB + RAG**：用嵌入相似度做召回，不存決策歷史，無溯源，衝突靜默覆蓋
 - **Plain LLM Memory**：靠 token window，無圖結構，無推理，無合規匯出
 - **Semantica**：圖遍歷 + 語意搜尋做召回，決策是一等物件，W3C PROV-O 溯源，確定性推理，衝突偵測，時間旅行快照，多 Agent 共享智慧層
 
 Semantica 補充而非取代現有技術棧。保留你的 LLM、向量庫和 Agent 框架，Semantica 在上面加上決策記錄、因果推理、溯源、本體治理、衝突偵測和稽核日誌。推理引擎和 KG 建構完全確定性，不需 LLM。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[Knowledge-Graph]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[context-engineering-basics]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[Knowledge-Graph]] · [[context-engineering-basics]] · [[GraphRAG]] · [[rag]] · [[MCP]]
 
@@ -94,10 +103,9 @@ Semantica 補充而非取代現有技術棧。保留你的 LLM、向量庫和 Ag
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | semantica-agi/semantica |
-| Stars | ⭐4.9k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/semantica-agi/semantica |
+| Stars | ⭐4892|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-08-12 |

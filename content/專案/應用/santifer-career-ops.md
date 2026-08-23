@@ -10,16 +10,20 @@ topics: [AI Agent]
 
 # career-ops
 
-> ⭐41,864 · AI 求職指揮中心 — 把 AI coding CLI 變成全自動求職系統。740+ 職缺評估、100+ 客製履歷、最終拿到 Head of Applied AI。支援 Claude Code、Gemini CLI、OpenCode。
+> ⭐41864 · AI 求職指揮中心 — 把 AI coding CLI 變成全自動求職系統。740+ 職缺評估、100+ 客製履歷、最終拿到 Head of Applied AI。支援 Claude Code、Gemini CLI、OpenCode。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🛠️ **AI Skills** → [[AI-Skills]]
 
 ## 是什麼
 
-Career-Ops 把任何 AI coding CLI 變成全自動求職指揮中心。貼上一個職缺 URL，AI 就會自動：掃描職缺、結構化評分、產生 ATS 優化 PDF 屷歷、更新追蹤表。核心原則：這不是撒網式求職工具，而是一個篩選器 — 幫你從數百個職缺中找到真正值得投的幾個。系統強烈建議不要申請評分低於 4.0/5 的職缺。作者用它拿到了 Head of Applied AI 的 offer。
+
+Career-Ops 把任何 AI coding CLI 變成全自動求職指揮中心。
+
+貼上一個職缺 URL，AI 就會自動：掃描職缺、結構化評分、產生 ATS 優化 PDF 屷歷、更新追蹤表。核心原則：這不是撒網式求職工具，而是一個篩選器 — 幫你從數百個職缺中找到真正值得投的幾個。系統強烈建議不要申請評分低於 4.0/5 的職缺。作者用它拿到了 Head of Applied AI 的 offer。
 
 ## 核心特色
 
@@ -70,21 +74,33 @@ cp -r .claude/skills/career-ops ~/.claude/skills/
 
 ## 跟其他方案的關係
 
+
 - career-ops 是 [[AI-Agent]] 化求職的典型案例，用 [[AI-Skills]] 的 SKILL.md 格式定義整個求職流程
 - 技術棧為 Node.js（Skill 邏輯）+ Go（TUI 儀表板），支援 Claude Code、Gemini CLI、OpenCode 三個 AI CLI
 - 與傳統求職工具（LinkedIn Easy Apply 等）的差異：傳統工具幫你撒網，career-ops 幫你篩選 — 只投值得投的
 - 與 [[affaan-m-everything-claude-code|ECC]] 的關係：ECC 優化 Agent 效能，career-ops 是用 Agent 做求職的具體應用
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/santifer/career-ops)
 - raw/santifer-career-ops.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [santifer/career-ops](https://github.com/santifer/career-ops) | ⭐41,864 | MIT | 2026-05-03 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/santifer/career-ops |
+| Stars | ⭐41864|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

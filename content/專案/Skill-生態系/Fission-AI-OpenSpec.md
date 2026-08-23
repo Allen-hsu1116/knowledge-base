@@ -16,9 +16,10 @@ topics:
 
 # OpenSpec
 
-> ⭐57k · Spec-Driven Development（SDD）框架，讓 AI coding assistant 先寫規格再寫程式碼
+> ⭐57126 · Spec-Driven Development（SDD）框架，讓 AI coding assistant 先寫規格再寫程式碼
 
 ## 快速導航
+
 - 🧠 **Spec Kit** → [[github-spec-kit|Spec Kit]]
 - 🛠 **Claude Code** → [[Coding-Agent-CLI]]
 - 📐 **Context Engineering** → [[context-engineering-basics|Context Engineering]]
@@ -76,6 +77,7 @@ openspec init
 
 ## 相關概念
 
+
 ← [[github-spec-kit]] · [[Coding-Agent-CLI]] · [[context-engineering-basics]]
 
 ## 來源
@@ -85,10 +87,9 @@ openspec init
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) |
-| Stars | ⭐57,126 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Fission-AI/OpenSpec |
+| Stars | ⭐57126|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-28 |

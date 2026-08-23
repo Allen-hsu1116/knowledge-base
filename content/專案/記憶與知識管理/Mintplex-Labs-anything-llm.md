@@ -16,9 +16,10 @@ topics:
 
 # AnythingLLM
 
-> ⭐62.2k · 全能 AI 應用，本地優先的 ChatGPT 替代方案，聊天+文檔+Agent 一體化
+> ⭐62153 · 全能 AI 應用，本地優先的 ChatGPT 替代方案，聊天+文檔+Agent 一體化
 
 ## 快速導航
+
 - 🧠 **RAG** → [[rag]]
 - 🏠 **Ollama** → [[Ollama]]
 - 🖥 **Open WebUI** → [[open-webui-open-webui|Open WebUI]]
@@ -77,6 +78,7 @@ yarn dev:collector  # 啟動文檔收集器
 
 ## 相關概念
 
+
 ← [[rag]] · [[Ollama]] · [[open-webui-open-webui]]
 
 ## 來源
@@ -86,10 +88,9 @@ yarn dev:collector  # 啟動文檔收集器
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) |
-| Stars | ⭐62,153 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Mintplex-Labs/anything-llm |
+| Stars | ⭐62153|
 | License | MIT |
-| Language | JavaScript |
 | 收錄日期 | 2026-06-27 |

@@ -14,6 +14,7 @@ topics: [Harness Engineering, AI Agent, Context Engineering, 課程]
 
 ## 快速導航
 
+
 - 🧠 **Harness 核心概念** → [[harness-engineering]]（概念頁，已存在）
 - 🤖 **AI Agent 架構** → [[AI-Agent]]（Harness 是 Agent 可靠性的關鍵）
 - 📋 **Context Engineering** → [[context-engineering-basics]]（Harness 是 Context Engineering 的工程實踐）
@@ -65,6 +66,7 @@ npm run docs:dev
 | Session 管理 | ✅ 完整生命週期 | ❌ | ✅ | 部分 | 部分 |
 
 ## 相關概念
+
 ← [[harness-engineering]] · [[AI-Agent]] · [[context-engineering-basics]] · [[Coding-Agent-CLI]] · [[agent-persona]] · [[AI-Skills]]
 
 ## 來源
@@ -75,10 +77,9 @@ npm run docs:dev
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | <https://github.com/walkinglabs/learn-harness-engineering> |
-| Stars | 1k+ |
+| GitHub | https://github.com/walkinglabs/learn-harness-engineering |
+| Stars | ⭐1k+|
 | License | MIT |
-| Language | Multiple（13 語言） |
 | 收錄日期 | 2026-05-24 |

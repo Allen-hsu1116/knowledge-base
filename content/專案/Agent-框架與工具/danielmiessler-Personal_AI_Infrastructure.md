@@ -10,9 +10,10 @@ topics: [Life OS, Ideal State, Context Scaffolding, 記憶]
 
 # Personal AI Infrastructure (PAI)
 
-> ⭐15k · 個人 Life Operating System，用 AI 放大人的能力——技能、記憶、理想狀態追蹤一體整合
+> ⭐15425 · 個人 Life Operating System，用 AI 放大人的能力——技能、記憶、理想狀態追蹤一體整合
 
 ## 快速導航
+
 [[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 
 ## 是什麼
@@ -68,6 +69,7 @@ PAI 與其他 Agent 框架最大的不同是它的「生活 OS」定位：不侷
 PAI 後來進化為 [[danielmiessler-LifeOS|LifeOS]]，加入了 Intent Engineering、Euphoric Surprise、TELOS 等新概念，從「個人生活 OS」升級為「通用 AI 駕馭框架」。
 
 ## 相關概念
+
 ← [[AI-Agent]] · [[context-engineering-basics]] · [[rohitg00-agentmemory]]
 
 ## 來源
@@ -77,10 +79,9 @@ PAI 後來進化為 [[danielmiessler-LifeOS|LifeOS]]，加入了 Intent Engineer
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) |
-| Stars | ⭐15,425 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/danielmiessler/Personal_AI_Infrastructure |
+| Stars | ⭐15425|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-09 |

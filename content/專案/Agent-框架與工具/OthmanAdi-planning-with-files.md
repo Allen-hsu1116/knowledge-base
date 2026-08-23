@@ -5,14 +5,15 @@ created: 2026-07-06
 updated: 2026-07-06
 stars: 24.7k
 language: Python
-topics: agent-skills, claude-code, context-engineering, planning, multi-agent, codex
+topics: ["agent-skills", "claude-code", "context-engineering", "planning", "multi-agent", "codex"]
 ---
 
 # Planning with Files
 
-> ⭐24.7k · 為 AI coding agents 設計的持久化檔案規劃——crash-proof markdown 計畫，session 自動恢復，18+ 平台支援
+> ⭐24700 · 為 AI coding agents 設計的持久化檔案規劃——crash-proof markdown 計畫，session 自動恢復，18+ 平台支援
 
 ## 快速導航
+
 
 - 🛠 **AI Skills** → [[AI-Skills|AI Skills]]
 - 🧠 **Context Engineering** → [[context-engineering-basics|Context Engineering]]
@@ -77,7 +78,8 @@ Planning with Files 專注於「規劃狀態持久化」這個特定場景，與
 
 ## 相關概念
 
-← [[AI-Skills] · [[context-engineering-basics] · [[Coding-Agent-CLI] · [[agentskills-agentskills] · [[anthropics-claude-code]
+
+← [[AI-Skills]] · [[context-engineering-basics]]
 
 ## 來源
 
@@ -86,10 +88,9 @@ Planning with Files 專注於「規劃狀態持久化」這個特定場景，與
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/OthmanAdi/planning-with-files |
-| **Stars** | ⭐ 24,710 |
-| **License** | MIT |
-| **Language** | Python |
-| **收錄日期** | 2026-07-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/OthmanAdi/planning-with-files |
+| Stars | ⭐24700|
+| License | MIT |
+| 收錄日期 | 2026-07-06 |

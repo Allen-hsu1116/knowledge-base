@@ -10,9 +10,10 @@ topics: [AI Agent, Agent 團隊, Harness Engineering]
 
 # Harness — Agent 團隊架構工廠
 
-> ⭐3.9k · Claude Code 的團隊架構工廠，輸入領域描述，自動產生 agent 團隊和對應技能。
+> ⭐3887 · Claude Code 的團隊架構工廠，輸入領域描述，自動產生 agent 團隊和對應技能。
 
 ## 快速導航
+
 [[AI-Agent]] · [[AI-Skills|Agent Skills 生態系]] · [[harness-engineering|Harness Engineering 駕馭工程]]
 
 ## 是什麼
@@ -80,7 +81,8 @@ thumbnail concepts.
 | [[obra-superpowers|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | L2 Skill |
 
 ## 相關概念
-← [[AI-Agent]] · [[AI-Skills|Agent Skills 生態系]] · [[harness-engineering|Harness Engineering 駕馭工程]]
+
+← [[AI-Agent]] · [[AI-Skills]] · [[harness-engineering]]
 
 ## 來源
 
@@ -89,10 +91,9 @@ thumbnail concepts.
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [revfactory/harness](https://github.com/revfactory/harness) |
-| Stars | ⭐3,887 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/revfactory/harness |
+| Stars | ⭐3887|
 | License | Apache-2.0 |
-| Language | HTML |
 | 收錄日期 | 2026-05-29 |

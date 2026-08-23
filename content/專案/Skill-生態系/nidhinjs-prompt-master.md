@@ -10,9 +10,10 @@ topics: [Prompt Engineering, Token Optimization]
 
 # Prompt Master
 
-> ⭐7,257 · Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
+> ⭐7257 · Claude Code 技能：為任何 AI 工具寫出精準提示，零浪費 — 7 步管線、9 維度意圖、20+ 工具設定檔。
 
 ## 快速導航
+
 
 - [[Prompt-Engineering|Prompt Engineering]] — 提示工程技術
 - [[Token-Optimization|Token Optimization]] — Token 節省技術
@@ -20,7 +21,10 @@ topics: [Prompt Engineering, Token Optimization]
 
 ## 是什麼
 
-nidhinjs/prompt-master 是一個 Claude Code skill，自動為任何 AI 工具撰寫精準提示。核心解決的問題：使用者寫模糊提示 → 反覆重試 → 浪費 token 和額度。Prompt Master 跑 7 步結構化管線，從偵測目標工具到交付精準提示，整個過程最多問 3 個澄清問題。
+
+nidhinjs/prompt-master 是一個 Claude Code skill，自動為任何 AI 工具撰寫精準提示。
+
+核心解決的問題：使用者寫模糊提示 → 反覆重試 → 浪費 token 和額度。Prompt Master 跑 7 步結構化管線，從偵測目標工具到交付精準提示，整個過程最多問 3 個澄清問題。
 
 ## 核心特色
 
@@ -82,16 +86,23 @@ Prompt Master 的核心是意圖提取 + 框架路由：
 
 ## 相關概念
 
+
 - [[Prompt-Engineering|Prompt Engineering]]
 - [[Token-Optimization|Token Optimization]]
 - [[AI-Skills|AI Skills]]
 
+← [[Prompt-Engineering]] · [[Token-Optimization]] · [[AI-Skills]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/nidhinjs/prompt-master)
 - raw/2026-05-08-nidhinjs-prompt-master.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) | ⭐7,257 | — | 2026-05-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/nidhinjs/prompt-master |
+| Stars | ⭐7257|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

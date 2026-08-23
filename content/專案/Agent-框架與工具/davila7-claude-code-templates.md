@@ -15,9 +15,10 @@ topics:
 
 # Claude Code Templates
 
-> ⭐29.2k · Claude Code 配置工具庫——100+ AI Agent、命令、MCP、Hook、Setting 模板，一鍵安裝的開發工作流增強。
+> ⭐29236 · Claude Code 配置工具庫——100+ AI Agent、命令、MCP、Hook、Setting 模板，一鍵安裝的開發工作流增強。
 
 ## 快速導航
+
 
 - 🤖 **Claude Code** → [[anthropics-claude-code|Claude Code]]（模板服務的目標平台）
 - 🛠 **AI Skills** → [[AI-Skills|AI Skills]]（模板中的 Skills 類組件）
@@ -91,7 +92,8 @@ Claude Code Templates 與其他策展列表的不同之處在於它是**可安�
 
 
 ## 相關概念
-← [[anthropics-claude-code|Claude Code]] · [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[MCP|MCP]]
+
+← [[anthropics-claude-code]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[MCP]]
 
 ## 來源
 
@@ -101,10 +103,9 @@ Claude Code Templates 與其他策展列表的不同之處在於它是**可安�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) |
-| Stars | ⭐29,236 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/davila7/claude-code-templates |
+| Stars | ⭐29236|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-13 |

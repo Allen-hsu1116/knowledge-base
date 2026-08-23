@@ -16,9 +16,10 @@ topics:
 
 # wshobson/agents
 
-> ⭐37.2k · 多 Harness Agent 插件市場，88 插件 + 194 Agent + 158 Skill，一套原始碼支援五大平台
+> ⭐37227 · 多 Harness Agent 插件市場，88 插件 + 194 Agent + 158 Skill，一套原始碼支援五大平台
 
 ## 快速導航
+
 - 🔧 **Claude Code** → [[anthropics-claude-code|Claude Code]]
 - 🧠 **AI Skills** → [[AI-Skills]]
 - 🔌 **MCP** → [[MCP]]
@@ -81,6 +82,7 @@ make garden       # 漂移/死鏈/上限檢測
 
 ## 相關概念
 
+
 ← [[anthropics-claude-code]] · [[AI-Skills]] · [[MCP]]
 
 ## 來源
@@ -90,10 +92,9 @@ make garden       # 漂移/死鏈/上限檢測
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [wshobson/agents](https://github.com/wshobson/agents) |
-| Stars | ⭐37,227 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/wshobson/agents |
+| Stars | ⭐37227|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-27 |

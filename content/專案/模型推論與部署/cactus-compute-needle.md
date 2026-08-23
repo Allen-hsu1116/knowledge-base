@@ -10,9 +10,10 @@ topics: [on-device-ai, llm, tool-calling, edge-ai, structured-extraction, cactus
 
 # Needle 2
 
-> ⭐4.2k · 14MB 基礎模型，為手機、穿戴裝置、智慧家庭和機器人設計的Tool Calling 模型——45M 參數，28MB RAM 跑完整 session
+> ⭐4224 · 14MB 基礎模型，為手機、穿戴裝置、智慧家庭和機器人設計的Tool Calling 模型——45M 參數，28MB RAM 跑完整 session
 
 ## 快速導航
+
 
 - 🧠 **LLM** → [[LLM]]
 - 📱 **邊緣 AI** → [[embedded-AI]]
@@ -92,6 +93,7 @@ needle playground  # http://127.0.0.1:7860
 
 ## 跟其他方案的關係
 
+
 - **FunctionGemma 270M**：Google 的小型 function calling 模型，270M 參數，品質接近但體積是 Needle 的 6x
 - **LFM2.5 230M**：Liquid AI 的小模型，230M 參數，架構不同（非 Transformer），體積是 Needle 的 5x
 - **Apple FM**：Apple 的裝置端基礎模型，閉源，體積更大
@@ -100,7 +102,14 @@ needle playground  # http://127.0.0.1:7860
 
 Needle 2 不是要取代大模型，而是填補「設備太小、RAM 太少、不能連網」的場景。在這些限制下，它是目前最小的可用 tool calling 模型。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[LLM]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[embedded-AI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[LLM]] · [[embedded-AI]] · [[模型推論與部署]] · [[Token-Optimization]] · [[llama-cpp]]
 
@@ -113,10 +122,9 @@ Needle 2 不是要取代大模型，而是填補「設備太小、RAM 太少、�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | cactus-compute/needle |
-| Stars | ⭐4.2k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/cactus-compute/needle |
+| Stars | ⭐4224|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-08-13 |

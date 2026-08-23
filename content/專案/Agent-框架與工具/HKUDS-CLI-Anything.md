@@ -10,9 +10,10 @@ topics: [CLI, Agent-Native, MCP, Software-Automation]
 
 # CLI-Anything
 
-> ⭐42.2k · 讓所有軟體都能被 AI Agent 原生操控，一條指令為任何軟體生成 CLI 封裝。
+> ⭐42231 · 讓所有軟體都能被 AI Agent 原生操控，一條指令為任何軟體生成 CLI 封裝。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — AI 智能體框架
 - 🖥️ [[opencli]] — OpenCLI 開放命令列介面
@@ -69,6 +70,7 @@ cli-hub install blender
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[opencli]] · [[MCP]] · [[workflow-automation]]
 
 ## 來源
@@ -76,11 +78,12 @@ cli-hub install blender
 - **GitHub**: https://github.com/HKUDS/CLI-Anythin
 - raw/2025-06-07-HKUDS-CLI-Anything.md
 - raw/2026-05-18-HKUDS-CLI-Anything.md
+
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | https://github.com/HKUDS/CLI-Anything |
-| Stars | ⭐ 42,231 |
+| GitHub | https://github.com/HKUDS/CLI-Anythin |
+| Stars | ⭐42231|
 | License | Apache License 2.0 |
 | 收錄日期 | 2025-06-07 |

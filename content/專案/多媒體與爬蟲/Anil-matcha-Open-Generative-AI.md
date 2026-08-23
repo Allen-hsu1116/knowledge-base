@@ -21,13 +21,14 @@ updated: 2023-05-09
 | 項目 | 內容 |
 |------|------|
 | GitHub | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) |
-| Stars | ⭐14,436 |
+| Stars | ⭐14436|
 | 語言 | JavaScript |
 | 建立日期 | 2023-05-09 |
 | 收錄日期 | 2026-05-17 |
 | 授權 | 開源（查看 repo） |
 
 ## 快速導航
+
 
 - [[generative-AI]] — 生成式 AI 概覽
 - [[AI-Agent]] — AI Agent 生態
@@ -85,7 +86,10 @@ npm run dev
 
 ## 是什麼
 
-Open Generative AI 是一個開源免費的 AI 媒體生成工作室，把 Midjourney、Runway 等封閉平台的功能整合到單一介面。支援 200+ 生成式模型，涵蓋圖片、影片、唇形同步和電影工作室四大功能模組，無內容審查、無訂閱費用、可自架。桌面應用額外支援本地推論引擎（sd.cpp + Wan2GP），讓 Mac 使用者也能離線生成。
+
+Open Generative AI 是一個開源免費的 AI 媒體生成工作室，把 Midjourney、Runway 等封閉平台的功能整合到單一介面。
+
+支援 200+ 生成式模型，涵蓋圖片、影片、唇形同步和電影工作室四大功能模組，無內容審查、無訂閱費用、可自架。桌面應用額外支援本地推論引擎（sd.cpp + Wan2GP），讓 Mac 使用者也能離線生成。
 
 ## 怎麼用
 
@@ -115,13 +119,21 @@ npm run dev
 
 ## 跟其他方案的關係
 
+
 Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway、Stability AI）的根本差異在於：完全開源、免費、可自架、無內容審查。封閉平台要月費且有限制，Open Generative AI 讓你用自己的硬體跑自己的模型。
 
 跟 [[AI-video-generation]] 專案（如 ComfyUI）相比：ComfyUI 是節點式工作流引擎（需要手動串接節點），Open Generative AI 是工作室式介面（選模型→生成→完成）。兩者定位不同：一個是工程師的瑞士刀，一個是創作者的快速工具。
 
 跟 [[heygen-com-hyperframes|Hyperframes]] 的差異：Hyperframes 是 Agent-first 的影片渲染框架（HTML → MP4），Open Generative AI 是模型聚合平台（200+ 模型 → 圖片/影片）。不同層次的工具。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[generative-AI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-video-generation]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[generative-AI]] · [[AI-video-generation]] · [[AI-Agent]]
 
@@ -132,11 +144,9 @@ Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/Anil-matcha/Open-Generative-AI |
-| Stars | ⭐14,891 |
-| Language | JavaScript |
-| 建立日期 | 2023-05-09 |
-| 授權 | MIT |
-| 收錄日期 | 2026-05-17 |
+| Stars | ⭐14436 |
+| License | 未標示 |
+| 收錄日期 | 2023-05-09 |

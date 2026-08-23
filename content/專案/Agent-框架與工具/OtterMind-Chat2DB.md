@@ -18,9 +18,10 @@ topics:
 
 # Chat2DB
 
-> ⭐26.3k · AI 驅動的資料庫工具和 SQL 客戶端，支援 30+ 資料庫，BYO AI 模型，含 MCP 支援
+> ⭐26327 · AI 驅動的資料庫工具和 SQL 客戶端，支援 30+ 資料庫，BYO AI 模型，含 MCP 支援
 
 ## 快速導航
+
 
 - 🔌 **MCP** → [[MCP]]
 - 🤖 **AI Agent** → [[AI-Agent]]
@@ -96,6 +97,7 @@ Chat2DB 的核心差異化在於 AI + 資料庫的深度整合——BYO AI 模�
 
 ## 相關概念
 
+
 ← [[MCP]] · [[AI-Agent]] · [[self-hosted]] · [[data-analysis]]
 
 ## 來源
@@ -106,10 +108,9 @@ Chat2DB 的核心差異化在於 AI + 資料庫的深度整合——BYO AI 模�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) |
-| Stars | ⭐26,327 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/OtterMind/Chat2DB |
+| Stars | ⭐26327|
 | License | Apache 2.0 (source-available) |
-| Language | Java |
 | 收錄日期 | 2026-07-25 |

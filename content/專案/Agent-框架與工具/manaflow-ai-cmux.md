@@ -13,16 +13,18 @@ updated: 2026-06-14
 
 # cmux
 
-> ⭐19020
-
-⭐ 19k · Ghostty-based macOS 終端機——直式分頁 + AI coding agent 通知，為 Agent 工作流設計。
+> ⭐19020 · Ghostty-based macOS 終端機——直式分頁 + AI coding agent 通知，為 Agent 工作流設計。
 
 ## 快速導航
+
 - ⚡ [[Coding-Agent-CLI]] · [[AI-Skills]] · [[earendil-works-pi|Pi Agent]]
 
 ## 是什麼
 
-cmux 是專為 AI coding agent 工作流設計的 macOS 原生終端機——當 Agent 需要你注意時，分頁亮起通知環；內建瀏覽器可以跟終端並排；一鍵啟動 Claude Code Teams；SSH 到遠端也支援瀏覽器路由。不是另一個 tmux wrapper，而是為「人多工 + AI 多工」場景重新設計的終端。基於 Ghostty 終端核心，用 Swift/AppKit 原生開發，不是 Electron。
+
+cmux 是專為 AI coding agent 工作流設計的 macOS 原生終端機——當 Agent 需要你注意時，分頁亮起通知環；內建瀏覽器可以跟終端並排；一鍵啟動 Claude Code Teams；SSH 到遠端也支援瀏覽器路由。
+
+不是另一個 tmux wrapper，而是為「人多工 + AI 多工」場景重新設計的終端。基於 Ghostty 終端核心，用 Swift/AppKit 原生開發，不是 Electron。
 
 ## 核心特色
 
@@ -72,6 +74,7 @@ brew install --cask cmux
 cmux 跟 [[Coding-Agent-CLI]] 不是競爭關係——cmux 是為 coding agent 設計的終端環境，不是 agent 本身。跟 [[earendil-works-pi|Pi Agent Harness]] 互補：Pi 提供 agent runtime，cmux 提供終端 UI。
 
 ## 相關概念
+
 ← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[earendil-works-pi]]
 
 ## 來源
@@ -81,10 +84,9 @@ cmux 跟 [[Coding-Agent-CLI]] 不是競爭關係——cmux 是為 coding agent �
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) |
-| Stars | ⭐19020 |
-| License | — |
-| Language | Swift |
-| 收錄日期 | 2026-05-25 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/manaflow-ai/cmux |
+| Stars | ⭐19020|
+| License | 未標示 |
+| 收錄日期 | 2026-05-26 |

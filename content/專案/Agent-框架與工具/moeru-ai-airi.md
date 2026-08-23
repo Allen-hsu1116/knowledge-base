@@ -10,14 +10,18 @@ topics: [AI Agent, 自架平台, Computer-Use]
 
 # AIRI
 
-> ⭐39.7k · 自架 AI 虛擬夥伴，Web 原生技術打造的開源 Neuro-sama 替代方案
+> ⭐39726 · 自架 AI 虛擬夥伴，Web 原生技術打造的開源 Neuro-sama 替代方案
 
 ## 快速導航
+
 [[AI-Agent]] · [[self-hosted|自架 AI 平台]] · [[computer-use-agent|電腦使用代理]] · [[generative-AI|生成式 AI]]
 
 ## 是什麼
 
-AIRI 是受到 Neuro-sama 啟發的開源虛擬陪伴專案，讓你能自架自己的 AI 角色伴侶。不只是聊天——還能玩遊戲（Minecraft、Factorio）、看影片、連 Discord 語音，甚至進行程式碼審查。基於 Web 技術（WebGPU、WebAudio、Web Workers、WebAssembly、WebSocket）建構，桌面版原生支援 NVIDIA CUDA 和 Apple Metal。
+
+AIRI 是受到 Neuro-sama 啟發的開源虛擬陪伴專案，讓你能自架自己的 AI 角色伴侶。
+
+不只是聊天——還能玩遊戲（Minecraft、Factorio）、看影片、連 Discord 語音，甚至進行程式碼審查。基於 Web 技術（WebGPU、WebAudio、Web Workers、WebAssembly、WebSocket）建構，桌面版原生支援 NVIDIA CUDA 和 Apple Metal。
 
 ## 核心特色
 
@@ -56,7 +60,8 @@ pnpm dev
 | Character.AI | — | AI 角色聊天 | ✅ | ❌ | ❌ | ❌ |
 
 ## 相關概念
-← [[AI-Agent]] · [[self-hosted|自架 AI 平台]] · [[computer-use-agent|電腦使用代理]] · [[generative-AI|生成式 AI]]
+
+← [[AI-Agent]] · [[self-hosted]] · [[computer-use-agent]] · [[generative-AI]]
 
 ## 來源
 
@@ -66,10 +71,9 @@ pnpm dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [moeru-ai/airi](https://github.com/moeru-ai/airi) |
-| Stars | ⭐39,726 |
-| License | — |
-| Language | TypeScript |
-| 收錄日期 | 2026-05-26 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/moeru-ai/airi |
+| Stars | ⭐39726|
+| License | 未標示 |
+| 收錄日期 | 2024-12-01 |

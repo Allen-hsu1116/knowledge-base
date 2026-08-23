@@ -10,9 +10,10 @@ topics: [education, coding, machine-learning, full-stack, self-education, open-s
 
 # freeCodeCamp
 
-> ⭐449k · 全球最大開源程式學習平台，免費 Full-Stack 和 Machine Learning 課程，已幫助 10 萬+人轉職開發者。
+> ⭐449140 · 全球最大開源程式學習平台，免費 Full-Stack 和 Machine Learning 課程，已幫助 10 萬+人轉職開發者。
 
 ## 快速導航
+
 [[self-education|自主學習]] · [[codecrafters-io-build-your-own-x|Build Your Own X]] · [[mlabonne-llm-course|LLM Course]]
 
 ## 是什麼
@@ -62,7 +63,8 @@ npm run develop
 | [[codecrafters-io-build-your-own-x|Build Your Own X]] | 從零實作 | ✅ | ❌ | ❌ | ✅ | ✅ |
 
 ## 相關概念
-← [[self-education|自主學習]] · [[krahets-hello-algo|Hello 算法]]
+
+← [[self-education]] · [[krahets-hello-algo]]
 
 ## 來源
 
@@ -73,10 +75,9 @@ npm run develop
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) |
-| Stars | ⭐449,140 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/freeCodeCamp/freeCodeCamp |
+| Stars | ⭐449140|
 | License | BSD-3-Clause（軟體）/ CC BY-SA 4.0（課程） |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-18 |
+| 收錄日期 | 2014-12-24 |

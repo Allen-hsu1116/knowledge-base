@@ -10,9 +10,10 @@ topics: [AI Agent, MCP]
 
 # nanobot
 
-> ⭐41,527 · 超輕量開源 AI Agent — 精神繼承 OpenClaw / Claude Code / Codex。保持核心 agent loop 小而可讀，支援多頻道、記憶系統、MCP、實用部署路徑。Python ≥3.11，最低開銷。
+> ⭐41527 · 超輕量開源 AI Agent — 精神繼承 OpenClaw / Claude Code / Codex。保持核心 agent loop 小而可讀，支援多頻道、記憶系統、MCP、實用部署路徑。Python ≥3.11，最低開銷。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
@@ -20,7 +21,10 @@ topics: [AI Agent, MCP]
 
 ## 是什麼
 
-nanobot 由港大數據科學實驗室（HKUDS）開發，是一個超輕量的 AI Agent 框架。核心理念是**保持 agent loop 小而可讀** — 你可以真正讀懂整個核心迴圈，同時支援完整功能：聊天頻道、記憶系統、MCP、WebUI。它是 OpenClaw 的精神繼承，同樣追求簡潔可讀的核心，但用 Python 實作、更輕量。
+
+nanobot 由港大數據科學實驗室（HKUDS）開發，是一個超輕量的 AI Agent 框架。
+
+核心理念是**保持 agent loop 小而可讀** — 你可以真正讀懂整個核心迴圈，同時支援完整功能：聊天頻道、記憶系統、MCP、WebUI。它是 OpenClaw 的精神繼承，同樣追求簡潔可讀的核心，但用 Python 實作、更輕量。
 
 ## 核心特色
 
@@ -77,23 +81,19 @@ nanobot 支援 [[MCP]] 工具整合，記憶系統可參考 [[Context-Database]]
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[openclaw]] · [[Context-Database]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/HKUDS/nanobot)
 - raw/HKUDS-nanobot.md
 
 ---
 
-- **GitHub**: https://github.com/HKUDS/nanobot
-- **Stars**: ⭐41,527
-- **License**: MIT
-- **收錄日期**: 2026-05-03
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/HKUDS/nanobot |
-| **Stars** | ⭐41,527 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/HKUDS/nanobot |
+| Stars | ⭐41527|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

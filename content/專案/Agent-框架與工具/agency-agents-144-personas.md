@@ -16,6 +16,7 @@ topics: [Agent Persona, 開源人格庫]
 
 ## 快速導航
 
+
 - ⚡ [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]]
 
 ## 是什麼
@@ -77,6 +78,7 @@ cd agency-agents
 
 ## 相關概念
 
+
 ← [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]]
 
 ## 為什麼受歡迎
@@ -99,14 +101,14 @@ cd agency-agents
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/agency-agents/agency-agents)
 - Raw 檔案：`raw/2026-04-28-agency-agents-144-personas.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | — |
-| Stars | ⭐84000 |
-| License | — |
-| Language | zh-TW |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/agency-agents/agency-agents |
+| Stars | ⭐84000|
+| License | 未標示 |
 | 收錄日期 | 2026-04-28 |

@@ -10,9 +10,10 @@ topics: [RAG, Knowledge Graph, Tree-sitter, MCP, Code Intelligence, Memgraph]
 
 # Code-Graph-RAG
 
-> ⭐3k · 用 Tree-sitter 把多語言 monorepo 解析成知識圖譜（Memgraph），再用自然語言查詢、編輯、優化你的程式碼——不需要向量庫就能做到結構化的 RAG。
+> ⭐2984 · 用 Tree-sitter 把多語言 monorepo 解析成知識圖譜（Memgraph），再用自然語言查詢、編輯、優化你的程式碼——不需要向量庫就能做到結構化的 RAG。
 
 ## 快速導航
+
 
 - 🕸️ **知識圖譜** → [[Knowledge-Graph]]
 - 🔍 **RAG** → [[rag|RAG]]
@@ -88,7 +89,8 @@ MCP Server 設定（Claude Code 等）：
 
 ## 相關概念
 
-← [[Knowledge-Graph]] · [[rag|RAG]] · [[MCP]] · [[code-intelligence|Code Intelligence]]
+
+← [[Knowledge-Graph]] · [[rag]] · [[MCP]] · [[code-intelligence]]
 
 ## 來源
 
@@ -100,10 +102,9 @@ MCP Server 設定（Claude Code 等）：
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) |
-| Stars | 2,984 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/vitali87/code-graph-rag |
+| Stars | ⭐2984|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-08-10 |

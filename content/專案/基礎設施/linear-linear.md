@@ -10,11 +10,14 @@ topics: [linear, api, sdk, graphql, project-management, issue-tracking, monorepo
 
 # Linear API
 
-> ⭐1.5k · Linear 的官方 SDK 與 API 工具——GraphQL 驅動的專案管理平台，提供型別安全的 TypeScript SDK。
+> ⭐1547 · Linear 的官方 SDK 與 API 工具——GraphQL 驅動的專案管理平台，提供型別安全的 TypeScript SDK。
 
 ## 快速導航
+
 - 🛠 [[Coding-Agent-CLI]] — Linear SDK 可被 coding agent 用來管理 issues
 - 📋 Linear — Linear 技能（Hermes 內建 Linear 整合）
+- 🔗 **延伸主題** → [[AI-Agent]]
+- 🔗 **延伸主題** → [[LLM]]
 
 ## 是什麼
 
@@ -69,14 +72,19 @@ pnpm changeset
 | Asana | 專案管理 | REST | 多語言 |
 
 ## 相關概念
-← [[Coding-Agent-CLI]] · Linear
+
+← [[Coding-Agent-CLI]] · [[AI-Agent]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/linear/linear)
 - raw/2026-08-09-linear-linear.md
 
 ---
 
-- **GitHub**: https://github.com/linear/linear
-- **Stars**: ⭐1,547
-- **License**: MIT
-- **收錄日期**: 2026-08-09
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/linear/linear |
+| Stars | ⭐1547|
+| License | MIT |
+| 收錄日期 | 2026-08-09 |

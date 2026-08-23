@@ -13,6 +13,7 @@ topics: [擴散模型, 影片生成, 世界模型]
 > ⭐6361 · NVIDIA/MIT 打造的高效擴散模型系列，支援 4K 影像到影片生成，比同級模型快 100 倍
 
 ## 快速導航
+
 - 🛠 **模型推論與部署** → [[模型推論與部署]]（高效推論架構設計）
 - 🎬 **AI 影片生成** → [[AI-video-generation]]（文字轉影片生成技術）
 - 🧠 **生成式 AI** → [[generative-AI]]（生成模型生態系）
@@ -82,6 +83,7 @@ Docker 快速部署（SGLang 服務）詳見 https://nvlabs.github.io/Sana/docs/
 
 ## 跟其他方案的關係
 
+
 - **FLUX.1 / SD3.5**：Sana 以 1.6B 參數達到 12B 模型的品質，速度快 20 倍，體積小 20 倍
 - **Stable Diffusion 3**：Sana 採用線性注意力架構，在長序列生成上瓶頸更低
 - **ComfyUI**：已有完整 ComfyUI 節點支援，可無縫整合工作流
@@ -89,23 +91,26 @@ Docker 快速部署（SGLang 服務）詳見 https://nvlabs.github.io/Sana/docs/
 - [[sgl-project-sglang]]：可透過 SGLang 提供 OpenAI 相容 API 服務
 - **Wan 2.1**：影片生成競品，SANA-Video 在 720p VBench 上以 2B 參數超越 Wan-2.1 14B
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[NVIDIA-TensorRT-LLM]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[sgl-project-sglang]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 ← [[模型推論與部署]] · [[AI-video-generation]] · [[generative-AI]] · [[sgl-project-sglang]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/NVlabs/Sana)
 - raw/2026-05-19-NVlabs-Sana.md
 
 ---
 
-- **GitHub**: https://github.com/NVlabs/Sana
-- **Stars**: ⭐6361
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-19
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/NVlabs/Sana.git |
-| **Stars** | ⭐6361 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/NVlabs/Sana |
+| Stars | ⭐6361|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-10 |

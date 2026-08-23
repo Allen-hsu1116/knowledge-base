@@ -10,9 +10,10 @@ topics: [AI Skills, Prompt Engineering, Agent Optimization]
 
 # SkillOpt
 
-> ⭐1.4k · 用訓練神經網路的方式優化 LLM Agent 技能文件，產出可部署的 best_skill.md
+> ⭐1415 · 用訓練神經網路的方式優化 LLM Agent 技能文件，產出可部署的 best_skill.md
 
 ## 快速導航
+
 [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]] · [[openclaw|OpenClaw]] · [[affaan-m-everything-claude-code]]
 
 ## 是什麼
@@ -70,7 +71,8 @@ pip install -e ".[webui]" && python -m skillopt_webui.app
 
 ## 相關概念
 
-← [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]] · [[openclaw|OpenClaw]] · [[affaan-m-everything-claude-code]] · [[Prompt-Engineering]]
+
+← [[AI-Skills]] · [[AI-Agent]] · [[AI-Skills]] · [[openclaw]] · [[affaan-m-everything-claude-code]] · [[Prompt-Engineering]]
 
 ## 來源
 
@@ -80,10 +82,9 @@ pip install -e ".[webui]" && python -m skillopt_webui.app
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) |
-| Stars | ⭐1,415 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/SkillOpt |
+| Stars | ⭐1415|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-05-28 |

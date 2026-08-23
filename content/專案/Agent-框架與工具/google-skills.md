@@ -10,9 +10,10 @@ topics: [Agent Skills, GCP, 雲端]
 
 # Google Skills
 
-> ⭐9.6k · Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐9.6k
+> ⭐9600 · Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義，使用 SKILL.md 格式和 skills.sh 分發標準。⭐9.6k
 
 ## 快速導航
+
 
 - 🛠 **AI Skills** → [[AI-Skills]]（Google Skills 是 Agent Skills 的官方實作）
 - 🌐 **Agent Skills 生態系** → [[AI-Skills]]（Agent Skills 生態系的一部分）
@@ -20,7 +21,10 @@ topics: [Agent Skills, GCP, 雲端]
 
 ## 是什麼
 
-Google Skills 是 Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義。它使用與 addyosmani/agent-skills 相同的 SKILL.md 格式和 skills.sh 分發標準。每個 Skill 對應一項 Google 產品/技術，幫助 AI Agent 正確使用 Google Cloud 服務。
+
+Google Skills 是 Google 官方維護的 Agent Skills 專案，提供 Google 產品和技術（尤其是 Google Cloud）的標準化 Skill 定義。
+
+它使用與 addyosmani/agent-skills 相同的 SKILL.md 格式和 skills.sh 分發標準。每個 Skill 對應一項 Google 產品/技術，幫助 AI Agent 正確使用 Google Cloud 服務。
 
 ## 核心特色
 
@@ -62,11 +66,19 @@ npx skills add google/skills --skill bigquery-basics
 
 ## 跟其他方案的關係
 
+
 Google Skills 使用與 [[addyosmani-agent-skills|addyosmani/agent-skills]] 相同的 skills.sh 生態標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程（審查、除錯、優化），Google 版專注於 Google Cloud 服務。
 
 跟 [[AI-Skills]] 概念的關係：Google Skills 是 Agent Skills 標準的官方實作，展示了大型科技公司也擁抱開放標準。它是 [[AI-Skills|Agent Skills 生態系]] 的一部分。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[addyosmani-agent-skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Skills]] · [[AI-Skills]] · [[MCP]] · [[addyosmani-agent-skills]]
 
@@ -78,11 +90,9 @@ Google Skills 使用與 [[addyosmani-agent-skills|addyosmani/agent-skills]] 相�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/google/skills |
-| Stars | ⭐9,608 |
-| Language | Shell/Config |
-| 建立日期 | 2026-03-31 |
-| 授權 | Apache-2.0 |
+| Stars | ⭐9600|
+| License | 未標示 |
 | 收錄日期 | 2026-04-28 |

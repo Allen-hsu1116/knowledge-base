@@ -10,9 +10,10 @@ topics: [LLM, Multi-Provider, Agent Harness, 桌面代理, BYOK]
 
 # aisuite + OpenCoworker
 
-> ⭐14.1k · Andrew Ng 出品的輕量 Python LLM 統一介面，加上 OpenCoworker 桌面 AI 代理。
+> ⭐14114 · Andrew Ng 出品的輕量 Python LLM 統一介面，加上 OpenCoworker 桌面 AI 代理。
 
 ## 快速導航
+
 [[LLM|LLM]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[MCP|MCP]] · [[litellm|LiteLLM]]
 
 ## 是什麼
@@ -76,7 +77,8 @@ print(response.choices[0].message.content)
 | 作者 | Andrew Ng | 社群 | Dify | 社群 |
 
 ## 相關概念
-← [[LLM|LLM]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+
+← [[LLM]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
@@ -85,10 +87,9 @@ print(response.choices[0].message.content)
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) |
-| Stars | ⭐14,114 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/andrewyng/aisuite |
+| Stars | ⭐14114|
 | License | MIT |
-| Language | Python |
-| 收錄日期 | 2026-06-14 |
+| 收錄日期 | 2024-06-30 |

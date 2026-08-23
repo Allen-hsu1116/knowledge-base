@@ -14,6 +14,7 @@ topics: [RAG, 文件分塊, 階層式結構化]
 
 ## 快速導航
 
+
 - 🔍 **RAG** → [[rag]]（HiChunk 是 RAG 管線中的分塊步驟）
 - 📄 **文件解析** → [[document-parsing]]（文件分塊是文件解析的下游步驟）
 - 🕸️ **Knowledge Graph** → [[Knowledge-Graph]]（階層式分塊與知識圖譜的結構化理念相通）
@@ -98,36 +99,19 @@ python -c "import nltk; nltk.download('punkt_tab')"
 
 ## 相關概念
 
+
 ← [[rag]] · [[document-parsing]] · [[Knowledge-Graph]] · [[cocoindex]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/TencentCloudADP/hichunk)
 - [2026-05-13 素材](../raw/2026-05-13-hichunk.md)
-- raw/2026-05-xx-hichunk.md
-
-## 專案資訊
-
-- **GitHub**: https://github.com/TencentCloudADP/hichunk
-- **Stars**: ⭐96
-- **語言**: Python
-- **論文**: arXiv:2509.11552
-- **作者**: Wensheng Lu et al., Tencent Youtu Lab
 
 ---
 
-GitHub: [TencentCloudADP/hichunk](https://github.com/TencentCloudADP/hichunk) · Stars: ⭐96 · License: Research · 收錄日期: 2026-05-13
-
-## 與相關主題的連結
-
-- [[rag|RAG]] — HiChunk 改進的是 RAG pipeline 中的 chunking 環節
-- [[document-parsing|文件解析]] — 文件結構化是 chunking 的前置步驟
-- [[Knowledge-Graph]] — 階層式結構與知識圖譜有概念關聯
-- [[cocoindex]] — 增量索引，另一種 RAG pipeline 優化方式
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/TencentCloudADP/hichunk.git |
-| **Stars** | ⭐96 |
-| **收錄日期** | 2026-05-13 |
+| GitHub | https://github.com/TencentCloudADP/hichunk |
+| Stars | ⭐96|
+| License | Research |
+| 收錄日期 | 2026-05-13 |

@@ -10,9 +10,10 @@ topics: [Token Optimization, Context 壓縮, MCP, AI Agent, Proxy]
 
 # Headroom (headroomlabs-ai)
 
-> ⭐65.5k · AI Agent 的上下文壓縮層——在 tool output、log、RAG chunk 送達 LLM 之前先壓縮，JSON 省 60-95%、coding agent 省 15-20%，可逆還原，支援 Library/Proxy/MCP/Agent Wrap 四種模式。
+> ⭐65534 · AI Agent 的上下文壓縮層——在 tool output、log、RAG chunk 送達 LLM 之前先壓縮，JSON 省 60-95%、coding agent 省 15-20%，可逆還原，支援 Library/Proxy/MCP/Agent Wrap 四種模式。
 
 ## 快速導航
+
 
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 - 🔌 **MCP** → [[MCP]]
@@ -83,7 +84,8 @@ Headroom 的核心差異化：可逆壓縮 + 輸出 token 削減 + 跨 Agent 記
 
 ## 相關概念
 
-← [[Token-Optimization]] · [[MCP]] · [[context-engineering-basics|Context Engineering]] · [[chopratejas-headroom|Headroom (chopratejas)]]
+
+← [[Token-Optimization]] · [[MCP]] · [[context-engineering-basics]] · [[chopratejas-headroom]]
 
 ## 來源
 
@@ -98,10 +100,9 @@ Headroom 的核心差異化：可逆壓縮 + 輸出 token 削減 + 跨 Agent 記
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) |
-| Stars | 65,534 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/headroomlabs-ai/headroom |
+| Stars | ⭐65534|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-08-09 |

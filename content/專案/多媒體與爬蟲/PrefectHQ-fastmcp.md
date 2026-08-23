@@ -19,9 +19,10 @@ topics:
 
 # FastMCP
 
-> ⭐26.5k · 最快速、最 Pythonic 的 MCP Server/Client 建構框架，由 Prefect 團隊打造
+> ⭐26530 · 最快速、最 Pythonic 的 MCP Server/Client 建構框架，由 Prefect 團隊打造
 
 ## 快速導航
+
 
 [[MCP]] · [[AI-Skills]] · [[LLM]]
 
@@ -93,6 +94,7 @@ pip install --force-reinstall fastmcp
 
 ## 相關概念
 
+
 ← [[MCP]] · [[LLM]] · [[AI-Skills]]
 
 ## 來源
@@ -103,10 +105,9 @@ pip install --force-reinstall fastmcp
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) |
-| Stars | ⭐26,530 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/PrefectHQ/fastmcp |
+| Stars | ⭐26530|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-07-21 |

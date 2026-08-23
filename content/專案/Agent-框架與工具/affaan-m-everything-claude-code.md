@@ -10,9 +10,10 @@ topics: [AI Agent, AI Skills, Prompt Security, Token Optimization]
 
 # Everything Claude Code (ECC)
 
-> ⭐172,098 · AI Agent harness 效能優化系統 — Skills、Instincts、Memory、Security、Research-first Development。140K+ stars、Anthropic Hackathon 得獎作品，支援 7+ harness。
+> ⭐172098 · AI Agent harness 效能優化系統 — Skills、Instincts、Memory、Security、Research-first Development。140K+ stars、Anthropic Hackathon 得獎作品，支援 7+ harness。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🛠️ **AI Skills** → [[AI-Skills]]
@@ -21,7 +22,10 @@ topics: [AI Agent, AI Skills, Prompt Security, Token Optimization]
 
 ## 是什麼
 
-Everything Claude Code（ECC）不只是設定檔合集，而是一個完整的 Agent 效能優化系統：skills、instincts、memory optimization、continuous learning、security scanning、research-first development。經過 10+ 個月的密集日常使用和真實產品開發演進而來。v2.0 新增 Dashboard GUI、Hermes operator story、cross-harness 架構，讓同一套技能可以跨 Claude Code、Codex、Cursor、OpenCode、Gemini 等 7+ 平台使用。
+
+Everything Claude Code（ECC）不只是設定檔合集，而是一個完整的 Agent 效能優化系統：skills、instincts、memory optimization、continuous learning、security scanning、research-first development。
+
+經過 10+ 個月的密集日常使用和真實產品開發演進而來。v2.0 新增 Dashboard GUI、Hermes operator story、cross-harness 架構，讓同一套技能可以跨 Claude Code、Codex、Cursor、OpenCode、Gemini 等 7+ 平台使用。
 
 ## 核心特色
 
@@ -81,14 +85,19 @@ npx ecc-dashboard
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Prompt-Engineering]] · [[prompt-security]] · [[Token-Optimization]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/affaan-m/everything-claude-code)
 - raw/affaan-m-everything-claude-code.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐172,098 | MIT | 2026-05-03 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/affaan-m/everything-claude-code |
+| Stars | ⭐172098|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

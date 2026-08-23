@@ -5,14 +5,15 @@ created: 2026-07-11
 updated: 2026-07-11
 stars: 140706
 language: JavaScript
-topics: react, ssr, ssg, full-stack, web-framework, vercel
+topics: ["react", "ssr", "ssg", "full-stack", "web-framework", "vercel"]
 ---
 
 # Next.js
 
-> ⭐140.7k · JavaScript · MIT · Vercel 出品的全棧 React 框架，整合 SSR/SSG/ISR 與 Rust 編譯器
+> ⭐140706 · Vercel 出品的全棧 React 框架，整合 SSR/SSG/ISR 與 Rust 編譯器
 
 ## 快速導航
+
 
 - 🛠 **[[workflow-automation|工作流自動化]]** — Next.js API Routes 常用於工作流自動化後端
 - 🧱 **[[frontend-design|前端設計]]** — Next.js 是前端設計與 Design System 實踐的主流框架
@@ -75,7 +76,8 @@ Next.js 與 [[microsoft-TypeScript|TypeScript]] 深度整合，是 TypeScript �
 
 ## 相關概念
 
-← [[frontend-design|前端設計]] · [[workflow-automation|工作流自動化]]
+
+← [[frontend-design]] · [[workflow-automation]]
 
 ## 來源
 
@@ -85,8 +87,9 @@ Next.js 與 [[microsoft-TypeScript|TypeScript]] 深度整合，是 TypeScript �
 
 ---
 
-- **GitHub**: https://github.com/vercel/next.js
-- **Stars**: ⭐ 140,706
-- **License**: MIT
-- **Language**: JavaScript
-- **收錄日期**: 2026-07-11
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/vercel/next.js |
+| Stars | ⭐140706|
+| License | MIT |
+| 收錄日期 | 2026-07-11 |

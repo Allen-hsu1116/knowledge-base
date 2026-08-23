@@ -15,9 +15,10 @@ topics:
 
 # Zvec
 
-> ⭐13.5k · 阿里巴巴開源 in-process 向量資料庫，毫秒級搜尋十億級向量，零伺服器零設定
+> ⭐13506 · 阿里巴巴開源 in-process 向量資料庫，毫秒級搜尋十億級向量，零伺服器零設定
 
 ## 快速導航
+
 - [[rag]]
 - [[向量資料庫]]
 - [[AI-Agent]]
@@ -121,7 +122,8 @@ results = collection.query(
 
 ## 相關概念
 
-← [[rag] · [[向量資料庫] · [[AI-Agent] · [[MCP] · [[Milvus]
+
+← [[rag]] · [[向量資料庫]]
 
 ## 來源
 
@@ -133,10 +135,9 @@ results = collection.query(
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [alibaba/zvec](https://github.com/alibaba/zvec) |
-| Stars | ⭐13,506 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/alibaba/zvec |
+| Stars | ⭐13506|
 | License | Apache-2.0 |
-| Language | C++ |
 | 收錄日期 | 2026-07-07 |

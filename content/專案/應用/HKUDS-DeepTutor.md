@@ -10,9 +10,10 @@ topics: [AI Tutoring, RAG, AI Agent]
 
 # DeepTutor
 
-> ⭐23,109 · Agent-Native 個人化 AI 家教，結合 RAG、知識圖譜和 LLM agent。支援互動式學習、多文件協作、自動出題，並有 TutorBot 自主家教功能。
+> ⭐23109 · Agent-Native 個人化 AI 家教，結合 RAG、知識圖譜和 LLM agent。支援互動式學習、多文件協作、自動出題，並有 TutorBot 自主家教功能。
 
 ## 快速導航
+
 
 - 🎓 **AI Tutoring** → [[AI-Tutoring]]
 - 🔍 **RAG** → [[LLM]]
@@ -20,7 +21,10 @@ topics: [AI Tutoring, RAG, AI Agent]
 
 ## 是什麼
 
-DeepTutor 由港大數據科學實驗室（HKUDS）開發，是一個 Agent-Native 的個人化 AI 家教框架。核心創新是**混合個人化引擎**：靜態知識錨定 + 動態多解析度記憶，持續演進學習者畫像。封閉教學迴路雙向耦合引用式解題和難度校準出題，讓 AI 不是只回答問題，而是真正引導學習。
+
+DeepTutor 由港大數據科學實驗室（HKUDS）開發，是一個 Agent-Native 的個人化 AI 家教框架。
+
+核心創新是**混合個人化引擎**：靜態知識錨定 + 動態多解析度記憶，持續演進學習者畫像。封閉教學迴路雙向耦合引用式解題和難度校準出題，讓 AI 不是只回答問題，而是真正引導學習。
 
 ## 核心特色
 
@@ -77,23 +81,19 @@ DeepTutor 是 [[AI-Tutoring]] 的完整實作，使用 [[LLM]] 的文件抽取 +
 
 ## 相關概念
 
+
 ← [[AI-Tutoring]] · [[LLM]] · [[AI-Agent]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/HKUDS/DeepTutor)
 - raw/HKUDS-DeepTutor.md
 
 ---
 
-- **GitHub**: https://github.com/HKUDS/DeepTutor
-- **Stars**: ⭐23,109
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-04
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/HKUDS/DeepTutor.git |
-| **Stars** | ⭐23,109 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/HKUDS/DeepTutor |
+| Stars | ⭐23109|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-10 |

@@ -10,9 +10,10 @@ topics: [AI Skills, Design System, UI/UX]
 
 # SoftaWorks Agent Toolkit
 
-> ⭐1.9k · 精選 AI 程式碼 Agent 技能集合，核心技能 design-system-starter 幫你從零打造生產級設計系統（token、元件架構、主題、文件一次到位）。
+> ⭐1979 · 精選 AI 程式碼 Agent 技能集合，核心技能 design-system-starter 幫你從零打造生產級設計系統（token、元件架構、主題、文件一次到位）。
 
 ## 快速導航
+
 [[AI-Skills]] · [[AI-Skills]] · [[vercel-labs-agent-skills]] · [[frontend-design]]
 
 ## 是什麼
@@ -126,6 +127,7 @@ curl -o SKILL.md https://raw.githubusercontent.com/softaworks/agent-toolkit/main
 
 ## 相關概念
 
+
 - **Design Token**：設計決策的最小單位（顏色、間距、字體），是設計系統的基礎建設
 - **Atomic Design**：Atom → Molecule → Organism → Template → Page 的元件層級方法論
 - **WCAG 2.1 AA**：無障礙合規標準，design-system-starter 內建此合規要求
@@ -138,13 +140,12 @@ curl -o SKILL.md https://raw.githubusercontent.com/softaworks/agent-toolkit/main
 - GitHub: <https://github.com/softaworks/agent-toolkit>
 - 原始 README: `raw/2026-06-08-softaworks-agent-toolkit-design-system-starter.md`
 - raw/2026-06-08-softaworks-agent-toolkit.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) |
-| Stars | ⭐1,979 |
-| Language | Python |
-| 技能 | design-system-starter |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/softaworks/agent-toolkit |
+| Stars | ⭐1979|
 | License | MIT |
 | 收錄日期 | 2026-06-08 |

@@ -10,13 +10,14 @@ topics: [AI Agent, 記憶系統, MCP]
 
 # Project Golem
 
-> ⭐590 · Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）
+> ⭐630 · Node.js 自主 AI Agent 系統，多後端（Gemini/Ollama/LM Studio）+ 長期記憶 + 技能系統 + MCP + 多代理圓桌討論 + Web Dashboard。（詳細參考頁）
 
 ## 專案資訊
 
 - **GitHub**: [Arvincreator/project-golem](https://github.com/Arvincreator/project-golem)
 
 ## 快速導航
+
 - 🧠 **人格與多代理** → [[agent-persona]]（InteractiveMultiAgent 圓桌討論）
 - 🛠 **技能系統** → [[AI-Skills]]（自有技能 + Dashboard 管理）
 - 📚 **記憶系統** → [[llm-knowledge-base]]（lancedb-pro 向量記憶對比）
@@ -24,7 +25,10 @@ topics: [AI Agent, 記憶系統, MCP]
 
 ## 是什麼
 
-Project Golem 是一套以 Node.js 驅動的自主 AI 代理系統，定位是「個人 AI 作業系統」。它不只是聊天機器人，更整合了長期記憶、任務隊列、指令安全防護、Telegram/Discord bridge、瀏覽器操作、排程自省、技能熱載入，以及一個能直接操作 Golem 的網頁控制台。
+
+Project Golem 是一套以 Node.js 驅動的自主 AI 代理系統，定位是「個人 AI 作業系統」。
+
+它不只是聊天機器人，更整合了長期記憶、任務隊列、指令安全防護、Telegram/Discord bridge、瀏覽器操作、排程自省、技能熱載入，以及一個能直接操作 Golem 的網頁控制台。
 
 ## 核心特色
 
@@ -48,6 +52,7 @@ pnpm run dev      # 啟動開發模式
 對話指令：`/new` 重開對話、`/model` 切換模型、`/skills` 列出技能、`/learn <功能>` 學習新技能
 
 ## 跟其他方案的關係
+
 
 ### 定位
 Project Golem 不只是聊天機器人，更像是「個人 AI 作業系統」：長期記憶、任務隊列、指令安全防護、Telegram/Discord bridge、瀏覽器操作、排程自省、技能熱載入，以及一個能直接操作 Golem 的網頁控制台。
@@ -115,15 +120,27 @@ project-golem-plus/
 - `/skills`：列出已安裝技能
 - `/learn <功能>`：讓 Golem 嘗試產生或學習新技能
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[agent-persona]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
 
+
+← [[agent-persona]] · [[AI-Skills]]
+
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/Arvincreator/project-golem)
 - raw/2026-05-02-project-golem.md
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Arvincreator/project-golem |
-| **收錄日期** | 2026-05-10 |
-| **License** | NOASSERTION |
+| GitHub | https://github.com/Arvincreator/project-golem |
+| Stars | ⭐630|
+| License | NOASSERTION |
+| 收錄日期 | 2026-05-10 |

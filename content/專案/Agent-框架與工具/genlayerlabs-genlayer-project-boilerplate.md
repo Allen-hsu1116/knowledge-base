@@ -10,9 +10,10 @@ topics: [llm, intelligent-contracts, smart-contracts, testing, nextjs]
 
 # GenLayer Project Boilerplate
 
-> ⭐15.9k · 用可測試的範例，把網路存取、LLM 判讀與共識驗證組合成 GenLayer 智慧合約應用。
+> ⭐15949 · 用可測試的範例，把網路存取、LLM 判讀與共識驗證組合成 GenLayer 智慧合約應用。
 
 ## 快速導航
+
 
 - 🧠 **大語言模型** → [[LLM]]（合約使用 LLM 從網頁結果提取結構化資訊）
 - 🤖 **AI Agent** → [[AI-Agent]]（提供適合 Coding Agent 迭代的 lint 與快速測試迴圈）
@@ -88,12 +89,13 @@ gltest tests/integration/ -v -s
 
 ## 相關概念
 
+
 ← [[LLM]] · [[AI-Agent]] · [[workflow-automation]] · [[sandbox]]
 
 ## 來源
 
 - [GitHub：genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate)
-- 原始 README 與 metadata：[[raw/2026-08-19-genlayer-project-boilerplate]]
+- 原始 README 與 metadata：`raw/2026-08-19-genlayer-project-boilerplate.md`
 - GenLayer 文件：https://docs.genlayer.com/
 
 ---
@@ -101,7 +103,6 @@ gltest tests/integration/ -v -s
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/genlayerlabs/genlayer-project-boilerplate |
-| Stars | ⭐15,949 |
+| Stars | ⭐15949|
 | License | MIT |
-| Language | TypeScript（合約與測試另含 Python） |
 | 收錄日期 | 2026-08-19 |

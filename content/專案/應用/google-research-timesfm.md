@@ -10,9 +10,10 @@ topics: [time-series, foundation-model, forecasting, google-research, llm]
 
 # TimesFM
 
-> ⭐23.2k · Google Research 開發的時間序列基礎模型，decoder-only 架構，零樣本預測未知領域。
+> ⭐23178 · Google Research 開發的時間序列基礎模型，decoder-only 架構，零樣本預測未知領域。
 
 ## 快速導航
+
 [[financial-forecasting|金融預測]] · [[TauricResearch-TradingAgents|TradingAgents]] · [[shiyu-coder-Kronos|Kronos]]
 
 ## 是什麼
@@ -84,7 +85,8 @@ TimesFM 與 [[financial-forecasting|金融預測]] 概念高度相關，可用�
 
 ## 相關概念
 
-← [[financial-forecasting|金融預測]] · [[shiyu-coder-Kronos|Kronos]] · [[TauricResearch-TradingAgents|TradingAgents]]
+
+← [[financial-forecasting]] · [[shiyu-coder-Kronos]] · [[TauricResearch-TradingAgents]]
 
 ## 來源
 
@@ -95,10 +97,9 @@ TimesFM 與 [[financial-forecasting|金融預測]] 概念高度相關，可用�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [google-research/timesfm](https://github.com/google-research/timesfm) |
-| Stars | ⭐23,178 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/google-research/timesfm |
+| Stars | ⭐23178|
 | License | Apache-2.0 |
-| Language | Python |
-| 收錄日期 | 2026-06-19 |
+| 收錄日期 | 2024-04-29 |

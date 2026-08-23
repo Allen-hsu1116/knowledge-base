@@ -18,9 +18,10 @@ topics:
 
 # DESIGN.md
 
-> ⭐17.3k · TypeScript · Google Labs 出品的設計系統規範，讓 AI coding agent 擁有持久的、結構化的視覺身份理解
+> ⭐17300 · Google Labs 出品的設計系統規範，讓 AI coding agent 擁有持久的、結構化的視覺身份理解
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
 - 🎨 **前端設計** → [[frontend-design|前端設計]]
@@ -37,12 +38,17 @@ DESIGN.md 也附帶一套 CLI 工具（`@google/design.md`），可以驗證檔�
 
 ## 核心特色
 
+
 1. **雙層格式** — YAML front matter 放機器可讀的 design tokens（colors、typography、rounded、spacing、components），Markdown body 放人類可讀的設計理念。token 是規範值，prose 提供上下文
 2. **完整的 Token Schema** — 支援 Color（任何 CSS 色彩格式含 oklch）、Dimension（px/em/rem）、Typography（fontFamily、fontSize、fontWeight、lineHeight 等完整物件）、Token Reference（`{colors.primary}` 跨參照），以及 Components 對映
 3. **結構化 Section 順序** — Overview → Colors → Typography → Layout → Elevation & Depth → Shapes → Components → Do's and Don'ts，出現的區段必須按此順序排列
 4. **CLI 驗證工具** — `npx @google/design.md lint` 驗證檔案、檢查 WCAG 對比度、捕捉斷裂的 token 參照；`npx @google/design.md diff` 比較兩版設計系統的 token 層級和 prose 回歸
 5. **寬容的消費者行為** — 未知的 section heading 保留不報錯、未知的 color token 接受有效值、重複 section heading 才拒絕，讓格式可演化而不破壞相容性
 6. **Component Tokens** — 元件映射到一組子屬性（backgroundColor、textColor、typography、rounded、padding、size），變體（hover、active、pressed）以獨立 component 條目表達
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -116,7 +122,8 @@ DESIGN.md 跟 CLAUDE.md 最大的差異在於：CLAUDE.md 定義 agent 的「行
 
 ## 相關概念
 
-← [[frontend-design|前端設計]] · [[AI-Skills|CLAUDE.md]] · [[AI-Skills|AI Skills]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+
+← [[frontend-design]] · [[AI-Skills]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
@@ -125,10 +132,9 @@ DESIGN.md 跟 CLAUDE.md 最大的差異在於：CLAUDE.md 定義 agent 的「行
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/google-labs-code/design.md |
-| **Stars** | ⭐17.3k |
-| **License** | Apache-2.0 |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-06-25 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/google-labs-code/design |
+| Stars | ⭐17300|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-06-25 |

@@ -13,9 +13,10 @@ updated: 2026-06-08
 
 # nextlevelbuilder/ui-ux-pro-max-skill
 
-> ⭐88.8k · 跨平台 AI 設計技能定義，涵蓋 Design Token、Atomic Design、WCAG 2.1 AA、深色模式和 v2.0 智慧設計系統生成器。
+> ⭐88842 · 跨平台 AI 設計技能定義，涵蓋 Design Token、Atomic Design、WCAG 2.1 AA、深色模式和 v2.0 智慧設計系統生成器。
 
 ## 快速導航
+
 
 - 🎨 **前端設計** → [[frontend-design|前端設計]] · [[Frontend-Design-Agent-Skills|Frontend Design Skills]]
 - 🛠️ **Agent Skills** → [[AI-Skills|AI Skills]] · [[AI-Skills|Agent Skills 生態系]]
@@ -252,7 +253,8 @@ ui-ux-pro-max-skill 的核心差異化在於：它是**唯一同時涵蓋四大�
 
 ## 相關概念
 
-← [[frontend-design|前端設計]] · [[AI-Skills|AI Skills]] · [[anthropics-skills|Anthropic Skills]] · [[vercel-labs-agent-skills|Vercel Agent Skills]] · [[softaworks-agent-toolkit|SoftaWorks Toolkit]]
+
+← [[frontend-design]] · [[AI-Skills]] · [[anthropics-skills]] · [[vercel-labs-agent-skills]] · [[softaworks-agent-toolkit]]
 
 ## 來源
 
@@ -263,9 +265,9 @@ ui-ux-pro-max-skill 的核心差異化在於：它是**唯一同時涵蓋四大�
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |
-| **Stars** | ⭐88,842 |
-| **License** | MIT |
-| **收錄日期** | 2026-06-08 |
+| GitHub | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill |
+| Stars | ⭐88842|
+| License | MIT |
+| 收錄日期 | 2026-06-08 |

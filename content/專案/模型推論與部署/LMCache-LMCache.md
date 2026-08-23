@@ -10,9 +10,10 @@ topics: [KV Cache 加速, 跨實例共享, TTFT 降低, vLLM]
 
 # LMCache
 
-> ⭐8.6k · LLM KV Cache 加速層，跨 vLLM 實例共享 KV cache，大幅降低 TTFT
+> ⭐8600 · LLM KV Cache 加速層，跨 vLLM 實例共享 KV cache，大幅降低 TTFT
 
 ## 快速導航
+
 [[模型推論與部署]] · [[kv-cache|KV Cache]] · [[llm-internals|LLM 底層技術]] · [[vLLM]]
 
 ## 是什麼
@@ -77,7 +78,8 @@ docker run --name lmcache-server --network host -d \
 | [[NVIDIA-TensorRT-LLM|TensorRT-LLM]] | ⭐13k | 推論引擎 | KV reuse | 部分 | — |
 
 ## 相關概念
-← [[模型推論與部署]] · [[kv-cache|KV Cache]] · [[llm-internals|LLM 底層技術]]
+
+← [[模型推論與部署]] · [[kv-cache]] · [[llm-internals]]
 
 ## 來源
 
@@ -86,10 +88,9 @@ docker run --name lmcache-server --network host -d \
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [LMCache/LMCache](https://github.com/LMCache/LMCache) |
-| Stars | ⭐8,600 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/LMCache/LMCache |
+| Stars | ⭐8600|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-13 |

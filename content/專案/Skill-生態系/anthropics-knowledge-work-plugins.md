@@ -18,6 +18,7 @@ Anthropic 官方開源的知識工作者插件集，為 Claude Cowork 和 Claude
 
 ## 快速導航
 
+
 - ⚡ [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
@@ -67,16 +68,19 @@ cd knowledge-work-plugins
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/anthropics/knowledge-work-plugins)
 - [原始資料](../raw/2026-05-26-anthropics-knowledge-work-plugins.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/anthropics/knowledge-work-plugins |
-| **Stars** | ⭐15460 |
-| **收錄日期** | 2026-01-23 |
+| GitHub | https://github.com/anthropics/knowledge-work-plugins |
+| Stars | ⭐15460|
+| License | 未標示 |
+| 收錄日期 | 2026-01-23 |

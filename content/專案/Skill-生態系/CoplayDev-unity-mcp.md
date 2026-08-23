@@ -5,14 +5,15 @@ created: 2026-07-05
 updated: 2026-07-05
 stars: 11.6k
 language: C#
-topics: mcp, unity, game-development, ai-integration, model-context-protocol
+topics: ["mcp", "unity", "game-development", "ai-integration", "model-context-protocol"]
 ---
 
 # MCP for Unity
 
-> ⭐11.6k · 透過 MCP 協議讓 AI 助手直接操控 Unity Editor，47 個工具入口
+> ⭐11600 · 透過 MCP 協議讓 AI 助手直接操控 Unity Editor，47 個工具入口
 
 ## 快速導航
+
 
 - 🛠 **MCP 協議** → [[MCP\|MCP]]
 - 🧠 **AI Agent** → [[AI-Agent\|AI Agent]]
@@ -76,6 +77,7 @@ MCP for Unity 是 [[MCP]] 生態系中遊戲開發領域的代表性項目，與
 
 ## 相關概念
 
+
 ← [[MCP]] · [[AI-Agent]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -87,10 +89,9 @@ MCP for Unity 是 [[MCP]] 生態系中遊戲開發領域的代表性項目，與
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/CoplayDev/unity-mcp |
-| **Stars** | ⭐ 11,600 |
-| **License** | MIT |
-| **Language** | C# |
-| **收錄日期** | 2026-07-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/CoplayDev/unity-mcp |
+| Stars | ⭐11600|
+| License | MIT |
+| 收錄日期 | 2026-07-05 |

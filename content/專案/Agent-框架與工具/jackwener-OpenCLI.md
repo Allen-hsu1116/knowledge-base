@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, AI Skills]
 
 # OpenCLI
 
-> ⭐18,700 · 把網站、瀏覽器 session 和本地工具變成確定性 CLI 介面 — 同指令同結果，零 LLM 成本。
+> ⭐18700 · 把網站、瀏覽器 session 和本地工具變成確定性 CLI 介面 — 同指令同結果，零 LLM 成本。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（OpenCLI 讓 Agent 用 CLI 操作網站和 App）
 - 🔌 **MCP** → [[MCP]]（OpenCLI 透過 browser extension + CDP 連接瀏覽器）
@@ -20,7 +21,10 @@ topics: [AI Agent, MCP, AI Skills]
 
 ## 是什麼
 
-OpenCLI 把網站、瀏覽器 session、Electron app 和本地工具轉成確定性的 CLI 介面。關鍵詞是「確定性」— 同一個指令永遠得到相同結果，不需要 LLM 在 runtime 做判斷。這讓 Agent 操作網站時既快又可靠。
+
+OpenCLI 把網站、瀏覽器 session、Electron app 和本地工具轉成確定性的 CLI 介面。
+
+關鍵詞是「確定性」— 同一個指令永遠得到相同結果，不需要 LLM 在 runtime 做判斷。這讓 Agent 操作網站時既快又可靠。
 
 ## 核心特色
 
@@ -74,21 +78,33 @@ npx skills add jackwener/opencli
 
 ## 跟其他方案的關係
 
+
 - **vs [[Panniantong-Agent-Reach]]**：Agent Reach 裝工具讓 Agent 能存取平台，OpenCLI 把平台變成確定性 CLI。兩者互補。
 - **vs 瀏覽器自動化（Puppeteer/Playwright）**：OpenCLI 不依賴 LLM 做即時判斷，用 CDP 直操 DOM，更快更穩。且能利用已登入的 session。
 - **vs [[jo-inc-camofox-browser|Camofox Browser]]**：Camofox 主打反偵測，OpenCLI 主打確定性 CLI。場景不同。
 - **vs [[volcengine-OpenSandbox]]**：OpenSandbox 是沙箱執行環境，OpenCLI 是 CLI 介面層，不同層級可互補。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[Panniantong-Agent-Reach]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[jo-inc-camofox-browser]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/jackwener/OpenCLI)
 - raw/2026-05-05-opencli.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | ⭐18,700 | Apache-2.0 | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jackwener/OpenCLI |
+| Stars | ⭐18700|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

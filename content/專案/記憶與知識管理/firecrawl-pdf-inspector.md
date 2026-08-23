@@ -18,9 +18,10 @@ topics:
 
 # pdf-inspector
 
-> ⭐11.5k · 高速 Rust PDF 解析庫 — 智慧分類 + 位置感知文字擷取 + Markdown 轉換，無需 OCR，200ms 處理文字型 PDF
+> ⭐11460 · 高速 Rust PDF 解析庫 — 智慧分類 + 位置感知文字擷取 + Markdown 轉換，無需 OCR，200ms 處理文字型 PDF
 
 ## 快速導航
+
 
 - 🧠 [[document-parsing\|文件解析]] — pdf-inspector 是文件解析生態的重要一員
 - 🛠 [[rag\|RAG]] — 產出的 Markdown 直接可做 RAG embedding
@@ -107,7 +108,8 @@ pdf-inspector 屬於 [[document-parsing\|文件解析]] 生態的純本地、無
 
 ## 相關概念
 
-← [[document-parsing\|文件解析]] · [[rag\|RAG]] · [[firecrawl-firecrawl\|Firecrawl]]
+
+← [[document-parsing]] · [[rag]] · [[firecrawl-firecrawl]]
 
 ## 來源
 
@@ -117,10 +119,9 @@ pdf-inspector 屬於 [[document-parsing\|文件解析]] 生態的純本地、無
 
 ---
 
-| 項目 | 內容 |
-|---|---|
-| **GitHub** | https://github.com/firecrawl/pdf-inspector |
-| **Stars** | ⭐ 11,460 |
-| **License** | MIT |
-| **Language** | Rust |
-| **收錄日期** | 2026-08-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/firecrawl/pdf-inspector |
+| Stars | ⭐11460|
+| License | MIT |
+| 收錄日期 | 2026-08-06 |

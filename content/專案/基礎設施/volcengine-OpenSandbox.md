@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, Context Database]
 
 # OpenSandbox
 
-> ⭐10,400 · 阿里巴巴開源的通用 AI 沙箱平台 — 多語言 SDK + 強隔離 runtime，Agent 安全執行程式碼的基礎設施。
+> ⭐10400 · 阿里巴巴開源的通用 AI 沙箱平台 — 多語言 SDK + 強隔離 runtime，Agent 安全執行程式碼的基礎設施。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（OpenSandbox 是 Agent 安全執行程式碼的環境）
 - 🔌 **MCP** → [[MCP]]（OpenSandbox 提供 MCP Server 讓 Agent 呼叫沙箱操作）
@@ -20,7 +21,10 @@ topics: [AI Agent, MCP, Context Database]
 
 ## 是什麼
 
-OpenSandbox 是一個通用沙箱平台，讓 AI Agent 能在隔離環境中安全執行程式碼。支援 Python、Java、JS/TS、C#、Go 五種語言 SDK，底層用 Docker + Kubernetes，隔離層支援 gVisor、Kata Containers、Firecracker。CNCF Landscape 收錄。
+
+OpenSandbox 是一個通用沙箱平台，讓 AI Agent 能在隔離環境中安全執行程式碼。
+
+支援 Python、Java、JS/TS、C#、Go 五種語言 SDK，底層用 Docker + Kubernetes，隔離層支援 gVisor、Kata Containers、Firecracker。CNCF Landscape 收錄。
 
 ## 核心特色
 
@@ -96,21 +100,33 @@ async def main():
 
 ## 跟其他方案的關係
 
+
 - **vs 本地執行**：OpenSandbox 提供隔離，Agent 跑的程式碼不會影響宿主機
 - **vs [[jackwener-OpenCLI]]**：OpenCLI 是 CLI 介面層（把網站變 CLI），OpenSandbox 是執行環境層（安全跑程式碼），不同層級可互補
 - **Agent 整合**：支援 Claude Code、Gemini CLI、Codex CLI、Qwen Code、Kimi CLI、LangGraph、Google ADK、OpenClaw
 - **瀏覽器場景**：還支援 Chrome/Playwright 瀏覽器自動化 + VNC/VS Code desktop
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[jackwener-OpenCLI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[MCP]] · [[Context-Database]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/alibaba/OpenSandbox)
 - raw/2026-05-05-opensandbox.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | ⭐10,400 | Apache-2.0 | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/alibaba/OpenSandbox |
+| Stars | ⭐10400|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

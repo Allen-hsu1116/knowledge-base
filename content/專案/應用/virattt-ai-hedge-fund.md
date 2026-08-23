@@ -15,9 +15,10 @@ topics:
 
 # AI Hedge Fund
 
-> ⭐61.4k · 多 Agent AI 對沖基金——模擬 13 位傳奇投資大師的決策風格，LLM 驅動的選股、估值、風控全流程。
+> ⭐61400 · 多 Agent AI 對沖基金——模擬 13 位傳奇投資大師的決策風格，LLM 驅動的選股、估值、風控全流程。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（多 Agent 協作的金融決策）
 - 📈 **Agent 交易** → [[agent-trading|Agent 交易]]（Agent 在金融交易的應用）
@@ -86,7 +87,8 @@ AI Hedge Fund 與 [[TauricResearch-TradingAgents|TradingAgents]] 都是多 Agent
 
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[agent-trading|Agent 交易]] · [[financial-forecasting|金融預測]] · [[virattt-dexter|Dexter]]
+
+← [[AI-Agent]] · [[agent-trading]] · [[financial-forecasting]] · [[virattt-dexter]]
 
 ## 來源
 
@@ -95,10 +97,9 @@ AI Hedge Fund 與 [[TauricResearch-TradingAgents|TradingAgents]] 都是多 Agent
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) |
-| Stars | ⭐61,400 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/virattt/ai-hedge-fund |
+| Stars | ⭐61400|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-13 |

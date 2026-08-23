@@ -21,6 +21,7 @@ topics:
 > ⭐108 · 開源文件解析與資料擷取引擎——精確解析 PDF、掃描檔、圖片和 Office 檔案，OCR 支援 80+ 語言
 
 ## 快速導航
+
 - [[document-parsing]]
 - [[rag]]
 - [[網頁爬蟲]]
@@ -120,7 +121,8 @@ docker compose -f docker/docker-compose.yml up
 
 ## 相關概念
 
-← [[document-parsing] · [[rag] · [[網頁爬蟲] · [[opendatalab-MinerU] · [[docling]
+
+← [[document-parsing]] · [[rag]]
 
 ## 來源
 
@@ -132,10 +134,9 @@ docker compose -f docker/docker-compose.yml up
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [ComPDFKit/docslight](https://github.com/ComPDFKit/docslight) |
-| Stars | ⭐108 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ComPDFKit/docslight |
+| Stars | ⭐108|
 | License | LGPL-3.0 |
-| Language | Vue |
 | 收錄日期 | 2026-07-08 |

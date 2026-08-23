@@ -15,9 +15,10 @@ topics:
 
 # Karakeep
 
-> ⭐26.9k · 自架「收藏一切」應用，AI 自動標記 + 全文搜尋 + Agent 友善 CLI 和 Skills
+> ⭐26897 · 自架「收藏一切」應用，AI 自動標記 + 全文搜尋 + Agent 友善 CLI 和 Skills
 
 ## 快速導航
+
 - [[self-hosted]]
 - [[AI-Agent]]
 - [[rag]]
@@ -100,7 +101,8 @@ karakeep list
 
 ## 相關概念
 
-← [[self-hosted] · [[AI-Agent] · [[rag] · [[AI-Skills] · [[paperless-ngx-paperless-ngx]
+
+← [[self-hosted]] · [[AI-Agent]]
 
 ## 來源
 
@@ -111,10 +113,9 @@ karakeep list
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) |
-| Stars | ⭐26,897 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/karakeep-app/karakeep |
+| Stars | ⭐26897|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-07 |

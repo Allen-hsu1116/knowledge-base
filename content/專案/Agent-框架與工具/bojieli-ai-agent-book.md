@@ -10,9 +10,10 @@ topics: [AI Agent, LLM, MCP, RAG, Coding Agent, Multi-Agent, RL]
 
 # 深入理解 AI Agent：设计原理与工程实践
 
-> ⭐34.8k · 開源 AI Agent 教科書——10 章從原理到工程實戰，95 個配套實驗全部開源，圍繞「Agent = LLM + 上下文 + 工具」核心公式展開。13 種語言翻譯版本。
+> ⭐34772 · 開源 AI Agent 教科書——10 章從原理到工程實戰，95 個配套實驗全部開源，圍繞「Agent = LLM + 上下文 + 工具」核心公式展開。13 種語言翻譯版本。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🛠️ **Coding Agent** → [[Coding-Agent-CLI]]
@@ -84,7 +85,8 @@ AI Agent Book 的核心差異化：不是泛泛的 AI 入門，而是專注 Agen
 
 ## 相關概念
 
-← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[context-engineering-basics|Context Engineering]] · [[rag|RAG]] · [[MCP]]
+
+← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[context-engineering-basics]] · [[rag]] · [[MCP]]
 
 ## 來源
 
@@ -95,10 +97,9 @@ AI Agent Book 的核心差異化：不是泛泛的 AI 入門，而是專注 Agen
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
-| Stars | 34,772 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/bojieli/ai-agent-book |
+| Stars | ⭐34772|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-08-09 |

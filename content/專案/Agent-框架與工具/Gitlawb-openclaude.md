@@ -10,9 +10,10 @@ topics: [Coding Agent CLI, AI Agent, MCP]
 
 # OpenClaude
 
-> ⭐25,668 · 開源 coding-agent CLI，支援 OpenAI、Gemini、DeepSeek、Ollama、Codex 等 200+ 模型。一個工具統一所有 terminal-first 工作流。
+> ⭐25668 · 開源 coding-agent CLI，支援 OpenAI、Gemini、DeepSeek、Ollama、Codex 等 200+ 模型。一個工具統一所有 terminal-first 工作流。
 
 ## 快速導航
+
 
 - 🖥️ **Coding Agent CLI** → [[Coding-Agent-CLI]]
 - 🤖 **AI Agent** → [[AI-Agent]]
@@ -20,7 +21,10 @@ topics: [Coding Agent CLI, AI Agent, MCP]
 
 ## 是什麼
 
-OpenClaude 是 Claude Code 的開源替代品，核心差異在於：不鎖定單一供應商，一個 CLI 跨所有模型。支援 OpenAI-compatible API、Gemini、GitHub Models、Codex OAuth、Codex、Ollama、Atomic Chat 等後端，保持統一的 terminal-first 工作流：prompts、tools、agents、MCP、slash commands、streaming output。
+
+OpenClaude 是 Claude Code 的開源替代品，核心差異在於：不鎖定單一供應商，一個 CLI 跨所有模型。
+
+支援 OpenAI-compatible API、Gemini、GitHub Models、Codex OAuth、Codex、Ollama、Atomic Chat 等後端，保持統一的 terminal-first 工作流：prompts、tools、agents、MCP、slash commands、streaming output。
 
 ## 核心特色
 
@@ -96,23 +100,19 @@ OpenClaude 是 [[Coding-Agent-CLI]] 的開源實作，多模型路由是 [[AI-Ag
 
 ## 相關概念
 
+
 ← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Gitlawb/openclaude)
 - raw/Gitlawb-openclaude.md
 
 ---
 
-- **GitHub**: https://github.com/Gitlawb/openclaude
-- **Stars**: ⭐25,668
-- **License**: MIT
-- **收錄日期**: 2026-05-04
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Gitlawb/openclaude |
-| **Stars** | ⭐25,668 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/Gitlawb/openclaude |
+| Stars | ⭐25668|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

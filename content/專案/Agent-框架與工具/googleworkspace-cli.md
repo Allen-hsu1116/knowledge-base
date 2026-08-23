@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, AI Skills]
 
 # Google Workspace CLI (gws)
 
-> ⭐25,672 · 一個 CLI 統管 Google Workspace 所有 API — Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等。動態命令介面、40+ Agent Skills、所有回應結構化 JSON。
+> ⭐25672 · 一個 CLI 統管 Google Workspace 所有 API — Drive、Gmail、Calendar、Sheets、Docs、Chat、Admin 等。動態命令介面、40+ Agent Skills、所有回應結構化 JSON。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
@@ -20,7 +21,10 @@ topics: [AI Agent, MCP, AI Skills]
 
 ## 是什麼
 
-`gws` 是一個 CLI 工具，讓人類和 AI Agent 都能用指令操作 Google Workspace 的所有 API。最大特色是**動態命令介面** — 不維護靜態指令列表，而是即時讀取 Google Discovery Service 建構命令。Google 新增 API 端點，`gws` 自動支援。> ⚠️ 這不是 Google 官方產品（非 Google 正式支援）
+
+`gws` 是一個 CLI 工具，讓人類和 AI Agent 都能用指令操作 Google Workspace 的所有 API。
+
+最大特色是**動態命令介面** — 不維護靜態指令列表，而是即時讀取 Google Discovery Service 建構命令。Google 新增 API 端點，`gws` 自動支援。> ⚠️ 這不是 Google 官方產品（非 Google 正式支援）
 
 ## 核心特色
 
@@ -84,23 +88,19 @@ gws 是 [[AI-Agent]] 操作 Workspace 的工具層，40+ Agent Skills 可透過 
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/googleworkspace/cli)
 - raw/googleworkspace-cli.md
 
 ---
 
-- **GitHub**: https://github.com/googleworkspace/cli
-- **Stars**: ⭐25,672
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-03
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/googleworkspace/cli |
-| **Stars** | ⭐25,672 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/googleworkspace/cli |
+| Stars | ⭐25672|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-10 |

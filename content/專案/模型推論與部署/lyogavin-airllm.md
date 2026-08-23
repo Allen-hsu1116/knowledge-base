@@ -10,9 +10,10 @@ topics: [LLM, 分層推理, 低 VRAM, 記憶體最佳化]
 
 # AirLLM
 
-> ⭐18.9k · Jupyter Notebook · Apache-2.0 · 70B inference with single 4GB GPU — 用分層推理讓筆電也能跑 70B 模型
+> ⭐18902 · 70B inference with single 4GB GPU — 用分層推理讓筆電也能跑 70B 模型
 
 ## 快速導航
+
 
 [[模型推論與部署|模型推論與部署]] · [[vLLM|vLLM]] · [[llama-cpp|llama.cpp]] · [[Ollama|Ollama]]
 
@@ -103,7 +104,8 @@ pip install airllm
 AirLLM 的定位是**消費級硬體跑大模型**的獨特入口。跟 [[llama-cpp|llama.cpp]] 的量化路線不同，它用分層推理保留原模型精度，代價是推理速度較慢（每 token 要多次載入權重）。如果目標是生產級高吞吐，[[vLLM|vLLM]] 更合適；如果只是想在筆電上「跑得動」大模型且不想損失精度，AirLLM 是最直接的方案。
 
 ## 相關概念
-← [[llama-cpp|llama.cpp]] · [[vLLM|vLLM]] · [[模型推論與部署|模型推論與部署]] → 相關概念
+
+← [[llama-cpp]] · [[vLLM]] · [[模型推論與部署]]
 
 ## 來源
 
@@ -114,10 +116,9 @@ AirLLM 的定位是**消費級硬體跑大模型**的獨特入口。跟 [[llama-
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [lyogavin/airllm](https://github.com/lyogavin/airllm) |
-| Stars | ⭐18,902 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/lyogavin/airllm |
+| Stars | ⭐18902|
 | License | Apache-2.0 |
-| Language | Jupyter Notebook |
 | 收錄日期 | 2026-06-04 |

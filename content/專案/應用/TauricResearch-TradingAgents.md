@@ -10,9 +10,10 @@ topics: [AI Agent, 多Agent交易, LLM, 金融預測]
 
 # TradingAgents
 
-> ⭐81.8k · 多 Agent LLM 金融交易框架，模擬真實交易公司的多角色協作決策。
+> ⭐81772 · 多 Agent LLM 金融交易框架，模擬真實交易公司的多角色協作決策。
 
 ## 快速導航
+
 [[HKUDS-AI-Trader|AI-Trader]] · [[financial-forecasting|金融預測]] · [[HKUDS-Vibe-Trading|Vibe Trading]] · [[agent-trading|Agent 交易]]
 
 ## 是什麼
@@ -77,7 +78,8 @@ export ANTHROPIC_API_KEY=***
 | [[stefan-jansen-machine-learning-for-trading|ML4T]] | 教學資源 | 無 | 傳統 ML | ✅ Zipline | 學習 ML 交易 |
 
 ## 相關概念
-← [[HKUDS-AI-Trader|AI-Trader]] · [[financial-forecasting|金融預測]] 相關概念
+
+← [[HKUDS-AI-Trader]] · [[financial-forecasting]]
 
 ## 來源
 
@@ -88,10 +90,9 @@ export ANTHROPIC_API_KEY=***
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) |
-| Stars | ⭐81,772 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/TauricResearch/TradingAgents |
+| Stars | ⭐81772|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-02 |

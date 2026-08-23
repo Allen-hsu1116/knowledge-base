@@ -13,6 +13,7 @@ topics: [AI Agent, MCP, 內容變現]
 > ⭐11864 · 透過 AI 自動化，幫助創作者、OPC（一人公司）與品牌在全球主流社群平台上構建、分發並變現內容。⭐11,864
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（AiToEarn 是 AI Agent 驅動的內容變現平台）
 - 🔌 **MCP** → [[MCP]]（支援 MCP 協議整合到主流 AI 工具）
 - 🏗️ **沙箱** → [[sandbox]]（沙箱環境）
@@ -63,23 +64,19 @@ docker compose up -d
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[sandbox]] · [[openclaw]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/yikart/AiToEarn)
 - raw/2026-05-13-yikart-AiToEarn.md
 
 ---
 
-- **GitHub**: https://github.com/yikart/AiToEarn
-- **Stars**: ⭐11,864
-- **License**: 開源（見 GitHub LICENSE）
-- **收錄日期**: 2026-05-13
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/yikart/AiToEarn.git |
-| **Stars** | ⭐'⭐11864' |
-| **收錄日期** | 2026-05-13 |
+| GitHub | https://github.com/yikart/AiToEarn |
+| Stars | ⭐11864|
+| License | 開源（見 GitHub LICENSE） |
+| 收錄日期 | 2026-05-13 |

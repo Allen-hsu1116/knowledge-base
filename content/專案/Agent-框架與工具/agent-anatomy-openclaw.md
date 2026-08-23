@@ -13,6 +13,7 @@ topics: [ai-agent, openclaw, agent-anatomy, teaching]
 > ⭐— · 以 OpenClaw 為例，完整拆解 AI Agent 的運作機制：從語言模型到工具使用、記憶管理、安全防禦（詳細參考頁）
 
 ## 快速導航
+
 - 🧠 **AI Agent 架構與身分** → [[agent-persona]]（Agent 不是 LLM，是人與 LLM 之間的介面）
 - 🛠 **Context Engineering 核心技術** → [[AI-Agent]]（System Prompt、工具按需載入、記憶壓縮都是 Context Engineering）
 - ⚠️ **Prompt Injection 與安全** → [[prompt-security]]（YouTube 留言可修改本地檔案，需要多層防禦）
@@ -115,16 +116,21 @@ OpenClaw 的解剖幫助你理解所有 AI Agent 框架的核心——Context En
 - **安全是分層的**：程式端硬限制 > LLM 指令 > 環境隔離
 
 ## 相關概念
+
 ← [[agent-persona]] · [[AI-Agent]] · [[prompt-security]] · [[AI-Skills]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/openclaw/openclaw)
 - raw/2026-05-03-agent-anatomy-openclaw.md
 - **收錄日期**: 2026-05-10
 - **License**: 未標示
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| 來源 | 教學/文章 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/openclaw/openclaw |
+| Stars | ⭐未標示 |
+| License | 未標示 |
 | 收錄日期 | 2026-05-10 |

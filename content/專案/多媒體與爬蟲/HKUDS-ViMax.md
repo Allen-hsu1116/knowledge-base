@@ -10,9 +10,10 @@ topics: [AI 影片生成, AI Agent, 生成式 AI]
 
 # ViMax — Agentic Video Generation
 
-> ⭐6.1k · Director、Screenwriter、Producer、Video Generator 四合一的 agentic 影片生成框架
+> ⭐6064 · Director、Screenwriter、Producer、Video Generator 四合一的 agentic 影片生成框架
 
 ## 快速導航
+
 
 - 🎬 **AI 影片生成** → [[AI-video-generation]]（端到端 AI 影片生成的完整方案）
 - 🤖 **AI Agent** → [[AI-Agent]]（多 agent 分工協作的影片製作管線）
@@ -20,7 +21,10 @@ topics: [AI 影片生成, AI Agent, 生成式 AI]
 
 ## 是什麼
 
-ViMax 是一個 agentic 影片生成框架，由 Director、Screenwriter、Producer、Video Generator 四個角色組成多 agent 協作管線。解決參考圖取得、一致性檢查、腳本生成、分鏡設計、鏡頭設計、角色跨場景一致、製作效率、AI 影片生成規模化等挑戰。支援 MiniMax 等 chat model provider 作為生成後端。
+
+ViMax 是一個 agentic 影片生成框架，由 Director、Screenwriter、Producer、Video Generator 四個角色組成多 agent 協作管線。
+
+解決參考圖取得、一致性檢查、腳本生成、分鏡設計、鏡頭設計、角色跨場景一致、製作效率、AI 影片生成規模化等挑戰。支援 MiniMax 等 chat model provider 作為生成後端。
 
 ## 核心特色
 
@@ -63,14 +67,19 @@ python run.py --mode idea2video --input "你的影片點子"
 
 ## 相關概念
 
+
 ← [[AI-video-generation]] · [[AI-Agent]] · [[generative-AI]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/HKUDS/ViMax)
 - raw/2026-05-22-HKUDS-ViMax.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | ⭐6,064 | 待確認 | 2026-05-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/HKUDS/ViMax |
+| Stars | ⭐6064|
+| License | 未標示 |
+| 收錄日期 | 2026-05-22 |

@@ -15,9 +15,10 @@ topics:
 
 # OpenLogi
 
-> ⭐11.9k · 以 Rust 打造的本地優先 Logitech Options+ 替代品，支援滑鼠、鍵盤與攝影機設定且不需帳號或遙測。
+> ⭐11888 · 以 Rust 打造的本地優先 Logitech Options+ 替代品，支援滑鼠、鍵盤與攝影機設定且不需帳號或遙測。
 
 ## 快速導航
+
 
 - 🔐 **隱私** → [[privacy]]
 - 🏠 **自架與本地優先** → [[self-hosted]]
@@ -70,6 +71,7 @@ OpenLogi 使用與承認 Solaar 等開源 HID++ 生態的成果，但加入跨�
 
 ## 相關概念
 
+
 ← [[privacy]] · [[self-hosted]] · [[productivity]]
 
 ## 來源
@@ -83,7 +85,6 @@ OpenLogi 使用與承認 Solaar 等開源 HID++ 生態的成果，但加入跨�
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/AprilNEA/OpenLogi |
-| Stars | ⭐11,888 |
+| Stars | ⭐11888|
 | License | MIT OR Apache-2.0（品牌資產除外） |
-| Language | Rust |
 | 收錄日期 | 2026-08-21 |

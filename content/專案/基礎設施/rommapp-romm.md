@@ -5,14 +5,15 @@ created: 2026-07-05
 updated: 2026-07-05
 stars: 10.2k
 language: Python
-topics: self-hosted, emulation, retrogaming, rom-manager, open-source
+topics: ["self-hosted", "emulation", "retrogaming", "rom-manager", "open-source"]
 ---
 
 # RomM (ROM Manager)
 
-> ⭐10.2k · 美觀強大的自架 ROM 管理器與播放器，支援 400+ 平台
+> ⭐10200 · 美觀強大的自架 ROM 管理器與播放器，支援 400+ 平台
 
 ## 快速導航
+
 
 - 🛠 **自架平台** → [[self-hosted\|自架]]
 - 🎮 **媒體串流** → [[media-streaming\|媒體串流]]
@@ -77,6 +78,7 @@ docker run -d \
 
 ## 相關概念
 
+
 ← [[self-hosted]] · [[media-streaming]] · [[open-source-business]]
 
 ## 來源
@@ -88,10 +90,9 @@ docker run -d \
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/rommapp/romm |
-| **Stars** | ⭐ 10,208 |
-| **License** | AGPL-3.0 |
-| **Language** | Python |
-| **收錄日期** | 2026-07-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/rommapp/romm |
+| Stars | ⭐10200|
+| License | AGPL-3.0 |
+| 收錄日期 | 2026-07-05 |

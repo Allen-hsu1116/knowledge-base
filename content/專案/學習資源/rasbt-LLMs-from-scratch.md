@@ -13,6 +13,7 @@ topics: [LLM, 底層技術, KV Cache]
 > ⭐93785 · 從零開始用 PyTorch 實作一個 ChatGPT 等級的 LLM，一步步理解大型語言模型的每個環節。⭐93,785
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（大型語言模型概覽）
 - 🔬 **LLM 內部** → [[llm-internals]]（LLM 內部機制深入探討）
 - ⚡ **KV Cache** → [[kv-cache]]（KV Cache 推論加速技術）
@@ -72,23 +73,19 @@ LLMs from Scratch 偏理論教學，MiniMind 偏實作流程，兩者互補。�
 
 ## 相關概念
 
-← [[LLM]] · [[llm-internals]] · [[kv-cache]] · [[flash-attention]] · [[pytorch-pytorch|PyTorch]] · [[harvard-edge-cs249r_book|ML Systems (CS249r)]]
+
+← [[LLM]] · [[llm-internals]] · [[kv-cache]] · [[flash-attention]] · [[pytorch-pytorch]] · [[harvard-edge-cs249r_book]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/rasbt/LLMs-from-scratch)
 - raw/2026-05-13-rasbt-LLMs-from-scratch.md
 
 ---
 
-- **GitHub**: https://github.com/rasbt/LLMs-from-scratch
-- **Stars**: ⭐93,785
-- **License**: MIT
-- **收錄日期**: 2026-05-13
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/rasbt/LLMs-from-scratch.git |
-| **Stars** | ⭐'⭐93785' |
-| **收錄日期** | 2026-05-13 |
+| GitHub | https://github.com/rasbt/LLMs-from-scratch |
+| Stars | ⭐93785|
+| License | MIT |
+| 收錄日期 | 2026-05-13 |

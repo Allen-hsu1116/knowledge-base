@@ -18,11 +18,15 @@ ECC 是一個完整的 AI coding agent 優化系統，不只是設定檔，而�
 
 ## 快速導航
 
+
 - ⚡ [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[prompt-security]]
 
 ## 是什麼
 
-ECC（Agent Harness Performance Optimization System）是一個完整的 AI coding agent 優化系統，源自 Anthropic hackathon 得獎作品。它不只是設定檔或 prompt 模板，而是一套涵蓋 skills（技能）、instincts（直覺）、memory optimization（記憶優化）、continuous learning（持續學習）、security scanning（安全掃描）與 research-first development（研究優先開發）的完整方案。支援 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等 7+ harness，經過 10+ 個月高強度日常使用打磨而成。
+
+ECC（Agent Harness Performance Optimization System）是一個完整的 AI coding agent 優化系統，源自 Anthropic hackathon 得獎作品。
+
+它不只是設定檔或 prompt 模板，而是一套涵蓋 skills（技能）、instincts（直覺）、memory optimization（記憶優化）、continuous learning（持續學習）、security scanning（安全掃描）與 research-first development（研究優先開發）的完整方案。支援 Claude Code、Codex、Cursor、OpenCode、Gemini、Zed、GitHub Copilot 等 7+ harness，經過 10+ 個月高強度日常使用打磨而成。
 
 ## 核心特色
 
@@ -76,11 +80,14 @@ ECC 的 skills 目錄包含 232+ 個可攜式技能定義，每個都是 markdow
 
 ## 相關概念
 
+
 - [[AI-Agent]] — Agent 架構與設計
 - [[AI-Skills]] — Agent 技能系統
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
 - [[AI-Skills]] — Agent 技能生態系
 - [[prompt-security]] — 提示安全與防禦
+
+← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[AI-Skills]] · [[prompt-security]]
 
 ## 來源
 
@@ -89,10 +96,9 @@ ECC 的 skills 目錄包含 232+ 個可攜式技能定義，每個都是 markdow
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [affaan-m/ECC](https://github.com/affaan-m/ECC) |
-| Stars | ⭐187193 |
-| License | — |
-| Language | JavaScript |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/affaan-m/ECC |
+| Stars | ⭐187193|
+| License | 未標示 |
 | 收錄日期 | 2026-05-20 |

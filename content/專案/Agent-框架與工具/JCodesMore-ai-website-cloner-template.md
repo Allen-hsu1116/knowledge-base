@@ -18,9 +18,10 @@ topics:
 
 # AI Website Cloner Template
 
-> ⭐17.7k · 用 AI coding agent 一鍵克隆任何網站，自動逆向工程成乾淨的 Next.js 程式碼庫
+> ⭐17700 · 用 AI coding agent 一鍵克隆任何網站，自動逆向工程成乾淨的 Next.js 程式碼庫
 
 ## 快速導航
+
 
 - 🤖 **AI Agent 技能生態** → [[AI-Skills|Agent Skills 生態系]]
 - 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]]
@@ -37,12 +38,17 @@ AI Website Cloner Template 是一個可重複使用的 GitHub 模板專案，讓
 
 ## 核心特色
 
+
 1. **多階段偵察管線** — 截圖、設計 token 提取、互動行為掃描（scroll、click、hover、responsive），精確捕捉目標網站的每一個視覺和互動細節
 2. **平行 builder agent** — 每個元件/區塊派發獨立的 builder agent 到 git worktree 中同時工作，大幅加速重建過程
 3. **精確元件規格** — 每個 builder 收到完整的 inline 規格：getComputedStyle 值、互動模型、多狀態內容、響應式斷點、素材路徑，不靠猜測
 4. **12+ Agent 平台支援** — 透過 AGENTS.md 單一事實來源 + sync 腳本自動生成各平台設定檔，一套模板適用所有主流 coding agent
 5. **Visual Diff QA** — 組裝完成後自動跑 visual diff 對比原始網站，確保重建品質
 6. **現代技術棧** — Next.js 16 App Router、React 19、TypeScript strict、shadcn/ui、Tailwind CSS v4 oklch tokens
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -83,19 +89,20 @@ AI Website Cloner 跟 Firecrawl/Scrapling 的差異在於：爬蟲工具是提�
 
 ## 相關概念
 
-← [[AI-Skills|Agent Skills 生態系]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[網頁爬蟲|網頁爬取]] · [[frontend-design|前端設計]] · [[AI-Skills|AI Skills]]
+
+← [[AI-Skills]] · [[Coding-Agent-CLI]] · [[網頁爬蟲]] · [[frontend-design]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/YOUR-USERNAME/YOUR-NEW-REPOSITORY)
 - GitHub: https://github.com/JCodesMore/ai-website-cloner-template
 - raw/2026-06-23-ai-website-cloner-template.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/JCodesMore/ai-website-cloner-template |
-| **Stars** | ⭐17.7k |
-| **License** | MIT |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-06-23 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/YOUR-USERNAME/YOUR-NEW-REPOSITORY |
+| Stars | ⭐17700|
+| License | MIT |
+| 收錄日期 | 2026-06-23 |

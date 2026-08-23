@@ -10,9 +10,10 @@ topics: [2D 動畫, 開源, 生成式 AI]
 
 # OpenToonz — 開源 2D 動畫創作軟體
 
-> ⭐6.3k · 基於吉卜力工作室客製化的 Toonz 衍生開源 2D 動畫軟體，專業級免費替代方案
+> ⭐6347 · 基於吉卜力工作室客製化的 Toonz 衍生開源 2D 動畫軟體，專業級免費替代方案
 
 ## 快速導航
+
 
 - 🎨 **生成式 AI** → [[generative-AI]]（AI 時代下開源動畫工具的定位）
 - 🎬 **AI 影片生成** → [[AI-video-generation]]（傳統 2D 動畫與 AI 影片生成的分工）
@@ -21,7 +22,10 @@ topics: [2D 動畫, 開源, 生成式 AI]
 
 ## 是什麼
 
-OpenToonz 是一款開源 2D 動畫創作軟體，源自義大利 Digital Video 開發的 Toonz，經 Studio Ghibli 多年實戰客製化後，由 DWANGO 開源釋出。它是專業級 2D 動畫製作的免費替代方案，支援 Windows、macOS、Linux、BSD 等多平台。
+
+OpenToonz 是一款開源 2D 動畫創作軟體，源自義大利 Digital Video 開發的 Toonz，經 Studio Ghibli 多年實戰客製化後，由 DWANGO 開源釋出。
+
+它是專業級 2D 動畫製作的免費替代方案，支援 Windows、macOS、Linux、BSD 等多平台。
 
 ## 核心特色
 
@@ -60,14 +64,19 @@ cd opentoonz
 
 ## 相關概念
 
+
 ← [[generative-AI]] · [[AI-video-generation]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/opentoonz/opentoonz)
 - raw/2026-05-22-opentoonz-opentoonz.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) | ⭐6,347 | Modified BSD | 2026-05-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/opentoonz/opentoonz |
+| Stars | ⭐6347|
+| License | 未標示 |
+| 收錄日期 | 2026-05-22 |

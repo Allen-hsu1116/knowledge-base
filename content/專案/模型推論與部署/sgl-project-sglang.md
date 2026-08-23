@@ -10,16 +10,20 @@ topics: [LLM, 推論加速, 多模態]
 
 # SGLang
 
-> ⭐27,589 · 高效能 LLM 和多模態模型服務框架，由 LMSYS 開發，每天處理數兆 token。27.6K ⭐。
+> ⭐27589 · 高效能 LLM 和多模態模型服務框架，由 LMSYS 開發，每天處理數兆 token。27.6K ⭐。
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（SGLang 是 LLM 推論服務的重要基礎設施）
 - ⚡ **推論加速** → [[llm-internals]]（RadixAttention 是 KV Cache 前綴快取的創新應用）
 - 🚀 **推論引擎比較** → [[vLLM]]、[[NVIDIA-TensorRT-LLM]]、[[llama-cpp|llama.cpp]]（同類推論框架）
 
 ## 是什麼
 
-SGLang 是由 LMSYS 開發的高效能 LLM 和多模態模型服務框架，每天處理數兆 token。其核心創新是 RadixAttention 技術，透過自動前綴快取大幅提升重複前綴場景的效能。支援 NVIDIA GPU、AMD GPU 和 TPU（via Jax backend），並提供 Day-0 支援給最新開源模型。a16z 開源 AI 補助金獲得者，已加入 PyTorch 生態系。
+
+SGLang 是由 LMSYS 開發的高效能 LLM 和多模態模型服務框架，每天處理數兆 token。
+
+其核心創新是 RadixAttention 技術，透過自動前綴快取大幅提升重複前綴場景的效能。支援 NVIDIA GPU、AMD GPU 和 TPU（via Jax backend），並提供 Day-0 支援給最新開源模型。a16z 開源 AI 補助金獲得者，已加入 PyTorch 生態系。
 
 ## 核心特色
 
@@ -70,22 +74,19 @@ python -m sglang.launch_server.run_server \
 SGLang 和 vLLM 是直接競品。SGLang 的 RadixAttention 在有多個請求共享前綴的場景（如 multi-turn conversation、few-shot prompting）下效能更優。vLLM 的 PagedAttention 在記憶體管理上更通用。TensorRT-LLM 在 NVIDIA GPU 上更快但限定硬體。
 
 ## 相關概念
+
 ← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/sgl-project/sglang)
 - raw/2026-05-10-sgl-project-sglang.md
 
 ---
 
-- **GitHub**: https://github.com/sgl-project/sglang
-- **Stars**: ⭐27,589
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/sgl-project/sglang |
-| **Stars** | ⭐27,589 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/sgl-project/sglang |
+| Stars | ⭐27589|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

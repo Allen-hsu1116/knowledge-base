@@ -10,16 +10,20 @@ topics: [NLP, 分詞, 詞性標注, 語料庫]
 
 # NLTK
 
-> ⭐14,500 · Natural Language Toolkit — Python 自然語言處理工具包，50+ 語料庫、分詞標注詞幹提取句法分析一站式解決。14.5K ⭐。
+> ⭐14500 · Natural Language Toolkit — Python 自然語言處理工具包，50+ 語料庫、分詞標注詞幹提取句法分析一站式解決。14.5K ⭐。
 
 ## 快速導航
+
 - 📝 **NLP** → [[jieba]]（jieba 是中文分詞，NLTK 是通用 NLP）
 - 🔍 **RAG** → [[rag]]（NLTK 的分詞和 NER 是 RAG 前處理的基礎）
 - 📄 **文件解析** → [[document-parsing]]（文字處理的前置步驟）
 
 ## 是什麼
 
-NLTK（Natural Language Toolkit）是 Python 最老牌也最全面的自然語言處理工具包，提供 50+ 語料庫和詞彙資源接口，涵蓋分詞、詞性標注、命名實體識別、詞幹提取、詞形還原、句法分析、語義推理等 NLP 核心任務。適合教學、研究和原型開發。
+
+NLTK（Natural Language Toolkit）是 Python 最老牌也最全面的自然語言處理工具包，提供 50+ 語料庫和詞彙資源接口，涵蓋分詞、詞性標注、命名實體識別、詞幹提取、詞形還原、句法分析、語義推理等 NLP 核心任務。
+
+適合教學、研究和原型開發。
 
 ## 核心特色
 
@@ -66,24 +70,19 @@ lemmatizer.lemmatize('better', pos='a')  # 'good'
 
 ## 相關概念
 
+
 ← [[jieba]] · [[rag]] · [[document-parsing]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/nltk/nltk)
 - raw/2026-05-16-nltk.md
 
 ---
 
-- **官網**: https://www.nltk.org/
-- **GitHub**: https://github.com/nltk/nltk
-- **Stars**: ⭐14,500
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-16
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/nltk/nltk |
-| **Stars** | ⭐14,500 |
-| **收錄日期** | 2026-05-16 |
+| GitHub | https://github.com/nltk/nltk |
+| Stars | ⭐14500|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-16 |

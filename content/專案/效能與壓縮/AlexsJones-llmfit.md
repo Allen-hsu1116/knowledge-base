@@ -10,18 +10,19 @@ topics: [LLM, Token Optimization]
 
 # llmfit
 
-> ⭐26,314 · Hundreds of models & providers. One command to find what runs on your hardware. 用 Rust 寫的終端工具，自動偵測硬體、給每個模型打分，告訴你哪個模型跑得動。
+> ⭐26314 · Hundreds of models & providers. One command to find what runs on your hardware. 用 Rust 寫的終端工具，自動偵測硬體、給每個模型打分，告訴你哪個模型跑得動。
 
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/AlexsJones/llmfit |
-| Stars | ⭐26,314 |
+| Stars | ⭐26314|
 | Language | Rust |
 | 建立日期 | 2026-02-15 |
 | 授權 | MIT |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
+
 
 - 🧠 **LLM 本地部署** → [[LLM]]（模型選擇是本地部署的第一步）
 - ⚡ **Token 優化** → [[Token-Optimization]]（選對量化 = 省 token 成本）
@@ -91,11 +92,19 @@ llmfit plan --model llama3    # Plan Mode：估算硬體需求
 
 ## 跟其他方案的關係
 
+
 llmfit 對應 [[LLM]] 本地部署流程的「模型選擇」階段。[[Token-Optimization]] 關注的是推理階段的 token 節省，而 llmfit 關注的是部署前的模型適配。選對量化等於從源頭決定了 token 成本和速度上限。
 
 跟 [[litellm]] 的定位不同：litellm 是 LLM API gateway（統一多家 API 的呼叫介面），llmfit 是本地部署的模型選擇器（幫你決定跑哪個模型、怎麼跑）。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[LLM]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[Token-Optimization]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[LLM]] · [[Token-Optimization]] · [[MCP]] · [[docling]]
 
@@ -106,9 +115,9 @@ llmfit 對應 [[LLM]] 本地部署流程的「模型選擇」階段。[[Token-Op
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) |
-| Stars | ⭐26,314 |
-| License | — |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/AlexsJones/llmfit |
+| Stars | ⭐26314 |
+| License | 未標示 |
 | 收錄日期 | 2026-02-15 |

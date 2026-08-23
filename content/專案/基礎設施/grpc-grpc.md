@@ -5,14 +5,15 @@ created: 2026-07-11
 updated: 2026-07-11
 stars: 45136
 language: C++
-topics: rpc, grpc, protocol-buffers, http2
+topics: ["rpc", "grpc", "protocol-buffers", "http2"]
 ---
 
 # gRPC
 
-> ⭐45.1k · C++ · Apache-2.0 · Google 出品的高效能 RPC 框架，基於 HTTP/2 和 Protocol Buffers
+> ⭐45136 · Google 出品的高效能 RPC 框架，基於 HTTP/2 和 Protocol Buffers
 
 ## 快速導航
+
 
 - 🏗 **[[hashicorp-terraform|Terraform]]** — Terraform 管理基礎設施、gRPC 處理微服務間通訊
 - 🔄 **[[workflow-automation|工作流自動化]]** — gRPC 是微服務工作流自動化的通訊骨幹
@@ -96,7 +97,8 @@ gRPC 在微服務架構中負責服務間通訊，[[hashicorp-terraform|Terrafor
 
 ## 相關概念
 
-← [[hashicorp-terraform|Terraform]] · [[workflow-automation|工作流自動化]]
+
+← [[hashicorp-terraform]] · [[workflow-automation]]
 
 ## 來源
 
@@ -106,8 +108,9 @@ gRPC 在微服務架構中負責服務間通訊，[[hashicorp-terraform|Terrafor
 
 ---
 
-- **GitHub**: https://github.com/grpc/grpc
-- **Stars**: ⭐ 45,136
-- **License**: Apache-2.0
-- **Language**: C++
-- **收錄日期**: 2026-07-11
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/grpc/grpc |
+| Stars | ⭐45136|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-11 |

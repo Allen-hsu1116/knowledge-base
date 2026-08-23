@@ -13,6 +13,7 @@ topics: [AI Skills, Coding Agent CLI, Spec-Driven]
 > ⭐98 · GitHub 官方推出的規格驅動開發工具組。先規格、再實作，避免 vibe coding。⭐98K+
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（Spec Kit 是 AI coding agent 的工作流程框架）
 - 🛠 **Agent Skills** → [[AI-Skills]]（透過 composable extensions 擴展功能）
 - 💻 **Coding Agent** → [[Coding-Agent-CLI]]（支援 Claude Code、Codex CLI、Copilot 等）
@@ -68,23 +69,19 @@ specify init . --integration copilot
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[context-engineering-basics]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/github/spec-kit)
 - raw/2026-05-14-github-spec-kit.md
 
 ---
 
-- **GitHub**: https://github.com/github/spec-kit
-- **Stars**: ⭐98,382
-- **License**: MIT
-- **收錄日期**: 2026-05-14
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/github/spec-kit.git |
-| **Stars** | ⭐'⭐98' |
-| **收錄日期** | 2026-05-14 |
+| GitHub | https://github.com/github/spec-kit |
+| Stars | ⭐98|
+| License | MIT |
+| 收錄日期 | 2026-05-14 |

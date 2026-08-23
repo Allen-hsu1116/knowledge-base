@@ -15,6 +15,7 @@ updated: 2026-05-26
 
 ## 快速導航
 
+
 - 🎮 **AI Agent** → [[AI-Agent|AI Agent]] · [[AI-Skills|Agent Skills 生態系]]
 - 🛠️ **Coding Agent** → [[anthropics-claude-code|Claude Code]] · [[openclaw|OpenClaw]]
 - **Repo**: <https://github.com/Donchitos/Claude-Code-Game-Studios>
@@ -72,7 +73,8 @@ claude
 
 ## 相關概念
 
-- ← [[AI-Agent]] — AI Agent 架構與多代理系統
+
+← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 - ← [[AI-Skills]] — AI Agent 技能系統與 Slash Commands
 - ← [[Coding-Agent-CLI]] — 命令列 AI 編程代理
 
@@ -82,12 +84,10 @@ claude
 - GitHub: <https://github.com/Donchitos/Claude-Code-Game-Studios>
 
 ---
-*Ingested: 2026-05-26 | Stars: 20,021 | License: MIT*
 
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Donchitos/Claude-Code-Game-Studios |
-| **Stars** | ⭐20021 |
-| **收錄日期** | 2026-05-26 |
+| GitHub | https://github.com/Donchitos/Claude-Code-Game-Studios |
+| Stars | ⭐20021|
+| License | MIT |
+| 收錄日期 | 2026-05-26 |

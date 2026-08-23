@@ -10,16 +10,20 @@ topics: [文件解析, PDF, 隱私優先]
 
 # PDFCraft — 瀏覽器端隱私優先 PDF 工具箱
 
-> ⭐5.5k · 90+ 專業 PDF 工具，全部在瀏覽器端運作，不上傳檔案到任何伺服器。WebAssembly 實現接近原生性能。
+> ⭐5500 · 90+ 專業 PDF 工具，全部在瀏覽器端運作，不上傳檔案到任何伺服器。WebAssembly 實現接近原生性能。
 
 ## 快速導航
+
 - 📄 **文件解析** → [[document-parsing|文件解析]]: PDF 處理是文件處理的基礎
 - 🔍 **RAG** → [[rag|RAG]]: PDF 解析是 RAG pipeline 的前置步驟
 - 🧱 **HiChunk** → [[hichunk|HiChunk]]: PDF 解析 → chunking 是 RAG 的完整流程
 
 ## 是什麼
 
-PDFCraft 是完全在瀏覽器端運作的 PDF 工具箱，所有處理都在本地完成，不上傳到任何伺服器。使用 WebAssembly 技術實現接近原生性能的 PDF 操作。
+
+PDFCraft 是完全在瀏覽器端運作的 PDF 工具箱，所有處理都在本地完成，不上傳到任何伺服器。
+
+使用 WebAssembly 技術實現接近原生性能的 PDF 操作。
 
 ## 核心特色
 
@@ -65,6 +69,7 @@ npm run dev   # 開啟 http://localhost:3000
 
 ## 相關概念
 
+
 ← [[document-parsing]] · [[rag]] · [[hichunk]]
 
 ## 來源
@@ -74,10 +79,9 @@ npm run dev   # 開啟 http://localhost:3000
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) |
-| Stars | ⭐5.5k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/PDFCraftTool/pdfcraft |
+| Stars | ⭐5500|
 | License | AGPL-3.0 |
-| Language | zh-TW |
 | 收錄日期 | 2026-05-13 |

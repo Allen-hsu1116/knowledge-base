@@ -10,9 +10,10 @@ topics: [AI Skills, 前端設計, 設計語言, 反模式]
 
 # Impeccable
 
-> ⭐32.7k · 讓 AI coding agent 做出更好前端設計的設計語言，7 個領域參考 + 23 個指令 + 反模式檢查。
+> ⭐32698 · 讓 AI coding agent 做出更好前端設計的設計語言，7 個領域參考 + 23 個指令 + 反模式檢查。
 
 ## 快速導航
+
 [[AI-Skills|AI Skills]] · [[frontend-design|前端設計]] · [[open-design|Open Design]] · [[anthropics-claude-code|Claude Code]]
 
 ## 是什麼
@@ -76,7 +77,8 @@ npx skills add pbakaus/impeccable
 | [[hardikpandya-stop-slop|stop-slop]] | 寫作品質 | ❌ | 少 | 通用 | AI 寫作去模板化 |
 
 ## 相關概念
-← [[open-design|Open Design]] · [[AI-Skills|AI Skills]] 相關概念
+
+← [[open-design]] · [[AI-Skills]]
 
 ## 來源
 
@@ -87,10 +89,9 @@ npx skills add pbakaus/impeccable
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
-| Stars | ⭐32,698 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/pbakaus/impeccable |
+| Stars | ⭐32698|
 | License | Apache-2.0 |
-| Language | JavaScript |
 | 收錄日期 | 2026-06-02 |

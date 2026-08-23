@@ -10,14 +10,18 @@ topics: [LLM, 模型安全, 審查移除]
 
 # Heretic
 
-> ⭐22k · 全自動移除語言模型審查機制的工具，結合 directional ablation 與 Optuna TPE 優化器
+> ⭐22010 · 全自動移除語言模型審查機制的工具，結合 directional ablation 與 Optuna TPE 優化器
 
 ## 快速導航
+
 [[LLM]] · [[llm-internals|LLM 內部機制]] · [[Prompt-Engineering]] · [[模型推論與部署]]
 
 ## 是什麼
 
-Heretic 是一個全自動化的語言模型「解審查」（censorship removal / safety alignment removal）工具。它結合了 directional ablation（又稱「abliteration」）技術與 Optuna TPE 參數優化器，在最小化 KL divergence 的同時消除模型的拒答行為，讓模型恢復到未經安全對齊的原始能力狀態。
+
+Heretic 是一個全自動化的語言模型「解審查」（censorship removal / safety alignment removal）工具。
+
+它結合了 directional ablation（又稱「abliteration」）技術與 Optuna TPE 參數優化器，在最小化 KL divergence 的同時消除模型的拒答行為，讓模型恢復到未經安全對齊的原始能力狀態。
 
 ## 核心特色
 
@@ -58,7 +62,8 @@ heretic-eval --model path/to/your/model
 | Direct fine-tuning | — | 微調 | ❌ | ❌ | ✅ | ✅ |
 
 ## 相關概念
-← [[LLM]] · [[llm-internals|LLM 內部機制]] · [[Prompt-Engineering]] · [[模型推論與部署]]
+
+← [[LLM]] · [[llm-internals]] · [[Prompt-Engineering]] · [[模型推論與部署]]
 
 ## 來源
 
@@ -67,10 +72,9 @@ heretic-eval --model path/to/your/model
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [p-e-w/heretic](https://github.com/p-e-w/heretic) |
-| Stars | ⭐22,010 |
-| License | — |
-| Language | Python |
-| 收錄日期 | 2026-05-28 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/p-e-w/heretic |
+| Stars | ⭐22010|
+| License | 未標示 |
+| 收錄日期 | 2025-09-21 |

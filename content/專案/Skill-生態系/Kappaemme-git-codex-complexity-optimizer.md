@@ -14,13 +14,17 @@ topics: [AI Skills, 演算法複雜度, 效能優化]
 
 ## 快速導航
 
+
 - 🛠️ **Agent Skills 生態系** → [[AI-Skills]]
 - 🧠 **AI Skills** → [[AI-Skills]]
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 
 ## 是什麼
 
-Codex Complexity Optimizer 是一個安裝到 Codex Agent 的 Skill，用於分析程式碼庫的演算法複雜度和效能瓶頸，產出包含檔案/行號、當前複雜度、建議修改、修改後預期複雜度、風險等級、所需測試的完整報告。預設只產報告不修改檔案（安全第一）。
+
+Codex Complexity Optimizer 是一個安裝到 Codex Agent 的 Skill，用於分析程式碼庫的演算法複雜度和效能瓶頸，產出包含檔案/行號、當前複雜度、建議修改、修改後預期複雜度、風險等級、所需測試的完整報告。
+
+預設只產報告不修改檔案（安全第一）。
 
 ## 核心特色
 
@@ -74,6 +78,7 @@ Use $complexity-optimizer to analyze src/utils/ and identify O(n²) loops.
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[AI-Skills]] · [[Token-Optimization]]
 
 ## 來源
@@ -83,10 +88,9 @@ Use $complexity-optimizer to analyze src/utils/ and identify O(n²) loops.
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) |
-| Stars | ⭐648 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Kappaemme-git/codex-complexity-optimizer |
+| Stars | ⭐648|
 | License | MIT |
-| Language | JavaScript |
 | 收錄日期 | 2026-05-18 |

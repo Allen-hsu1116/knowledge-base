@@ -10,9 +10,10 @@ topics: [ai-app-builder, low-code, no-code, self-hosted, workflow-automation, in
 
 # ToolJet
 
-> ⭐40k · 開源低代碼平台，AI 驅動的企業內部工具與應用生成器，支援 80+ 資料來源與視覺化拖拽建構
+> ⭐40033 · 開源低代碼平台，AI 驅動的企業內部工具與應用生成器，支援 80+ 資料來源與視覺化拖拽建構
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]] · [[workflow-automation]]
 - 🏗 **自架平台** → [[self-hosted]] · [[langgenius-dify]]
@@ -92,7 +93,8 @@ ToolJet 處於低代碼內部工具和 AI 應用生成器的交叉地帶：
 
 ## 相關概念
 
-← [[AI-Agent]] · [[workflow-automation]] · [[self-hosted]] · [[low-code]]
+
+← [[AI-Agent]] · [[workflow-automation]] · [[self-hosted]]
 
 ## 來源
 
@@ -103,10 +105,9 @@ ToolJet 處於低代碼內部工具和 AI 應用生成器的交叉地帶：
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | ToolJet/ToolJet |
-| Stars | ⭐40k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ToolJet/ToolJet |
+| Stars | ⭐40033|
 | License | AGPL-3.0 |
-| Language | JavaScript |
 | 收錄日期 | 2026-08-17 |

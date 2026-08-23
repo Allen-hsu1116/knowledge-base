@@ -12,9 +12,10 @@ topics: [LLM 文件查詢, MCP]
 
 # Context7
 
-> ⭐54.8k · LLM 專用的即時文件查詢平台，從源頭拉取最新的版本特定文件和程式碼範例，直接注入 prompt，解決 LLM 依賴過時資訊的問題。⭐54.8k
+> ⭐54800 · LLM 專用的即時文件查詢平台，從源頭拉取最新的版本特定文件和程式碼範例，直接注入 prompt，解決 LLM 依賴過時資訊的問題。⭐54.8k
 
 ## 快速導航
+
 
 - 🔌 **MCP** → [[MCP]]（Context7 提供 MCP Server 讓 Agent 原生呼叫）
 - 🤖 **AI Agent** → [[AI-Agent]]（Agent 可透過 Context7 取得即時文件）
@@ -71,6 +72,7 @@ MCP 設定：server URL `https://mcp.context7.com/mcp`，API key 透過 `CONTEXT
 
 ## 相關概念
 
+
 ← [[MCP]] · [[AI-Agent]] · [[document-parsing]]
 
 ## 來源
@@ -80,10 +82,9 @@ MCP 設定：server URL `https://mcp.context7.com/mcp`，API key 透過 `CONTEXT
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [upstash/context7](https://github.com/upstash/context7) |
-| Stars | ⭐54.8k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/upstash/context7 |
+| Stars | ⭐54800|
 | License | MIT |
-| Language | zh-TW |
 | 收錄日期 | 2026-05-09 |

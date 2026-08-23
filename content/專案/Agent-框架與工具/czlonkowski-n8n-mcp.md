@@ -15,6 +15,7 @@ topics: [MCP, AI Agent, 工作流自動化]
 
 ## 快速導航
 
+
 - [[MCP]] — Model Context Protocol 核心概念
 - [[AI-Agent]] — AI Agent 生態系
 - [[Coding-Agent-CLI]] — AI 程式開發工具
@@ -22,7 +23,10 @@ topics: [MCP, AI Agent, 工作流自動化]
 
 ## 是什麼
 
-n8n-MCP 是一個 Model Context Protocol 伺服器，作為 n8n 工作流自動化平台與 AI 模型之間的橋樑。它讓 Claude Desktop、Claude Code、Cursor、Windsurf 等 AI 工具能夠理解並操作 n8n 的節點系統，大幅降低 AI 在建構工作流時的出錯率。核心價值：1,650 個節點（820 核心 + 830 社群）、99% 屬性覆蓋率、87% 官方文件覆蓋率、2,352 個工作流模板。
+
+n8n-MCP 是一個 Model Context Protocol 伺服器，作為 n8n 工作流自動化平台與 AI 模型之間的橋樑。
+
+它讓 Claude Desktop、Claude Code、Cursor、Windsurf 等 AI 工具能夠理解並操作 n8n 的節點系統，大幅降低 AI 在建構工作流時的出錯率。核心價值：1,650 個節點（820 核心 + 830 社群）、99% 屬性覆蓋率、87% 官方文件覆蓋率、2,352 個工作流模板。
 
 ## 核心特色
 
@@ -65,11 +69,19 @@ docker run -p 3000:3000 ghcr.io/czlonkowski/n8n-mcp
 
 ## 跟其他方案的關係
 
+
 n8n-MCP 是 [[MCP]] 生態系中專注於工作流自動化的工具。跟 [[Coding-Agent-CLI]] 的關係：它讓 AI coding agent 能夠理解 n8n 的節點系統，直接在建構工作流時獲得精確的節點知識，而不是靠猜測。
 
 跟其他 MCP server 相比，n8n-MCP 的差異在於覆蓋廣度：1,650 個節點、99% 屬性覆蓋率、2,352 個模板，讓 AI 幾乎不需要猜測節點參數。配套的 n8n-skills 進一步教導 AI 如何建構生產級工作流。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[MCP]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[Coding-Agent-CLI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[MCP]] · [[AI-Agent]] · [[Coding-Agent-CLI]] · [[Prompt-Engineering]]
 
@@ -80,11 +92,9 @@ n8n-MCP 是 [[MCP]] 生態系中專注於工作流自動化的工具。跟 [[Cod
 
 ---
 
-| 項目 | 內容 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) |
-| Stars | ⭐21,031 |
-| 語言 | TypeScript |
-| 建立日期 | 2025-06-07 |
+| GitHub | https://github.com/czlonkowski/n8n-mcp |
+| Stars | ⭐21031|
+| License | 未標示 |
 | 收錄日期 | 2026-05-16 |
-| 授權 | MIT |

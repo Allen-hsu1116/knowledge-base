@@ -5,14 +5,15 @@ created: 2026-07-11
 updated: 2026-07-11
 stars: 94228
 language: Rust
-topics: bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, transpiler, typescript
+topics: ["bun", "bundler", "javascript", "javascriptcore", "jsx", "nodejs", "npm", "react", "rust", "transpiler", "typescript"]
 ---
 
 # Bun
 
-> ⭐94.2k · Rust · MIT · 一體化 JavaScript/TypeScript 工具鏈，整合執行環境、打包器、測試框架與套件管理器
+> ⭐94228 · 一體化 JavaScript/TypeScript 工具鏈，整合執行環境、打包器、測試框架與套件管理器
 
 ## 快速導航
+
 
 - 🛠 **[[vercel-next.js|Next.js]]** — Bun 可加速 Next.js 專案的建構與開發
 - 🧱 **[[microsoft-TypeScript|TypeScript]]** — Bun 原生支援 TypeScript，不需額外編譯
@@ -78,7 +79,8 @@ Bun 與 [[vercel-next.js|Next.js]] 搭配可加速建構流程。[[microsoft-Typ
 
 ## 相關概念
 
-← [[vercel-next.js|Next.js]] · [[microsoft-TypeScript|TypeScript]]
+
+← [[vercel-next.js]] · [[microsoft-TypeScript]]
 
 ## 來源
 
@@ -88,8 +90,9 @@ Bun 與 [[vercel-next.js|Next.js]] 搭配可加速建構流程。[[microsoft-Typ
 
 ---
 
-- **GitHub**: https://github.com/oven-sh/bun
-- **Stars**: ⭐ 94,228
-- **License**: MIT (Bun License)
-- **Language**: Rust
-- **收錄日期**: 2026-07-11
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/oven-sh/bun |
+| Stars | ⭐94228|
+| License | MIT (Bun License) |
+| 收錄日期 | 2026-07-11 |

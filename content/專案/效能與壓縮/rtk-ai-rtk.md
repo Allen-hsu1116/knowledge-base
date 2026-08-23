@@ -13,14 +13,18 @@ topics: [token-optimization, prompt-engineering, compression]
 
 # RTK (Rust Token Killer)
 
-> ⭐6k · 高效能 CLI proxy，減少 LLM token 消耗 60-90%。單一 Rust binary，零依賴，支援 100+ 指令。⭐ 6k+
+> ⭐6000 · 高效能 CLI proxy，減少 LLM token 消耗 60-90%。單一 Rust binary，零依賴，支援 100+ 指令。⭐ 6k+
 
 ## 快速導航
+
 - ⚡ [[Token-Optimization]] · [[Coding-Agent-CLI]] · [[AI-Skills]]
 
 ## 是什麼
 
-RTK（Rust Token Killer）是一個高效能 CLI proxy，安裝在 LLM CLI 工具和 shell 之間，過濾和壓縮常用指令的輸出，減少 token 消耗 60-90%。典型 30 分鐘的 Claude Code session 可以從 118k token 降到 24k token。支援 100+ 指令（ls、cat、grep、git、test runners、docker 等），單一 Rust binary、<10ms 延遲、零設定。
+
+RTK（Rust Token Killer）是一個高效能 CLI proxy，安裝在 LLM CLI 工具和 shell 之間，過濾和壓縮常用指令的輸出，減少 token 消耗 60-90%。
+
+典型 30 分鐘的 Claude Code session 可以從 118k token 降到 24k token。支援 100+ 指令（ls、cat、grep、git、test runners、docker 等），單一 Rust binary、<10ms 延遲、零設定。
 
 ## 核心特色
 
@@ -84,6 +88,7 @@ rtk discover
 RTK 跟 [[Token-Optimization]] 直接相關——它是 token 優化在 CLI 層的實作。也跟 [[Coding-Agent-CLI]] 相關——coding agent 是 token 消耗的主要場景。
 
 ## 相關概念
+
 ← [[Token-Optimization]] · [[Coding-Agent-CLI]] · [[AI-Skills]]
 
 ## 來源
@@ -91,12 +96,12 @@ RTK 跟 [[Token-Optimization]] 直接相關——它是 token 優化在 CLI 層�
 - GitHub：https://github.com/rtk-ai/rtk
 - Raw 檔案：`raw/2026-05-03-rtk.md`
 - raw/rtk-ai-rtk.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) |
-| Stars | ⭐6k |
-| License | — |
-| Language | zh-TW |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/rtk-ai/rtk |
+| Stars | ⭐6000|
+| License | 未標示 |
 | 收錄日期 | 2026-05-03 |

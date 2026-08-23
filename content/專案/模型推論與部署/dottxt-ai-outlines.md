@@ -10,9 +10,10 @@ topics: [cfg, generative-ai, json, llms, structured-generation, regex, symbolic-
 
 # Outlines
 
-> ⭐14.8k · 保證 LLM 輸出符合指定結構的 Python 函式庫，支援 Pydantic model、JSON Schema、Regex、CFG、Function Signature，同一份程式碼跨 OpenAI / vLLM / Ollama / transformers / llama.cpp 運行。
+> ⭐14840 · 保證 LLM 輸出符合指定結構的 Python 函式庫，支援 Pydantic model、JSON Schema、Regex、CFG、Function Signature，同一份程式碼跨 OpenAI / vLLM / Ollama / transformers / llama.cpp 運行。
 
 ## 快速導航
+
 
 - 🧠 **模型推論與部署** → [[模型推論與部署]]（Outlines 是推論層的結構化生成方案）
 - 📝 **Prompt Engineering** → [[Prompt-Engineering]]（結構化輸出是 Prompt 工程的進階形態）
@@ -119,6 +120,7 @@ Outlines 與 [[sgl-project-sglang|SGLang]] 的差異：SGLang 是完整的推論
 
 ## 相關概念
 
+
 ← [[模型推論與部署]] · [[Prompt-Engineering]] · [[llm-internals]] · [[LLM]]
 
 ## 來源
@@ -129,11 +131,9 @@ Outlines 與 [[sgl-project-sglang|SGLang]] 的差異：SGLang 是完整的推論
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/dottxt-ai/outlines |
-| **Stars** | ⭐14,840 |
-| **License** | Apache-2.0 |
-| **Language** | Python |
-| **Topics** | cfg, generative-ai, json, llms, structured-generation, regex, symbolic-ai |
-| **收錄日期** | 2026-07-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/dottxt-ai/outlines |
+| Stars | ⭐14840|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-07-22 |

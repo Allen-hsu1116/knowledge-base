@@ -10,14 +10,18 @@ topics: [股市追蹤, 開源, 即時報價]
 
 # OpenStock
 
-> ⭐12.1k · 開源股市追蹤平台，Bloomberg Terminal 的免費替代方案
+> ⭐12114 · 開源股市追蹤平台，Bloomberg Terminal 的免費替代方案
 
 ## 快速導航
+
 [[financial-forecasting|金融預測]] · [[open-source-business|開源商業模式]] · [[stock-tracking|股票追蹤]] · [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]]
 
 ## 是什麼
 
-OpenStock 是一個開源的股市追蹤平台，作為昂貴市場工具（如 Bloomberg Terminal）的免費替代方案。整合 Finnhub 和 TradingView 的即時數據，支援即時股價追蹤、個人化警報設定，以及詳細的公司資訊檢視。由 Open Dev Society 社群建構，強調開源透明和社群優先。
+
+OpenStock 是一個開源的股市追蹤平台，作為昂貴市場工具（如 Bloomberg Terminal）的免費替代方案。
+
+整合 Finnhub 和 TradingView 的即時數據，支援即時股價追蹤、個人化警報設定，以及詳細的公司資訊檢視。由 Open Dev Society 社群建構，強調開源透明和社群優先。
 
 ## 核心特色
 
@@ -59,7 +63,8 @@ npm run dev
 | TradingView | — | 圖表平台 | ✅ | ❌ | ✅ |
 
 ## 相關概念
-← [[financial-forecasting|金融預測]] · [[open-source-business|開源商業模式]] · [[stock-tracking|股票追蹤]] · [[ZhuLinsen-daily_stock_analysis|Daily Stock Analysis]]
+
+← [[financial-forecasting]] · [[open-source-business]] · [[stock-tracking]] · [[ZhuLinsen-daily_stock_analysis]]
 
 ## 來源
 
@@ -68,10 +73,9 @@ npm run dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) |
-| Stars | ⭐12,114 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Open-Dev-Society/OpenStock |
+| Stars | ⭐12114|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-27 |

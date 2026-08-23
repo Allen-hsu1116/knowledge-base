@@ -10,9 +10,10 @@ topics: [區塊鏈節點, 分散式系統, 智慧合約, WebAssembly, Rust, 自�
 
 # Amadeus Protocol Node
 
-> ⭐4.6k · 可自行編譯、啟動本地 testnet 並部署 WebAssembly 合約的 Amadeus Protocol 實驗性節點實作。
+> ⭐4551 · 可自行編譯、啟動本地 testnet 並部署 WebAssembly 合約的 Amadeus Protocol 實驗性節點實作。
 
 ## 快速導航
+
 
 - 🏠 [[self-hosted]] — 在自己的 Linux 主機建置與維運服務
 - 🧪 [[sandbox]] — 在本地 testnet 隔離測試合約與交易
@@ -72,6 +73,7 @@ Amadeus Node 的 README 聚焦實際節點建置、測試與營運；若需要�
 
 ## 相關概念
 
+
 ← [[self-hosted]] · [[sandbox]] · [[workflow-automation]]
 
 ## 來源
@@ -82,10 +84,9 @@ Amadeus Node 的 README 聚焦實際節點建置、測試與營運；若需要�
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/amadeusprotocol/node |
-| **Stars** | ⭐4,551 |
-| **License** | Repository 未標示 |
-| **Language** | Rust |
-| **收錄日期** | 2026-08-20 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/amadeusprotocol/node |
+| Stars | ⭐4551|
+| License | Repository 未標示 |
+| 收錄日期 | 2026-08-20 |

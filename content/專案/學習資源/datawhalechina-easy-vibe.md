@@ -14,6 +14,7 @@ updated: 2026-05-26
 
 ## 快速導航
 
+
 - 🎮 **Vibe Coding** → Vibe Coding（用對話寫程式的新開發範式）
 - 🎓 **AI Tutoring** → [[AI-Tutoring]]（AI 驅動的個人化教學）
 - 🤖 **AI Agent** → [[AI-Agent]]（進階 Claude Code + Agent 工作流）
@@ -91,7 +92,8 @@ easy-vibe 不是替代工具，而是**教會你用這些工具**的教程。Cur
 
 ## 相關概念
 
-← [[AI-Tutoring]] · Vibe Coding
+
+← [[AI-Tutoring]] · [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[openclaw]]
 
 - [[AI-Agent]]——Stage 3 教你用 Claude Code 做 Agent 工作流
 - [[AI-Skills]]——Claude Code Skills 是 Stage 3 核心主題
@@ -100,14 +102,14 @@ easy-vibe 不是替代工具，而是**教會你用這些工具**的教程。Cur
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/datawhalechina/easy-vibe)
 - raw/2026-05-26-datawhalechina-easy-vibe.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/datawhalechina/easy-vibe |
-| Stars | ⭐14,776 |
-| Language | JavaScript |
+| Stars | ⭐14776|
 | License | CC BY-NC-SA 4.0 |
 | 收錄日期 | 2026-05-26 |

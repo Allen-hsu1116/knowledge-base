@@ -10,9 +10,10 @@ topics: [Claude Code, 學習指南, Slash Commands, Skills, Hooks]
 
 # Claude HowTo
 
-> ⭐36k · 視覺化、範例驅動的 Claude Code 學習指南，從基礎到進階 Agent 編排，附可複製範本
+> ⭐35777 · 視覺化、範例驅動的 Claude Code 學習指南，從基礎到進階 Agent 編排，附可複製範本
 
 ## 快速導航
+
 [[anthropics-claude-code]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
@@ -70,6 +71,7 @@ cp -r 03-skills/code-review-specialist ~/.claude/skills/  # 15 min
 Claude HowTo 與 Claude Cookbooks 的定位不同：Cookbooks 是官方的範例食譜集，提供各種場景的程式碼片段；Claude HowTo 則是一套結構化的學習系統，強調「從零到精通」的學習路徑和可立即使用的範本。
 
 ## 相關概念
+
 ← [[anthropics-claude-code]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
@@ -79,10 +81,9 @@ Claude HowTo 與 Claude Cookbooks 的定位不同：Cookbooks 是官方的範例
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) |
-| Stars | ⭐35,777 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/luongnv89/claude-howto |
+| Stars | ⭐35777|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-09 |

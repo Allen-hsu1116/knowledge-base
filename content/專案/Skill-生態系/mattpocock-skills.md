@@ -10,9 +10,10 @@ topics: [AI Skills, 工程實踐, 對齊, 架構]
 
 # Matt Pocock Skills
 
-> ⭐89,433 · 工程師實戰 Skills 庫，強調小而可組合、與模型無關，基於數十年工程經驗提煉。解決 Agent 最常見的四個失敗模式：對齊、術語、回饋迴圈、設計侵蝕。
+> ⭐89433 · 工程師實戰 Skills 庫，強調小而可組合、與模型無關，基於數十年工程經驗提煉。解決 Agent 最常見的四個失敗模式：對齊、術語、回饋迴圈、設計侵蝕。
 
 ## 快速導航
+
 
 - 🛠️ **Agent Skills 生態系** → [[AI-Skills]]
 - 🧠 **AI Skills** → [[AI-Skills]]
@@ -20,7 +21,10 @@ topics: [AI Skills, 工程實踐, 對齊, 架構]
 
 ## 是什麼
 
-Matt Pocock（TypeScript 社群知名開發者）公開的個人 Skills 庫，設計哲學是「小、可適應、可組合」，適用於任何模型。核心洞察：Agent 最常見的四個失敗模式是對齊（misalignment）、術語斷層（jargon）、回饋缺失（feedback loops）、設計侵蝕（design erosion），每個都有對應 Skill 解決。
+
+Matt Pocock（TypeScript 社群知名開發者）公開的個人 Skills 庫，設計哲學是「小、可適應、可組合」，適用於任何模型。
+
+核心洞察：Agent 最常見的四個失敗模式是對齊（misalignment）、術語斷層（jargon）、回饋缺失（feedback loops）、設計侵蝕（design erosion），每個都有對應 Skill 解決。
 
 ## 核心特色
 
@@ -65,6 +69,7 @@ npx skills@latest add mattpocock/skills
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
@@ -74,10 +79,9 @@ npx skills@latest add mattpocock/skills
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [mattpocock/skills](https://github.com/mattpocock/skills) |
-| Stars | ⭐89,433 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/mattpocock/skills |
+| Stars | ⭐89433|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-18 |

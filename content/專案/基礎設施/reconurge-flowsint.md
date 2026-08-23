@@ -10,9 +10,10 @@ topics: [OSINT, 圖譜調查, 情報平台, 網安]
 
 # Flowsint
 
-> ⭐4.5k · 開源 OSINT 圖譜調查平台，視覺化探索實體關聯、自動化情報充實，支援域名/IP/ASN/社群/加密貨幣等全方位 enricher
+> ⭐4509 · 開源 OSINT 圖譜調查平台，視覺化探索實體關聯、自動化情報充實，支援域名/IP/ASN/社群/加密貨幣等全方位 enricher
 
 ## 快速導航
+
 [[pentesting|滲透測試]] · [[網頁爬蟲|網頁爬取]] · [[BigBodyCobain-Shadowbroker|Shadowbroker]]
 
 ## 是什麼
@@ -68,7 +69,8 @@ cd ../flowsint-api && uv run pytest   # API 模組
 | Maltego | 商業 | OSINT 調查 | 商業圖譜 + Hub | ✅ |
 
 ## 相關概念
-← [[pentesting|滲透測試]] · [[網頁爬蟲|網頁爬取]]
+
+← [[pentesting]] · [[網頁爬蟲]]
 
 ## 來源
 
@@ -77,10 +79,9 @@ cd ../flowsint-api && uv run pytest   # API 模組
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [reconurge/flowsint](https://github.com/reconurge/flowsint) |
-| Stars | ⭐4,509 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/reconurge/flowsint |
+| Stars | ⭐4509|
 | License | Apache 2.0 |
-| Language | TypeScript (frontend), Python (backend) |
 | 收錄日期 | 2026-06-03 |

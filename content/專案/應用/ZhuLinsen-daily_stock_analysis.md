@@ -10,9 +10,10 @@ topics: [LLM, AI Agent]
 
 # 股票智能分析系統 (daily_stock_analysis)
 
-> ⭐38.1k · LLM 驅動的 A股/港股/美股自選股智能分析系統，每日自動分析並推送「決策儀表盤」到企業微信/飛書/Telegram/Discord/Slack/郵箱
+> ⭐38100 · LLM 驅動的 A股/港股/美股自選股智能分析系統，每日自動分析並推送「決策儀表盤」到企業微信/飛書/Telegram/Discord/Slack/郵箱
 
 ## 快速導航
+
 
 - 🧠 **LLM** → [[LLM]]（LLM 驅動的金融分析）
 - 🤖 **AI Agent** → [[AI-Agent]]（自動化分析是 Agent 化工作流的一環）
@@ -22,7 +23,10 @@ topics: [LLM, AI Agent]
 
 ## 是什麼
 
-daily_stock_analysis 是一個 LLM 驅動的股票分析系統，覆蓋 A股、港股、美股。每日自動生成 AI 決策儀表盤，包含買賣訊號、風險警報和多維度分析，並透過企業微信、飛書、Telegram、Discord、Slack 等多渠道推送結果。支援 GitHub Actions 定時執行，零伺服器成本。
+
+daily_stock_analysis 是一個 LLM 驅動的股票分析系統，覆蓋 A股、港股、美股。
+
+每日自動生成 AI 決策儀表盤，包含買賣訊號、風險警報和多維度分析，並透過企業微信、飛書、Telegram、Discord、Slack 等多渠道推送結果。支援 GitHub Actions 定時執行，零伺服器成本。
 
 ## 核心特色
 
@@ -95,14 +99,19 @@ python main.py --webui          # 啟動 Web 工作台
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[LLM]] · [[Prompt-Engineering]] · [[HKUDS-AI-Trader]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/ZhuLinsen/daily_stock_analysis)
 - raw/ZhuLinsen-daily_stock_analysis.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐38,100 | MIT | 2026-05-03 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ZhuLinsen/daily_stock_analysis |
+| Stars | ⭐38100|
+| License | 未標示 |
+| 收錄日期 | 2026-05-03 |

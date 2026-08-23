@@ -3,16 +3,17 @@ title: Frontend Design Agent Skills
 slug: Frontend-Design-Agent-Skills
 created: 2026-06-08
 updated: 2026-06-08
-stars: —
+stars: 171039
 language: zh-TW
 topics: [frontend-design, agent-skills, design-system, web-testing, accessibility, ui-ux]
 ---
 
 # Frontend Design Agent Skills
 
-> ⭐— · 四個專注前端設計品質的 Agent Skill 總覽：從設計哲學（frontend-design）到規範審查（web-design-guidelines），從設計系統建構（design-system-starter）到自動化測試（webapp-testing），涵蓋前端設計的完整生命週期。
+> ⭐171039 · 四個專注前端設計品質的 Agent Skill 總覽：從設計哲學（frontend-design）到規範審查（web-design-guidelines），從設計系統建構（design-system-starter）到自動化測試（webapp-testing），涵蓋前端設計的完整生命週期。
 
 ## 快速導航
+
 
 - 🎨 **設計哲學** → [[anthropics-skills|Anthropic Skills]] — frontend-design Skill
 - 📐 **規範審查** → [[vercel-labs-agent-skills|Vercel Agent Skills]] — web-design-guidelines Skill
@@ -190,7 +191,8 @@ cp -r skills/webapp-testing ~/.claude/skills/
 
 ## 相關概念
 
-← [[frontend-design]] · [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]] · [[nexu-io-open-design]] · [[gsap-ai-skills|GSAP AI Skills]]
+
+← [[frontend-design]] · [[AI-Skills]] · [[AI-Skills]] · [[frontend-design]] · [[Figma-Skills]] · [[anthropics-skills]]
 
 ## 來源
 
@@ -198,11 +200,13 @@ cp -r skills/webapp-testing ~/.claude/skills/
 - https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md
 - https://github.com/softaworks/agent-toolkit/blob/main/skills/design-system-starter/README.md
 - https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md
+- 原始素材：`raw/2026-06-08-anthropics-skills-frontend-design.md`
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| 類型 | 概念頁 |
+| GitHub | https://github.com/anthropics/skills |
+| Stars | ⭐171039|
+| License | 未標示 |
 | 收錄日期 | 2026-06-08 |
-| **License** | 未標示 |

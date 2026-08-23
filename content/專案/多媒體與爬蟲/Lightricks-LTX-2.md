@@ -10,9 +10,10 @@ topics: [generative-ai, ltx, ltx-2]
 
 # LTX-2
 
-> ⭐7.7k · 首個 DiT-based 音影片生成基礎模型——同步音影片、高保真、多效能模式、生產級輸出。
+> ⭐7672 · 首個 DiT-based 音影片生成基礎模型——同步音影片、高保真、多效能模式、生產級輸出。
 
 ## 快速導航
+
 [[NVlabs-Sana|Sana]] · [[NVIDIA-cosmos|NVIDIA Cosmos]] · [[OpenBMB-VoxCPM|VoxCPM]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
 
 ## 是什麼
@@ -76,7 +77,8 @@ source .venv/bin/activate
 
 ## 相關概念
 
-← [[NVlabs-Sana|Sana]] · [[NVIDIA-cosmos|NVIDIA Cosmos]] · [[OpenBMB-VoxCPM|VoxCPM]] · [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
+
+← [[NVlabs-Sana]] · [[NVIDIA-cosmos]] · [[OpenBMB-VoxCPM]] · [[harry0703-MoneyPrinterTurbo]]
 
 ## 來源
 
@@ -87,10 +89,9 @@ source .venv/bin/activate
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) |
-| Stars | ⭐7,672 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Lightricks/LTX-2 |
+| Stars | ⭐7672|
 | License | Other |
-| Language | Python |
 | 收錄日期 | 2026-06-20 |

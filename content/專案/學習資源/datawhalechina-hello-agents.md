@@ -13,6 +13,7 @@ topics: [AI Agent, MCP, RAG, Prompt Engineering]
 > ⭐48 · Datawhale 社區出品的系統性 AI Agent 學習教程，從理論基礎到實戰開發，帶你從 LLM「使用者」蛻變為智能體「構建者」。⭐48K+
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（本教程的核心主題）
 - 🧠 **LLM** → [[LLM]]（大型語言模型基礎）
 - 🔌 **MCP** → [[MCP]]（智能體通信協議）
@@ -64,23 +65,19 @@ pip install -r requirements.txt
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[LLM]] · [[MCP]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/datawhalechina/hello-agents)
 - raw/2026-05-13-datawhalechina-hello-agents.md
 
 ---
 
-- **GitHub**: https://github.com/datawhalechina/hello-agents
-- **Stars**: ⭐48,233
-- **License**: CC BY-NC-SA 4.0
-- **收錄日期**: 2026-05-13
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/datawhalechina/hello-agents.git |
-| **Stars** | ⭐'⭐48' |
-| **收錄日期** | 2026-05-13 |
+| GitHub | https://github.com/datawhalechina/hello-agents |
+| Stars | ⭐48|
+| License | CC BY-NC-SA 4.0 |
+| 收錄日期 | 2026-05-13 |

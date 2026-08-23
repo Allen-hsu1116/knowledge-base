@@ -10,14 +10,18 @@ topics: [LLM, Prompt Engineering, RAG, AI Agent]
 
 # Claude Cookbooks
 
-> ⭐44k · Anthropic 官方的 Claude 實戰食譜集，用 Jupyter Notebook 提供可複製的程式碼片段
+> ⭐44023 · Anthropic 官方的 Claude 實戰食譜集，用 Jupyter Notebook 提供可複製的程式碼片段
 
 ## 快速導航
+
 [[Prompt-Engineering]] · [[rag|RAG]] · [[AI-Agent]] · [[LLM]]
 
 ## 是什麼
 
-Claude Cookbooks 是 Anthropic 官方發布的 Claude API 實戰範例集，以 Jupyter Notebook 格式提供可複製的程式碼片段。涵蓋文字分類、RAG（檢索增強生成）、摘要、工具使用、多模態（視覺/圖像生成）、子代理、PDF 處理、JSON 模式、內容審核、Prompt Caching 等主題。
+
+Claude Cookbooks 是 Anthropic 官方發布的 Claude API 實戰範例集，以 Jupyter Notebook 格式提供可複製的程式碼片段。
+
+涵蓋文字分類、RAG（檢索增強生成）、摘要、工具使用、多模態（視覺/圖像生成）、子代理、PDF 處理、JSON 模式、內容審核、Prompt Caching 等主題。
 
 ## 核心特色
 
@@ -61,7 +65,8 @@ jupyter notebook
 | LangChain Docs | — | 框架文件 | ✅ | ✅ | ✅ | ❌ |
 
 ## 相關概念
-← [[Prompt-Engineering]] · [[rag|RAG]] · [[AI-Agent]] · [[LLM]]
+
+← [[Prompt-Engineering]] · [[rag]] · [[AI-Agent]] · [[LLM]]
 
 ## 來源
 
@@ -71,10 +76,9 @@ jupyter notebook
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) |
-| Stars | ⭐44,023 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anthropics/claude-cookbooks |
+| Stars | ⭐44023|
 | License | MIT |
-| Language | Jupyter Notebook |
-| 收錄日期 | 2026-05-26 |
+| 收錄日期 | 2023-08-15 |

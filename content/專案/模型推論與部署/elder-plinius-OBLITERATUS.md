@@ -10,9 +10,10 @@ topics: [llm-safety, abliteration, mechanistic-interpretability, red-teaming, mo
 
 # OBLITERATUS
 
-> ⭐7.8k · 研究與移除 LLM 拒答行為的開源 abliteration 工具箱，結合拒答方向抽取、權重投影、steering vectors 與安全能力評估。
+> ⭐7788 · 研究與移除 LLM 拒答行為的開源 abliteration 工具箱，結合拒答方向抽取、權重投影、steering vectors 與安全能力評估。
 
 ## 快速導航
+
 
 - 🛡 [[prompt-security]] — 從權重與 activation 層面研究 guardrail 的脆弱性
 - 🧠 [[llm-internals]] — 透過層、attention head、FFN 與 residual stream 分析模型內部
@@ -70,6 +71,7 @@ OBLITERATUS 專注模型內部的 weight-level refusal removal；Promptfoo 與 A
 
 ## 相關概念
 
+
 ← [[prompt-security]] · [[llm-internals]] · [[模型推論與部署]]
 
 ## 來源
@@ -80,10 +82,9 @@ OBLITERATUS 專注模型內部的 weight-level refusal removal；Promptfoo 與 A
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/elder-plinius/OBLITERATUS |
-| **Stars** | ⭐7,788 |
-| **License** | GNU AGPLv3 |
-| **Language** | Python |
-| **收錄日期** | 2026-08-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/elder-plinius/OBLITERATUS |
+| Stars | ⭐7788|
+| License | GNU AGPLv3 |
+| 收錄日期 | 2026-08-22 |

@@ -5,14 +5,15 @@ created: 2026-07-15
 updated: 2026-07-15
 stars: 5.8k
 language: Go
-topics: AI-Gateway, LLM, Grok, OpenAI-compatible, Anthropic-Messages, MCP
+topics: ["AI-Gateway", "LLM", "Grok", "OpenAI-compatible", "Anthropic-Messages", "MCP"]
 ---
 
 # Grok2API
 
-> ⭐5.8k · chenyme · Go · MIT — 面向 Grok Build、Grok Web 與 Grok Console 的多帳號 API 網關，對外提供 OpenAI 相容介面與 Anthropic Messages 支援。
+> ⭐5800 · MIT — 面向 Grok Build、Grok Web 與 Grok Console 的多帳號 API 網關，對外提供 OpenAI 相容介面與 Anthropic Messages 支援。
 
 ## 快速導航
+
 
 - 🔌 **AI Gateway** → [[AI-Gateway|AI Gateway]] — 多 LLM 提供者聚合的統一閘道概念
 - 🧠 **LLM** → [[LLM|LLM]] — 大語言模型基礎
@@ -94,7 +95,8 @@ Grok2API 的獨特定位是「Grok 專用多帳號網關」——其他方案聚
 
 
 ## 相關概念
-← [[AI-Gateway|AI Gateway]] · [[LLM|LLM]] · [[MCP|MCP]]
+
+← [[AI-Gateway]] · [[LLM]] · [[MCP]]
 
 ## 來源
 
@@ -105,10 +107,9 @@ Grok2API 的獨特定位是「Grok 專用多帳號網關」——其他方案聚
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | chenyme/grok2api |
-| Stars | ⭐5.8k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/chenyme/grok2api |
+| Stars | ⭐5800|
 | License | MIT |
-| Language | Go |
 | 收錄日期 | 2026-07-15 |

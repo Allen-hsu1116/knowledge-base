@@ -10,14 +10,18 @@ topics: [工作流自動化, 後端平台, Agent 友善]
 
 # iii
 
-> ⭐16.9k · 即時組合、擴展與觀測所有服務的統一平台，Worker / Function / Trigger 三原語打造後端基礎設施
+> ⭐16876 · 即時組合、擴展與觀測所有服務的統一平台，Worker / Function / Trigger 三原語打造後端基礎設施
 
 ## 快速導航
+
 [[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
 
 ## 是什麼
 
-iii 是一個即時後端基礎設施平台，用 Worker、Function、Trigger 三個原語統一了佇列、Cron、HTTP、狀態管理、可觀測性、Agent 和 Sandbox 等後端能力。新增一個 Worker 即可擴展系統功能，其他 Worker 會自動發現並呼叫。Agent 也能在 runtime 動態新增 Worker、發現功能、呼叫並追蹤。
+
+iii 是一個即時後端基礎設施平台，用 Worker、Function、Trigger 三個原語統一了佇列、Cron、HTTP、狀態管理、可觀測性、Agent 和 Sandbox 等後端能力。
+
+新增一個 Worker 即可擴展系統功能，其他 Worker 會自動發現並呼叫。Agent 也能在 runtime 動態新增 Worker、發現功能、呼叫並追蹤。
 
 ## 核心特色
 
@@ -60,7 +64,8 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 | Fly.io | — | 雲平台 | ❌ | ❌ | ✅ |
 
 ## 相關概念
-← [[workflow-automation|工作流自動化]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp|n8n MCP]] · [[observability|可觀測性]]
+
+← [[workflow-automation]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp]] · [[observability]]
 
 ## 來源
 
@@ -69,10 +74,9 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [iii-hq/iii](https://github.com/iii-hq/iii) |
-| Stars | ⭐16,876 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/iii-hq/iii |
+| Stars | ⭐16876|
 | License | Elastic-2.0 (engine) / Apache-2.0 (SDKs) |
-| Language | Rust |
-| 收錄日期 | 2026-05-28 |
+| 收錄日期 | 2025-01-02 |

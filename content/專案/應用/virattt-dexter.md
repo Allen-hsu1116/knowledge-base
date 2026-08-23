@@ -10,9 +10,10 @@ topics: [LLM, AI Agent, 金融研究]
 
 # Dexter
 
-> ⭐23,560 · 自主式 AI 金融研究 Agent — 深度財報分析、行業研究、投資決策，全自動完成。SEC filing 解析 + 多步驟 LLM 推理。
+> ⭐23560 · 自主式 AI 金融研究 Agent — 深度財報分析、行業研究、投資決策，全自動完成。SEC filing 解析 + 多步驟 LLM 推理。
 
 ## 快速導航
+
 
 - 🧠 **LLM** → [[LLM]]（Dexter 用 LLM 做多步驟金融推理）
 - 🤖 **AI Agent** → [[AI-Agent]]（Dexter 是自主式 Agent，能規劃和執行研究任務）
@@ -20,7 +21,10 @@ topics: [LLM, AI Agent, 金融研究]
 
 ## 是什麼
 
-Dexter 是一個自主式 AI 金融研究 Agent。輸入研究問題（如 "What are the key risks for NVIDIA in 2025?"），它會自動規劃研究步驟、抓取 SEC filing、解析財務數據、做多步驟推理，最終產出深度研究報告。不需要人類一步一步下指令 — 它自己決定要查什麼、怎麼分析。
+
+Dexter 是一個自主式 AI 金融研究 Agent。
+
+輸入研究問題（如 "What are the key risks for NVIDIA in 2025?"），它會自動規劃研究步驟、抓取 SEC filing、解析財務數據、做多步驟推理，最終產出深度研究報告。不需要人類一步一步下指令 — 它自己決定要查什麼、怎麼分析。
 
 ## 核心特色
 
@@ -80,14 +84,19 @@ print(report.reasoning_trace)  # 完整推理過程
 
 ## 相關概念
 
+
 ← [[LLM]] · [[AI-Agent]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/virattt/dexter)
 - raw/2026-05-05-virattt-dexter.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [virattt/dexter](https://github.com/virattt/dexter) | ⭐23,560 | — | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/virattt/dexter |
+| Stars | ⭐23560|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

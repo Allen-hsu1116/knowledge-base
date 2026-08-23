@@ -10,7 +10,7 @@ topics: [隱私分析, 網站統計, GDPR 合規]
 
 # Plausible Analytics
 
-> ⭐25,755 · Open source, privacy-first web analytics — lightweight, cookie-free Google Analytics alternative
+> ⭐27669 · Open source, privacy-first web analytics — lightweight, cookie-free Google Analytics alternative
 
 **Repo:** <https://github.com/plausible/analytics>
 **Stars:** ⭐ 25,755
@@ -18,6 +18,7 @@ topics: [隱私分析, 網站統計, GDPR 合規]
 **Created:** 2018-12-04
 
 ## 快速導航
+
 
 - ⚡ [[open-design]] · [[self-hosted]] · [[privacy]]
 
@@ -103,6 +104,7 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 
 ## 相關概念
 
+
 ← [[open-design]] · [[self-hosted]] · [[privacy]]
 
 ## 來源
@@ -113,8 +115,9 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/plausible/analytics |
-| **收錄日期** | 2018-12-04 |
-| **License** | AGPL-3.0 |
+| GitHub | https://github.com/plausible/analytics |
+| Stars | ⭐27669|
+| License | AGPL-3.0 |
+| 收錄日期 | 2018-12-04 |

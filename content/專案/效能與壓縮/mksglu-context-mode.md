@@ -10,9 +10,10 @@ topics: [Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台]
 
 # Context Mode
 
-> ⭐17.4k · Coding Agent 的上下文視窗優化 MCP Server，沙箱工具輸出 98% 壓縮，支援 15+ 平台。
+> ⭐17358 · Coding Agent 的上下文視窗優化 MCP Server，沙箱工具輸出 98% 壓縮，支援 15+ 平台。
 
 ## 快速導航
+
 [[context-engineering-basics|Context Engineering]] · [[Token-Optimization|Token Optimization]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[anthropics-claude-code|Claude Code]]
 
 ## 是什麼
@@ -78,7 +79,8 @@ npm install -g context-mode
 | 洞察分析 | ✅ 90 指標 | ❌ | ❌ | ❌ |
 
 ## 相關概念
-← [[context-engineering-basics|Context Engineering]] · [[Token-Optimization|Token Optimization]]
+
+← [[context-engineering-basics]] · [[Token-Optimization]]
 
 ## 來源
 
@@ -87,10 +89,9 @@ npm install -g context-mode
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [mksglu/context-mode](https://github.com/mksglu/context-mode) |
-| Stars | ⭐17,358 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/mksglu/context-mode |
+| Stars | ⭐17358|
 | License | ELv2 |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-14 |
+| 收錄日期 | 2026-02-23 |

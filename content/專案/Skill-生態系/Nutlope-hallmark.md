@@ -16,10 +16,10 @@ topics:
 
 # Hallmark
 
-> ⭐5.1k · 反 AI 味設計 Skill，讓 Claude Code、Cursor、Codex 生成的 UI 看起來像人做的，不是 AI 吐出來的
-
+> ⭐5149 · 反 AI 味設計 Skill，讓 Claude Code、Cursor、Codex 生成的 UI 看起來像人做的，不是 AI 吐出來的
 
 ## 快速導航
+
 快速導航：[[AI-Skills|AI Skills]] · [[frontend-design|前端設計]] · [[anthropics-skills|Anthropic Skills]] · [[Leonxlnx-taste-skill|Taste Skill]]
 
 ## 是什麼
@@ -80,7 +80,8 @@ hallmark study screenshot.png
 
 ## 相關概念
 
-← [[AI-Skills|AI Skills]] · [[frontend-design|前端設計]] · [[pbakaus-impeccable|Impeccable]] · [[Leonxlnx-taste-skill|Taste Skill]]
+
+← [[AI-Skills]] · [[frontend-design]] · [[pbakaus-impeccable]] · [[Leonxlnx-taste-skill]]
 
 ## 來源
 
@@ -90,10 +91,9 @@ hallmark study screenshot.png
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
-| Stars | ⭐5,149 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Nutlope/hallmark |
+| Stars | ⭐5149|
 | License | MIT |
-| Language | CSS |
 | 收錄日期 | 2026-07-14 |

@@ -22,9 +22,10 @@ topics:
 
 # jcode
 
-> ⭐13.5k · 最省 RAM 的 Coding Agent Harness，Rust 打造，14ms 首帧延遲、27.8MB 記憶體、內建 Agent 記憶系統與 Swarm 多 Agent 協作
+> ⭐13456 · 最省 RAM 的 Coding Agent Harness，Rust 打造，14ms 首帧延遲、27.8MB 記憶體、內建 Agent 記憶系統與 Swarm 多 Agent 協作
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🛠 **Coding Agent CLI** → [[Coding-Agent-CLI]]
@@ -114,6 +115,7 @@ jcode 的核心差異化在於：Rust 帶來的極致資源效率（省 6-14 倍
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[Coding-Agent-CLI]] · [[MCP]] · [[Token-Optimization]] · [[harness-engineering]]
 
 ## 來源
@@ -126,10 +128,9 @@ jcode 的核心差異化在於：Rust 帶來的極致資源效率（省 6-14 倍
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [1jehuang/jcode](https://github.com/1jehuang/jcode) |
-| Stars | ⭐13,456 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/1jehuang/jcode |
+| Stars | ⭐13456|
 | License | MIT |
-| Language | Rust |
 | 收錄日期 | 2026-07-30 |

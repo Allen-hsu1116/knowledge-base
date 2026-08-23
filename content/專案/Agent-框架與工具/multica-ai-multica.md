@@ -13,20 +13,22 @@ updated: 2026-06-14
 
 # Multica
 
-> ⭐31926
-
-⭐ 31.9k · 開源 managed agents 平台，把 coding agents 變成真正的隊友
+> ⭐31926 · 開源 managed agents 平台，把 coding agents 變成真正的隊友
 
 ## 一句話
 
 把 Claude Code、Codex、Hermes 等 coding agents 組織成像人類隊友一樣——指派任務、追蹤進度、累積技能，讓 AI agent 團隊自動化協作。
 
 ## 快速導航
+
 - ⚡ [[AI-Agent]] · [[AI-Skills]] · [[humanlayer-12-factor-agents|12-Factor Agents]]
 
 ## 是什麼
 
-Multica 是開源 managed agents 平台，把 Claude Code、Codex、Hermes 等 coding agents 組織成像人類隊友一樣——指派任務、追蹤進度、累積技能，讓 AI agent 團隊自動化協作。過去用 coding agent 是「one-shot」：貼 prompt、等結果、手動重來。Multica 把 agent 變成 board 上的 first-class teammate——能接 issue、寫程式、回報 blocker、自動更新狀態。Squad 功能讓大團隊可以在 leader agent 下分派工作。
+
+Multica 是開源 managed agents 平台，把 Claude Code、Codex、Hermes 等 coding agents 組織成像人類隊友一樣——指派任務、追蹤進度、累積技能，讓 AI agent 團隊自動化協作。
+
+過去用 coding agent 是「one-shot」：貼 prompt、等結果、手動重來。Multica 把 agent 變成 board 上的 first-class teammate——能接 issue、寫程式、回報 blocker、自動更新狀態。Squad 功能讓大團隊可以在 leader agent 下分派工作。
 
 ## 核心特色
 
@@ -72,6 +74,7 @@ Multica 支援多種 coding agent 作為 runtime：Claude Code、Codex、GitHub 
 Multica 是把「managed」概念帶入 AI agent 的平台——從 one-shot prompt 進化到持久團隊成員。跟 [[humanlayer-12-factor-agents|12-Factor Agents]] 的 agent lifecycle management 設計原則呼應，跟 [[AI-Skills]] 的 Reusable Skills 緊密相關。
 
 ## 相關概念
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[humanlayer-12-factor-agents]]
 
 ## 來源
@@ -81,10 +84,9 @@ Multica 是把「managed」概念帶入 AI agent 的平台——從 one-shot pro
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [multica-ai/multica](https://github.com/multica-ai/multica) |
-| Stars | ⭐31926 |
-| License | — |
-| Language | TypeScript |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/multica-ai/multica |
+| Stars | ⭐31926|
+| License | 未標示 |
 | 收錄日期 | 2026-05-24 |

@@ -17,9 +17,10 @@ topics:
 
 # Palmier Pro
 
-> ⭐7.4k · macOS 原生 AI 影片編輯器，Swift 打造，透過 MCP 讓你的 AI agent 在時間軸上跟你一起生成和剪輯影片
+> ⭐7400 · macOS 原生 AI 影片編輯器，Swift 打造，透過 MCP 讓你的 AI agent 在時間軸上跟你一起生成和剪輯影片
 
 ## 快速導航
+
 
 - 🎬 **AI 影片生成** → [[AI-video-generation|AI 影片生成]]
 - 🔌 **MCP** → [[MCP]]
@@ -37,12 +38,17 @@ Palmier Pro 是一個開源的 macOS 影片編輯器，從底層用 Swift 原生
 
 ## 核心特色
 
+
 1. **Swift 原生打造** — 從零開始用 Swift 建構，macOS 26 (Tahoe) Apple Silicon 原生，效能和體驗都是 Mac 原生水準
 2. **時間軸內生成式 AI** — 直接在編輯器內用 Seedance、Kling、Nano Banana Pro 等 SOTA 模型生成影片和圖片，無需切換工具
 3. **MCP Server 整合** — app 開啟時自動啟動 HTTP MCP server，支援 Claude Code、Codex、Cursor、Claude Desktop 一鍵連接
 4. **Agent 協作編輯** — 你和 AI agent 在同一個時間軸專案上協作，GUI 操作和 MCP 指令同步
 5. **免費編輯器 + 開源核心** — 編輯器、MCP server、agent chat 完全開源免費，只有生成式 AI 處理是閉源訂閱
 6. **Y Combinator S24** — 獲選 YC 2024 Summer 批次，有商業支持的可持續開源專案
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
 ## 怎麼用
 
@@ -93,7 +99,8 @@ Palmier Pro 跟 OpenMontage 的關鍵差異：Palmier Pro 是一個 GUI 編輯�
 
 ## 相關概念
 
-← [[AI-video-generation|AI 影片生成]] · [[MCP]] · [[AI-Agent|AI Agent]] · [[generative-AI|生成式 AI]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[calesthio-OpenMontage|OpenMontage]]
+
+← [[AI-video-generation]] · [[MCP]] · [[AI-Agent]] · [[generative-AI]] · [[Coding-Agent-CLI]] · [[calesthio-OpenMontage]]
 
 ## 來源
 
@@ -103,10 +110,9 @@ Palmier Pro 跟 OpenMontage 的關鍵差異：Palmier Pro 是一個 GUI 編輯�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/palmier-io/palmier-pro |
-| **Stars** | ⭐7.4k |
-| **License** | GPL-3.0 |
-| **Language** | Swift |
-| **收錄日期** | 2026-06-23 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/palmier-io/palmier-pro |
+| Stars | ⭐7400|
+| License | GPL-3.0 |
+| 收錄日期 | 2026-06-23 |

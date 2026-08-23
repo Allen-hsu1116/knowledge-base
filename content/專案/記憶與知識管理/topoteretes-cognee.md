@@ -10,9 +10,10 @@ topics: ["ai-memory", "knowledge-graph", "ai-agents", "vector-database", "graph-
 
 # Cognee
 
-> ⭐18.6k · 開源 AI 記憶平台，知識圖譜 + 向量搜尋，讓 Agent 跨 session 持久記住一切
+> ⭐18638 · 開源 AI 記憶平台，知識圖譜 + 向量搜尋，讓 Agent 跨 session 持久記住一切
 
 ## 快速導航
+
 
 [[mem0ai-mem0|Mem0]] · [[rag]] · [[Knowledge-Graph]] · [[AI-Agent]] · [[MCP]]
 
@@ -110,19 +111,20 @@ claude --plugin-dir ./cognee-integrations/integrations/claude-code
 
 ## 相關概念
 
-← [[mem0ai-mem0|Mem0]] · [[rag]] · [[Knowledge-Graph]] · [[AI-Agent]]
+
+← [[mem0ai-mem0]] · [[rag]] · [[Knowledge-Graph]] · [[AI-Agent]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/topoteretes/cognee-integrations)
 - GitHub: <https://github.com/topoteretes/cognee>
 - 原始 README: `raw/2026-06-22-topoteretes-cognee.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [topoteretes/cognee](https://github.com/topoteretes/cognee) |
-| Stars | ⭐18,638 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/topoteretes/cognee-integrations |
+| Stars | ⭐18638|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-06-22 |

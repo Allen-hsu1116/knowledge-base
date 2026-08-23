@@ -10,9 +10,10 @@ topics: [AI Skills, 複利工程, Coding Agent CLI]
 
 # Compound Engineering Plugin
 
-> ⭐17.8k · Claude Code / Codex / Cursor 的複利工程插件，讓每次工作都讓下一次更容易。
+> ⭐17771 · Claude Code / Codex / Cursor 的複利工程插件，讓每次工作都讓下一次更容易。
 
 ## 快速導航
+
 [[AI-Agent]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]]
 
 ## 是什麼
@@ -81,7 +82,8 @@ codex
 | [[obra-superpowers|Superpowers]] | ⭐189k | Agent 超能力庫 | 增強 AI coding agent 能力的方法論 | 多平台 |
 
 ## 相關概念
-← [[AI-Agent]] · [[AI-Skills]] · [[AI-Skills|Agent Skills 生態系]]
+
+← [[AI-Agent]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
 
@@ -90,10 +92,9 @@ codex
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) |
-| Stars | ⭐17,771 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/EveryInc/compound-engineering-plugin |
+| Stars | ⭐17771|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-29 |

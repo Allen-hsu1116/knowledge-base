@@ -5,14 +5,15 @@ created: 2026-07-05
 updated: 2026-07-05
 stars: 105.6k
 language: TypeScript
-topics: self-hosted, photo-gallery, google-photos-alternative, flutter, nestjs
+topics: ["self-hosted", "photo-gallery", "google-photos-alternative", "flutter", "nestjs"]
 ---
 
 # Immich
 
-> ⭐105.6k · 高效能自架照片與影片管理方案，Google Photos 的開源替代品
+> ⭐105600 · 高效能自架照片與影片管理方案，Google Photos 的開源替代品
 
 ## 快速導航
+
 
 - 🧠 **自架平台** → [[self-hosted\|自架]]
 - 🛠 **媒體串流** → [[media-streaming\|媒體串流]]
@@ -80,6 +81,7 @@ Immich 與 [[paperless-ngx-paperless-ngx|Paperless-ngx]] 都屬自架媒體管�
 
 ## 相關概念
 
+
 ← [[self-hosted]] · [[media-streaming]] · [[paperless-ngx-paperless-ngx]]
 
 ## 來源
@@ -91,10 +93,9 @@ Immich 與 [[paperless-ngx-paperless-ngx|Paperless-ngx]] 都屬自架媒體管�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/immich-app/immich |
-| **Stars** | ⭐ 105,632 |
-| **License** | AGPL-3.0 |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-07-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/immich-app/immich |
+| Stars | ⭐105600|
+| License | AGPL-3.0 |
+| 收錄日期 | 2026-07-05 |

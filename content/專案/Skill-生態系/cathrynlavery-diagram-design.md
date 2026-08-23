@@ -10,9 +10,10 @@ topics: [AI Skills, Claude Code, Codex, Pi, editorial diagrams, SVG, HTML, desig
 
 # Diagram Design
 
-> ⭐10.4k · 29 種編輯級圖表類型，為 Claude Code、Codex、Pi 打造的 Agent Skill——自包含 HTML + SVG，不需要 Figma，不需要 Mermaid
+> ⭐10429 · 29 種編輯級圖表類型，為 Claude Code、Codex、Pi 打造的 Agent Skill——自包含 HTML + SVG，不需要 Figma，不需要 Mermaid
 
 ## 快速導航
+
 
 - 🎨 **AI Skills** → [[AI-Skills]]
 - 📐 **設計系統** → [[google-labs-code-design.md]]
@@ -73,6 +74,7 @@ open skills/diagram-design/assets/index.html
 
 ## 跟其他方案的關係
 
+
 - **Mermaid**：文字驅動自動排版，版面不可控，風格統一但偏「工程師審美」，無法品牌適配
 - **draw.io / diagrams.net**：拖拽式編輯器，自由度高但手動操作多，座標和配色需要逐個調整
 - **Figma**：專業設計工具，品質最高但學習曲線陡，30 分鐘起跳
@@ -80,7 +82,14 @@ open skills/diagram-design/assets/index.html
 
 Diagram Design 不取代 Figma 的全部能力，而是填補「需要一張好圖但不想開 Figma」的缺口。它也能把 draw.io 和 Mermaid 的既有圖表「升級」成編輯級品質，保留內容但丟棄來源的座標、配色和字體。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[google-labs-code-design.md]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Skills]] · [[anthropics-claude-code]] · [[google-labs-code-design.md]] · [[Frontend-Design-Agent-Skills]] · [[Nutlope-hallmark]]
 
@@ -92,10 +101,9 @@ Diagram Design 不取代 Figma 的全部能力，而是填補「需要一張好�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | cathrynlavery/diagram-design |
-| Stars | ⭐10.4k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/cathrynlavery/diagram-design |
+| Stars | ⭐10429|
 | License | MIT |
-| Language | HTML |
 | 收錄日期 | 2026-08-13 |

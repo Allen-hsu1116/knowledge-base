@@ -13,6 +13,7 @@ topics: [AI Skills, AI Agent, 科學研究]
 > ⭐21 · 135 個即插即用的 Agent Skill，覆蓋生物資訊、藥物發現、蛋白質體學、臨床研究、材料科學等 16 大科學領域。⭐21K+
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（Scientific Agent Skills 讓 AI agent 具備科學研究能力）
 - 🛠 **Agent Skills** → [[AI-Skills]]（基於開放 Agent Skills 標準的技能集合）
 - 💻 **Coding Agent** → [[Coding-Agent-CLI]]（支援 Cursor、Claude Code、Codex、Gemini CLI 等平台）
@@ -63,23 +64,19 @@ gh skill install K-Dense-AI/scientific-agent-skills scanpy
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/K-Dense-AI/scientific-agent-skills)
 - raw/2026-05-14-K-Dense-AI-scientific-agent-skills.md
 
 ---
 
-- **GitHub**: https://github.com/K-Dense-AI/scientific-agent-skills
-- **Stars**: ⭐21,122
-- **License**: MIT
-- **收錄日期**: 2026-05-14
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/K-Dense-AI/scientific-agent-skills |
-| **Stars** | ⭐'⭐21' |
-| **收錄日期** | 2026-05-14 |
+| GitHub | https://github.com/K-Dense-AI/scientific-agent-skills |
+| Stars | ⭐21|
+| License | MIT |
+| 收錄日期 | 2026-05-14 |

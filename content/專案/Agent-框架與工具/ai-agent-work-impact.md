@@ -14,13 +14,17 @@ topics: [ai-agent, work-impact, teaching]
 
 ## 快速導航
 
+
 - 🧠 **Agent 自主性** → [[agent-persona]]（AI 從工具到自主完成任務的演進）
 - 🛠 **Agent 能力生態** → [[AI-Skills]]（Agent 寫作、研究、審稿的能力邊界）
 - 🔐 **AI 審稿的信任問題** → [[prompt-security]]（AI reviewer 背後的品質與誠信問題）
 
 ## 是什麼
 
-AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具到自主完成任務的演進過程。從 Stanford 教授一小時寫完論文、AI 自主訓練模型（Autoresearch）、到 AI 審稿被舉報，這些實例揭示了 AI Agent 正在根本性地改變知識工作的本質。
+
+AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具到自主完成任務的演進過程。
+
+從 Stanford 教授一小時寫完論文、AI 自主訓練模型（Autoresearch）、到 AI 審稿被舉報，這些實例揭示了 AI Agent 正在根本性地改變知識工作的本質。
 
 ### AI 角色的三階段演進
 
@@ -68,6 +72,7 @@ AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具�
 
 ## 相關概念
 
+
 ← [[agent-persona]] · [[AI-Agent]] · [[ai-agent-interaction]] · [[prompt-security]] · [[harness-engineering]]
 
 ## 相關專案
@@ -80,6 +85,11 @@ AI Agent 對工作的衝擊是以學術研究為切入點，探討 AI 從工具�
 - Andrew Hall: "100x Research Assistant"（Stanford）
 - AAAI 2026 AI Reviewer 政策
 
----_此頁由 daily-llm-trending 自動維護_
-- **收錄日期**: 2026-05-03
-- **License**: 未標示
+---
+
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | 不適用（非 GitHub 專案；見來源） |
+| Stars | ⭐未標示 |
+| License | 未標示 |
+| 收錄日期 | 2026-05-03 |

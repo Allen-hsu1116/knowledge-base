@@ -10,16 +10,20 @@ topics: [AI Agent, LLM, RAG]
 
 # LangChain
 
-> ⭐136,755 · LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。137K ⭐。
+> ⭐136755 · LLM 應用開發框架，串接各種組件和第三方整合，簡化 AI 應用開發。137K ⭐。
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（LangChain 是 Agent 開發的主流框架之一）
 - 📚 **RAG** → [[rag]]（LangChain 內建 RAG 管線支援）
 - 🧠 **LLM** → [[LLM]]（LangChain 是 LLM 應用的膠水層）
 
 ## 是什麼
 
-LangChain 是 LLM 應用開發的事實標準框架，提供 Chain、Agent、RAG 等抽象層，讓開發者用統一介面串接 LLM、工具、資料來源和第三方服務。它降低了建構 LLM 應用的門檻，是 AI Agent 生態的基礎設施之一。
+
+LangChain 是 LLM 應用開發的事實標準框架，提供 Chain、Agent、RAG 等抽象層，讓開發者用統一介面串接 LLM、工具、資料來源和第三方服務。
+
+它降低了建構 LLM 應用的門檻，是 AI Agent 生態的基礎設施之一。
 
 ## 核心特色
 
@@ -79,22 +83,19 @@ app = graph.compile()
 | [[模型推論與部署|Ollama]] | 本地 LLM 部署 | LangChain 可以透過 Ollama 介面使用本地模型 |
 
 ## 相關概念
-← [[AI-Agent]] · [[LLM]] · [[rag]] · [[llama-index]] · [[langflow-ai-langflow|Langflow]] · [[pytorch-pytorch|PyTorch]]
+
+← [[AI-Agent]] · [[LLM]] · [[rag]] · [[llama-index]] · [[langflow-ai-langflow]] · [[pytorch-pytorch]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/langchain-ai/langchain)
 - raw/2026-05-10-langchain.md
 
 ---
 
-- **GitHub**: https://github.com/langchain-ai/langchain
-- **Stars**: ⭐136,755
-- **License**: MIT
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/langchain-ai/langchain |
-| **Stars** | ⭐136,755 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/langchain-ai/langchain |
+| Stars | ⭐136755|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

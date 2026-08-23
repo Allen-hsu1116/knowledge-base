@@ -19,13 +19,14 @@ updated: 2026-06-14
 | 項目 | 內容 |
 |------|------|
 | GitHub | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) |
-| Stars | ⭐42.7k |
+| Stars | ⭐42711|
 | Language | TypeScript |
 | 建立日期 | 2025-09-27 |
 | 收錄日期 | 2026-05-18 |
 | 授權 | AGPL-3.0 (Lite) / Commercial (Pro) |
 
 ## 快速導航
+
 
 - ⚡ [[AI-Agent]] · [[prompt-security]] · [[MCP]] · [[sandbox]] · [[code-intelligence]]
 
@@ -87,6 +88,7 @@ npx @keygraph/shannon status
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[prompt-security]] · [[MCP]] · [[sandbox]] · [[code-intelligence]]
 
 ## 授權
@@ -103,13 +105,14 @@ npx @keygraph/shannon status
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/KeygraphHQ/shannon)
 - [原始資料](../raw/2026-05-18-KeygraphHQ-shannon.md)
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/KeygraphHQ/shannon |
 | Stars | ⭐42711 |
-| License | — |
+| License | 未標示 |
 | 收錄日期 | 2026-05-18 |

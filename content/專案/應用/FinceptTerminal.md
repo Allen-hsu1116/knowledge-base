@@ -10,16 +10,20 @@ topics: [AI Agent, 金融預測, 金融分析]
 
 # Fincept Terminal
 
-> ⭐22,646 · 機構級金融智慧平台，整合 37 個 AI Agent、多資產分析與 100+ 數據連接器
+> ⭐22646 · 機構級金融智慧平台，整合 37 個 AI Agent、多資產分析與 100+ 數據連接器
 
 ## 快速導航
+
 - 🧠 **AI Agent** → [[AI-Agent]]（37 個金融 AI Agent）
 - 🛠 **AI 交易** → [[HKUDS-AI-Trader|AI-Trader]]（AI 驅動的交易框架）
 - 🛠 **金融預測** → [[financial-forecasting]]（量化分析與預測）
 
 ## 是什麼
 
-Fincept Terminal 是一個純原生 C++20 桌面應用，使用 Qt6 渲染 UI、嵌入式 Python 執行分析，提供機構級金融分析能力。最獨特的是內建 37 個 AI Agent（涵蓋 Buffett、Graham、Lynch 等投資風格），支援多種 LLM 供應商（OpenAI、Anthropic、Gemini、DeepSeek 等），並整合 100+ 數據來源於一站式中。
+
+Fincept Terminal 是一個純原生 C++20 桌面應用，使用 Qt6 渲染 UI、嵌入式 Python 執行分析，提供機構級金融分析能力。
+
+最獨特的是內建 37 個 AI Agent（涵蓋 Buffett、Graham、Lynch 等投資風格），支援多種 LLM 供應商（OpenAI、Anthropic、Gemini、DeepSeek 等），並整合 100+ 數據來源於一站式中。
 
 ## 核心特色
 
@@ -58,22 +62,19 @@ docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix fincept-ter
 Fincept Terminal 與 AI-Trader 類似但更全面：後者偏學術研究，前者是生產級桌面應用，整合了交易、分析、AI Agent 和數據連接器於一身。
 
 ## 相關概念
-← [[AI-Agent]] · [[financial-forecasting]] · [[HKUDS-AI-Trader|AI-Trader]] · [[HKUDS-AI-Trader]]
+
+← [[AI-Agent]] · [[financial-forecasting]] · [[HKUDS-AI-Trader]] · [[HKUDS-AI-Trader]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/Fincept-Corporation/FinceptTerminal)
 - raw/2026-05-23-Fincept-Corporation-FinceptTerminal.md
 
 ---
 
-- **GitHub**: https://github.com/Fincept-Corporation/FinceptTerminal
-- **Stars**: ⭐22,646
-- **License**: AGPL-3.0
-- **收錄日期**: 2026-05-23
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Fincept-Corporation/FinceptTerminal |
-| **Stars** | ⭐22,646 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/Fincept-Corporation/FinceptTerminal |
+| Stars | ⭐22646|
+| License | AGPL-3.0 |
+| 收錄日期 | 2026-05-10 |

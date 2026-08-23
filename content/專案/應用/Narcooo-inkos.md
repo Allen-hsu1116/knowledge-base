@@ -13,6 +13,7 @@ topics: [AI Agent, AI Skills, 小說寫作]
 > ⭐5672 · 自主小說寫作 AI Agent — 寫、審、改全程接管。33 維度連續性審計 + AI 痕跡偵測 + 文風指紋注入，支援玄幻、仙俠、都市、科幻等多種風格。⭐5,672
 
 ## 快速導航
+
 - 🤖 **Agent 工作流** → [[AI-Agent]]（InkOS 是垂直領域 Agent 的代表作）
 - 🛠 **Agent Skills** → [[AI-Skills]]（InkOS 已發布為 OpenClaw Skill）
 - 🧠 **記憶與連續性** → [[mempalace]]（小說連續性審計 vs Agent 記憶系統）
@@ -64,23 +65,19 @@ inkos export 吞天魔帝 --format epub
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[mempalace]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Narcooo/inkos)
 - raw/2026-05-06-Narcooo-inkos.md
 
 ---
 
-- **GitHub**: https://github.com/Narcooo/inkos
-- **Stars**: ⭐5,672
-- **License**: MIT
-- **收錄日期**: 2026-05-06
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Narcooo/inkos |
-| **Stars** | ⭐'⭐5672' |
-| **收錄日期** | 2026-05-06 |
+| GitHub | https://github.com/Narcooo/inkos |
+| Stars | ⭐5672|
+| License | MIT |
+| 收錄日期 | 2026-05-06 |

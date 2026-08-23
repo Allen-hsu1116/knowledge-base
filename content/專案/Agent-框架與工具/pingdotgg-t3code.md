@@ -5,14 +5,15 @@ created: 2026-07-27
 updated: 2026-07-27
 stars: 15045
 language: TypeScript
-topics: coding-agent, web-gui, codex, claude-code, cursor, opencode
+topics: ["coding-agent", "web-gui", "codex", "claude-code", "cursor", "opencode"]
 ---
 
 # T3 Code
 
-> ⭐15k · 一個極簡的 Web GUI，讓你在瀏覽器裡管理 Codex、Claude Code、Cursor、OpenCode 等 Coding Agent。
+> ⭐15045 · 一個極簡的 Web GUI，讓你在瀏覽器裡管理 Codex、Claude Code、Cursor、OpenCode 等 Coding Agent。
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent CLI** → [[anthropics-claude-code|Claude Code]]
 - 🖥️ **OpenCode** → [[anomalyco-opencode|OpenCode]]
@@ -89,7 +90,8 @@ T3 Code 的獨特之處在於它不是 Agent 本身，而是 Agent 的「統一�
 
 ## 相關概念
 
-← [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]] · [[AI-Agent|AI Agent]]
+
+← [[anthropics-claude-code]] · [[anomalyco-opencode]] · [[AI-Agent]]
 
 ## 來源
 
@@ -98,10 +100,9 @@ T3 Code 的獨特之處在於它不是 Agent 本身，而是 Agent 的「統一�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/pingdotgg/t3code |
-| **Stars** | ⭐15,045 |
-| **License** | MIT |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-07-27 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/pingdotgg/t3code |
+| Stars | ⭐15045|
+| License | MIT |
+| 收錄日期 | 2026-07-27 |

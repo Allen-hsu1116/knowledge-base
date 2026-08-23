@@ -10,18 +10,19 @@ topics: [AI Agent, MCP, Knowledge Graph]
 
 # OpenFang
 
-> ⭐17,551 · 開源 Agent 作業系統，Rust 全寫，137K LOC、14 crates、1,767+ tests。一個二進位檔 ~32MB，自治 Agent 24/7 幫你工作。
+> ⭐17551 · 開源 Agent 作業系統，Rust 全寫，137K LOC、14 crates、1,767+ tests。一個二進位檔 ~32MB，自治 Agent 24/7 幫你工作。
 
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/RightNow-AI/openfang |
-| Stars | ⭐17,551 |
+| Stars | ⭐17551|
 | Language | Rust |
 | 建立日期 | 2026-02-24 |
 | 授權 | Apache-2.0 |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（OpenFang 是 Agent 作業系統，不是 chatbot 框架）
 - 🔌 **MCP** → [[MCP]]（Hands 可透過 MCP 擴充工具）
@@ -92,13 +93,21 @@ openfang hand list
 
 ## 跟其他方案的關係
 
+
 OpenFang 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的根本差異在於：它是作業系統，不是框架。框架是你寫程式去呼叫它，作業系統是它自己跑起來服務你。
 
 [[cft0808-edict]] 的三省六部是另一種多 Agent 架構——用制度性審核（門下省封駁）確保品質，而 OpenFang 用 Hands 的 Guardrails（審批閘門）做安全控制。兩者方向不同：三省六部是「分工制衡」，OpenFang 是「自治排程」。
 
 [[Knowledge-Graph]] 是 Collector Hand 的核心產出——持續監控目標時自動建構知識圖譜。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[cft0808-edict]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[MCP]] · [[Knowledge-Graph]] · [[cft0808-edict]]
 
@@ -109,9 +118,9 @@ OpenFang 跟 [[AI-Agent]] 框架（CrewAI、LangGraph、AutoGen）的根本差�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) |
-| Stars | ⭐17,551 |
-| License | — |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/RightNow-AI/openfang |
+| Stars | ⭐17551 |
+| License | 未標示 |
 | 收錄日期 | 2026-02-24 |

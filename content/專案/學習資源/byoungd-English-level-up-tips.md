@@ -10,14 +10,18 @@ topics: [AI Tutoring, 學習指南, 英語]
 
 # English Level Up Tips
 
-> ⭐46.7k · 離譜的英語學習指南，涵蓋聽說讀寫全方位方法論與 AI 輔助方案
+> ⭐46667 · 離譜的英語學習指南，涵蓋聽說讀寫全方位方法論與 AI 輔助方案
 
 ## 快速導航
+
 [[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education|自學資源]] · [[LLM]]
 
 ## 是什麼
 
-English Level Up Tips 是一個開源英語學習指南專案，由 byoungd 發起並由社群持續維護。它以電子書形式整理了聽、說、讀、寫四大面向的英語學習方法論，並收錄了大量實用資源與工具推薦。近年更加入了 AI 輔助學習方案，推薦使用 ChatGPT、Claude 等 LLM 工具來加速英語學習。
+
+English Level Up Tips 是一個開源英語學習指南專案，由 byoungd 發起並由社群持續維護。
+
+它以電子書形式整理了聽、說、讀、寫四大面向的英語學習方法論，並收錄了大量實用資源與工具推薦。近年更加入了 AI 輔助學習方案，推薦使用 ChatGPT、Claude 等 LLM 工具來加速英語學習。
 
 ## 核心特色
 
@@ -58,7 +62,8 @@ cd English-level-up-tips
 | 傳統英語教材 | — | 書籍/課程 | ❌ | ❌ | 單一技能 |
 
 ## 相關概念
-← [[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education|自學資源]] · [[LLM]]
+
+← [[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education]] · [[LLM]]
 
 ## 來源
 
@@ -67,10 +72,9 @@ cd English-level-up-tips
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) |
-| Stars | ⭐46,667 |
-| License | — |
-| Language | Markdown |
-| 收錄日期 | 2026-05-28 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/byoungd/English-level-up-tips |
+| Stars | ⭐46667|
+| License | 未標示 |
+| 收錄日期 | 2017-05-30 |

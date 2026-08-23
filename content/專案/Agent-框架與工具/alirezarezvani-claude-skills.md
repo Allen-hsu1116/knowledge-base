@@ -5,14 +5,15 @@ created: 2026-07-05
 updated: 2026-07-05
 stars: 20.2k
 language: Python
-topics: agent-skills, claude-code, claude-skills, coding-agent-plugins, prompt-engineering
+topics: ["agent-skills", "claude-code", "claude-skills", "coding-agent-plugins", "prompt-engineering"]
 ---
 
 # Claude Code Skills & Plugins
 
-> ⭐20.2k · 354 個生產級 Claude Code Skills + Agent Plugins，支援 13 個 AI 編碼工具
+> ⭐20200 · 354 個生產級 Claude Code Skills + Agent Plugins，支援 13 個 AI 編碼工具
 
 ## 快速導航
+
 
 - 🛠 **AI Skills 生態系** → [[AI-Skills\|AI Skills]]
 - 🧠 **Coding Agent CLI** → [[Coding-Agent-CLI\|Coding Agent CLI]]
@@ -90,6 +91,7 @@ npx agent-skills-cli add alirezarezvani/claude-skills --agent codex
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[Coding-Agent-CLI]] · [[hermes-agent]] · [[NVIDIA-SkillSpector]]
 
 ## 來源
@@ -99,10 +101,9 @@ npx agent-skills-cli add alirezarezvani/claude-skills --agent codex
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/alirezarezvani/claude-skills |
-| **Stars** | ⭐ 20,163 |
-| **License** | MIT |
-| **Language** | Python |
-| **收錄日期** | 2026-07-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/alirezarezvani/claude-skills |
+| Stars | ⭐20200|
+| License | MIT |
+| 收錄日期 | 2026-07-05 |

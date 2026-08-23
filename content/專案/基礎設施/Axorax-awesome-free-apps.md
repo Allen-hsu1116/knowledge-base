@@ -10,14 +10,18 @@ topics: [免費軟體, 工具策展, 開源]
 
 # Awesome Free Apps
 
-> ⭐5.3k · 精心策展的免費軟體清單，涵蓋 PC 和行動平台數十大類
+> ⭐5268 · 精心策展的免費軟體清單，涵蓋 PC 和行動平台數十大類
 
 ## 快速導航
+
 [[open-source-business|開源商業模式]] · [[free-software|自由軟體]] · [[self-hosted|自架服務]] · [[productivity|生產力]]
 
 ## 是什麼
 
-Awesome Free Apps 是一個社群驅動的免費軟體策展清單，涵蓋 Windows、macOS、Linux 和行動平台。分類包含音訊、瀏覽器、通訊、開發工具、文件、遊戲、圖形、安全、影片等數十大類，每個 app 都標註平台支援、是否開源及是否推薦。
+
+Awesome Free Apps 是一個社群驅動的免費軟體策展清單，涵蓋 Windows、macOS、Linux 和行動平台。
+
+分類包含音訊、瀏覽器、通訊、開發工具、文件、遊戲、圖形、安全、影片等數十大類，每個 app 都標註平台支援、是否開源及是否推薦。
 
 ## 核心特色
 
@@ -54,7 +58,8 @@ cd awesome-free-apps
 | Awesome 系列 (各主題) | — | 策展清單 | ✅ | ✅ | ❌ |
 
 ## 相關概念
-← [[open-source-business|開源商業模式]] · [[free-software|自由軟體]] · [[self-hosted|自架服務]] · [[productivity|生產力]]
+
+← [[open-source-business]] · [[free-software]] · [[self-hosted]] · [[productivity]]
 
 ## 來源
 
@@ -63,10 +68,9 @@ cd awesome-free-apps
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) |
-| Stars | ⭐5,268 |
-| License | — |
-| Language | JavaScript |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Axorax/awesome-free-apps |
+| Stars | ⭐5268|
+| License | 未標示 |
 | 收錄日期 | 2026-05-27 |

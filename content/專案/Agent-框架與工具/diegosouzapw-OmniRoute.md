@@ -5,14 +5,15 @@ created: 2026-07-02
 updated: 2026-07-02
 stars: 9.5k
 language: TypeScript
-topics: AI-Gateway, LLM, MCP, A2A, Token-Optimization, Claude-Code, Codex, Cursor
+topics: ["AI-Gateway", "LLM", "MCP", "A2A", "Token-Optimization", "Claude-Code", "Codex", "Cursor"]
 ---
 
 # OmniRoute — The Free AI Gateway
 
-> ⭐9.5k · Diego Souza · TypeScript · MIT
+> ⭐9500 · MIT
 
 ## 快速導航
+
 
 - 🧠 **LLM** → [[LLM|LLM]]
 - 🔧 **Token 優化** → [[Token-Optimization|Token Optimization]]
@@ -88,7 +89,8 @@ OmniRoute 是 [[LLM|LLM]] 基礎設施層的閘道方案，整合了 token 優�
 
 ## 相關概念
 
-← [[LLM|LLM]] · [[Token-Optimization|Token Optimization]] · [[MCP|MCP]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[rtk|RTK]] · [[JuliusBrussee-caveman|Caveman]]
+
+← [[LLM]] · [[Token-Optimization]] · [[MCP]] · [[Coding-Agent-CLI]] · [[rtk]] · [[JuliusBrussee-caveman]]
 
 ## 來源
 
@@ -99,10 +101,9 @@ OmniRoute 是 [[LLM|LLM]] 基礎設施層的閘道方案，整合了 token 優�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/diegosouzapw/OmniRoute |
-| **Stars** | ⭐9,527 |
-| **License** | MIT |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-07-02 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/diegosouzapw/OmniRoute |
+| Stars | ⭐9500|
+| License | MIT |
+| 收錄日期 | 2026-07-02 |

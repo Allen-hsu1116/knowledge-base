@@ -17,9 +17,10 @@ topics:
 
 # video-use
 
-> ⭐12.6k · 用 Claude Code 等 Coding Agent 編輯影片，把原始素材丟進資料夾，跟 Agent 聊天就能拿回 final.mp4
+> ⭐12595 · 用 Claude Code 等 Coding Agent 編輯影片，把原始素材丟進資料夾，跟 Agent 聊天就能拿回 final.mp4
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent** → [[anthropics-claude-code|Claude Code]] · [[Coding-Agent-CLI]]
 - 🎬 **影片生成** → [[AI-video-generation|AI 影片生成]] · [[content-automation|內容自動化]]
@@ -82,6 +83,7 @@ claude    # 或 codex, hermes 等
 
 ## 跟其他方案的關係
 
+
 - **[[anthropics-claude-code|Claude Code]]** → video-use 是 Claude Code 的 Skill，透過 SKILL.md 整合
 - **[[browser-use-browser-use|Browser Use]]** → 同一團隊出品，Browser Use 給 LLM 結構化 DOM，video-use 給 LLM 結構化 transcript，理念一致
 - **[[harness-engineering|Harness Engineering]]** → video-use 體現了 Harness Engineering 的精神：用好的引導和工具邊界讓 LLM 做複雜任務
@@ -90,8 +92,14 @@ claude    # 或 codex, hermes 等
 
 ← [[anthropics-claude-code|Claude Code]] · [[browser-use-browser-use|Browser Use]] · [[AI-video-generation|AI 影片生成]] · [[content-automation|內容自動化]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[anthropics-claude-code]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[browser-use-browser-use]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[anthropics-claude-code]] · [[Coding-Agent-CLI]] · [[AI-video-generation]] · [[content-automation]]
 
@@ -103,10 +111,9 @@ claude    # 或 codex, hermes 等
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [browser-use/video-use](https://github.com/browser-use/video-use) |
-| Stars | ⭐12,595 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/browser-use/video-use |
+| Stars | ⭐12595|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-01 |

@@ -13,6 +13,7 @@ topics: [AI Agent, MCP, 金融交易]
 > ⭐16611 · 由港大數據科學實驗室（HKUDS）打造的 Agent-Native 交易平台，讓 AI Agent 直接參與金融市場交易、策略分享與協作。⭐16,611
 
 ## 快速導航
+
 - 🤖 **AI Agent** → [[AI-Agent]]（AI-Trader 是 Agent 原生的交易平台）
 - 🔌 **MCP** → [[MCP]]（智能體通信協議）
 - 📊 **金融 AI** → [[daily-stock-analysis]]（每日股票分析工具）
@@ -64,23 +65,19 @@ Read https://ai4trade.ai/skill/ai4trade and register on the platform.
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[daily-stock-analysis]] · [[ZhuLinsen-daily_stock_analysis]] · [[HKUDS-Vibe-Trading]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/HKUDS/AI-Trader)
 - raw/2026-05-13-HKUDS-AI-Trader.md
 
 ---
 
-- **GitHub**: https://github.com/HKUDS/AI-Trader
-- **Stars**: ⭐16,611
-- **License**: 未明確標示
-- **收錄日期**: 2026-05-13
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/HKUDS/AI-Trader |
-| **Stars** | ⭐'⭐16611' |
-| **收錄日期** | 2026-05-13 |
+| GitHub | https://github.com/HKUDS/AI-Trader |
+| Stars | ⭐16611|
+| License | 未明確標示 |
+| 收錄日期 | 2026-05-13 |

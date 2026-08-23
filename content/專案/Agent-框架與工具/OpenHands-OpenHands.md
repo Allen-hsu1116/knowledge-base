@@ -10,9 +10,10 @@ topics: [agent, artificial-intelligence, claude-ai, developer-tools, llm, openai
 
 # OpenHands
 
-> ⭐77.4k · 自架開發者控制中心，讓 Coding Agent 成為永遠在線的工程團隊
+> ⭐77391 · 自架開發者控制中心，讓 Coding Agent 成為永遠在線的工程團隊
 
 ## 快速導航
+
 [[AI-Agent|AI Agent]] · [[Coding-Agent-CLI|Coding Agent]] · [[workflow-automation|Agent 工作流]]
 
 ## 是什麼
@@ -69,10 +70,12 @@ npm run dev
 | [[FlowiseAI-Flowise|Flowise]] | 視覺化 Agent 建構 | ✅ | ⚠️ 有限 | ❌ | 快速原型開發 |
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[Coding-Agent-CLI|Coding Agent]]
+
+← [[AI-Agent]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/OpenHands/agent-canvas)
 - GitHub：https://github.com/OpenHands/OpenHands
 - 官方文件：https://docs.openhands.dev
 - ACP 文件：https://docs.openhands.dev/openhands/usage/agent-canvas/acp-agents
@@ -80,10 +83,9 @@ npm run dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) |
-| Stars | ⭐77,391 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/OpenHands/agent-canvas |
+| Stars | ⭐77391|
 | License | MIT (enterprise 目錄另授權) |
-| Language | Python |
-| 收錄日期 | 2026-06-17 |
+| 收錄日期 | 2024-03-13 |

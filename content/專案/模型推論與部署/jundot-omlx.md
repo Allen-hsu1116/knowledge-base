@@ -10,9 +10,10 @@ topics: [apple-silicon, inference-server, llm, macos, mlx, openai-api, kv-cache,
 
 # oMLX
 
-> ⭐19k · 為 Apple Silicon 最佳化的本地 LLM 推論伺服器，以連續批次、RAM＋SSD 分層 KV Cache 與 macOS 選單列管理兼顧吞吐量和易用性
+> ⭐18991 · 為 Apple Silicon 最佳化的本地 LLM 推論伺服器，以連續批次、RAM＋SSD 分層 KV Cache 與 macOS 選單列管理兼顧吞吐量和易用性
 
 ## 快速導航
+
 
 - 🧠 **模型推論** → [[模型推論與部署]] · [[LLM]]
 - 💾 **快取最佳化** → [[kv-cache]] · [[Token-Optimization]]
@@ -79,6 +80,7 @@ oMLX 不取代所有推論引擎，而是把 vLLM 類型的伺服器能力帶到
 
 ## 相關概念
 
+
 ← [[模型推論與部署]] · [[LLM]] · [[kv-cache]] · [[self-hosted]] · [[Token-Optimization]]
 
 ## 來源
@@ -89,10 +91,9 @@ oMLX 不取代所有推論引擎，而是把 vLLM 類型的伺服器能力帶到
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | jundot/omlx |
-| Stars | ⭐19k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jundot/omlx |
+| Stars | ⭐18991|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-08-18 |

@@ -10,9 +10,10 @@ topics: [AI, PPT, 可編輯]
 
 # PPT Master
 
-> ⭐11,300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
+> ⭐11300 · AI 生成真正可編輯的 PPTX — 原生 DrawingML 形狀、文字和圖表，不是圖片塞進簡報。支援動畫、語音旁白、語音克隆。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（PPT Master 以 Skill 形式整合進 Agent 工作流）
 - 🛠️ **AI Skills** → [[AI-Skills]]（PPT Master 是 Claude Code / Cursor 等 Agent 的 skill）
@@ -20,7 +21,10 @@ topics: [AI, PPT, 可編輯]
 
 ## 是什麼
 
-PPT Master 跟其他 AI PPT 生成器最大的差異：它輸出的是真正的 PowerPoint 原生元素（DrawingML 形狀、文字框、圖表），不是把圖片塞進 PPTX 外殼。這意味著生成的簡報在 PowerPoint 裡每個元素都可以點擊、修改、調整。支援 PDF/DOCX/URL/Markdown 當輸入，也能加動畫、語音旁白、語音克隆。Python 3.10+ 即可使用。
+
+PPT Master 跟其他 AI PPT 生成器最大的差異：它輸出的是真正的 PowerPoint 原生元素（DrawingML 形狀、文字框、圖表），不是把圖片塞進 PPTX 外殼。
+
+這意味著生成的簡報在 PowerPoint 裡每個元素都可以點擊、修改、調整。支援 PDF/DOCX/URL/Markdown 當輸入，也能加動畫、語音旁白、語音克隆。Python 3.10+ 即可使用。
 
 ## 核心特色
 
@@ -81,14 +85,19 @@ pm.export_mp4("output.mp4")
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/hugohe3/ppt-master)
 - raw/2026-05-05-ppt-master.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | ⭐11,300 | MIT | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/hugohe3/ppt-master |
+| Stars | ⭐11300|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

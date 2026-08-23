@@ -10,9 +10,10 @@ topics: [aspnetcore, dotnet, web-framework, cross-platform, cloud-native]
 
 # ASP.NET Core
 
-> ⭐38.1k · 微軟開源跨平台 Web 框架，模組化設計，最小化開銷，支援雲端和本地部署。
+> ⭐38097 · 微軟開源跨平台 Web 框架，模組化設計，最小化開銷，支援雲端和本地部署。
 
 ## 快速導航
+
 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[krahets-hello-algo|Hello 算法]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
 
 ## 是什麼
@@ -77,7 +78,8 @@ ASP.NET Core 與 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] 和 [[krahets-hello-
 
 ## 相關概念
 
-← [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] · [[krahets-hello-algo|Hello 算法]] · [[codecrafters-io-build-your-own-x|Build Your Own X]]
+
+← [[freeCodeCamp-freeCodeCamp]] · [[krahets-hello-algo]] · [[codecrafters-io-build-your-own-x]]
 
 ## 來源
 
@@ -89,10 +91,9 @@ ASP.NET Core 與 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] 和 [[krahets-hello-
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) |
-| Stars | ⭐38,097 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/dotnet/aspnetcore |
+| Stars | ⭐38097|
 | License | MIT |
-| Language | C# |
-| 收錄日期 | 2026-06-19 |
+| 收錄日期 | 2014-03-11 |

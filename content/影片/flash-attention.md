@@ -14,6 +14,7 @@ topics: [llm, flash-attention, gpu-optimization, teaching]
 
 ## 快速導航
 
+
 - ⚡ [[kv-cache]] · [[LLM]] · [[Token-Optimization]] · [[llm-internals]]
 - 💾 **KV Cache** → [[kv-cache]]（Flash Attention 是 KV Cache 優化的基礎）
 - 🧭 **位置編碼演進** → [[positional-embedding-evolution]]（Transformer 另一個關鍵組件）
@@ -131,6 +132,7 @@ GPU 有兩種記憶體：
 
 ## 相關概念
 
+
 ← [[kv-cache]] · [[LLM]] · [[Token-Optimization]] · [[llm-internals]] · [[positional-embedding-evolution]] · [[gemma4-mtp-drafters]]
 
 ## 參考資料
@@ -142,6 +144,11 @@ GPU 有兩種記憶體：
 
 - [Flash Attention 課程筆記](../raw/2026-05-03-flash-attention.md)
 
----_此頁由 daily-llm-trending 自動維護_
-- **收錄日期**: 2026-05-10
-- **License**: 未標示
+---
+
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | 不適用（非 GitHub 專案；見來源） |
+| Stars | ⭐未標示 |
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

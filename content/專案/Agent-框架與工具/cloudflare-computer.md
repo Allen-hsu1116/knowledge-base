@@ -10,9 +10,10 @@ topics: [Agent, Sandbox, Virtual Filesystem, Cloudflare Workers, Durable Objects
 
 # Cloudflare Computer
 
-> ⭐4.8k · 給 AI Agent 一台虛擬電腦——Durable Object 內的 SQLite 虛擬檔案系統 + 可插拔執行層
+> ⭐4797 · 給 AI Agent 一台虛擬電腦——Durable Object 內的 SQLite 虛擬檔案系統 + 可插拔執行層
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — Agent 需要一個可操作的運算環境，Computer 提供沙箱檔案系統 + 執行層
 - 🛠 [[AI-Skills]] — Agent 技能生態的底層基礎設施，Computer 作為可程式化的工作空間
@@ -85,6 +86,7 @@ npm run dev
 
 ## 跟其他方案的關係
 
+
 Cloudflare Computer 與其他 Agent 沙箱/執行環境的比較：
 
 - **Cloudflare Computer** — 虛擬 FS + 可插拔後端，Durable Object 持久化，原生 Cloudflare 整合
@@ -95,7 +97,14 @@ Cloudflare Computer 與其他 Agent 沙箱/執行環境的比較：
 
 Computer 的獨特優勢在於 Durable Object + SQLite 的權威狀態管理，讓 Agent 的檔案系統狀態天然持久化，不需要額外的同步層。但代價是綁定 Cloudflare 生態系。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Agent]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 
@@ -106,8 +115,9 @@ Computer 的獨特優勢在於 Durable Object + SQLite 的權威狀態管理，�
 
 ---
 
-- **GitHub**: https://github.com/cloudflare/computer
-- **Stars**: ⭐4,797
-- **License**: MIT
-- **Language**: TypeScript
-- **收錄日期**: 2026-08-07
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/cloudflare/computer |
+| Stars | ⭐4797|
+| License | MIT |
+| 收錄日期 | 2026-08-07 |

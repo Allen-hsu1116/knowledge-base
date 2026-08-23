@@ -10,9 +10,10 @@ topics: [Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線]
 
 # BugHunter
 
-> ⭐2.8k · AI 驅動 Bug Bounty 獵蟲工具，recon → hunt → validate → report 全流程，免費也能跑
+> ⭐2757 · AI 驅動 Bug Bounty 獵蟲工具，recon → hunt → validate → report 全流程，免費也能跑
 
 ## 快速導航
+
 [[pentesting|滲透測試]] · [[prompt-security|Prompt 安全]] · [[AI-Agent]] · [[Coding-Agent-CLI|Coding Agent CLI]]
 
 ## 是什麼
@@ -90,7 +91,8 @@ bughunter web3-audit contract.sol # 智能合約審計
 | [[mukul975-Anthropic-Cybersecurity-Skills|Cybersecurity Skills]] | ⭐7.4k | 網安 Skills | ✅ | ✅ Claude | ❌ | ❌ |
 
 ## 相關概念
-← [[pentesting|滲透測試]] · [[AI-Agent]] · [[Coding-Agent-CLI|Coding Agent CLI]]
+
+← [[pentesting]] · [[AI-Agent]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
@@ -99,10 +101,9 @@ bughunter web3-audit contract.sol # 智能合約審計
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) |
-| Stars | ⭐2,757 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/shuvonsec/claude-bug-bounty |
+| Stars | ⭐2757|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-06-13 |

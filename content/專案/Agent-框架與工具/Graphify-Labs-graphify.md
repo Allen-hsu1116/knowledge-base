@@ -10,9 +10,10 @@ topics: [Knowledge Graph, RAG, MCP, AI Skills, Code Intelligence]
 
 # Graphify (Graphify-Labs)
 
-> ⭐104k · 把任何 codebase（程式碼、文件、PDF、圖片、影片）轉成可查詢的知識圖譜，用 tree-sitter AST 本地解析，每條邊都有 EXTRACTED/INFERRED 標籤，不需要向量資料庫。
+> ⭐104354 · 把任何 codebase（程式碼、文件、PDF、圖片、影片）轉成可查詢的知識圖譜，用 tree-sitter AST 本地解析，每條邊都有 EXTRACTED/INFERRED 標籤，不需要向量資料庫。
 
 ## 快速導航
+
 
 - 🕸️ **知識圖譜** → [[Knowledge-Graph]]
 - 🔍 **RAG** → [[rag|RAG]]
@@ -89,7 +90,8 @@ Graphify 的核心差異化：不用向量庫，用 AST 確定性解析，每條
 
 ## 相關概念
 
-← [[Knowledge-Graph]] · [[rag|RAG]] · [[AI-Skills]] · [[code-intelligence|Code Intelligence]]
+
+← [[Knowledge-Graph]] · [[rag]] · [[AI-Skills]] · [[code-intelligence]]
 
 ## 來源
 
@@ -102,10 +104,9 @@ Graphify 的核心差異化：不用向量庫，用 AST 確定性解析，每條
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) |
-| Stars | 104,354 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Graphify-Labs/graphify |
+| Stars | ⭐104354|
 | License | Apache-2.0 |
-| Language | Python |
 | 收錄日期 | 2026-08-09 |

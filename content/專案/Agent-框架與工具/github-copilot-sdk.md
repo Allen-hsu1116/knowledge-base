@@ -10,9 +10,10 @@ topics: [AI Agent, Agent SDK, MCP, BYOK]
 
 # GitHub Copilot SDK
 
-> ⭐9.2k · GitHub 官方多平台 Agent SDK——把 Copilot Agent 嵌入你的應用，6 種語言全覆蓋
+> ⭐9244 · GitHub 官方多平台 Agent SDK——把 Copilot Agent 嵌入你的應用，6 種語言全覆蓋
 
 ## 快速導航
+
 [[AI-Agent|AI Agent]] · [[anthropics-claude-code|Claude Code]] · [[github-copilot-sdk|Copilot SDK]]
 
 ## 是什麼
@@ -98,7 +99,8 @@ console.log(response.text);
 GitHub Copilot SDK 的差異化在於它是唯一一個把 Copilot CLI 的生產級 Agent 引擎用 6 種語言程式化暴露的 SDK——其他 Agent 框架要嘛只做前端 UI（CopilotKit）、要嘛只做編排邏輯（LangChain），而 Copilot SDK 是把「已經在幾十萬開發者手中驗證過的 Agent runtime」直接給你呼叫。
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[anthropics-claude-code|Claude Code]] · [[MCP|MCP]]
+
+← [[AI-Agent]] · [[anthropics-claude-code]] · [[MCP]]
 
 ## 來源
 
@@ -107,10 +109,9 @@ GitHub Copilot SDK 的差異化在於它是唯一一個把 Copilot CLI 的生產
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [github/copilot-sdk](https://github.com/github/copilot-sdk) |
-| Stars | ⭐9,244 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/github/copilot-sdk |
+| Stars | ⭐9244|
 | License | MIT |
-| Language | Java (多語言 SDK) |
 | 收錄日期 | 2026-06-06 |

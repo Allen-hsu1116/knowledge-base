@@ -10,9 +10,10 @@ topics: [Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先]
 
 # agentsview
 
-> ⭐2.4k · 本地優先的 Coding Agent 會話智慧與分析平台，支援 Claude Code、Codex 等 20+ 代理，ccusage 的 100 倍速替代。
+> ⭐2363 · 本地優先的 Coding Agent 會話智慧與分析平台，支援 Claude Code、Codex 等 20+ 代理，ccusage 的 100 倍速替代。
 
 ## 快速導航
+
 [[Coding-Agent-CLI|Coding Agent CLI]] · [[context-engineering-basics|Context Engineering]] · [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]]
 
 ## 是什麼
@@ -71,7 +72,8 @@ agentsview usage daily
 | 開源 | ✅ MIT | ✅ | ❌ | ✅ |
 
 ## 相關概念
-← [[Coding-Agent-CLI|Coding Agent CLI]] · [[anomalyco-opencode|OpenCode]]
+
+← [[Coding-Agent-CLI]] · [[anomalyco-opencode]]
 
 ## 來源
 
@@ -81,10 +83,9 @@ agentsview usage daily
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) |
-| Stars | ⭐2,363 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/kenn-io/agentsview |
+| Stars | ⭐2363|
 | License | MIT |
-| Language | Go |
-| 收錄日期 | 2026-06-14 |
+| 收錄日期 | 2026-02-19 |

@@ -10,9 +10,10 @@ topics: [context-database, rag, ai-agent]
 
 # OpenViking
 
-> ⭐23,398 · 開源 Context Database，用檔案系統範式統一管理 Agent 的記憶、資源和技能，支援分層載入和可視化檢索軌跡。（詳細參考頁）
+> ⭐26594 · 開源 Context Database，用檔案系統範式統一管理 Agent 的記憶、資源和技能，支援分層載入和可視化檢索軌跡。（詳細參考頁）
 
 ## 快速導航
+
 - ⚡ [[llm-knowledge-base]] · [[openclaw]] · [[cocoindex]]
 
 ## 是什麼
@@ -66,7 +67,8 @@ OpenViking 以檔案系統方式管理 Agent 上下文：
 OpenViking 的分層載入跟我們的雙層結構（概念頁+專案頁）異曲同工，都是為了解決「上下文太多時如何精準載入」的問題。差異在於 OpenViking 是通用 Context Database，而我們的知識庫是 LLM 編譯式方法論。OpenViking 由字節跳動開源，生態系與 Volcengine Doubao 等 VLM 深度整合。
 
 ## 相關概念
-← [[llm-knowledge-base]] · [[openclaw]] · [[cocoindex]] · [[volcengine-OpenViking]]（專案頁）
+
+← [[llm-knowledge-base]] · [[openclaw]] · [[cocoindex]] · [[volcengine-OpenViking]]
 
 ## OpenViking vs 傳統 RAG
 
@@ -79,18 +81,16 @@ OpenViking 的分層載入跟我們的雙層結構（概念頁+專案頁）異�
 | 記憶無迭代 | 只記錄互動 | 自動壓縮、提取長期記憶 |
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/volcengine/OpenViking)
 - [原始資料](../raw/volcengine-OpenViking.md)
 - [2026-05-03 素材](../raw/2026-05-03-openviking.md)
 
 ---
 
-- **GitHub**: https://github.com/volcengine/OpenViking
-- **License**: 開源
-- **收錄日期**: 2026-05
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/volcengine/OpenViking |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/volcengine/OpenViking |
+| Stars | ⭐26594|
+| License | 開源 |
+| 收錄日期 | 2026-05-10 |

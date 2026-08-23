@@ -10,9 +10,10 @@ topics: [RAG, OCR, 文件解析]
 
 # Chandra
 
-> ⭐10,444 · 高精確度 OCR 模型 — 基於視覺模型，專攻複雜表格、表單、手寫，完整保留版面結構。datalab-to 開源。
+> ⭐10444 · 高精確度 OCR 模型 — 基於視覺模型，專攻複雜表格、表單、手寫，完整保留版面結構。datalab-to 開源。
 
 ## 快速導航
+
 
 - 🗄️ **RAG** → [[docling]]（Chandra 做 OCR，docling 做文件解析 pipeline，兩者互補）
 - 🧠 **AI Agent** → [[AI-Agent]]（Chandra 可作為 Agent 的 OCR 工具）
@@ -20,7 +21,10 @@ topics: [RAG, OCR, 文件解析]
 
 ## 是什麼
 
-Chandra 是 datalab-to 開源的高精確度 OCR 模型。跟傳統 OCR（Tesseract 等）不同，它基於視覺模型（不是傳統 pipeline OCR），專門處理複雜表格、表單和手寫文字，同時完整保留文件版面結構。Python API 簡單易用，可直接整合到任何文件處理 pipeline。
+
+Chandra 是 datalab-to 開源的高精確度 OCR 模型。
+
+跟傳統 OCR（Tesseract 等）不同，它基於視覺模型（不是傳統 pipeline OCR），專門處理複雜表格、表單和手寫文字，同時完整保留文件版面結構。Python API 簡單易用，可直接整合到任何文件處理 pipeline。
 
 ## 核心特色
 
@@ -87,14 +91,19 @@ ocr_result = OCR("complex_table.pdf")
 
 ## 相關概念
 
+
 ← [[docling]] · [[AI-Agent]] · [[MCP]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/datalab-to/chandra)
 - raw/2026-05-05-datalab-to-chandra.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | ⭐10,444 | Apache-2.0 | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/datalab-to/chandra |
+| Stars | ⭐10444|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

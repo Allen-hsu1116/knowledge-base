@@ -10,9 +10,10 @@ topics: [AI-Gateway, API-relay, subscription-quota, multi-account, billing]
 
 # Sub2API
 
-> ⭐38.8k · 將 Claude、OpenAI、Gemini 與 Grok 訂閱額度轉成統一 API，集中處理帳號池、計費、限流與請求轉送的自架 AI Gateway。
+> ⭐38787 · 將 Claude、OpenAI、Gemini 與 Grok 訂閱額度轉成統一 API，集中處理帳號池、計費、限流與請求轉送的自架 AI Gateway。
 
 ## 快速導航
+
 
 - 🚪 **統一模型入口** → [[AI-Gateway]]（多供應商路由、計量與容錯的基礎設施層）
 - 🏠 **自行部署** → [[self-hosted]]（以 Docker 或 Linux 服務掌握資料與管理面）
@@ -66,6 +67,7 @@ Sub2API 和 LiteLLM 都能放在客戶端與模型服務之間，但目標不同
 
 ## 相關概念
 
+
 ← [[AI-Gateway]] · [[self-hosted]] · [[Coding-Agent-CLI]]
 
 ## 來源
@@ -77,9 +79,8 @@ Sub2API 和 LiteLLM 都能放在客戶端與模型服務之間，但目標不同
 ---
 
 | 欄位 | 資訊 |
-|---|---|
+|------|------|
 | GitHub | https://github.com/Wei-Shaw/sub2api |
-| Stars | ⭐38,787 |
+| Stars | ⭐38787|
 | License | GNU Lesser General Public License v3.0 |
-| Language | Go |
 | 收錄日期 | 2026-08-23 |

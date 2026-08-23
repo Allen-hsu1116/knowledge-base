@@ -18,11 +18,15 @@ Free Claude Code 是一個 Anthropic API 流量代理，將 Claude Code 的請�
 
 ## 快速導航
 
+
 - ⚡ [[Coding-Agent-CLI]] · [[LLM]] · [[模型推論與部署]]
 
 ## 是什麼
 
-Free Claude Code 是一個 Anthropic API 流量代理伺服器，將 Claude Code 的請求路由到 NVIDIA NIM、Kimi、Wafer、OpenRouter、DeepSeek、LM Studio、llama.cpp、Ollama 等替代 provider。它保持 Claude Code 的客戶端協議不變，讓你可以自由選擇免費、付費或本地模型。支援 per-model 路由（Opus/Sonnet/Haiku 各自導向不同後端）、原生 `/model picker`、串流與工具使用，以及 Discord/Telegram bot 封裝用於遠端 coding session。
+
+Free Claude Code 是一個 Anthropic API 流量代理伺服器，將 Claude Code 的請求路由到 NVIDIA NIM、Kimi、Wafer、OpenRouter、DeepSeek、LM Studio、llama.cpp、Ollama 等替代 provider。
+
+它保持 Claude Code 的客戶端協議不變，讓你可以自由選擇免費、付費或本地模型。支援 per-model 路由（Opus/Sonnet/Haiku 各自導向不同後端）、原生 `/model picker`、串流與工具使用，以及 Discord/Telegram bot 封裝用於遠端 coding session。
 
 ## 核心特色
 
@@ -72,9 +76,12 @@ fcc-claude
 
 ## 相關概念
 
+
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
 - [[LLM]] — 大語言模型
 - [[模型推論與部署]] — 模型推論與部署方案
+
+← [[Coding-Agent-CLI]] · [[LLM]] · [[模型推論與部署]]
 
 ## 來源
 
@@ -83,10 +90,9 @@ fcc-claude
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) |
-| Stars | ⭐26376 |
-| License | — |
-| Language | Python |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Alishahryar1/free-claude-code |
+| Stars | ⭐26376|
+| License | 未標示 |
 | 收錄日期 | 2026-05-20 |

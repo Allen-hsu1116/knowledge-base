@@ -10,9 +10,10 @@ topics: [Video-Generation, AI-Video, Content-Automation]
 
 # MoneyPrinterTurbo
 
-> ⭐80.7k · 只需提供影片主題或關鍵字，即可全自動生成影片文案、素材、字幕、背景音樂，合成高清短影片。
+> ⭐80701 · 只需提供影片主題或關鍵字，即可全自動生成影片文案、素材、字幕、背景音樂，合成高清短影片。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — AI 自動化應用
 - 🎬 [[linyqh-NarratoAI]] — AI 影視解說+剪輯
@@ -67,6 +68,7 @@ python main.py
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[linyqh-NarratoAI]] · [[feicaiclub-video-spec-builder]] · [[workflow-automation]]
 
 ## 來源
@@ -74,11 +76,12 @@ python main.py
 - **GitHub**: https://github.com/harry0703/MoneyPrinterTurbo
 - raw/2025-06-07-harry0703-MoneyPrinterTurbo.md
 - raw/2026-05-28-harry0703-MoneyPrinterTurbo.md
+
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/harry0703/MoneyPrinterTurbo |
-| Stars | ⭐ 80,701 |
+| Stars | ⭐80701|
 | License | MIT License |
 | 收錄日期 | 2025-06-07 |

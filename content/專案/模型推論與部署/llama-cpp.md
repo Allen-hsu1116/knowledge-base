@@ -10,16 +10,20 @@ topics: [LLM, 推論加速, 本地部署]
 
 # llama.cpp
 
-> ⭐109,260 · C/C++ 實現的 LLM 推論引擎，讓消費級硬體也能跑 LLaMA 模型。109K ⭐。
+> ⭐109260 · C/C++ 實現的 LLM 推論引擎，讓消費級硬體也能跑 LLaMA 模型。109K ⭐。
 
 ## 快速導航
+
 - 🧠 **LLM 底層技術** → [[llm-internals]]（llama.cpp 是推論加速的基礎設施）
 - 🏠 **本地部署** → [[模型推論與部署|Ollama]]（Ollama 底層使用 llama.cpp）
 - ⚡ **效能優化** → [[Token-Optimization]]（本地推理降低 API 成本和延遲）
 
 ## 是什麼
 
-llama.cpp 是 Georgi Gerganov 開發的 C/C++ LLM 推論引擎，最初為了讓 LLaMA 模型能在 MacBook 上運行。它純 C/C++ 實現，無外部依賴，支援多種量化格式和硬體加速，是本地 LLM 推理的基石。Ollama、LM Studio 等工具的底層都使用 llama.cpp。109K+ stars，是 LLM 生態中最受歡迎的專案之一。
+
+llama.cpp 是 Georgi Gerganov 開發的 C/C++ LLM 推論引擎，最初為了讓 LLaMA 模型能在 MacBook 上運行。
+
+它純 C/C++ 實現，無外部依賴，支援多種量化格式和硬體加速，是本地 LLM 推理的基石。Ollama、LM Studio 等工具的底層都使用 llama.cpp。109K+ stars，是 LLM 生態中最受歡迎的專案之一。
 
 ## 核心特色
 
@@ -71,22 +75,19 @@ llama.cpp 是本地 LLM 推理的基礎設施。它的價值在於讓任何人�
 | [[litellm|LiteLLM]] | API Gateway | 通用 | LiteLLM 可統一管理 llama.cpp 等本地模型 |
 
 ## 相關概念
+
 ← [[llm-internals]] · [[LLM]] · [[Token-Optimization]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/ggerganov/llama.cpp)
 - raw/2026-05-10-llama-cpp.md
 
 ---
 
-- **GitHub**: https://github.com/ggerganov/llama.cpp
-- **Stars**: ⭐109,260
-- **License**: MIT
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/ggerganov/llama.cpp |
-| **Stars** | ⭐109,260 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/ggerganov/llama.cpp |
+| Stars | ⭐109260|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

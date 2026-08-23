@@ -13,6 +13,7 @@ topics: [SSDLC, 安全評估, MCP, RAG]
 > ⭐88 · AI 驅動的 SSDLC 平台，用 LangGraph 編排六個安全 Agent，自動化軟體開發全生命週期的安全評估。
 
 ## 快速導航
+
 [[MCP]] · [[rag|RAG]] · [[pentesting|滲透測試]]
 
 ## 是什麼
@@ -89,7 +90,8 @@ python app/mcp_server.py
 | Semgrep | ⭐10k+ | SAST | 靜態分析 | — |
 
 ## 相關概念
-← [[MCP]] · [[rag|RAG]] · [[pentesting|滲透測試]]
+
+← [[MCP]] · [[rag]] · [[pentesting]]
 
 ## 來源
 
@@ -98,10 +100,9 @@ python app/mcp_server.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [arthurpanhku/DocSentinel](https://github.com/arthurpanhku/DocSentinel) |
-| Stars | ⭐88 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/arthurpanhku/DocSentinel |
+| Stars | ⭐88|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-05-29 |

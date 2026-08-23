@@ -10,9 +10,10 @@ topics: [AI Agent, 多 Agent, Harness Engineering, Agent Memory, Coding Agent, E
 
 # Munder Difflin
 
-> ⭐2.7k · 把多種終端 Coding Agent 組成一間本地虛擬辦公室，透過 supervisor、mailbox、記憶與人類審批協同工作。
+> ⭐2693 · 把多種終端 Coding Agent 組成一間本地虛擬辦公室，透過 supervisor、mailbox、記憶與人類審批協同工作。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — 多 Agent 協作與 supervisor 編排模式
 - 🧰 [[harness-engineering]] — 在既有 CLI Agent 外加上記憶、路由、安全與觀測層
@@ -75,6 +76,7 @@ Munder Difflin 位於「多 Agent 控制中心」與「既有 Coding Agent 多�
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[harness-engineering]] · [[Coding-Agent-CLI]] · [[llm-knowledge-base]]
 
 ## 來源
@@ -85,10 +87,9 @@ Munder Difflin 位於「多 Agent 控制中心」與「既有 Coding Agent 多�
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/chaitanyagiri/munder-difflin |
-| **Stars** | ⭐2,693 |
-| **License** | MIT（程式碼；素材另有限制） |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-08-20 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/chaitanyagiri/munder-difflin |
+| Stars | ⭐2693|
+| License | MIT（程式碼；素材另有限制） |
+| 收錄日期 | 2026-08-20 |

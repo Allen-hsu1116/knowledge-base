@@ -13,15 +13,14 @@ updated: 2026-06-14
 
 # Build Your Own X
 
-> ⭐504263
-
-⭐ 504k · 透過從零重建你喜歡的技術來精通程式設計——「我不能創造的東西，我就不理解。」
+> ⭐504263 · 透過從零重建你喜歡的技術來精通程式設計——「我不能創造的東西，我就不理解。」
 
 ## 一句話
 
 GitHub 上最大的「從零手做」教學合集，收錄 28 類技術的逐步教學，從 3D 渲染器、資料庫、作業系統到 AI 模型，讓你用 Feynman 的方式學會每一層。
 
 ## 快速導航
+
 
 - ⚡ [[LLM]] · [[AI-Tutoring]] · [[Coding-Agent-CLI]]
 
@@ -92,6 +91,7 @@ cd build-your-own-x
 
 ## 相關概念
 
+
 ← [[LLM]] · [[AI-Tutoring]] · [[Coding-Agent-CLI]]
 
 ## 為什麼重要
@@ -105,10 +105,9 @@ cd build-your-own-x
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) |
-| Stars | ⭐504263 |
-| License | — |
-| Language | Markdown |
-| 收錄日期 | 2026-05-25 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/codecrafters-io/build-your-own-x |
+| Stars | ⭐504263|
+| License | 未標示 |
+| 收錄日期 | 2026-05-26 |

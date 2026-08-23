@@ -10,9 +10,10 @@ topics: [ai, automation, workflow, mcp, low-code, no-code, self-hosted, integrat
 
 # n8n
 
-> ⭐192.7k · 公平碼授權的工作流自動化平台，400+ 整合 + 原生 AI 能力，自架或雲端任選
+> ⭐192675 · 公平碼授權的工作流自動化平台，400+ 整合 + 原生 AI 能力，自架或雲端任選
 
 ## 快速導航
+
 [[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]] · [[self-hosted|自架 AI 平台]]
 
 ## 是什麼
@@ -63,7 +64,8 @@ docker run -it --rm --name n8n \
 | Make/Zapier | 工作流自動化 | ❌ 基本 | ❌ 僅雲端 | 非技術用戶 |
 
 ## 相關概念
-← [[workflow-automation|工作流自動化]] · [[MCP|MCP 協議]]
+
+← [[workflow-automation]] · [[MCP]]
 
 ## 來源
 
@@ -74,10 +76,9 @@ docker run -it --rm --name n8n \
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [n8n-io/n8n](https://github.com/n8n-io/n8n) |
-| Stars | ⭐192,675 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/n8n-io/n8n |
+| Stars | ⭐192675|
 | License | Fair-code (Sustainable Use License) |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-16 |
+| 收錄日期 | 2019-06-22 |

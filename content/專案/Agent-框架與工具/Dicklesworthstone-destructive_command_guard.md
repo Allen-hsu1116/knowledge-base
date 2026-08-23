@@ -5,14 +5,15 @@ created: 2026-07-16
 updated: 2026-07-16
 stars: 4.8k
 language: Rust
-topics: Agent-Safety, Prompt-Security, Hook, Coding-Agent, Claude-Code, Codex, Gemini-CLI
+topics: ["Agent-Safety", "Prompt-Security", "Hook", "Coding-Agent", "Claude-Code", "Codex", "Gemini-CLI"]
 ---
 
 # Destructive Command Guard (dcg)
 
-> ⭐4.8k · Dicklesworthstone · Rust · Custom (MIT-based) — AI Coding Agent 的安全守衛，在危險命令執行前攔截，支援 Claude Code、Codex、Gemini CLI、Cursor、Hermes Agent 等 10+ 平台。
+> ⭐4800 · Custom (MIT-based) — AI Coding Agent 的安全守衛，在危險命令執行前攔截，支援 Claude Code、Codex、Gemini CLI、Cursor、Hermes Agent 等 10+ 平台。
 
 ## 快速導航
+
 
 - 🔒 **Prompt Security** → [[prompt-security|Prompt Security]] — AI Agent 安全概念
 - 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI|Coding Agent CLI]] — 終端 AI 編碼代理
@@ -91,6 +92,7 @@ dcg explain "git reset --hard HEAD~5"
 
 ## 跟其他方案的關係
 
+
 - **dcg vs [[NVIDIA-SkillSpector|SkillSpector]]**
 SkillSpector 掃描 Skill 檔案中的安全漏洞（Prompt Injection、資料外洩），dcg 攔截 Agent 執行時的危險命令。兩者互補：靜態掃描 vs 動態攔截。
 - **dcg vs [[mukul975-Anthropic-Cybersecurity-Skills|Cybersecurity Skills]]**
@@ -98,9 +100,15 @@ Cybersecurity Skills 是安全評估的 Agent Skill 集合，dcg 是跨 Agent �
 - **dcg vs [[arthurpanhku-DocSentinel|DocSentinel]]**
 DocSentinel 專注 SSDLC 安全評估流程，dcg 專注即時命令攔截，定位不同。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[NVIDIA-SkillSpector]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[mukul975-Anthropic-Cybersecurity-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
-← [[prompt-security|Prompt Security]] · [[Coding-Agent-CLI|Coding Agent CLI]] · [[anthropics-claude-code|Claude Code]]
+
+← [[prompt-security]] · [[Coding-Agent-CLI]] · [[anthropics-claude-code]]
 
 ## 來源
 
@@ -112,10 +120,9 @@ DocSentinel 專注 SSDLC 安全評估流程，dcg 專注即時命令攔截，定
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | Dicklesworthstone/destructive_command_guard |
-| Stars | ⭐4.8k |
-| License | Custom (MIT-based with AI rider) |
-| Language | Rust |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Dicklesworthstone/destructive_command_guard |
+| Stars | ⭐4800|
+| License | Custom (MIT-based with OpenAI/Anthropic rider) |
 | 收錄日期 | 2026-07-16 |

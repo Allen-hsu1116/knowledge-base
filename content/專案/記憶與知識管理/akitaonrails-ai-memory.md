@@ -10,9 +10,10 @@ topics: [agent-memory, coding-agent, mcp, long-term-memory, cross-agent-handoff,
 
 # ai-memory
 
-> ⭐2.1k · 為 Coding Agent CLI 提供跨 session、跨供應商的長期記憶，以生命週期 hooks 擷取觀察、Markdown wiki 固化知識並交接未完成工作
+> ⭐2064 · 為 Coding Agent CLI 提供跨 session、跨供應商的長期記憶，以生命週期 hooks 擷取觀察、Markdown wiki 固化知識並交接未完成工作
 
 ## 快速導航
+
 
 - 🧠 **Agent 長期記憶** → [[llm-knowledge-base]] · [[Context-Database]]
 - 🤖 **Coding Agent 工作流** → [[Coding-Agent-CLI]] · [[AI-Agent]]
@@ -82,6 +83,7 @@ ai-memory 聚焦 Coding Agent 的 lifecycle capture 與跨 harness 交接。它�
 
 ## 相關概念
 
+
 ← [[llm-knowledge-base]] · [[Context-Database]] · [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]] · [[harness-engineering]]
 
 ## 來源
@@ -92,10 +94,9 @@ ai-memory 聚焦 Coding Agent 的 lifecycle capture 與跨 harness 交接。它�
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | akitaonrails/ai-memory |
-| Stars | ⭐2.1k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/akitaonrails/ai-memory |
+| Stars | ⭐2064|
 | License | MIT |
-| Language | Rust |
 | 收錄日期 | 2026-08-18 |

@@ -10,16 +10,20 @@ topics: [LLM, 神經網路, 教學]
 
 # nn-zero-to-hero
 
-> ⭐22,343 · Andrej Karpathy 的神經網路教學系列，從 micrograd 到 GPT，一步步從零建構
+> ⭐22343 · Andrej Karpathy 的神經網路教學系列，從 micrograd 到 GPT，一步步從零建構
 
 ## 快速導航
+
 - 🧠 **LLM 底層技術** → [[LLM]]（Transformer 和 Tokenizer 是 LLM 核心）
 - 🛠 **LLM 從零開始** → [[rasbt-LLMs-from-scratch|LLMs from Scratch]]（另一個從零學 LLM 的資源）
 - 🛠 **Karpathy AI 課程** → [[andrej-karpathy-ai-how]]（同一作者的 AI 教學）
 
 ## 是什麼
 
-Neural Networks: Zero to Hero 是 Andrej Karpathy 在 YouTube 上的系列課程，搭配 Jupyter notebook 和練習題。課程從最基礎的 micrograd（自建反向傳播引擎）開始，經過 makemore 系列（bigram → MLP → BatchNorm → 手動 backprop → WaveNet），最終建構完整的 GPT 模型和 BPE Tokenizer。整個過程強調「從零建構、逐步理解」，讓學習者真正掌握每個環節的原理。
+
+Neural Networks: Zero to Hero 是 Andrej Karpathy 在 YouTube 上的系列課程，搭配 Jupyter notebook 和練習題。
+
+課程從最基礎的 micrograd（自建反向傳播引擎）開始，經過 makemore 系列（bigram → MLP → BatchNorm → 手動 backprop → WaveNet），最終建構完整的 GPT 模型和 BPE Tokenizer。整個過程強調「從零建構、逐步理解」，讓學習者真正掌握每個環節的原理。
 
 ## 核心特色
 
@@ -58,22 +62,19 @@ jupyter notebook
 三個資源可以互補：先看 ai-how 建立 AI 全貌理解，再用 nn-zero-to-hero 深入神經網路實作，最後用 LLMs-from-scratch 系統性學習完整的 LLM 建構流程。
 
 ## 相關概念
-← [[LLM]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[andrej-karpathy-ai-how]] · [[kv-cache]] · [[positional-embedding-evolution]]
+
+← [[LLM]] · [[rasbt-LLMs-from-scratch]] · [[andrej-karpathy-ai-how]] · [[kv-cache]] · [[positional-embedding-evolution]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/karpathy/nn-zero-to-hero)
 - raw/2026-05-23-karpathy-nn-zero-to-hero.md
 
 ---
 
-- **GitHub**: https://github.com/karpathy/nn-zero-to-hero
-- **Stars**: ⭐22,343
-- **License**: MIT
-- **收錄日期**: 2026-05-23
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/karpathy/nn-zero-to-hero.git |
-| **Stars** | ⭐22,343 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/karpathy/nn-zero-to-hero |
+| Stars | ⭐22343|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

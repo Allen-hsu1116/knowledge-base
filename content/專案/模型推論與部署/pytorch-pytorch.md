@@ -19,9 +19,10 @@ topics:
 
 # PyTorch
 
-> ⭐101.2k · Python 動態神經網路框架，GPU 加速的張量計算與自動微分，深度學習的基石
+> ⭐101233 · Python 動態神經網路框架，GPU 加速的張量計算與自動微分，深度學習的基石
 
 ## 快速導航
+
 
 - 🧠 **模型生態** → [[huggingface-transformers|Hugging Face Transformers]] · [[llama-cpp|llama.cpp]]
 - 📖 **學習資源** → [[microsoft-AI-For-Beginners|AI for Beginners]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
@@ -94,6 +95,7 @@ for epoch in range(10):
 
 ## 跟其他方案的關係
 
+
 - **[[huggingface-transformers|Hugging Face Transformers]]** → 建立在 PyTorch 之上的模型庫，PyTorch 是其預設後端
 - **[[vLLM]]** → PyTorch 基礎上的 LLM 推論引擎，利用 PyTorch 的 CUDA 操作實現 PagedAttention
 - **TensorFlow** → Google 的競爭框架，靜態圖設計，PyTorch 在研究界更受歡迎
@@ -102,8 +104,14 @@ for epoch in range(10):
 
 ← [[huggingface-transformers|Hugging Face Transformers]] · [[vLLM]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[huggingface-transformers]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[vLLM]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[huggingface-transformers]] · [[llama-cpp]] · [[microsoft-AI-For-Beginners]] · [[rasbt-LLMs-from-scratch]]
 
@@ -116,10 +124,9 @@ for epoch in range(10):
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [pytorch/pytorch](https://github.com/pytorch/pytorch) |
-| Stars | ⭐101,233 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/pytorch/pytorch |
+| Stars | ⭐101233|
 | License | BSD-style (開源) |
-| Language | Python / C++ |
 | 收錄日期 | 2026-07-03 |

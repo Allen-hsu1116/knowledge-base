@@ -10,9 +10,10 @@ topics: [prompt-engineering, rag, ai-agents, llms, generative-ai, deep-learning,
 
 # Prompt Engineering Guide
 
-> ⭐75.7k · Prompt Engineering 最完整的學習資源——論文、教學、筆記、課程一站搞定
+> ⭐75657 · Prompt Engineering 最完整的學習資源——論文、教學、筆記、課程一站搞定
 
 ## 快速導航
+
 [[Prompt-Engineering|Prompt Engineering]] · [[rag|RAG]] · [[self-correction|自我修正]]
 
 ## 是什麼
@@ -60,7 +61,8 @@ pnpm dev
 | [[context-engineering-basics|Context Engineering]] | 學習資源 | Context Eng | 文章 | 理解上下文工程 |
 
 ## 相關概念
-← [[Prompt-Engineering|Prompt Engineering]] · [[rag|RAG]]
+
+← [[Prompt-Engineering]] · [[rag]]
 
 ## 來源
 
@@ -71,10 +73,9 @@ pnpm dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) |
-| Stars | ⭐75,657 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/dair-ai/Prompt-Engineering-Guide |
+| Stars | ⭐75657|
 | License | MIT |
-| Language | MDX |
-| 收錄日期 | 2026-06-16 |
+| 收錄日期 | 2022-12-16 |

@@ -16,9 +16,10 @@ topics:
 
 # Prompt Optimizer
 
-> ⭐31.5k · AI 提示詞優化工具，一鍵改善 prompt 品質，支援多模型、圖片生成和 MCP 整合
+> ⭐31489 · AI 提示詞優化工具，一鍵改善 prompt 品質，支援多模型、圖片生成和 MCP 整合
 
 ## 快速導航
+
 - 🧠 **Prompt Engineering** → [[Prompt-Engineering]]
 - ⚡ **Token Optimization** → [[Token-Optimization]]
 - 🔌 **MCP** → [[MCP]]
@@ -81,6 +82,7 @@ npm run dev
 
 ## 相關概念
 
+
 ← [[Prompt-Engineering]] · [[Token-Optimization]] · [[MCP]]
 
 ## 來源
@@ -90,10 +92,9 @@ npm run dev
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) |
-| Stars | ⭐31,489 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/linshenkx/prompt-optimizer |
+| Stars | ⭐31489|
 | License | AGPL-3.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-28 |

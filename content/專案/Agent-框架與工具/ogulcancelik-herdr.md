@@ -27,9 +27,10 @@ topics:
 
 # herdr
 
-> ⭐9k · 終端機裡的 Agent 多工器，一個 binary 管理所有 Coding Agent，即時看到誰在忙、誰卡住、誰完成了
+> ⭐9013 · 終端機裡的 Agent 多工器，一個 binary 管理所有 Coding Agent，即時看到誰在忙、誰卡住、誰完成了
 
 ## 快速導航
+
 
 - 🤖 **Coding Agent** → [[anthropics-claude-code|Claude Code]] · [[Coding-Agent-CLI]]
 - 🏗 **Agent 編排** → [[AI-Agent]] · [[harness-engineering|Agent Harness 優化]]
@@ -105,6 +106,7 @@ npx skills add ogulcancelik/herdr --skill herdr -g
 
 ## 跟其他方案的關係
 
+
 - **tmux** → herdr 的精神前身，但 tmux 不知道哪個 pane 是 Agent、什麼狀態，herdr 原生支援 Agent 狀態偵測
 - **[[nesquena-hermes-webui|Hermes WebUI]]** → Web UI 管理 Coding Agent，herdr 是終端機原生的方案
 - **[[kenn-io-agentsview|agentsview]]** → Coding Agent 分析工具，herdr 更偏向即時操作和編排
@@ -113,8 +115,14 @@ npx skills add ogulcancelik/herdr --skill herdr -g
 
 ← [[anthropics-claude-code|Claude Code]] · [[Coding-Agent-CLI]] · [[AI-Agent]] · [[nesquena-hermes-webui|Hermes WebUI]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[nesquena-hermes-webui]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[kenn-io-agentsview]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[anthropics-claude-code]] · [[Coding-Agent-CLI]] · [[AI-Agent]] · [[harness-engineering]]
 
@@ -127,10 +135,9 @@ npx skills add ogulcancelik/herdr --skill herdr -g
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
-| Stars | ⭐9,013 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ogulcancelik/herdr |
+| Stars | ⭐9013|
 | License | AGPL-3.0 (雙授權：開源 AGPL + 商業授權) |
-| Language | Rust |
 | 收錄日期 | 2026-07-01 |

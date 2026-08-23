@@ -10,9 +10,10 @@ topics: [cli, ai, jetbrains, vscode, gemini, vscode-extension, claude, ai-coding
 
 # Kilo Code
 
-> ⭐23.4k · 開源 AI 編碼 Agent——VS Code、JetBrains、CLI 三棲，500+ 模型零加價，MCP 市場整合。
+> ⭐23359 · 開源 AI 編碼 Agent——VS Code、JetBrains、CLI 三棲，500+ 模型零加價，MCP 市場整合。
 
 ## 快速導航
+
 [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]] · [[MCP]] · [[OpenHands-OpenHands|OpenHands]]
 
 ## 是什麼
@@ -74,7 +75,8 @@ kilo run --auto "run tests and fix any failures"
 
 ## 相關概念
 
-← [[anthropics-claude-code|Claude Code]] · [[anomalyco-opencode|OpenCode]] · [[MCP]] · [[OpenHands-OpenHands|OpenHands]]
+
+← [[anthropics-claude-code]] · [[anomalyco-opencode]] · [[MCP]] · [[OpenHands-OpenHands]]
 
 ## 來源
 
@@ -85,10 +87,9 @@ kilo run --auto "run tests and fix any failures"
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) |
-| Stars | ⭐23,359 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Kilo-Org/kilocode |
+| Stars | ⭐23359|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-21 |

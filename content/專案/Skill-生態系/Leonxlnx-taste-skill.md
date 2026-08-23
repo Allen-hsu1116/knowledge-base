@@ -18,6 +18,7 @@ Taste Skill 是一系列可攜式的 Agent Skill，讓 AI 生成的前端不再�
 
 ## 快速導航
 
+
 - ⚡ [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[AI-Skills]]
 
 ## 是什麼
@@ -58,6 +59,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 
 ## 跟其他方案的關係
 
+
 - **程式碼 Skill 清單**：
   - `design-taste-frontend`（v2 主技能）、`design-taste-frontend-v1`（v1 穩定版）、`gpt-taste`（GPT/Codex 專用）、`image-to-code`（圖→碼流程）、`redesign-existing-projects`（重設計）、`high-end-visual-design`（柔和高級）、`full-output-enforcement`（完整輸出）、`minimalist-ui`（極簡）、`industrial-brutalist-ui`（粗獷）、`stitch-design-taste`（Google Stitch）
 - **圖像 Skill 清單**：`imagegen-frontend-web`、`imagegen-frontend-mobile`、`brandkit`
@@ -66,19 +68,28 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 - 屬於 [[AI-Skills]] 中的前端風格類 Skill
 - v2 的 brief inference 和 design-system map 與 [[Prompt-Engineering]] 密切相關
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[Prompt-Engineering]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Leonxlnx/taste-skill)
 - [原始資料](../raw/2026-06-07-Leonxlnx-taste-skill.md)
 - raw/2026-05-26-Leonxlnx-taste-skill.md
+
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Leonxlnx/taste-skill |
-| **Stars** | ⭐36016 |
-| **收錄日期** | 2026-02-19 |
-| **License** | MIT |
+| GitHub | https://github.com/Leonxlnx/taste-skill |
+| Stars | ⭐36016|
+| License | MIT |
+| 收錄日期 | 2026-02-19 |

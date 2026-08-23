@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, AI Skills]
 
 # Agent Reach
 
-> ⭐18,700 · AI Agent 的網路能力腳手架 — 一鍵裝上 15+ 平台的存取能力，不改框架，只做安裝設定。
+> ⭐18700 · AI Agent 的網路能力腳手架 — 一鍵裝上 15+ 平台的存取能力，不改框架，只做安裝設定。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（Agent Reach 讓 Agent 從「只能本地操作」變成「能上網」）
 - 🔌 **MCP** → [[MCP]]（Agent Reach 的通道可透過 MCP 整合）
@@ -68,23 +69,19 @@ Agent Reach 解決的是「Agent 能力邊界」問題。跟 [[jackwener-OpenCLI
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Panniantong/Agent-Reach)
 - raw/2026-05-05-agent-reach.md
 
 ---
 
-- **GitHub**: https://github.com/Panniantong/Agent-Reach
-- **Stars**: ⭐18,700
-- **License**: MIT
-- **收錄日期**: 2026-05-05
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/Panniantong/Agent-Reach |
-| **Stars** | ⭐18,700 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/Panniantong/Agent-Reach |
+| Stars | ⭐18700|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

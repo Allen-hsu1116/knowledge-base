@@ -10,9 +10,10 @@ topics: [Agent Skills, 開源 Skill 庫]
 
 # addyosmani/agent-skills
 
-> ⭐37.9k · Addy Osmani 維護的通用 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。⭐37.9k
+> ⭐37900 · Addy Osmani 維護的通用 Agent Skills 開源專案，提供一系列可直接安裝使用的 AI Agent Skill，涵蓋程式開發、除錯、重構、文件撰寫等領域。⭐37.9k
 
 ## 快速導航
+
 
 - 🛠 **AI Skills** → [[AI-Skills]]（Agent Skills 的概念頁）
 - 🌐 **Agent Skills 生態系** → [[AI-Skills]]（Skills 生態系統觀）
@@ -64,11 +65,19 @@ skills/
 
 ## 跟其他方案的關係
 
+
 addyosmani/agent-skills 是 [[AI-Skills|Agent Skills 生態系]] 的核心專案之一。它跟 [[google-skills|Google Skills]] 使用相同的 skills.sh 分發標準和 SKILL.md 格式，兩者可以共存互補：addyosmani 版通用於軟體開發全流程，Google 版專注於 Google Cloud 服務。
 
 格式上與 [[openclaw|OpenClaw]] 的 SKILL.md 完全相容，OpenClaw 使用者可以直接安裝使用。與 [[llm-knowledge-base|Karpathy Skills]] 相比，addyosmani 版更注重軟體工程實踐（審查、除錯、優化），Karpathy 版更注重研究自動化。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[google-skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[AI-Skills]] · [[AI-Skills]] · [[MCP]] · [[google-skills]]
 
@@ -80,11 +89,9 @@ addyosmani/agent-skills 是 [[AI-Skills|Agent Skills 生態系]] 的核心專案
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/addyosmani/agent-skills |
-| Stars | ⭐42,774 |
-| Language | Shell |
-| 建立日期 | 2026-02-15 |
-| 授權 | MIT |
+| Stars | ⭐37900|
+| License | 未標示 |
 | 收錄日期 | 2026-04-28 |

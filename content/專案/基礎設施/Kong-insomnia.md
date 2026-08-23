@@ -10,9 +10,10 @@ topics: [api-client, graphql, rest, grpc, websockets, open-source, electron-app]
 
 # Insomnia
 
-> ⭐38.7k · 開源跨平台 API client，支援 GraphQL、REST、WebSockets、SSE、gRPC，本地/Git/雲端三種儲存。
+> ⭐38681 · 開源跨平台 API client，支援 GraphQL、REST、WebSockets、SSE、gRPC，本地/Git/雲端三種儲存。
 
 ## 快速導航
+
 [[self-hosted|自架]] · [[n8n-io-n8n|n8n]] · [[open-source-business|開源商業模式]]
 
 ## 是什麼
@@ -70,7 +71,8 @@ Insomnia 與 [[n8n-io-n8n|n8n]]（工作流自動化）和 [[self-hosted|自架]
 
 ## 相關概念
 
-← [[self-hosted|自架]] · [[n8n-io-n8n|n8n]] · [[open-source-business|開源商業模式]]
+
+← [[self-hosted]] · [[n8n-io-n8n]] · [[open-source-business]]
 
 ## 來源
 
@@ -82,10 +84,9 @@ Insomnia 與 [[n8n-io-n8n|n8n]]（工作流自動化）和 [[self-hosted|自架]
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Kong/insomnia](https://github.com/Kong/insomnia) |
-| Stars | ⭐38,681 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Kong/insomnia |
+| Stars | ⭐38681|
 | License | Apache-2.0 |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-19 |
+| 收錄日期 | 2016-04-23 |

@@ -10,9 +10,10 @@ topics: [RAG, 文件解析, OCR]
 
 # PyMuPDF4LLM
 
-> ⭐1,664 · 一行把 PDF 轉成 LLM 友善的 Markdown/JSON，免 GPU 免雲端。
+> ⭐1664 · 一行把 PDF 轉成 LLM 友善的 Markdown/JSON，免 GPU 免雲端。
 
 ## 快速導航
+
 
 - [[docling]] — 文件解析（Docling）
 - [[cocoindex]] — 增量索引
@@ -20,7 +21,10 @@ topics: [RAG, 文件解析, OCR]
 
 ## 是什麼
 
-pymupdf/pymupdf4llm 是 PyMuPDF 的輕量擴展，把 PDF 和其他文件轉成結構化的 Markdown、JSON 和純文字，專為 RAG 管線、向量嵌入和 LLM 攝取最佳化。底層用 MuPDF C 引擎，不需要 GPU。
+
+pymupdf/pymupdf4llm 是 PyMuPDF 的輕量擴展，把 PDF 和其他文件轉成結構化的 Markdown、JSON 和純文字，專為 RAG 管線、向量嵌入和 LLM 攝取最佳化。
+
+底層用 MuPDF C 引擎，不需要 GPU。
 
 ## 核心特色
 
@@ -98,17 +102,24 @@ pages = loader.load()
 
 ## 相關概念
 
+
 - [[docling]]
 - [[cocoindex]]
 - [[microsoft-markitdown]]
 - [[Knowledge-Graph|Knowledge Graph]]
 
+← [[docling]] · [[cocoindex]] · [[microsoft-markitdown]] · [[Knowledge-Graph]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/pymupdf/pymupdf4llm)
 - raw/2026-05-08-pymupdf4llm.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) | ⭐1,664 | AGPL-3.0 | 2026-05-08 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/pymupdf/pymupdf4llm |
+| Stars | ⭐1664|
+| License | AGPL-3.0 |
+| 收錄日期 | 2026-05-10 |

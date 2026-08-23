@@ -14,9 +14,10 @@ topics:
 
 # Website Downloader
 
-> ⭐4k · 下載任何網站的完整原始碼（含所有資源）——JavaScript、CSS、圖片，用 wget + archiver 一鍵打包
+> ⭐3999 · 下載任何網站的完整原始碼（含所有資源）——JavaScript、CSS、圖片，用 wget + archiver 一鍵打包
 
 ## 快速導航
+
 - [[網頁爬蟲]]
 - [[self-hosted]]
 - [[productivity]]
@@ -80,7 +81,8 @@ npm start
 
 ## 相關概念
 
-← [[網頁爬蟲] · [[self-hosted] · [[productivity] · [[firecrawl-firecrawl] · [[D4Vinci-Scrapling]
+
+← [[網頁爬蟲]] · [[self-hosted]]
 
 ## 來源
 
@@ -91,10 +93,9 @@ npm start
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) |
-| Stars | ⭐3,999 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/AhmadIbrahiim/Website-downloader |
+| Stars | ⭐3999|
 | License | MIT |
-| Language | HTML |
 | 收錄日期 | 2026-07-08 |

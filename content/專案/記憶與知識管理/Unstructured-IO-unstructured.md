@@ -10,9 +10,10 @@ topics: [data-pipelines, document-parser, document-parsing, llm, nlp, ocr, pdf, 
 
 # Unstructured
 
-> ⭐15.3k · 開源 ETL 工具，將 PDF、HTML、Word 等 60+ 種非結構化文件轉換為 LLM 可用的結構化資料
+> ⭐15313 · 開源 ETL 工具，將 PDF、HTML、Word 等 60+ 種非結構化文件轉換為 LLM 可用的結構化資料
 
 ## 快速導航
+
 
 - 📄 **文件解析** → [[opendataloader-project-opendataloader-pdf]] · [[document-parsing]]
 - 🔍 **RAG** → [[langgenius-dify]] · [[rag]]
@@ -78,7 +79,8 @@ print("\n\n".join([str(el) for el in elements]))
 
 ## 相關概念
 
-← [[opendataloader-project-opendataloader-pdf]] · [[document-parsing]] · [[rag]] · [[langgenius-dify]] · OCR Memory
+
+← [[opendataloader-project-opendataloader-pdf]] · [[document-parsing]] · [[rag]] · [[langgenius-dify]]
 
 ## 來源
 
@@ -88,10 +90,9 @@ print("\n\n".join([str(el) for el in elements]))
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | Unstructured-IO/unstructured |
-| Stars | ⭐15.3k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Unstructured-IO/unstructured |
+| Stars | ⭐15313|
 | License | Apache-2.0 |
-| Language | HTML (Python library) |
 | 收錄日期 | 2026-08-16 |

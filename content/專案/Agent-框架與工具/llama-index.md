@@ -10,16 +10,20 @@ topics: [RAG, 資料框架, 文件解析]
 
 # LlamaIndex
 
-> ⭐49,422 · LLM 資料框架，專注資料攝取、索引和查詢，讓 LLM 輕鬆連接私有資料。49K+ ⭐。
+> ⭐49422 · LLM 資料框架，專注資料攝取、索引和查詢，讓 LLM 輕鬆連接私有資料。49K+ ⭐。
 
 ## 快速導航
+
 - 📚 **RAG** → [[rag]]（LlamaIndex 是 RAG 的主流框架之一）
 - 🤖 **AI Agent** → [[AI-Agent]]（LlamaAgents 支援文件 Agent 部署）
 - 🔍 **文件解析** → [[document-parsing]]（LlamaParse 支援 130+ 格式）
 
 ## 是什麼
 
-LlamaIndex 是 LLM 資料框架，提供資料連接器、索引建構和查詢引擎，讓開發者把私有資料（API、PDF、SQL 等）接入 LLM。5 行程式碼就能建好索引並查詢，底層也可深度客製化。
+
+LlamaIndex 是 LLM 資料框架，提供資料連接器、索引建構和查詢引擎，讓開發者把私有資料（API、PDF、SQL 等）接入 LLM。
+
+5 行程式碼就能建好索引並查詢，底層也可深度客製化。
 
 ## 核心特色
 
@@ -69,27 +73,25 @@ Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 ## 相關概念
 
+
 - [[rag]] — 檢索增強生成
 - [[document-parsing]] — 文件解析
 - [[AI-Agent]] — AI Agent
 - [[LangChain]] — LLM 應用開發框架
 - [[向量資料庫]] — 向量資料庫
 
+← [[rag]] · [[document-parsing]] · [[AI-Agent]] · [[LangChain]] · [[向量資料庫]]
+
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/run-llama/llama_index)
 - raw/2026-05-15-llama-index.md
 
 ---
 
-- **GitHub**: https://github.com/run-llama/llama_index
-- **Stars**: ⭐49,422
-- **License**: MIT
-- **收錄日期**: 2026-05-15
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/run-llama/llama_index |
-| **Stars** | ⭐49,422 |
-| **收錄日期** | 2026-05-15 |
+| GitHub | https://github.com/run-llama/llama_index |
+| Stars | ⭐49422|
+| License | MIT |
+| 收錄日期 | 2026-05-15 |

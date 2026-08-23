@@ -10,9 +10,10 @@ topics: [AI, 短劇, 影片製作]
 
 # waoowaoo AI 影視 Studio
 
-> ⭐12,000 · AI 短劇/漫畫視頻製作工具 — 從小說文本自動生成分鏡、角色、場景，組裝成帶語音旁白的完整視頻。Next.js 15 + React 19。
+> ⭐12000 · AI 短劇/漫畫視頻製作工具 — 從小說文本自動生成分鏡、角色、場景，組裝成帶語音旁白的完整視頻。Next.js 15 + React 19。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（waoowaoo 的全流程自動化是 multi-agent 協作的應用）
 - 🛠️ **AI Skills** → [[AI-Skills]]（waoowaoo 每個環節都是獨立 AI 能力）
@@ -20,7 +21,10 @@ topics: [AI, 短劇, 影片製作]
 
 ## 是什麼
 
-waoowaoo 是一個 AI 驅動的短劇和漫畫視頻製作工具。輸入小說文本，它自動拆解出角色、場景、分鏡，然後用 AI 生成角色和場景圖像，最後組裝成帶語音旁白的完整視頻。支援中英雙語 UI。技術棧為 Next.js 15 + React 19 + MySQL + Prisma + Redis + BullMQ，Docker 一鍵部署。
+
+waoowaoo 是一個 AI 驅動的短劇和漫畫視頻製作工具。
+
+輸入小說文本，它自動拆解出角色、場景、分鏡，然後用 AI 生成角色和場景圖像，最後組裝成帶語音旁白的完整視頻。支援中英雙語 UI。技術棧為 Next.js 15 + React 19 + MySQL + Prisma + Redis + BullMQ，Docker 一鍵部署。
 
 ## 核心特色
 
@@ -81,14 +85,19 @@ npm run dev
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/saturndec/waoowaoo)
 - raw/2026-05-05-waoowaoo.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) | ⭐12,000 | — | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/saturndec/waoowaoo |
+| Stars | ⭐12000|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

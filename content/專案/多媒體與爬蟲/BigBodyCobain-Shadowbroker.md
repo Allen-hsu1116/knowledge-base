@@ -10,16 +10,20 @@ topics: [OSINT, AI Agent, 情報平台]
 
 # BigBodyCobain Shadowbroker
 
-> ⭐7,555 · 開源即時地理空間情報平台，整合 60+ 情報源到單一互動地圖，支援 AI Agent 共同分析。7.5K ⭐。
+> ⭐7555 · 開源即時地理空間情報平台，整合 60+ 情報源到單一互動地圖，支援 AI Agent 共同分析。7.5K ⭐。
 
 ## 快速導航
+
 - 🛠 **沙盒環境** → [[sandbox]]（開放式安全研究環境）
 - 🕸 **網頁爬蟲** → [[網頁爬蟲]]（大規模公開資料收集技術）
 - 🤖 **AI Agent** → [[AI-Agent]]（Agent 指令通道整合）
 
 ## 是什麼
 
-Shadowbroker 是一個分散式情報平台，將 60+ 個公開情報源（飛機 ADS-B、船舶 AIS、衛星、地震、CCTV、GPS 干擾、警用頻道等）匯聚到單一互動地圖介面。支援 Docker 一鍵部署，內建 AI Agent 指令通道（HMAC 簽章），讓 AI Agent 可以作為共同分析師操作所有圖層。基於 Next.js + MapLibre GL + FastAPI + Python 建構。
+
+Shadowbroker 是一個分散式情報平台，將 60+ 個公開情報源（飛機 ADS-B、船舶 AIS、衛星、地震、CCTV、GPS 干擾、警用頻道等）匯聚到單一互動地圖介面。
+
+支援 Docker 一鍵部署，內建 AI Agent 指令通道（HMAC 簽章），讓 AI Agent 可以作為共同分析師操作所有圖層。基於 Next.js + MapLibre GL + FastAPI + Python 建構。
 
 ## 核心特色
 
@@ -74,22 +78,19 @@ helm install shadowbroker ./helm/chart --create-namespace --namespace shadowbrok
 - AI Agent 整合是獨特賣點：大多 OSINT 工具不原生支援 Agent 操控
 
 ## 相關概念
+
 ← [[sandbox]] · [[網頁爬蟲]] · [[AI-Agent]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/bigbodycobain/Shadowbroker)
 - raw/2026-05-19-BigBodyCobain-Shadowbroker.md
 
 ---
 
-- **GitHub**: https://github.com/BigBodyCobain/Shadowbroker
-- **Stars**: ⭐7,555
-- **License**: MIT
-- **收錄日期**: 2026-05-19
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/bigbodycobain/Shadowbroker.git |
-| **Stars** | ⭐7,555 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/bigbodycobain/Shadowbroker |
+| Stars | ⭐7555|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

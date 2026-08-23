@@ -10,9 +10,10 @@ topics: [fine-tuning, llm, self-hosted, reinforcement-learning, qwen, deepseek, 
 
 # Unsloth
 
-> ⭐71.1k · 本地桌面應用，一鍵跑和訓練 LLM、Diffusion、TTS、Embedding 模型——2x 更快、70% 更少 VRAM，支援 Claude Code/Codex/Hermes Agent 連接本地模型
+> ⭐71060 · 本地桌面應用，一鍵跑和訓練 LLM、Diffusion、TTS、Embedding 模型——2x 更快、70% 更少 VRAM，支援 Claude Code/Codex/Hermes Agent 連接本地模型
 
 ## 快速導航
+
 
 - 🧠 **LLM 本地部署** → [[Ollama]] · [[llama-cpp]]
 - 🎯 **模型推論與部署** → [[模型推論與部署]]
@@ -77,6 +78,7 @@ docker run -d -e JUPYTER_PASSWORD="mypassword" \
 
 ## 跟其他方案的關係
 
+
 - **Ollama**：專注本地推論，不提供訓練功能。Unsloth 可以匯出 GGUF 格式給 Ollama 跑
 - **llama.cpp**：C++ 推論引擎，Unsloth 底層使用它做 GGUF 推論
 - **LlamaFactory**：另一個微調工具，提供 Web UI，但不提供桌面 App 和 agent 整合
@@ -85,9 +87,16 @@ docker run -d -e JUPYTER_PASSWORD="mypassword" \
 
 Unsloth 的定位是「本地 AI 的瑞士刀」——從訓練到推論到 agent 整合一條龍，目標是讓任何人都能在自己的機器上跑和訓練模型，不需要雲端帳號或 API key。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[Ollama]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[llama-cpp]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
 
-← [[Ollama]] · [[llama-cpp]] · [[模型推論與部署]] · [[self-hosted]] · [[anthropics-claude-code]] · [[MCP]] · [[vLLM]]
+
+← [[Ollama]] · [[llama-cpp]] · [[模型推論與部署]] · [[self-hosted]] · [[anthropics-claude-code]] · [[MCP]]
 
 ## 來源
 
@@ -97,10 +106,9 @@ Unsloth 的定位是「本地 AI 的瑞士刀」——從訓練到推論到 agen
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | unslothai/unsloth |
-| Stars | ⭐71.1k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/unslothai/unsloth |
+| Stars | ⭐71060|
 | License | Apache-2.0 / AGPL-3.0 |
-| Language | Python |
 | 收錄日期 | 2026-08-14 |

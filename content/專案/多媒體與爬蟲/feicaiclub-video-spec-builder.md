@@ -14,6 +14,7 @@ topics: [Video-Generation, Spec-Driven, Coding-Agent]
 
 ## 快速導航
 
+
 - 🤖 [[AI-Agent]] — AI 智能體工作流
 - 🎬 [[harry0703-MoneyPrinterTurbo]] — AI 短影片生成工具
 - 🎞️ [[linyqh-NarratoAI]] — AI 影視解說+剪輯
@@ -61,6 +62,7 @@ npx skills add feicaiclub/video-spec-builder -g
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[harry0703-MoneyPrinterTurbo]] · [[linyqh-NarratoAI]] · [[workflow-automation]]
 
 ## 來源
@@ -70,9 +72,9 @@ npx skills add feicaiclub/video-spec-builder -g
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/feicaiclub/video-spec-builder |
-| Stars | ⭐ 306 |
+| Stars | ⭐306|
 | License | MIT License |
 | 收錄日期 | 2025-06-07 |

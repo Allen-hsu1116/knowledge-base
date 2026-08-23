@@ -10,9 +10,10 @@ topics: ["prompt-engineering", "system-prompts", "ai-agents", "llm", "claude", "
 
 # System Prompts Leaks
 
-> ⭐44.4k · 系統提示詞洩漏合集，收錄 Claude、ChatGPT、Gemini、Grok 等主流 AI 產品的隱藏指令
+> ⭐44397 · 系統提示詞洩漏合集，收錄 Claude、ChatGPT、Gemini、Grok 等主流 AI 產品的隱藏指令
 
 ## 快速導航
+
 
 [[Prompt-Engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]] · [[anthropics-claude-code|Claude Code]] · [[AI-Agent]]
 
@@ -77,7 +78,8 @@ cat Anthropic/claude-code-glob-grep-tools.md
 
 ## 相關概念
 
-← [[Prompt-Engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]]
+
+← [[Prompt-Engineering]] · [[x1xhlol-system-prompts-and-models-of-ai-tools]]
 
 ## 來源
 
@@ -86,10 +88,9 @@ cat Anthropic/claude-code-glob-grep-tools.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) |
-| Stars | ⭐44,397 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/asgeirtj/system_prompts_leaks |
+| Stars | ⭐44397|
 | License | 未指定 |
-| Language | JavaScript |
 | 收錄日期 | 2026-06-22 |

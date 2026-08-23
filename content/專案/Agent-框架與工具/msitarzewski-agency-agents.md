@@ -18,11 +18,15 @@ The Agency 是一系列精心打造的 AI agent 人格集合。每個 agent 都�
 
 ## 快速導航
 
+
 - ⚡ [[agent-persona]] · [[AI-Skills]] · [[AI-Agent]] · [[Coding-Agent-CLI]]
 
 ## 是什麼
 
-Agency Agents 是一系列精心打造的 AI agent 人格集合，定位為「完整 AI Agency」。每個 agent 都有深度領域專長、獨特性格與溝通風格、以及可交付的工作流程與程式碼。不是通用的 prompt 模板，而是有性格、有流程、有可衡量成果的專家——涵蓋 Engineering、Creative、Business、Community、Operations、Quality 等六大部門，共 144+ 角色。MIT 授權，支援多種 AI coding 工具。
+
+Agency Agents 是一系列精心打造的 AI agent 人格集合，定位為「完整 AI Agency」。
+
+每個 agent 都有深度領域專長、獨特性格與溝通風格、以及可交付的工作流程與程式碼。不是通用的 prompt 模板，而是有性格、有流程、有可衡量成果的專家——涵蓋 Engineering、Creative、Business、Community、Operations、Quality 等六大部門，共 144+ 角色。MIT 授權，支援多種 AI coding 工具。
 
 ## 核心特色
 
@@ -63,11 +67,14 @@ python convert.py --tool cursor --agent frontend-developer
 
 ## 相關概念
 
+
 - [[AI-Agent]] — Agent 架構與設計
 - [[AI-Skills]] — Agent 技能系統
 - [[Coding-Agent-CLI]] — 終端 coding agent 工具
 - [[agent-persona]] — Agent 人格設計
 - [[AI-Skills]] — Agent 技能生態系
+
+← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]] · [[agent-persona]] · [[AI-Skills]]
 
 ## 來源
 
@@ -76,10 +83,9 @@ python convert.py --tool cursor --agent frontend-developer
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) |
-| Stars | ⭐101621 |
-| License | — |
-| Language | Shell |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/msitarzewski/agency-agents |
+| Stars | ⭐101621|
+| License | 未標示 |
 | 收錄日期 | 2026-05-20 |

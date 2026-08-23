@@ -13,15 +13,14 @@ updated: 2026-06-14
 
 # MiroFish
 
-> ⭐62147
-
-⭐ 62k · 簡潔通用的群體智慧引擎，預測萬物——用多 Agent 模擬社會演化來推演未來。
+> ⭐62147 · 簡潔通用的群體智慧引擎，預測萬物——用多 Agent 模擬社會演化來推演未來。
 
 ## 一句話
 
 MiroFish 是用多 Agent 技術打造的 AI 預測引擎：從種子資訊（新聞、政策、金融訊號）自動建構高保真平行數位世界，千個獨立人格的智慧體在裡面自由互動和社會演化，你從上帝視角動態注入變數來精準推演未來軌跡。
 
 ## 快速導航
+
 
 - ⚡ [[AI-Agent]] · [[world-model]] · [[financial-forecasting]] · [[AI-Agent]]
 
@@ -97,6 +96,7 @@ docker compose up -d
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[world-model]] · [[financial-forecasting]] · [[AI-Agent]]
 
 ## 為什麼重要
@@ -110,10 +110,9 @@ docker compose up -d
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
-| Stars | ⭐62147 |
-| License | — |
-| Language | Python |
-| 收錄日期 | 2026-05-25 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/666ghj/MiroFish |
+| Stars | ⭐62147|
+| License | 未標示 |
+| 收錄日期 | 2026-05-26 |

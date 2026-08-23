@@ -10,9 +10,10 @@ topics: [llm, llm-eval, prompt-engineering, red-teaming, pentesting, vulnerabili
 
 # Promptfoo
 
-> ⭐22.2k · LLM 評測與紅隊工具，測試 Prompts、Agents 和 RAG，支援多模型比較、CI/CD 整合和漏洞掃描。
+> ⭐22198 · LLM 評測與紅隊工具，測試 Prompts、Agents 和 RAG，支援多模型比較、CI/CD 整合和漏洞掃描。
 
 ## 快速導航
+
 [[Prompt-Engineering|Prompt Engineering]] · [[prompt-security|CL4R1T4S]] · [[NVIDIA-SkillSpector|SkillSpector]]
 
 ## 是什麼
@@ -77,7 +78,8 @@ promptfoo red-team --target openai:gpt-4
 | [[prompt-security|CL4R1T4S]] | 研究 | ❌ | ✅ 越獄 | ❌ | ❌ |
 
 ## 相關概念
-← [[Prompt-Engineering|Prompt Engineering]] · [[prompt-security|CL4R1T4S]] · [[NVIDIA-SkillSpector|SkillSpector]]
+
+← [[Prompt-Engineering]] · [[prompt-security]] · [[NVIDIA-SkillSpector]]
 
 ## 來源
 
@@ -88,10 +90,9 @@ promptfoo red-team --target openai:gpt-4
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) |
-| Stars | ⭐22,198 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/promptfoo/promptfoo |
+| Stars | ⭐22198|
 | License | MIT |
-| Language | TypeScript |
-| 收錄日期 | 2026-06-15 |
+| 收錄日期 | 2023-04-28 |

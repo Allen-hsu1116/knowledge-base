@@ -3,7 +3,7 @@ title: HarnessX
 slug: HarnessX
 created: 2026-06-20
 updated: 2026-06-20
-stars: —（研究論文）
+stars: 442
 language: English
 topics:
   - AI Agent
@@ -15,9 +15,10 @@ topics:
 
 # HarnessX
 
-> ⭐— · 研究論文 · Agent Harness Foundry · 用組合代數和演化引擎打造可適應、可進化的 Agent 運行時
+> ⭐442 · 用組合代數和演化引擎打造可適應、可進化的 Agent 運行時
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — Agent 概念總覽
 - 🔧 [[harness-engineering]] — Harness 工程方法論
@@ -79,20 +80,20 @@ Overall            +14.5%          +44.0%
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[harness-engineering]] · [[AI-Skills]] · [[AI-Skills]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/Darwin-Agent/HarnessX)
 - 📄 論文：[arXiv:2606.14249](https://arxiv.org/abs/2606.14249)
 - 📁 raw：`raw/2026-06-20-harnessx.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| 類型 | 研究論文 |
-| 發布者 | arXiv (cs.AI) |
-| 年份 | 2026 |
-| 作者 | Tingyang Chen, Shuo Lu, Kang Zhao 等 14 人 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Darwin-Agent/HarnessX |
+| Stars | ⭐442|
+| License | 未標示 |
 | 收錄日期 | 2026-06-20 |
-| **License** | 未標示 |

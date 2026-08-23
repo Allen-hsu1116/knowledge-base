@@ -10,9 +10,10 @@ topics: [Video-Generation, AI-Video, Content-Automation]
 
 # NarratoAI
 
-> ⭐9.7k · 一站式 AI 影視解說+自動化剪輯工具，基於 LLM 實現文案撰寫、自動化影片剪輯、配音和字幕生成。
+> ⭐9698 · 一站式 AI 影視解說+自動化剪輯工具，基於 LLM 實現文案撰寫、自動化影片剪輯、配音和字幕生成。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — AI 自動化應用
 - 🎬 [[harry0703-MoneyPrinterTurbo]] — 另一個 AI 影片生成工具
@@ -61,6 +62,7 @@ python app.py
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[harry0703-MoneyPrinterTurbo]] · [[feicaiclub-video-spec-builder]] · [[workflow-automation]]
 
 ## 來源
@@ -70,9 +72,9 @@ python app.py
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/linyqh/NarratoAI |
-| Stars | ⭐ 9,698 |
-| License | Other（非商用，需聯繫作者取得商業授權）|
+| Stars | ⭐9698|
+| License | Other（非商用，需聯繫作者取得商業授權） |
 | 收錄日期 | 2025-06-07 |

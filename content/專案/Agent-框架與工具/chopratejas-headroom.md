@@ -10,9 +10,10 @@ topics: [Token Optimization, Context 壓縮, MCP, AI Agent]
 
 # Headroom
 
-> ⭐6.4k · AI Agent 的上下文壓縮層，60-95% token 節省、可逆還原、支援 Library/Proxy/MCP 三種模式
+> ⭐6416 · AI Agent 的上下文壓縮層，60-95% token 節省、可逆還原、支援 Library/Proxy/MCP 三種模式
 
 ## 快速導航
+
 [[Token-Optimization]] · [[MCP]] ·[[rtk|RTK]] · [[Context-Database]]
 
 ## 是什麼
@@ -66,6 +67,7 @@ Docker 也可用：`docker pull ghcr.io/chopratejas/headroom:latest`
 | OpenAI Compaction | — | 對話歷史 | ❌ | ❌ | Provider-native |
 
 ## 相關概念
+
 ← [[Token-Optimization]] · [[MCP]] · [[rtk]]
 
 ## 來源
@@ -75,10 +77,9 @@ Docker 也可用：`docker pull ghcr.io/chopratejas/headroom:latest`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [chopratejas/headroom](https://github.com/chopratejas/headroom) |
-| Stars | ⭐6,416 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/chopratejas/headroom |
+| Stars | ⭐6416|
 | License | Apache 2.0 |
-| Language | Python, TypeScript |
 | 收錄日期 | 2026-06-03 |

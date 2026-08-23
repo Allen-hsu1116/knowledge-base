@@ -10,16 +10,20 @@ topics: [RAG, 向量資料庫]
 
 # Milvus
 
-> ⭐44,202 · 高效能雲原生向量資料庫，支援十億級向量搜尋。44.2K ⭐。
+> ⭐44202 · 高效能雲原生向量資料庫，支援十億級向量搜尋。44.2K ⭐。
 
 ## 快速導航
+
 - 📚 **RAG** → [[rag]]（Milvus 是 RAG 系統的向量搜尋基礎設施）
 - 🔍 **知識圖譜** → [[Knowledge-Graph]]（Milvus 支援向量+標量混合搜尋）
 - 🤖 **AI Agent** → [[AI-Agent]]（Milvus 常作為 Agent 的長期記憶層）
 
 ## 是什麼
 
-Milvus 是高效能雲原生向量資料庫，用 Go 和 C++ 實現，支援十億級向量搜尋。它提供分散式架構、GPU 加速、即時串流更新，是企業級 RAG 系統的標準選擇。
+
+Milvus 是高效能雲原生向量資料庫，用 Go 和 C++ 實現，支援十億級向量搜尋。
+
+它提供分散式架構、GPU 加速、即時串流更新，是企業級 RAG 系統的標準選擇。
 
 ## 核心特色
 
@@ -70,22 +74,19 @@ pip install pymilvus
 | Pinecone | 雲端向量資料庫 | Pinecone 是 SaaS，Milvus 是開源自架 |
 
 ## 相關概念
+
 ← [[rag]] · [[Knowledge-Graph]] · [[open-webui-open-webui]] · [[AI-Agent]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/milvus-io/milvus)
 - raw/2026-05-10-milvus.md
 
 ---
 
-- **GitHub**: https://github.com/milvus-io/milvus
-- **Stars**: ⭐44,202
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/milvus-io/milvus |
-| **Stars** | ⭐44,202 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/milvus-io/milvus |
+| Stars | ⭐44202|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

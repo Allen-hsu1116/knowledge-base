@@ -14,6 +14,7 @@ topics: [LLM, AI Agent, RAG, 向量資料庫, 自架平台]
 
 ## 快速導航
 
+
 - 🤖 **AI Agent 平台** → [[AI-Agent]]（Open WebUI 是 Agent 的前端與部署平台）
 - 📚 **RAG 檢索增強** → [[ragflow|RAGFlow]]（Open WebUI 內建 RAG 支援）
 - 🔍 **向量資料庫** → [[Milvus]]、[[Chroma]]、[[Qdrant]]（Open WebUI 支援 9 種向量資料庫）
@@ -98,7 +99,8 @@ export HF_HUB_OFFLINE=1
 > [[nesquena-hermes-webui|Hermes WebUI]] 是另一個 Web 介面方案，但專為 Hermes Agent 設計，提供 CLI 完全同位。Open WebUI 是通用 LLM 平台，Hermes WebUI 是專一 Agent 的深度介面。
 
 ## 相關概念
-← [[AI-Agent]] · [[ragflow|RAGFlow]] · [[模型推論與部署|Ollama]] · [[Milvus]] · [[Chroma]] · [[docling]] · [[nesquena-hermes-webui|Hermes WebUI]]
+
+← [[AI-Agent]] · [[ragflow]] · [[模型推論與部署]] · [[Milvus]] · [[Chroma]] · [[docling]]
 
 ## 來源
 
@@ -108,10 +110,9 @@ export HF_HUB_OFFLINE=1
 
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
-| GitHub | <https://github.com/open-webui/open-webui> |
-| Stars | 100k+ |
+| GitHub | https://github.com/open-webui/open-webui |
+| Stars | ⭐100k+|
 | License | Open WebUI License（需保留品牌標識） |
-| Language | Python / Svelte |
 | 收錄日期 | 2026-05-24 |

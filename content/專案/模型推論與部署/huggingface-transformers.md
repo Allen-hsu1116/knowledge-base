@@ -10,16 +10,20 @@ topics: [LLM, 模型生態]
 
 # Hugging Face Transformers
 
-> ⭐160,425 · 機器學習模型定義框架，支援 100 萬+ 模型檢查點，是整個 AI 生態的樞紐。160K ⭐。
+> ⭐160425 · 機器學習模型定義框架，支援 100 萬+ 模型檢查點，是整個 AI 生態的樞紐。160K ⭐。
 
 ## 快速導航
+
 - 🧠 **LLM** → [[LLM]]（Transformers 是 LLM 生態的基礎設施）
 - 📡 **推論加速** → [[vLLM]]（vLLM 使用 Transformers 模型定義）
 - 🏠 **本地部署** → [[模型推論與部署|Ollama]]（Ollama 支援 HuggingFace 模型格式）
 
 ## 是什麼
 
-Hugging Face Transformers 是機器學習模型定義框架，定義了模型的「通用語言」——如果一個模型被 Transformers 支援，它就能相容幾乎所有訓練框架（Axolotl、DeepSpeed、FSDP）和推論引擎（vLLM、SGLang、TGI、llama.cpp）。它是 AI 生態的樞紐，Hugging Face Hub 上有 100 萬+ 模型檢查點。160K+ stars，是 AI 生態中影響力最大的開源專案之一。
+
+Hugging Face Transformers 是機器學習模型定義框架，定義了模型的「通用語言」——如果一個模型被 Transformers 支援，它就能相容幾乎所有訓練框架（Axolotl、DeepSpeed、FSDP）和推論引擎（vLLM、SGLang、TGI、llama.cpp）。
+
+它是 AI 生態的樞紐，Hugging Face Hub 上有 100 萬+ 模型檢查點。160K+ stars，是 AI 生態中影響力最大的開源專案之一。
 
 ## 核心特色
 
@@ -79,22 +83,19 @@ model = AutoModelForCausalLM.from_pretrained(
 Transformers 是 AI 生態的「作業系統」——幾乎所有 LLM 工具都以它為基礎。模型先在 Transformers 上定義，再由 vLLM、SGLang、TGI 等推論引擎載入做高效推理，或由 llama.cpp 轉換為 GGUF 格式在本地運行。
 
 ## 相關概念
-← [[LLM]] · [[llm-internals]] · [[pytorch-pytorch|PyTorch]]
+
+← [[LLM]] · [[llm-internals]] · [[pytorch-pytorch]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/huggingface/transformers)
 - raw/2026-05-10-huggingface-transformers.md
 
 ---
 
-- **GitHub**: https://github.com/huggingface/transformers
-- **Stars**: ⭐160,425
-- **License**: Apache-2.0
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/huggingface/transformers |
-| **Stars** | ⭐160,425 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/huggingface/transformers |
+| Stars | ⭐160425|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-05-10 |

@@ -10,9 +10,10 @@ topics: [agentic, agents, ai, autogen, framework, llm-agent, llm-framework, mult
 
 # AutoGen
 
-> ⭐59k · 微軟開源的多 Agent 框架，支援自主 AI 應用開發（⚠️ 已進入維護模式，建議改用 Microsoft Agent Framework）
+> ⭐59010 · 微軟開源的多 Agent 框架，支援自主 AI 應用開發（⚠️ 已進入維護模式，建議改用 Microsoft Agent Framework）
 
 ## 快速導航
+
 [[AI-Agent|AI Agent]] · [[workflow-automation|Agent 工作流]] · [[LangChain|LangChain]]
 
 ## 是什麼
@@ -71,7 +72,8 @@ asyncio.run(main())
 | Microsoft Agent Framework | Agent 框架 | ✅ 新版 | ✅ 企業級 | ❌ | 新專案推薦 |
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[workflow-automation|Agent 工作流]] · [[LangChain|LangChain]]
+
+← [[AI-Agent]] · [[workflow-automation]] · [[LangChain]]
 
 ## 來源
 
@@ -82,10 +84,9 @@ asyncio.run(main())
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [microsoft/autogen](https://github.com/microsoft/autogen) |
-| Stars | ⭐59,010 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/autogen |
+| Stars | ⭐59010|
 | License | CC-BY-4.0 (文件) / MIT (程式碼) |
-| Language | Python |
-| 收錄日期 | 2026-06-17 |
+| 收錄日期 | 2023-08-18 |

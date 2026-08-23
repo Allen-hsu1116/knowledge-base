@@ -16,9 +16,10 @@ topics:
 
 # VoxCPM
 
-> ⭐31k · Python · Apache-2.0 · Tokenizer-Free TTS，2B 模型支援 30 語言，48kHz 音質，語音設計 + 可控克隆 + 完美還原克隆
+> ⭐31007 · Tokenizer-Free TTS，2B 模型支援 30 語言，48kHz 音質，語音設計 + 可控克隆 + 完美還原克隆
 
 ## 快速導航
+
 
 - 🎵 [[generative-AI|AI Music]] — AI 音樂生成
 - 🤖 [[AI-Agent]] — 語音是 Agent 互動的重要模態
@@ -139,7 +140,8 @@ curl http://localhost:8000/v1/audio/speech \
 
 ## 相關概念
 
-← [[generative-AI|AI Music]] · [[AI-Agent]] · [[模型推論與部署|vLLM Serving]] · [[llm-internals|ML Models]]
+
+← [[generative-AI]] · [[AI-Agent]] · [[模型推論與部署]] · [[llm-internals]]
 
 ## 來源
 
@@ -148,12 +150,12 @@ curl http://localhost:8000/v1/audio/speech \
 - 📄 技術報告：[arXiv:2606.06928](https://arxiv.org/abs/2606.06928)
 - 📁 raw：`raw/2026-06-20-OpenBMB-VoxCPM.md`
 - raw/2026-05-31-OpenBMB-VoxCPM.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) |
-| Stars | ⭐31,007 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/OpenBMB/VoxCPM |
+| Stars | ⭐31007|
 | License | Apache-2.0 |
-| 語言 | Python |
 | 收錄日期 | 2026-06-20 |

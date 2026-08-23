@@ -10,9 +10,10 @@ topics: [AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Ac
 
 # Vibe-Trading
 
-> ⭐30.4k · 你的個人交易 Agent：88 個 Skill + 68 個 Tool + 23 個資料來源 + 12 家券商連接器，一條指令賦能 Agent 全面交易研究能力。HKUDS 出品。
+> ⭐30429 · 你的個人交易 Agent：88 個 Skill + 68 個 Tool + 23 個資料來源 + 12 家券商連接器，一條指令賦能 Agent 全面交易研究能力。HKUDS 出品。
 
 ## 快速導航
+
 - 🤖 **Agent 工作流** → [[AI-Agent]]（Vibe-Trading 是垂直領域交易 Agent）
 - 🛠 **Agent Skills** → [[AI-Skills]]（74 個內建 Skill，Skill 密度極高）
 - 🔌 **MCP 整合** → [[MCP]]（提供 MCP Plugin 讓其他 Agent 調用交易能力）
@@ -21,7 +22,10 @@ topics: [AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Ac
 
 ## 是什麼
 
-Vibe-Trading 是香港大學數據科學實驗室（HKUDS）開發的 AI 交易 Agent。它不是一個簡單的選股工具，而是一個完整的交易 Agent 生態系：74 個 Skill、29 個 Swarm Preset、27 個 Tool、6 個數據來源 — 從回測到實盤、從 A 股到港美股、從基本面到技術面，一條指令搞定。
+
+Vibe-Trading 是香港大學數據科學實驗室（HKUDS）開發的 AI 交易 Agent。
+
+它不是一個簡單的選股工具，而是一個完整的交易 Agent 生態系：74 個 Skill、29 個 Swarm Preset、27 個 Tool、6 個數據來源 — 從回測到實盤、從 A 股到港美股、從基本面到技術面，一條指令搞定。
 
 ## 核心特色
 
@@ -71,23 +75,20 @@ docker run -p 8000:8000 hkuds/vibe-trading
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[virattt-dexter]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/HKUDS/Vibe-Trading)
 - raw/2026-05-06-HKUDS-Vibe-Trading.md
+- 原始素材：`raw/2026-08-09-HKUDS-Vibe-Trading.md`
 
 ---
 
-- **GitHub**: https://github.com/HKUDS/Vibe-Trading
-- **Stars**: ⭐5,120
-- **License**: MIT
-- **收錄日期**: 2026-05-06
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/HKUDS/Vibe-Trading |
-| **Stars** | ⭐'⭐5120' |
-| **收錄日期** | 2026-05-06 |
+| GitHub | https://github.com/HKUDS/Vibe-Trading |
+| Stars | ⭐30429|
+| License | MIT |
+| 收錄日期 | 2026-05-06 |

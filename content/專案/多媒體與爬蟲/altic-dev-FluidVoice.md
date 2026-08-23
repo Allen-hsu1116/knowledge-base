@@ -5,14 +5,15 @@ created: 2026-07-02
 updated: 2026-07-02
 stars: 5.5k
 language: Swift
-topics: Voice-AI, STT, Dictation, macOS, On-Device, Edge-AI, Whisper
+topics: ["Voice-AI", "STT", "Dictation", "macOS", "On-Device", "Edge-AI", "Whisper"]
 ---
 
 # FluidVoice
 
-> ⭐5.5k · altic-dev · Swift · GPL-3.0
+> ⭐5500 · GPL-3.0
 
 ## 快速導航
+
 
 - 🎙️ **語音辨識** → [[語音辨識|語音辨識]]
 - 🤖 **邊緣裝置 AI** → [[embedded-AI|邊緣裝置 AI]]
@@ -79,7 +80,8 @@ FluidVoice 是 [[語音辨識|語音辨識]] 和 [[embedded-AI|邊緣裝置 AI]]
 
 ## 相關概念
 
-← [[語音辨識|語音辨識]] · [[embedded-AI|邊緣裝置 AI]] · [[Whisper|Whisper]] · [[AI-Skills|AI Skills]]
+
+← [[語音辨識]] · [[embedded-AI]] · [[Whisper]] · [[AI-Skills]]
 
 ## 來源
 
@@ -90,10 +92,9 @@ FluidVoice 是 [[語音辨識|語音辨識]] 和 [[embedded-AI|邊緣裝置 AI]]
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/altic-dev/FluidVoice |
-| **Stars** | ⭐5,494 |
-| **License** | GPL-3.0 |
-| **Language** | Swift |
-| **收錄日期** | 2026-07-02 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/altic-dev/FluidVoice |
+| Stars | ⭐5500|
+| License | GPL-3.0 |
+| 收錄日期 | 2026-07-02 |

@@ -10,9 +10,10 @@ topics: [ai, mcp, awesome-list, mcp-servers]
 
 # Awesome MCP Servers
 
-> ⭐89.2k · MCP (Model Context Protocol) 伺服器策展列表，按類別收錄生產級和實驗性 MCP Server 實作。
+> ⭐89151 · MCP (Model Context Protocol) 伺服器策展列表，按類別收錄生產級和實驗性 MCP Server 實作。
 
 ## 快速導航
+
 [[MCP|MCP 協議]] · [[browser-use-browser-use|Browser Use]] · [[AI-Skills|Agent Skills 生態系]]
 
 ## 是什麼
@@ -66,7 +67,8 @@ git clone https://github.com/punkpeye/awesome-mcp-servers.git
 | MCP 官方文件 | 規範 | 協議定義、SDK | 開發 MCP Server |
 
 ## 相關概念
-← [[MCP|MCP 協議]] · [[AI-Skills|Agent Skills 生態系]]
+
+← [[MCP]] · [[AI-Skills]]
 
 ## 來源
 
@@ -76,10 +78,9 @@ git clone https://github.com/punkpeye/awesome-mcp-servers.git
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) |
-| Stars | ⭐89,151 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/punkpeye/awesome-mcp-servers |
+| Stars | ⭐89151|
 | License | MIT |
-| Language | Curated List |
-| 收錄日期 | 2026-06-15 |
+| 收錄日期 | 2024-11-30 |

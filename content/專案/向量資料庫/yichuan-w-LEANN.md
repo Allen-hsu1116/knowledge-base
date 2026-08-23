@@ -10,9 +10,10 @@ topics: [RAG, 向量資料庫, MCP, 本地隱私]
 
 # LEANN
 
-> ⭐11.8k · 低儲存向量索引，97% 空間節省，本地隱私 RAG
+> ⭐11790 · 低儲存向量索引，97% 空間節省，本地隱私 RAG
 
 ## 快速導航
+
 [[rag|RAG]] · [[向量資料庫]] · [[Chroma]] · [[AI-Agent]] · [[mempalace|MemPalace]]
 
 ## 是什麼
@@ -68,7 +69,8 @@ claude mcp add --scope user leann-server -- leann_mcp
 
 ## 相關概念
 
-← [[rag|RAG]] · [[向量資料庫]] · [[Chroma]] · [[AI-Agent]] · [[mempalace|MemPalace]] · [[rohitg00-agentmemory|agentmemory]]
+
+← [[rag]] · [[向量資料庫]] · [[Chroma]] · [[AI-Agent]] · [[mempalace]] · [[rohitg00-agentmemory]]
 
 ## 來源
 
@@ -78,10 +80,9 @@ claude mcp add --scope user leann-server -- leann_mcp
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) |
-| Stars | ⭐11,790 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/yichuan-w/LEANN |
+| Stars | ⭐11790|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-05-28 |

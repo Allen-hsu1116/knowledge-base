@@ -10,9 +10,10 @@ topics: [VLA, GUI-Agent, Computer-Use, Edge-AI]
 
 # Mano-P
 
-> ⭐2.3k · 開源 GUI-VLA 智能體，OSWorld 基準測試第一名，可在 Apple M4 Mac mini/MacBook 本地運行推理，資料不離開設備。
+> ⭐2288 · 開源 GUI-VLA 智能體，OSWorld 基準測試第一名，可在 Apple M4 Mac mini/MacBook 本地運行推理，資料不離開設備。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — GUI 智能體應用
 - 🖥️ [[computer-use-agent]] — 電腦操控技術
@@ -62,6 +63,7 @@ pip install cider-sdk
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[computer-use-agent]] · [[trycua-cua]] · [[embedded-AI]]
 
 ## 來源
@@ -69,11 +71,12 @@ pip install cider-sdk
 - **GitHub**: https://github.com/Mininglamp-AI/Mano-P
 - raw/2025-06-07-Mininglamp-AI-Mano-P.md
 - raw/2026-05-20-Mininglamp-AI-Mano-P.md
+
 ---
 
-| 項目 | 資訊 |
+| 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/Mininglamp-AI/Mano-P |
-| Stars | ⭐ 2,288 |
+| Stars | ⭐2288|
 | License | Apache License 2.0 |
 | 收錄日期 | 2025-06-07 |

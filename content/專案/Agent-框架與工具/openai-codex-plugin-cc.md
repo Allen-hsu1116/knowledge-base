@@ -10,9 +10,10 @@ topics: [AI Agent, AI Skills, Coding Agent CLI]
 
 # Codex Plugin for Claude Code
 
-> ⭐17,527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
+> ⭐17527 · OpenAI Codex 的 Claude Code 插件 — 讓 Claude Code 能呼叫 Codex 做程式碼審查或委派任務，兩大 AI Agent 互補協作。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（Codex 和 Claude Code 是兩種 AI coding agent，此插件讓它們協作）
 - 🛠️ **AI Skills** → [[AI-Skills]]（此插件是 Claude Code 的 GitHub Plugin，屬於 Skill 生態系）
@@ -20,7 +21,10 @@ topics: [AI Agent, AI Skills, Coding Agent CLI]
 
 ## 是什麼
 
-codex-plugin-cc 是 OpenAI 官方的 Claude Code 插件，讓你在 Claude Code 裡直接呼叫 OpenAI Codex 來做程式碼審查、測試生成、重構等任務。核心設計是「互補協作」：Claude Code 擅長互動式開發（即時對話、快速迭代），Codex 擅長非同步深度任務（全 repo 級別的審查、大規模測試生成）。各取所長。
+
+codex-plugin-cc 是 OpenAI 官方的 Claude Code 插件，讓你在 Claude Code 裡直接呼叫 OpenAI Codex 來做程式碼審查、測試生成、重構等任務。
+
+核心設計是「互補協作」：Claude Code 擅長互動式開發（即時對話、快速迭代），Codex 擅長非同步深度任務（全 repo 級別的審查、大規模測試生成）。各取所長。
 
 ## 核心特色
 
@@ -82,14 +86,19 @@ codex-plugin-cc 是 OpenAI 官方的 Claude Code 插件，讓你在 Claude Code 
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/openai/codex-plugin-cc)
 - raw/2026-05-05-openai-codex-plugin-cc.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | ⭐17,527 | Apache-2.0 | 2026-05-05 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/openai/codex-plugin-cc |
+| Stars | ⭐17527|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

@@ -10,9 +10,10 @@ topics: [RAG, 增量索引]
 
 # CocoIndex
 
-> ⭐9,822 · 增量索引引擎，為長期 Agent 提供持續新鮮的上下文。只跑 delta，不重跑全量。Python 宣告式 API + Rust 引擎。
+> ⭐9822 · 增量索引引擎，為長期 Agent 提供持續新鮮的上下文。只跑 delta，不重跑全量。Python 宣告式 API + Rust 引擎。
 
 ## 快速導航
+
 
 - 📚 **知識方法論** → [[llm-knowledge-base]]（增量 vs 全量編譯）
 - 🔄 **Agent 工作流** → [[AI-Agent]]（增量是 Agent 化的基礎設施需求）
@@ -21,7 +22,10 @@ topics: [RAG, 增量索引]
 
 ## 是什麼
 
-CocoIndex 把程式碼庫、會議記錄、PDF、影片等轉換成持續更新的 live context，讓 AI Agent 有效推理。核心差異：增量優先——原始檔改了才重新嵌入，不重跑全量。用宣告式 Python API 定義目標狀態，CocoIndex 永遠保持同步，底層 Rust 引擎確保生產級效能。
+
+CocoIndex 把程式碼庫、會議記錄、PDF、影片等轉換成持續更新的 live context，讓 AI Agent 有效推理。
+
+核心差異：增量優先——原始檔改了才重新嵌入，不重跑全量。用宣告式 Python API 定義目標狀態，CocoIndex 永遠保持同步，底層 Rust 引擎確保生產級效能。
 
 ## 核心特色
 
@@ -54,27 +58,34 @@ coco.App(coco.AppConfig(name="docs"), main, src="./docs").update_blocking()
 
 ## 跟其他方案的關係
 
+
 CocoIndex 是 [[llm-knowledge-base]] 的生產級增量索引方案。跟我們知識庫的 raw→wiki→lint 循環概念一致：每次只處理新增的 raw。
 
 跟 [[docling]] 的關係：Docling 負責上游文件解析（PDF→結構化資料），CocoIndex 負責下游增量索引（結構化資料→向量搜尋）。兩者互補，Docling 解析 → CocoIndex 索引。
 
 跟 [[ragflow]] 的差異：RAGFlow 是企業級 RAG+Agent 引擎（端到端方案），CocoIndex 是增量索引引擎（基礎設施層）。CocoIndex 不管檔案解析，只管索引更新。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[llm-knowledge-base]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[docling]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[llm-knowledge-base]] · [[AI-Agent]] · [[docling]] · [[ragflow]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/cocoindex-io/cocoindex)
 - raw/2026-05-03-cocoindex.md
 
 ---
 
-| 項目 | 值 |
-|------|-----|
+| 欄位 | 資訊 |
+|------|------|
 | GitHub | https://github.com/cocoindex-io/cocoindex |
-| Stars | ⭐9,822 |
-| Language | Python/Rust |
-| 建立日期 | 2025-03-03 |
-| 授權 | Apache-2.0 |
-| 收錄日期 | 2026-05-03 |
+| Stars | ⭐9822|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

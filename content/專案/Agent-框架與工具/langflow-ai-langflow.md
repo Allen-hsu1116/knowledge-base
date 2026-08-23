@@ -18,9 +18,10 @@ topics:
 
 # Langflow
 
-> ⭐150.7k · 視覺化 AI Agent 與工作流建構平台，拖拽設計流程，一鍵部署為 API 或 MCP Server
+> ⭐150735 · 視覺化 AI Agent 與工作流建構平台，拖拽設計流程，一鍵部署為 API 或 MCP Server
 
 ## 快速導航
+
 
 - 🤖 **Agent 框架** → [[langgenius-dify|Dify]] · [[FlowiseAI-Flowise|Flowise]]
 - 🔌 **MCP 生態** → [[MCP]] · [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
@@ -73,6 +74,7 @@ docker run -p 7860:7860 langflowai/langflow:latest
 
 ## 跟其他方案的關係
 
+
 - **[[langgenius-dify|Dify]]** → 同為開源 LLM 應用平台，Dify 更偏向 BaaS 全端方案，Langflow 更偏向視覺化流程設計
 - **[[FlowiseAI-Flowise|Flowise]]** → 同為視覺化 Agent 建構工具，Flowise 基於 LangChain.js，Langflow 基於 Python 生態
 - **[[LangChain]]** → LangChain 是純程式碼框架，Langflow 在其之上加了視覺化層
@@ -81,8 +83,14 @@ docker run -p 7860:7860 langflowai/langflow:latest
 
 ← [[langgenius-dify|Dify]] · [[FlowiseAI-Flowise|Flowise]] · [[LangChain]] · [[MCP]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[langgenius-dify]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[FlowiseAI-Flowise]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[langgenius-dify]] · [[FlowiseAI-Flowise]] · [[MCP]] · [[punkpeye-awesome-mcp-servers]]
 
@@ -95,10 +103,9 @@ docker run -p 7860:7860 langflowai/langflow:latest
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) |
-| Stars | ⭐150,735 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/langflow-ai/langflow |
+| Stars | ⭐150735|
 | License | MIT |
-| Language | Python |
 | 收錄日期 | 2026-07-03 |

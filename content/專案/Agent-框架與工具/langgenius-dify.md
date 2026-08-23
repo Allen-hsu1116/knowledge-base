@@ -10,9 +10,10 @@ topics: [LLM 應用平台, AI Agent, RAG, Workflow, 自架]
 
 # Dify
 
-> ⭐144k · 開源 LLM 應用開發平台，視覺化 AI workflow + RAG + Agent + 模型管理一站搞定
+> ⭐144883 · 開源 LLM 應用開發平台，視覺化 AI workflow + RAG + Agent + 模型管理一站搞定
 
 ## 快速導航
+
 [[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]]
 
 ## 是什麼
@@ -76,7 +77,8 @@ result = client.create_chat_message(inputs={}, query="Hello", user="user-123")
 | [[CopilotKit-CopilotKit|CopilotKit]] | ⭐32k | AI UI 框架 | ❌ React 為主 | ✅ | AG-UI |
 
 ## 相關概念
-← [[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]] · [[langflow-ai-langflow|Langflow]]
+
+← [[AI-Agent]] · [[rag]] · [[workflow-automation]] · [[LangChain]] · [[langflow-ai-langflow]]
 
 ## 來源
 
@@ -85,10 +87,9 @@ result = client.create_chat_message(inputs={}, query="Hello", user="user-123")
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [langgenius/dify](https://github.com/langgenius/dify) |
-| Stars | ⭐144,883 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/langgenius/dify |
+| Stars | ⭐144883|
 | License | NOASSERTION (自訂授權) |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-12 |

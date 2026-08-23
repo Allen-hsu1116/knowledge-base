@@ -10,9 +10,10 @@ topics: [design, open-source, mcp, self-hosted, design-tokens, svg, css, collabo
 
 # Penpot
 
-> ⭐50k · 開源設計平台，支援 SVG/CSS/HTML 開放標準，內建 MCP Server 連接 AI Agent，設計即代碼。
+> ⭐50086 · 開源設計平台，支援 SVG/CSS/HTML 開放標準，內建 MCP Server 連接 AI Agent，設計即代碼。
 
 ## 快速導航
+
 [[nexu-io-open-design|Open Design]] · [[Figma-Skills|Figma Skills]] · [[Frontend-Design-Agent-Skills|Frontend Design Agent Skills]]
 
 ## 是什麼
@@ -66,7 +67,8 @@ docker run -d \
 | Sketch | 設計工具 | ❌ | ❌ | ❌ | ❌ | ❌ 封閉格式 |
 
 ## 相關概念
-← [[nexu-io-open-design|Open Design]] · [[Figma-Skills|Figma Skills]]
+
+← [[nexu-io-open-design]] · [[Figma-Skills]]
 
 ## 來源
 
@@ -77,10 +79,9 @@ docker run -d \
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [penpot/penpot](https://github.com/penpot/penpot) |
-| Stars | ⭐50,086 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/penpot/penpot |
+| Stars | ⭐50086|
 | License | MPL-2.0 |
-| Language | Clojure |
-| 收錄日期 | 2026-06-18 |
+| 收錄日期 | 2015-12-29 |

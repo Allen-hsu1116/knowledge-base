@@ -10,18 +10,19 @@ topics: [AI Agent, AI Skills, MCP]
 
 # Edict（三省六部）
 
-> ⭐15,781 · 用 1300 年前的帝國制度重新設計 AI 多 Agent 協作架構。12 個專職 Agent 組成三省六部，門下省專職審核封駁，軍機處看板即時監控。
+> ⭐15781 · 用 1300 年前的帝國制度重新設計 AI 多 Agent 協作架構。12 個專職 Agent 組成三省六部，門下省專職審核封駁，軍機處看板即時監控。
 
 | 項目 | 值 |
 |------|-----|
 | GitHub | https://github.com/cft0808/edict |
-| Stars | ⭐15,781 |
+| Stars | ⭐15781|
 | Language | Python |
 | 建立日期 | 2026-02-23 |
 | 授權 | MIT |
 | 收錄日期 | 2026-05-07 |
 
 ## 快速導航
+
 
 - 🤖 **AI Agent 協作** → [[AI-Agent]]（三省六部是多 Agent 編排的創新架構）
 - 🏛️ **Agent 作業系統** → [[RightNow-AI-openfang]]（OpenFang 是另一種 Agent 系統設計）
@@ -92,6 +93,7 @@ python3 dashboard/server.py
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[RightNow-AI-openfang]] · [[AI-Skills]] · [[MCP]]
 
 ## 來源
@@ -101,9 +103,9 @@ python3 dashboard/server.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [cft0808/edict](https://github.com/cft0808/edict) |
-| Stars | ⭐15,781 |
-| License | — |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/cft0808/edict |
+| Stars | ⭐15781 |
+| License | 未標示 |
 | 收錄日期 | 2026-02-23 |

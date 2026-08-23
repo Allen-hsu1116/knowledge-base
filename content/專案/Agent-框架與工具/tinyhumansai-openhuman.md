@@ -11,9 +11,10 @@ topics: [AI Agent, MCP, 記憶]
 
 # OpenHuman
 
-> ⭐9.1k · 開源個人 AI 助手桌面應用——強調隱私、簡單、強大。內建 118+ 第三方整合、Memory Tree 知識庫、TokenJuice 壓縮、桌面吉祥物，以及本地優先架構。
+> ⭐9100 · 開源個人 AI 助手桌面應用——強調隱私、簡單、強大。內建 118+ 第三方整合、Memory Tree 知識庫、TokenJuice 壓縮、桌面吉祥物，以及本地優先架構。
 
 ## 快速導航
+
 
 - [[AI-Agent]] — AI Agent 生態系
 - [[MCP]] — Model Context Protocol
@@ -22,7 +23,10 @@ topics: [AI Agent, MCP, 記憶]
 
 ## 是什麼
 
-OpenHuman 是一個開源的 agentic assistant，設計目標是成為個人的 AI 超級智慧。與大多數 AI 工具不同，它強調「UI-first」——不需要先搞設定，幾次點擊就能從安裝走到一個可用的 agent。核心是「Memory Tree + Obsidian Wiki」本地優先知識庫，所有連接的資料都被正規化為 ≤3k token 的 Markdown 片段，存入本機 SQLite，同時產出 Obsidian 相容的 vault。隱私是核心設計原則：所有工作流資料都留在裝置上，本地加密。
+
+OpenHuman 是一個開源的 agentic assistant，設計目標是成為個人的 AI 超級智慧。
+
+與大多數 AI 工具不同，它強調「UI-first」——不需要先搞設定，幾次點擊就能從安裝走到一個可用的 agent。核心是「Memory Tree + Obsidian Wiki」本地優先知識庫，所有連接的資料都被正規化為 ≤3k token 的 Markdown 片段，存入本機 SQLite，同時產出 Obsidian 相容的 vault。隱私是核心設計原則：所有工作流資料都留在裝置上，本地加密。
 
 ## 核心特色
 
@@ -70,19 +74,19 @@ pnpm --filter openhuman-app dev:app  # Desktop shell
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[Token-Optimization]] · [[Coding-Agent-CLI]]
 
 ## 來源
 
 - GitHub：https://github.com/tinyhumansai/openhuman
-- Raw 檔案：`raw/2026-05-16-openhuman.md`
 - raw/2026-05-16-tinyhumansai-openhuman.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
-| Stars | ⭐9.1k |
-| License | 自訂開源 · 收錄日期: 2026-05-16 |
-| Language | zh-TW |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/tinyhumansai/openhuman |
+| Stars | ⭐9100|
+| License | 自訂開源 |
 | 收錄日期 | 2026-05-16 |

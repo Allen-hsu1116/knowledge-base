@@ -10,9 +10,10 @@ topics: [AI Skills, MCP, Prompt Engineering]
 
 # antigravity-awesome-skills
 
-> ⭐36,216 · 1,443+ 可安裝的 AI coding agent skills，支援 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、OpenCode、GitHub Copilot 等 7+ 工具。一個指令安裝，即插即用。
+> ⭐36216 · 1,443+ 可安裝的 AI coding agent skills，支援 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity、Kiro、OpenCode、GitHub Copilot 等 7+ 工具。一個指令安裝，即插即用。
 
 ## 快速導航
+
 
 - 🛠️ **AI Skills** → [[AI-Skills]]
 - 📝 **Prompt Engineering** → [[Prompt-Engineering]]
@@ -20,7 +21,10 @@ topics: [AI Skills, MCP, Prompt Engineering]
 
 ## 是什麼
 
-Antigravity Awesome Skills 是一個可安裝的 GitHub library 和 npm installer，收錄了 1,443+ 個結構化的 `SKILL.md` 操作手冊。不同於零散的 prompt 片段，它提供可搜尋、可安裝、可組合的 skills 目錄，涵蓋開發、測試、安全、基礎設施、產品和行銷等領域。
+
+Antigravity Awesome Skills 是一個可安裝的 GitHub library 和 npm installer，收錄了 1,443+ 個結構化的 `SKILL.md` 操作手冊。
+
+不同於零散的 prompt 片段，它提供可搜尋、可安裝、可組合的 skills 目錄，涵蓋開發、測試、安全、基礎設施、產品和行銷等領域。
 
 ## 核心特色
 
@@ -71,23 +75,19 @@ test -d ~/.gemini/antigravity/skills && echo "Skills installed"
 
 ## 相關概念
 
+
 ← [[AI-Skills]] · [[Prompt-Engineering]] · [[MCP]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/sickn33/antigravity-awesome-skills)
 - raw/sickn33-antigravity-awesome-skills.md
 
 ---
 
-- **GitHub**: https://github.com/sickn33/antigravity-awesome-skills
-- **Stars**: ⭐36,216
-- **License**: MIT
-- **收錄日期**: 2026-05-04
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/sickn33/antigravity-awesome-skills |
-| **Stars** | ⭐36,216 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/sickn33/antigravity-awesome-skills |
+| Stars | ⭐36216|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

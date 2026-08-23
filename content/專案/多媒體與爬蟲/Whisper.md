@@ -10,15 +10,19 @@ topics: [語音辨識, 多模態]
 
 # Whisper
 
-> ⭐99,208 · OpenAI 開源的語音辨識模型，支援多語言辨識、翻譯和語言偵測。99.2K ⭐。
+> ⭐99208 · OpenAI 開源的語音辨識模型，支援多語言辨識、翻譯和語言偵測。99.2K ⭐。
 
 ## 快速導航
+
 - 🧠 **多模態 AI** → [[LLM]]（Whisper 是語音→文字的多模態橋樑）
 - 🤖 **AI Agent** → [[AI-Agent]]（語音辨識是 Agent 的感知能力之一）
 
 ## 是什麼
 
-Whisper 是 OpenAI 於 2022 年開源的語音辨識模型，使用 68 萬小時多語言資料訓練，支援語音辨識、語音翻譯、語言偵測和語音活動偵測。它是語音 AI 的里程碑，幾乎所有語音相關 AI 應用的基礎。99K+ stars，是語音辨識領域最具影響力的開源專案。
+
+Whisper 是 OpenAI 於 2022 年開源的語音辨識模型，使用 68 萬小時多語言資料訓練，支援語音辨識、語音翻譯、語言偵測和語音活動偵測。
+
+它是語音 AI 的里程碑，幾乎所有語音相關 AI 應用的基礎。99K+ stars，是語音辨識領域最具影響力的開源專案。
 
 ## 核心特色
 
@@ -83,22 +87,19 @@ Whisper 是語音辨識的基準模型，很多專案基於它做改進：
 - **各種蒸餾模型**：Hugging Face 上有大量 Whisper 微調版本，針對特定語言或場景優化
 
 ## 相關概念
+
 ← [[LLM]] · [[AI-Agent]] · [[moonshine-ai-moonshine]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/openai/whisper)
 - raw/2026-05-10-whisper.md
 
 ---
 
-- **GitHub**: https://github.com/openai/whisper
-- **Stars**: ⭐99,208
-- **License**: MIT
-- **收錄日期**: 2026-05-10
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/openai/whisper |
-| **Stars** | ⭐99,208 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/openai/whisper |
+| Stars | ⭐99208|
+| License | MIT |
+| 收錄日期 | 2026-05-10 |

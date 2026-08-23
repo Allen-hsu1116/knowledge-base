@@ -10,9 +10,10 @@ topics: [claude-code, code-analysis, code-intelligence, knowledge-graph, mcp, mc
 
 # Codebase Memory MCP
 
-> ⭐38.3k · 最快最有效率 AI 編碼代理程式碼智慧引擎——將整個程式碼庫索引為持久化知識圖譜，平均 repo 毫秒級完成，查詢低於 1ms，158 語言，43 個 Agent 支援面。
+> ⭐38261 · 最快最有效率 AI 編碼代理程式碼智慧引擎——將整個程式碼庫索引為持久化知識圖譜，平均 repo 毫秒級完成，查詢低於 1ms，158 語言，43 個 Agent 支援面。
 
 ## 快速導航
+
 [[colbymchenry-codegraph|CodeGraph]] · [[Understand-Anything|Understand Anything]] · [[tirth8205-code-review-graph|Code Review Graph]] · [[MCP|MCP]]
 
 ## 是什麼
@@ -72,20 +73,21 @@ codebase-memory-mcp update
 
 ## 相關概念
 
-← [[colbymchenry-codegraph|CodeGraph]] · [[Understand-Anything|Understand Anything]] · [[tirth8205-code-review-graph|Code Review Graph]] · [[MCP|MCP]]
+
+← [[colbymchenry-codegraph]] · [[Understand-Anything]] · [[tirth8205-code-review-graph]] · [[MCP]]
 
 ## 來源
 
 - GitHub：https://github.com/DeusData/codebase-memory-mcp
 - 論文：https://arxiv.org/abs/2603.27277
 - Raw 檔案：`knowledge-base/raw/2026-06-20-DeusData-codebase-memory-mcp.md`
+- 原始素材：`raw/2026-08-09-DeusData-codebase-memory-mcp.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
-| Stars | ⭐8,238 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/DeusData/codebase-memory-mcp |
+| Stars | ⭐38261|
 | License | MIT |
-| Language | C |
 | 收錄日期 | 2026-06-20 |

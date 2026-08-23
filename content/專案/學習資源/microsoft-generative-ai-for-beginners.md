@@ -20,9 +20,10 @@ topics:
 
 # Generative AI for Beginners
 
-> ⭐116.3k · 微軟出品 21 課生成式 AI 入門課程，從 LLM 基礎到 Prompt Engineering、聊天應用、RAG、圖片生成、Function Calling、AI Agent、微調，Python + TypeScript 雙語言範例
+> ⭐116256 · 微軟出品 21 課生成式 AI 入門課程，從 LLM 基礎到 Prompt Engineering、聊天應用、RAG、圖片生成、Function Calling、AI Agent、微調，Python + TypeScript 雙語言範例
 
 ## 快速導航
+
 
 - 📖 **學習資源** → [[microsoft-AI-For-Beginners|AI for Beginners]] · [[microsoft-ai-agents-for-beginners|AI Agents for Beginners]] · [[mlabonne-llm-course|LLM Course]]
 - 🧠 **核心概念** → [[LLM]] · [[Prompt-Engineering]] · [[rag]] · [[AI-Agent]] · [[generative-AI|生成式 AI]]
@@ -83,7 +84,8 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ## 相關概念
 
-← [[generative-AI|生成式 AI]] · [[LLM]] · [[Prompt-Engineering]] · [[rag]] · [[AI-Agent]] · [[AI-Tutoring]] · [[self-education|自主學習]]
+
+← [[generative-AI]] · [[LLM]] · [[Prompt-Engineering]] · [[rag]] · [[AI-Agent]] · [[AI-Tutoring]]
 
 ## 來源
 
@@ -93,10 +95,9 @@ git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) |
-| Stars | ⭐116,256 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/microsoft/generative-ai-for-beginners |
+| Stars | ⭐116256|
 | License | MIT |
-| Language | Jupyter Notebook |
 | 收錄日期 | 2026-08-05 |

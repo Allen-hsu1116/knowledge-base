@@ -10,9 +10,10 @@ topics: [cursor, plugins, agent-skills, mcp, marketplace]
 
 # Cursor Plugins
 
-> ⭐3.0k · Cursor 官方插件規範與官方插件集，涵蓋開發工具、生產力和第三方 MCP 整合
+> ⭐2950 · Cursor 官方插件規範與官方插件集，涵蓋開發工具、生產力和第三方 MCP 整合
 
 ## 快速導航
+
 
 - 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[anthropics-claude-plugins-official]]
 - 🤖 **Agent 框架** → [[anthropics-claude-code]] · [[anomalyco-opencode]]
@@ -68,6 +69,7 @@ git clone https://github.com/cursor/plugins.git
 
 ## 相關概念
 
+
 ← [[anthropics-claude-plugins-official]] · [[agentskills-agentskills]] · [[anthropics-claude-code]] · [[anomalyco-opencode]] · [[AI-Skills]] · [[MCP]]
 
 ## 來源
@@ -77,10 +79,9 @@ git clone https://github.com/cursor/plugins.git
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | cursor/plugins |
-| Stars | ⭐3.0k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/cursor/plugins |
+| Stars | ⭐2950|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-08-16 |

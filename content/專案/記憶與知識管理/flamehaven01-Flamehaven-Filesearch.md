@@ -14,6 +14,7 @@ topics: [RAG, 搜尋引擎, 自架式]
 
 ## 快速導航
 
+
 - 🔍 **RAG** → [[rag]]（Filesearch 是自架式 RAG 搜尋引擎）
 - 📄 **文件解析** → [[document-parsing]]（支援 34 種文件格式解析）
 - 🏠 **自架式** → 完全在本機運行，無需雲端服務
@@ -73,19 +74,19 @@ curl http://localhost:8080/status
 
 ## 相關概念
 
+
 ← [[rag]] · [[document-parsing]] · [[qmd]]
 
 ## 來源
 
 - GitHub: https://github.com/flamehaven01/Flamehaven-Filesearch
-- Stars: ⭐100
-- 收錄日期: 2026-05-09
+- 原始素材：`raw/2026-08-23-flamehaven01-Flamehaven-Filesearch.md`
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/flamehaven01/Flamehaven-Filesearch |
-| **Stars** | ⭐'⭐100' |
-| **收錄日期** | 2026-05-09 |
-| **License** | MIT |
+| GitHub | https://github.com/flamehaven01/Flamehaven-Filesearch |
+| Stars | ⭐100|
+| License | MIT |
+| 收錄日期 | 2026-05-09 |

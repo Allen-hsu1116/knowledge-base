@@ -10,9 +10,10 @@ topics: [LLM, 從零訓練, 教學]
 
 # MiniMind
 
-> ⭐49,797 · 從零開始訓練 64M 參數的小型 LLM，單卡 3090 兩小時即可復現，完整覆蓋 Pretrain → SFT → RLHF 全流程。
+> ⭐49797 · 從零開始訓練 64M 參數的小型 LLM，單卡 3090 兩小時即可復現，完整覆蓋 Pretrain → SFT → RLHF 全流程。
 
 ## 快速導航
+
 - 🧠 **LLM 底層技術** → [[llm-internals]]（了解 Transformer 推論加速）
 - 🧠 **LLM 概念** → [[LLM]]（大型語言模型總覽）
 - 🛠 **模型推論與部署** → [[模型推論與部署]]（推論加速與部署）
@@ -20,7 +21,10 @@ topics: [LLM, 從零訓練, 教學]
 
 ## 是什麼
 
-MiniMind 是一個教學導向的開源 LLM 專案，目標是讓任何人在單卡 GPU 上從零訓練一個 64M 參數的語言模型。主線結構對齊 Qwen3/Qwen3-MoE，提供 Dense（64M）和 MoE（198M-A64M）兩種架構。所有核心算法用純 PyTorch 原生實現，不依賴 transformers/trl/peft 等高層封裝。
+
+MiniMind 是一個教學導向的開源 LLM 專案，目標是讓任何人在單卡 GPU 上從零訓練一個 64M 參數的語言模型。
+
+主線結構對齊 Qwen3/Qwen3-MoE，提供 Dense（64M）和 MoE（198M-A64M）兩種架構。所有核心算法用純 PyTorch 原生實現，不依賴 transformers/trl/peft 等高層封裝。
 
 ## 核心特色
 
@@ -70,22 +74,19 @@ cd scripts && streamlit run web_demo.py
 MiniMind 和 LLMs from Scratch 都主打「從零理解 LLM」，但 MiniMind 更強調「完整訓練流程的實際操作」，而 LLMs from Scratch 更偏理論教學。MiniMind 也兼容 Hugging Face Transformers 格式，可以無縫接軌到主流生態。
 
 ## 相關概念
+
 ← [[LLM]] · [[llm-internals]] · [[模型推論與部署]] · [[rasbt-LLMs-from-scratch]]
 
 ## 來源
+
+- [GitHub：專案原始碼](https://github.com/jingyaogong/minimind)
 - raw/2026-05-14-minimind.md
 
 ---
 
-- **GitHub**: https://github.com/jingyaogong/minimind
-- **Stars**: ⭐49,797
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-14
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/jingyaogong/minimind |
-| **Stars** | ⭐49,797 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/jingyaogong/minimind |
+| Stars | ⭐49797|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-10 |

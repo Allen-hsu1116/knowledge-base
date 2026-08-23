@@ -10,9 +10,10 @@ topics: [AI Skills, Web Design, Accessibility]
 
 # Vercel Agent Skills
 
-> ⭐27.7k · Vercel 官方 Agent Skills 集合，提供前端設計審查、UI 最佳實踐等技能，讓 AI Agent 能產出符合 Web Interface Guidelines 的高品質介面。
+> ⭐27725 · Vercel 官方 Agent Skills 集合，提供前端設計審查、UI 最佳實踐等技能，讓 AI Agent 能產出符合 Web Interface Guidelines 的高品質介面。
 
 ## 快速導航
+
 [[AI-Skills]] · [[AI-Skills]] · [[vercel-labs-agent-skills]] · [[Prompt-Engineering]]
 
 ## 是什麼
@@ -85,6 +86,7 @@ npx skills@latest add vercel-labs/agent-skills
 
 ## 相關概念
 
+
 - **Web Interface Guidelines**：Vercel 維護的 Web 介面最佳實踐規則集，是 web-design-guidelines 技能的審查基準
 - **UI 合規審查**：不是生成 UI，而是檢查既有 UI 是否符合最佳實踐
 - **動態規則取得**：每次審查前從遠端取得最新規則，確保標準永遠最新
@@ -96,13 +98,12 @@ npx skills@latest add vercel-labs/agent-skills
 - GitHub: <https://github.com/vercel-labs/agent-skills>
 - 原始技能: `raw/2026-06-08-vercel-labs-agent-skills-web-design-guidelines.md`
 - raw/2026-06-08-vercel-labs-agent-skills.md
+
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
-| Stars | ⭐27,725 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/vercel-labs/agent-skills |
+| Stars | ⭐27725|
 | License | MIT |
-| Language | JavaScript |
-| 技能 | web-design-guidelines |
 | 收錄日期 | 2026-06-08 |

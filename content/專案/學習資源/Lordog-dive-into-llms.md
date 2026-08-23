@@ -20,9 +20,10 @@ topics:
 
 # Dive into LLMs
 
-> ⭐45k · 上海交通大學出品的《動手學大模型》系列編程實踐教程，涵蓋微調部署、提示學習、知識編輯、數學推理、模型水印、越獄攻擊、隱寫術、多模態、GUI Agent、安全對齊等主題
+> ⭐45000 · 上海交通大學出品的《動手學大模型》系列編程實踐教程，涵蓋微調部署、提示學習、知識編輯、數學推理、模型水印、越獄攻擊、隱寫術、多模態、GUI Agent、安全對齊等主題
 
 ## 快速導航
+
 
 - 🧠 **LLM** → [[LLM]]
 - 📖 **Prompt Engineering** → [[Prompt-Engineering]]
@@ -82,6 +83,7 @@ Dive into LLMs 的核心差異化在於安全主題的深入覆蓋——越獄�
 
 ## 相關概念
 
+
 ← [[LLM]] · [[Prompt-Engineering]] · [[AI-Agent]] · [[prompt-security]]
 
 ## 來源
@@ -91,10 +93,9 @@ Dive into LLMs 的核心差異化在於安全主題的深入覆蓋——越獄�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) |
-| Stars | ⭐45,000 |
-| License | — |
-| Language | Jupyter Notebook |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/Lordog/dive-into-llms |
+| Stars | ⭐45000|
+| License | 未標示 |
 | 收錄日期 | 2026-07-25 |

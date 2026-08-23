@@ -16,9 +16,10 @@ topics:
 
 # Moonshine Voice
 
-> ⭐9.8k · 開源即時語音 AI 工具包，超低延遲 STT/TTS/意圖辨識，全裝置本地運行
+> ⭐9840 · 開源即時語音 AI 工具包，超低延遲 STT/TTS/意圖辨識，全裝置本地運行
 
 ## 快速導航
+
 
 - 🔊 **語音辨識** → [[語音辨識]]
 - 🎤 **Whisper 對比** → [[Whisper]]
@@ -92,6 +93,7 @@ tts = TextToSpeech(language="en_us")
 
 ## 相關概念
 
+
 ← [[語音辨識]] · [[Whisper]]
 
 ## 來源
@@ -103,10 +105,9 @@ tts = TextToSpeech(language="en_us")
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) |
-| Stars | ⭐9,840 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/moonshine-ai/moonshine |
+| Stars | ⭐9840|
 | License | MIT (NOASSERTION) |
-| Language | C++ |
 | 收錄日期 | 2026-07-21 |

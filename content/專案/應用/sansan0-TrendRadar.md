@@ -10,9 +10,10 @@ topics: [ai, mcp, rss, news, trending-topics, data-analysis, docker, llm]
 
 # TrendRadar
 
-> ⭐59.4k · AI 驅動輿情監控與趨勢篩選工具，聚合多平台熱點 + RSS，支援 MCP 架構和 10+ 推送管道。
+> ⭐59429 · AI 驅動輿情監控與趨勢篩選工具，聚合多平台熱點 + RSS，支援 MCP 架構和 10+ 推送管道。
 
 ## 快速導航
+
 [[MCP|MCP 協議]] · [[網頁爬蟲|網頁爬取]] · [[mvanhorn-last30days-skill|last30days]]
 
 ## 是什麼
@@ -79,7 +80,8 @@ python app.py
 | Feedly / Inoreader | RSS 閱讀器 | RSS only | 部分付費 | ❌ |
 
 ## 相關概念
-← [[MCP|MCP 協議]] · [[網頁爬蟲|網頁爬取]]
+
+← [[MCP]] · [[網頁爬蟲]]
 
 ## 來源
 
@@ -89,10 +91,9 @@ python app.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) |
-| Stars | ⭐59,429 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/sansan0/TrendRadar |
+| Stars | ⭐59429|
 | License | GPL-3.0 |
-| Language | Python |
-| 收錄日期 | 2026-06-15 |
+| 收錄日期 | 2025-04-28 |

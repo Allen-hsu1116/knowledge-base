@@ -5,14 +5,15 @@ created: 2026-07-06
 updated: 2026-07-06
 stars: 16.4k
 language: Go
-topics: multi-agent, orchestration, claude-code, copilot, codex, workspace-manager
+topics: ["multi-agent", "orchestration", "claude-code", "copilot", "codex", "workspace-manager"]
 ---
 
 # Gas Town
 
-> ⭐16.4k · 多 Agent 工作空間管理系統——The Mayor 協調 20-30 agents，git-backed hooks 持久化，Beads issue tracking
+> ⭐16400 · 多 Agent 工作空間管理系統——The Mayor 協調 20-30 agents，git-backed hooks 持久化，Beads issue tracking
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent|AI Agent]]
 - 🧠 **Agent 編排** → [[ruvnet-ruflo|Ruflo]]
@@ -84,19 +85,20 @@ Gas Town 與 [[ruvnet-ruflo|Ruflo]] 都是多 Agent 編排系統，但 Gas Town 
 
 ## 相關概念
 
-← [[AI-Agent] · [[ruvnet-ruflo] · [[Coding-Agent-CLI] · [[AI-Skills] · [[anthropics-claude-code]
+
+← [[AI-Agent]] · [[ruvnet-ruflo]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/you/repo)
 - GitHub: https://github.com/gastownhall/gastown
 - raw/2026-07-06-gastownhall-gastown.md
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| **GitHub** | https://github.com/gastownhall/gastown |
-| **Stars** | ⭐ 16,382 |
-| **License** | MIT |
-| **Language** | Go |
-| **收錄日期** | 2026-07-06 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/you/repo |
+| Stars | ⭐16400|
+| License | MIT |
+| 收錄日期 | 2026-07-06 |

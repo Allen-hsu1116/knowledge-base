@@ -10,9 +10,10 @@ topics: [AI Agent, AI Skills, MCP, 金融服務]
 
 # Anthropic Financial Services
 
-> ⭐18,951 · Anthropic 官方金融服務 Agent 和 Skills 參考庫 — 投資銀行、股權研究、私募股權、財富管理，10 個 Agent + 40+ Skill + 11 個 MCP 連接器，Claude Cowork 插件或 Managed Agent API 雙模式部署。
+> ⭐18951 · Anthropic 官方金融服務 Agent 和 Skills 參考庫 — 投資銀行、股權研究、私募股權、財富管理，10 個 Agent + 40+ Skill + 11 個 MCP 連接器，Claude Cowork 插件或 Managed Agent API 雙模式部署。
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]（10 個端到端工作流 Agent）
 - 🛠 **AI Skills** → [[AI-Skills]]（40+ 結構化 Skill + Slash 指令）
@@ -111,14 +112,19 @@ python3 scripts/check.py
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[virattt-dexter]] · [[HKUDS-Vibe-Trading]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/anthropics/financial-services)
 - raw/2026-05-11-anthropic-financial-services.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | ⭐18,951 | Apache-2.0 | 2026-05-11 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/anthropics/financial-services |
+| Stars | ⭐18951|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

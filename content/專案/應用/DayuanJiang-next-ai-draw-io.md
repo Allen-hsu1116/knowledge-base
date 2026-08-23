@@ -10,14 +10,18 @@ topics: [AI, draw.io, MCP, 資料視覺化]
 
 # Next AI Draw.io
 
-> ⭐30.3k · AI 驅動的繪圖工具，用自然語言建立 draw.io 圖表
+> ⭐30250 · AI 驅動的繪圖工具，用自然語言建立 draw.io 圖表
 
 ## 快速導航
+
 [[AI-Agent]] · [[AI-Skills]] · [[visualization|資料視覺化]] · [[ChromeDevTools-chrome-devtools-mcp|Chrome DevTools MCP]]
 
 ## 是什麼
 
-Next AI Draw.io 是一個基於 Next.js 的網頁應用，整合 AI 能力與 draw.io 圖表。使用者可以透過自然語言指令建立、修改和增強圖表，支援雲架構圖（AWS、GCP、Azure）、流程圖、甚至動畫連接線。
+
+Next AI Draw.io 是一個基於 Next.js 的網頁應用，整合 AI 能力與 draw.io 圖表。
+
+使用者可以透過自然語言指令建立、修改和增強圖表，支援雲架構圖（AWS、GCP、Azure）、流程圖、甚至動畫連接線。
 
 ## 核心特色
 
@@ -64,7 +68,8 @@ claude mcp add drawio -- npx @next-ai-drawio/mcp-server@latest
 
 ## 相關概念
 
-← [[AI-Agent]] · [[AI-Skills]] · [[visualization|資料視覺化]] · [[ChromeDevTools-chrome-devtools-mcp|Chrome DevTools MCP]]
+
+← [[AI-Agent]] · [[AI-Skills]] · [[visualization]] · [[ChromeDevTools-chrome-devtools-mcp]]
 
 ## 來源
 
@@ -74,10 +79,9 @@ claude mcp add drawio -- npx @next-ai-drawio/mcp-server@latest
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) |
-| Stars | ⭐30,250 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/DayuanJiang/next-ai-draw-io |
+| Stars | ⭐30250|
 | License | Apache-2.0 |
-| Language | TypeScript |
 | 收錄日期 | 2026-05-28 |

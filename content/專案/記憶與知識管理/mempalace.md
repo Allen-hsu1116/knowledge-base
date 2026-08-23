@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, 記憶, RAG, 知識圖譜]
 
 # MemPalace
 
-> ⭐50,787 · 本地優先 AI 記憶系統，逐字儲存對話歷史，結構化宮殿索引 + 語意搜尋，LongMemEval 96.6% R@5 零 API 呼叫。
+> ⭐50787 · 本地優先 AI 記憶系統，逐字儲存對話歷史，結構化宮殿索引 + 語意搜尋，LongMemEval 96.6% R@5 零 API 呼叫。
 
 ## 快速導航
+
 
 - 📚 **記憶方法對比** → [[llm-knowledge-base]]
 - 🛠 **MCP 整合** → [[project-golem]]
@@ -21,7 +22,10 @@ topics: [AI Agent, MCP, 記憶, RAG, 知識圖譜]
 
 ## 是什麼
 
-MemPalace 是一個 local-first 的 AI 記憶系統。跟 Mem0、Zep 等競品不同，它**不摘要、不提取、不改寫** — 原文逐字儲存，用結構化索引 + 語意搜尋做檢索。宮殿結構（Wings → Rooms → Drawers）讓搜尋可以限定範圍，比單純的向量搜尋更精準。所有資料留在本機，除非你選擇送出。
+
+MemPalace 是一個 local-first 的 AI 記憶系統。
+
+跟 Mem0、Zep 等競品不同，它**不摘要、不提取、不改寫** — 原文逐字儲存，用結構化索引 + 語意搜尋做檢索。宮殿結構（Wings → Rooms → Drawers）讓搜尋可以限定範圍，比單純的向量搜尋更精準。所有資料留在本機，除非你選擇送出。
 
 ## 核心特色
 
@@ -167,15 +171,20 @@ MemPalace 的宮殿結構（Wings → Rooms → Drawers）跟 [[llm-knowledge-ba
 
 ## 相關概念
 
+
 ← [[llm-knowledge-base]] · [[project-golem]] · [[hermes-agent]] · [[agent-persona]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/MemPalace/mempalace)
 - raw/MemPalace-mempalace.md（raw/2026-05-02-mempalace.md）
 - raw/2026-05-07-mempalace-usage-discussion.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | ⭐50,787 | MIT | 2026-05-02 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/MemPalace/mempalace |
+| Stars | ⭐50787|
+| License | 未標示 |
+| 收錄日期 | 2026-05-10 |

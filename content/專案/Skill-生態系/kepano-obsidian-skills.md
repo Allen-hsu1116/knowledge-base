@@ -10,9 +10,10 @@ topics: [agents, agentskills, obsidian, claude, codex, opencode, hermes, opencla
 
 # Obsidian Skills
 
-> ⭐45.8k · Obsidian 官方 Agent Skills——教你的 agent 用 Obsidian CLI 和開放格式，5 個 Skill 覆蓋 Markdown、Bases、JSON Canvas、CLI、網頁擷取
+> ⭐45750 · Obsidian 官方 Agent Skills——教你的 agent 用 Obsidian CLI 和開放格式，5 個 Skill 覆蓋 Markdown、Bases、JSON Canvas、CLI、網頁擷取
 
 ## 快速導航
+
 
 - 🛠️ **Skill 生態系** → [[agentskills-agentskills]] · [[AI-Skills]]
 - 🤖 **Agent 框架** → [[anthropics-claude-code]] · [[anthropics-claude-code]]
@@ -68,6 +69,7 @@ git clone https://github.com/kepano/obsidian-skills.git ~/.opencode/skills/obsid
 
 ## 跟其他方案的關係
 
+
 - **Anthropic Skills**：Anthropic 官方 Skill 庫，偏向前端設計和 web testing；Obsidian Skills 專注知識管理格式
 - **addyosmani/agent-skills**：社群 Skill 庫，通用型；Obsidian Skills 是 Obsidian 專屬
 - **Basic Memory**：另一個 Markdown 知識庫 + MCP；Obsidian Skills 不提供自己的儲存，純粹教 agent 操作 Obsidian 格式
@@ -76,7 +78,14 @@ git clone https://github.com/kepano/obsidian-skills.git ~/.opencode/skills/obsid
 
 Obsidian Skills 的定位是「Obsidian 的 agent 介面」——不替代 Obsidian 本身，而是讓 AI agent 能正確讀寫 Obsidian 的開放格式。
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[agentskills-agentskills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[AI-Skills]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
 ## 相關概念
+
 
 ← [[agentskills-agentskills]] · [[AI-Skills]] · [[anthropics-claude-code]] · [[llm-knowledge-base]] · [[llm-knowledge-base]] · [[MCP]]
 
@@ -89,10 +98,9 @@ Obsidian Skills 的定位是「Obsidian 的 agent 介面」——不替代 Obsid
 
 ---
 
-| 欄位 | 值 |
-|------|-----|
-| GitHub | kepano/obsidian-skills |
-| Stars | ⭐45.8k |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/kepano/obsidian-skills |
+| Stars | ⭐45750|
 | License | MIT |
-| Language | Markdown |
 | 收錄日期 | 2026-08-14 |

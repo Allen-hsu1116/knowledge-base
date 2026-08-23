@@ -10,9 +10,10 @@ topics: [AI Agent, Generative UI, AG-UI Protocol, React]
 
 # CopilotKit
 
-> ⭐32.7k · AI Agent 前端全棧框架，AG-UI Protocol 發起者——讓同一個 Agent 驅動 Web、Mobile、Slack 三端
+> ⭐32684 · AI Agent 前端全棧框架，AG-UI Protocol 發起者——讓同一個 Agent 驅動 Web、Mobile、Slack 三端
 
 ## 快速導航
+
 [[AI-Agent|AI Agent]] · [[MCP|MCP]] · [[CopilotKit-CopilotKit|CopilotKit]]
 
 ## 是什麼
@@ -91,19 +92,20 @@ sdk = CopilotKitSDK(
 CopilotKit 的差異化在於它是唯一把「Agent 和 UI 的互動」標準化的框架——AG-UI Protocol 讓 Agent 推送的不只是文字，而是完整的 UI 事件流；而 Generative UI 讓 Agent 能動態渲染元件，這是其他 Agent 框架（如 LangChain、CrewAI）在前端層做不到的。
 
 ## 相關概念
-← [[AI-Agent|AI Agent]] · [[MCP|MCP]]
+
+← [[AI-Agent]] · [[MCP]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/ag-ui-protocol/ag-ui)
 - GitHub: <https://github.com/CopilotKit/CopilotKit>
 - 原始 README: `raw/2026-06-06-CopilotKit-CopilotKit.md`
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) |
-| Stars | ⭐32,684 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/ag-ui-protocol/ag-ui |
+| Stars | ⭐32684|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-06-06 |

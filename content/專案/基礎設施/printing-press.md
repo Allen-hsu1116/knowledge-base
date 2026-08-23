@@ -2,82 +2,80 @@
 title: Printing Press
 slug: printing-press
 created: 2026-05-09
-updated: 2026-05-09
-stars: 30
-language: zh-TW
-topics: [Prompt Engineering, 文件轉換]
+updated: 2026-08-23
+stars: 1
+language: TypeScript
+topics: [static-site-generator, markdown, typescript, cli]
 ---
 
 # Printing Press
 
-> ⭐30 · Markdown 轉書籍 CLI 工具，將 Markdown 原稿轉換為排版精美的書籍格式。
+> ⭐1 · 以 TypeScript 製作的 Markdown 靜態網站產生器；專案已封存，適合研究簡潔的 SSG 與 CLI 架構。
 
 ## 快速導航
 
-- ✍️ **Prompt Engineering** → [[Prompt-Engineering]]（Printing Press 使用提示工程技術驅動格式轉換）
-- 📄 **文件轉換** → [[document-parsing]]（Printing Press 是文件轉換工具）
+
+- 📄 **Markdown 文件處理** → [[document-parsing]]
+- ⚙️ **內容自動化** → [[content-automation]]
 
 ## 是什麼
 
-Printing Press 是一個開源 CLI 工具，能將 Markdown 原稿轉換為排版精美的書籍格式（PDF、EPUB 等）。它專為技術寫作和知識整理場景設計，讓作者專注內容，排版交給工具處理。
+Printing Press 是 `impadalko/printing-press` 的開源 TypeScript 靜態網站產生器，從 Markdown 內容建立網站，而不是原頁面誤寫的 PDF／EPUB 書籍排版工具。npm registry 顯示最新版本為 0.4.2，套件說明也是「A Markdown static site generator built in TypeScript」。
 
-核心理念：寫書不應該被排版綁架。用 Markdown 寫作，用 Printing Press 轉換，專注內容品質。
+GitHub 倉庫已由作者在 2026-05-10 封存並設為唯讀，最後一版程式碼約在五年前更新。因此它比較適合閱讀架構、理解小型 SSG 的實作，不適合當成仍積極維護的生產工具。
 
 ## 核心特色
 
-- **Markdown 優先**：以 Markdown 作為源格式，低門檻、高可攜性，任何文字編輯器都能開始創作
-- **多格式輸出**：支援 PDF、EPUB、MOBI 等常見書籍格式，一次撰寫多平台發行
-- **模板系統**：內建多種書籍排版模板（技術手冊、學術論文、小說等），自訂樣式靈活
-- **CLI 工作流**：命令列介面，方便整合到 CI/CD 自動化管線或 Makefile 工作流
-- **Prompt Engineering 驅動**：利用提示工程技術最佳化格式轉換品質，確保輸出排版一致
-- **章節管理**：支援多章節、多檔案整合，目錄自動生成，交叉引用自動解析
-- **中文字體支援**：自動處理中日韓字體排版，適合中文技術書籍和學術出版物
-- **客製化主题**：支援 CSS 主題覆蓋，可自訂字體、行距、頁邊距等排版細節
+- **Markdown 輸入** — 以 Markdown 作為網站內容來源。
+- **TypeScript 實作** — 程式碼與 API 採 TypeScript，便於型別化維護。
+- **CLI 介面** — npm 套件提供 `printing-press` 執行檔。
+- **靜態網站產生** — 定位是 SSG，而非文件轉 PDF／EPUB。
+- **已封存** — 倉庫唯讀，採用前需評估維護與相容性風險。
 
 ## 怎麼用
 
+安裝 npm 套件後，可先查看 CLI 內建說明；由於專案已封存，實際使用前應在隔離環境驗證 Node.js 相容性。
+
 ```bash
-# 安裝
-npm install -g printing-press
+npm install -g printing-press@0.4.2
+printing-press --help
+```
 
-# 基本使用 — 轉換為 PDF
-press build my-book.md --output pdf
+若要研究原始碼，可直接複製倉庫：
 
-# 指定模板 — 轉換為 EPUB
-press build my-book.md --template technical --output epub
-
-# 批次轉換 — 處理整個目錄
-press build ./chapters/ --output pdf --output-dir ./dist
-
-# 自訂封面 — 加上封面圖片
-press build my-book.md --cover ./cover.png --output pdf
-
-# 使用自訂主題
-press build my-book.md --theme ./my-theme.css --output pdf
+```bash
+git clone https://github.com/impadalko/printing-press.git
+cd printing-press
+npm install
+npm test
 ```
 
 ## 跟其他方案的關係
 
-| 專案 | 定位 | 關係 |
-|------|------|------|
-| [[microsoft-markitdown]] | 文件轉 Markdown | MarkItDown 是反向操作（各格式→Markdown） |
-| [[docling]] | 文件解析庫 | Docling 側重解析，Printing Press 側重輸出排版 |
-| Pandoc | 通用文件轉換 | Pandoc 是通用轉換器，Printing Press 專注書籍排版品質 |
-| GitBook | 書籍發布平台 | GitBook 是 SaaS 平台，Printing Press 是 CLI 工具 |
-| mdBook | Rust 語言書籍工具 | mdBook 側重線上閱讀，Printing Press 側重多格式輸出 |
+| 方案 | 定位 | 維護狀態 |
+|------|------|----------|
+| Printing Press | TypeScript Markdown SSG | 已封存 |
+| [[TryGhost-Ghost|Ghost]] | 完整內容管理與發布平台 | 持續維護 |
+| [[microsoft-markitdown|MarkItDown]] | 將多種文件轉為 Markdown | 持續維護 |
+
+Printing Press 的範圍較小，重點是 Markdown 到靜態網站；Ghost 包含編輯、會員與發布能力，MarkItDown 則處理相反方向的「其他格式到 Markdown」。
 
 ## 相關概念
 
-← [[Prompt-Engineering]] · [[document-parsing]]
+
+← [[document-parsing]] · [[content-automation]] · [[open-source-business]]
 
 ## 來源
 
-- （無明確來源）
+- [GitHub：impadalko/printing-press](https://github.com/impadalko/printing-press)
+- [npm：printing-press](https://www.npmjs.com/package/printing-press)
+- 原始素材：`raw/2026-08-23-printing-press.md`
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **Stars** | ⭐30 |
-| **收錄日期** | 2026-05-09 |
-| **License** | 未標示 |
+| GitHub | https://github.com/impadalko/printing-press |
+| Stars | ⭐1|
+| License | GPL-3.0-or-later |
+| 收錄日期 | 2026-05-09 |

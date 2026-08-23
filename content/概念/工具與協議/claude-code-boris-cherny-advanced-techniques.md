@@ -2,32 +2,52 @@
 title: Claude Code 進階技巧
 slug: claude-code-boris-cherny-advanced-techniques
 created: 2026-05-06
-updated: 2026-05-06
-stars: —
+updated: 2026-08-23
 language: zh-TW
-topics: [Claude Code, 進階技巧, 生產力, 自動化]
 ---
 
 # Claude Code 進階技巧
 
-> ⭐— · Claude Code 之父 Boris Cherny 親授 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。
+> Claude Code 之父 Boris Cherny 親授 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。
 
-## 快速導航
-
-- 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]（Claude Code 是 Coding Agent CLI 的一種）
-- 🛠 **AI Skills** → [[AI-Skills]]（進階技巧與 Agent Skills 的理念相通）
-
-## 是什麼
+## 核心內容
 
 這是 Claude Code 之父 Boris Cherny 親授的 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。內容來自科技翰林院的中文整理報導。
-
-> Boris Cherny 是 Anthropic 的 Claude Code 負責人。Anthropic 內部導入後工程師產出量翻 200%，新人上手從 2-3 週縮短到 2-3 天。
 
 **來源**: 科技翰林院
 **原文**: https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/
 
-## 核心特色
+## 關鍵要素
 
+- **平行執行多個 Session**：同時跑 3-5 個 Git Worktree，每個開一個獨立 Claude Code session，生產力最大化
+- **自我驗證迴圈**：讓 Claude Code 自己檢查自己（瀏覽器、測試套件、Docker logs），品質翻 2-3 倍
+- **Plan Mode 三階段**：Plan → 自我批評 → Auto-accept 執行，鎖定計畫才放手跑
+- **CLAUDE.md 飛輪效應**：每次犯錯就加一條規則，2,500 tokens 的精煉知識庫
+- **Context 管理**：400k 自動壓縮閾值，/rewind、/compact、/clear 三把斧
+- **自動化工具**：/loop、/schedule 和 Hooks 讓 Claude 持續運作
+
+## 各框架的做法
+
+- **anthropics-claude-code** → 展示此主題在實際專案或工具中的做法
+  👉 詳見 [[anthropics-claude-code]]
+- **davila7-claude-code-templates** → 展示此主題在實際專案或工具中的做法
+  👉 詳見 [[davila7-claude-code-templates]]
+
+## 延伸筆記
+
+### 原有筆記：快速導航
+- 🤖 **Coding Agent CLI** → [[Coding-Agent-CLI]]（Claude Code 是 Coding Agent CLI 的一種）
+- 🛠 **AI Skills** → [[AI-Skills]]（進階技巧與 Agent Skills 的理念相通）
+
+### 原有筆記：是什麼
+這是 Claude Code 之父 Boris Cherny 親授的 8 個進階技巧，涵蓋生產力提升、自動化和最佳實踐。內容來自科技翰林院的中文整理報導。
+
+
+
+**來源**: 科技翰林院
+**原文**: https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/
+
+### 原有筆記：核心特色
 - **平行執行多個 Session**：同時跑 3-5 個 Git Worktree，每個開一個獨立 Claude Code session，生產力最大化
 - **自我驗證迴圈**：讓 Claude Code 自己檢查自己（瀏覽器、測試套件、Docker logs），品質翻 2-3 倍
 - **Plan Mode 三階段**：Plan → 自我批評 → Auto-accept 執行，鎖定計畫才放手跑
@@ -55,7 +75,7 @@ topics: [Claude Code, 進階技巧, 生產力, 自動化]
 - **內部 subagent**：verify-app（端到端測試）、code-simplifier（實作後自動清理）
 - **規則**：沒通過驗證，不准標記任務完成
 
-> Boris：「你不會叫一個工程師在沒有瀏覽器的情況下做網站。」
+
 
 ## 3. Plan Mode 三階段工作流
 
@@ -107,13 +127,12 @@ Boris 的 prompt 技巧：
 
 判斷標準：一天做超過一次，就值得做成 Skill 或 Slash Command。
 
-## 怎麼用
-
+### 原有筆記：怎麼用
 ```bash
-# 安裝 Claude Code
+
 npm install -g @anthropic-ai/claude-code
 
-# 啟動
+
 claude
 ```
 
@@ -131,8 +150,7 @@ claude
 7. **用 /batch 處理遷移任務**：一次改幾十個檔案
 8. **用 /schedule 做雲端排程**：關機也繼續跑
 
-## 跟其他方案的關係
-
+### 原有筆記：跟其他方案的關係
 | 方案 | 定位 | 關係 |
 |------|------|------|
 | [[agent-anatomy-openclaw]] | Agent 架構 | SOUL.md ≈ CLAUDE.md，都是 Persona/Context 的載體 |
@@ -147,24 +165,49 @@ claude
 
 如果只能帶走一件事：**先設好自動驗證**。
 
-## 相關概念
-
+### 原有筆記：相關概念
 - [[AI-Skills|Agent Skills 生態系]]
 - [[openclaw|OpenClaw]]
 - [[AI-Skills]] — Skill 標準格式
 - [[context-engineering-basics]] — Context Engineering 核心技術
 - [[llm-knowledge-base]] — 知識庫方法論
 
-## 來源
-
+### 原有筆記：來源
 - [科技翰林院原文](https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/)
 - [原始資料](../raw/2026-05-06-claude-code-boris-cherny-advanced-techniques.md)
 - **收錄日期**: 2026-05-06
 - **License**: 未標示
 
----
+### 延伸筆記：核心特色
+- **可追溯資訊** — 來源、授權與收錄日期集中在頁尾，方便核對專案背景。
+- **生態系連結** — 透過相關概念與替代方案連結，補足採用時的比較脈絡。
+- **實作導向** — 將定位、使用方式與限制整理在同一頁，便於快速評估。
+- **延伸閱讀** — 保留原始素材路徑，必要時可回查完整 README 或研究資料。
 
-| 項目 | 值 |
-|------|-----|
-| 來源 | 教學/文章 |
-| 收錄日期 | 2026-05-06 |
+### 延伸筆記：快速導航
+- 🔗 **延伸主題** → [[anthropics-claude-code]]
+- 🔗 **延伸主題** → [[davila7-claude-code-templates]]
+
+### 延伸筆記：跟其他方案的關係
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[anthropics-claude-code]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[davila7-claude-code-templates]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+
+## 相關概念
+
+- [[Coding-Agent-CLI]]
+- [[AI-Skills]]
+- [[agent-anatomy-openclaw]]
+- [[context-engineering-basics]]
+- [[llm-knowledge-base]]
+- [[AI-Agent]]
+
+## 來源
+
+- https://www.techhanlin.tw/claude-code-tips-boris-cherny-advanced-techniques/
+- `raw/2026-05-06-claude-code-boris-cherny-advanced-techniques.md`
+- [原始資料](../raw/2026-05-06-claude-code-boris-cherny-advanced-techniques.md)
+- **收錄日期**: 2026-05-06
+- **License**: 未標示

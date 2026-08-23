@@ -15,9 +15,10 @@ topics:
 
 # OpenWork
 
-> ⭐17.9k · 開源版 Claude Cowork，用一個 MCP 把 Skills、Plugins 和連接的服務跨 Agent、跨團隊、跨機器共享
+> ⭐17911 · 開源版 Claude Cowork，用一個 MCP 把 Skills、Plugins 和連接的服務跨 Agent、跨團隊、跨機器共享
 
 ## 快速導航
+
 
 - 🤖 **AI Agent** → [[AI-Agent]]
 - 🔌 **MCP** → [[MCP]]
@@ -95,6 +96,7 @@ OpenWork 的核心差異化在於：用一個 MCP 就能在所有 Agent 之間�
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[MCP]] · [[Coding-Agent-CLI]] · [[self-hosted]] · [[AI-Skills]]
 
 ## 來源
@@ -105,10 +107,9 @@ OpenWork 的核心差異化在於：用一個 MCP 就能在所有 Agent 之間�
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [different-ai/openwork](https://github.com/different-ai/openwork) |
-| Stars | ⭐17,911 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/different-ai/openwork |
+| Stars | ⭐17911|
 | License | NOASSERTION |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-30 |

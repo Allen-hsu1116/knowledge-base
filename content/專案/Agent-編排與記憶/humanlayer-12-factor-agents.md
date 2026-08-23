@@ -10,7 +10,7 @@ topics: [Agent 設計原則, 工程實踐]
 
 # 12-Factor Agents
 
-> ⭐20,278 · Principles for building reliable LLM-powered software — the agent equivalent of 12 Factor Apps
+> ⭐24159 · Principles for building reliable LLM-powered software — the agent equivalent of 12 Factor Apps
 
 **Repo:** <https://github.com/humanlayer/12-factor-agents>
 **Stars:** ⭐ 20,278
@@ -22,6 +22,7 @@ topics: [Agent 設計原則, 工程實踐]
 借鏡 12 Factor Apps 的精神，提出 12 條打造可靠 LLM Agent 的工程原則——核心主張是好的 Agent 大部分是軟體，LLM 只在關鍵點 sprinkled in。
 
 ## 快速導航
+
 
 - ⚡ [[AI-Agent]] · [[context-engineering-basics]] · [[Prompt-Engineering]]
 
@@ -98,6 +99,7 @@ cd 12-factor-agents
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[context-engineering-basics]] · [[self-correction]] · [[Prompt-Engineering]] · [[MCP]]
 
 ## 核心洞見
@@ -108,12 +110,14 @@ cd 12-factor-agents
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/humanlayer/12-factor-agents)
 - [原始資料](../raw/2026-05-18-humanlayer-12-factor-agents.md)
 
 ---
 
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/humanlayer/12-factor-agents |
-| **收錄日期** | 2025-03-30 |
-| **License** | NOASSERTION |
+| GitHub | https://github.com/humanlayer/12-factor-agents |
+| Stars | ⭐24159|
+| License | NOASSERTION |
+| 收錄日期 | 2025-03-30 |

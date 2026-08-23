@@ -10,9 +10,10 @@ topics: [ai-agent, local-first, event-sourcing, agent-runtime, desktop, cli]
 
 # Apache Maka
 
-> ⭐2.0k · Apache 孵化中的 local-first Agent 工作空間，以 append-only Runtime Event Log 統一桌面、TUI、CLI 與可重現評測。
+> ⭐2018 · Apache 孵化中的 local-first Agent 工作空間，以 append-only Runtime Event Log 統一桌面、TUI、CLI 與可重現評測。
 
 ## 快速導航
+
 
 - 🤖 [[AI-Agent]] — 以模型、工具、權限與執行生命週期完成真實工作
 - 🧰 [[harness-engineering]] — Runtime Host、evidence、recovery 與 eval 共同構成 Agent harness
@@ -73,6 +74,7 @@ Maka 的差異不只是桌面 UI，而是把 execution log、context projection�
 
 ## 相關概念
 
+
 ← [[AI-Agent]] · [[harness-engineering]] · [[Context-Database]]
 
 ## 來源
@@ -83,10 +85,9 @@ Maka 的差異不只是桌面 UI，而是把 execution log、context projection�
 
 ---
 
-| 項目 | 值 |
-|------|----|
-| **GitHub** | https://github.com/apache/maka |
-| **Stars** | ⭐2,018 |
-| **License** | Apache-2.0 |
-| **Language** | TypeScript |
-| **收錄日期** | 2026-08-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/apache/maka |
+| Stars | ⭐2018|
+| License | Apache-2.0 |
+| 收錄日期 | 2026-08-22 |

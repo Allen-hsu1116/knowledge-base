@@ -20,9 +20,10 @@ topics:
 
 # Machine Learning Systems (CS249r)
 
-> ⭐25.6k · 哈佛 ML Systems 教科書，從模型到基礎設施的完整 AI 工程課程，MIT Press 2026 出版
+> ⭐25586 · 哈佛 ML Systems 教科書，從模型到基礎設施的完整 AI 工程課程，MIT Press 2026 出版
 
 ## 快速導航
+
 
 - 📖 **學習資源** → [[microsoft-AI-For-Beginners|AI for Beginners]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
 - 🧠 **模型推論** → [[模型推論與部署]] · [[vLLM]]
@@ -82,6 +83,7 @@ marimo run lab_00_introduction.py
 
 ## 跟其他方案的關係
 
+
 - **[[microsoft-AI-For-Beginners|AI for Beginners]]** → 微軟 12 週 AI 入門課程，CS249r 更深入系統工程層面
 - **[[rasbt-LLMs-from-scratch|LLMs from Scratch]]** → 從零建構 LLM，CS249r 更廣泛涵蓋 ML 系統全貌
 - **[[mlabonne-llm-course|LLM Course]]** → LLM 專項學習路線圖，CS249r 是完整 ML Systems 課程
@@ -90,8 +92,14 @@ marimo run lab_00_introduction.py
 
 ← [[microsoft-AI-For-Beginners|AI for Beginners]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]] · [[模型推論與部署]]
 
+| 方案 | 定位 | 關係 |
+|------|------|------|
+| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
+| [[microsoft-AI-For-Beginners]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| [[rasbt-LLMs-from-scratch]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
 
 ← [[microsoft-AI-For-Beginners]] · [[rasbt-LLMs-from-scratch]] · [[模型推論與部署]] · [[vLLM]]
 
@@ -105,10 +113,9 @@ marimo run lab_00_introduction.py
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) |
-| Stars | ⭐25,586 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/harvard-edge/cs249r_book |
+| Stars | ⭐25586|
 | License | CC-BY-NC-SA 4.0 |
-| Language | Python |
 | 收錄日期 | 2026-07-03 |

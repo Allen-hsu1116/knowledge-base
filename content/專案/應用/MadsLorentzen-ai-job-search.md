@@ -16,9 +16,10 @@ topics:
 
 # AI Job Search
 
-> ⭐10.9k · 基於 Claude Code 的 AI 求職框架——Fork 它、填入你的履歷，讓 Claude 評估職缺、客製化 CV、寫求職信、準備面試
+> ⭐10898 · 基於 Claude Code 的 AI 求職框架——Fork 它、填入你的履歷，讓 Claude 評估職缺、客製化 CV、寫求職信、準備面試
 
 ## 快速導航
+
 - [[Coding-Agent-CLI]]
 - [[AI-Skills]]
 - [[productivity]]
@@ -94,7 +95,8 @@ claude
 
 ## 相關概念
 
-← [[Coding-Agent-CLI] · [[AI-Skills] · [[productivity] · [[santifer-career-ops]
+
+← [[Coding-Agent-CLI]] · [[AI-Skills]]
 
 ## 來源
 
@@ -104,10 +106,9 @@ claude
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |
-| Stars | ⭐10,898 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/MadsLorentzen/ai-job-search |
+| Stars | ⭐10898|
 | License | MIT |
-| Language | TypeScript |
 | 收錄日期 | 2026-07-08 |

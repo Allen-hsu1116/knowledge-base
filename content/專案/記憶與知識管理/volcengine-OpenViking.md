@@ -10,9 +10,10 @@ topics: [Context Database, RAG, AI Agent]
 
 # OpenViking
 
-> ⭐23,398 · 開源 Context Database，專為 AI Agent 設計。以檔案系統範式統一管理記憶、資源和技能，告別傳統 RAG 的碎片化儲存。
+> ⭐23398 · 開源 Context Database，專為 AI Agent 設計。以檔案系統範式統一管理記憶、資源和技能，告別傳統 RAG 的碎片化儲存。
 
 ## 快速導航
+
 
 - 🗄️ **Context Database** → [[Context-Database]]
 - 🔍 **RAG** → [[LLM]]
@@ -21,7 +22,10 @@ topics: [Context Database, RAG, AI Agent]
 
 ## 是什麼
 
-OpenViking 是字節跳動（火山引擎）開源的 Context Database，核心概念是用**檔案系統範式**取代傳統 RAG 的碎片化向量儲存。記憶、資源、技能全部用檔案系統組織，Agent 可以像操作檔案一樣管理上下文。
+
+OpenViking 是字節跳動（火山引擎）開源的 Context Database，核心概念是用**檔案系統範式**取代傳統 RAG 的碎片化向量儲存。
+
+記憶、資源、技能全部用檔案系統組織，Agent 可以像操作檔案一樣管理上下文。
 
 ## 核心特色
 
@@ -75,23 +79,19 @@ OpenViking 是 [[Context-Database]] 的實作，也是傳統 [[LLM]] RAG 的替�
 
 ## 相關概念
 
+
 ← [[Context-Database]] · [[LLM]] · [[AI-Agent]] · [[openviking]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/volcengine/OpenViking)
 - raw/volcengine-OpenViking.md
 
 ---
 
-- **GitHub**: https://github.com/volcengine/OpenViking
-- **Stars**: ⭐23,398
-- **License**: Apache 2.0
-- **收錄日期**: 2026-05-04
-
----
-
-| 項目 | 值 |
+| 欄位 | 資訊 |
 |------|------|
-| **GitHub** | https://github.com/volcengine/OpenViking |
-| **Stars** | ⭐23,398 |
-| **收錄日期** | 2026-05-10 |
+| GitHub | https://github.com/volcengine/OpenViking |
+| Stars | ⭐23398|
+| License | Apache 2.0 |
+| 收錄日期 | 2026-05-10 |

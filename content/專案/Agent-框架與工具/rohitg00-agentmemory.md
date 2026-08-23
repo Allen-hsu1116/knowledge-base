@@ -10,9 +10,10 @@ topics: [AI Agent, MCP, 記憶, RAG]
 
 # agentmemory — Persistent Memory for AI Coding Agents
 
-> ⭐15.1k · AI coding agent 的持久化記憶系統，讓 agent 跨 session 記住所有決策與上下文
+> ⭐15140 · AI coding agent 的持久化記憶系統，讓 agent 跨 session 記住所有決策與上下文
 
 ## 快速導航
+
 
 - 🧠 **記憶系統** → [[MCP]]（透過 MCP 協議與各種 agent 通訊）
 - 🤖 **AI Agent** → [[AI-Agent]]（為 AI coding agent 打造的記憶引擎）
@@ -21,7 +22,10 @@ topics: [AI Agent, MCP, 記憶, RAG]
 
 ## 是什麼
 
-agentmemory 是一個專為 AI coding agent 設計的持久化記憶系統，讓 agent 能跨 session 記住所有決策與上下文。透過 auto hooks 靜默捕捉 agent 行為，壓縮成可搜尋的記憶，下次 session 啟動時自動注入正確上下文。支援 Claude Code、Cursor、Gemini CLI、Codex CLI、Hermes、OpenClaw、pi、OpenCode、Cline、Goose、Aider 等任何支援 MCP 或 HTTP 的 agent。
+
+agentmemory 是一個專為 AI coding agent 設計的持久化記憶系統，讓 agent 能跨 session 記住所有決策與上下文。
+
+透過 auto hooks 靜默捕捉 agent 行為，壓縮成可搜尋的記憶，下次 session 啟動時自動注入正確上下文。支援 Claude Code、Cursor、Gemini CLI、Codex CLI、Hermes、OpenClaw、pi、OpenCode、Cline、Goose、Aider 等任何支援 MCP 或 HTTP 的 agent。
 
 ## 核心特色
 
@@ -63,14 +67,19 @@ npx agentmemory
 
 ## 相關概念
 
-← [[AI-Agent]] · [[MCP]] · [[LLM]] · [[rag]] · [[supermemoryai-supermemory|Supermemory]] · [[TencentCloud-TencentDB-Agent-Memory|TencentDB Agent Memory]]
+
+← [[AI-Agent]] · [[MCP]] · [[LLM]] · [[rag]] · [[supermemoryai-supermemory]] · [[TencentCloud-TencentDB-Agent-Memory]]
 
 ## 來源
 
+- [GitHub：專案原始碼](https://github.com/rohitg00/agentmemory)
 - raw/2026-05-22-rohitg00-agentmemory.md
 
 ---
 
-| GitHub | Stars | License | 收錄日期 |
-|--------|-------|---------|----------|
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | ⭐15,140 | 待確認 | 2026-05-22 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/rohitg00/agentmemory |
+| Stars | ⭐15140|
+| License | 未標示 |
+| 收錄日期 | 2026-05-22 |

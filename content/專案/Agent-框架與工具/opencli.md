@@ -12,9 +12,10 @@ topics: [ai-agent, mcp, ai-skills]
 
 # OpenCLI
 
-> ⭐26.9k · 詳見 [[jackwener-OpenCLI]]
+> ⭐26909 · 詳見 [[jackwener-OpenCLI]]
 
 ## 快速導航
+
 
 - ⚡ [[Coding-Agent-CLI]] · [[MCP]] · [[AI-Agent]]
 
@@ -82,6 +83,7 @@ Skills 讓 AI Agent 可以透過已登入的瀏覽器 session 操作網站。
 
 ## 相關概念
 
+
 ← [[Coding-Agent-CLI]] · [[MCP]] · [[AI-Agent]] · [[jackwener-OpenCLI]]
 
 ## 來源
@@ -92,10 +94,9 @@ Skills 讓 AI Agent 可以透過已登入的瀏覽器 session 操作網站。
 
 ---
 
-| 項目 | 值 |
-|------|-----|
-| GitHub | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) |
-| Stars | ⭐26,909 |
+| 欄位 | 資訊 |
+|------|------|
+| GitHub | https://github.com/jackwener/OpenCLI |
+| Stars | ⭐26909|
 | License | MIT |
-| Language | Node.js |
 | 收錄日期 | 2026-05-05 |
