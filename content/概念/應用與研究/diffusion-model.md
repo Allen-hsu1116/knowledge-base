@@ -2,7 +2,7 @@
 title: 擴散模型
 slug: diffusion-model
 created: 2025-06-07
-updated: 2025-06-07
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -35,6 +35,8 @@ language: zh-TW
   👉 詳見 [[Lightricks-LTX-2|LTX-2]]
 - **VoxCPM** → Diffusion AR 語音合成，Tokenizer-Free 設計
   👉 詳見 [[OpenBMB-VoxCPM|VoxCPM]]
+- **ComfyUI** → 以節點圖操作 Stable Diffusion、FLUX、Wan、LTX 等模型，並用局部重算提升反覆調參效率
+  👉 詳見 [[Comfy-Org-ComfyUI|ComfyUI]]
 
 ## 相關概念
 

@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-08-21
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -47,6 +47,8 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
   👉 詳見 [[AprilNEA-OpenLogi|OpenLogi]]
 - **Google Timeline Visualizer** → Timeline JSON 留在裝置端，只向底圖供應商請求可見區域 tiles
   👉 詳見 [[mahlernim-google-timeline-visualizer|Google Timeline Visualizer]]
+- **Vaultwarden** → 把 Bitwarden 相容密碼庫部署在自有環境，以資料主權換取 HTTPS、更新與備份責任
+  👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
 
 ## 相關概念
 

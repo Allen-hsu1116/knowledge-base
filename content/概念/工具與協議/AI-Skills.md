@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-08-22
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -42,6 +42,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
   👉 詳見 [[mukul975-Anthropic-Cybersecurity-Skills|Anthropic Cybersecurity Skills]]
 - **OpenAI Skills** → Figma、Design System 等 Skill
   👉 詳見 [[openai-skills|OpenAI Skills]]
+- **Awesome Agent Skills** → 策展 1,497+ 官方與社群 Skill，涵蓋 Claude Code、Codex、Gemini CLI、Cursor、OpenCode 等宿主
+  👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
+- **Awesome GPT-Image-2** → 把圖片風格、模板與場景分類封裝成可安裝的 GPT-Image-2 style library Skill
+  👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
 
 ## 相關概念
 

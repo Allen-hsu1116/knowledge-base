@@ -2,7 +2,7 @@
 title: 內容自動化
 slug: content-automation
 created: 2025-06-07
-updated: 2026-08-22
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -43,6 +43,10 @@ language: zh-TW
   👉 詳見 [[yikart-AiToEarn|AiToEarn]]
 - **Ghost** → 將文章、網站、會員與 newsletter 發佈整合成可自架或代管的出版平台
   👉 詳見 [[TryGhost-Ghost|Ghost]]
+- **ComfyUI** → 用可重用節點圖、API 與 App Mode 把跨模態生成嵌入批次內容管線
+  👉 詳見 [[Comfy-Org-ComfyUI|ComfyUI]]
+- **Awesome GPT-Image-2** → 將圖片提示詞、風格與模板結構化，供 Agent 和 scripts 批次重用
+  👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
 
 ## 相關概念
 

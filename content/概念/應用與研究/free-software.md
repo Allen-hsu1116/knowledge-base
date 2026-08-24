@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-08-23
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -45,6 +45,10 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
   👉 詳見 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]]
 - **free-for.dev** → 依 SaaS、PaaS、IaaS 與開發領域整理可長期使用的免費服務額度
   👉 詳見 [[ripienaar-free-for-dev|free-for.dev]]
+- **Omarchy** → MIT 授權的開發者 Linux 發行版，以完整預設環境降低工具選擇與配置成本
+  👉 詳見 [[basecamp-omarchy|Omarchy]]
+- **Vaultwarden** → AGPL 授權的 Bitwarden 相容自架伺服器，提供商業密碼服務的開源替代路徑
+  👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
 
 ## 相關概念
 

@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-08-20
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -38,6 +38,10 @@ language: zh-TW
   👉 詳見 [[NVlabs-Sana|Sana]]
 - **Generative AI for Beginners** → 微軟 21 課生成式 AI 入門課程，涵蓋 LLM、Prompt Engineering、RAG、Function Calling、AI Agent
   👉 詳見 [[microsoft-generative-ai-for-beginners|Generative AI for Beginners]]
+- **ComfyUI** → 用節點圖把圖片、影片、音訊、3D 與文字模型組成可重用生成工作流
+  👉 詳見 [[Comfy-Org-ComfyUI|ComfyUI]]
+- **Awesome GPT-Image-2** → 把 GPT-Image-2 案例與模板整理成 Prompt as Code 和 Agent Skill
+  👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
 
 ## 相關概念
 

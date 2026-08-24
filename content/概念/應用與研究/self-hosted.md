@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-23
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -51,6 +51,8 @@ language: zh-TW
   👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
 - **free-for.dev** → 提供代管免費層清單，可用來比較 SaaS 與自行架設的成本界線
   👉 詳見 [[ripienaar-free-for-dev|free-for.dev]]
+- **Vaultwarden** → 以輕量 Rust 伺服器相容 Bitwarden clients，自行掌控密碼庫資料、更新與備份
+  👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
 
 ## 相關概念
 

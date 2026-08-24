@@ -2,7 +2,7 @@
 title: 生產力
 slug: productivity
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -41,6 +41,8 @@ language: zh-TW
   👉 詳見 [[paperless-ngx-paperless-ngx|Paperless-ngx]]
 - **Cherry Studio** → AI 生產力工作室，多模型客戶端，300+ 助手
   👉 詳見 [[CherryHQ-cherry-studio|Cherry Studio]]
+- **Omarchy** → 把 Linux 桌面、終端、Neovim、AI 工具、快捷鍵與 dotfiles 整合成強烈預設的開發環境
+  👉 詳見 [[basecamp-omarchy|Omarchy]]
 
 ## 相關概念
 

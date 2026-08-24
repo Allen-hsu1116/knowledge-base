@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # 專案索引
@@ -222,6 +222,8 @@ updated: 2026-08-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Comfy-Org-ComfyUI\|ComfyUI]] | ⭐129.4k | 節點式生成工作流, 圖片/影片/音訊/3D/文字, 局部重算, VRAM/RAM 管理, custom nodes, API, App Mode, 離線執行 | 2026-08-24 |
+| [[freestylefly-awesome-gpt-image-2\|Awesome GPT-Image-2]] | ⭐12.7k | GPT-Image-2, Prompt as Code, 500+ 案例, 20+ 工業模板, style library, Agent Skill, 圖片生成自動化 | 2026-08-24 |
 | [[PrefectHQ-fastmcp\|FastMCP]] | ⭐26.5k | MCP 框架, 零樣板 Python API, 自動 schema/驗證, Apps 互動式 UI, Client 連接, Horizon 企業 Gateway | 2026-07-21 |
 | [[moonshine-ai-moonshine\|Moonshine Voice]] | ⭐9.8k | 即時語音 AI, 串流 STT/TTS/意圖辨識, 超低延遲 107ms, 全裝置本地, 語言專屬模型, 比 Whisper V3 更準 | 2026-07-21 |
 | [[KnockOutEZ-wigolo\|wigolo]] | ⭐1.2k | 本地優先 MCP 網頁情報層, 10 工具, 18 引擎搜尋, 免 API key, byte-pinned evidence, REST+SDK, 自主收集 | 2026-07-19 |
@@ -370,6 +372,7 @@ updated: 2026-08-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[VoltAgent-awesome-agent-skills\|Awesome Agent Skills]] | ⭐31.3k | 1,497+ Agent Skills, 官方+社群策展, Claude Code/Codex/Gemini/Cursor/OpenCode, 跨 Harness, 品質篩選 | 2026-08-24 |
 | [[blader-humanizer\|Humanizer]] | ⭐35.8k | AI 寫作去痕跡 Skill, 33 模式偵測 (Wikipedia Signs of AI writing), 雙重審計, 語音校準, 不捏造規則, 跨 harness 便攜 (Claude Code/Codex/Cursor), skills.sh 安裝 | 2026-08-16 |
 | [[cursor-plugins\|Cursor Plugins]] | ⭐3.0k | Cursor 官方插件規範, 11 開發工具插件 (Continual Learning/Thermos/Orchestrate 等), 11+ 第三方 MCP 整合 (Gmail/Salesforce/HubSpot), marketplace.json 結構 | 2026-08-16 |
 | [[kepano-obsidian-skills\|Obsidian Skills]] | ⭐45.8k | Obsidian 官方 Agent Skills, 5 Skill (Markdown/Bases/JSON Canvas/CLI/Defuddle), Agent Skills 規範相容, 跨 Claude Code/Codex/OpenCode/Hermes, kepano 出品 | 2026-08-14 |
@@ -424,6 +427,8 @@ updated: 2026-08-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[dani-garcia-vaultwarden\|Vaultwarden]] | ⭐66.0k | Rust, Bitwarden Client API 相容, 自架密碼庫, Docker/Podman, 組織協作, MFA, HTTPS, 備份 | 2026-08-24 |
+| [[basecamp-omarchy\|Omarchy]] | ⭐29.1k | Arch Linux, opinionated developer OS, 終端/Neovim/AI 工具, hotkeys, dotfiles, themes, 快照與安全手冊 | 2026-08-24 |
 | [[Wei-Shaw-sub2api\|Sub2API]] | ⭐38.8k | 自架 AI Gateway, Claude/OpenAI/Gemini/Grok, 訂閱配額分發, 多帳號池, token 計費, 限流與支付, Docker, 上游 ToS 風險 | 2026-08-23 |
 | [[protocolbuffers-protobuf\|Protocol Buffers]] | ⭐71.8k | schema-first 二進位序列化, `.proto`, protoc codegen, 跨語言資料契約, schema 演化, RPC/資料管線 | 2026-08-22 |
 | [[amadeusprotocol-node\|Amadeus Protocol Node]] | ⭐4.6k | 實驗性區塊鏈節點, 本地 testnet, RPC API, WebAssembly 合約, Podman/Docker build, systemd 維運, Linux UDP 調校, validator 模式 | 2026-08-20 |

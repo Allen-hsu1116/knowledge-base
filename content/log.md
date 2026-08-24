@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-23
+updated: 2026-08-24
 stars: —
 language: zh-TW
 ---
+## 2026-08-24（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **Comfy-Org/ComfyUI** — 節點式跨模態生成工作流引擎，支援圖片、影片、音訊、3D、文字、局部重算、資源管理與 API（⭐ 129.4k）→ 分類：多媒體與爬蟲
+- **dani-garcia/vaultwarden** — Rust 實作的 Bitwarden Client API 相容自架密碼庫，支援組織、MFA、Docker/Podman 與管理後台（⭐ 66.0k）→ 分類：基礎設施
+- **VoltAgent/awesome-agent-skills** — 人工策展 1,497+ 官方與社群 Agent Skills，支援 Claude Code、Codex、Gemini CLI、Cursor、OpenCode 等宿主（⭐ 31.3k）→ 分類：Skill 生態系
+- **basecamp/omarchy** — DHH 推出的 opinionated 開發者 Linux 發行版，整合終端、Neovim、AI 工具、快捷鍵、dotfiles 與系統維運手冊（⭐ 29.1k）→ 分類：基礎設施
+- **freestylefly/awesome-gpt-image-2** — GPT-Image-2 Prompt as Code 案例、工業模板、style library 與 Agent Skill（⭐ 12.7k）→ 分類：多媒體與爬蟲
+
+### 動作
+- fetch 5 個 README + metadata，寫入 5 個 raw 頁面
+- 寫入 5 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：生成式 AI、擴散模型、AI Skills、自架、隱私、生產力、Prompt Engineering、Coding Agent CLI、免費軟體、內容自動化
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-23（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

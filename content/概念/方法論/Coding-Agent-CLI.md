@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-23
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -47,6 +47,10 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
   👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
 - **Sub2API** → 讓 Claude Code、Codex、Gemini CLI 改用自架 Gateway 的 Base URL 與平台 API Key；須先確認上游服務條款
   👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
+- **Awesome Agent Skills** → 為 Claude Code、Codex、Gemini CLI、Cursor 與 OpenCode 提供跨來源 Skill 導覽
+  👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
+- **Omarchy** → 把 Coding Agent 放進整套 Arch Linux 開發者桌面、終端與編輯器工作流
+  👉 詳見 [[basecamp-omarchy|Omarchy]]
 
 ## 相關概念
 

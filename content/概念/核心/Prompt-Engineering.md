@@ -2,7 +2,7 @@
 title: Prompt Engineering
 slug: Prompt-Engineering
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -40,6 +40,10 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
   👉 詳見 [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md 規則]]
 - **Outlines** → 結構化生成函式庫，在生成時保證 LLM 輸出符合 Pydantic/JSON/Regex/CFG 結構
   👉 詳見 [[dottxt-ai-outlines|Outlines]]
+- **Awesome GPT-Image-2** → 將影像 prompt 拆成可組合 schema、模板與 style library，實作 Prompt as Code
+  👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
+- **Awesome Agent Skills** → 以策展清單連接各團隊的結構化操作知識與原始 Skill 來源
+  👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
 
 ## 相關概念
 
