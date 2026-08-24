@@ -2,7 +2,7 @@
 title: Prompt 安全與越獄
 slug: prompt-security
 created: 2026-06-22
-updated: 2026-08-22
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 
 ## 各框架的做法
 
+- **DeepSeek Harness** → 以 pre-execute、單調守衛、一次性 approval、sandbox 與不可變結果事件建立工具安全邊界
+  👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
 - **OpenAI Codex CLI** → 以 sandbox、approval 與 execution policy 限制高權限 Coding Agent 的檔案和命令存取
   👉 詳見 [[openai-codex]]
 - **CL4R1T4S** → 系統性收集越獄技術，作為紅隊測試的攻擊模式參考

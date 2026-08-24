@@ -6,6 +6,18 @@ updated: 2026-08-24
 stars: —
 language: zh-TW
 ---
+## 2026-08-24（手動收錄：DeepSeek Harness）
+
+### 新增專案頁
+- **deepseek-ai/deepseek-harness** — DeepSeek AI 開源插件化 Agent Harness，以 Cordis 組裝模型、工具、會話、Agent Loop、Web/Headless 介面、沙箱與審批策略（⭐ 190.8k）→ 分類：Agent 框架與工具
+
+### 動作
+- 擷取 README、GitHub metadata、語言統計，以及架構、Agent 生命週期、工具流水線與 API Gateway 官方文件
+- 寫入 raw/2026-08-24-deepseek-ai-deepseek-harness.md
+- 新增 wiki/deepseek-ai-deepseek-harness.md，完成專案頁 10 段格式
+- 更新 backlinks：Harness Engineering、AI Agent、Coding Agent CLI、MCP、Prompt Security
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-24（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

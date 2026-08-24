@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-08-22
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -31,6 +31,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 
 ## 各框架的做法
 
+- **DeepSeek Harness** → 以 Cordis 插件樹、Profile、Bundle 與 Patch 組裝模型、工具、Session、Agent Loop、Web/Headless 介面和安全策略
+  👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
 - **OpenAI Codex CLI** → 以 AGENTS.md、Skills、MCP、hooks、sandbox 與 execution policy 組成可控的 Coding Agent Harness
   👉 詳見 [[openai-codex]]
 - **Claude Code** → CLAUDE.md 作為 Advisory 行為契約，合規率約 80%

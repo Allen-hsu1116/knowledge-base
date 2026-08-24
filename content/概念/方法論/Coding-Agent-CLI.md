@@ -29,6 +29,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- **DeepSeek Harness** → DeepSeek AI 的插件化 Agent Harness，提供 Web 與 Headless runner，並能替換模型、工具、Loop、持久化與沙箱層
+  👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
 - **OpenAI Codex CLI** → OpenAI 官方 Rust Coding Agent，支援 AGENTS.md、Skills、MCP、沙箱、IDE 與非互動自動化
   👉 詳見 [[openai-codex]]
 - **Claude Code** → Anthropic 官方 CLI，Git 工作流深度整合，Skills 支援

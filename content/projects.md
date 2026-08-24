@@ -17,6 +17,7 @@ updated: 2026-08-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[deepseek-ai-deepseek-harness\|DeepSeek Harness]] | ⭐190.8k | DeepSeek AI 開源 Agent Harness, Everything is a Plugin, Cordis 插件樹, Profile+Bundle+Patch, 事件溯源 Session, Web+Headless, 工具審批與沙箱, Typert API Gateway, TypeScript | 2026-08-24 |
 | [[apache-maka\|Apache Maka]] | ⭐2.0k | Local-first Agent workspace, Runtime Event Log, Runtime Host, context projection, recovery, Desktop+TUI+CLI+Eval, 權限工具, SQLite | 2026-08-22 |
 | [[openai-codex\|OpenAI Codex CLI]] | ⭐111.0k | OpenAI 官方 Coding Agent, Rust 核心, 終端機+IDE+桌面+Web, AGENTS.md, Skills, MCP, 沙箱與審批, 非互動自動化, ChatGPT 登入 | 2026-08-22 |
 | [[agent-substrate-substrate\|Agent Substrate]] | ⭐1.4k | 高密度 Agent 執行基礎設施, Actor/Worker multiplexing, 亞秒級 suspend/resume, RAM+FS 快照, Kubernetes, gVisor+microVM, request parking, 30x+ oversubscription | 2026-08-21 |

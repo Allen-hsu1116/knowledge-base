@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-08-22
+updated: 2026-08-24
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **DeepSeek Harness** → 以可替換的 Cordis 插件組裝 Agent Loop、工具流水線、事件 Session、Web 與 Headless 執行形態
+  👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
 - **OpenAI Codex CLI** → OpenAI 官方本機 Coding Agent，以工具、沙箱、AGENTS.md 與驗證迴圈完成程式開發任務
   👉 詳見 [[openai-codex]]
 - **LangChain** → LLM 應用開發框架，100+ 整合，最廣泛使用的 Agent 開發工具鏈
