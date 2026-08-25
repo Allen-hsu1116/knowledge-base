@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-24
+updated: 2026-08-25
 language: zh-TW
 ---
 
@@ -29,6 +29,10 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- **FreeLLMAPI** → 提供 Claude Code、Codex、Aider、OpenCode 等工具的設定產生器，將多家免費 LLM 額度收斂成單一端點
+  👉 詳見 [[tashfeenahmed-freellmapi\|FreeLLMAPI]]
+- **Claude Plugins Community** → 以 Claude Code marketplace CLI 發佈通過審核的社群插件
+  👉 詳見 [[anthropics-claude-plugins-community\|Claude Plugins Community]]
 - **DeepSeek Harness** → DeepSeek AI 的插件化 Agent Harness，提供 Web 與 Headless runner，並能替換模型、工具、Loop、持久化與沙箱層
   👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
 - **OpenAI Codex CLI** → OpenAI 官方 Rust Coding Agent，支援 AGENTS.md、Skills、MCP、沙箱、IDE 與非互動自動化

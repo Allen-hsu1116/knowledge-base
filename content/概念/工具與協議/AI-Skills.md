@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-08-24
+updated: 2026-08-25
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- **Claude Plugins Community** → 以 Anthropic 審核與夜間同步的 marketplace catalog 發佈 Claude Cowork、Claude Code 社群插件
+  👉 詳見 [[anthropics-claude-plugins-community\|Claude Plugins Community]]
+- **claude-obsidian** → 以 15 個 Agent Skills 組成來源擷取、知識編譯、查詢、lint、研究與 Canvas 的完整 vault 工作流
+  👉 詳見 [[AgriciDaniel-claude-obsidian\|claude-obsidian]]
 - **OpenAI Codex CLI** → 原生支援 Skills，將可重用操作流程載入本機 Coding Agent
   👉 詳見 [[openai-codex]]
 - **Anthropic Skills** → 官方結構化 Skill 集，前端設計、Web 測試等

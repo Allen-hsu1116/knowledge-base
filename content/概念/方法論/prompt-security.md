@@ -2,7 +2,7 @@
 title: Prompt 安全與越獄
 slug: prompt-security
 created: 2026-06-22
-updated: 2026-08-24
+updated: 2026-08-25
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 
 ## 各框架的做法
 
+- **Claude Plugins Community** → 對社群插件執行自動安全掃描與發佈審核，再由唯讀 marketplace 鏡像供客戶端安裝
+  👉 詳見 [[anthropics-claude-plugins-community\|Claude Plugins Community]]
 - **DeepSeek Harness** → 以 pre-execute、單調守衛、一次性 approval、sandbox 與不可變結果事件建立工具安全邊界
   👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
 - **OpenAI Codex CLI** → 以 sandbox、approval 與 execution policy 限制高權限 Coding Agent 的檔案和命令存取

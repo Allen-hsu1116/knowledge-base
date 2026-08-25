@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-24
+updated: 2026-08-25
 language: zh-TW
 ---
 
@@ -31,6 +31,10 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **FreeLLMAPI** → 在本機以 Docker、桌面 App 或 Node.js 執行多供應商 Gateway，供應商金鑰加密存於本地 SQLite
+  👉 詳見 [[tashfeenahmed-freellmapi\|FreeLLMAPI]]
+- **claude-obsidian** → 把知識留在使用者擁有的 Markdown vault，網路外連與遠端模型能力需明確同意
+  👉 詳見 [[AgriciDaniel-claude-obsidian\|claude-obsidian]]
 - **Open WebUI** → 自架 LLM 平台，Docker 一鍵部署，整合 Ollama 本地模型
   👉 詳見 [[open-webui-open-webui|Open WebUI]]
 - **Jellyfin** → 開源媒體串流伺服器，自架電影、音樂、電視節目

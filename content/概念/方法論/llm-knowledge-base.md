@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-08-20
+updated: 2026-08-25
 language: zh-TW
 ---
 
@@ -31,6 +31,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 
 ## 各框架的做法
 
+- **claude-obsidian** → 把 LLM Wiki 方法擴充成 Obsidian 本地 vault，加入來源與 claim ledger、交易式套用、lint、BM25 與多種筆記方法
+  👉 詳見 [[AgriciDaniel-claude-obsidian\|claude-obsidian]]
 - **Karpathy Gist** → 原始方法論定義，完整的 prompt 和流程
   👉 詳見 [[llm-knowledge-base]]
 - **Karpathy Skills** → 將方法論封裝成可安裝的 SKILL.md 格式

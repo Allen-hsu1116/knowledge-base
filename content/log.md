@@ -2,10 +2,23 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-24
+updated: 2026-08-25
 stars: —
 language: zh-TW
 ---
+## 2026-08-25（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **tashfeenahmed/freellmapi** — 聚合 34 家供應商與 635 個免費模型端點的本地 AI Gateway，支援智慧路由、配額追蹤、故障切換與多種相容 API（⭐ 19.8k）→ 分類：基礎設施
+- **AgriciDaniel/claude-obsidian** — Claude Code + Obsidian 本地第二大腦，以 15 個 Skills、來源溯源、claim ledger 與交易式寫入維護知識（⭐ 11.9k）→ 分類：記憶與知識管理
+- **anthropics/claude-plugins-community** — Anthropic 的 Claude Cowork 與 Claude Code 社群插件市集唯讀鏡像，內容經安全掃描與發佈審核（⭐ 1.4k）→ 分類：Skill 生態系
+
+### 動作
+- fetch 3 個 README + GitHub metadata，寫入 3 個 raw 頁面
+- 寫入 3 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：AI Gateway、LLM 知識庫、AI Skills、Prompt Security、Coding Agent CLI、自架
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-24（手動收錄：DeepSeek Harness）
 
 ### 新增專案頁

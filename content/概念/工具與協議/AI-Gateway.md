@@ -2,7 +2,7 @@
 title: AI Gateway
 slug: AI-Gateway
 created: 2026-06-04
-updated: 2026-08-23
+updated: 2026-08-25
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
 
 ## 各框架的做法
 
+- **FreeLLMAPI** → 聚合 34 家供應商的免費額度與自訂 OpenAI 相容端點，依配額、速度、能力與可靠度自動路由並故障切換
+  👉 詳見 [[tashfeenahmed-freellmapi\|FreeLLMAPI]]
 - **OmniRoute** → 聚合 236+ LLM 提供者，RTK + Caveman token 壓縮，免費 1.6B tokens/月
   👉 詳見 [[diegosouzapw-OmniRoute|OmniRoute]]
 - **LiteLLM** → 100+ Provider 統一 API，支援 OpenAI 格式呼叫所有模型

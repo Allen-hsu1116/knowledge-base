@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # 專案索引
@@ -142,6 +142,7 @@ updated: 2026-08-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[AgriciDaniel-claude-obsidian\|claude-obsidian]] | ⭐11.9k | Obsidian+Claude Code 本地第二大腦, LLM Wiki, 15 Agent Skills, 來源與 claim ledger, 交易式寫入, 並行 Agent canonical merge, BM25, LYT/PARA/Zettelkasten | 2026-08-25 |
 | [[akitaonrails-ai-memory\|ai-memory]] | ⭐2.1k | Coding Agent 長期記憶, lifecycle hooks, 跨 Claude Code/Codex/OpenCode handoff, managed workstreams, Markdown+Git wiki, FTS5+entity+graph+vector 混合召回, MCP, 專案隔離, capture exclusions, 自架 Rust 服務 | 2026-08-18 |
 | [[Unstructured-IO-unstructured\|Unstructured]] | ⭐15.3k | 開源文件 ETL, 60+ 格式 (PDF/HTML/Word/圖片/掃描), Transform MCP Server, OCR (tesseract), 分塊/嵌入, Docker, Claude Code/Cursor/Codex CLI | 2026-08-16 |
 | [[vitali87-code-graph-rag\|Code-Graph-RAG]] | ⭐3k | 程式碼 RAG, Tree-sitter 多語言 AST, Memgraph 知識圖譜, 自然語言→Cypher, AST 手術式修改, Dead Code 偵測, ast-grep 結構化搜尋, MCP Server, Qdrant 語意搜尋, 即時更新 | 2026-08-10 |
@@ -373,6 +374,7 @@ updated: 2026-08-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anthropics-claude-plugins-community\|Claude Plugins Community]] | ⭐1.4k | Claude Cowork+Claude Code 社群插件市集, 唯讀鏡像, 夜間同步, 自動安全掃描, 官方投稿審核, claude-community namespace | 2026-08-25 |
 | [[VoltAgent-awesome-agent-skills\|Awesome Agent Skills]] | ⭐31.3k | 1,497+ Agent Skills, 官方+社群策展, Claude Code/Codex/Gemini/Cursor/OpenCode, 跨 Harness, 品質篩選 | 2026-08-24 |
 | [[blader-humanizer\|Humanizer]] | ⭐35.8k | AI 寫作去痕跡 Skill, 33 模式偵測 (Wikipedia Signs of AI writing), 雙重審計, 語音校準, 不捏造規則, 跨 harness 便攜 (Claude Code/Codex/Cursor), skills.sh 安裝 | 2026-08-16 |
 | [[cursor-plugins\|Cursor Plugins]] | ⭐3.0k | Cursor 官方插件規範, 11 開發工具插件 (Continual Learning/Thermos/Orchestrate 等), 11+ 第三方 MCP 整合 (Gmail/Salesforce/HubSpot), marketplace.json 結構 | 2026-08-16 |
@@ -428,6 +430,7 @@ updated: 2026-08-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tashfeenahmed-freellmapi\|FreeLLMAPI]] | ⭐19.8k | 免費 LLM 額度聚合 AI Gateway, 34 providers, 635 endpoints, OpenAI+Anthropic+Gemini+Ollama API, 智慧路由, 配額追蹤, 自動 failover, 加密金鑰, Coding Agent 設定器 | 2026-08-25 |
 | [[dani-garcia-vaultwarden\|Vaultwarden]] | ⭐66.0k | Rust, Bitwarden Client API 相容, 自架密碼庫, Docker/Podman, 組織協作, MFA, HTTPS, 備份 | 2026-08-24 |
 | [[basecamp-omarchy\|Omarchy]] | ⭐29.1k | Arch Linux, opinionated developer OS, 終端/Neovim/AI 工具, hotkeys, dotfiles, themes, 快照與安全手冊 | 2026-08-24 |
 | [[Wei-Shaw-sub2api\|Sub2API]] | ⭐38.8k | 自架 AI Gateway, Claude/OpenAI/Gemini/Grok, 訂閱配額分發, 多帳號池, token 計費, 限流與支付, Docker, 上游 ToS 風險 | 2026-08-23 |
