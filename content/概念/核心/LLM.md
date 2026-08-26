@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-08-22
+updated: 2026-08-26
 language: zh-TW
 ---
 
@@ -44,6 +44,8 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
   👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 - **ONNX Runtime** → 將可匯出的 Transformer／ML 模型轉成 ONNX graph，交由跨硬體 Execution Provider 執行
   👉 詳見 [[microsoft-onnxruntime|ONNX Runtime]]
+- **Marin** → 公開資料策展、預訓練、後訓練、評估、scaling 與失敗實驗的基礎模型研發流程
+  👉 詳見 [[marin-community-marin]]
 
 ## 相關概念
 
@@ -57,6 +59,7 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - [[kvcache-ai-ktransformers]] — CPU-GPU 異構運算，消費級硬體跑超大 MoE 模型
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 以共識驗證 LLM 從外部資料擷取出的結果
 - [[microsoft-onnxruntime|ONNX Runtime]] — 跨框架模型執行與硬體加速
+- [[marin-community-marin]] — 從資料到大型 GPU／TPU 實驗的開放基礎模型研發平台
 
 ## 來源
 - 知識庫內 LLM 相關原始資料與專案頁面

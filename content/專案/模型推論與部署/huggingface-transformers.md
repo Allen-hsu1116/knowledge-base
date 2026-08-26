@@ -2,7 +2,7 @@
 title: Hugging Face Transformers
 slug: huggingface-transformers
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-26
 stars: 160,425
 language: zh-TW
 topics: [LLM, 模型生態]
@@ -79,12 +79,13 @@ model = AutoModelForCausalLM.from_pretrained(
 | [[模型推論與部署|Ollama]] | 本地推理 | Ollama 支援 HuggingFace 模型 | HF 格式匯入 |
 | [[LangChain]] | 應用框架 | LangChain 底層可用 HuggingFace 模型 | Pipeline 整合 |
 | [[litellm|LiteLLM]] | API Gateway | LiteLLM 統一 HF 模型 API | Provider 整合 |
+| [[marin-community-marin\|Marin]] | 基礎模型研發平台 | checkpoints、datasets 與研究 artifacts 可透過開放模型生態分享 | 訓練與研究流程互補 |
 
 Transformers 是 AI 生態的「作業系統」——幾乎所有 LLM 工具都以它為基礎。模型先在 Transformers 上定義，再由 vLLM、SGLang、TGI 等推論引擎載入做高效推理，或由 llama.cpp 轉換為 GGUF 格式在本地運行。
 
 ## 相關概念
 
-← [[LLM]] · [[llm-internals]] · [[pytorch-pytorch]]
+← [[LLM]] · [[llm-internals]] · [[pytorch-pytorch]] · [[marin-community-marin]]
 
 ## 來源
 

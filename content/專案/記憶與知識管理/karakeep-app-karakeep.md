@@ -2,7 +2,7 @@
 title: Karakeep
 slug: karakeep-app-karakeep
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-08-26
 stars: 26897
 language: TypeScript
 topics:
@@ -92,6 +92,7 @@ karakeep list
 | 方案 | Stars | 類型 | AI 標記 | 自架 | 頁面存檔 | Agent 友善 |
 |------|-------|------|---------|------|----------|-----------|
 | **Karakeep** | ⭐26.9k | 書籤+筆記 | ✅ LLM | ✅ | ✅ monolith | ✅ CLI+Skills |
+| [[asciimoo-hister\|Hister]] | ⭐2.8k | 個人全文搜尋 | 選配 embeddings | ✅ | ✅ 網頁全文 | ✅ MCP+CLI |
 | [[paperless-ngx-paperless-ngx\|Paperless-ngx]] | ⭐41.3k | 文件管理 | ❌ | ✅ | ✅ | ❌ |
 | [[mem0ai-mem0\|Mem0]] | ⭐58k | AI 記憶 | ✅ | ✅ | ❌ | ✅ MCP |
 | [[supermemoryai-supermemory\|Supermemory]] | ⭐23.3k | AI 記憶 | ✅ | ✅ | ❌ | ✅ MCP |
@@ -102,7 +103,7 @@ karakeep list
 ## 相關概念
 
 
-← [[self-hosted]] · [[AI-Agent]]
+← [[self-hosted]] · [[AI-Agent]] · [[asciimoo-hister]]
 
 ## 來源
 

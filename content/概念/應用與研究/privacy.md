@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-08-24
+updated: 2026-08-26
 language: zh-TW
 ---
 
@@ -49,6 +49,8 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
   👉 詳見 [[mahlernim-google-timeline-visualizer|Google Timeline Visualizer]]
 - **Vaultwarden** → 把 Bitwarden 相容密碼庫部署在自有環境，以資料主權換取 HTTPS、更新與備份責任
   👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
+- **Hister** → 無遙測、無強制雲端同步的個人搜尋引擎；語義搜尋是否外傳文字由使用者選擇
+  👉 詳見 [[asciimoo-hister]]
 
 ## 相關概念
 
@@ -57,6 +59,7 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - [[pentesting|滲透測試]] — 安全測試與隱私保護相輔相成
 - [[free-software|免費軟體]] — 開源軟體的透明性有助於隱私審計
 - [[prompt-security|Prompt 安全]] — AI 應用中的隱私和安全風險
+- [[asciimoo-hister]] — 將敏感瀏覽歷史與文件索引保留在自有搜尋服務
 
 ## 來源
 

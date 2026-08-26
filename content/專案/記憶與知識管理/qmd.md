@@ -3,7 +3,7 @@ title: QMD
 slug: qmd
 created: 2026-05-15
 stars: 24863
-updated: 2026-05-15
+updated: 2026-08-26
 language: zh-TW
 topics: [RAG, 本地搜尋引擎, MCP]
 ---
@@ -65,6 +65,7 @@ qmd mcp --http --daemon    # HTTP 模式（共用常駐）
 | 專案 | 類型 | 搜尋方式 | 本地/雲端 | 重排序 | Stars |
 |------|------|----------|----------|--------|-------|
 | **QMD** | CLI 搜尋引擎 | BM25 + 向量 + LLM | 本地 | ✅ LLM reranker | ⭐24.9k |
+| [[asciimoo-hister\|Hister]] | 個人搜尋服務 | 全文 + 選配語義搜尋 | 本機／自架 | ❌ | ⭐2.8k |
 | [[ragflow|RAGFlow]] | RAG 引擎 | 混合 | 自架 | ✅ | ⭐79.7k |
 | [[cocoindex|CocoIndex]] | 增量索引 | 向量 | 自架 | ❌ | ⭐8.1k |
 | [[flamehaven01-Flamehaven-Filesearch|Flamehaven]] | 自架搜尋引擎 | 向量 | 自架 | ❌ | ⭐100 |
@@ -80,8 +81,9 @@ QMD 的定位是**個人/小型團隊的本地搜尋引擎**，跟 RAGFlow（大
 - [[MCP]] — Model Context Protocol，QMD 的 Agent 整合介面
 - [[cocoindex]] — 增量索引管線
 - [[ragflow]] — 開源 RAG 引擎
+- [[asciimoo-hister]] — 索引瀏覽網頁與本機檔案的個人搜尋引擎
 
-← [[rag]] · [[向量資料庫]] · [[MCP]] · [[cocoindex]] · [[ragflow]]
+← [[rag]] · [[向量資料庫]] · [[MCP]] · [[cocoindex]] · [[ragflow]] · [[asciimoo-hister]]
 
 ## 來源
 

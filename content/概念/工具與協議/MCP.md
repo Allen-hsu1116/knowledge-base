@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-08-24
+updated: 2026-08-26
 language: zh-TW
 ---
 
@@ -48,6 +48,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
   👉 詳見 [[MoonshotAI-kimi-cli|Kimi CLI]]
 - **wigolo** → 本地優先 MCP 網頁情報層，10 工具免 API key
   👉 詳見 [[KnockOutEZ-wigolo|wigolo]]
+- **Hister** → 以 MCP server 把個人瀏覽網頁與本機檔案的全文索引提供給 AI 助理搜尋
+  👉 詳見 [[asciimoo-hister]]
 
 ## 相關概念
 
@@ -58,6 +60,7 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - [[sandbox]] — MCP 的沙盒化設計是安全邊界的一部分
 - [[harness-engineering]] — MCP 是 Harness 的工具連接標準
 - [[PrefectHQ-fastmcp]] — 最 Pythonic 的 MCP Server/Client 建構框架
+- [[asciimoo-hister]] — 透過 MCP 暴露個人搜尋索引的本地優先服務
 
 ## 來源
 - MCP 官方規範與相關原始資料

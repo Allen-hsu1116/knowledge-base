@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # 專案索引
@@ -142,6 +142,7 @@ updated: 2026-08-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[asciimoo-hister\|Hister]] | ⭐2.8k | 本地個人搜尋引擎, 瀏覽歷史+網頁全文+本機檔案, 進階查詢, 選配語義搜尋, Web+TUI+CLI+MCP, 無遙測, 多使用者隔離 | 2026-08-26 |
 | [[AgriciDaniel-claude-obsidian\|claude-obsidian]] | ⭐11.9k | Obsidian+Claude Code 本地第二大腦, LLM Wiki, 15 Agent Skills, 來源與 claim ledger, 交易式寫入, 並行 Agent canonical merge, BM25, LYT/PARA/Zettelkasten | 2026-08-25 |
 | [[akitaonrails-ai-memory\|ai-memory]] | ⭐2.1k | Coding Agent 長期記憶, lifecycle hooks, 跨 Claude Code/Codex/OpenCode handoff, managed workstreams, Markdown+Git wiki, FTS5+entity+graph+vector 混合召回, MCP, 專案隔離, capture exclusions, 自架 Rust 服務 | 2026-08-18 |
 | [[Unstructured-IO-unstructured\|Unstructured]] | ⭐15.3k | 開源文件 ETL, 60+ 格式 (PDF/HTML/Word/圖片/掃描), Transform MCP Server, OCR (tesseract), 分塊/嵌入, Docker, Claude Code/Cursor/Codex CLI | 2026-08-16 |
@@ -186,6 +187,7 @@ updated: 2026-08-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[marin-community-marin\|Marin]] | ⭐2.1k | 開放基礎模型研發, 資料策展+tokenization+預訓練+後訓練+評估, step DAG, 可重現實驗, scaling laws, MoE, GPU/TPU 叢集, Agent Skills | 2026-08-26 |
 | [[microsoft-onnxruntime\|ONNX Runtime]] | ⭐21.5k | 跨平台 ML runtime, ONNX graph, Execution Providers, CPU/GPU/NPU/行動/Web, 推論與訓練加速 | 2026-08-22 |
 | [[elder-plinius-OBLITERATUS\|OBLITERATUS]] | ⭐7.8k | LLM refusal directions, abliteration, 權重投影, steering vectors, mechanistic interpretability, alignment 紅隊研究 | 2026-08-22 |
 | [[modular-modular\|Modular Platform]] | ⭐27.9k | Mojo 語言, MAX Framework, AI 推論服務, accelerator kernels, Python graph pipelines, OpenAI 相容 API, 跨層效能最佳化 | 2026-08-21 |

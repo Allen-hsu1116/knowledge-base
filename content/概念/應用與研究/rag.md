@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-08-26
 language: zh-TW
 ---
 
@@ -35,6 +35,8 @@ RAG 解決了 LLM 的三大先天限制：**知識截止日**（訓練資料有�
   👉 詳見 [[llama-index]]
 - **QMD** → 本地優先混合搜尋引擎，BM25 + 向量 + LLM 重排序
   👉 詳見 [[qmd]]
+- **Hister** → 索引瀏覽過的網頁全文與本機檔案，並以 MCP 供 Agent 搜尋個人資料
+  👉 詳見 [[asciimoo-hister]]
 - **Self-RAG** → 按需檢索 + 自我審查反思 token，ICLR 2024 Oral
   👉 詳見 [[self-rag]]
 - **Dify** → LLM 應用平台，RAG + AI Agent + Workflow + 自架
@@ -50,6 +52,7 @@ RAG 解決了 LLM 的三大先天限制：**知識截止日**（訓練資料有�
 - [[cocoindex]] — 增量索引最佳化 RAG 的更新效率
 - [[AI-Agent]] — Agent 系統整合 RAG 獲取外部知識
 - [[向量資料庫]] — 向量資料庫是 RAG 的基礎設施
+- [[asciimoo-hister]] — 以個人全文索引和選配語義搜尋提供 Agent retrieval layer
 
 ## 來源
 

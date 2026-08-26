@@ -2,7 +2,7 @@
 title: PyTorch
 slug: pytorch-pytorch
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-26
 stars: 101233
 language: Python
 topics:
@@ -100,6 +100,7 @@ for epoch in range(10):
 - **[[vLLM]]** → PyTorch 基礎上的 LLM 推論引擎，利用 PyTorch 的 CUDA 操作實現 PagedAttention
 - **TensorFlow** → Google 的競爭框架，靜態圖設計，PyTorch 在研究界更受歡迎
 - **JAX** → Google 的新一代框架，函數式編程風格，PyTorch 更易上手
+- **[[marin-community-marin\|Marin]]** → 以 JAX／Levanter 等元件建立可重現的基礎模型研發與叢集訓練流程，和 PyTorch 的通用 framework 定位不同
 - **[[microsoft-AI-For-Beginners|AI for Beginners]]** → 微軟 AI 課程同時教 PyTorch 和 TensorFlow
 
 ← [[huggingface-transformers|Hugging Face Transformers]] · [[vLLM]] · [[rasbt-LLMs-from-scratch|LLMs from Scratch]]
@@ -113,7 +114,7 @@ for epoch in range(10):
 ## 相關概念
 
 
-← [[huggingface-transformers]] · [[llama-cpp]] · [[microsoft-AI-For-Beginners]] · [[rasbt-LLMs-from-scratch]]
+← [[huggingface-transformers]] · [[llama-cpp]] · [[microsoft-AI-For-Beginners]] · [[rasbt-LLMs-from-scratch]] · [[marin-community-marin]]
 
 ## 來源
 

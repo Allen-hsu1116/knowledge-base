@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-08-25
+updated: 2026-08-26
 language: zh-TW
 ---
 
@@ -50,6 +50,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
   👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
 - **Awesome GPT-Image-2** → 把圖片風格、模板與場景分類封裝成可安裝的 GPT-Image-2 style library Skill
   👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
+- **Marin** → 把新增資料集、scaling heuristic 等研究方法保存為 `.agents/skills/` 與 `.claude/skills/` 中的可載入流程
+  👉 詳見 [[marin-community-marin]]
 
 ## 相關概念
 
@@ -58,6 +60,7 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - [[agent-persona]] — Persona 定義 AI 是誰，Skill 定義 AI 會什麼
 - [[MCP]] — Skills 定義「做什麼」，MCP 定義「怎麼連」
 - [[Prompt-Engineering]] — Skills 是 Prompt Engineering 的結構化終極形態
+- [[marin-community-marin]] — 以 Skills 傳遞基礎模型研發的可重現方法
 
 ## 來源
 - 知識庫內 AI Skills 相關原始資料與專案頁面

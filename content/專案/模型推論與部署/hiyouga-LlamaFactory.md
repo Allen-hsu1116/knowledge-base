@@ -2,7 +2,7 @@
 title: LlamaFactory
 slug: hiyouga-LlamaFactory
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-08-26
 stars: 72532
 language: Python
 topics:
@@ -74,6 +74,7 @@ llamafactory-cli api \
 | 方案 | Stars | 類型 | 特色1 | 特色2 |
 |------|-------|------|-------|-------|
 | **LlamaFactory** | ⭐72.5k | 微調框架 | 100+ 模型、零代碼 Web UI | 多種訓練方法（SFT/DPO/PPO 等） |
+| [[marin-community-marin\|Marin]] | ⭐2.1k | 基礎模型研發平台 | 資料到預訓練的開放流程 | scaling、MoE 與叢集實驗 |
 | [[mlabonne-llm-course|LLM Course]] | ⭐80.2k | 學習資源 | 微調/量化/合併教學 | Colab 筆記本 |
 | [[huggingface-transformers|Transformers]] | ⭐160k | 模型庫 | 模型生態系統 | PEFT/TGI 整合 |
 | [[vLLM]] | ⭐79.5k | 推理引擎 | PagedAttention 高速推理 | LlamaFactory 可選用為推理後端 |
@@ -85,7 +86,7 @@ llamafactory-cli api \
 ## 相關概念
 
 
-← [[LLM]] · [[huggingface-transformers]] · [[vLLM]]
+← [[LLM]] · [[huggingface-transformers]] · [[vLLM]] · [[marin-community-marin]]
 
 ## 來源
 

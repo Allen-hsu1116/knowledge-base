@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-25
+updated: 2026-08-26
 language: zh-TW
 ---
 
@@ -57,6 +57,8 @@ language: zh-TW
   👉 詳見 [[ripienaar-free-for-dev|free-for.dev]]
 - **Vaultwarden** → 以輕量 Rust 伺服器相容 Bitwarden clients，自行掌控密碼庫資料、更新與備份
   👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
+- **Hister** → 在本機或自有伺服器保存瀏覽網頁與檔案全文索引，並提供 Web、CLI 與 MCP 搜尋
+  👉 詳見 [[asciimoo-hister]]
 
 ## 相關概念
 
@@ -66,6 +68,7 @@ language: zh-TW
 - [[free-domain|免費域名]] — 降低自架服務對外存取門檻
 - [[media-streaming|媒體串流]] — 自架娛樂基礎設施
 - [[TryGhost-Ghost|Ghost]] — 兼具自架控制權與官方 SaaS 的出版平台
+- [[asciimoo-hister]] — 自架個人全文搜尋與瀏覽歷史索引
 
 ## 來源
 

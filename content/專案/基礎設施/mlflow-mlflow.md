@@ -2,7 +2,7 @@
 title: MLflow
 slug: mlflow-mlflow
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-26
 stars: 27529
 language: Python
 topics: [agentops, agents, ai, ai-governance, apache-spark, evaluation, langchain, llm-evaluation, llmops, machine-learning, ml, mlflow, mlops, model-management, observability, open-source, openai, prompt-engineering]
@@ -68,6 +68,7 @@ client.responses.create(
 - **Weights & Biases**：商業 MLOps 平台；MLflow 完全開源且自架
 - **Promptfoo**：專注 prompt 評測和紅隊測試；MLflow 提供更完整的生產級 prompt 管理和優化
 - **OmniRoute/各 AI Gateway**：MLflow AI Gateway 是內建的統一閘道器，與評估/追蹤無縫整合
+- **[[marin-community-marin\|Marin]]**：Marin 管理可重現的基礎模型研發與叢集實驗，MLflow 偏向跨專案 tracking、evaluation、registry 與應用觀測，可互補使用
 
 | 能力 | MLflow | Langfuse | W&B | Promptfoo |
 |---|:---:|:---:|:---:|:---:|
@@ -82,7 +83,7 @@ client.responses.create(
 ## 相關概念
 
 
-← [[langfuse-langfuse]] · [[diegosouzapw-OmniRoute]] · [[promptfoo-promptfoo]] · [[AI-Gateway]] · [[observability]] · [[microsoft-autogen]]
+← [[langfuse-langfuse]] · [[diegosouzapw-OmniRoute]] · [[promptfoo-promptfoo]] · [[AI-Gateway]] · [[observability]] · [[microsoft-autogen]] · [[marin-community-marin]]
 
 ## 來源
 

@@ -2,10 +2,22 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-25
+updated: 2026-08-26
 stars: —
 language: zh-TW
 ---
+## 2026-08-26（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **asciimoo/hister** — 本地優先的個人搜尋引擎，索引瀏覽過的網頁全文與本機檔案，支援進階查詢、語義搜尋、Web、TUI、CLI 與 MCP（⭐ 2.8k）→ 分類：記憶與知識管理
+- **marin-community/marin** — 開放式基礎模型研發平台，涵蓋資料策展、預訓練、後訓練、評估、scaling law 與大型 MoE 實驗（⭐ 2.1k）→ 分類：模型推論與部署
+
+### 動作
+- fetch 2 個 README + GitHub metadata，寫入 2 個 raw 頁面
+- 寫入 2 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：RAG、隱私、自架、MCP、LLM、模型推論與部署、AI Skills
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-25（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁
