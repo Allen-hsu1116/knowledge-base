@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-08-25
+updated: 2026-08-27
 language: zh-TW
 ---
 
@@ -31,6 +31,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 
 ## 各框架的做法
 
+- **Garden Skills** → kb-retriever 先導航階層索引，再搜尋 Markdown、文字、PDF 與 Excel 並保留來源
+  👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
 - **claude-obsidian** → 把 LLM Wiki 方法擴充成 Obsidian 本地 vault，加入來源與 claim ledger、交易式套用、lint、BM25 與多種筆記方法
   👉 詳見 [[AgriciDaniel-claude-obsidian\|claude-obsidian]]
 - **Karpathy Gist** → 原始方法論定義，完整的 prompt 和流程
@@ -59,6 +61,7 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - [[context-engineering-basics]] — 知識庫是 Context Engineering 的實作
 - [[AI-Agent]] — AI 工作流整體趨勢
 - [[llm-knowledge-base]] — 視覺壓縮記憶（用圖片壓縮軌跡，ACL 2026）
+- [[ConardLi-garden-skills]] — 以有限輪次與來源感知回答封裝本地知識檢索流程
 
 ## 來源
 

@@ -2,7 +2,7 @@
 title: 前端設計
 slug: frontend-design
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-08-27
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Garden Skills** → web-design-engineer 先做 Design Read，再用設計方向與 style recipes 實作及驗證前端
+  👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
 - **Anthropic Skills** → 定義設計哲學（意圖性、層次、節制）與佈局、色彩、排版規範
   👉 詳見 [[anthropics-skills]]
 - **UI UX Pro Max** → 完整 Design Token 體系 + Atomic Design 元件架構 + 多平台指南
@@ -49,6 +51,7 @@ language: zh-TW
 - [[AI-Skills]] — Skills 是前端設計知識的載體格式
 - [[AI-Skills]] — Skill 庫的生態系推動設計知識標準化
 - [[Prompt-Engineering]] — System prompt 和 SKILL.md 是設計 Agent 行為的基礎
+- [[ConardLi-garden-skills]] — 以 production-ready Skill 封裝前端設計判斷、實作與驗證流程
 
 ## 來源
 

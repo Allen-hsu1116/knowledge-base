@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-26
+updated: 2026-08-27
 ---
 
 # 專案索引
@@ -376,6 +376,8 @@ updated: 2026-08-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tt-a1i-archify\|Archify]] | ⭐17.9k | Agent Skill, 可驗證技術地圖, Architecture/Workflow/Sequence/Data Flow/Lifecycle, Typed JSON IR, 確定性驗證, 互動 route/reach/lens, 架構差異審查, HTML+PNG+SVG+WebM | 2026-08-27 |
+| [[ConardLi-garden-skills\|Garden Skills]] | ⭐10.9k | 5 個 production-ready Agent Skills, 網頁簡報, 前端設計, GPT Image 2, 本地知識檢索, 美化文章, 固定版 ZIP+checksum, Claude Code/Cursor/Codex | 2026-08-27 |
 | [[anthropics-claude-plugins-community\|Claude Plugins Community]] | ⭐1.4k | Claude Cowork+Claude Code 社群插件市集, 唯讀鏡像, 夜間同步, 自動安全掃描, 官方投稿審核, claude-community namespace | 2026-08-25 |
 | [[VoltAgent-awesome-agent-skills\|Awesome Agent Skills]] | ⭐31.3k | 1,497+ Agent Skills, 官方+社群策展, Claude Code/Codex/Gemini/Cursor/OpenCode, 跨 Harness, 品質篩選 | 2026-08-24 |
 | [[blader-humanizer\|Humanizer]] | ⭐35.8k | AI 寫作去痕跡 Skill, 33 模式偵測 (Wikipedia Signs of AI writing), 雙重審計, 語音校準, 不捏造規則, 跨 harness 便攜 (Claude Code/Codex/Cursor), skills.sh 安裝 | 2026-08-16 |

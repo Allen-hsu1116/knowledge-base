@@ -2,7 +2,7 @@
 title: 資料視覺化
 slug: visualization
 created: 2026-05-28
-updated: 2026-08-21
+updated: 2026-08-27
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Archify** → 以 Typed JSON IR、驗證 gate 與自包含 HTML 產出可互動的系統技術地圖
+  👉 詳見 [[tt-a1i-archify\|Archify]]
 - **Graphify** → 一行指令建知識圖譜，輸出互動式 HTML 和多種格式
   👉 詳見 [[safishamsi-graphify|Graphify]]
 - **Fireworks Tech Graph** → 開源技術關係圖譜視覺化
@@ -52,6 +54,7 @@ language: zh-TW
 - [[document-parsing|文件解析]] — 解析後的結構化資料是視覺化的輸入
 - [[financial-forecasting|金融預測]] — 金融預測結果需要視覺化呈現
 - [[harness-engineering|Harness Engineering]] — 視覺化是 Agent Harness 的結果呈現環節
+- [[tt-a1i-archify]] — 將軟體架構事實轉為可驗證、可互動與可匯出的技術視圖
 
 ## 來源
 

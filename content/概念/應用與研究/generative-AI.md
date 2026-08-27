@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-08-24
+updated: 2026-08-27
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Garden Skills** → gpt-image-2 以三種執行模式、18 類視覺方向和 79 個模板封裝圖片生成與編輯
+  👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
 - **Open Generative AI** → 開源 AI 工作室，整合 200+ 生成式模型
   👉 詳見 [[Anil-matcha-Open-Generative-AI|Open Generative AI]]
 - **ViMax** → AI 影片生成 Agent，整合生成式模型進行自動化媒體生成
@@ -50,6 +52,7 @@ language: zh-TW
 - [[LLM|大語言模型]] — 文字生成的核心技術
 - [[語音辨識]] — 語音合成是音訊生成的基礎
 - [[AI-Agent|AI Agent]] — Agent 驅動生成式模型進行自動化
+- [[ConardLi-garden-skills]] — 將圖片生成與內容出版流程封裝為跨 Agent Skills
 
 ## 來源
 

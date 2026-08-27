@@ -2,7 +2,7 @@
 title: 內容自動化
 slug: content-automation
 created: 2025-06-07
-updated: 2026-08-24
+updated: 2026-08-27
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Garden Skills** → 從簡報、圖片到文章出版，以可安裝 Skills 與人類 checkpoint 組合內容管線
+  👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
 - **MoneyPrinterTurbo** → 從文字描述自動生成短影片，整合腳本、配音、字幕、素材
   👉 詳見 [[harry0703-MoneyPrinterTurbo|MoneyPrinterTurbo]]
 - **NarratoAI** → AI 影片敘事生成，從文案到影片全流程自動化
@@ -57,6 +59,7 @@ language: zh-TW
 - [[語音辨識]] — TTS 語音合成是影片和簡報自動化的關鍵環節
 - [[workflow-automation|工作流自動化]] — 內容自動化是工作流自動化的應用場景
 - [[TryGhost-Ghost|Ghost]] — 承接內容管線最後的出版、會員與電子報配送
+- [[ConardLi-garden-skills]] — 提供簡報、圖片、前端與文章等可重用的內容工作流
 
 ## 來源
 

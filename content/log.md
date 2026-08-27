@@ -2,10 +2,22 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-26
+updated: 2026-08-27
 stars: —
 language: zh-TW
 ---
+## 2026-08-27（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **tt-a1i/archify** — 將程式碼庫或系統描述轉成可驗證、可互動的架構、工作流、時序、資料流與生命週期圖（⭐ 17.9k）→ 分類：Skill 生態系
+- **ConardLi/garden-skills** — 五個 production-ready Agent Skills，涵蓋網頁簡報、前端設計、圖片生成、本地檢索與文章出版（⭐ 10.9k）→ 分類：Skill 生態系
+
+### 動作
+- fetch 2 個 README + GitHub metadata，寫入 2 個 raw 頁面
+- 寫入 2 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：AI Skills、資料視覺化、前端設計、RAG、LLM 知識庫、生成式 AI、內容自動化
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-26（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

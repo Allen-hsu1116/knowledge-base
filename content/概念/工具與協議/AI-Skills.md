@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-08-26
+updated: 2026-08-27
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- **Archify** → 把程式碼庫或系統描述轉為經 Typed IR 與確定性 gate 驗證的互動式技術地圖
+  👉 詳見 [[tt-a1i-archify\|Archify]]
+- **Garden Skills** → 以固定版 release、checksum 與多種安裝方式發布五個內容生產與檢索 Skill
+  👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
 - **Claude Plugins Community** → 以 Anthropic 審核與夜間同步的 marketplace catalog 發佈 Claude Cowork、Claude Code 社群插件
   👉 詳見 [[anthropics-claude-plugins-community\|Claude Plugins Community]]
 - **claude-obsidian** → 以 15 個 Agent Skills 組成來源擷取、知識編譯、查詢、lint、研究與 Canvas 的完整 vault 工作流
@@ -61,6 +65,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - [[MCP]] — Skills 定義「做什麼」，MCP 定義「怎麼連」
 - [[Prompt-Engineering]] — Skills 是 Prompt Engineering 的結構化終極形態
 - [[marin-community-marin]] — 以 Skills 傳遞基礎模型研發的可重現方法
+- [[tt-a1i-archify]] — 用 Skill 封裝可驗證的技術圖生成與交付流程
+- [[ConardLi-garden-skills]] — 用 release 工程發布跨 Agent 的內容生產技能組
 
 ## 來源
 - 知識庫內 AI Skills 相關原始資料與專案頁面

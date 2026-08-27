@@ -29,6 +29,8 @@ RAG 解決了 LLM 的三大先天限制：**知識截止日**（訓練資料有�
 
 ## 各框架的做法
 
+- **Garden Skills** → kb-retriever 以階層索引、有限搜尋輪次與局部讀取查詢本地文件並附來源
+  👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
 - **RAGFlow** → 開源 RAG 引擎，深度文件理解 + 接地引用
   👉 詳見 [[ragflow]]
 - **LlamaIndex** → LLM 資料框架，RAG 管線 + 文件解析 + Agent 整合
@@ -53,6 +55,7 @@ RAG 解決了 LLM 的三大先天限制：**知識截止日**（訓練資料有�
 - [[AI-Agent]] — Agent 系統整合 RAG 獲取外部知識
 - [[向量資料庫]] — 向量資料庫是 RAG 的基礎設施
 - [[asciimoo-hister]] — 以個人全文索引和選配語義搜尋提供 Agent retrieval layer
+- [[ConardLi-garden-skills]] — 提供不灌爆 context 的本地知識庫漸進式檢索 Skill
 
 ## 來源
 
