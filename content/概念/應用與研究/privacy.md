@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-08-26
+updated: 2026-08-28
 language: zh-TW
 ---
 
@@ -51,6 +51,11 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
   👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
 - **Hister** → 無遙測、無強制雲端同步的個人搜尋引擎；語義搜尋是否外傳文字由使用者選擇
   👉 詳見 [[asciimoo-hister]]
+
+- **Nitter** → 以無 JavaScript 替代前端和後端代理降低 Twitter／X 的 IP 與指紋追蹤；專案目前已封存
+  👉 詳見 [[zedeus-nitter]]
+- **God's Eye View** → 只融合公開事件與基礎設施訊號，明確拒絕 named-person search、臉部辨識與個人追蹤
+  👉 詳見 [[bilawalsidhu-gods-eye-view]]
 
 ## 相關概念
 

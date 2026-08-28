@@ -2,7 +2,7 @@
 title: 資料視覺化
 slug: visualization
 created: 2026-05-28
-updated: 2026-08-27
+updated: 2026-08-28
 language: zh-TW
 ---
 
@@ -45,6 +45,9 @@ language: zh-TW
   👉 詳見 [[Understand-Anything|Understand Anything]]
 - **Google Timeline Visualizer** → 將個人 Timeline JSON 在裝置端轉成旅行軌跡動畫 MP4
   👉 詳見 [[mahlernim-google-timeline-visualizer|Google Timeline Visualizer]]
+
+- **God's Eye View** → 將航班、船舶、衛星、地震與 CCTV 等公開訊號融合到可聲控的寫實 3D 地球
+  👉 詳見 [[bilawalsidhu-gods-eye-view]]
 
 ## 相關概念
 

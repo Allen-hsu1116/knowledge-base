@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-26
+updated: 2026-08-28
 language: zh-TW
 ---
 
@@ -59,6 +59,9 @@ language: zh-TW
   👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
 - **Hister** → 在本機或自有伺服器保存瀏覽網頁與檔案全文索引，並提供 Web、CLI 與 MCP 搜尋
   👉 詳見 [[asciimoo-hister]]
+
+- **Nitter** → 以 Nim、Valkey／Redis、Docker 與反向代理自架隱私 Twitter／X 前端；目前已封存
+  👉 詳見 [[zedeus-nitter]]
 
 ## 相關概念
 

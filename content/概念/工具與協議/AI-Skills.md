@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-08-27
+updated: 2026-08-28
 language: zh-TW
 ---
 
@@ -56,6 +56,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
   👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
 - **Marin** → 把新增資料集、scaling heuristic 等研究方法保存為 `.agents/skills/` 與 `.claude/skills/` 中的可載入流程
   👉 詳見 [[marin-community-marin]]
+
+- **Modern Go Guidelines** → 依 `go.mod` 版本向 Coding Agent 提供 Go 1.0–1.27 的現代語法與標準函式庫指南
+  👉 詳見 [[JetBrains-go-modern-guidelines]]
 
 ## 相關概念
 

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-08-27
+updated: 2026-08-28
 ---
 
 # 專案索引
@@ -322,6 +322,7 @@ updated: 2026-08-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[bilawalsidhu-gods-eye-view\|God's Eye View]] | ⭐8.1k | OSINT, GEOINT, 3D globe, CesiumJS, 即時航班/船舶/衛星, 公開資料, OpenAI Realtime, 語音 Agent | 2026-08-28 |
 | [[TryGhost-Ghost\|Ghost]] | ⭐54.9k | 開源專業出版 CMS, 會員, 付費訂閱, newsletter, Content API, 主題, 自架或 Ghost(Pro) | 2026-08-22 |
 | [[mahlernim-google-timeline-visualizer\|Google Timeline Visualizer]] | ⭐1.6k | Google Timeline JSON, 本地旅行軌跡視覺化, Android+iPhone Web+Python, 動畫 MP4, GPS 跳點過濾, 隱私優先 | 2026-08-21 |
 | [[AprilNEA-OpenLogi\|OpenLogi]] | ⭐11.9k | Logitech Options+ 開源替代, Rust+GPUI, HID++/UVC, 按鍵重映射, DPI+SmartShift, TOML+CLI, 跨平台, 無帳號無遙測 | 2026-08-21 |
@@ -376,6 +377,7 @@ updated: 2026-08-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[JetBrains-go-modern-guidelines\|Modern Go Guidelines]] | ⭐2.1k | Agent Skill, modern Go, go.mod 版本偵測, modernize analyzer, Junie, Claude Code, Codex, Cursor | 2026-08-28 |
 | [[tt-a1i-archify\|Archify]] | ⭐17.9k | Agent Skill, 可驗證技術地圖, Architecture/Workflow/Sequence/Data Flow/Lifecycle, Typed JSON IR, 確定性驗證, 互動 route/reach/lens, 架構差異審查, HTML+PNG+SVG+WebM | 2026-08-27 |
 | [[ConardLi-garden-skills\|Garden Skills]] | ⭐10.9k | 5 個 production-ready Agent Skills, 網頁簡報, 前端設計, GPT Image 2, 本地知識檢索, 美化文章, 固定版 ZIP+checksum, Claude Code/Cursor/Codex | 2026-08-27 |
 | [[anthropics-claude-plugins-community\|Claude Plugins Community]] | ⭐1.4k | Claude Cowork+Claude Code 社群插件市集, 唯讀鏡像, 夜間同步, 自動安全掃描, 官方投稿審核, claude-community namespace | 2026-08-25 |
@@ -434,6 +436,9 @@ updated: 2026-08-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-googletest\|GoogleTest]] | ⭐39.0k | C++ 測試框架, xUnit, GoogleMock, 自動測試探索, 參數化測試, death test, CMake, CI | 2026-08-28 |
+| [[zedeus-nitter\|Nitter]] | ⭐13.9k | 隱私前端, Twitter/X, 無 JavaScript, 後端代理, RSS, Nim, Valkey, 自架, 已封存 | 2026-08-28 |
+| [[actions-checkout\|actions/checkout]] | ⭐8.7k | GitHub Actions, CI/CD, Git checkout, sparse checkout, shallow clone, submodules, credential security | 2026-08-28 |
 | [[tashfeenahmed-freellmapi\|FreeLLMAPI]] | ⭐19.8k | 免費 LLM 額度聚合 AI Gateway, 34 providers, 635 endpoints, OpenAI+Anthropic+Gemini+Ollama API, 智慧路由, 配額追蹤, 自動 failover, 加密金鑰, Coding Agent 設定器 | 2026-08-25 |
 | [[dani-garcia-vaultwarden\|Vaultwarden]] | ⭐66.0k | Rust, Bitwarden Client API 相容, 自架密碼庫, Docker/Podman, 組織協作, MFA, HTTPS, 備份 | 2026-08-24 |
 | [[basecamp-omarchy\|Omarchy]] | ⭐29.1k | Arch Linux, opinionated developer OS, 終端/Neovim/AI 工具, hotkeys, dotfiles, themes, 快照與安全手冊 | 2026-08-24 |

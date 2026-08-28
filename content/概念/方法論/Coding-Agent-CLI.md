@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-25
+updated: 2026-08-28
 language: zh-TW
 ---
 
@@ -57,6 +57,13 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
   👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
 - **Omarchy** → 把 Coding Agent 放進整套 Arch Linux 開發者桌面、終端與編輯器工作流
   👉 詳見 [[basecamp-omarchy|Omarchy]]
+
+- **Modern Go Guidelines** → 以跨 Junie、Claude Code、Codex、Cursor 的版本感知 Skill 修正 Agent 過時 Go 寫法
+  👉 詳見 [[JetBrains-go-modern-guidelines]]
+- **actions/checkout** → 在 GitHub Actions 中為 Coding Agent 或測試 job 提供受控的 repository checkout
+  👉 詳見 [[actions-checkout]]
+- **GoogleTest** → 為 C++ Coding Agent 修改提供可執行的單元測試與 Mock 驗證門
+  👉 詳見 [[google-googletest]]
 
 ## 相關概念
 

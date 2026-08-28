@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-08-20
+updated: 2026-08-28
 language: zh-TW
 ---
 
@@ -43,6 +43,11 @@ language: zh-TW
   👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
 - **Protocol Buffers** → 以 `.proto` schema 與 `protoc` codegen 固化跨語言工作流中的資料契約
   👉 詳見 [[protocolbuffers-protobuf|Protocol Buffers]]
+
+- **actions/checkout** → 在 GitHub Actions workflow 中安全取得指定 ref、完整歷史、稀疏路徑或子模組
+  👉 詳見 [[actions-checkout]]
+- **GoogleTest** → 把 C++ 單元測試、Mock、參數化測試與 death test 納入自動驗證門
+  👉 詳見 [[google-googletest]]
 
 ## 相關概念
 

@@ -1632,3 +1632,28 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - **agent-substrate/substrate** (⭐1.4k) — 高密度 stateful Agent 執行基礎設施 → Agent 框架與工具
 - 更新 backlinks：模型推論與部署、privacy、prompt-security、visualization、AI-Agent、sandbox
 - 更新 projects.md 與 known-repos.json
+
+## [2026-08-28] ingest | GoogleTest
+
+- 收錄 `google/googletest`，分類：🏗 基礎設施。
+- 建立 raw README/metadata 快照、專案頁、索引與相關概念 backlinks。
+
+## [2026-08-28] ingest | Nitter
+
+- 收錄 `zedeus/nitter`，分類：🏗 基礎設施。
+- 建立 raw README/metadata 快照、專案頁、索引與相關概念 backlinks。
+
+## [2026-08-28] ingest | actions/checkout
+
+- 收錄 `actions/checkout`，分類：🏗 基礎設施。
+- 建立 raw README/metadata 快照、專案頁、索引與相關概念 backlinks。
+
+## [2026-08-28] ingest | God's Eye View
+
+- 收錄 `bilawalsidhu/gods-eye-view`，分類：📊 應用。
+- 建立 raw README/metadata 快照、專案頁、索引與相關概念 backlinks。
+
+## [2026-08-28] ingest | Modern Go Guidelines
+
+- 收錄 `JetBrains/go-modern-guidelines`，分類：🛠 Skill 生態系。
+- 建立 raw README/metadata 快照、專案頁、索引與相關概念 backlinks。
