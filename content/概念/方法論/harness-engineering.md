@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-08-24
+updated: 2026-09-02
 language: zh-TW
 ---
 
@@ -55,6 +55,10 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
   👉 詳見 [[paperclipai-paperclip]]
 - **Apache Maka** → 以 Runtime Event Log、Runtime Host、context projection、recovery 與 eval 組成可稽核的 local-first harness
   👉 詳見 [[apache-maka|Apache Maka]]
+- **StateM** → 以 YAML runbook、durable runtime history、state-local context 與 executable transition gates，將長任務可靠度變成可檢查的控制層
+  👉 詳見 [[henryqin1997-statem|StateM]]
+- **SwarmForge** → 以 tmux、獨立 worktree、固定工程角色、constitution 與 handoff protocol 駕馭多個 Coding Agent
+  👉 詳見 [[unclebob-swarm-forge|SwarmForge]]
 
 ## 相關概念
 
@@ -70,6 +74,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - [[openinterpreter-openinterpreter|Open Interpreter]] — 多 Harness 模擬，低成本模型優化
 - [[chaitanyagiri-munder-difflin|Munder Difflin]] — 在既有 CLI Agent 外疊加 PTY、路由、記憶、安全閘門與可觀測性
 - [[apache-maka|Apache Maka]] — 用單一執行權威統一 Desktop、TUI、CLI 與評測
+- [[henryqin1997-statem|StateM]] — 把程序狀態、驗證證據與恢復錨點移出模型 context
+- [[unclebob-swarm-forge|SwarmForge]] — 用角色、隔離工作區與交接契約建立多 Agent 工程 harness
 
 ## 來源
 

@@ -2,10 +2,23 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-08-27
+updated: 2026-09-02
 stars: —
 language: zh-TW
 ---
+## 2026-09-02（手動收錄：SwarmForge、awesome-agentic-ai-zh、StateM）
+
+### 新增專案頁
+- **unclebob/swarm-forge** — Uncle Bob 的 tmux 多 Agent 軟體工程編排平台，以獨立 worktree、角色管線、constitution 與 handoff protocol 管理協作（⭐ 3.5k）→ 分類：Agent 框架與工具
+- **WenyuChiou/awesome-agentic-ai-zh** — 從 Stage 0 到 production-ready Agent 的繁體中文結構化學習地圖（⭐ 2.2k）→ 分類：學習資源
+- **henryqin1997/statem** — 將長任務階段、歷史、驗證與恢復外部化的 CLI Agent 狀態機（⭐ 849）→ 分類：Agent 框架與工具
+
+### 動作
+- 保存 INSIDE 文章 metadata 與擷取異常說明；技術細節以 SwarmForge 官方 README 交叉驗證
+- 保存 4 份官方 README／project page raw 快照，新增 3 個 wiki 專案頁
+- 更新 backlinks：AI Agent、Harness Engineering
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-08-27（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

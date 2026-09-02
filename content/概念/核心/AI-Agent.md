@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-08-24
+updated: 2026-09-02
 language: zh-TW
 ---
 
@@ -54,6 +54,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
   👉 詳見 [[agent-substrate-substrate|Agent Substrate]]
 - **Apache Maka** → Local-first Agent workspace，以 Runtime Event Log、單一 Runtime Host、recovery 與 eval 統一桌面、TUI、CLI
   👉 詳見 [[apache-maka|Apache Maka]]
+- **SwarmForge** → 以 tmux、獨立 git worktree、角色管線、憲法與 handoff mail 編排多個 Coding Agent
+  👉 詳見 [[unclebob-swarm-forge|SwarmForge]]
+- **StateM** → 將長任務的階段、歷史與驗證 gate 外部化為 Agent 可操作的 YAML 狀態機
+  👉 詳見 [[henryqin1997-statem|StateM]]
 
 ## 相關概念
 
@@ -72,6 +76,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 為 Agent 開發提供可 mock LLM/Web 的快速合約驗證迴圈
 - [[chaitanyagiri-munder-difflin|Munder Difflin]] — 把多種終端 Coding Agent 組成本地協作團隊，加入 supervisor、mailbox、記憶與人類審批
 - [[apache-maka|Apache Maka]] — 將 Agent 的執行事實、上下文 projection、權限與恢復整合在本地 runtime
+- [[WenyuChiou-awesome-agentic-ai-zh|awesome-agentic-ai-zh]] — 從 LLM／Prompt 到 Agent Loop、Graph、Memory、Harness、Eval 與 production 的中文學習路線
+- [[unclebob-swarm-forge|SwarmForge]] — 以隔離 worktree、工程角色與結構化交接管理多 Agent 軟體開發
+- [[henryqin1997-statem|StateM]] — 以 checked transition 和 durable state 提升 Agent 長任務可靠度
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面
