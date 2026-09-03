@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-08-26
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -29,27 +29,30 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 ## 各框架的做法
 
 - **DeepSeek Harness** → 工具註冊表與 Capability Seam 可接入外部工具服務，並以 pre/execute/post 流水線治理每次呼叫
-  👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
+  👉 詳見 [[deepseek-ai-deepseek-harness\|DeepSeek Harness]]
 - **OpenAI Codex CLI** → 內建 MCP client/server 相關模組，讓本機 Coding Agent 接入外部工具與資料
   👉 詳見 [[openai-codex]]
 - **Claude Code** → Anthropic 官方 Coding Agent CLI，MCP 原生支援
-  👉 詳見 [[anthropics-claude-code|Claude Code]]
+  👉 詳見 [[anthropics-claude-code\|Claude Code]]
 - **Goose** → 通用 AI Agent，MCP + ACP，Rust 實現
-  👉 詳見 [[aaif-goose-goose|Goose]]
+  👉 詳見 [[aaif-goose-goose\|Goose]]
 - **OpenCode** → Coding Agent CLI，MCP + 子 Agent + 工作樹平行
-  👉 詳見 [[anomalyco-opencode|OpenCode]]
+  👉 詳見 [[anomalyco-opencode\|OpenCode]]
 - **Browser Use** → 瀏覽器 Agent，Computer-Use + MCP
-  👉 詳見 [[browser-use-browser-use|Browser Use]]
+  👉 詳見 [[browser-use-browser-use\|Browser Use]]
 - **n8n MCP** → 工作流自動化 + MCP 整合
-  👉 詳見 [[czlonkowski-n8n-mcp|n8n MCP]]
+  👉 詳見 [[czlonkowski-n8n-mcp\|n8n MCP]]
 - **Awesome MCP Servers** → 30+ 分類的 MCP Server 策展列表
-  👉 詳見 [[punkpeye-awesome-mcp-servers|Awesome MCP Servers]]
+  👉 詳見 [[punkpeye-awesome-mcp-servers\|Awesome MCP Servers]]
 - **Kimi CLI** → Moonshot AI 終端 Agent，`kimi mcp` 子命令管理 MCP Server
-  👉 詳見 [[MoonshotAI-kimi-cli|Kimi CLI]]
+  👉 詳見 [[MoonshotAI-kimi-cli\|Kimi CLI]]
 - **wigolo** → 本地優先 MCP 網頁情報層，10 工具免 API key
-  👉 詳見 [[KnockOutEZ-wigolo|wigolo]]
+  👉 詳見 [[KnockOutEZ-wigolo\|wigolo]]
 - **Hister** → 以 MCP server 把個人瀏覽網頁與本機檔案的全文索引提供給 AI 助理搜尋
   👉 詳見 [[asciimoo-hister]]
+
+- **VoiceStudio** → 透過 MCP 將本地語音合成與轉錄能力提供給 Agent 客戶端
+  👉 詳見 [[debpalash-VoiceStudio\|VoiceStudio]]
 
 ## 相關概念
 

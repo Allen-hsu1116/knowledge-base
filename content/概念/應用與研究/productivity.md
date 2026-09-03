@@ -2,7 +2,7 @@
 title: 生產力
 slug: productivity
 created: 2026-06-16
-updated: 2026-08-24
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -30,27 +30,34 @@ language: zh-TW
 ## 各框架的做法
 
 - **Plane** → 開源專案管理，Jira 替代品，支援 Docker/K8s 自架
-  👉 詳見 [[makeplane-plane|Plane]]
+  👉 詳見 [[makeplane-plane\|Plane]]
 - **Twenty** → 開源 CRM，Salesforce 替代品，整合 AI 能力
-  👉 詳見 [[twentyhq-twenty|Twenty]]
+  👉 詳見 [[twentyhq-twenty\|Twenty]]
 - **ERPNext** → 開源 ERP，涵蓋財務、庫存、人事等企業管理
-  👉 詳見 [[frappe-erpnext|ERPNext]]
+  👉 詳見 [[frappe-erpnext\|ERPNext]]
 - **n8n** → 工作流自動化平台，視覺化編排，400+ 整合
-  👉 詳見 [[n8n-io-n8n|n8n]]
+  👉 詳見 [[n8n-io-n8n\|n8n]]
 - **Paperless-ngx** → 文件管理系統，OCR 自動分類和歸檔
-  👉 詳見 [[paperless-ngx-paperless-ngx|Paperless-ngx]]
+  👉 詳見 [[paperless-ngx-paperless-ngx\|Paperless-ngx]]
 - **Cherry Studio** → AI 生產力工作室，多模型客戶端，300+ 助手
-  👉 詳見 [[CherryHQ-cherry-studio|Cherry Studio]]
+  👉 詳見 [[CherryHQ-cherry-studio\|Cherry Studio]]
 - **Omarchy** → 把 Linux 桌面、終端、Neovim、AI 工具、快捷鍵與 dotfiles 整合成強烈預設的開發環境
-  👉 詳見 [[basecamp-omarchy|Omarchy]]
+  👉 詳見 [[basecamp-omarchy\|Omarchy]]
+
+- **portless** → 以穩定具名本機 URL、monorepo 自動發現與 worktree 隔離簡化開發工作流
+  👉 詳見 [[vercel-labs-portless\|portless]]
+- **TypeWords** → 用主動回憶、記憶曲線、錯題追蹤與文章默寫提升英文學習效率
+  👉 詳見 [[zyronon-TypeWords\|TypeWords]]
+- **fmt** → 以一致、型別安全且高效的 C++ 格式化 API 降低基礎程式碼維護成本
+  👉 詳見 [[fmtlib-fmt\|fmt]]
 
 ## 相關概念
 
-- [[free-software|免費軟體]] — 開源工具降低生產力工具的使用門檻
-- [[workflow-automation|工作流自動化]] — 自動化是生產力的核心手段
-- [[open-source-business|開源商業模式]] — 開源生產力工具的商業化
-- [[AI-Agent|AI Agent]] — AI 自主完成任務是生產力的新典範
-- [[self-hosted|自架]] — 自架生產力工具掌控資料和成本
+- [[free-software\|免費軟體]] — 開源工具降低生產力工具的使用門檻
+- [[workflow-automation\|工作流自動化]] — 自動化是生產力的核心手段
+- [[open-source-business\|開源商業模式]] — 開源生產力工具的商業化
+- [[AI-Agent\|AI Agent]] — AI 自主完成任務是生產力的新典範
+- [[self-hosted\|自架]] — 自架生產力工具掌控資料和成本
 
 ## 來源
 

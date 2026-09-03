@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # 專案索引
@@ -228,6 +228,7 @@ updated: 2026-09-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[debpalash-VoiceStudio\|VoiceStudio]] | ⭐14.7k | 本地語音工作室, 16 TTS+11 ASR, 646 語言目錄, 語音克隆, 影片配音, 聽寫, 有聲書, OpenAI API, MCP, Tauri+FastAPI | 2026-09-03 |
 | [[Comfy-Org-ComfyUI\|ComfyUI]] | ⭐129.4k | 節點式生成工作流, 圖片/影片/音訊/3D/文字, 局部重算, VRAM/RAM 管理, custom nodes, API, App Mode, 離線執行 | 2026-08-24 |
 | [[freestylefly-awesome-gpt-image-2\|Awesome GPT-Image-2]] | ⭐12.7k | GPT-Image-2, Prompt as Code, 500+ 案例, 20+ 工業模板, style library, Agent Skill, 圖片生成自動化 | 2026-08-24 |
 | [[PrefectHQ-fastmcp\|FastMCP]] | ⭐26.5k | MCP 框架, 零樣板 Python API, 自動 schema/驗證, Apps 互動式 UI, Client 連接, Horizon 企業 Gateway | 2026-07-21 |
@@ -286,6 +287,7 @@ updated: 2026-09-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
 | [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐2.2k | 繁體中文 Agentic AI 結構化學習地圖, Stage 0–8+7.5, CLI Power User+Agent Builder 雙路線, 可執行練習, Eval/HITL/可觀測性/復原, 三語 | 2026-09-02 |
 | [[ripienaar-free-for-dev\|free-for.dev]] | ⭐133.9k | 開發者免費服務策展, SaaS/PaaS/IaaS free tier, 雲端與 DevOps 基礎設施, Generative AI, 1600+ 社群貢獻者 | 2026-08-23 |
 | [[microsoft-generative-ai-for-beginners\|Generative AI for Beginners]] | ⭐116.3k | 微軟 21 課 GenAI 入門, LLM, Prompt Engineering, RAG, Function Calling, AI Agent, 微調, Python+TS, 50+ 語言翻譯 | 2026-08-05 |
@@ -325,6 +327,7 @@ updated: 2026-09-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[sngyai-Sequoia-X\|Sequoia-X]] | ⭐6.1k | A 股量化選股, baostock, SQLite 增量日 K, 六種技術策略, 8 process 更新, 飛書通知, Python | 2026-09-03 |
 | [[bilawalsidhu-gods-eye-view\|God's Eye View]] | ⭐8.1k | OSINT, GEOINT, 3D globe, CesiumJS, 即時航班/船舶/衛星, 公開資料, OpenAI Realtime, 語音 Agent | 2026-08-28 |
 | [[TryGhost-Ghost\|Ghost]] | ⭐54.9k | 開源專業出版 CMS, 會員, 付費訂閱, newsletter, Content API, 主題, 自架或 Ghost(Pro) | 2026-08-22 |
 | [[mahlernim-google-timeline-visualizer\|Google Timeline Visualizer]] | ⭐1.6k | Google Timeline JSON, 本地旅行軌跡視覺化, Android+iPhone Web+Python, 動畫 MP4, GPS 跳點過濾, 隱私優先 | 2026-08-21 |
@@ -439,6 +442,8 @@ updated: 2026-09-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[fmtlib-fmt\|fmt]] | ⭐24.3k | C++ 格式化函式庫, 型別安全, 編譯期檢查, std::format/std::print, Dragonbox, Unicode, MIT | 2026-09-03 |
+| [[vercel-labs-portless\|portless]] | ⭐11.8k | 具名本機 HTTPS URL, reverse proxy, HTTP/2, framework port injection, monorepo, git worktree, Tailscale/ngrok | 2026-09-03 |
 | [[google-googletest\|GoogleTest]] | ⭐39.0k | C++ 測試框架, xUnit, GoogleMock, 自動測試探索, 參數化測試, death test, CMake, CI | 2026-08-28 |
 | [[zedeus-nitter\|Nitter]] | ⭐13.9k | 隱私前端, Twitter/X, 無 JavaScript, 後端代理, RSS, Nim, Valkey, 自架, 已封存 | 2026-08-28 |
 | [[actions-checkout\|actions/checkout]] | ⭐8.7k | GitHub Actions, CI/CD, Git checkout, sparse checkout, shallow clone, submodules, credential security | 2026-08-28 |

@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-08-28
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -36,46 +36,51 @@ language: zh-TW
 - **claude-obsidian** → 把知識留在使用者擁有的 Markdown vault，網路外連與遠端模型能力需明確同意
   👉 詳見 [[AgriciDaniel-claude-obsidian\|claude-obsidian]]
 - **Open WebUI** → 自架 LLM 平台，Docker 一鍵部署，整合 Ollama 本地模型
-  👉 詳見 [[open-webui-open-webui|Open WebUI]]
+  👉 詳見 [[open-webui-open-webui\|Open WebUI]]
 - **Jellyfin** → 開源媒體串流伺服器，自架電影、音樂、電視節目
-  👉 詳見 [[jellyfin-jellyfin|Jellyfin]]
+  👉 詳見 [[jellyfin-jellyfin\|Jellyfin]]
 - **Paperless-ngx** → 自架文件管理系統，OCR 自動分類歸檔
-  👉 詳見 [[paperless-ngx-paperless-ngx|Paperless-ngx]]
+  👉 詳見 [[paperless-ngx-paperless-ngx\|Paperless-ngx]]
 - **Plane** → 開源專案管理，Jira 替代品，Docker/K8s 自架
-  👉 詳見 [[makeplane-plane|Plane]]
+  👉 詳見 [[makeplane-plane\|Plane]]
 - **Frigate NVR** → 自架 NVR 監控系統，邊緣 AI 物件偵測
-  👉 詳見 [[blakeblackshear-frigate|Frigate NVR]]
+  👉 詳見 [[blakeblackshear-frigate\|Frigate NVR]]
 - **FreeDomain** → 免費域名資源，降低自架服務的基礎設施門檻
-  👉 詳見 [[DigitalPlatDev-FreeDomain|FreeDomain]]
+  👉 詳見 [[DigitalPlatDev-FreeDomain\|FreeDomain]]
 - **oMLX** → 在 Apple Silicon Mac 自架 OpenAI/Anthropic-compatible LLM endpoint，並以本機選單列與 Web 管理台營運
-  👉 詳見 [[jundot-omlx|oMLX]]
+  👉 詳見 [[jundot-omlx\|oMLX]]
 - **Ghost** → 可用 Ghost CLI 自架專業出版、會員與 newsletter 平台，也可改用官方代管
-  👉 詳見 [[TryGhost-Ghost|Ghost]]
+  👉 詳見 [[TryGhost-Ghost\|Ghost]]
 - **Sub2API** → 以 Docker Compose 或 systemd 自架訂閱配額型 AI API Gateway
-  👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
+  👉 詳見 [[Wei-Shaw-sub2api\|Sub2API]]
 - **free-for.dev** → 提供代管免費層清單，可用來比較 SaaS 與自行架設的成本界線
-  👉 詳見 [[ripienaar-free-for-dev|free-for.dev]]
+  👉 詳見 [[ripienaar-free-for-dev\|free-for.dev]]
 - **Vaultwarden** → 以輕量 Rust 伺服器相容 Bitwarden clients，自行掌控密碼庫資料、更新與備份
-  👉 詳見 [[dani-garcia-vaultwarden|Vaultwarden]]
+  👉 詳見 [[dani-garcia-vaultwarden\|Vaultwarden]]
 - **Hister** → 在本機或自有伺服器保存瀏覽網頁與檔案全文索引，並提供 Web、CLI 與 MCP 搜尋
   👉 詳見 [[asciimoo-hister]]
 
 - **Nitter** → 以 Nim、Valkey／Redis、Docker 與反向代理自架隱私 Twitter／X 前端；目前已封存
   👉 詳見 [[zedeus-nitter]]
 
+- **VoiceStudio** → 將語音模型、專案、輸出與 API 預設保留在本機的語音工作站
+  👉 詳見 [[debpalash-VoiceStudio\|VoiceStudio]]
+- **portless** → 本機管理 reverse proxy、可信 CA 與具名開發路由
+  👉 詳見 [[vercel-labs-portless\|portless]]
+
 ## 相關概念
 
-- [[self-hosted|自架 AI 平台]] — 專注於 AI 服務的自架
-- [[open-source-business|開源商業模式]] — 開源專案的商業化策略
-- [[privacy|隱私]] — 自架的核心驅動力
-- [[free-domain|免費域名]] — 降低自架服務對外存取門檻
-- [[media-streaming|媒體串流]] — 自架娛樂基礎設施
-- [[TryGhost-Ghost|Ghost]] — 兼具自架控制權與官方 SaaS 的出版平台
+- [[self-hosted\|自架 AI 平台]] — 專注於 AI 服務的自架
+- [[open-source-business\|開源商業模式]] — 開源專案的商業化策略
+- [[privacy\|隱私]] — 自架的核心驅動力
+- [[free-domain\|免費域名]] — 降低自架服務對外存取門檻
+- [[media-streaming\|媒體串流]] — 自架娛樂基礎設施
+- [[TryGhost-Ghost\|Ghost]] — 兼具自架控制權與官方 SaaS 的出版平台
 - [[asciimoo-hister]] — 自架個人全文搜尋與瀏覽歷史索引
 
 ## 來源
 
-- [[amadeusprotocol-node|Amadeus Protocol Node]] — 在 Linux 主機自行建置、調校並以 systemd 維運實驗性節點
+- [[amadeusprotocol-node\|Amadeus Protocol Node]] — 在 Linux 主機自行建置、調校並以 systemd 維運實驗性節點
 
 - 自架專案頁面彙整
 - Awesome Self-Hosted 列表

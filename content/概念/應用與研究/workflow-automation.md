@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-08-28
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -30,38 +30,41 @@ language: zh-TW
 ## 各框架的做法
 
 - **n8n** → 視覺化工作流平台，400+ 整合，AI-Native，支援 MCP 與自架
-  👉 詳見 [[n8n-io-n8n|n8n]]
+  👉 詳見 [[n8n-io-n8n\|n8n]]
 - **n8n MCP** — MCP server 連接 n8n，讓 AI Agent 查詢節點文件、建立和驗證工作流
-  👉 詳見 [[czlonkowski-n8n-mcp|n8n MCP]]
+  👉 詳見 [[czlonkowski-n8n-mcp\|n8n MCP]]
 - **DeerFlow 2.0** → Agent 編排框架，支援子 Agent、沙箱、動態流程
-  👉 詳見 [[bytedance-deer-flow|DeerFlow 2.0]]
+  👉 詳見 [[bytedance-deer-flow\|DeerFlow 2.0]]
 - **OpenWA** → WhatsApp API Gateway，通訊平台的自動化整合
-  👉 詳見 [[rmyndharis-OpenWA|OpenWA]]
+  👉 詳見 [[rmyndharis-OpenWA\|OpenWA]]
 - **iii** → 後端平台，Agent 友善的工作流自動化整合
-  👉 詳見 [[iii-hq-iii|iii]]
+  👉 詳見 [[iii-hq-iii\|iii]]
 - **GenLayer Project Boilerplate** → 把 intelligent contract 的 lint、直接測試、共識整合測試與部署串成分層驗證流程
-  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
+  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate\|GenLayer Project Boilerplate]]
 - **Protocol Buffers** → 以 `.proto` schema 與 `protoc` codegen 固化跨語言工作流中的資料契約
-  👉 詳見 [[protocolbuffers-protobuf|Protocol Buffers]]
+  👉 詳見 [[protocolbuffers-protobuf\|Protocol Buffers]]
 
 - **actions/checkout** → 在 GitHub Actions workflow 中安全取得指定 ref、完整歷史、稀疏路徑或子模組
   👉 詳見 [[actions-checkout]]
 - **GoogleTest** → 把 C++ 單元測試、Mock、參數化測試與 death test 納入自動驗證門
   👉 詳見 [[google-googletest]]
 
+- **Sequoia-X** → 透過交易日收盤後排程完成行情更新、策略掃描與飛書通知
+  👉 詳見 [[sngyai-Sequoia-X\|Sequoia-X]]
+
 ## 相關概念
 
-- [[AI-Agent|AI Agent]] — Agent 編排是工作流自動化的 AI 進化形式
+- [[AI-Agent\|AI Agent]] — Agent 編排是工作流自動化的 AI 進化形式
 - [[MCP]] — 讓 Agent 透過標準協議控制工作流
-- [[self-hosted|自架 AI 平台]] — 提供工作流運行環境
-- [[sandbox|沙箱]] — 工作流中的程式碼執行需要在沙箱中進行
-- [[rag|RAG]] — 為工作流提供知識檢索能力
-- [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 展示 LLM 合約從快速回饋到真實共識的自動化開發流程
-- [[protocolbuffers-protobuf|Protocol Buffers]] — 將 schema 編譯與多語言程式碼生成納入 CI／build
+- [[self-hosted\|自架 AI 平台]] — 提供工作流運行環境
+- [[sandbox\|沙箱]] — 工作流中的程式碼執行需要在沙箱中進行
+- [[rag\|RAG]] — 為工作流提供知識檢索能力
+- [[genlayerlabs-genlayer-project-boilerplate\|GenLayer Project Boilerplate]] — 展示 LLM 合約從快速回饋到真實共識的自動化開發流程
+- [[protocolbuffers-protobuf\|Protocol Buffers]] — 將 schema 編譯與多語言程式碼生成納入 CI／build
 
 ## 來源
 
-- [[amadeusprotocol-node|Amadeus Protocol Node]] — 以容器 build、環境變數與 systemd 自動化節點生命週期
+- [[amadeusprotocol-node\|Amadeus Protocol Node]] — 以容器 build、環境變數與 systemd 自動化節點生命週期
 
 - n8n MCP Server 文件
 - DeerFlow Agent 編排框架

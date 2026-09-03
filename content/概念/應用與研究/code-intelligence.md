@@ -2,7 +2,7 @@
 title: 程式碼智慧
 slug: code-intelligence
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -30,22 +30,25 @@ language: zh-TW
 ## 各框架的做法
 
 - **CodeGraph** → Claude Code 的語意程式碼知識圖譜 MCP server，92% 更少工具呼叫
-  👉 詳見 [[colbymchenry-codegraph|CodeGraph]]
+  👉 詳見 [[colbymchenry-codegraph\|CodeGraph]]
 - **Codebase Memory MCP** → 程式碼記憶 MCP，支援 158 語言，基於 tree-sitter 建構知識圖譜
-  👉 詳見 [[DeusData-codebase-memory-mcp|Codebase Memory MCP]]
+  👉 詳見 [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]]
 - **Understand Anything** → 程式碼理解工具，Knowledge Graph + Tree-sitter + LLM，支援 17+ 平台
-  👉 詳見 [[Understand-Anything|Understand Anything]]
+  👉 詳見 [[Understand-Anything\|Understand Anything]]
 - **Shannon** → 白箱 AI 滲透測試，使用 Code Property Graph 進行程式碼分析
-  👉 詳見 [[KeygraphHQ-shannon|Shannon]]
+  👉 詳見 [[KeygraphHQ-shannon\|Shannon]]
 - **code-review-graph** → 程式碼審查知識圖譜，Token Optimization + MCP
-  👉 詳見 [[tirth8205-code-review-graph|code-review-graph]]
+  👉 詳見 [[tirth8205-code-review-graph\|code-review-graph]]
+
+- **fmt** → 型別安全且可編譯期檢查的 C++ 格式化 API，讓自動修改與靜態分析更容易驗證
+  👉 詳見 [[fmtlib-fmt\|fmt]]
 
 ## 相關概念
 
-- [[Coding-Agent-CLI|Coding Agent CLI]] — 程式碼智慧是 Coding Agent 理解大型程式碼庫的關鍵能力
-- [[Knowledge-Graph|知識圖譜]] — 知識圖譜是程式碼智慧的底層資料結構
+- [[Coding-Agent-CLI\|Coding Agent CLI]] — 程式碼智慧是 Coding Agent 理解大型程式碼庫的關鍵能力
+- [[Knowledge-Graph\|知識圖譜]] — 知識圖譜是程式碼智慧的底層資料結構
 - [[MCP]] — MCP 是程式碼智慧工具服務 AI agent 的標準協定
-- [[Token-Optimization|Token Optimization]] — 程式碼智慧大幅減少 AI agent 的 token 消耗
+- [[Token-Optimization\|Token Optimization]] — 程式碼智慧大幅減少 AI agent 的 token 消耗
 
 ## 來源
 

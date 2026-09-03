@@ -2,7 +2,7 @@
 title: AI Tutoring
 slug: AI-Tutoring
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -39,6 +39,9 @@ AI Tutoring 的核心技術包括 Book Engine（活書引擎）和 TutorBot（�
   👉 詳見 [[datawhalechina-easy-vibe]]
 - **freeCodeCamp** → Full-Stack + ML 程式學習，認證體系
   👉 詳見 [[freeCodeCamp-freeCodeCamp]]
+
+- **TypeWords** → 用記憶曲線、聽寫與錯題追蹤實作非 LLM 的自適應英文練習
+  👉 詳見 [[zyronon-TypeWords\|TypeWords]]
 
 ## 相關概念
 

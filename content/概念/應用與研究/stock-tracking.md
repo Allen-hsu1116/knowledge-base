@@ -2,7 +2,7 @@
 title: 股市追蹤
 slug: stock-tracking
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -39,6 +39,9 @@ language: zh-TW
   👉 詳見 [[FinceptTerminal]]
 - **Anthropic Financial Services** → AI Agent + AI Skills + MCP 的金融服務框架
   👉 詳見 [[anthropics-financial-services]]
+
+- **Sequoia-X** → 每日增量更新 A 股日 K，以六種技術形態策略掃描並推送候選
+  👉 詳見 [[sngyai-Sequoia-X\|Sequoia-X]]
 
 ## 相關概念
 

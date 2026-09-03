@@ -2,7 +2,7 @@
 title: 回測
 slug: backtesting
 created: 2025-06-07
-updated: 2026-08-20
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -40,6 +40,9 @@ language: zh-TW
 - **Daily Stock Analysis** → GitHub Actions 自動化每日分析，含歷史回測
   👉 詳見 [[daily-stock-analysis]]
 
+- **Sequoia-X** → 提供本地 A 股後復權歷史資料與規則式策略，可作為進一步回測驗證的輸入
+  👉 詳見 [[sngyai-Sequoia-X\|Sequoia-X]]
+
 ## 相關概念
 
 - [[financial-forecasting]] — 金融預測產生策略，回測驗證策略
@@ -50,7 +53,7 @@ language: zh-TW
 
 ## 來源
 
-- [[nautechsystems-nautilus_trader|NautilusTrader]] — 研究、確定性事件回測與實盤共用同一套執行語意
+- [[nautechsystems-nautilus_trader\|NautilusTrader]] — 研究、確定性事件回測與實盤共用同一套執行語意
 
 - AlphaEvo、ML for Trading、AlphaSift 等專案頁面
 - 量化交易回測方法論相關文獻

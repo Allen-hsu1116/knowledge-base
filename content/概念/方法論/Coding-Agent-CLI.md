@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-08-28
+updated: 2026-09-03
 language: zh-TW
 ---
 
@@ -34,7 +34,7 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **Claude Plugins Community** → 以 Claude Code marketplace CLI 發佈通過審核的社群插件
   👉 詳見 [[anthropics-claude-plugins-community\|Claude Plugins Community]]
 - **DeepSeek Harness** → DeepSeek AI 的插件化 Agent Harness，提供 Web 與 Headless runner，並能替換模型、工具、Loop、持久化與沙箱層
-  👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]
+  👉 詳見 [[deepseek-ai-deepseek-harness\|DeepSeek Harness]]
 - **OpenAI Codex CLI** → OpenAI 官方 Rust Coding Agent，支援 AGENTS.md、Skills、MCP、沙箱、IDE 與非互動自動化
   👉 詳見 [[openai-codex]]
 - **Claude Code** → Anthropic 官方 CLI，Git 工作流深度整合，Skills 支援
@@ -50,13 +50,13 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **OpenClaude** → 開源多模型 CLI，支援 200+ 模型 + MCP + Skills + Agent Routing
   👉 詳見 [[Gitlawb-openclaude]]
 - **ai-memory** → 以 hooks、MCP 與 managed workstreams 讓 Claude Code、Codex、OpenCode 等 CLI 共用長期記憶和 handoff
-  👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
+  👉 詳見 [[akitaonrails-ai-memory\|ai-memory]]
 - **Sub2API** → 讓 Claude Code、Codex、Gemini CLI 改用自架 Gateway 的 Base URL 與平台 API Key；須先確認上游服務條款
-  👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
+  👉 詳見 [[Wei-Shaw-sub2api\|Sub2API]]
 - **Awesome Agent Skills** → 為 Claude Code、Codex、Gemini CLI、Cursor 與 OpenCode 提供跨來源 Skill 導覽
-  👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
+  👉 詳見 [[VoltAgent-awesome-agent-skills\|Awesome Agent Skills]]
 - **Omarchy** → 把 Coding Agent 放進整套 Arch Linux 開發者桌面、終端與編輯器工作流
-  👉 詳見 [[basecamp-omarchy|Omarchy]]
+  👉 詳見 [[basecamp-omarchy\|Omarchy]]
 
 - **Modern Go Guidelines** → 以跨 Junie、Claude Code、Codex、Cursor 的版本感知 Skill 修正 Agent 過時 Go 寫法
   👉 詳見 [[JetBrains-go-modern-guidelines]]
@@ -65,26 +65,29 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **GoogleTest** → 為 C++ Coding Agent 修改提供可執行的單元測試與 Mock 驗證門
   👉 詳見 [[google-googletest]]
 
+- **portless** → 為平行 Agent 與 git worktree 提供不衝突、可預測的本機 HTTPS URL
+  👉 詳見 [[vercel-labs-portless\|portless]]
+
 ## 相關概念
 
 - [[AI-Agent]] — Coding Agent CLI 是 Agent 在開發領域的實作
 - [[MCP]] — MCP 定義 CLI 如何連接外部工具
 - [[AI-Skills]] — Skills 定義 CLI 在特定情境下的行為
-- [[ogulcancelik-herdr|herdr]] — 終端機 Agent 多工器，管理多個 Coding Agent CLI
+- [[ogulcancelik-herdr\|herdr]] — 終端機 Agent 多工器，管理多個 Coding Agent CLI
 - [[AI-Skills]] — CLAUDE.md 是 Agent 行為規範的核心載體
 - [[harness-engineering]] — CLI 的配置和規則是 Harness Engineering 的實作
 - [[Coding-Agent-CLI]] — 工具包為 CLI 提供搜尋和導航能力
-- [[openinterpreter-openinterpreter|Open Interpreter]] — 低成本模型 Coding Agent，多 Harness 模擬
-- [[Dicklesworthstone-destructive_command_guard|dcg]] — AI Coding Agent 命令安全守衛
-- [[MoonshotAI-kimi-cli|Kimi CLI]] — Moonshot AI 終端 AI Agent，Shell 模式 + ACP + MCP
+- [[openinterpreter-openinterpreter\|Open Interpreter]] — 低成本模型 Coding Agent，多 Harness 模擬
+- [[Dicklesworthstone-destructive_command_guard\|dcg]] — AI Coding Agent 命令安全守衛
+- [[MoonshotAI-kimi-cli\|Kimi CLI]] — Moonshot AI 終端 AI Agent，Shell 模式 + ACP + MCP
 - [[cloudflare-computer]] — Agent 虛擬電腦，為 Coding Agent 提供隔離執行環境
 - [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，管理 Coding Agent 的長時間運行狀態
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
-- [[akitaonrails-ai-memory|ai-memory]] — 跨 Coding Agent CLI 的 session 記憶、原生恢復與進度交接層
+- [[akitaonrails-ai-memory\|ai-memory]] — 跨 Coding Agent CLI 的 session 記憶、原生恢復與進度交接層
 
 ## 來源
 
-- [[chaitanyagiri-munder-difflin|Munder Difflin]] — 統一包裝 Claude Code、Codex、OpenCode、Kimi、Qwen 等終端 Agent 並提供多 Agent 協作層
+- [[chaitanyagiri-munder-difflin\|Munder Difflin]] — 統一包裝 Claude Code、Codex、OpenCode、Kimi、Qwen 等終端 Agent 並提供多 Agent 協作層
 
 - Claude Code、OpenCode、OpenHands 等專案頁面
 - Agent Routing 和 Provider Profile 相關技術文件

@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-02
+updated: 2026-09-03
 stars: —
 language: zh-TW
 ---
+## 2026-09-03（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **fmtlib/fmt** — 型別安全、高效能的現代 C++ 格式化函式庫（⭐ 24.3k）→ 分類：基礎設施
+- **debpalash/VoiceStudio** — 本地語音克隆、配音、ASR/TTS、有聲書與 Agent API 平台（⭐ 14.7k）→ 分類：多媒體與爬蟲
+- **vercel-labs/portless** — 用具名本機 HTTPS URL 取代 port number，支援 monorepo 與 Agent worktree（⭐ 11.8k）→ 分類：基礎設施
+- **zyronon/TypeWords** — 以鍵盤輸入、聽寫與記憶曲線練習英文的開源工具（⭐ 9.3k）→ 分類：學習資源
+- **sngyai/Sequoia-X** — A 股日 K 增量更新、技術策略掃描與飛書通知系統（⭐ 6.1k）→ 分類：應用
+
+### 動作
+- fetch 5 個 README + GitHub metadata，寫入 5 個 raw 快照
+- 寫入 5 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：程式碼智慧、Coding Agent CLI、生產力、語音辨識、自架、MCP、AI Tutoring、自主學習、股市追蹤、回測、工作流自動化
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
 ## 2026-09-02（手動收錄：SwarmForge、awesome-agentic-ai-zh、StateM）
 
 ### 新增專案頁
@@ -421,7 +436,7 @@ language: zh-TW
 ## 2026-06-28（Lint 檢查）
 
 ### 修復項目
-- **斷掉的 cross-links (3)**：`FoundationAgents-MetaGPT.md` 中 `[[microsoft-autogen]]` → `[[microsoft-autogen|AutoGen]]`；`github-awesome-copilot.md` 和 `wshobson-agents.md` 中 `Coding-Agent` → `[[Coding-Agent-CLI]]`
+- **斷掉的 cross-links (3)**：`FoundationAgents-MetaGPT.md` 中 `[[microsoft-autogen]]` → `[[microsoft-autogen\|AutoGen]]`；`github-awesome-copilot.md` 和 `wshobson-agents.md` 中 `Coding-Agent` → `[[Coding-Agent-CLI]]`
 - **index.md 斷連 (9)**：移除了 9 個指向不存在 wiki 頁面的 wikilink（design-system-spec, in-page-gui-agent, llm-fine-tuning, multi-agent-framework, copilot-ecosystem, spec-driven-development, real-time-rag, prompt-optimization, social-media-crawler），改為純文字
 - **projects.md 日期排序 (5)**：修復了 5 處日期未按降序排列的問題（學習資源區、效能與壓縮區、應用區、Skill 生態系區）
 
@@ -586,13 +601,13 @@ language: zh-TW
 - **frontmatter tags 殘留**：移除 `anthropics-knowledge-work-plugins.md` 和 `Leonxlnx-taste-skill.md` 的 `tags:` 欄位，改用 `topics:`（符合 Quartz 規範）
 - **projects.md 日期排序**：修正基礎設施區塊中 `arthurpanhku-DocSentinel`（2026-05-29）和 `iii-hq-iii`（2026-05-28）的排序
 - **斷掉的 cross-links 修復**：
-  - `[[diffusion-model|擴散模型]]` → `[[diffusion-model|擴散模型]]`（OpenBMB-VoxCPM）
-  - `[[rasbt-LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
-  - `[[czlonkowski-n8n-mcp]]` → `[[czlonkowski-n8n-mcp|n8n MCP]]`（iii-hq-iii）
+  - `[[diffusion-model\|擴散模型]]` → `[[diffusion-model\|擴散模型]]`（OpenBMB-VoxCPM）
+  - `[[rasbt-LLMs-from-scratch]]` → `[[rasbt-LLMs-from-scratch\|LLMs from Scratch]]`（FareedKhan-dev-train-llm-from-scratch）
+  - `[[czlonkowski-n8n-mcp]]` → `[[czlonkowski-n8n-mcp\|n8n MCP]]`（iii-hq-iii）
   - `raw/...` raw 連結格式修正（Donchitos-Claude-Code-Game-Studios）
   - `CRM` `DNS` `NAS` — 拆掉非頁面 wikilink
   - `Vibe-Coding` → 純文字 "Vibe Coding"
-  - `[[Coding-Agent-CLI]]` → `[[Coding-Agent-CLI|Coding Agent CLI]]`
+  - `[[Coding-Agent-CLI]]` → `[[Coding-Agent-CLI\|Coding Agent CLI]]`
 - **孤兒頁修復**：
   - 新增 `向量資料庫` 到 index.md 概念區
   - index.md 的 web-crawling 條目加上 `[[網頁爬蟲]]` 引用
@@ -954,7 +969,7 @@ language: zh-TW
    - hermes-agent：— → ⭐141,768
    - daily-stock-analysis：⭐— → ⭐34,945
    - gemma4-mtp-drafters：標註為研究文章（非 GitHub 專案）
-4. **格式修復**：index.md 中 `[[sgl-project-sglang|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang|SGLang]]`
+4. **格式修復**：index.md 中 `[[sgl-project-sglang\|SGLang]]` 未跳脫管線 → `[[sgl-project-sglang\|SGLang]]`
 
 未修復（需人工確認）：
 1. **重複專案頁**：ppt-master.md vs hugohe3-ppt-master.md、waoowaoo.md vs saturndec-waoowaoo.md、daily-stock-analysis.md vs ZhuLinsen-daily_stock_analysis.md、rtk.md vs rtk-ai-rtk.md、opensandbox.md vs volcengine-OpenSandbox.md — 同一專案有兩頁（一頁是概念/概念頁，一頁是 9 區塊專案頁），建議合併
@@ -998,7 +1013,7 @@ language: zh-TW
 - [[AutoGPT]] ← 素材 1
 - [[LangChain]] ← 素材 2
 - [[CrewAI]] ← 素材 3
-- [[模型推論與部署|Ollama]] ← 素材 4
+- [[模型推論與部署\|Ollama]] ← 素材 4
 - [[vLLM]] ← 素材 5
 - [[llama-cpp]] ← 素材 6
 - [[huggingface-transformers]] ← 素材 7
@@ -1228,9 +1243,9 @@ language: zh-TW
 ### 修復項目
 
 1. **斷掉的 cross-link 修復**：
-   - `[[ai-self-growth]]` → `[[ai-self-growth|AI 自我成長]]`（大小寫不符檔名）
-   - `[[self-correction]]` → `[[self-correction|Self-Correction 自我修正]]`（大小寫不符檔名）
-   - `[[AI-Agent]]` → `[[AI-Agent|AI Agent]]`（補上 alias）
+   - `[[ai-self-growth]]` → `[[ai-self-growth\|AI 自我成長]]`（大小寫不符檔名）
+   - `[[self-correction]]` → `[[self-correction\|Self-Correction 自我修正]]`（大小寫不符檔名）
+   - `[[AI-Agent]]` → `[[AI-Agent\|AI Agent]]`（補上 alias）
    - 修正 `ai-self-growth.md` 和 `index.md` 中的 cross-link
 
 2. **重複檔案刪除**：
