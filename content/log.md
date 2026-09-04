@@ -2,10 +2,25 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-03
+updated: 2026-09-04
 stars: —
 language: zh-TW
 ---
+## 2026-09-04（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **f/prompts.chat** — 可搜尋、分享與透過 MCP／API 取用的開源 Prompt 資料庫（⭐ 169.0k）→ 分類：學習資源
+- **magnitudedev/magnitude** — 依本機硬體推薦、調校並供既有 Agent 使用本地模型的推論伺服器（⭐ 2.0k）→ 分類：模型推論與部署
+
+### 動作
+- fetch 2 個 README + GitHub metadata，寫入 2 個 raw 快照
+- 寫入 2 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：Prompt Engineering、MCP、自架、LLM、模型推論與部署、Coding Agent CLI，以及相關比較頁
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
+### 篩選說明
+- 5 個候選中 3 個與 LLM 主題無直接關係（System Design 學習資源、翻牆工具庫、影音下載器），2 個新增。
+
 ## 2026-09-03（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

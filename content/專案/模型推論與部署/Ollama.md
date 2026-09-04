@@ -2,7 +2,7 @@
 title: Ollama
 slug: Ollama
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-04
 stars: 171,080
 language: zh-TW
 topics: [LLM, 本地部署]
@@ -82,6 +82,7 @@ ollama run my-assistant
 | [[NVIDIA-TensorRT-LLM]] | NVIDIA 推論加速 | TensorRT-LLM 適合大規模 NVIDIA GPU 部署 |
 | [[huggingface-transformers]] | 模型框架 | Ollama 支援 HuggingFace 模型格式 |
 | [[litellm]] | LLM Gateway | LiteLLM 可以統一管理 Ollama 和雲端 API |
+| [[magnitudedev-magnitude\|Magnitude]] | Agent-first 推論服務 | Magnitude 多了硬體 profiling、模型推薦與多 harness onboarding |
 
 ## 相關概念
 

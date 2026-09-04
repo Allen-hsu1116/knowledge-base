@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-03
+updated: 2026-09-04
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- **Magnitude** → 讓 Codex、Claude Code、OpenCode、Hermes、OpenClaw 等既有 Agent 透過硬體感知 onboarding 改用本地模型
+  👉 詳見 [[magnitudedev-magnitude\|Magnitude]]
 - **FreeLLMAPI** → 提供 Claude Code、Codex、Aider、OpenCode 等工具的設定產生器，將多家免費 LLM 額度收斂成單一端點
   👉 詳見 [[tashfeenahmed-freellmapi\|FreeLLMAPI]]
 - **Claude Plugins Community** → 以 Claude Code marketplace CLI 發佈通過審核的社群插件
@@ -84,6 +86,7 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[huangruiteng-loopx]] — Agent 迴圈工程控制平面，管理 Coding Agent 的長時間運行狀態
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
 - [[akitaonrails-ai-memory\|ai-memory]] — 跨 Coding Agent CLI 的 session 記憶、原生恢復與進度交接層
+- [[magnitudedev-magnitude\|Magnitude]] — 為多種 Coding Agent 自動選擇並接入本地模型
 
 ## 來源
 

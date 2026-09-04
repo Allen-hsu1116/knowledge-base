@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-04
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- **prompts.chat** → 以 MCP server 讓 Claude Code、Codex、Gemini CLI、OpenCode 等 Agent 搜尋並讀取社群 Prompt
+  👉 詳見 [[f-prompts.chat\|prompts.chat]]
 - **DeepSeek Harness** → 工具註冊表與 Capability Seam 可接入外部工具服務，並以 pre/execute/post 流水線治理每次呼叫
   👉 詳見 [[deepseek-ai-deepseek-harness\|DeepSeek Harness]]
 - **OpenAI Codex CLI** → 內建 MCP client/server 相關模組，讓本機 Coding Agent 接入外部工具與資料
@@ -64,6 +66,7 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - [[harness-engineering]] — MCP 是 Harness 的工具連接標準
 - [[PrefectHQ-fastmcp]] — 最 Pythonic 的 MCP Server/Client 建構框架
 - [[asciimoo-hister]] — 透過 MCP 暴露個人搜尋索引的本地優先服務
+- [[f-prompts.chat\|prompts.chat]] — 以 MCP 暴露 Prompt 搜尋與讀取能力
 
 ## 來源
 - MCP 官方規範與相關原始資料

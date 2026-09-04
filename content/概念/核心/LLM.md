@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-09-04
 language: zh-TW
 ---
 
@@ -28,22 +28,24 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 
 ## 各框架的做法
 
+- **Magnitude** → 依本機硬體選擇和調校模型，並把推論服務接入既有 Coding Agent harness
+  👉 詳見 [[magnitudedev-magnitude\|Magnitude]]
 - **Ollama** → 本地一鍵運行 LLM，模型庫豐富，最簡單的本地部署方案
   👉 詳見 [[Ollama]]
 - **vLLM** → 高吞吐推論引擎，PagedAttention + Continuous Batching，伺服器級部署首選
   👉 詳見 [[vLLM]]
 - **llama.cpp** → C/C++ 推論引擎，消費級硬體可跑，GGUF 量化格式
-  👉 詳見 [[llama-cpp|llama.cpp]]
+  👉 詳見 [[llama-cpp\|llama.cpp]]
 - **SGLang** → 高效能服務框架，RadixAttention 前綴快取，跨硬體支援
-  👉 詳見 [[sgl-project-sglang|SGLang]]
+  👉 詳見 [[sgl-project-sglang\|SGLang]]
 - **Hugging Face Transformers** → 模型定義框架，100 萬+ 模型生態
-  👉 詳見 [[huggingface-transformers|Hugging Face Transformers]]
+  👉 詳見 [[huggingface-transformers\|Hugging Face Transformers]]
 - **LiteLLM** → LLM Gateway，100+ Provider 統一 API
   👉 詳見 [[litellm]]
 - **GenLayer Project Boilerplate** → 將 LLM 的非確定性網頁判讀放進可由 equivalence principle 驗證的 intelligent contract
-  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]]
+  👉 詳見 [[genlayerlabs-genlayer-project-boilerplate\|GenLayer Project Boilerplate]]
 - **ONNX Runtime** → 將可匯出的 Transformer／ML 模型轉成 ONNX graph，交由跨硬體 Execution Provider 執行
-  👉 詳見 [[microsoft-onnxruntime|ONNX Runtime]]
+  👉 詳見 [[microsoft-onnxruntime\|ONNX Runtime]]
 - **Marin** → 公開資料策展、預訓練、後訓練、評估、scaling 與失敗實驗的基礎模型研發流程
   👉 詳見 [[marin-community-marin]]
 
@@ -57,9 +59,10 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - [[rag]] — 讓 LLM 存取外部知識
 - [[self-correction]] — 提升 LLM 的可靠性
 - [[kvcache-ai-ktransformers]] — CPU-GPU 異構運算，消費級硬體跑超大 MoE 模型
-- [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 以共識驗證 LLM 從外部資料擷取出的結果
-- [[microsoft-onnxruntime|ONNX Runtime]] — 跨框架模型執行與硬體加速
+- [[genlayerlabs-genlayer-project-boilerplate\|GenLayer Project Boilerplate]] — 以共識驗證 LLM 從外部資料擷取出的結果
+- [[microsoft-onnxruntime\|ONNX Runtime]] — 跨框架模型執行與硬體加速
 - [[marin-community-marin]] — 從資料到大型 GPU／TPU 實驗的開放基礎模型研發平台
+- [[magnitudedev-magnitude\|Magnitude]] — 本地模型推薦、調校與 Agent 推論服務
 
 ## 來源
 - 知識庫內 LLM 相關原始資料與專案頁面

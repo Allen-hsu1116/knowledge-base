@@ -2,7 +2,7 @@
 title: Prompt Engineering
 slug: Prompt-Engineering
 created: 2026-06-07
-updated: 2026-08-24
+updated: 2026-09-04
 language: zh-TW
 ---
 
@@ -28,22 +28,24 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 
 ## 各框架的做法
 
+- **prompts.chat** → 把社群 Prompt 整理成可搜尋、投票、分支的開放資料庫，並透過 Web、CLI、API 和 MCP 提供給人與 Agent
+  👉 詳見 [[f-prompts.chat\|prompts.chat]]
 - **Anthropic Skills** → 結構化 SKILL.md 格式，前端設計、Web 測試等官方 Skill 集
-  👉 詳見 [[anthropics-skills|Anthropic Skills]]
+  👉 詳見 [[anthropics-skills\|Anthropic Skills]]
 - **Awesome Claude Skills** → 1000+ 可安裝 Skills，Claude Code / Codex / Cursor 跨平台
-  👉 詳見 [[ComposioHQ-awesome-claude-skills|Awesome Claude Skills]]
+  👉 詳見 [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]]
 - **Promptfoo** → LLM 評測與紅隊測試框架，CI/CD 整合的 Prompt 工程工具
-  👉 詳見 [[promptfoo-promptfoo|Promptfoo]]
+  👉 詳見 [[promptfoo-promptfoo\|Promptfoo]]
 - **System Prompts Collection** → 15+ 廠商的系統提示詞洩露與安全研究
-  👉 詳見 [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts Collection]]
+  👉 詳見 [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]]
 - **Karpathy CLAUDE.md 規則** → CLAUDE.md 結構化 prompt 實作範例
-  👉 詳見 [[multica-ai-andrej-karpathy-skills|Karpathy CLAUDE.md 規則]]
+  👉 詳見 [[multica-ai-andrej-karpathy-skills\|Karpathy CLAUDE.md 規則]]
 - **Outlines** → 結構化生成函式庫，在生成時保證 LLM 輸出符合 Pydantic/JSON/Regex/CFG 結構
-  👉 詳見 [[dottxt-ai-outlines|Outlines]]
+  👉 詳見 [[dottxt-ai-outlines\|Outlines]]
 - **Awesome GPT-Image-2** → 將影像 prompt 拆成可組合 schema、模板與 style library，實作 Prompt as Code
-  👉 詳見 [[freestylefly-awesome-gpt-image-2|Awesome GPT-Image-2]]
+  👉 詳見 [[freestylefly-awesome-gpt-image-2\|Awesome GPT-Image-2]]
 - **Awesome Agent Skills** → 以策展清單連接各團隊的結構化操作知識與原始 Skill 來源
-  👉 詳見 [[VoltAgent-awesome-agent-skills|Awesome Agent Skills]]
+  👉 詳見 [[VoltAgent-awesome-agent-skills\|Awesome Agent Skills]]
 
 ## 相關概念
 
@@ -53,6 +55,7 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - [[context-engineering-basics]] — PE 的進階版：管理整個 context
 - [[AI-Skills]] — 用自然語言定義 AI 編碼助理的行為規範
 - [[llm-knowledge-base]] — 知識庫是 Context Engineering 的一種實作
+- [[f-prompts.chat\|prompts.chat]] — 可搜尋與重用的開源 Prompt 資料庫
 
 ## 來源
 - 知識庫內 Prompt Engineering 相關原始資料與專案頁面

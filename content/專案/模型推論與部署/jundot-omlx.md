@@ -2,7 +2,7 @@
 title: oMLX
 slug: jundot-omlx
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-04
 stars: 18991
 language: Python
 topics: [apple-silicon, inference-server, llm, macos, mlx, openai-api, kv-cache, continuous-batching]
@@ -77,6 +77,7 @@ oMLX 不取代所有推論引擎，而是把 vLLM 類型的伺服器能力帶到
 | [[vLLM]] | NVIDIA/AMD 等伺服器 GPU | 高吞吐生產推論 | PagedAttention | API 為主 | 資料中心規模部署 |
 | [[llama-cpp]] | CPU/GPU/邊緣裝置 | 跨平台低階推論 | 多種量化與快取 | CLI/API | 廣泛硬體與低資源環境 |
 | [[unslothai-unsloth\|Unsloth]] | GPU/Apple Silicon | 模型訓練、微調與本地執行 | 非主要定位 | Desktop/Notebook/API | 訓練到匯出的完整工作流 |
+| [[magnitudedev-magnitude\|Magnitude]] | macOS／Linux／WSL | 硬體 profiling、模型推薦與 Agent onboarding | 自動調校 | CLI | 既有 Agent 改用本地模型 |
 
 ## 相關概念
 

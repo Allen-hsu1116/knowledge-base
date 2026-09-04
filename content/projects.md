@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # 專案索引
@@ -189,6 +189,7 @@ updated: 2026-09-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[magnitudedev-magnitude\|Magnitude]] | ⭐2.0k | Agent-first 本地推論伺服器, 硬體 profiling, 模型推薦, 自動調校, 按需載入, GGUF, 離線隱私, Codex/Claude Code/Hermes/OpenClaw | 2026-09-04 |
 | [[marin-community-marin\|Marin]] | ⭐2.1k | 開放基礎模型研發, 資料策展+tokenization+預訓練+後訓練+評估, step DAG, 可重現實驗, scaling laws, MoE, GPU/TPU 叢集, Agent Skills | 2026-08-26 |
 | [[microsoft-onnxruntime\|ONNX Runtime]] | ⭐21.5k | 跨平台 ML runtime, ONNX graph, Execution Providers, CPU/GPU/NPU/行動/Web, 推論與訓練加速 | 2026-08-22 |
 | [[elder-plinius-OBLITERATUS\|OBLITERATUS]] | ⭐7.8k | LLM refusal directions, abliteration, 權重投影, steering vectors, mechanistic interpretability, alignment 紅隊研究 | 2026-08-22 |
@@ -287,6 +288,7 @@ updated: 2026-09-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
 | [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
 | [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐2.2k | 繁體中文 Agentic AI 結構化學習地圖, Stage 0–8+7.5, CLI Power User+Agent Builder 雙路線, 可執行練習, Eval/HITL/可觀測性/復原, 三語 | 2026-09-02 |
 | [[ripienaar-free-for-dev\|free-for.dev]] | ⭐133.9k | 開發者免費服務策展, SaaS/PaaS/IaaS free tier, 雲端與 DevOps 基礎設施, Generative AI, 1600+ 社群貢獻者 | 2026-08-23 |

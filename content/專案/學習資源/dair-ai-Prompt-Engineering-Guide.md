@@ -2,7 +2,7 @@
 title: Prompt Engineering Guide
 slug: dair-ai-Prompt-Engineering-Guide
 created: 2022-12-16
-updated: 2026-06-16
+updated: 2026-09-04
 stars: 75657
 language: MDX
 topics: [prompt-engineering, rag, ai-agents, llms, generative-ai, deep-learning, language-model, chatgpt, openai]
@@ -14,7 +14,7 @@ topics: [prompt-engineering, rag, ai-agents, llms, generative-ai, deep-learning,
 
 ## 快速導航
 
-[[Prompt-Engineering|Prompt Engineering]] · [[rag|RAG]] · [[self-correction|自我修正]]
+[[Prompt-Engineering\|Prompt Engineering]] · [[rag\|RAG]] · [[self-correction\|自我修正]]
 
 ## 是什麼
 
@@ -54,11 +54,12 @@ pnpm dev
 
 | 方案 | 類型 | 涵蓋範圍 | 格式 | 適用場景 |
 |------|------|---------|------|----------|
-| [[dair-ai-Prompt-Engineering-Guide|PE Guide]] | 學習資源 | PE + RAG + Agent | 論文+筆記+課程 | 系統學習 PE |
-| [[x1xhlol-system-prompts-and-models-of-ai-tools|System Prompts]] | 策展列表 | System Prompts | Markdown | 研究 Prompt |
-| [[promptfoo-promptfoo|Promptfoo]] | 評測工具 | PE 測試 | CLI 工具 | PE 品質保證 |
-| [[ComposioHQ-awesome-claude-skills|Awesome Claude Skills]] | 策展列表 | Claude Skills | Markdown | 找 Agent Skill |
-| [[context-engineering-basics|Context Engineering]] | 學習資源 | Context Eng | 文章 | 理解上下文工程 |
+| [[dair-ai-Prompt-Engineering-Guide\|PE Guide]] | 學習資源 | PE + RAG + Agent | 論文+筆記+課程 | 系統學習 PE |
+| [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts]] | 策展列表 | System Prompts | Markdown | 研究 Prompt |
+| [[promptfoo-promptfoo\|Promptfoo]] | 評測工具 | PE 測試 | CLI 工具 | PE 品質保證 |
+| [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | 策展列表 | Claude Skills | Markdown | 找 Agent Skill |
+| [[context-engineering-basics\|Context Engineering]] | 學習資源 | Context Eng | 文章 | 理解上下文工程 |
+| [[f-prompts.chat\|prompts.chat]] | Prompt 資料庫 | 社群提示模板 | Web+CLI+API+MCP | 搜尋、分享與重用 Prompt |
 
 ## 相關概念
 

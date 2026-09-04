@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-03
+updated: 2026-09-04
 language: zh-TW
 ---
 
@@ -31,6 +31,10 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Magnitude** → 依本機硬體推薦與調校 GGUF 模型，讓既有 Coding Agent 以離線推論服務執行
+  👉 詳見 [[magnitudedev-magnitude\|Magnitude]]
+- **prompts.chat** → 以 Docker Compose 自架可搜尋的 Prompt 網站、資料與 Agent 存取介面
+  👉 詳見 [[f-prompts.chat\|prompts.chat]]
 - **FreeLLMAPI** → 在本機以 Docker、桌面 App 或 Node.js 執行多供應商 Gateway，供應商金鑰加密存於本地 SQLite
   👉 詳見 [[tashfeenahmed-freellmapi\|FreeLLMAPI]]
 - **claude-obsidian** → 把知識留在使用者擁有的 Markdown vault，網路外連與遠端模型能力需明確同意
@@ -77,6 +81,8 @@ language: zh-TW
 - [[media-streaming\|媒體串流]] — 自架娛樂基礎設施
 - [[TryGhost-Ghost\|Ghost]] — 兼具自架控制權與官方 SaaS 的出版平台
 - [[asciimoo-hister]] — 自架個人全文搜尋與瀏覽歷史索引
+- [[magnitudedev-magnitude\|Magnitude]] — 硬體感知、可離線的本地模型推論服務
+- [[f-prompts.chat\|prompts.chat]] — 可自行部署的開源 Prompt 資料庫
 
 ## 來源
 
