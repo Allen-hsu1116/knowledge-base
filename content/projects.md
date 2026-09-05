@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-04
+updated: 2026-09-05
 ---
 
 # 專案索引
@@ -189,6 +189,7 @@ updated: 2026-09-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[radixark-miles\|Miles]] | ⭐2.6k | 企業級 LLM/VLM 強化學習後訓練, SGLang rollout, Megatron-LM, 非同步 RL, 秒級權重更新, MXFP8/NVFP4, Token-in-token-out, MoE R3, Agent 環境 | 2026-09-05 |
 | [[magnitudedev-magnitude\|Magnitude]] | ⭐2.0k | Agent-first 本地推論伺服器, 硬體 profiling, 模型推薦, 自動調校, 按需載入, GGUF, 離線隱私, Codex/Claude Code/Hermes/OpenClaw | 2026-09-04 |
 | [[marin-community-marin\|Marin]] | ⭐2.1k | 開放基礎模型研發, 資料策展+tokenization+預訓練+後訓練+評估, step DAG, 可重現實驗, scaling laws, MoE, GPU/TPU 叢集, Agent Skills | 2026-08-26 |
 | [[microsoft-onnxruntime\|ONNX Runtime]] | ⭐21.5k | 跨平台 ML runtime, ONNX graph, Execution Providers, CPU/GPU/NPU/行動/Web, 推論與訓練加速 | 2026-08-22 |

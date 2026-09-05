@@ -2,7 +2,7 @@
 title: LlamaFactory
 slug: hiyouga-LlamaFactory
 created: 2026-06-27
-updated: 2026-08-26
+updated: 2026-09-05
 stars: 72532
 language: Python
 topics:
@@ -86,7 +86,7 @@ llamafactory-cli api \
 ## 相關概念
 
 
-← [[LLM]] · [[huggingface-transformers]] · [[vLLM]] · [[marin-community-marin]]
+← [[LLM]] · [[huggingface-transformers]] · [[vLLM]] · [[marin-community-marin]] · [[radixark-miles\|Miles]]
 
 ## 來源
 

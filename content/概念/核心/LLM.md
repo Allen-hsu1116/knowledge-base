@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-05
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 
 ## 各框架的做法
 
+- **Miles** → 以非同步 rollout、分散式 trainer、權重快速同步與 RL 配方完成 LLM／VLM 大規模後訓練
+  👉 詳見 [[radixark-miles\|Miles]]
 - **Magnitude** → 依本機硬體選擇和調校模型，並把推論服務接入既有 Coding Agent harness
   👉 詳見 [[magnitudedev-magnitude\|Magnitude]]
 - **Ollama** → 本地一鍵運行 LLM，模型庫豐富，最簡單的本地部署方案
@@ -63,6 +65,7 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - [[microsoft-onnxruntime\|ONNX Runtime]] — 跨框架模型執行與硬體加速
 - [[marin-community-marin]] — 從資料到大型 GPU／TPU 實驗的開放基礎模型研發平台
 - [[magnitudedev-magnitude\|Magnitude]] — 本地模型推薦、調校與 Agent 推論服務
+- [[radixark-miles\|Miles]] — 企業級 LLM／VLM 強化學習後訓練與 Agent rollout 框架
 
 ## 來源
 - 知識庫內 LLM 相關原始資料與專案頁面

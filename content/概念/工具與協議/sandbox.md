@@ -2,7 +2,7 @@
 title: 沙箱
 slug: sandbox
 created: 2026-05-18
-updated: 2026-08-21
+updated: 2026-09-05
 language: zh-TW
 ---
 
@@ -53,6 +53,7 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 - [[self-hosted]] — 自架平台需要沙箱來安全運行 Agent 程式碼
 - [[prompt-security]] — 沙箱是 Prompt 安全的實體防線
 - [[genlayerlabs-genlayer-project-boilerplate|GenLayer Project Boilerplate]] — 用 Direct Mode 隔離外部網路與 LLM 依賴的測試
+- [[radixark-miles\|Miles]] — 以 AgentENV、Daytona、E2B 或 Modal 沙箱承載 Agent 強化學習任務
 
 ## 來源
 

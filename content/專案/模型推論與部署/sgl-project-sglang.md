@@ -2,7 +2,7 @@
 title: SGLang
 slug: sgl-project-sglang
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-05
 stars: 27,589
 language: zh-TW
 topics: [LLM, 推論加速, 多模態]
@@ -75,7 +75,7 @@ SGLang 和 vLLM 是直接競品。SGLang 的 RadixAttention 在有多個請求�
 
 ## 相關概念
 
-← [[LLM]] · [[llm-internals]] · [[Token-Optimization]]
+← [[LLM]] · [[llm-internals]] · [[Token-Optimization]] · [[radixark-miles\|Miles]]
 
 ## 來源
 

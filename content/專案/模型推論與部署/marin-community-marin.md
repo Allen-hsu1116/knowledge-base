@@ -2,7 +2,7 @@
 title: Marin
 slug: marin-community-marin
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-09-05
 stars: 2107
 language: Python
 topics: [foundation-models, llm-training, pretraining, posttraining, evaluation, scaling-laws, mixture-of-experts]
@@ -84,7 +84,7 @@ Marin 不是單純的訓練函式庫或模型下載器；它把研究計畫的�
 
 ## 相關概念
 
-← [[LLM]] · [[模型推論與部署]] · [[AI-Skills]]
+← [[LLM]] · [[模型推論與部署]] · [[AI-Skills]] · [[radixark-miles\|Miles]]
 
 ## 來源
 

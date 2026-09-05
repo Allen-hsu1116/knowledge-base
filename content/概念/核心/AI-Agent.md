@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-05
 language: zh-TW
 ---
 
@@ -79,6 +79,7 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[WenyuChiou-awesome-agentic-ai-zh|awesome-agentic-ai-zh]] — 從 LLM／Prompt 到 Agent Loop、Graph、Memory、Harness、Eval 與 production 的中文學習路線
 - [[unclebob-swarm-forge|SwarmForge]] — 以隔離 worktree、工程角色與結構化交接管理多 Agent 軟體開發
 - [[henryqin1997-statem|StateM]] — 以 checked transition 和 durable state 提升 Agent 長任務可靠度
+- [[radixark-miles\|Miles]] — 透過 Agent 環境連接器與可驗證 rollout 訓練 coding、computer-use 等多輪 Agent
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

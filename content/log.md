@@ -2,10 +2,24 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-04
+updated: 2026-09-05
 stars: —
 language: zh-TW
 ---
+## 2026-09-05（每日 LLM 熱門專案搜尋）
+
+### 新增專案頁
+- **radixark/miles** — 以 SGLang rollout、Megatron-LM 分散式 trainer 與非同步管線支援 LLM、VLM、Agent 大規模強化學習後訓練（⭐ 2.6k）→ 分類：模型推論與部署
+
+### 動作
+- fetch README + GitHub metadata，寫入 1 個 raw 快照
+- 寫入 1 個 wiki 專案頁（10 段、每頁至少 70 行）
+- 更新 backlinks：LLM、模型推論與部署、AI Agent、沙箱、SGLang、LlamaFactory、Unsloth、Marin
+- 更新 projects.md 與 known-repos.json，執行 Quartz 同步、建置與部署
+
+### 篩選說明
+- 4 個候選中 3 個與 LLM 主題無直接關係（翻牆工具、漏洞 PoC 彙整、DirectX 遊戲畫面改造），1 個新增。
+
 ## 2026-09-04（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

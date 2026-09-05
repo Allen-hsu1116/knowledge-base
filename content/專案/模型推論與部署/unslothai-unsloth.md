@@ -2,7 +2,7 @@
 title: Unsloth
 slug: unslothai-unsloth
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-09-05
 stars: 71060
 language: Python
 topics: [fine-tuning, llm, self-hosted, reinforcement-learning, qwen, deepseek, gemma, stable-diffusion, tts, mcp]
@@ -96,7 +96,7 @@ Unsloth 的定位是「本地 AI 的瑞士刀」——從訓練到推論到 agen
 ## 相關概念
 
 
-← [[Ollama]] · [[llama-cpp]] · [[模型推論與部署]] · [[self-hosted]] · [[anthropics-claude-code]] · [[MCP]]
+← [[Ollama]] · [[llama-cpp]] · [[模型推論與部署]] · [[self-hosted]] · [[anthropics-claude-code]] · [[MCP]] · [[radixark-miles\|Miles]]
 
 ## 來源
 
