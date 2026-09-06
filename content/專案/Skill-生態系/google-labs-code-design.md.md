@@ -134,7 +134,7 @@ DESIGN.md 跟 CLAUDE.md 最大的差異在於：CLAUDE.md 定義 agent 的「行
 
 | 欄位 | 資訊 |
 |------|------|
-| GitHub | https://github.com/google-labs-code/design |
+| GitHub | https://github.com/google-labs-code/design.md |
 | Stars | ⭐17300|
 | License | Apache-2.0 |
 | 收錄日期 | 2026-06-25 |

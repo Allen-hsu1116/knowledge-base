@@ -1714,3 +1714,15 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 
 - 收錄 `JetBrains/go-modern-guidelines`，分類：🛠 Skill 生態系。
 - 建立 raw README/metadata 快照、專案頁、索引與相關概念 backlinks。
+
+## [2026-09-06] lint | 全庫格式、連結與來源維護
+
+- 掃描 510 篇 wiki（438 專案、60 概念、9 影片、3 索引／記錄），影片頁與概念模板分開檢查；472 份 raw 皆有正文或來源引用，整理狀態保存於 outputs/lint-audit-2026-09-06.json。
+- 補齊 SwarmForge、StateM、awesome-agentic-ai-zh 的專案模板、安裝步驟、比較表、topics 與 metadata footer；保留原有技術內容。
+- 從 GitHub 取得三份官方 README 新快照，替換不存在的舊 raw 連結；INSIDE 素材沿用原始快照並標記已整理，保留 CMS 錯置說明。
+- API 核對並更新上述三專案 Stars 與 projects 索引；修復 RAG 大小寫連結、StateM 兩個貨幣美元符號。
+- DeepSeek Harness footer 改為表格；修正 DESIGN.md footer 的 GitHub repo URL 缺少 .md，保留合法的原頁面 slug／檔名。
+- 修正 Google Workspace CLI 提醒排版與影片區來源描述；VoxCPM raw 僅補 YAML description 引號，正文不變，原檔已備份。
+- SKILL.md 無 merge map；以全庫實際頁面解析檢查取代，未發現合併遺留斷鏈。待分類區為空。
+- 矛盾檢查涵蓋來源與頁尾 repo 一致性、修復頁與 README 的敘述；不將歷史 Stars 快照差异視為知識矛盾，不宣稱已證明全庫語意無矛盾。
+- 修改前備份：outputs/lint-backup-20260906-100305/。

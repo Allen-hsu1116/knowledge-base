@@ -17,8 +17,8 @@ updated: 2026-09-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
-| [[henryqin1997-statem\|StateM]] | ⭐849 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
-| [[unclebob-swarm-forge\|SwarmForge]] | ⭐3.5k | Uncle Bob 多 Agent 軟體工程編排, tmux, git worktree, pack/forge, 固定角色管線, constitution, handoff mail, Codex/Claude/Grok/Copilot | 2026-09-02 |
+| [[henryqin1997-statem\|StateM]] | ⭐984 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
+| [[unclebob-swarm-forge\|SwarmForge]] | ⭐3.7k | Uncle Bob 多 Agent 軟體工程編排, tmux, git worktree, pack/forge, 固定角色管線, constitution, handoff mail, Codex/Claude/Grok/Copilot | 2026-09-02 |
 | [[deepseek-ai-deepseek-harness\|DeepSeek Harness]] | ⭐190.8k | DeepSeek AI 開源 Agent Harness, Everything is a Plugin, Cordis 插件樹, Profile+Bundle+Patch, 事件溯源 Session, Web+Headless, 工具審批與沙箱, Typert API Gateway, TypeScript | 2026-08-24 |
 | [[apache-maka\|Apache Maka]] | ⭐2.0k | Local-first Agent workspace, Runtime Event Log, Runtime Host, context projection, recovery, Desktop+TUI+CLI+Eval, 權限工具, SQLite | 2026-08-22 |
 | [[openai-codex\|OpenAI Codex CLI]] | ⭐111.0k | OpenAI 官方 Coding Agent, Rust 核心, 終端機+IDE+桌面+Web, AGENTS.md, Skills, MCP, 沙箱與審批, 非互動自動化, ChatGPT 登入 | 2026-08-22 |
@@ -291,7 +291,7 @@ updated: 2026-09-05
 |------|-------|------|----------|
 | [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
 | [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
-| [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐2.2k | 繁體中文 Agentic AI 結構化學習地圖, Stage 0–8+7.5, CLI Power User+Agent Builder 雙路線, 可執行練習, Eval/HITL/可觀測性/復原, 三語 | 2026-09-02 |
+| [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐6.7k | 繁體中文 Agentic AI 結構化學習地圖, Stage 0–8+7.5, CLI Power User+Agent Builder 雙路線, 可執行練習, Eval/HITL/可觀測性/復原, 三語 | 2026-09-02 |
 | [[ripienaar-free-for-dev\|free-for.dev]] | ⭐133.9k | 開發者免費服務策展, SaaS/PaaS/IaaS free tier, 雲端與 DevOps 基礎設施, Generative AI, 1600+ 社群貢獻者 | 2026-08-23 |
 | [[microsoft-generative-ai-for-beginners\|Generative AI for Beginners]] | ⭐116.3k | 微軟 21 課 GenAI 入門, LLM, Prompt Engineering, RAG, Function Calling, AI Agent, 微調, Python+TS, 50+ 語言翻譯 | 2026-08-05 |
 | [[Lordog-dive-into-llms\|Dive into LLMs]] | ⭐45k | 上海交通大學大模型教程, 11 主題, 微調/提示/知識編輯/數學推理/水印/越獄/隱寫/多模態/GUI Agent/安全對齊, 華為昇騰國產化 | 2026-07-25 |

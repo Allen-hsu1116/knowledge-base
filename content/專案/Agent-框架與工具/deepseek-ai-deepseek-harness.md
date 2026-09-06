@@ -99,9 +99,11 @@ DeepSeek Harness 的差異不只在於提供另一個 Agent UI，而是把產品
 
 ---
 
-- **GitHub**: https://github.com/deepseek-ai/deepseek-harness
-- **Stars**: ⭐190,755
-- **License**: MIT
-- **主要語言**: TypeScript
-- **狀態**: Developer Preview
-- **收錄日期**: 2026-08-24
+| 欄位 | 資訊 |
+|---|---|
+| GitHub | https://github.com/deepseek-ai/deepseek-harness |
+| Stars | ⭐190,755 |
+| License | MIT |
+| 主要語言 | TypeScript |
+| 狀態 | Developer Preview |
+| 收錄日期 | 2026-08-24 |

@@ -24,7 +24,9 @@ topics: [AI Agent, MCP, AI Skills]
 
 `gws` 是一個 CLI 工具，讓人類和 AI Agent 都能用指令操作 Google Workspace 的所有 API。
 
-最大特色是**動態命令介面** — 不維護靜態指令列表，而是即時讀取 Google Discovery Service 建構命令。Google 新增 API 端點，`gws` 自動支援。> ⚠️ 這不是 Google 官方產品（非 Google 正式支援）
+最大特色是**動態命令介面** — 不維護靜態指令列表，而是即時讀取 Google Discovery Service 建構命令。Google 新增 API 端點，`gws` 自動支援。
+
+> ⚠️ 這不是 Google 官方產品（非 Google 正式支援）
 
 ## 核心特色
 
