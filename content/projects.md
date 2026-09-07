@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 # 專案索引
@@ -230,6 +230,7 @@ updated: 2026-09-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[OpenWhispr-openwhispr\|OpenWhispr]] | ⭐7.4k | 本地／雲端語音辨識、桌面聽寫、會議轉錄、語音 Agent、MCP | 2026-09-07 |
 | [[debpalash-VoiceStudio\|VoiceStudio]] | ⭐14.7k | 本地語音工作室, 16 TTS+11 ASR, 646 語言目錄, 語音克隆, 影片配音, 聽寫, 有聲書, OpenAI API, MCP, Tauri+FastAPI | 2026-09-03 |
 | [[Comfy-Org-ComfyUI\|ComfyUI]] | ⭐129.4k | 節點式生成工作流, 圖片/影片/音訊/3D/文字, 局部重算, VRAM/RAM 管理, custom nodes, API, App Mode, 離線執行 | 2026-08-24 |
 | [[freestylefly-awesome-gpt-image-2\|Awesome GPT-Image-2]] | ⭐12.7k | GPT-Image-2, Prompt as Code, 500+ 案例, 20+ 工業模板, style library, Agent Skill, 圖片生成自動化 | 2026-08-24 |
@@ -330,6 +331,8 @@ updated: 2026-09-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[The-Swarm-Corporation-AutoHedge\|AutoHedge]] | ⭐4.7k | 多 Agent 金融分析、風控、Solana 交易執行 | 2026-09-07 |
+| [[aipoch-open-science\|AIPOCH Open Science]] | ⭐3.9k | 科學研究工作台、Python／R、Skills、成果溯源 | 2026-09-07 |
 | [[sngyai-Sequoia-X\|Sequoia-X]] | ⭐6.1k | A 股量化選股, baostock, SQLite 增量日 K, 六種技術策略, 8 process 更新, 飛書通知, Python | 2026-09-03 |
 | [[bilawalsidhu-gods-eye-view\|God's Eye View]] | ⭐8.1k | OSINT, GEOINT, 3D globe, CesiumJS, 即時航班/船舶/衛星, 公開資料, OpenAI Realtime, 語音 Agent | 2026-08-28 |
 | [[TryGhost-Ghost\|Ghost]] | ⭐54.9k | 開源專業出版 CMS, 會員, 付費訂閱, newsletter, Content API, 主題, 自架或 Ghost(Pro) | 2026-08-22 |

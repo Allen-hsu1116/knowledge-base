@@ -2,10 +2,17 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-05
+updated: 2026-09-07
 stars: —
 language: zh-TW
 ---
+## 2026-09-07（每日 LLM 熱門專案搜尋）
+
+- 新增 [[OpenWhispr-openwhispr]]（多媒體與爬蟲）、[[The-Swarm-Corporation-AutoHedge]]（應用）、[[aipoch-open-science]]（應用）。
+- 保存完整 README raw 快照及 GitHub metadata，撰寫 3 篇專案頁，更新 5 篇概念頁 backlinks、projects 與 known-repos。
+- LLVM 為通用編譯器基礎設施，Stremio Web 為影音播放器介面；本次不作為 LLM 專案收錄。
+- 本次無新概念頁，不變更概念索引層次；依既有相關概念補充框架案例。
+
 ## 2026-09-05（每日 LLM 熱門專案搜尋）
 
 ### 新增專案頁

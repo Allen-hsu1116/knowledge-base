@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-05
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -27,6 +27,13 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **OpenWhispr** → 語音指令連接本地或雲端模型，整合聽寫、筆記及會議流程
+  👉 詳見 [[OpenWhispr-openwhispr]]
+- **AutoHedge** → Director、Quant、Risk、Execution 分工處理 Solana 交易；具風控角色不代表保證獲利
+  👉 詳見 [[The-Swarm-Corporation-AutoHedge]]
+- **Open Science** → 科學研究工作台，以 runtime、資料連接器、Python／R 及成果溯源組成研究流程
+  👉 詳見 [[aipoch-open-science]]
 
 - **DeepSeek Harness** → 以可替換的 Cordis 插件組裝 Agent Loop、工具流水線、事件 Session、Web 與 Headless 執行形態
   👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]

@@ -2,7 +2,7 @@
 title: 金融預測
 slug: financial-forecasting
 created: 2026-05-11
-updated: 2026-08-20
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ language: zh-TW
 - **多時間尺度** — 從毫秒級高頻交易到季度級資產配置
 
 ## 各框架的做法
+
+- **AutoHedge** → 將市場分析、風險評估及 Solana 執行串為多 Agent 管線；需另行驗證策略與下單風險
+  👉 詳見 [[The-Swarm-Corporation-AutoHedge]]
 
 - **Kronos** → 金融 K 線基礎模型，LLM 驅動的時間序列預測
   👉 詳見 [[shiyu-coder-Kronos]]

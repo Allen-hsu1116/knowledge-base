@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-08-28
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **Open Science** → 科學研究 Skills 支援檔案與 GitHub 匯入，透過預覽及確認控制安裝流程
+  👉 詳見 [[aipoch-open-science]]
 
 - **Archify** → 把程式碼庫或系統描述轉為經 Typed IR 與確定性 gate 驗證的互動式技術地圖
   👉 詳見 [[tt-a1i-archify\|Archify]]
