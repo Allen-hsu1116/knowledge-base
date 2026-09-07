@@ -1748,3 +1748,11 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - SKILL.md 無 merge map；以全庫實際頁面解析檢查取代，未發現合併遺留斷鏈。待分類區為空。
 - 矛盾檢查涵蓋來源與頁尾 repo 一致性、修復頁與 README 的敘述；不將歷史 Stars 快照差异視為知識矛盾，不宣稱已證明全庫語意無矛盾。
 - 修改前備份：outputs/lint-backup-20260906-100305/。
+
+
+## [2026-09-08] ingest | STAIR / SearchTome（arXiv 2609.03874v1）
+
+- 固定 v1 摘要、HTML 全文與 11 頁 PDF；保存不可變 raw、頁碼文字、時間與 SHA-256 provenance。
+- 新增 [[ibm-stair-searchtome]] 繁中全文筆記，整理方法、SearchTome、Table 4、消融與限制，區分作者結果與編者推論，標明 0.05% 不是回答事實錯誤率。
+- 更新 projects、RAG、document-parsing 雙向連結與 known-repos 去重索引；未新增概念頁。
+- 備份與驗證記錄：outputs/2026-09-08-stair-v1/；使用既有 Quartz 同步與 GitHub Pages 流程發布。

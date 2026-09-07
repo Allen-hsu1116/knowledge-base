@@ -189,6 +189,7 @@ updated: 2026-09-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ibm-stair-searchtome\|STAIR（SearchTome）]] | —（研究論文） | 目錄結構、生成式檢索、參數化索引、RAG；arXiv 2609.03874v1 | 2026-09-08 |
 | [[radixark-miles\|Miles]] | ⭐2.6k | 企業級 LLM/VLM 強化學習後訓練, SGLang rollout, Megatron-LM, 非同步 RL, 秒級權重更新, MXFP8/NVFP4, Token-in-token-out, MoE R3, Agent 環境 | 2026-09-05 |
 | [[magnitudedev-magnitude\|Magnitude]] | ⭐2.0k | Agent-first 本地推論伺服器, 硬體 profiling, 模型推薦, 自動調校, 按需載入, GGUF, 離線隱私, Codex/Claude Code/Hermes/OpenClaw | 2026-09-04 |
 | [[marin-community-marin\|Marin]] | ⭐2.1k | 開放基礎模型研發, 資料策展+tokenization+預訓練+後訓練+評估, step DAG, 可重現實驗, scaling laws, MoE, GPU/TPU 叢集, Agent Skills | 2026-08-26 |

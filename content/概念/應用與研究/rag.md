@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-09-07
+updated: 2026-09-08
 language: zh-TW
 ---
 
@@ -50,6 +50,8 @@ RAG 解決了 LLM 的三大先天限制：**知識截止日**（訓練資料有�
   👉 詳見 [[open-webui-open-webui]]
 
 ## 相關概念
+
+- [[ibm-stair-searchtome|STAIR（SearchTome）]] — 以完整目錄＋查詢微調生成章節葉節點；SearchTome 檢索實驗，不是端到端問答零幻覺保證。
 
 - [[document-parsing]] — 文件解析是 RAG 管線的前置步驟
 - [[hichunk]] — 階層式分塊改進 RAG 的檢索品質

@@ -46,6 +46,8 @@ language: zh-TW
 
 ## 相關概念
 
+- [[ibm-stair-searchtome|STAIR（SearchTome）]] — 把解析出的目錄階層與葉節點原文映射用於結構感知檢索；解析與標題品質是前提。
+
 - [[rag]] — 文件解析是 RAG 管線的前置步驟
 - [[hichunk]] — 解析後的文件需要分塊策略
 - [[AI-Agent]] — Agent 需要可靠的文件輸入才能正確推理
