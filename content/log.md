@@ -7,6 +7,13 @@ stars: —
 language: zh-TW
 ---
 
+## 2026-09-07（SwarmForge 訪談理念補充）
+
+- 更新 [[unclebob-swarm-forge]]：補入 Anduril.tw 訪談整理與官方工程文件的異同，區分文章轉述、實作與解讀。
+- 保存文章及 six-pack／engineering.prompt 原始快照，修正角色識別字 hardender 與人類核准流程。
+- 更新 [[harness-engineering]] 的既有 backlink 說明與專案索引；不新增重複頁，未執行來源工具。
+
+
 ## 2026-09-07（手動收錄：五個來源查重與更新）
 
 - 新增 [[yanliudesign-mono-color-skill]]、[[Rockyzsu-stock]]。

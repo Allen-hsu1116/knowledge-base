@@ -28,7 +28,7 @@ SwarmForge 不是讓多個 Agent 自由聊天，而是把它們放進有角色�
 
 - **two-pack**：`coder → cleaner → Done`，適合快速後端工作，不使用完整 Gherkin 流程
 - **four-pack**：`specifier → coder → refactorer → architect`，在規格與架構審查間取得較精簡平衡
-- **six-pack**：`specifier → coder → cleaner → architect → hardener → QA`，加入 mutation 與 headed QA 的完整管線
+- **six-pack**：`specifier → 人類核准 → coder → cleaner → architect → hardender → QA`，加入 mutation 與 headed QA 的完整管線
 - **project-manager forge**：可同時管理多個 pack 與多個專案，提供 dashboard、host lieutenant 與 New Project 流程
 - **lieutenant forge**：多專案 forge，使用一套可設定的 project template 與 planning lieutenant；路由與角色以該產品分支為準
 
@@ -58,6 +58,50 @@ INSIDE（2026-09-01）把此專案放在 Uncle Bob「不再逐行閱讀 AI 生�
 | handshake 避免覆蓋進度 | 官方更精確地描述 durable handoff：已提交工作經 send、receive、merge、retry、completion 協議流轉；不是全面免衝突保證。 |
 | constitution 強制命名與函式長度等 Clean Code 規則 | README 確認共用 engineering／workflow／handoffs 與角色 Prompt，但不逐條證實報導列舉的限制，也不表示 Prompt 是強制安全邊界。 |
 | 已採開源授權，可直接修改取用 | **授權未確認**：當日 GitHub API `license=null`、根目錄清單未見 LICENSE/COPYING；公開程式庫不等於已有明確開源授權，不採用媒體的授權結論。 |
+
+### 設計理念：把品質要求從叮嚀搬到可驗證流程
+
+> 不要只要求 AI 保證自己做對；要設計一個讓錯誤更容易被抓到、抓到後必須修正的工作流程。
+
+這是本頁對 Uncle Bob Agent 工程方法的歸納，不是原話引述。重點不只是把 Clean Code 寫進 constitution，而是結合**角色分工、確定性品質工具、交接流程與人類驗收**。Prompt 提供責任與意圖，工具驗證可形式化的條件，工作流程則安排核准、交接及失敗處理；三者互補，不能只靠任何一項。
+
+[Anduril.tw〈《Clean Code》作者現在不看程式碼了，但他把規矩搬到了機器管得住的地方〉](https://www.anduril.tw/uncle-bob-agents/)自述整理自 2026-08-19 Matt Pocock 對 Uncle Bob 的訪談。文章正文沒有直接提到 `swarm-forge`，也未介紹 tmux、worktree、安裝或 handoff；適合當成**理解設計理念的補充，不是目前產品的逐項說明書**。以下比較已核對文章、官方 six-pack README 與共用 engineering.prompt，但尚未逐字核對原始訪談影片，也未實際執行專案。
+
+#### 相同的工程思路
+
+- **品質標準不降低，改變檢查位置**：文章轉述，把不能只靠模型記住的要求交給 CRAP、突變測試與依賴檢查。官方工程規範也要求指定工具、交接前驗證，禁止自製簡化檢查器冒充正式品質工具，或手動修改 mutation manifests 繞過檢查。
+- **拆分實作與驗證責任**：文章把規格、實作、清理、強化與 QA 分開；SwarmForge 同樣讓不同角色在共同規範下負責不同成果與檢查。但角色不同不代表推理錯誤一定獨立，仍可能共享錯誤假設。
+- **人類管理需求、驗收與異常**：文章強調辨識 Agent 鬼打牆、調整品質要求與工具成本；SwarmForge 的 Dashboard 則提供派工、核准、澄清與停止控制。這不是讓人類完全退出。
+
+#### 文章與目前實作的差異
+
+| 主題 | 文章轉述 | 官方文件與本頁判讀 |
+|---|---|---|
+| 角色管線 | 規格員 → 撰寫員 → 清理員 → 強化員 → QA | six-pack 另有 architect，並在 specifier 之後設人類核准。五道關卡不能直接當成目前設定。 |
+| Prompt 規則 | 縮短開場指令，把重要規則搬到確定性工具 | 官方仍要求讀取 constitution 與 role prompts；不是丟掉 Prompt，而是避免只靠 Prompt。 |
+| TDD 節奏 | 不強迫 Agent 按人類式逐行交替節奏工作，可寫完函式再補測試 | six-pack 仍明列 coder 使用 TDD、單元測試與驗收測試。可能是粒度或時間差異，尚不能斷言他已放棄 TDD。 |
+| 規格驅動 | 批評龐大前期計畫，提到規格用完即丟、不進版控 | SwarmForge 仍有 specifier 與規格核准。反對一次規劃完整個系統，不必然等於反對小任務先寫可驗收行為；後者是本頁解讀。「規格不進版控」不可推論成產品通則。 |
+| Agent 生命週期 | 描述用完即丟、下一角色採乾淨脈絡 | 官方說明 tmux 角色與持久化任務佇列；不可僅憑文章認定每次工作都一定重啟 Agent 或清空脈絡。 |
+| 效率與門檻 | 個人工作時間、生產力提升、覆蓋率與 CRAP 門檻經驗 | 不是通用 benchmark，也不是 SwarmForge 的效能或無漏洞保證。高覆蓋率不等於需求完整或行為正確。 |
+
+#### 官方 six-pack 的具體對照
+
+```text
+New Task → specifier → 人類核准 → coder → cleaner → architect → hardender → QA → Done
+```
+
+官方目前識別字確實是 `hardender`，包括角色檔與 worktree 名稱；不要因一般英文常寫 hardener 而自行更改操作 token。
+
+- **specifier**：撰寫 deterministic Gherkin 與有畫面的端到端 QA 程序，送 Dashboard 核准。
+- **coder**：建立驗收管線，依核准行為完成實作、TDD 與測試。
+- **cleaner**：保留行為的局部清理，檢查覆蓋率、CRAP、DRY 與模組責任。
+- **architect**：處理模組邊界、依賴方向、結構修正與 property-test 支援。
+- **hardender**：負責語言／Gherkin mutation hardening、品質門檻與穩健性。
+- **QA**：把 QA 程序轉成 UI 層可執行檢查，獨立驗證並做範圍有限的修正。
+
+工程規範要求小而可審查的增量、分離可測試邏輯與環境邊界，以及依序執行相關品質工具。這些比「請寫乾淨程式碼」具體，但 **Prompt 規則不是強制安全邊界，工具通過也不是需求完整的證明**。
+
+**閱讀結論**：Anduril.tw 文章偏重「為什麼要這樣管理 Agent」；SwarmForge 提供其中一種具體執行載體。可以說它們屬於高度相關的工程思想，不能說訪談的所有細節就是目前產品行為。
 
 ## 怎麼用
 
@@ -117,6 +161,12 @@ SwarmForge 是 [[AI-Agent]] 的多 Agent 軟體工程實例，也可與 [[chaita
 ← [[AI-Agent]] · [[harness-engineering]]
 
 ## 來源
+
+- [Anduril.tw 訪談整理](https://www.anduril.tw/uncle-bob-agents/) — 工程思想補充，非 SwarmForge 官方說明。
+- raw/2026-09-07-anduril-uncle-bob-agents.md — 文章正文快照。
+- [官方 six-pack README](https://github.com/unclebob/swarm-forge/blob/six-pack/README.md) — 角色、核准關卡與 TDD。
+- [官方 engineering.prompt](https://github.com/unclebob/swarm-forge/blob/main/swarmforge/constitution/articles/engineering.prompt) — 品質工具與工程規則。
+- raw/2026-09-07-swarm-forge-methodology-docs.md — 本次官方文件完整快照。
 
 - raw/2026-09-01-inside-unclebob-swarm-forge.md — INSIDE 文章 metadata 與擷取說明，已整理；正文錯置不採用。
 - raw/2026-09-06-unclebob-swarm-forge-readme.md — 官方 README 原始快照。

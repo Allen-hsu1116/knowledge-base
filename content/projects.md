@@ -18,7 +18,7 @@ updated: 2026-09-07
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[henryqin1997-statem\|StateM]] | ⭐984 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
-| [[unclebob-swarm-forge\|SwarmForge]] | ⭐3,756 | tmux／worktree 多 Agent 工程編排、pack／forge、handoff、INSIDE 報導與官方對照 | 2026-09-02 |
+| [[unclebob-swarm-forge\|SwarmForge]] | ⭐3,756 | tmux／worktree 多 Agent 工程編排、品質工具、handoff、Uncle Bob 訪談理念與官方實作對照 | 2026-09-02 |
 | [[deepseek-ai-deepseek-harness\|DeepSeek Harness]] | ⭐190.8k | DeepSeek AI 開源 Agent Harness, Everything is a Plugin, Cordis 插件樹, Profile+Bundle+Patch, 事件溯源 Session, Web+Headless, 工具審批與沙箱, Typert API Gateway, TypeScript | 2026-08-24 |
 | [[apache-maka\|Apache Maka]] | ⭐2.0k | Local-first Agent workspace, Runtime Event Log, Runtime Host, context projection, recovery, Desktop+TUI+CLI+Eval, 權限工具, SQLite | 2026-08-22 |
 | [[openai-codex\|OpenAI Codex CLI]] | ⭐111.0k | OpenAI 官方 Coding Agent, Rust 核心, 終端機+IDE+桌面+Web, AGENTS.md, Skills, MCP, 沙箱與審批, 非互動自動化, ChatGPT 登入 | 2026-08-22 |

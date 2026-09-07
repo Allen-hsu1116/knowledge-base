@@ -63,7 +63,7 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
   👉 詳見 [[apache-maka|Apache Maka]]
 - **StateM** → 以 YAML runbook、durable runtime history、state-local context 與 executable transition gates，將長任務可靠度變成可檢查的控制層
   👉 詳見 [[henryqin1997-statem|StateM]]
-- **SwarmForge** → 以 tmux、獨立 worktree、固定工程角色、constitution 與 handoff protocol 駕馭多個 Coding Agent
+- **SwarmForge** → 以獨立 worktree、角色分工、確定性品質工具與 handoff 組織協作；Prompt 提供意圖，工具驗證條件，流程安排核准。專案頁另對照 Uncle Bob 訪談理念與實作界線
   👉 詳見 [[unclebob-swarm-forge|SwarmForge]]
 
 ## 相關概念
