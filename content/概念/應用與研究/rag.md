@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-08-26
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ RAG 解決了 LLM 的三大先天限制：**知識截止日**（訓練資料有�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
+  👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
 
 - **Garden Skills** → kb-retriever 以階層索引、有限搜尋輪次與局部讀取查詢本地文件並附來源
   👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]

@@ -2,7 +2,7 @@
 title: Munder Difflin
 slug: chaitanyagiri-munder-difflin
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-07
 stars: 2693
 language: zh-TW
 topics: [AI Agent, 多 Agent, Harness Engineering, Agent Memory, Coding Agent, Electron]
@@ -75,6 +75,8 @@ Munder Difflin 位於「多 Agent 控制中心」與「既有 Coding Agent 多�
 與從零提供推理 runtime 的 Agent framework 不同，Munder Difflin 主要包裝使用者已安裝、已付費或自行架設的 CLI，將協作、治理、記憶與 UI 疊加在它們之上。
 
 ## 相關概念
+
+- [[unclebob-swarm-forge|SwarmForge]] — tmux／worktree 多 Agent 工程編排、pack／forge、handoff、INSIDE 報導與官方對照
 
 
 ← [[AI-Agent]] · [[harness-engineering]] · [[Coding-Agent-CLI]] · [[llm-knowledge-base]]

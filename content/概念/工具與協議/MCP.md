@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-04
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
+  👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
 
 - **prompts.chat** → 以 MCP server 讓 Claude Code、Codex、Gemini CLI、OpenCode 等 Agent 搜尋並讀取社群 Prompt
   👉 詳見 [[f-prompts.chat\|prompts.chat]]

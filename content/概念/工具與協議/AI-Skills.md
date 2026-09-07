@@ -28,6 +28,12 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
+  👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
+
+- **Monocolor Editorial Print** → 單色與受控雙色編輯印刷、設計配方、圖像提示詞、素材授權界線
+  👉 詳見 [[yanliudesign-mono-color-skill]]
+
 - **Open Science** → 科學研究 Skills 支援檔案與 GitHub 匯入，透過預覽及確認控制安裝流程
   👉 詳見 [[aipoch-open-science]]
 

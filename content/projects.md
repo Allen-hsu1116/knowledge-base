@@ -18,7 +18,7 @@ updated: 2026-09-07
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
 | [[henryqin1997-statem\|StateM]] | ⭐984 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
-| [[unclebob-swarm-forge\|SwarmForge]] | ⭐3.7k | Uncle Bob 多 Agent 軟體工程編排, tmux, git worktree, pack/forge, 固定角色管線, constitution, handoff mail, Codex/Claude/Grok/Copilot | 2026-09-02 |
+| [[unclebob-swarm-forge\|SwarmForge]] | ⭐3,756 | tmux／worktree 多 Agent 工程編排、pack／forge、handoff、INSIDE 報導與官方對照 | 2026-09-02 |
 | [[deepseek-ai-deepseek-harness\|DeepSeek Harness]] | ⭐190.8k | DeepSeek AI 開源 Agent Harness, Everything is a Plugin, Cordis 插件樹, Profile+Bundle+Patch, 事件溯源 Session, Web+Headless, 工具審批與沙箱, Typert API Gateway, TypeScript | 2026-08-24 |
 | [[apache-maka\|Apache Maka]] | ⭐2.0k | Local-first Agent workspace, Runtime Event Log, Runtime Host, context projection, recovery, Desktop+TUI+CLI+Eval, 權限工具, SQLite | 2026-08-22 |
 | [[openai-codex\|OpenAI Codex CLI]] | ⭐111.0k | OpenAI 官方 Coding Agent, Rust 核心, 終端機+IDE+桌面+Web, AGENTS.md, Skills, MCP, 沙箱與審批, 非互動自動化, ChatGPT 登入 | 2026-08-22 |
@@ -292,7 +292,7 @@ updated: 2026-09-07
 |------|-------|------|----------|
 | [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
 | [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
-| [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐6.7k | 繁體中文 Agentic AI 結構化學習地圖, Stage 0–8+7.5, CLI Power User+Agent Builder 雙路線, 可執行練習, Eval/HITL/可觀測性/復原, 三語 | 2026-09-02 |
+| [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐6,700 | 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收 | 2026-09-02 |
 | [[ripienaar-free-for-dev\|free-for.dev]] | ⭐133.9k | 開發者免費服務策展, SaaS/PaaS/IaaS free tier, 雲端與 DevOps 基礎設施, Generative AI, 1600+ 社群貢獻者 | 2026-08-23 |
 | [[microsoft-generative-ai-for-beginners\|Generative AI for Beginners]] | ⭐116.3k | 微軟 21 課 GenAI 入門, LLM, Prompt Engineering, RAG, Function Calling, AI Agent, 微調, Python+TS, 50+ 語言翻譯 | 2026-08-05 |
 | [[Lordog-dive-into-llms\|Dive into LLMs]] | ⭐45k | 上海交通大學大模型教程, 11 主題, 微調/提示/知識編輯/數學推理/水印/越獄/隱寫/多模態/GUI Agent/安全對齊, 華為昇騰國產化 | 2026-07-25 |
@@ -331,6 +331,7 @@ updated: 2026-09-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Rockyzsu-stock\|Rockyzsu/stock]] | ⭐8,439 | A 股資料、技術形態選股、Python 策略範例與視覺化 | 2026-09-07 |
 | [[The-Swarm-Corporation-AutoHedge\|AutoHedge]] | ⭐4.7k | 多 Agent 金融分析、風控、Solana 交易執行 | 2026-09-07 |
 | [[aipoch-open-science\|AIPOCH Open Science]] | ⭐3.9k | 科學研究工作台、Python／R、Skills、成果溯源 | 2026-09-07 |
 | [[sngyai-Sequoia-X\|Sequoia-X]] | ⭐6.1k | A 股量化選股, baostock, SQLite 增量日 K, 六種技術策略, 8 process 更新, 飛書通知, Python | 2026-09-03 |
@@ -389,6 +390,7 @@ updated: 2026-09-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[yanliudesign-mono-color-skill\|Monocolor Editorial Print]] | ⭐2,844 | 單色與受控雙色編輯印刷、設計配方、圖像提示詞、素材授權界線 | 2026-09-07 |
 | [[JetBrains-go-modern-guidelines\|Modern Go Guidelines]] | ⭐2.1k | Agent Skill, modern Go, go.mod 版本偵測, modernize analyzer, Junie, Claude Code, Codex, Cursor | 2026-08-28 |
 | [[tt-a1i-archify\|Archify]] | ⭐17.9k | Agent Skill, 可驗證技術地圖, Architecture/Workflow/Sequence/Data Flow/Lifecycle, Typed JSON IR, 確定性驗證, 互動 route/reach/lens, 架構差異審查, HTML+PNG+SVG+WebM | 2026-08-27 |
 | [[ConardLi-garden-skills\|Garden Skills]] | ⭐10.9k | 5 個 production-ready Agent Skills, 網頁簡報, 前端設計, GPT Image 2, 本地知識檢索, 美化文章, 固定版 ZIP+checksum, Claude Code/Cursor/Codex | 2026-08-27 |
@@ -413,7 +415,7 @@ updated: 2026-09-07
 | [[github-awesome-copilot\|Awesome GitHub Copilot]] | ⭐35791 | Copilot 資源, Agent/Skill/Hook/Workflow/Plugin, GitHub 官方, llms.txt | 2026-06-27 |
 | [[google-labs-code-design.md\|DESIGN.md]] | ⭐17.3k | Design System Spec, YAML Tokens, Visual Identity, WCAG Contrast, CLI Lint | 2026-06-25 |
 | [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | ⭐44397 | Prompt Engineering, System Prompts, AI 透明性, 安全研究, 15+ 廠商 | 2026-06-22 |
-| [[Understand-Anything\|Understand Anything]] | ⭐64284 | 程式碼智慧, Knowledge Graph, AI Agent, Domain View, Tree-sitter+LLM, 17+ 平台 | 2026-06-20 |
+| [[Understand-Anything\|Understand Anything]] | ⭐81,724 | 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer | 2026-05-10 |
 | [[DietrichGebert-ponytail\|Ponytail]] | ⭐36775 | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
 | [[penpot-penpot\|Penpot]] | ⭐50086 | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64593 | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |

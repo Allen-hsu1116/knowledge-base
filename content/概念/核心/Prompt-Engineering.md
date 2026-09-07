@@ -2,7 +2,7 @@
 title: Prompt Engineering
 slug: Prompt-Engineering
 created: 2026-06-07
-updated: 2026-09-04
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -27,6 +27,12 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - **好 prompt 省 token**：結構化 prompt 讓輸出更可預測，也讓 token 使用更高效
 
 ## 各框架的做法
+
+- **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
+  👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
+
+- **Monocolor Editorial Print** → 單色與受控雙色編輯印刷、設計配方、圖像提示詞、素材授權界線
+  👉 詳見 [[yanliudesign-mono-color-skill]]
 
 - **prompts.chat** → 把社群 Prompt 整理成可搜尋、投票、分支的開放資料庫，並透過 Web、CLI、API 和 MCP 提供給人與 Agent
   👉 詳見 [[f-prompts.chat\|prompts.chat]]

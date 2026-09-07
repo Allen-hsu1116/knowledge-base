@@ -2,7 +2,7 @@
 title: 股市追蹤
 slug: stock-tracking
 created: 2026-05-27
-updated: 2026-09-03
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ language: zh-TW
 - **AI 解讀** — LLM 自動解讀市場動態，生成自然語言分析報告
 
 ## 各框架的做法
+
+- **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化
+  👉 詳見 [[Rockyzsu-stock]]
 
 - **OpenStock** → 開源股市追蹤，即時報價，免費且可自架
   👉 詳見 [[Open-Dev-Society-OpenStock]]

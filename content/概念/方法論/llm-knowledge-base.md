@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-08-27
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - **Schema 決定一切** — SCHEMA.md 是唯一的前期投入，隨使用共同演化
 
 ## 各框架的做法
+
+- **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
+  👉 詳見 [[Understand-Anything]]
 
 - **Garden Skills** → kb-retriever 先導航階層索引，再搜尋 Markdown、文字、PDF 與 Excel 並保留來源
   👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]

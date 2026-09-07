@@ -28,6 +28,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
+  👉 詳見 [[Understand-Anything]]
+
 - **OpenWhispr** → 語音指令連接本地或雲端模型，整合聽寫、筆記及會議流程
   👉 詳見 [[OpenWhispr-openwhispr]]
 - **AutoHedge** → Director、Quant、Risk、Execution 分工處理 Solana 交易；具風控角色不代表保證獲利

@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-09-02
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -30,6 +30,12 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - **AutoDream** — Agent 空閒時整理記憶的功能，類似睡眠，讓 Lifelong Agent 保持記憶連續性
 
 ## 各框架的做法
+
+- **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
+  👉 詳見 [[Understand-Anything]]
+
+- **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
+  👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
 
 - **DeepSeek Harness** → 以 Cordis 插件樹、Profile、Bundle 與 Patch 組裝模型、工具、Session、Agent Loop、Web/Headless 介面和安全策略
   👉 詳見 [[deepseek-ai-deepseek-harness|DeepSeek Harness]]

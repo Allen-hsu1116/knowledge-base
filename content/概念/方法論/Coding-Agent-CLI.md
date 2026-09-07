@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-04
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
+  👉 詳見 [[Understand-Anything]]
 
 - **Magnitude** → 讓 Codex、Claude Code、OpenCode、Hermes、OpenClaw 等既有 Agent 透過硬體感知 onboarding 改用本地模型
   👉 詳見 [[magnitudedev-magnitude\|Magnitude]]

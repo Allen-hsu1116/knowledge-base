@@ -2,7 +2,7 @@
 title: Machine Learning for Trading
 slug: stefan-jansen-machine-learning-for-trading
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-09-07
 stars: 17870
 language: Jupyter Notebook
 topics: [ML, 金融交易, 教學, Jupyter Notebook]
@@ -70,6 +70,8 @@ docker run -it ml4t
 | [[FareedKhan-dev-train-llm-from-scratch|Train LLM From Scratch]] | 教學 | LLM 訓練 | N/A | ❌ | 學習 LLM 底層 |
 
 ## 相關概念
+
+- [[Rockyzsu-stock|Rockyzsu/stock]] — A 股資料、技術形態選股、Python 策略範例與視覺化
 
 ← [[TauricResearch-TradingAgents]] · [[financial-forecasting]]
 

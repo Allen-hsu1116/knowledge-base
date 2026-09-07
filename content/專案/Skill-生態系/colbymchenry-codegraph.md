@@ -7,7 +7,7 @@ language: TypeScript
 topics: [程式碼智慧, Knowledge Graph, MCP]
 created: 2026-01-18
 added: 2026-05-17
-updated: 2026-01-18
+updated: 2026-09-07
 ---
 
 # CodeGraph
@@ -83,6 +83,8 @@ CodeGraph 對應 [[MCP]] 生態的「程式碼理解」層。跟 [[Coding-Agent-
 | [[Coding-Agent-CLI]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
 
 ## 相關概念
+
+- [[Understand-Anything|Understand Anything]] — 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
 
 
 ← [[Coding-Agent-CLI]] · [[MCP]] · [[Knowledge-Graph]] · [[code-intelligence]]

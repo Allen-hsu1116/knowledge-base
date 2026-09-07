@@ -6,6 +6,14 @@ updated: 2026-09-07
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-07（手動收錄：五個來源查重與更新）
+
+- 新增 [[yanliudesign-mono-color-skill]]、[[Rockyzsu-stock]]。
+- 更新 [[WenyuChiou-awesome-agentic-ai-zh]]、[[Understand-Anything]]；保留既有 slug 與首次收錄日期。
+- INSIDE 文章正文已取得，補入 [[unclebob-swarm-forge]]；裁切尾端其他文章，技術與授權說法對照官方 README。
+- 保存不可變 raw 快照，更新專案索引、known-repos 與雙向連結；沒有新增零碎概念頁，也未安裝或執行来源專案。
+
 ## 2026-09-07（每日 LLM 熱門專案搜尋）
 
 - 新增 [[OpenWhispr-openwhispr]]（多媒體與爬蟲）、[[The-Swarm-Corporation-AutoHedge]]（應用）、[[aipoch-open-science]]（應用）。

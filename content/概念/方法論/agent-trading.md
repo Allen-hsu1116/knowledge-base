@@ -2,7 +2,7 @@
 title: Agent 交易
 slug: agent-trading
 created: 2026-05-05
-updated: 2026-08-20
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ Agent 交易的優勢在於能整合多種資訊來源並做出即時決策。�
 - **MCP 工具整合** — 透過 MCP 連接券商 API、行情數據源和新聞聚合服務
 
 ## 各框架的做法
+
+- **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化
+  👉 詳見 [[Rockyzsu-stock]]
 
 - **TradingAgents** → 多 Agent 交易系統，LLM 驅動的研究→交易→風險全流程
   👉 詳見 [[TauricResearch-TradingAgents]]

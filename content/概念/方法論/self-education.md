@@ -2,7 +2,7 @@
 title: 自主學習
 slug: self-education
 created: 2026-05-11
-updated: 2026-09-03
+updated: 2026-09-07
 language: zh-TW
 ---
 
@@ -29,6 +29,9 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **知識庫系統輔助**：用 LLM Wiki 方法把學習素材編譯成個人知識庫，加深理解並留下記錄
 
 ## 各框架的做法
+
+- **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
+  👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
 
 - **Build Your Own X** → 從零手做重建知名技術，透過實作學習底層原理
   👉 詳見 [[codecrafters-io-build-your-own-x]]
