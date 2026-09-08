@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 # 專案索引
@@ -231,6 +231,8 @@ updated: 2026-09-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[lightpanda-io-browser\|Lightpanda Browser]] | ⭐34.9k | Zig 無頭瀏覽器、原生 Agent、PandaScript 重播、CDP／BiDi、MCP | 2026-09-08 |
+| [[pascalorg-editor\|Pascal Editor]] | ⭐22.3k | 3D 建築編輯器、結構化場景、MCP 領域工具、本地持久化 | 2026-09-08 |
 | [[OpenWhispr-openwhispr\|OpenWhispr]] | ⭐7.4k | 本地／雲端語音辨識、桌面聽寫、會議轉錄、語音 Agent、MCP | 2026-09-07 |
 | [[debpalash-VoiceStudio\|VoiceStudio]] | ⭐14.7k | 本地語音工作室, 16 TTS+11 ASR, 646 語言目錄, 語音克隆, 影片配音, 聽寫, 有聲書, OpenAI API, MCP, Tauri+FastAPI | 2026-09-03 |
 | [[Comfy-Org-ComfyUI\|ComfyUI]] | ⭐129.4k | 節點式生成工作流, 圖片/影片/音訊/3D/文字, 局部重算, VRAM/RAM 管理, custom nodes, API, App Mode, 離線執行 | 2026-08-24 |
@@ -416,7 +418,6 @@ updated: 2026-09-07
 | [[github-awesome-copilot\|Awesome GitHub Copilot]] | ⭐35791 | Copilot 資源, Agent/Skill/Hook/Workflow/Plugin, GitHub 官方, llms.txt | 2026-06-27 |
 | [[google-labs-code-design.md\|DESIGN.md]] | ⭐17.3k | Design System Spec, YAML Tokens, Visual Identity, WCAG Contrast, CLI Lint | 2026-06-25 |
 | [[asgeirtj-system_prompts_leaks\|System Prompts Leaks]] | ⭐44397 | Prompt Engineering, System Prompts, AI 透明性, 安全研究, 15+ 廠商 | 2026-06-22 |
-| [[Understand-Anything\|Understand Anything]] | ⭐81,724 | 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer | 2026-05-10 |
 | [[DietrichGebert-ponytail\|Ponytail]] | ⭐36775 | AI Skills, YAGNI, Token Optimization, 14 Agent 平台, 安全不妥協 | 2026-06-19 |
 | [[penpot-penpot\|Penpot]] | ⭐50086 | 開源設計平台, MCP Server, Design Tokens, SVG/CSS | 2026-06-18 |
 | [[ComposioHQ-awesome-claude-skills\|Awesome Claude Skills]] | ⭐64593 | AI Skills, 策展列表, 1000+ Skills, Claude Code, Codex, Cursor | 2026-06-15 |
@@ -442,6 +443,7 @@ updated: 2026-09-07
 | [[obra-superpowers\|Superpowers]] | ⭐'189' | AI Skills, AI Agent, 方法論 | 2026-05-14 |
 | [[github-spec-kit\|Spec Kit]] | ⭐'98' | AI Skills, Coding Agent CLI, Spec-Driven | 2026-05-14 |
 | [[K-Dense-AI-scientific-agent-skills\|Scientific Agent Skills]] | ⭐'21' | AI Skills, AI Agent, 科學研究 | 2026-05-14 |
+| [[Understand-Anything\|Understand Anything]] | ⭐81,724 | 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer | 2026-05-10 |
 | [[nidhinjs-prompt-master]] | ⭐7,257 | Prompt Engineering, Token Optimization | 2026-05-08 |
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐18,926 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |

@@ -1756,3 +1756,12 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - 新增 [[ibm-stair-searchtome]] 繁中全文筆記，整理方法、SearchTome、Table 4、消融與限制，區分作者結果與編者推論，標明 0.05% 不是回答事實錯誤率。
 - 更新 projects、RAG、document-parsing 雙向連結與 known-repos 去重索引；未新增概念頁。
 - 備份與驗證記錄：outputs/2026-09-08-stair-v1/；使用既有 Quartz 同步與 GitHub Pages 流程發布。
+
+## [2026-09-08] ingest | Lightpanda Browser、Pascal Editor
+
+- 執行指定搜尋腳本取得 4 個候選，逐一抓取 GitHub metadata 與 README。
+- 新增 2 個專案及 raw 快照：lightpanda-io/browser、pascalorg/editor，均歸入多媒體與爬蟲。
+- Pascal 曾因單純 3D 編輯器定位跳過；本次 README 明確記載 MCP 場景工具與本地 Agent 連接，據此收錄。
+- LunaTV 是影視播放器、NoSignups 是通用免註冊工具目錄；未見直接 LLM 工作流證據，不收錄。
+- 更新 AI-Agent、MCP、computer-use-agent backlinks、projects.md 及 known-repos.json；不新增概念頁。
+- 安裝指令僅文件化，未執行候選專案或啟動服務。

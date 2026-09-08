@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-07
+updated: 2026-09-08
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **Lightpanda** → 原生瀏覽器 Agent 將探索成果匯出 PandaScript，後續腳本重播不需模型
+  👉 詳見 [[lightpanda-io-browser]]
+- **Pascal Editor** → 透過 MCP 將結構化建築場景提供給 AI 主機操作，是領域工具而非通用 Agent 框架
+  👉 詳見 [[pascalorg-editor]]
 
 - **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
   👉 詳見 [[Understand-Anything]]

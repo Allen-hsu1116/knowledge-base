@@ -2,7 +2,7 @@
 title: Computer Use Agent
 slug: computer-use-agent
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-09-08
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ Computer Use Agent（CUA）是 AI Agent 的進階形態，能直接操控圖形�
 - **錯誤恢復** — 偵測操作失敗（彈窗、載入錯誤）並自動調整策略
 
 ## 各框架的做法
+
+- **Lightpanda** → 無圖形渲染引擎的 DOM／JavaScript 瀏覽器自動化路線；與視覺式桌面 Agent 互補，不能替代所有 GUI 任務
+  👉 詳見 [[lightpanda-io-browser]]
 
 - **Browser Use** → 瀏覽器自動化 Agent，Rust 核心 + MCP 整合，專注網頁操作
   👉 詳見 [[browser-use-browser-use]]

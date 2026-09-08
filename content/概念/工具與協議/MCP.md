@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-07
+updated: 2026-09-08
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **Lightpanda** → 原生 stdio／HTTP MCP，透過工作階段 ID 隔離或共用瀏覽上下文
+  👉 詳見 [[lightpanda-io-browser]]
+- **Pascal Editor** → 本地 CLI 啟動具驗證機制的 MCP，提供建築場景工具、資源、提示與儲存
+  👉 詳見 [[pascalorg-editor]]
 
 - **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
   👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
