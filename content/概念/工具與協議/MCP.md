@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-08
+updated: 2026-09-09
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **Escrcpy** → 官方列出基於 MCP 的 Android Copilot；README 未列外部主機連接端點，不能直接推論通用相容性。
+  👉 詳見 [[viarotel-org-escrcpy]]
 
 - **Lightpanda** → 原生 stdio／HTTP MCP，透過工作階段 ID 隔離或共用瀏覽上下文
   👉 詳見 [[lightpanda-io-browser]]

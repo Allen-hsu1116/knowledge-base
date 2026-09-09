@@ -2,10 +2,18 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-07
+updated: 2026-09-09
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-09（每日 LLM 熱門專案搜尋）
+
+- 搜尋取得三個候選，逐一取得 GitHub README 與 metadata。
+- 新增 [[ayghri-i-have-adhd]]（Skill 生態系）與 [[viarotel-org-escrcpy]]（應用）。
+- Escrcpy 的 README 已明確列出 MCP Copilot，因此符合本次 LLM 收錄範圍；標註私有付費擴充邊界。
+- LunaTV 為影音聚合播放器，未發現直接 LLM 工作流證據，本次不收錄也不加入 known-repos。
+- 保存 raw、更新四個概念頁 backlinks、專案索引與 known-repos；不新增概念頁，未安裝候選軟體。
 
 ## 2026-09-07（SwarmForge 訪談理念補充）
 

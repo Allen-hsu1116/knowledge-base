@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-07
+updated: 2026-09-09
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **i-have-adhd** → 把行動優先、步驟編號與任務狀態提示封裝為可按需啟用的輸出風格 Skill。
+  👉 詳見 [[ayghri-i-have-adhd]]
 
 - **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
   👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]

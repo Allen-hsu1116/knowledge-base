@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
 # 專案索引
@@ -334,6 +334,7 @@ updated: 2026-09-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[viarotel-org-escrcpy\|Escrcpy]] | ⭐11,399 | Android 圖形化控制、MCP Copilot、多裝置自動化；部分功能需私有付費擴充 | 2026-09-09 |
 | [[Rockyzsu-stock\|Rockyzsu/stock]] | ⭐8,439 | A 股資料、技術形態選股、Python 策略範例與視覺化 | 2026-09-07 |
 | [[The-Swarm-Corporation-AutoHedge\|AutoHedge]] | ⭐4.7k | 多 Agent 金融分析、風控、Solana 交易執行 | 2026-09-07 |
 | [[aipoch-open-science\|AIPOCH Open Science]] | ⭐3.9k | 科學研究工作台、Python／R、Skills、成果溯源 | 2026-09-07 |
@@ -393,6 +394,7 @@ updated: 2026-09-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ayghri-i-have-adhd\|i-have-adhd]] | ⭐30,471 | ADHD-friendly 輸出 Skill、行動優先、步驟編號、按需啟用 | 2026-09-09 |
 | [[yanliudesign-mono-color-skill\|Monocolor Editorial Print]] | ⭐2,844 | 單色與受控雙色編輯印刷、設計配方、圖像提示詞、素材授權界線 | 2026-09-07 |
 | [[JetBrains-go-modern-guidelines\|Modern Go Guidelines]] | ⭐2.1k | Agent Skill, modern Go, go.mod 版本偵測, modernize analyzer, Junie, Claude Code, Codex, Cursor | 2026-08-28 |
 | [[tt-a1i-archify\|Archify]] | ⭐17.9k | Agent Skill, 可驗證技術地圖, Architecture/Workflow/Sequence/Data Flow/Lifecycle, Typed JSON IR, 確定性驗證, 互動 route/reach/lens, 架構差異審查, HTML+PNG+SVG+WebM | 2026-08-27 |

@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-08
+updated: 2026-09-09
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **i-have-adhd** → 調整 Coding Agent 的回覆呈現，不是另一個 Agent 執行框架。
+  👉 詳見 [[ayghri-i-have-adhd]]
+- **Escrcpy** → Android 控制工作台整合 MCP Copilot；部分進階功能屬於私有付費擴充。
+  👉 詳見 [[viarotel-org-escrcpy]]
 
 - **Lightpanda** → 原生瀏覽器 Agent 將探索成果匯出 PandaScript，後續腳本重播不需模型
   👉 詳見 [[lightpanda-io-browser]]
