@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-09-07
+updated: 2026-09-10
 language: zh-TW
 ---
 
@@ -30,6 +30,11 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - **AutoDream** — Agent 空閒時整理記憶的功能，類似睡眠，讓 Lifelong Agent 保持記憶連續性
 
 ## 各框架的做法
+
+- **TeamAI CLI** → 以 Git 審核與分發統一團隊 Harness，Context／Improvement 仍屬 beta。
+  👉 詳見 [[Tencent-teamai-cli]]
+- **PI-Desktop** → 分離 renderer、Rust Host 與 pi Sidecar，所有執行模式共用 privileged tool 權限邊界。
+  👉 詳見 [[vastsa-PI-Desktop]]
 
 - **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
   👉 詳見 [[Understand-Anything]]

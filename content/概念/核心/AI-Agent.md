@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-09
+updated: 2026-09-10
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **TeamAI CLI** → 用團隊 Git repo 分發既有 Agent 的 Skills、規則與知識，不取代執行引擎。
+  👉 詳見 [[Tencent-teamai-cli]]
+- **PI-Desktop** → Electron 桌面與 Rust Host 承載 pi runtime，以 Plan／Goal 與權限層管理實作。
+  👉 詳見 [[vastsa-PI-Desktop]]
 
 - **i-have-adhd** → 調整 Coding Agent 的回覆呈現，不是另一個 Agent 執行框架。
   👉 詳見 [[ayghri-i-have-adhd]]

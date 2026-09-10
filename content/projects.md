@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-09
+updated: 2026-09-10
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vastsa-PI-Desktop\|PI-Desktop]] | ⭐1,666 | Local-first 桌面 Coding Agent、Electron＋Rust＋pi、Plan/Goal、MCP、插件；Early Preview | 2026-09-10 |
 | [[henryqin1997-statem\|StateM]] | ⭐984 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
 | [[unclebob-swarm-forge\|SwarmForge]] | ⭐3,756 | tmux／worktree 多 Agent 工程編排、品質工具、handoff、Uncle Bob 訪談理念與官方實作對照 | 2026-09-02 |
 | [[deepseek-ai-deepseek-harness\|DeepSeek Harness]] | ⭐190.8k | DeepSeek AI 開源 Agent Harness, Everything is a Plugin, Cordis 插件樹, Profile+Bundle+Patch, 事件溯源 Session, Web+Headless, 工具審批與沙箱, Typert API Gateway, TypeScript | 2026-08-24 |
@@ -394,6 +395,7 @@ updated: 2026-09-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Tencent-teamai-cli\|TeamAI CLI]] | ⭐2,981 | 團隊 Skills／Rules／MCP 分發、Git review、beta 知識召回與圖譜 | 2026-09-10 |
 | [[ayghri-i-have-adhd\|i-have-adhd]] | ⭐30,471 | ADHD-friendly 輸出 Skill、行動優先、步驟編號、按需啟用 | 2026-09-09 |
 | [[yanliudesign-mono-color-skill\|Monocolor Editorial Print]] | ⭐2,844 | 單色與受控雙色編輯印刷、設計配方、圖像提示詞、素材授權界線 | 2026-09-07 |
 | [[JetBrains-go-modern-guidelines\|Modern Go Guidelines]] | ⭐2.1k | Agent Skill, modern Go, go.mod 版本偵測, modernize analyzer, Junie, Claude Code, Codex, Cursor | 2026-08-28 |

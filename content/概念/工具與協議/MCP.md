@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-09
+updated: 2026-09-10
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **TeamAI CLI** → 向支援的 Agent 分發團隊 MCP 設定；不是所有適配器都有相同功能。
+  👉 詳見 [[Tencent-teamai-cli]]
+- **PI-Desktop** → 可連外部 MCP，也有預設關閉的 loopback 控制端點；啟用等於授予呼叫者相應桌面權限。
+  👉 詳見 [[vastsa-PI-Desktop]]
 
 - **Escrcpy** → 官方列出基於 MCP 的 Android Copilot；README 未列外部主機連接端點，不能直接推論通用相容性。
   👉 詳見 [[viarotel-org-escrcpy]]

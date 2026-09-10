@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-09
+updated: 2026-09-10
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **TeamAI CLI** → 以 Roles、Tags、Sources 控制團隊技能訂閱，經 Git 流程同步到不同 Agent。
+  👉 詳見 [[Tencent-teamai-cli]]
+- **PI-Desktop** → 支援全域或專案 Skills，並以可安裝插件扩展桌面能力；插件不是完整 OS sandbox。
+  👉 詳見 [[vastsa-PI-Desktop]]
 
 - **i-have-adhd** → 把行動優先、步驟編號與任務狀態提示封裝為可按需啟用的輸出風格 Skill。
   👉 詳見 [[ayghri-i-have-adhd]]

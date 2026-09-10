@@ -2,10 +2,18 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-09
+updated: 2026-09-10
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-10（每日 LLM 熱門專案搜尋）
+
+- 指定搜尋腳本產生三個候選，已逐一保存 GitHub metadata 與完整 README。
+- 新增 [[Tencent-teamai-cli]]（Skill 生態系）與 [[vastsa-PI-Desktop]]（Agent 框架與工具），保存 raw 並更新概念 backlinks、projects 與 known-repos。
+- liquidslr/system-design-notes 為通用系統設計筆記，README 未見直接 LLM 工作流，本次跳過且不加入 known-repos。
+- 未新增概念頁；既有技能、Harness、Coding Agent、MCP 概念足以涵蓋。未安裝候選工具、未修改 Agent 設定。
+- TeamAI 授權以 LICENSE 正文確認 MIT；PI-Desktop 標註 Early Preview、local-first 與插件權限限制。
 
 ## 2026-09-09（每日 LLM 熱門專案搜尋）
 

@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-07
+updated: 2026-09-10
 language: zh-TW
 ---
 
@@ -28,6 +28,11 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **TeamAI CLI** → 跨 Coding Agent 同步團隊資源，功能需依各工具支援矩陣判讀。
+  👉 詳見 [[Tencent-teamai-cli]]
+- **PI-Desktop** → 將 coding 工作流放入獨立桌面，並支援匯入部分 CLI 的本機 sessions。
+  👉 詳見 [[vastsa-PI-Desktop]]
 
 - **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
   👉 詳見 [[Understand-Anything]]
