@@ -2,7 +2,7 @@
 title: Knowledge Graph（知識圖譜）
 slug: Knowledge-Graph
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-09-11
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ language: zh-TW
 - **GraphRAG**：知識圖譜 + RAG 結合，沿語義關聯路徑檢索，比 flat RAG 更精準
 
 ## 各框架的做法
+
+- **LLM Wiki（nashsu）** → 以兩階段 ingest、持久 Markdown、四訊號關聯與 Louvain 社群偵測實作桌面知識庫。
+  👉 詳見 [[nashsu-llm_wiki]]
 
 - **graphify** → 一行指令把任意資料夾轉成知識圖譜，輸出互動式 HTML / Obsidian / Neo4j
   👉 詳見 [[safishamsi-graphify]]

@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-10
+updated: 2026-09-11
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **OpenMAIC** → 以 AI 老師／同學、多場景教材與可恢復課程 Agent 實作互動教學。
+  👉 詳見 [[THU-MAIC-OpenMAIC]]
 
 - **TeamAI CLI** → 用團隊 Git repo 分發既有 Agent 的 Skills、規則與知識，不取代執行引擎。
   👉 詳見 [[Tencent-teamai-cli]]

@@ -1781,3 +1781,11 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - LunaTV 是影視播放器、NoSignups 是通用免註冊工具目錄；未見直接 LLM 工作流證據，不收錄。
 - 更新 AI-Agent、MCP、computer-use-agent backlinks、projects.md 及 known-repos.json；不新增概念頁。
 - 安裝指令僅文件化，未執行候選專案或啟動服務。
+
+
+## [2026-09-11] ingest | OpenMAIC、Colibrì、LLM Wiki
+
+- 新增三個專案，完整 README 與 metadata 已保存至 raw/，更新六個概念頁 backlinks、專案分類索引與 known-repos。
+- 已查 merge map，無新增概念頁；LLM Wiki 產品與 llm-knowledge-base 方法論分開。
+- 另兩個 Trending 候選 system-design-notes、ArmorPaint 分別為一般系統設計筆記與 3D PBR 繪圖，README 未見直接 LLM 工作流，因此跳過且不加入 known-repos。
+- 上游效能與功能敘述非本機測試；未安裝候選工具、未下載模型。LLM Wiki LICENSE 正文為 GPL v3（API: NOASSERTION）。

@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-09-07
+updated: 2026-09-11
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - **Schema 決定一切** — SCHEMA.md 是唯一的前期投入，隨使用共同演化
 
 ## 各框架的做法
+
+- **LLM Wiki（nashsu）** → 以兩階段 ingest、持久 Markdown、四訊號關聯與 Louvain 社群偵測實作桌面知識庫。
+  👉 詳見 [[nashsu-llm_wiki]]
 
 - **Understand Anything** → 程式碼與知識庫互動圖譜、Domain View、Tree-sitter＋LLM、增量更新與獨立 viewer
   👉 詳見 [[Understand-Anything]]

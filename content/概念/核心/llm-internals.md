@@ -2,7 +2,7 @@
 title: LLM 底層技術
 slug: llm-internals
 created: 2026-06-04
-updated: 2026-08-22
+updated: 2026-09-11
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ Positional Embedding 從 Sinusoidal（2017）到 ALiBi（2021）到 RoPE（2022�
 - **快取命中原則**：System prompt 中穩定內容放前面、變動內容放後面，讓 KV Cache 跨對話共用
 
 ## 各框架的做法
+
+- **Colibrì** → 以專家串流、路由感知快取與 VRAM／RAM／NVMe 放置研究大型 MoE；可執行不代表高速。
+  👉 詳見 [[JustVugg-colibri]]
 
 - **vLLM** → 高吞吐服務引擎，PagedAttention 管理 KV Cache 記憶體，Continuous Batching
   👉 詳見 [[vLLM]]

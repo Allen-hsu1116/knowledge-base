@@ -2,7 +2,7 @@
 title: AI Tutoring
 slug: AI-Tutoring
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-09-11
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ AI Tutoring 的核心技術包括 Book Engine（活書引擎）和 TutorBot（�
 - **TutorBench 評測** — 學習者視角的評測基準，衡量自適應家教效果
 
 ## 各框架的做法
+
+- **OpenMAIC** → 以 AI 老師／同學、多場景教材與可恢復課程 Agent 實作互動教學。
+  👉 詳見 [[THU-MAIC-OpenMAIC]]
 
 - **DeepTutor** → Agent-Native 個人化 AI 家教，Book Engine + TutorBot + RAG 整合
   👉 詳見 [[HKUDS-DeepTutor]]

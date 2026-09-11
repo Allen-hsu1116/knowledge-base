@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 # 專案索引
@@ -145,6 +145,7 @@ updated: 2026-09-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nashsu-llm_wiki\|LLM Wiki（nashsu）]] | ⭐18,105 | 以 Tauri 桌面介面將文件增量編譯成持久 Wiki，整合圖譜與 Agent 查詢 | 2026-09-11 |
 | [[asciimoo-hister\|Hister]] | ⭐2.8k | 本地個人搜尋引擎, 瀏覽歷史+網頁全文+本機檔案, 進階查詢, 選配語義搜尋, Web+TUI+CLI+MCP, 無遙測, 多使用者隔離 | 2026-08-26 |
 | [[AgriciDaniel-claude-obsidian\|claude-obsidian]] | ⭐11.9k | Obsidian+Claude Code 本地第二大腦, LLM Wiki, 15 Agent Skills, 來源與 claim ledger, 交易式寫入, 並行 Agent canonical merge, BM25, LYT/PARA/Zettelkasten | 2026-08-25 |
 | [[akitaonrails-ai-memory\|ai-memory]] | ⭐2.1k | Coding Agent 長期記憶, lifecycle hooks, 跨 Claude Code/Codex/OpenCode handoff, managed workstreams, Markdown+Git wiki, FTS5+entity+graph+vector 混合召回, MCP, 專案隔離, capture exclusions, 自架 Rust 服務 | 2026-08-18 |
@@ -190,6 +191,7 @@ updated: 2026-09-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[JustVugg-colibri\|Colibrì]] | ⭐27,465 | 以 VRAM、RAM、NVMe 分層與專家串流執行大型 MoE 的 C 推論引擎 | 2026-09-11 |
 | [[ibm-stair-searchtome\|STAIR（SearchTome）]] | —（研究論文） | 目錄結構、生成式檢索、參數化索引、RAG；arXiv 2609.03874v1 | 2026-09-08 |
 | [[radixark-miles\|Miles]] | ⭐2.6k | 企業級 LLM/VLM 強化學習後訓練, SGLang rollout, Megatron-LM, 非同步 RL, 秒級權重更新, MXFP8/NVFP4, Token-in-token-out, MoE R3, Agent 環境 | 2026-09-05 |
 | [[magnitudedev-magnitude\|Magnitude]] | ⭐2.0k | Agent-first 本地推論伺服器, 硬體 profiling, 模型推薦, 自動調校, 按需載入, GGUF, 離線隱私, Codex/Claude Code/Hermes/OpenClaw | 2026-09-04 |
@@ -335,6 +337,7 @@ updated: 2026-09-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[THU-MAIC-OpenMAIC\|OpenMAIC]] | ⭐35,313 | 多 Agent 互動教室，將主題與教材轉成可討論、可修改的完整課程 | 2026-09-11 |
 | [[viarotel-org-escrcpy\|Escrcpy]] | ⭐11,399 | Android 圖形化控制、MCP Copilot、多裝置自動化；部分功能需私有付費擴充 | 2026-09-09 |
 | [[Rockyzsu-stock\|Rockyzsu/stock]] | ⭐8,439 | A 股資料、技術形態選股、Python 策略範例與視覺化 | 2026-09-07 |
 | [[The-Swarm-Corporation-AutoHedge\|AutoHedge]] | ⭐4.7k | 多 Agent 金融分析、風控、Solana 交易執行 | 2026-09-07 |
