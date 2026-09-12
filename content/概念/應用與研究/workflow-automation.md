@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-09-03
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **Sonarr** → 以 RSS、品質規則與失敗重試串接媒體取得、命名和歸檔，示範不依賴 LLM 的領域自動化。
+  👉 詳見 [[Sonarr-Sonarr]]
 
 - **n8n** → 視覺化工作流平台，400+ 整合，AI-Native，支援 MCP 與自架
   👉 詳見 [[n8n-io-n8n\|n8n]]

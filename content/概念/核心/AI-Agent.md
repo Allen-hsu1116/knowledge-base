@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **MathModelAgent** → 把數學建模、計算與論文驗收封裝成既有 Harness 可執行的 Skills；文件中的舊版功能存在未完成項目。
+  👉 詳見 [[jihe520-MathModelAgent]]
+- **Hyperresearch** → 以分階段研究、多角色批評、引用審核與持久 vault 實作研究 Agent。
+  👉 詳見 [[jordan-gibbs-hyperresearch]]
 
 - **OpenMAIC** → 以 AI 老師／同學、多場景教材與可恢復課程 Agent 實作互動教學。
   👉 詳見 [[THU-MAIC-OpenMAIC]]

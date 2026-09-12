@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-04
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Sonarr** → 自架劇集 PVR，需管理下載器與媒體庫之間的路徑、群組權限及內容授權。
+  👉 詳見 [[Sonarr-Sonarr]]
 
 - **Magnitude** → 依本機硬體推薦與調校 GGUF 模型，讓既有 Coding Agent 以離線推論服務執行
   👉 詳見 [[magnitudedev-magnitude\|Magnitude]]

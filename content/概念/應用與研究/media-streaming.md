@@ -2,7 +2,7 @@
 title: 媒體串流
 slug: media-streaming
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ language: zh-TW
 - **AI 內容生成** — AI 影片生成、語音合成、VTuber 等新形態串流應用
 
 ## 各框架的做法
+
+- **Sonarr** → 監控劇集、協調下載與整理 library；屬串流前端的上游媒體管理，不是播放器或 LLM 工具。
+  👉 詳見 [[Sonarr-Sonarr]]
 
 - **Jellyfin** → 開源媒體串流伺服器，自架 Netflix/Spotify 替代品
   👉 詳見 [[jellyfin-jellyfin|Jellyfin]]

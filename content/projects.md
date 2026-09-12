@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-11
+updated: 2026-09-12
 ---
 
 # 專案索引
@@ -145,6 +145,7 @@ updated: 2026-09-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jordan-gibbs-hyperresearch\|Hyperresearch]] | ⭐2,616 | 研究 Harness、持久 Markdown vault、來源獨立性與引用審核；benchmark 為內部評估 | 2026-09-12 |
 | [[nashsu-llm_wiki\|LLM Wiki（nashsu）]] | ⭐18,105 | 以 Tauri 桌面介面將文件增量編譯成持久 Wiki，整合圖譜與 Agent 查詢 | 2026-09-11 |
 | [[asciimoo-hister\|Hister]] | ⭐2.8k | 本地個人搜尋引擎, 瀏覽歷史+網頁全文+本機檔案, 進階查詢, 選配語義搜尋, Web+TUI+CLI+MCP, 無遙測, 多使用者隔離 | 2026-08-26 |
 | [[AgriciDaniel-claude-obsidian\|claude-obsidian]] | ⭐11.9k | Obsidian+Claude Code 本地第二大腦, LLM Wiki, 15 Agent Skills, 來源與 claim ledger, 交易式寫入, 並行 Agent canonical merge, BM25, LYT/PARA/Zettelkasten | 2026-08-25 |
@@ -234,6 +235,8 @@ updated: 2026-09-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Sonarr-Sonarr\|Sonarr]] | ⭐15,736 | 劇集 RSS、下載協調、品質升級與媒體庫整理；非 LLM 工具 | 2026-09-12 |
+| [[armory3d-armorpaint\|ArmorPaint]] | ⭐4,721 | GPU 3D PBR 材質繪製、貼圖輸出；非 LLM 工具，官方 binary 收費 | 2026-09-12 |
 | [[lightpanda-io-browser\|Lightpanda Browser]] | ⭐34.9k | Zig 無頭瀏覽器、原生 Agent、PandaScript 重播、CDP／BiDi、MCP | 2026-09-08 |
 | [[pascalorg-editor\|Pascal Editor]] | ⭐22.3k | 3D 建築編輯器、結構化場景、MCP 領域工具、本地持久化 | 2026-09-08 |
 | [[OpenWhispr-openwhispr\|OpenWhispr]] | ⭐7.4k | 本地／雲端語音辨識、桌面聽寫、會議轉錄、語音 Agent、MCP | 2026-09-07 |
@@ -337,6 +340,7 @@ updated: 2026-09-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nab138-iloader\|iloader]] | ⭐2,908 | iOS 側載、SideStore、配對檔案與憑證管理；非 LLM 工具 | 2026-09-12 |
 | [[THU-MAIC-OpenMAIC\|OpenMAIC]] | ⭐35,313 | 多 Agent 互動教室，將主題與教材轉成可討論、可修改的完整課程 | 2026-09-11 |
 | [[viarotel-org-escrcpy\|Escrcpy]] | ⭐11,399 | Android 圖形化控制、MCP Copilot、多裝置自動化；部分功能需私有付費擴充 | 2026-09-09 |
 | [[Rockyzsu-stock\|Rockyzsu/stock]] | ⭐8,439 | A 股資料、技術形態選股、Python 策略範例與視覺化 | 2026-09-07 |
@@ -398,6 +402,7 @@ updated: 2026-09-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jihe520-MathModelAgent\|MathModelAgent]] | ⭐4,858 | 数學建模 Skills、Typst 論文與驗收；自訂非商業授權，舊功能文件有矛盾 | 2026-09-12 |
 | [[Tencent-teamai-cli\|TeamAI CLI]] | ⭐2,981 | 團隊 Skills／Rules／MCP 分發、Git review、beta 知識召回與圖譜 | 2026-09-10 |
 | [[ayghri-i-have-adhd\|i-have-adhd]] | ⭐30,471 | ADHD-friendly 輸出 Skill、行動優先、步驟編號、按需啟用 | 2026-09-09 |
 | [[yanliudesign-mono-color-skill\|Monocolor Editorial Print]] | ⭐2,844 | 單色與受控雙色編輯印刷、設計配方、圖像提示詞、素材授權界線 | 2026-09-07 |

@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-08-24
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -30,6 +30,11 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **ArmorPaint** → 原始碼採 zlib/libpng License，官方 binary 收費；軟體自由與零價格是不同概念。
+  👉 詳見 [[armory3d-armorpaint]]
+- **iloader** → 程式碼採 MIT，但品牌與媒體素材另有限制，重用時應分別檢查。
+  👉 詳見 [[nab138-iloader]]
 
 - **Ollama** → 免費在本地運行 LLM，一條指令下載並執行開源模型
   👉 詳見 [[Ollama]]

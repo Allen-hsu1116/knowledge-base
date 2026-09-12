@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-10
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **MathModelAgent** → 將分析、建模、Typst 排版與驗收拆為可组合 Skills，不再另做 Harness 層。
+  👉 詳見 [[jihe520-MathModelAgent]]
+- **Hyperresearch** → 每個研究階段按需載入 Skill，以工具權限約束後期草稿修改。
+  👉 詳見 [[jordan-gibbs-hyperresearch]]
 
 - **TeamAI CLI** → 以 Roles、Tags、Sources 控制團隊技能訂閱，經 Git 流程同步到不同 Agent。
   👉 詳見 [[Tencent-teamai-cli]]

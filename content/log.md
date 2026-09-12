@@ -1789,3 +1789,11 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - 已查 merge map，無新增概念頁；LLM Wiki 產品與 llm-knowledge-base 方法論分開。
 - 另兩個 Trending 候選 system-design-notes、ArmorPaint 分別為一般系統設計筆記與 3D PBR 繪圖，README 未見直接 LLM 工作流，因此跳過且不加入 known-repos。
 - 上游效能與功能敘述非本機測試；未安裝候選工具、未下載模型。LLM Wiki LICENSE 正文為 GPL v3（API: NOASSERTION）。
+
+## [2026-09-12] ingest | 每日 Trending 五個候選
+
+- 依本次「每個新 repo」流程逐一收錄 Sonarr、MathModelAgent、ArmorPaint、iloader、Hyperresearch；五份完整 README 與 GitHub metadata 已保存。
+- MathModelAgent 歸入 Skill 生態系，Hyperresearch 歸入記憶與知識管理；另外三個為一般工具，在專案頁與索引明確標為非 LLM。ArmorPaint 昨日曾依 LLM 關聯性跳過，本次按逐一收錄流程納入多媒體分類，並不代表發現新的 LLM 能力。
+- 新頁完整填寫十個區塊，更新十個既有概念頁 backlinks、projects.md 及 known-repos.json；已查 merge map，不新增概念頁。
+- MathModelAgent 授權以 docs/md/License.md 為準，標註非商業限制與 README TODO 矛盾；ArmorPaint 以 license.md 確認 zlib/libpng；Hyperresearch benchmark 保留內部評估及尚待第三方驗證限制。
+- 備份與本次來源、驗證資料：outputs/trending-2026-09-12/。安裝指令僅文件化，沒有執行候選軟體、安裝 Skills 或啟動服務。

@@ -2,7 +2,7 @@
 title: 資料分析
 slug: data-analysis
 created: 2026-06-15
-updated: 2026-09-07
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ AI Agent 正在改變資料分析的工作方式。傳統流程需要分析師�
 - **AI 驅動洞見** — LLM + Agent 自主發現模式、生成假設和解讀結果
 
 ## 各框架的做法
+
+- **MathModelAgent** → 串接數學建模、程式計算、繪圖與論文排版；模型假設與數值仍需人工重跑驗證。
+  👉 詳見 [[jihe520-MathModelAgent]]
 
 - **Open Science** → 在研究專案中執行 Python／R、查詢科學資料並保存成果版本與可取得的來源證據
   👉 詳見 [[aipoch-open-science]]

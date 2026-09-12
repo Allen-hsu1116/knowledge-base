@@ -2,7 +2,7 @@
 title: 生產力
 slug: productivity
 created: 2026-06-16
-updated: 2026-09-03
+updated: 2026-09-12
 language: zh-TW
 ---
 
@@ -28,6 +28,11 @@ language: zh-TW
 - **開源替代** — 用開源自架方案替代商業 SaaS，降低長期成本
 
 ## 各框架的做法
+
+- **ArmorPaint** → 3D 材質繪製、PBR 貼圖匯入與引擎輸出預設，屬內容製作工具而非 LLM。
+  👉 詳見 [[armory3d-armorpaint]]
+- **iloader** → 以桌面 UI 簡化 iOS 應用側載、配對檔案與開發憑證管理，非 AI Agent。
+  👉 詳見 [[nab138-iloader]]
 
 - **Plane** → 開源專案管理，Jira 替代品，支援 Docker/K8s 自架
   👉 詳見 [[makeplane-plane\|Plane]]
