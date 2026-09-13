@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-09-12
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -30,6 +30,11 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **SmartTube** → MIT 授權的電視媒體客戶端；開源不能取代發布來源與建置安全核對。
+  👉 詳見 [[yuliskov-SmartTube]]
+- **zapret-discord-youtube** → 一方程式碼採 MIT，附帶 WinDivert 另採 LGPLv3／GPLv2，分發時需分別遵守。
+  👉 詳見 [[Flowseal-zapret-discord-youtube]]
 
 - **ArmorPaint** → 原始碼採 zlib/libpng License，官方 binary 收費；軟體自由與零價格是不同概念。
   👉 詳見 [[armory3d-armorpaint]]

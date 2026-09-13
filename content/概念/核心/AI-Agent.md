@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-12
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **Worktrunk** → 讓平行 Agent 使用不同 Git worktree，降低檔案互相覆蓋；工作目錄分離不等於安全沙箱。
+  👉 詳見 [[max-sixty-worktrunk]]
+- **Claude-Red** → 給宿主 Agent 注入資安領域方法，執行範圍、工具審批與證據驗證仍由宿主和使用者負責。
+  👉 詳見 [[SnailSploit-Claude-Red]]
 
 - **MathModelAgent** → 把數學建模、計算與論文驗收封裝成既有 Harness 可執行的 Skills；文件中的舊版功能存在未完成項目。
   👉 詳見 [[jihe520-MathModelAgent]]

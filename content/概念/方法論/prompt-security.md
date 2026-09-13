@@ -2,7 +2,7 @@
 title: Prompt 安全與越獄
 slug: prompt-security
 created: 2026-06-22
-updated: 2026-08-25
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 - **持續更新** — 攻擊手法不斷進化，防禦必須持續跟進
 
 ## 各框架的做法
+
+- **Claude-Red** → 技能目錄包含 AI 安全研究；同時展示外部 SKILL.md 屬高影響上下文，載入前需審查，不能提升其權威或跳過工具審批。
+  👉 詳見 [[SnailSploit-Claude-Red]]
 
 - **Claude Plugins Community** → 對社群插件執行自動安全掃描與發佈審核，再由唯讀 marketplace 鏡像供客戶端安裝
   👉 詳見 [[anthropics-claude-plugins-community\|Claude Plugins Community]]

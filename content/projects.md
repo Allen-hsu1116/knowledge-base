@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-12
+updated: 2026-09-13
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[max-sixty-worktrunk\|Worktrunk]] | ⭐7,236 | Git worktree CLI、平行 Coding Agent、Hooks、合併與清理；非安全沙箱 | 2026-09-13 |
 | [[vastsa-PI-Desktop\|PI-Desktop]] | ⭐1,666 | Local-first 桌面 Coding Agent、Electron＋Rust＋pi、Plan/Goal、MCP、插件；Early Preview | 2026-09-10 |
 | [[henryqin1997-statem\|StateM]] | ⭐984 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
 | [[unclebob-swarm-forge\|SwarmForge]] | ⭐3,756 | tmux／worktree 多 Agent 工程編排、品質工具、handoff、Uncle Bob 訪談理念與官方實作對照 | 2026-09-02 |
@@ -235,6 +236,8 @@ updated: 2026-09-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[yuliskov-SmartTube\|SmartTube]] | ⭐33,214 | Android TV 媒體客戶端、SponsorBlock；非 LLM，注意官方供應鏈安全公告 | 2026-09-13 |
+| [[multimodal-art-projection-YuE\|YuE／YuE2]] | ⭐7,292 | ABC 符號作曲、音樂生成、翻唱、Agent Skill；權重限非商業 | 2026-09-13 |
 | [[Sonarr-Sonarr\|Sonarr]] | ⭐15,736 | 劇集 RSS、下載協調、品質升級與媒體庫整理；非 LLM 工具 | 2026-09-12 |
 | [[armory3d-armorpaint\|ArmorPaint]] | ⭐4,721 | GPU 3D PBR 材質繪製、貼圖輸出；非 LLM 工具，官方 binary 收費 | 2026-09-12 |
 | [[lightpanda-io-browser\|Lightpanda Browser]] | ⭐34.9k | Zig 無頭瀏覽器、原生 Agent、PandaScript 重播、CDP／BiDi、MCP | 2026-09-08 |
@@ -402,6 +405,7 @@ updated: 2026-09-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[SnailSploit-Claude-Red\|Claude-Red]] | ⭐3,598 | 資安 SKILL.md 方法庫、按需載入、授權研究與 CTF；非獨立掃描引擎 | 2026-09-13 |
 | [[jihe520-MathModelAgent\|MathModelAgent]] | ⭐4,858 | 数學建模 Skills、Typst 論文與驗收；自訂非商業授權，舊功能文件有矛盾 | 2026-09-12 |
 | [[Tencent-teamai-cli\|TeamAI CLI]] | ⭐2,981 | 團隊 Skills／Rules／MCP 分發、Git review、beta 知識召回與圖譜 | 2026-09-10 |
 | [[ayghri-i-have-adhd\|i-have-adhd]] | ⭐30,471 | ADHD-friendly 輸出 Skill、行動優先、步驟編號、按需啟用 | 2026-09-09 |
@@ -465,6 +469,7 @@ updated: 2026-09-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Flowseal-zapret-discord-youtube\|zapret-discord-youtube]] | ⭐33,209 | Windows zapret／WinDivert、連線策略與診斷；非 LLM、非 VPN | 2026-09-13 |
 | [[fmtlib-fmt\|fmt]] | ⭐24.3k | C++ 格式化函式庫, 型別安全, 編譯期檢查, std::format/std::print, Dragonbox, Unicode, MIT | 2026-09-03 |
 | [[vercel-labs-portless\|portless]] | ⭐11.8k | 具名本機 HTTPS URL, reverse proxy, HTTP/2, framework port injection, monorepo, git worktree, Tailscale/ngrok | 2026-09-03 |
 | [[google-googletest\|GoogleTest]] | ⭐39.0k | C++ 測試框架, xUnit, GoogleMock, 自動測試探索, 參數化測試, death test, CMake, CI | 2026-08-28 |

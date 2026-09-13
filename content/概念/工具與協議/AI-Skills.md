@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-12
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -27,6 +27,11 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **YuE2** → yue2-music 技能封裝作曲、翻唱、ABC 編輯與音樂約束檢查；技能安裝與 Python 推論 runtime 是兩件事。
+  👉 詳見 [[multimodal-art-projection-YuE]]
+- **Claude-Red** → 以領域分類的 SKILL.md 提供資安方法上下文；需審閱來源、限制工具權限，不能把技能描述當成測試授權。
+  👉 詳見 [[SnailSploit-Claude-Red]]
 
 - **MathModelAgent** → 將分析、建模、Typst 排版與驗收拆為可组合 Skills，不再另做 Harness 層。
   👉 詳見 [[jihe520-MathModelAgent]]

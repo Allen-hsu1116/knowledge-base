@@ -1797,3 +1797,11 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - 新頁完整填寫十個區塊，更新十個既有概念頁 backlinks、projects.md 及 known-repos.json；已查 merge map，不新增概念頁。
 - MathModelAgent 授權以 docs/md/License.md 為準，標註非商業限制與 README TODO 矛盾；ArmorPaint 以 license.md 確認 zlib/libpng；Hyperresearch benchmark 保留內部評估及尚待第三方驗證限制。
 - 備份與本次來源、驗證資料：outputs/trending-2026-09-12/。安裝指令僅文件化，沒有執行候選軟體、安裝 Skills 或啟動服務。
+
+## [2026-09-13] ingest | 每日 Trending 五個候選
+
+- 按「每個新 repo」逐一收錄 [[yuliskov-SmartTube]]、[[Flowseal-zapret-discord-youtube]]、[[multimodal-art-projection-YuE]]、[[max-sixty-worktrunk]]、[[SnailSploit-Claude-Red]]；完整 README 與 metadata 保存到 raw/。
+- Worktrunk 歸 Agent 框架與工具，Claude-Red 歸 Skill 生態系，YuE2 與 SmartTube 歸多媒體與爬蟲，zapret-discord-youtube 歸基礎設施。SmartTube 與 zapret 明確標示非 LLM 工具，不由 Trending 熱度推論 AI 關聯。
+- 新頁完成十個區塊與至少七十行，更新十個既有概念頁 backlinks、projects.md 與 known-repos；沿用既有概念，不新增 index 概念條目。
+- 記錄 SmartTube 官方供應鏈安全公告與 F-Droid／舊安裝段落矛盾；YuE 預設分支已為 YuE2，程式碼 Apache-2.0 與權重 CC BY-NC 4.0 分開；Worktrunk 與 zapret 授權已讀 LICENSE 正文確認。
+- 備份、來源與驗證資料存於 outputs/trending-2026-09-13/。未執行候選專案、安裝技能、下载權重或修改本機網路／shell 設定。

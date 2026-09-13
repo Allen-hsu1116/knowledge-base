@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-10
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Worktrunk** → 以分支名稱操作 Git worktree，結合狀態總覽、Agent 啟動和 hooks；管理平行工作目錄而非取代 Coding Agent。
+  👉 詳見 [[max-sixty-worktrunk]]
 
 - **TeamAI CLI** → 跨 Coding Agent 同步團隊資源，功能需依各工具支援矩陣判讀。
   👉 詳見 [[Tencent-teamai-cli]]

@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-08-28
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - **去識別化** — 移除或模糊化資料中的個人識別資訊（PII）
 
 ## 各框架的做法
+
+- **zapret-discord-youtube** → 本機 DPI 規避屬連通性工具，不是 VPN，也不保證匿名或隱藏來源 IP；是隱私與連線可用性需分開評估的案例。
+  👉 詳見 [[Flowseal-zapret-discord-youtube]]
 
 - **Plausible Analytics** → 無 Cookie 的隱私網站分析，GDPR 合規，替代 Google Analytics
   👉 詳見 [[plausible-analytics|Plausible Analytics]]

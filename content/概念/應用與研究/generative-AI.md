@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-08-27
+updated: 2026-09-13
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- **YuE2** → 先生成可編輯的 ABC 旋律與和弦計畫，再生成完整歌曲；編輯會重建錄音，不保證局部以外波形不變。
+  👉 詳見 [[multimodal-art-projection-YuE]]
 
 - **Garden Skills** → gpt-image-2 以三種執行模式、18 類視覺方向和 79 個模板封裝圖片生成與編輯
   👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
