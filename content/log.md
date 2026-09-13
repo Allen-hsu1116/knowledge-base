@@ -1805,3 +1805,12 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - 新頁完成十個區塊與至少七十行，更新十個既有概念頁 backlinks、projects.md 與 known-repos；沿用既有概念，不新增 index 概念條目。
 - 記錄 SmartTube 官方供應鏈安全公告與 F-Droid／舊安裝段落矛盾；YuE 預設分支已為 YuE2，程式碼 Apache-2.0 與權重 CC BY-NC 4.0 分開；Worktrunk 與 zapret 授權已讀 LICENSE 正文確認。
 - 備份、來源與驗證資料存於 outputs/trending-2026-09-13/。未執行候選專案、安裝技能、下载權重或修改本機網路／shell 設定。
+
+## [2026-09-13] lint | 全庫檢查與來源整理
+
+- 掃描 535 篇 wiki、506 份 Markdown raw；修正 STAIR 兩處 RAG 大小寫斷鏈，补 created，研究論文移至首頁研究筆記，不捏造 GitHub、Stars 或安裝套件。
+- 補列 STAIR 全文與 awesome-agentic-ai-zh 歷史 README 的精確 raw 路徑，依既有內容標記已整理；raw 原文未改動。
+- Monocolor 與 Rockyzsu stock 改為 metadata 表格；後者補原始碼與隔離環境安裝指令（僅文件，未執行）。
+- RAG、CubeSandbox、MinerU、book-to-skill 的絕對化安全／零幻覺主張改為有界敘述，保留過時標記；RAG 補 Anthropic 實驗來源。
+- 重跑 lint 無結構問題：462 專案、60 概念、9 影片、1 論文與 3 索引／日誌。論文按 type: paper 區分，不套 GitHub 專案或通用概念模板。SKILL.md 未提供 merge map，改以全庫實際連結目標驗證。待分類區為空。
+- 備份：outputs/pre-lint-2026-09-13.tar.gz；機器檢查與 raw 引用狀態：outputs/lint-audit-2026-09-13.json。語義檢查為風險主張抽查，非全庫事實正確性保證。

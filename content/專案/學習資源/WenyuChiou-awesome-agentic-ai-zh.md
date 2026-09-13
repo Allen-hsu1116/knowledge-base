@@ -95,6 +95,7 @@ cd awesome-agentic-ai-zh
 
 ## 來源
 
+- raw/2026-09-06-WenyuChiou-awesome-agentic-ai-zh-readme.md — 較早 README 快照，雙路線與安全邊界內容已整理；與下列快照保留各自日期。
 - raw/2026-09-07-WenyuChiou-awesome-agentic-ai-zh.md — 官方 README 原始快照。
 - https://github.com/WenyuChiou/awesome-agentic-ai-zh
 

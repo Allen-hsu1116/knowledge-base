@@ -22,7 +22,7 @@ topics: [AI Skills, Agent Skills, PDF, EPUB, Claude Code, GitHub Copilot, Token 
 
 ## 是什麼
 
-book-to-skill 是一個將技術書籍、文件資料夾或任何結構化文件集合轉換為統一 Agent Skill 的工具。它不是做摘要——而是提煉框架、決策規則、反模式，並為每個章節生成獨立的按需載入檔案。一旦安裝完成，你只需輸入 `/your-book-slug replication`，Agent 就會讀取對應章節並從實際內容回答，不會產生幻覺。
+book-to-skill 是一個將技術書籍、文件資料夾或任何結構化文件集合轉換為統一 Agent Skill 的工具。它不是做摘要——而是提煉框架、決策規則、反模式，並為每個章節生成獨立的按需載入檔案。安裝後可輸入 `/your-book-slug replication`，讓 Agent 按需讀取對應章節並根據內容回答。**[⚠️ 可能過時] 原文「不會產生幻覺」是未驗證的絕對化主張**；取回章節不保證模型正確解讀，回答仍須對照來源驗證。
 
 這解決了一個常見痛點：你買了一本好書，讀了一次，三個月後連第七章叫什麼都記不得。直接搜 PDF 只得到頁碼不是答案；把 PDF 丟進 Agent context 要嘛幻覺要嘛說沒有內容；自己記筆記最後變成再也不打開的 200 行文件。book-to-skill 把書變成 Agent 工作流的一部分，用結構化的方式讓知識隨時可查。
 

@@ -78,11 +78,15 @@ The exact headline is “still open”.
 
 ---
 
-- **GitHub**：https://github.com/yanliudesign/mono-color-skill
-- **Stars**：⭐2844（2026-09-07 擷取）
-- **License**：MIT（軟體部分）；圖像素材另有規範
+| 欄位 | 資訊 |
+|---|---|
+| GitHub | https://github.com/yanliudesign/mono-color-skill |
+| Stars | ⭐2844（2026-09-07 擷取） |
+| License | MIT（軟體部分）；圖像素材另有規範 |
+| 收錄日期 | 2026-09-07 |
+
 - **主要程式語言**：Python（GitHub metadata）
 - **預設分支**：main
 - **最近推送時間**：2026-09-02T18:49:42Z
-- **收錄日期**：2026-09-07
+
 - **驗證範圍**：唯讀取得來源；未執行專案、驗證腳本或生成範例。

@@ -97,6 +97,7 @@ updated: 2026-08-19
 
 ### 研究與方法筆記
 
+- [[ibm-stair-searchtome|STAIR / SearchTome]] — IBM 結構感知生成式檢索論文；固定 arXiv v1，區分檢索與回答正確率
 - [[andrej-karpathy-ai-how|Karpathy AI 知識庫方法]] — 極簡編譯式知識庫的實作思路
 - [[claude-code-boris-cherny-advanced-techniques|Claude Code 進階工作法]] — 平行執行、驗證迴圈與委派模式
 - [[gemma4-mtp-drafters|MTP 投機解碼]] — 多 Token 預測與推論加速

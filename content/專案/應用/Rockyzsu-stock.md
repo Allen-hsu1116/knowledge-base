@@ -36,6 +36,16 @@ README 仍保留 **2022-12-08 重構公告**，明確提醒目錄可能與說明
 
 ## 怎麼用
 
+先取得原始碼並在隔離環境安裝依賴；以下是根據來源 repo 與 requirements.txt 整理的準備指令，未在本次 lint 執行，也不保證所有歷史案例可用：
+
+```bash
+git clone https://github.com/Rockyzsu/stock.git
+cd stock
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
 建議先依需求閱讀單一模組：資料取得看 `datahub/`，基金研究看 `fund/`，分析看 `analysis/`，K 線形態看 `k-line/`。再確認該腳本的資料來源、外部套件、憑證、儲存位置及是否可能送出交易指令。
 
 上游使用教程要求將 `configure/sample_config.json` 改名為 `configure/config.json`，按實際需要修改資料庫使用者、密碼、主機與連接埠。README 示範的選擇介面如下，僅節錄文件用法：
@@ -81,11 +91,15 @@ mongo(self, location_type='ubuntu', async_type=False)
 
 ---
 
-- **GitHub**：https://github.com/Rockyzsu/stock
-- **Stars**：⭐8439（2026-09-07 擷取）
-- **License**：BSD-3-Clause（GitHub metadata 與 LICENSE 原文交叉核對）
+| 欄位 | 資訊 |
+|---|---|
+| GitHub | https://github.com/Rockyzsu/stock |
+| Stars | ⭐8439（2026-09-07 擷取） |
+| License | BSD-3-Clause（GitHub metadata 與 LICENSE 原文交叉核對） |
+| 收錄日期 | 2026-09-07 |
+
 - **主要程式語言**：Python
 - **預設分支**：master
 - **最近推送時間**：2026-04-17T11:46:56Z
-- **收錄日期**：2026-09-07
+
 - **驗證範圍**：唯讀取得來源，未執行專案；不構成投資建議。

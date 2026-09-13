@@ -3,9 +3,9 @@ title: "STAIR / SearchTome：以目錄結構增強生成式檢索"
 slug: ibm-stair-searchtome
 type: paper
 date: 2026-09-08
-updated: 2026-09-08
+created: 2026-09-08
+updated: 2026-09-13
 language: zh-TW
-stars: "—"
 publisher: IBM
 year: 2026
 arxiv: 2609.03874v1
@@ -19,7 +19,7 @@ topics: [RAG, document-parsing, LLM]
 
 ## 快速導航
 
-- [[RAG]] — STAIR 是檢索器，不是已驗證的端到端問答系統。
+- [[rag|RAG]] — STAIR 是檢索器，不是已驗證的端到端問答系統。
 - [[document-parsing]] — 目錄、章節邊界與原文映射是資料準備的前提。
 
 ## 是什麼
@@ -105,11 +105,12 @@ v1 的報告還有應保留的口徑不確定性：§6.2 同時分列 non-leaf �
 
 ## 相關概念
 
-← [[RAG]] · [[document-parsing]]
+← [[rag|RAG]] · [[document-parsing]]
 
 ## 來源
 
 - 不可變原始快照：`raw/2026-09-08-ibm-stair-searchtome-2609.03874v1.md`。
+- 全文文字快照：`raw/2026-09-08-ibm-stair-searchtome-2609.03874v1-fulltext.md`（已整理；數字以 PDF 交叉核對）。
 - 同前綴的 `-abstract.html`、`-fulltext.html`、`-fulltext.md`、`.pdf`、`.txt` 與 `-provenance.json` 保存原始回應、全文、頁碼、來源 URL、抓取時間與 SHA-256；HTML 轉文字的數學重複保留於 raw，wiki 數字以 PDF 交叉核對。
 - 以下引用皆固定 v1；本文僅整理論文，沒有獨立重現其效果。
 
