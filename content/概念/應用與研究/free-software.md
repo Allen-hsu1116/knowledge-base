@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-09-13
+updated: 2026-09-14
 language: zh-TW
 ---
 
@@ -30,6 +30,15 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **cool-retro-term** → CRT 風格終端，授權需分元件核對，不能因 GitHub 欄位空白便當成無授權。
+  👉 詳見 [[Swordfish90-cool-retro-term]]
+- **OmniGet** → GPL-3.0 桌面下載與媒體工作台；開源不代表取得內容的再分發權。
+  👉 詳見 [[tonhowtf-omniget]]
+- **Douyin Downloader** → MIT Python 下載器，登入 cookie 與媒體權利仍需使用者妥善處理。
+  👉 詳見 [[jiji262-douyin-downloader]]
+- **Ever Gauzy** → AGPL-3.0 企業管理平台，部署與修改服務需留意授權義務。
+  👉 詳見 [[ever-co-ever-gauzy]]
 
 - **SmartTube** → MIT 授權的電視媒體客戶端；開源不能取代發布來源與建置安全核對。
   👉 詳見 [[yuliskov-SmartTube]]

@@ -2,7 +2,7 @@
 title: 生產力
 slug: productivity
 created: 2026-06-16
-updated: 2026-09-12
+updated: 2026-09-14
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ language: zh-TW
 - **開源替代** — 用開源自架方案替代商業 SaaS，降低長期成本
 
 ## 各框架的做法
+
+- **cool-retro-term** → 可自訂 CRT 終端外觀；改善視覺偏好不等於已證明工作效率提升。
+  👉 詳見 [[Swordfish90-cool-retro-term]]
 
 - **ArmorPaint** → 3D 材質繪製、PBR 貼圖匯入與引擎輸出預設，屬內容製作工具而非 LLM。
   👉 詳見 [[armory3d-armorpaint]]

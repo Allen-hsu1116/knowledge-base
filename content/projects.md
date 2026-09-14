@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-13
+updated: 2026-09-14
 ---
 
 # 專案索引
@@ -235,6 +235,8 @@ updated: 2026-09-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tonhowtf-omniget\|OmniGet]] | ⭐11,666 | 多站桌面下載、yt-dlp、轉錄與閱讀／學習工具 | 2026-09-14 |
+| [[jiji262-douyin-downloader\|Douyin Downloader]] | ⭐11,360 | 抖音批次下載、磁碟增量判斷、完整性檢查與選配 API 轉錄 | 2026-09-14 |
 | [[yuliskov-SmartTube\|SmartTube]] | ⭐33,214 | Android TV 媒體客戶端、SponsorBlock；非 LLM，注意官方供應鏈安全公告 | 2026-09-13 |
 | [[multimodal-art-projection-YuE\|YuE／YuE2]] | ⭐7,292 | ABC 符號作曲、音樂生成、翻唱、Agent Skill；權重限非商業 | 2026-09-13 |
 | [[Sonarr-Sonarr\|Sonarr]] | ⭐15,736 | 劇集 RSS、下載協調、品質升級與媒體庫整理；非 LLM 工具 | 2026-09-12 |
@@ -342,6 +344,8 @@ updated: 2026-09-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ever-co-ever-gauzy\|Ever Gauzy]] | ⭐5,082 | ERP／CRM／HRM、專案與工時管理；非通用 LLM 框架 | 2026-09-14 |
+| [[melgarafael-DeskcommCRM\|DeskcommCRM]] | ⭐2,191 | WhatsApp AI 銷售 CRM、租戶 RAG、MCP、人工交接與自架 | 2026-09-14 |
 | [[nab138-iloader\|iloader]] | ⭐2,908 | iOS 側載、SideStore、配對檔案與憑證管理；非 LLM 工具 | 2026-09-12 |
 | [[THU-MAIC-OpenMAIC\|OpenMAIC]] | ⭐35,313 | 多 Agent 互動教室，將主題與教材轉成可討論、可修改的完整課程 | 2026-09-11 |
 | [[viarotel-org-escrcpy\|Escrcpy]] | ⭐11,399 | Android 圖形化控制、MCP Copilot、多裝置自動化；部分功能需私有付費擴充 | 2026-09-09 |
@@ -468,6 +472,7 @@ updated: 2026-09-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Swordfish90-cool-retro-term\|cool-retro-term]] | ⭐26,226 | Qt6／QML CRT 風格終端、Linux／macOS；非 LLM 工具 | 2026-09-14 |
 | [[Flowseal-zapret-discord-youtube\|zapret-discord-youtube]] | ⭐33,209 | Windows zapret／WinDivert、連線策略與診斷；非 LLM、非 VPN | 2026-09-13 |
 | [[fmtlib-fmt\|fmt]] | ⭐24.3k | C++ 格式化函式庫, 型別安全, 編譯期檢查, std::format/std::print, Dragonbox, Unicode, MIT | 2026-09-03 |
 | [[vercel-labs-portless\|portless]] | ⭐11.8k | 具名本機 HTTPS URL, reverse proxy, HTTP/2, framework port injection, monorepo, git worktree, Tailscale/ngrok | 2026-09-03 |

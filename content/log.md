@@ -2,10 +2,19 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-10
+updated: 2026-09-14
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-14（每日 LLM 熱門專案搜尋）
+
+- 執行指定搜尋腳本，取得五個新候選；全部保存 README、metadata 與 raw 快照，新增完整專案頁。
+- 基礎設施：[[Swordfish90-cool-retro-term]]；多媒體與爬蟲：[[tonhowtf-omniget]]、[[jiji262-douyin-downloader]]；應用：[[ever-co-ever-gauzy]]、[[melgarafael-DeskcommCRM]]。
+- 更新既有概念 backlinks、projects 日期排序與 known-repos；未建立新概念，未修改設定或安裝候選工具。
+- 明確區分一般 Trending 周邊工具與 LLM／Agent 功能，未將 cool-retro-term 或 Gauzy 宣稱為 LLM 框架。
+- cool-retro-term 授權 metadata 空白，根目錄有兩版 GPL 文本，保留混合授權待核對說明。
+- 本次格式與部署驗證記錄保存於 outputs/trending-2026-09-14/，是否上線以該處實測結果為準。
 
 ## 2026-09-10（每日 LLM 熱門專案搜尋）
 

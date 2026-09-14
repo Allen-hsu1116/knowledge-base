@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-12
+updated: 2026-09-14
 language: zh-TW
 ---
 
@@ -30,6 +30,11 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Ever Gauzy** → Docker／Server／Desktop 企業管理平台，demo 與正式部署的秘密值及基礎設施需求不同。
+  👉 詳見 [[ever-co-ever-gauzy]]
+- **DeskcommCRM** → VPS 部署 WhatsApp AI CRM；主要安裝流程仍依賴 Supabase 與模型 API，自架不等於離線。
+  👉 詳見 [[melgarafael-DeskcommCRM]]
 
 - **Sonarr** → 自架劇集 PVR，需管理下載器與媒體庫之間的路徑、群組權限及內容授權。
   👉 詳見 [[Sonarr-Sonarr]]
