@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-13
+updated: 2026-09-15
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **oh-my-hermes** → 按需求載入專家 Skills，外層另管理模型鏈與驗證 gate；是第三方插件而非 Hermes 原生核心。
+  👉 詳見 [[rlaope-oh-my-hermes]]
 
 - **YuE2** → yue2-music 技能封裝作曲、翻唱、ABC 編輯與音樂約束檢查；技能安裝與 Python 推論 runtime 是兩件事。
   👉 詳見 [[multimodal-art-projection-YuE]]

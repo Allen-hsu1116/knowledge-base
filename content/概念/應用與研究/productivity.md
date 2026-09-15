@@ -2,7 +2,7 @@
 title: 生產力
 slug: productivity
 created: 2026-06-16
-updated: 2026-09-14
+updated: 2026-09-15
 language: zh-TW
 ---
 
@@ -28,6 +28,11 @@ language: zh-TW
 - **開源替代** — 用開源自架方案替代商業 SaaS，降低長期成本
 
 ## 各框架的做法
+
+- **LocalSend** → 讓手機與桌面在區網交換檔案；屬一般生產力工具，非 LLM。
+  👉 詳見 [[localsend-localsend]]
+- **OpenDisplay** → 用 iPhone、iPad 或閒置 Mac 擴充工作區；延伸顯示器不等於 Computer Use Agent。
+  👉 詳見 [[peetzweg-opendisplay]]
 
 - **cool-retro-term** → 可自訂 CRT 終端外觀；改善視覺偏好不等於已證明工作效率提升。
   👉 詳見 [[Swordfish90-cool-retro-term]]

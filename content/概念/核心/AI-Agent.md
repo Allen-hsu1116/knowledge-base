@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-14
+updated: 2026-09-15
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **oh-my-hermes** → 在 Hermes 宿主上加入模型路由、平行工作單位、證據驗證狀態與需審核的獨立記憶。
+  👉 詳見 [[rlaope-oh-my-hermes]]
 
 - **DeskcommCRM** → 每租戶 RAG 與 Skills 驅動 WhatsApp 銷售流程，配合人工交接、預算上限與人工審核改善提案。
   👉 詳見 [[melgarafael-DeskcommCRM]]

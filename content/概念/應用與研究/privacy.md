@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-09-13
+updated: 2026-09-15
 language: zh-TW
 ---
 
@@ -30,6 +30,11 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - **去識別化** — 移除或模糊化資料中的個人識別資訊（PII）
 
 ## 各框架的做法
+
+- **LocalSend** → 以 HTTPS 在區網內傳送檔案與訊息，不需第三方中繼；仍應確認接收對象。
+  👉 詳見 [[localsend-localsend]]
+- **OpenDisplay** → 螢幕串流留在本地，但 README 的 WiFi 加密仍列 roadmap；本地不等於加密。
+  👉 詳見 [[peetzweg-opendisplay]]
 
 - **zapret-discord-youtube** → 本機 DPI 規避屬連通性工具，不是 VPN，也不保證匿名或隱藏來源 IP；是隱私與連線可用性需分開評估的案例。
   👉 詳見 [[Flowseal-zapret-discord-youtube]]

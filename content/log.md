@@ -2,10 +2,19 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-14
+updated: 2026-09-15
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-15（每日 LLM 熱門專案搜尋）
+
+- 指定搜尋腳本取得三個新候選；保存完整 README raw 快照與 GitHub metadata，逐頁驗證 10 段模板及至少 70 行。
+- 應用：[[localsend-localsend]]、[[peetzweg-opendisplay]]；Skill 生態系：[[rlaope-oh-my-hermes]]。
+- 更新 privacy、productivity、AI-Agent、AI-Skills 的 backlinks、projects 分類日期排序與 known-repos。
+- 無新增概念頁；前兩項明確標示非 LLM 的一般 Trending 工具，OMH 為第三方 Hermes 插件。
+- 未安裝工具、未修改 Hermes 設定；OpenDisplay 最低 iOS 版本文件矛盾及 WiFi 加密限制已保留說明。
+- 格式、索引與部署實測保存於 outputs/2026-09-15-*，以實際驗證結果為準。
 
 ## 2026-09-14（每日 LLM 熱門專案搜尋）
 

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-14
+updated: 2026-09-15
 ---
 
 # 專案索引
@@ -344,6 +344,8 @@ updated: 2026-09-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[localsend-localsend\|LocalSend]] | ⭐91,323 | 區網 HTTPS 跨平台傳檔、CLI、無雲端中繼；非 LLM | 2026-09-15 |
+| [[peetzweg-opendisplay\|OpenDisplay]] | ⭐3,570 | Mac 延伸螢幕、iPhone/iPad/Mac 接收端、USB/WiFi、私有 API 與加密限制 | 2026-09-15 |
 | [[ever-co-ever-gauzy\|Ever Gauzy]] | ⭐5,082 | ERP／CRM／HRM、專案與工時管理；非通用 LLM 框架 | 2026-09-14 |
 | [[melgarafael-DeskcommCRM\|DeskcommCRM]] | ⭐2,191 | WhatsApp AI 銷售 CRM、租戶 RAG、MCP、人工交接與自架 | 2026-09-14 |
 | [[nab138-iloader\|iloader]] | ⭐2,908 | iOS 側載、SideStore、配對檔案與憑證管理；非 LLM 工具 | 2026-09-12 |
@@ -408,6 +410,7 @@ updated: 2026-09-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[rlaope-oh-my-hermes\|oh-my-hermes]] | ⭐2,040 | Hermes 社群插件、模型路由、專家 Skills、驗證 gate、審核式記憶 | 2026-09-15 |
 | [[SnailSploit-Claude-Red\|Claude-Red]] | ⭐3,598 | 資安 SKILL.md 方法庫、按需載入、授權研究與 CTF；非獨立掃描引擎 | 2026-09-13 |
 | [[jihe520-MathModelAgent\|MathModelAgent]] | ⭐4,858 | 数學建模 Skills、Typst 論文與驗收；自訂非商業授權，舊功能文件有矛盾 | 2026-09-12 |
 | [[Tencent-teamai-cli\|TeamAI CLI]] | ⭐2,981 | 團隊 Skills／Rules／MCP 分發、Git review、beta 知識召回與圖譜 | 2026-09-10 |
