@@ -2,10 +2,19 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-15
+updated: 2026-09-16
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-16（每日 LLM 熱門專案搜尋）
+
+- 指定搜尋腳本取得五個新候選；保存完整 README 與 GitHub metadata，建立 10 段專案頁並逐頁檢查至少 70 行。
+- Agent 框架與工具：[[danny-avila-LibreChat]]、[[pacifio-atlas]]、[[alphaXiv-OpenResearch]]。
+- 應用：[[NationalSecurityAgency-ghidra]]；基礎設施：[[Homebrew-BrewUI]]。兩者明確標示為非 LLM 的一般 Trending 工具。
+- 更新既有概念 backlinks、projects 分類與日期排序、known-repos；沿用現有概念，不另建細分頁。
+- 未安裝候選工具、未修改 Hermes 設定。保留實驗功能、遙測、模型資料傳送與遠端服務驗證限制。
+- 驗證與部署證據保存於 outputs/2026-09-16-trending/，以實際執行結果為準。
 
 ## 2026-09-15（每日 LLM 熱門專案搜尋）
 

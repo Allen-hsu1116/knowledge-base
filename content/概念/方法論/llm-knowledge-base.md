@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-09-12
+updated: 2026-09-16
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - **Schema 決定一切** — SCHEMA.md 是唯一的前期投入，隨使用共同演化
 
 ## 各框架的做法
+
+- **Atlas** → 整合 `.atlas/knowledge/`、CLAUDE.md、AGENTS.md 與 session 歷史，以本地語意索引供不同 Agent 共享；本地檢索不代表外部模型推論不傳資料。詳見 [[pacifio-atlas]]。
 
 - **Hyperresearch** → Markdown 為主要資料、SQLite 為可重建索引，研究來源持久保存並加入引用及來源獨立性審核。
   👉 詳見 [[jordan-gibbs-hyperresearch]]

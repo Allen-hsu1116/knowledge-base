@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-10
+updated: 2026-09-16
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **LibreChat** → Agent 可連接 MCP servers 並搭配 Skills、子 Agent 與角色權限；實驗性的 Agent Plugins 可封裝 Skills 和 MCP 設定。詳見 [[danny-avila-LibreChat]]。
 
 - **TeamAI CLI** → 向支援的 Agent 分發團隊 MCP 設定；不是所有適配器都有相同功能。
   👉 詳見 [[Tencent-teamai-cli]]

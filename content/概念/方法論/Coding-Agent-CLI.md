@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-13
+updated: 2026-09-16
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Atlas** → 用 ACP 整合 Claude Code、Codex 等 Agent，將 session、工具活動與 Git commit 連結；原生 Agent 使用 Codex engine hard fork。詳見 [[pacifio-atlas]]。
+- **OpenResearch** → 把既有 Coding Agent 接進文獻、假說與實驗工作流，以 commit snapshot 追蹤 runs；worktree 隔離不是安全沙箱。詳見 [[alphaXiv-OpenResearch]]。
 
 - **Worktrunk** → 以分支名稱操作 Git worktree，結合狀態總覽、Agent 啟動和 hooks；管理平行工作目錄而非取代 Coding Agent。
   👉 詳見 [[max-sixty-worktrunk]]

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # 專案索引
@@ -17,6 +17,9 @@ updated: 2026-09-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[danny-avila-LibreChat\|LibreChat]] | ⭐43,838 | 自架多模型聊天、Agent、MCP、Skills、子 Agent、權限與觀測 | 2026-09-16 |
+| [[pacifio-atlas\|Atlas（pacifio）]] | ⭐4,626 | Coding Agent 工作台、Git checkpoint、session 溯源、本地共享記憶、ACP | 2026-09-16 |
+| [[alphaXiv-OpenResearch\|OpenResearch]] | ⭐3,363 | 研究 Agent、Git 實驗樹、不可變來源快照、多運算後端、autoresearch | 2026-09-16 |
 | [[max-sixty-worktrunk\|Worktrunk]] | ⭐7,236 | Git worktree CLI、平行 Coding Agent、Hooks、合併與清理；非安全沙箱 | 2026-09-13 |
 | [[vastsa-PI-Desktop\|PI-Desktop]] | ⭐1,666 | Local-first 桌面 Coding Agent、Electron＋Rust＋pi、Plan/Goal、MCP、插件；Early Preview | 2026-09-10 |
 | [[henryqin1997-statem\|StateM]] | ⭐984 | Agent 長任務 CLI 狀態機, YAML runbook, checked transitions, dynamic checks, durable runtime history, context recovery, Terminal-Bench 2.1 harness scaling, Python | 2026-09-02 |
@@ -344,6 +347,7 @@ updated: 2026-09-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NationalSecurityAgency-ghidra\|Ghidra]] | ⭐76,710 | NSA 逆向工程、反編譯、多指令集、腳本擴充；非 LLM 專案 | 2026-09-16 |
 | [[localsend-localsend\|LocalSend]] | ⭐91,323 | 區網 HTTPS 跨平台傳檔、CLI、無雲端中繼；非 LLM | 2026-09-15 |
 | [[peetzweg-opendisplay\|OpenDisplay]] | ⭐3,570 | Mac 延伸螢幕、iPhone/iPad/Mac 接收端、USB/WiFi、私有 API 與加密限制 | 2026-09-15 |
 | [[ever-co-ever-gauzy\|Ever Gauzy]] | ⭐5,082 | ERP／CRM／HRM、專案與工時管理；非通用 LLM 框架 | 2026-09-14 |
@@ -475,6 +479,7 @@ updated: 2026-09-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Homebrew-BrewUI\|BrewUI]] | ⭐1,363 | Homebrew 官方 macOS GUI、SwiftUI、套件管理與環境診斷；非 LLM 工具 | 2026-09-16 |
 | [[Swordfish90-cool-retro-term\|cool-retro-term]] | ⭐26,226 | Qt6／QML CRT 風格終端、Linux／macOS；非 LLM 工具 | 2026-09-14 |
 | [[Flowseal-zapret-discord-youtube\|zapret-discord-youtube]] | ⭐33,209 | Windows zapret／WinDivert、連線策略與診斷；非 LLM、非 VPN | 2026-09-13 |
 | [[fmtlib-fmt\|fmt]] | ⭐24.3k | C++ 格式化函式庫, 型別安全, 編譯期檢查, std::format/std::print, Dragonbox, Unicode, MIT | 2026-09-03 |

@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-15
+updated: 2026-09-16
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **LibreChat** → 自架多模型聊天與 Agent 平台，整合 MCP、Skills、子 Agent 及角色權限；attached workspaces 仍為高度實驗性。詳見 [[danny-avila-LibreChat]]。
+- **Atlas** → 將 Agent session 連回 Git commit checkpoint，以本地索引共享不同 Agent 的上下文。詳見 [[pacifio-atlas]]。
+- **OpenResearch** → 以獨立 session、worktree 與 Git 實驗樹，串接研究假說、執行結果與證據；流程自動化不保證科學結論正確。詳見 [[alphaXiv-OpenResearch]]。
 
 - **oh-my-hermes** → 在 Hermes 宿主上加入模型路由、平行工作單位、證據驗證狀態與需審核的獨立記憶。
   👉 詳見 [[rlaope-oh-my-hermes]]

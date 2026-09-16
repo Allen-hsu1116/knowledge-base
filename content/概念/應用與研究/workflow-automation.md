@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-09-12
+updated: 2026-09-16
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **OpenResearch** → 把提出想法、改碼、執行與檢查證據串成 autoresearch 迴圈，透過 Git 實驗樹與不可變來源快照記錄執行；資料與依賴環境仍需自行固定。詳見 [[alphaXiv-OpenResearch]]。
 
 - **Sonarr** → 以 RSS、品質規則與失敗重試串接媒體取得、命名和歸檔，示範不依賴 LLM 的領域自動化。
   👉 詳見 [[Sonarr-Sonarr]]

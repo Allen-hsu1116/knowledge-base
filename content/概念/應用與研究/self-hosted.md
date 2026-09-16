@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-14
+updated: 2026-09-16
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **LibreChat** → 用 Docker Compose 自架多使用者聊天與 Agent 平台；應用自架與模型本地推論是兩件事，外部 API、MCP 和程式執行仍需設定資料及權限邊界。詳見 [[danny-avila-LibreChat]]。
 
 - **Ever Gauzy** → Docker／Server／Desktop 企業管理平台，demo 與正式部署的秘密值及基礎設施需求不同。
   👉 詳見 [[ever-co-ever-gauzy]]
