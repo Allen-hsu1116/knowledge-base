@@ -30,6 +30,8 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 
 ## 各框架的做法
 
+- **Anki** → 把已理解的內容化成問答卡，以回想表現安排間隔複習；不是 LLM 工具，也不能代替理解。詳見 [[ankitects-anki]]。
+
 - **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
   👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
 

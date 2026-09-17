@@ -29,6 +29,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- **Cline** → CLI 支援互動、headless、多 Agent 與排程；與 IDE 共用核心但需分別確認入口的開源範圍。詳見 [[cline-cline]]。
+
 - **Atlas** → 用 ACP 整合 Claude Code、Codex 等 Agent，將 session、工具活動與 Git commit 連結；原生 Agent 使用 Codex engine hard fork。詳見 [[pacifio-atlas]]。
 - **OpenResearch** → 把既有 Coding Agent 接進文獻、假說與實驗工作流，以 commit snapshot 追蹤 runs；worktree 隔離不是安全沙箱。詳見 [[alphaXiv-OpenResearch]]。
 

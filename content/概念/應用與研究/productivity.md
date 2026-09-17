@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Anki** → 透過間隔重複把複習時間集中在較不熟悉的知識，與長篇筆記互補。詳見 [[ankitects-anki]]。
+
 - **BrewUI** → 用原生 macOS GUI 降低 Homebrew 套件管理門檻；App 的乾淨環境不繼承 Terminal aliases、PATH 或 export，需以 brew.env 與診斷頁確認設定。詳見 [[Homebrew-BrewUI]]。
 
 - **LocalSend** → 讓手機與桌面在區網交換檔案；屬一般生產力工具，非 LLM。

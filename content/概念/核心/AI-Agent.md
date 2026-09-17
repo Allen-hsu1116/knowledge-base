@@ -28,6 +28,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **Cline** → 同一引擎提供 IDE、CLI、桌面與 SDK 入口，以 Plan/Act 和核准串起開發流程。詳見 [[cline-cline]]。
+
 - **LibreChat** → 自架多模型聊天與 Agent 平台，整合 MCP、Skills、子 Agent 及角色權限；attached workspaces 仍為高度實驗性。詳見 [[danny-avila-LibreChat]]。
 - **Atlas** → 將 Agent session 連回 Git commit checkpoint，以本地索引共享不同 Agent 的上下文。詳見 [[pacifio-atlas]]。
 - **OpenResearch** → 以獨立 session、worktree 與 Git 實驗樹，串接研究假說、執行結果與證據；流程自動化不保證科學結論正確。詳見 [[alphaXiv-OpenResearch]]。

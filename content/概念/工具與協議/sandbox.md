@@ -29,6 +29,8 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 
 ## 各框架的做法
 
+- **vphone-cli** → 研究 guest 雖使用虛擬化，但主機可能需放寬 SIP/AMFI；不可把 guest 隔離誤認為整台主機安全。詳見 [[Lakr233-vphone-cli]]。
+
 - **OpenSandbox** → 阿里巴巴開源，多語言 SDK（Python/Java/JS/Go/C#），Docker/K8s runtime
   👉 詳見 [[opensandbox|OpenSandbox]]
 - **CubeSandbox** → 騰訊雲開源，Rust 實現，<60ms 冷啟動，KVM MicroVM + eBPF

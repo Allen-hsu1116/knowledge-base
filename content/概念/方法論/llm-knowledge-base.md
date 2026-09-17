@@ -31,6 +31,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 
 ## 各框架的做法
 
+- **WeKnora** → 文件可同時成為 RAG 來源與交叉連結 Markdown Wiki；提供人工修改、版本差異、回滾與工作區治理。詳見 [[Tencent-WeKnora]]。
+
 - **Atlas** → 整合 `.atlas/knowledge/`、CLAUDE.md、AGENTS.md 與 session 歷史，以本地語意索引供不同 Agent 共享；本地檢索不代表外部模型推論不傳資料。詳見 [[pacifio-atlas]]。
 
 - **Hyperresearch** → Markdown 為主要資料、SQLite 為可重建索引，研究來源持久保存並加入引用及來源獨立性審核。

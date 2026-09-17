@@ -28,6 +28,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- **Cloudflare Security Audit Skill** → 將稽核分成六階段，使用覆蓋帳本、獨立 verifier 與三態 findings，需搭配宿主 Agent 及 OS 沙箱。詳見 [[cloudflare-security-audit-skill]]。
+
 - **oh-my-hermes** → 按需求載入專家 Skills，外層另管理模型鏈與驗證 gate；是第三方插件而非 Hermes 原生核心。
   👉 詳見 [[rlaope-oh-my-hermes]]
 

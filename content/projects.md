@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cline-cline\|Cline]] | ⭐68,375 | IDE／CLI／SDK 開發 Agent、Plan/Act、MCP、人工核准 | 2026-09-17 |
 | [[danny-avila-LibreChat\|LibreChat]] | ⭐43,838 | 自架多模型聊天、Agent、MCP、Skills、子 Agent、權限與觀測 | 2026-09-16 |
 | [[pacifio-atlas\|Atlas（pacifio）]] | ⭐4,626 | Coding Agent 工作台、Git checkpoint、session 溯源、本地共享記憶、ACP | 2026-09-16 |
 | [[alphaXiv-OpenResearch\|OpenResearch]] | ⭐3,363 | 研究 Agent、Git 實驗樹、不可變來源快照、多運算後端、autoresearch | 2026-09-16 |
@@ -149,6 +150,7 @@ updated: 2026-09-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Tencent-WeKnora\|WeKnora]] | ⭐25,298 | RAG、ReAct、自動 Wiki、可編輯切塊與工作區治理 | 2026-09-17 |
 | [[jordan-gibbs-hyperresearch\|Hyperresearch]] | ⭐2,616 | 研究 Harness、持久 Markdown vault、來源獨立性與引用審核；benchmark 為內部評估 | 2026-09-12 |
 | [[nashsu-llm_wiki\|LLM Wiki（nashsu）]] | ⭐18,105 | 以 Tauri 桌面介面將文件增量編譯成持久 Wiki，整合圖譜與 Agent 查詢 | 2026-09-11 |
 | [[asciimoo-hister\|Hister]] | ⭐2.8k | 本地個人搜尋引擎, 瀏覽歷史+網頁全文+本機檔案, 進階查詢, 選配語義搜尋, Web+TUI+CLI+MCP, 無遙測, 多使用者隔離 | 2026-08-26 |
@@ -347,6 +349,7 @@ updated: 2026-09-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ankitects-anki\|Anki]] | ⭐30,861 | 間隔重複、主動回想、跨裝置記憶卡；非 LLM 專案 | 2026-09-17 |
 | [[NationalSecurityAgency-ghidra\|Ghidra]] | ⭐76,710 | NSA 逆向工程、反編譯、多指令集、腳本擴充；非 LLM 專案 | 2026-09-16 |
 | [[localsend-localsend\|LocalSend]] | ⭐91,323 | 區網 HTTPS 跨平台傳檔、CLI、無雲端中繼；非 LLM | 2026-09-15 |
 | [[peetzweg-opendisplay\|OpenDisplay]] | ⭐3,570 | Mac 延伸螢幕、iPhone/iPad/Mac 接收端、USB/WiFi、私有 API 與加密限制 | 2026-09-15 |
@@ -414,6 +417,7 @@ updated: 2026-09-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cloudflare-security-audit-skill\|Cloudflare Security Audit Skill]] | ⭐7,247 | 六階段安全稽核、覆蓋帳本、獨立驗證與三態 findings | 2026-09-17 |
 | [[rlaope-oh-my-hermes\|oh-my-hermes]] | ⭐2,040 | Hermes 社群插件、模型路由、專家 Skills、驗證 gate、審核式記憶 | 2026-09-15 |
 | [[SnailSploit-Claude-Red\|Claude-Red]] | ⭐3,598 | 資安 SKILL.md 方法庫、按需載入、授權研究與 CTF；非獨立掃描引擎 | 2026-09-13 |
 | [[jihe520-MathModelAgent\|MathModelAgent]] | ⭐4,858 | 数學建模 Skills、Typst 論文與驗收；自訂非商業授權，舊功能文件有矛盾 | 2026-09-12 |
@@ -479,6 +483,7 @@ updated: 2026-09-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Lakr233-vphone-cli\|vphone-cli]] | ⭐13,343 | 虛擬 iPhone、視覺控制、AI E2E 研究；須注意主機防護放寬 | 2026-09-17 |
 | [[Homebrew-BrewUI\|BrewUI]] | ⭐1,363 | Homebrew 官方 macOS GUI、SwiftUI、套件管理與環境診斷；非 LLM 工具 | 2026-09-16 |
 | [[Swordfish90-cool-retro-term\|cool-retro-term]] | ⭐26,226 | Qt6／QML CRT 風格終端、Linux／macOS；非 LLM 工具 | 2026-09-14 |
 | [[Flowseal-zapret-discord-youtube\|zapret-discord-youtube]] | ⭐33,209 | Windows zapret／WinDivert、連線策略與診斷；非 LLM、非 VPN | 2026-09-13 |

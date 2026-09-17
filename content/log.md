@@ -1841,3 +1841,12 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - RAG、CubeSandbox、MinerU、book-to-skill 的絕對化安全／零幻覺主張改為有界敘述，保留過時標記；RAG 補 Anthropic 實驗來源。
 - 重跑 lint 無結構問題：462 專案、60 概念、9 影片、1 論文與 3 索引／日誌。論文按 type: paper 區分，不套 GitHub 專案或通用概念模板。SKILL.md 未提供 merge map，改以全庫實際連結目標驗證。待分類區為空。
 - 備份：outputs/pre-lint-2026-09-13.tar.gz；機器檢查與 raw 引用狀態：outputs/lint-audit-2026-09-13.json。語義檢查為風險主張抽查，非全庫事實正確性保證。
+
+## [2026-09-17] ingest | 每日 Trending 五個候選
+
+- 執行指定搜尋腳本，逐一收錄 [[cline-cline]]、[[ankitects-anki]]、[[Tencent-WeKnora]]、[[Lakr233-vphone-cli]]、[[cloudflare-security-audit-skill]]。
+- 完整 README 與 GitHub metadata 保存到 raw/；Anki 補讀官方入門、開發文件與 LICENSE，WeKnora 授權以 LICENSE 原文確認。
+- 專案頁均使用十區塊模板並超過七十行；更新十個既有概念頁反向連結、projects.md 分類索引與 known-repos.json；沿用既有概念，不新建概念頁、不改 index.md。
+- Anki 明確標示非 LLM；vphone-cli 標示主機防護放寬風險；安全稽核技能標示授權範圍、OS 沙箱與未決 findings 邊界。所有安裝命令僅文件化，未執行候選軟體。
+- 擷取資料、整理稿与驗證記錄：outputs/trending-2026-09-17/。
+

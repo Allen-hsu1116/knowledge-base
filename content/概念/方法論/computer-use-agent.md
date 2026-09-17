@@ -29,6 +29,8 @@ Computer Use Agent（CUA）是 AI Agent 的進階形態，能直接操控圖形�
 
 ## 各框架的做法
 
+- **vphone-cli** → 研究用虛擬 iPhone 透過 control socket 提供截圖、觸控與滑動，作為 AI E2E 測試環境；不自帶 LLM。詳見 [[Lakr233-vphone-cli]]。
+
 - **Lightpanda** → 無圖形渲染引擎的 DOM／JavaScript 瀏覽器自動化路線；與視覺式桌面 Agent 互補，不能替代所有 GUI 任務
   👉 詳見 [[lightpanda-io-browser]]
 

@@ -29,6 +29,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 
 ## 各框架的做法
 
+- **WeKnora** → 整合文件解析、混合檢索、ReAct 與可編輯的 Wiki；檢索切塊支援版本紀錄與重新索引。詳見 [[Tencent-WeKnora]]。
+
 - **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
   👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]
 
