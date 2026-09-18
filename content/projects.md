@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-17
+updated: 2026-09-18
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[TencentCloud-Octop\|Octop]] | ⭐3,441 | 自架、多使用者、多 Agent、IM、RAG、ACP | 2026-09-18 |
 | [[cline-cline\|Cline]] | ⭐68,375 | IDE／CLI／SDK 開發 Agent、Plan/Act、MCP、人工核准 | 2026-09-17 |
 | [[danny-avila-LibreChat\|LibreChat]] | ⭐43,838 | 自架多模型聊天、Agent、MCP、Skills、子 Agent、權限與觀測 | 2026-09-16 |
 | [[pacifio-atlas\|Atlas（pacifio）]] | ⭐4,626 | Coding Agent 工作台、Git checkpoint、session 溯源、本地共享記憶、ACP | 2026-09-16 |
@@ -349,6 +350,7 @@ updated: 2026-09-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[abue-ammar-tinycast\|Tinycast]] | ⭐6,149 | 原生 macOS 啟動器、剪貼簿、快捷鍵、選用 AI | 2026-09-18 |
 | [[ankitects-anki\|Anki]] | ⭐30,861 | 間隔重複、主動回想、跨裝置記憶卡；非 LLM 專案 | 2026-09-17 |
 | [[NationalSecurityAgency-ghidra\|Ghidra]] | ⭐76,710 | NSA 逆向工程、反編譯、多指令集、腳本擴充；非 LLM 專案 | 2026-09-16 |
 | [[localsend-localsend\|LocalSend]] | ⭐91,323 | 區網 HTTPS 跨平台傳檔、CLI、無雲端中繼；非 LLM | 2026-09-15 |
@@ -417,6 +419,7 @@ updated: 2026-09-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Tencent-BrowserSkill\|BrowserSkill]] | ⭐4,148 | 真實登入瀏覽器、CLI、擴充、Skill、人類接手 | 2026-09-18 |
 | [[cloudflare-security-audit-skill\|Cloudflare Security Audit Skill]] | ⭐7,247 | 六階段安全稽核、覆蓋帳本、獨立驗證與三態 findings | 2026-09-17 |
 | [[rlaope-oh-my-hermes\|oh-my-hermes]] | ⭐2,040 | Hermes 社群插件、模型路由、專家 Skills、驗證 gate、審核式記憶 | 2026-09-15 |
 | [[SnailSploit-Claude-Red\|Claude-Red]] | ⭐3,598 | 資安 SKILL.md 方法庫、按需載入、授權研究與 CTF；非獨立掃描引擎 | 2026-09-13 |
@@ -483,6 +486,8 @@ updated: 2026-09-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cilium-cilium\|Cilium]] | ⭐25,266 | eBPF、Kubernetes 網路、安全與觀測；非 LLM | 2026-09-18 |
+| [[coder-coder\|Coder]] | ⭐14,837 | Terraform 工作區、自架開發環境、控制平面 Coding Agent | 2026-09-18 |
 | [[Lakr233-vphone-cli\|vphone-cli]] | ⭐13,343 | 虛擬 iPhone、視覺控制、AI E2E 研究；須注意主機防護放寬 | 2026-09-17 |
 | [[Homebrew-BrewUI\|BrewUI]] | ⭐1,363 | Homebrew 官方 macOS GUI、SwiftUI、套件管理與環境診斷；非 LLM 工具 | 2026-09-16 |
 | [[Swordfish90-cool-retro-term\|cool-retro-term]] | ⭐26,226 | Qt6／QML CRT 風格終端、Linux／macOS；非 LLM 工具 | 2026-09-14 |

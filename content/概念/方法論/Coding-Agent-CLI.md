@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-16
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Coder** → 提供 Coding Agent 的受管工作區及原生控制平面迴圈，不只是另一個 CLI。詳見 [[coder-coder]]。
 
 - **Cline** → CLI 支援互動、headless、多 Agent 與排程；與 IDE 共用核心但需分別確認入口的開源範圍。詳見 [[cline-cline]]。
 

@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-15
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **BrowserSkill** → Skill 教導宿主使用 bsk，CLI/daemon 與瀏覽器擴充另行安裝；核對 profile 路徑並保留本地修改。詳見 [[Tencent-BrowserSkill]]。
 
 - **Cloudflare Security Audit Skill** → 將稽核分成六階段，使用覆蓋帳本、獨立 verifier 與三態 findings，需搭配宿主 Agent 及 OS 沙箱。詳見 [[cloudflare-security-audit-skill]]。
 

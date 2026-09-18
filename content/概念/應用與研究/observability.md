@@ -2,7 +2,7 @@
 title: 可觀測性
 slug: observability
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **Agent 分析** — 追蹤 AI Agent 的 session 行為、成本和效率
 
 ## 各框架的做法
+
+- **Cilium** → 以 eBPF 提供網路流量與安全可見性，與 Prompt/token 觀測不同層。詳見 [[cilium-cilium]]。
 
 - **Langfuse** → 開源 LLM 觀測平台，評測、Prompt 管理、Playground，YC W23
   👉 詳見 [[langfuse-langfuse|Langfuse]]

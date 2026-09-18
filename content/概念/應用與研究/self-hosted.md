@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-16
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -30,6 +30,10 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Cilium** → 自架 Kubernetes 的網路與政策底座，並非 LLM runtime。詳見 [[cilium-cilium]]。
+- **Coder** → 以 Terraform 管理開發工作區與控制平面 Coding Agent。詳見 [[coder-coder]]。
+- **Octop** → 單程序整合多使用者助理、IM、cron 與資料庫；自架不代表模型 API 不外連。詳見 [[TencentCloud-Octop]]。
 
 - **LibreChat** → 用 Docker Compose 自架多使用者聊天與 Agent 平台；應用自架與模型本地推論是兩件事，外部 API、MCP 和程式執行仍需設定資料及權限邊界。詳見 [[danny-avila-LibreChat]]。
 

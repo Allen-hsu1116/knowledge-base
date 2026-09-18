@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-09-08
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **Octop** → 文件知識庫的語意檢索支援助理回答；應與 workspace 的持久記憶分開理解。詳見 [[TencentCloud-Octop]]。
 
 - **WeKnora** → 整合文件解析、混合檢索、ReAct 與可編輯的 Wiki；檢索切塊支援版本紀錄與重新索引。詳見 [[Tencent-WeKnora]]。
 

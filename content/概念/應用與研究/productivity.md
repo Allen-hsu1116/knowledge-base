@@ -2,7 +2,7 @@
 title: 生產力
 slug: productivity
 created: 2026-06-16
-updated: 2026-09-15
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **開源替代** — 用開源自架方案替代商業 SaaS，降低長期成本
 
 ## 各框架的做法
+
+- **Tinycast** → 原生 macOS 命令面板、剪貼簿、快捷鍵與預設關閉的 AI 操作。詳見 [[abue-ammar-tinycast]]。
 
 - **Anki** → 透過間隔重複把複習時間集中在較不熟悉的知識，與長篇筆記互補。詳見 [[ankitects-anki]]。
 

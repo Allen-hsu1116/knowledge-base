@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-09-15
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - **去識別化** — 移除或模糊化資料中的個人識別資訊（PII）
 
 ## 各框架的做法
+
+- **Tinycast** → README 宣稱無 telemetry，AI 預設關閉；啟用外部 AI 或擴充後仍須檢查資料傳送。詳見 [[abue-ammar-tinycast]]。
 
 - **LocalSend** → 以 HTTPS 在區網內傳送檔案與訊息，不需第三方中繼；仍應確認接收對象。
   👉 詳見 [[localsend-localsend]]

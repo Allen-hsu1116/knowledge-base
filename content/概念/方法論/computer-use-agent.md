@@ -2,7 +2,7 @@
 title: Computer Use Agent
 slug: computer-use-agent
 created: 2026-05-18
-updated: 2026-09-08
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Computer Use Agent（CUA）是 AI Agent 的進階形態，能直接操控圖形�
 - **錯誤恢復** — 偵測操作失敗（彈窗、載入錯誤）並自動調整策略
 
 ## 各框架的做法
+
+- **BrowserSkill** → 用獨立 Agent Window 共用登入狀態，明確借用既有分頁並支援人類接手。詳見 [[Tencent-BrowserSkill]]。
 
 - **vphone-cli** → 研究用虛擬 iPhone 透過 control socket 提供截圖、觸控與滑動，作為 AI E2E 測試環境；不自帶 LLM。詳見 [[Lakr233-vphone-cli]]。
 

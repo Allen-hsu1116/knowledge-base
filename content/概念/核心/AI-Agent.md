@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-16
+updated: 2026-09-18
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **Coder** → 控制平面執行原生 Coding Agent，並以模板管理開發工作區。詳見 [[coder-coder]]。
+- **BrowserSkill** → 為宿主 Agent 提供已登入瀏覽器工具；不是獨立推理 runtime。詳見 [[Tencent-BrowserSkill]]。
+- **Octop** → 多使用者、多 Agent 助理平台；AgentTeams 自主協調仍列於 roadmap。詳見 [[TencentCloud-Octop]]。
 
 - **Cline** → 同一引擎提供 IDE、CLI、桌面與 SDK 入口，以 Plan/Act 和核准串起開發流程。詳見 [[cline-cline]]。
 

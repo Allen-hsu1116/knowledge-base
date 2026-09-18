@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-16
+updated: 2026-09-18
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-18（每日 LLM 熱門專案搜尋）
+
+- 新增 [[cilium-cilium]]、[[coder-coder]]（基礎設施）、[[abue-ammar-tinycast]]（應用）、[[Tencent-BrowserSkill]]（Skill 生態系）、[[TencentCloud-Octop]]（Agent 框架與工具）。
+- 保存完整 README 與 metadata；五頁均採 10 段專案格式、至少 70 行，補上概念 backlinks 與 known-repos 索引。
+- Cilium 明確標註非 LLM；Tinycast 依 LICENSE 正文辨識 AGPL-3.0-or-later。未新增概念頁。
 
 ## 2026-09-16（每日 LLM 熱門專案搜尋）
 
