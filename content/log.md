@@ -2,7 +2,7 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-18
+updated: 2026-09-19
 stars: —
 language: zh-TW
 ---
@@ -1856,3 +1856,9 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - Anki 明確標示非 LLM；vphone-cli 標示主機防護放寬風險；安全稽核技能標示授權範圍、OS 沙箱與未決 findings 邊界。所有安裝命令僅文件化，未執行候選軟體。
 - 擷取資料、整理稿与驗證記錄：outputs/trending-2026-09-17/。
 
+
+## [2026-09-19] ingest | 每日熱門專案
+
+- 新增 [[rustfs-rustfs]]（基礎設施）、[[ahmedkhaleel2004-gitdiagram]] 與 [[tradesdontlie-tradingview-mcp]]（應用）。
+- 保存完整 README、GitHub metadata 及 TradingView bridge LICENSE；三頁皆採專案模板，補齊六個概念頁 backlinks、projects 與 known-repos 索引。
+- RustFS 標明 S3／磁碟相容邊界；GitDiagram 標明模型推論限制；TradingView bridge 標明平台條款、文件矛盾與非實盤交易。未新增概念頁。

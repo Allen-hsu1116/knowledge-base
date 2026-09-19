@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-09-18
+updated: 2026-09-19
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **RustFS** → 可供管線保存原始文件的 S3 相容物件層；這是基礎設施角色，不自帶檢索、embedding 或生成。詳見 [[rustfs-rustfs]]。
 
 - **Octop** → 文件知識庫的語意檢索支援助理回答；應與 workspace 的持久記憶分開理解。詳見 [[TencentCloud-Octop]]。
 

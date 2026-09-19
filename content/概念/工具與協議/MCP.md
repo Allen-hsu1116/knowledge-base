@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-16
+updated: 2026-09-19
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **TradingView MCP Bridge** → stdio MCP 經本機 CDP 操作圖表；不是官方 API、行情授權或安全沙箱，本機 bridge 也不保證模型端無外傳。詳見 [[tradesdontlie-tradingview-mcp]]。
 
 - **LibreChat** → Agent 可連接 MCP servers 並搭配 Skills、子 Agent 與角色權限；實驗性的 Agent Plugins 可封裝 Skills 和 MCP 設定。詳見 [[danny-avila-LibreChat]]。
 

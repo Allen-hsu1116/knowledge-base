@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 # 專案索引
@@ -350,6 +350,8 @@ updated: 2026-09-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ahmedkhaleel2004-gitdiagram\|GitDiagram]] | ⭐16,469 | GitHub 架構圖、來源片段、圖驗證、Mermaid、私有 repo | 2026-09-19 |
+| [[tradesdontlie-tradingview-mcp\|TradingView MCP Bridge]] | ⭐6,472 | 本機 CDP、MCP、Pine Script、圖表分析；非實盤交易，注意平台條款 | 2026-09-19 |
 | [[abue-ammar-tinycast\|Tinycast]] | ⭐6,149 | 原生 macOS 啟動器、剪貼簿、快捷鍵、選用 AI | 2026-09-18 |
 | [[ankitects-anki\|Anki]] | ⭐30,861 | 間隔重複、主動回想、跨裝置記憶卡；非 LLM 專案 | 2026-09-17 |
 | [[NationalSecurityAgency-ghidra\|Ghidra]] | ⭐76,710 | NSA 逆向工程、反編譯、多指令集、腳本擴充；非 LLM 專案 | 2026-09-16 |
@@ -486,6 +488,7 @@ updated: 2026-09-18
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[rustfs-rustfs\|RustFS]] | ⭐33,166 | Rust 分散式物件儲存、S3 相容、IAM、KMS、資料湖；非 RAG 引擎 | 2026-09-19 |
 | [[cilium-cilium\|Cilium]] | ⭐25,266 | eBPF、Kubernetes 網路、安全與觀測；非 LLM | 2026-09-18 |
 | [[coder-coder\|Coder]] | ⭐14,837 | Terraform 工作區、自架開發環境、控制平面 Coding Agent | 2026-09-18 |
 | [[Lakr233-vphone-cli\|vphone-cli]] | ⭐13,343 | 虛擬 iPhone、視覺控制、AI E2E 研究；須注意主機防護放寬 | 2026-09-17 |

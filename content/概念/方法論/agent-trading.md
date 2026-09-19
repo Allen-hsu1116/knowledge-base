@@ -2,7 +2,7 @@
 title: Agent 交易
 slug: agent-trading
 created: 2026-05-05
-updated: 2026-09-07
+updated: 2026-09-19
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ Agent 交易的優勢在於能整合多種資訊來源並做出即時決策。�
 - **MCP 工具整合** — 透過 MCP 連接券商 API、行情數據源和新聞聚合服務
 
 ## 各框架的做法
+
+- **TradingView MCP Bridge** → 協助圖表閱讀與 Pine Script 開發，不提供實盤執行；其免責聲明禁止以擷取資料做自動交易／演算法決策。詳見 [[tradesdontlie-tradingview-mcp]]。
 
 - **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化
   👉 詳見 [[Rockyzsu-stock]]

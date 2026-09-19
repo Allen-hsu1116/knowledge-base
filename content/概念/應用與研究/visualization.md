@@ -2,7 +2,7 @@
 title: 資料視覺化
 slug: visualization
 created: 2026-05-28
-updated: 2026-08-28
+updated: 2026-09-19
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **即時監控** — 股市走勢、系統指標、業務 KPI 的即時視覺化追蹤
 
 ## 各框架的做法
+
+- **GitDiagram** → 驗證模型輸出的結構圖，再確定性編譯成 Mermaid，提供可點擊來源及 PNG 匯出。詳見 [[ahmedkhaleel2004-gitdiagram]]。
 
 - **Archify** → 以 Typed JSON IR、驗證 gate 與自包含 HTML 產出可互動的系統技術地圖
   👉 詳見 [[tt-a1i-archify\|Archify]]
