@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 # 專案索引
@@ -199,6 +199,7 @@ updated: 2026-09-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[higgsfield-ai-higgsfield\|Higgsfield（分散式訓練框架）]] | ⭐4,957 | 透過 GPU 資源編排與 GitHub 工作流管理大型模型訓練實驗。 | 2026-09-20 |
 | [[JustVugg-colibri\|Colibrì]] | ⭐27,465 | 以 VRAM、RAM、NVMe 分層與專家串流執行大型 MoE 的 C 推論引擎 | 2026-09-11 |
 | [[radixark-miles\|Miles]] | ⭐2.6k | 企業級 LLM/VLM 強化學習後訓練, SGLang rollout, Megatron-LM, 非同步 RL, 秒級權重更新, MXFP8/NVFP4, Token-in-token-out, MoE R3, Agent 環境 | 2026-09-05 |
 | [[magnitudedev-magnitude\|Magnitude]] | ⭐2.0k | Agent-first 本地推論伺服器, 硬體 profiling, 模型推薦, 自動調校, 按需載入, GGUF, 離線隱私, Codex/Claude Code/Hermes/OpenClaw | 2026-09-04 |
@@ -309,6 +310,7 @@ updated: 2026-09-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ruanyf-weekly\|科技愛好者周刊]] | ⭐103,129 | 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。 | 2026-09-20 |
 | [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
 | [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
 | [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐6,700 | 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收 | 2026-09-02 |
@@ -350,6 +352,7 @@ updated: 2026-09-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ZuodaoTech-everyone-can-use-english\|Enjoy／人人都能用英語]] | ⭐37,792 | 以 Enjoy 網頁與瀏覽器工具配合英語訓練教材的 AI 語言學習專案。 | 2026-09-20 |
 | [[ahmedkhaleel2004-gitdiagram\|GitDiagram]] | ⭐16,469 | GitHub 架構圖、來源片段、圖驗證、Mermaid、私有 repo | 2026-09-19 |
 | [[tradesdontlie-tradingview-mcp\|TradingView MCP Bridge]] | ⭐6,472 | 本機 CDP、MCP、Pine Script、圖表分析；非實盤交易，注意平台條款 | 2026-09-19 |
 | [[abue-ammar-tinycast\|Tinycast]] | ⭐6,149 | 原生 macOS 啟動器、剪貼簿、快捷鍵、選用 AI | 2026-09-18 |
@@ -488,6 +491,7 @@ updated: 2026-09-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cloudflare-quiche\|quiche]] | ⭐12,018 | Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。 | 2026-09-20 |
 | [[rustfs-rustfs\|RustFS]] | ⭐33,166 | Rust 分散式物件儲存、S3 相容、IAM、KMS、資料湖；非 RAG 引擎 | 2026-09-19 |
 | [[cilium-cilium\|Cilium]] | ⭐25,266 | eBPF、Kubernetes 網路、安全與觀測；非 LLM | 2026-09-18 |
 | [[coder-coder\|Coder]] | ⭐14,837 | Terraform 工作區、自架開發環境、控制平面 Coding Agent | 2026-09-18 |

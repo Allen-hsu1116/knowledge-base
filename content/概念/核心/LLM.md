@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-09-05
+updated: 2026-09-20
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - **開放生態**：開源模型讓任何人都能部署，形成蓬勃的下游應用生態
 
 ## 各框架的做法
+
+- [[higgsfield-ai-higgsfield]] — 透過 GPU 資源編排與 GitHub 工作流管理大型模型訓練實驗。
+
+- [[ruanyf-weekly]] — 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。
 
 - **Miles** → 以非同步 rollout、分散式 trainer、權重快速同步與 RL 配方完成 LLM／VLM 大規模後訓練
   👉 詳見 [[radixark-miles\|Miles]]

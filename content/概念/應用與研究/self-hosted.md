@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-19
+updated: 2026-09-20
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- [[cloudflare-quiche]] — Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。
 
 - **RustFS** → 自架 S3 相容物件儲存，需核對 API、磁碟拓撲與金鑰管理限制。詳見 [[rustfs-rustfs]]。
 

@@ -1862,3 +1862,12 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - 新增 [[rustfs-rustfs]]（基礎設施）、[[ahmedkhaleel2004-gitdiagram]] 與 [[tradesdontlie-tradingview-mcp]]（應用）。
 - 保存完整 README、GitHub metadata 及 TradingView bridge LICENSE；三頁皆採專案模板，補齊六個概念頁 backlinks、projects 與 known-repos 索引。
 - RustFS 標明 S3／磁碟相容邊界；GitDiagram 標明模型推論限制；TradingView bridge 標明平台條款、文件矛盾與非實盤交易。未新增概念頁。
+
+## 2026-09-20 — 每日熱門專案收錄
+
+- ingest [[ruanyf-weekly]]：📖 學習資源；README／metadata、專案頁、backlinks、索引完成。
+- ingest [[ZuodaoTech-everyone-can-use-english]]：📊 應用；README／metadata、專案頁、backlinks、索引完成。
+- ingest [[cloudflare-quiche]]：🏗 基礎設施；README／metadata、專案頁、backlinks、索引完成。
+- ingest [[higgsfield-ai-higgsfield]]：🧠 模型推論與部署；README／metadata、專案頁、backlinks、索引完成。
+- trycua/cua 已有專案頁：跳過重複收錄，補回 known-repos 去重鍵，保留原始收錄日期。
+- 搜尋含通用 Trending，quiche 與科技周刊分別按基礎設施／學習資源收錄，不宣稱為 LLM 專用工具。

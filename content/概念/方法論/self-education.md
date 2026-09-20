@@ -2,7 +2,7 @@
 title: 自主學習
 slug: self-education
 created: 2026-05-11
-updated: 2026-09-07
+updated: 2026-09-20
 language: zh-TW
 ---
 
@@ -29,6 +29,10 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **知識庫系統輔助**：用 LLM Wiki 方法把學習素材編譯成個人知識庫，加深理解並留下記錄
 
 ## 各框架的做法
+
+- [[ZuodaoTech-everyone-can-use-english]] — 以 Enjoy 網頁與瀏覽器工具配合英語訓練教材的 AI 語言學習專案。
+
+- [[ruanyf-weekly]] — 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。
 
 - **Anki** → 把已理解的內容化成問答卡，以回想表現安排間隔複習；不是 LLM 工具，也不能代替理解。詳見 [[ankitects-anki]]。
 

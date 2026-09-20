@@ -2,7 +2,7 @@
 title: AI Gateway
 slug: AI-Gateway
 created: 2026-06-04
-updated: 2026-08-25
+updated: 2026-09-20
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
 - **統一監控計量**：集中記錄用量、成本、延遲，支援限流與配額管理
 
 ## 各框架的做法
+
+- [[cloudflare-quiche]] — Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。
 
 - **FreeLLMAPI** → 聚合 34 家供應商的免費額度與自訂 OpenAI 相容端點，依配額、速度、能力與可靠度自動路由並故障切換
   👉 詳見 [[tashfeenahmed-freellmapi\|FreeLLMAPI]]
