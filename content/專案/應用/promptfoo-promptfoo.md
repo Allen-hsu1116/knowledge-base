@@ -2,7 +2,7 @@
 title: Promptfoo
 slug: promptfoo-promptfoo
 created: 2023-04-28
-updated: 2026-06-15
+updated: 2026-09-20
 stars: 22198
 language: TypeScript
 topics: [llm, llm-eval, prompt-engineering, red-teaming, pentesting, vulnerability-scanners, rag, ci-cd]
@@ -20,7 +20,7 @@ topics: [llm, llm-eval, prompt-engineering, red-teaming, pentesting, vulnerabili
 
 Promptfoo 是一個開源的 LLM 評測和紅隊工具，由 CLI 和函式庫兩部分組成。它能讓開發者停止試誤法，改用系統化的方式測試、比較和保護 AI 應用。你可以用宣告式 YAML 配置定義測試案例，比較 GPT、Claude、Gemini、DeepSeek 等多個模型的表現，自動化紅隊測試找出安全漏洞，並在 CI/CD 流程中持續驗證。
 
-Promptfoo 現已成為 OpenAI 的一部分，但仍然維持開源 MIT 授權。它被 OpenAI 和 Anthropic 等團隊用於內部評測，是 LLM 應用品質保證的業界標準工具之一。核心價值是「開發者優先」— 快速、本地執行、私密的評測流程，Prompt 永遠不離開你的機器。
+Promptfoo 現已成為 OpenAI 的一部分，但仍然維持開源 MIT 授權。它被 OpenAI 和 Anthropic 等團隊用於內部評測，是 LLM 應用品質保證的業界標準工具之一。核心價值是「開發者優先」— CLI 可在本地編排評測，但資料是否外傳取決於模型、評分器與服務設定；使用 OpenAI 等遠端 provider 時會送出推論請求。
 
 ## 核心特色
 
@@ -29,7 +29,7 @@ Promptfoo 現已成為 OpenAI 的一部分，但仍然維持開源 MIT 授權。
 - **宣告式配置**：YAML 定義測試案例，版本控制友善，團隊協作方便
 - **CI/CD 整合**：GitHub Actions、GitLab CI 等無縫整合，每次提交自動評測
 - **Code Scanning**：掃描 PR 中的 LLM 相關安全和合規問題
-- **本地私密**：評測 100% 本地執行，Prompt 不離開機器
+- **本地編排、可控資料流**：CLI 可本地執行；遠端模型與模型式評分器仍會接收輸入。預設基本遙測不含 prompts／輸出，可設 `PROMPTFOO_DISABLE_TELEMETRY=1` 關閉。
 - **Web 檢視器**：互動式結果面板，團隊分享和討論
 - **Node.js / Python**：同時支援兩種 SDK，彈性整合
 
@@ -87,6 +87,10 @@ promptfoo red-team --target openai:gpt-4
 - 官網：https://promptfoo.dev
 - 文件：https://promptfoo.dev/docs
 - Raw 檔案：`knowledge-base/raw/2026-06-15-promptfoo-promptfoo.md`
+- [OpenAI provider 官方文件](https://www.promptfoo.dev/docs/providers/openai/)（2026-09-20 核對）。
+- [官方遙測說明](https://www.promptfoo.dev/docs/configuration/telemetry/)（2026-09-20 核對）。
+
+**[⚠️ 可能過時] 原文「Prompt 永遠不離開機器」混淆本地評測編排與遠端模型推論；已更正。停用遙測不會停用 provider 的模型請求。**
 
 ---
 

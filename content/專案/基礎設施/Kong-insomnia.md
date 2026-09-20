@@ -2,7 +2,7 @@
 title: Insomnia
 slug: Kong-insomnia
 created: 2016-04-23
-updated: 2026-06-19
+updated: 2026-09-20
 stars: 38681
 language: TypeScript
 topics: [api-client, graphql, rest, grpc, websockets, open-source, electron-app]
@@ -20,7 +20,7 @@ topics: [api-client, graphql, rest, grpc, websockets, open-source, electron-app]
 
 Insomnia 是由 Kong 維護的開源跨平台 API client，定位為 Postman 的開源替代方案。它支援 GraphQL、REST、WebSockets、Server-Sent Events（SSE）、gRPC 以及任何 HTTP 相容協議，讓開發者在單一工具內完成 API 除錯、設計、測試、mock 和 CI/CD 整合。
 
-Insomnia 的核心差異化在於儲存選項的靈活性。它提供三種儲存方式：Local Vault（100% 本地儲存，資料不離開機器）、Git Sync（透過任何 Git 倉庫同步，不經過雲端）、Cloud Sync（雲端協作，可選端到端加密）。這讓開發者能根據安全需求選擇不同儲存策略，敏感 API 可以 100% 本地，而協作專案可以用雲端。
+Insomnia 的核心差異化在於儲存選項的靈活性。Local Vault 把專案資料保存在本機；Git Sync 同步到使用者指定的遠端 Git 倉庫，該倉庫可以是自架或雲端服務；Cloud Sync 使用雲端協作。這些是專案儲存選項，不代表執行 API 請求時不會將資料送到目標伺服器。
 
 此外，Private Environments 功能確保環境設定（如 API keys）永遠存在本地，不會因為選擇雲端儲存而上傳。Insomnia 採用 Apache-2.0 授權，有非常慷慨的免費方案，付費方案解鎖 Git Sync、無限協作和組織管理等進階功能。
 
@@ -81,6 +81,9 @@ Insomnia 與 [[n8n-io-n8n|n8n]]（工作流自動化）和 [[self-hosted|自架]
 - 文件：https://docs.insomnia.rest
 - Slack：https://chat.insomnia.rest
 - Raw 檔案：`knowledge-base/raw/2026-06-19-Kong-insomnia.md`
+- [官方儲存選項說明](https://developer.konghq.com/insomnia/storage/)（2026-09-20 核對）。
+
+**[⚠️ 可能過時] 原文「Git Sync 不經過雲端」並不成立：是否使用雲端取決於 Git 遠端。Local Vault 的本地儲存也不是所有網路請求都留在本機的保證。**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Open Notebook
 slug: lfnovo-open-notebook
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-09-20
 stars: 25031
 language: TypeScript
 topics: [NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast]
@@ -10,7 +10,7 @@ topics: [NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast]
 
 # Open Notebook
 
-> ⭐25031 · Google NotebookLM 的開源隱私替代方案，自架、多模型、100% 本地運行，支援 18+ AI 供應商
+> ⭐25031 · Google NotebookLM 的開源替代方案，可自架並選擇本地或遠端模型，支援 18+ AI 供應商
 
 ## 快速導航
 
@@ -18,7 +18,7 @@ topics: [NotebookLM 替代, RAG, 自架 AI, 多模型, Podcast]
 
 ## 是什麼
 
-Open Notebook 是 Google NotebookLM 的開源替代品，主打隱私優先和多方供應商支援。它讓你把 PDF、影片、音訊、網頁、Office 文件等多模態內容整理成 Notebook，然後用 AI 對這些內容進行智慧搜尋、對話、摘要和轉換——而且所有資料都在你自己的基礎設施上運行。
+Open Notebook 是 Google NotebookLM 的開源替代品，主打隱私優先和多方供應商支援。它讓你把 PDF、影片、音訊、網頁、Office 文件等多模態內容整理成 Notebook，然後用 AI 對這些內容進行智慧搜尋、對話、摘要和轉換。應用與資料庫可自架；若選擇遠端模型，供應商仍會接收相應輸入，不能把自架等同資料完全不外傳。
 
 與 Google NotebookLM 最大的差異在於「選擇權」：你可以自選 AI 模型供應商（OpenAI、Anthropic、Ollama、LM Studio 等 18+ 家），而不是被綁定在 Google 的模型上；你可以用 Docker 自架在任何地方，而不是只能用 Google 雲端；你有完整的 REST API 可以做自動化整合，而不是被鎖在封閉系統裡。
 
@@ -26,7 +26,7 @@ Open Notebook 是 Google NotebookLM 的開源替代品，主打隱私優先和�
 
 ## 核心特色
 
-- **隱私優先自架部署**：資料完全在自有基礎設施上運行，Docker 一鍵啟動（docker compose up -d），支援本地、雲端、混合部署，零雲端依賴
+- **隱私優先自架部署**：應用可透過 Docker 自架，支援本地、雲端、混合部署。要達成全本地處理，須逐項確認 LLM、embedding、語音辨識與語音合成均使用本地服務。
 - **18+ AI 供應商支援**：透過 Esperanto 統一介面，OpenAI、Anthropic、Google GenAI、Vertex AI、Ollama、Perplexity、Azure OpenAI、Mistral、DeepSeek、xAI、OpenRouter 等全部支援，LLM + Embedding + Speech-to-Text + Text-to-Speech 全覆蓋
 - **多模態內容管理**：PDF、影片、音訊、網頁、Office 文件等多種格式統一管理，全文搜尋 + 向量搜尋雙引擎，精確控制哪些內容分享給 AI 模型
 - **專業 Podcast 生成**：支援 1-4 位講者 + 自訂 Profile（NotebookLM 只能 2 人），Episode Profile 系統讓每個 Podcast 有獨立風格，支援 DeepSeek-R1 和 Qwen3 等推理模型
@@ -65,7 +65,7 @@ docker compose up -d
 |------|-------|------|------|----------|---------|-----|------|
 | **Open Notebook** | ⭐25k | 開源 NotebookLM | ✅ 自架 | 18+ 家 | 1-4 講者 | ✅ REST | ✅ Docker |
 | Google NotebookLM | — | 閉源 SaaS | ❌ Google 雲端 | Google only | 2 講者 | ❌ 無 | ❌ |
-| [[teng-lin-notebooklm-py|notebooklm-py]] | ⭐15k | Python 模仿版 | 部分 | OpenAI/其他 | ❌ | 部分 | ✅ |
+| [[teng-lin-notebooklm-py|notebooklm-py]] | ⭐15k | Google NotebookLM 非官方 Python client | 使用 Google 服務 | Google NotebookLM | ✅ Audio Overview | ✅ 非官方 API／CLI | 僅 client 可本地執行，非自架後端 |
 | [[open-webui-open-webui|Open WebUI]] | ⭐100k+ | 自架 Chat UI | ✅ 自架 | 多家 | ❌ | ✅ | ✅ Docker |
 | [[Crosstalk-Solutions-project-nomad|Project N.O.M.A.D.]] | ⭐27k | 離線知識伺服器 | ✅ 離線 | Ollama | ❌ | 部分 | ✅ |
 | Obsidian + AI 插件 | — | 知識管理 | ✅ 本地 | 視插件 | ❌ | 視插件 | ✅ |
@@ -80,6 +80,10 @@ Open Notebook 的定位很明確：如果你要 NotebookLM 的核心體驗（多
 
 - GitHub: <https://github.com/lfnovo/open-notebook>
 - 原始 README: `raw/2026-06-05-lfnovo-open-notebook.md`
+- [官方 README 與 provider 矩陣](https://github.com/lfnovo/open-notebook/blob/main/README.md)（2026-09-20 核對）。
+- [notebooklm-py 官方 README](https://github.com/teng-lin/notebooklm-py/blob/main/README.md)（2026-09-20 核對）。
+
+**[⚠️ 可能過時] 原文無條件宣稱「100% 本地／零雲端依賴」，但又列出遠端模型；已補上部署條件。原比較表把 notebooklm-py 誤寫成可自架的 Python 模仿版，也已改為 Google 服務的非官方 client。**
 
 ---
 

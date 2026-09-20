@@ -1871,3 +1871,10 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - ingest [[higgsfield-ai-higgsfield]]：🧠 模型推論與部署；README／metadata、專案頁、backlinks、索引完成。
 - trycua/cua 已有專案頁：跳過重複收錄，補回 known-repos 去重鍵，保留原始收錄日期。
 - 搜尋含通用 Trending，quiche 與科技周刊分別按基礎設施／學習資源收錄，不宣稱為 LLM 專用工具。
+
+## [2026-09-20] lint | 全庫結構檢查與內容矛盾修正
+
+- 掃描 565 頁 wiki（492 專案、60 概念、9 影片、1 論文、3 索引／日誌）及 575 個 raw 檔案；來源已引用者標記已整理，原始素材保持不變。
+- 依官方文件修正 [[frappe-erpnext]] 的 GPL-3.0 授權、[[promptfoo-promptfoo]] 的遠端模型資料流、[[lfnovo-open-notebook]] 的本地部署條件與 notebooklm-py 比較、[[Kong-insomnia]] 的 Git Sync 雲端邊界；各頁保留更正註記與來源。
+- 專案核心特色接受有內容的子標題；type: paper 不誤套概念模板。SKILL.md 無 merge map，改以全部實際 wikilink 目標驗證。
+- 備份：outputs/pre-lint-2026-09-20.tar.gz；稽核：outputs/lint-audit-2026-09-20.json。待分類區為空。語意檢查包含全庫風險敘述篩選與候選核對，不代表對所有歷史主張完成外部事實查核。

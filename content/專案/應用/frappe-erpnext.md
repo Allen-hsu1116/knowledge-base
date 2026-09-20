@@ -7,7 +7,7 @@ stars: 34279
 repo: https://github.com/frappe/erpnext
 language: Python
 topics: [ERP, 企業管理, 開源]
-updated: 2026-06-14
+updated: 2026-09-20
 ---
 
 # ERPNext — Free and Open Source ERP
@@ -35,7 +35,7 @@ ERPNext 是一個 100% 開源的 ERP（企業資源規劃）系統，由 Frappe 
 - **製造** — 簡化生產週期、追蹤物料消耗、產能規劃、外包
 - **資產管理** — 從採購到報廢，IT 基礎設備管理
 - **專案管理** — 準時、預算內交付專案，追蹤任務、工時表
-- **100% 開源** — MIT 授權，無功能限制、無用戶數限制
+- **開源授權** — GPL-3.0；可自行部署，散布修改版本時須遵守授權義務。託管、維護與導入仍可能有成本。
 - **技術架構** — Frappe Framework（Python/JS） + Frappe UI（Vue），可 Frappe Cloud 託管或 Docker 自架
 
 ## 怎麼用
@@ -61,7 +61,7 @@ bench --site mysite.local serve
 
 | 方案 | 類型 | 開源 | 語言 | 適用場景 |
 |------|------|------|------|----------|
-| **ERPNext** | 全功能 ERP | ✅ MIT | Python | 中小企業全方位管理 |
+| **ERPNext** | 全功能 ERP | ✅ GPL-3.0 | Python | 中小企業全方位管理 |
 | Odoo | 全功能 ERP | ⚠️ LGPLv3（社區版） | Python | 模組化 ERP，企業版付費 |
 | SAP Business One | 商業 ERP | ❌ | Java/.NET | 大型企業 ERP |
 | Dolibarr | 輕量 ERP/CRM | ✅ GPL | PHP | 小型企業需求簡單場景 |
@@ -80,6 +80,9 @@ bench --site mysite.local serve
 
 - GitHub：https://github.com/frappe/erpnext
 - Raw 檔案：`raw/2026-05-20-frappe-erpnext.md`
+- [官方 GPL v3 授權正文](https://github.com/frappe/erpnext/blob/develop/license.txt)（2026-09-20 核對）。
+
+**[⚠️ 可能過時] 舊版把 ERPNext 寫成 MIT，並在 footer 寫「未標示」；已依官方授權正文更正為 GPL-3.0，不可把底層框架的授權套用到 ERPNext。**
 
 ---
 
@@ -87,5 +90,5 @@ bench --site mysite.local serve
 |------|------|
 | GitHub | https://github.com/frappe/erpnext |
 | Stars | ⭐34279|
-| License | 未標示 |
+| License | GPL-3.0 |
 | 收錄日期 | 2026-05-20 |
