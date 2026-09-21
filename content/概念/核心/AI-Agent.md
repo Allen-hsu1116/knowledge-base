@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-18
+updated: 2026-09-21
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **Agent-Native**：讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 → [[BuilderIO-agent-native]]
 
 - **Coder** → 控制平面執行原生 Coding Agent，並以模板管理開發工作區。詳見 [[coder-coder]]。
 - **BrowserSkill** → 為宿主 Agent 提供已登入瀏覽器工具；不是獨立推理 runtime。詳見 [[Tencent-BrowserSkill]]。

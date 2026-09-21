@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-09-13
+updated: 2026-09-21
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- **json-render**：以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 → [[vercel-labs-json-render]]
 
 - **YuE2** → 先生成可編輯的 ABC 旋律與和弦計畫，再生成完整歌曲；編輯會重建錄音，不保證局部以外波形不變。
   👉 詳見 [[multimodal-art-projection-YuE]]

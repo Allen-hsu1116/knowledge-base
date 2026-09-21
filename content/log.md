@@ -1878,3 +1878,12 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - 依官方文件修正 [[frappe-erpnext]] 的 GPL-3.0 授權、[[promptfoo-promptfoo]] 的遠端模型資料流、[[lfnovo-open-notebook]] 的本地部署條件與 notebooklm-py 比較、[[Kong-insomnia]] 的 Git Sync 雲端邊界；各頁保留更正註記與來源。
 - 專案核心特色接受有內容的子標題；type: paper 不誤套概念模板。SKILL.md 無 merge map，改以全部實際 wikilink 目標驗證。
 - 備份：outputs/pre-lint-2026-09-20.tar.gz；稽核：outputs/lint-audit-2026-09-20.json。待分類區為空。語意檢查包含全庫風險敘述篩選與候選核對，不代表對所有歷史主張完成外部事實查核。
+
+
+## [2026-09-21] ingest | 每日 LLM 熱門專案
+
+- [[vercel-labs-json-render]] — 📊 應用；README、metadata、專案頁、雙向連結與 known-repos 已更新。
+- [[BuilderIO-agent-native]] — 🤖 Agent 框架與工具；README、metadata、專案頁、雙向連結與 known-repos 已更新。
+- [[mihail911-modern-software-dev-assignments]] — 📖 學習資源；README、metadata、專案頁、雙向連結與 known-repos 已更新。
+
+既有概念足以涵蓋本批內容，未新建概念頁。

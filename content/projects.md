@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[BuilderIO-agent-native\|Agent-Native]] | ⭐5,215 | 讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 | 2026-09-21 |
 | [[TencentCloud-Octop\|Octop]] | ⭐3,441 | 自架、多使用者、多 Agent、IM、RAG、ACP | 2026-09-18 |
 | [[cline-cline\|Cline]] | ⭐68,375 | IDE／CLI／SDK 開發 Agent、Plan/Act、MCP、人工核准 | 2026-09-17 |
 | [[danny-avila-LibreChat\|LibreChat]] | ⭐43,838 | 自架多模型聊天、Agent、MCP、Skills、子 Agent、權限與觀測 | 2026-09-16 |
@@ -310,6 +311,7 @@ updated: 2026-09-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mihail911-modern-software-dev-assignments\|CS146S Modern Software Developer Assignments]] | ⭐4,555 | Stanford CS146S 的實作作業庫，練習 prompting 與 Agent 輔助軟體開發。 | 2026-09-21 |
 | [[ruanyf-weekly\|科技愛好者周刊]] | ⭐103,129 | 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。 | 2026-09-20 |
 | [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
 | [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
@@ -352,6 +354,7 @@ updated: 2026-09-20
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vercel-labs-json-render\|json-render]] | ⭐17,311 | 以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 | 2026-09-21 |
 | [[ZuodaoTech-everyone-can-use-english\|Enjoy／人人都能用英語]] | ⭐37,792 | 以 Enjoy 網頁與瀏覽器工具配合英語訓練教材的 AI 語言學習專案。 | 2026-09-20 |
 | [[ahmedkhaleel2004-gitdiagram\|GitDiagram]] | ⭐16,469 | GitHub 架構圖、來源片段、圖驗證、Mermaid、私有 repo | 2026-09-19 |
 | [[tradesdontlie-tradingview-mcp\|TradingView MCP Bridge]] | ⭐6,472 | 本機 CDP、MCP、Pine Script、圖表分析；非實盤交易，注意平台條款 | 2026-09-19 |

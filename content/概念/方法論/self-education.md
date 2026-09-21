@@ -2,7 +2,7 @@
 title: 自主學習
 slug: self-education
 created: 2026-05-11
-updated: 2026-09-20
+updated: 2026-09-21
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **知識庫系統輔助**：用 LLM Wiki 方法把學習素材編譯成個人知識庫，加深理解並留下記錄
 
 ## 各框架的做法
+
+- **CS146S Modern Software Developer Assignments**：Stanford CS146S 的實作作業庫，練習 prompting 與 Agent 輔助軟體開發。 → [[mihail911-modern-software-dev-assignments]]
 
 - [[ZuodaoTech-everyone-can-use-english]] — 以 Enjoy 網頁與瀏覽器工具配合英語訓練教材的 AI 語言學習專案。
 

@@ -2,7 +2,7 @@
 title: 前端設計
 slug: frontend-design
 created: 2026-06-08
-updated: 2026-08-27
+updated: 2026-09-21
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ language: zh-TW
 - **AI Skills 整合** — 設計知識封裝為 SKILL.md，讓 Agent 按品質標準執行設計任務
 
 ## 各框架的做法
+
+- **Agent-Native**：讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 → [[BuilderIO-agent-native]]
+
+- **json-render**：以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 → [[vercel-labs-json-render]]
 
 - **Garden Skills** → web-design-engineer 先做 Design Read，再用設計方向與 style recipes 實作及驗證前端
   👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]
