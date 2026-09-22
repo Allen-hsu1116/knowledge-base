@@ -2,7 +2,7 @@
 title: 內容自動化
 slug: content-automation
 created: 2025-06-07
-updated: 2026-08-27
+updated: 2026-09-22
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **多格式輸出**：同一內容可自動轉換為影片、簡報、文章、社群貼文等多種格式
 
 ## 各框架的做法
+
+- **AutoClip** → 從既有長影片的字幕評分到片段與合集匯出，屬素材再製而非文字到影片生成。 詳見 [[zhouxiaoka-autoclip]]。
 
 - **Garden Skills** → 從簡報、圖片到文章出版，以可安裝 Skills 與人類 checkpoint 組合內容管線
   👉 詳見 [[ConardLi-garden-skills\|Garden Skills]]

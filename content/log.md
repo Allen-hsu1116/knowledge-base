@@ -1887,3 +1887,12 @@ known-repos.json: +2 new repos, +4 updated, +19 new concept tags
 - [[mihail911-modern-software-dev-assignments]] — 📖 學習資源；README、metadata、專案頁、雙向連結與 known-repos 已更新。
 
 既有概念足以涵蓋本批內容，未新建概念頁。
+
+
+## [2026-09-22] ingest | 每日 Trending 專案
+
+- [[mvt-project-mvt]]：📊 應用；README、metadata、完整專案頁、backlinks 與 known-repos 已更新。
+- [[zhouxiaoka-autoclip]]：🎯 多媒體與爬蟲；README、metadata、完整專案頁、backlinks 與 known-repos 已更新。
+- [[yynxxxxx-Codex-X]]：🤖 Agent 框架與工具；README、metadata、完整專案頁、backlinks 與 known-repos 已更新。
+
+MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知情同意授權；未新建概念頁。

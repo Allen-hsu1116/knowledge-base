@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-21
+updated: 2026-09-22
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Codex-X** → 以桌面介面管理 Codex Provider、提示詞與會話，不取代底層 CLI 執行引擎。 詳見 [[yynxxxxx-Codex-X]]。
 
 - **CS146S Modern Software Developer Assignments**：Stanford CS146S 的實作作業庫，練習 prompting 與 Agent 輔助軟體開發。 → [[mihail911-modern-software-dev-assignments]]
 

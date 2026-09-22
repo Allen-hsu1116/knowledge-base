@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[yynxxxxx-Codex-X\|Codex-X]] | ⭐3,685 | 集中管理 Codex 的 Provider、提示詞、會話、Skills、MCP 與 TOML 設定。 | 2026-09-22 |
 | [[BuilderIO-agent-native\|Agent-Native]] | ⭐5,215 | 讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 | 2026-09-21 |
 | [[TencentCloud-Octop\|Octop]] | ⭐3,441 | 自架、多使用者、多 Agent、IM、RAG、ACP | 2026-09-18 |
 | [[cline-cline\|Cline]] | ⭐68,375 | IDE／CLI／SDK 開發 Agent、Plan/Act、MCP、人工核准 | 2026-09-17 |
@@ -243,6 +244,7 @@ updated: 2026-09-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[zhouxiaoka-autoclip\|AutoClip]] | ⭐8,237 | 以字幕分析找出長影片高光，串接自動剪輯、合集與短影音匯出。 | 2026-09-22 |
 | [[tonhowtf-omniget\|OmniGet]] | ⭐11,666 | 多站桌面下載、yt-dlp、轉錄與閱讀／學習工具 | 2026-09-14 |
 | [[jiji262-douyin-downloader\|Douyin Downloader]] | ⭐11,360 | 抖音批次下載、磁碟增量判斷、完整性檢查與選配 API 轉錄 | 2026-09-14 |
 | [[yuliskov-SmartTube\|SmartTube]] | ⭐33,214 | Android TV 媒體客戶端、SponsorBlock；非 LLM，注意官方供應鏈安全公告 | 2026-09-13 |
@@ -354,6 +356,7 @@ updated: 2026-09-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mvt-project-mvt\|MVT（Mobile Verification Toolkit）]] | ⭐13,593 | Android／iOS 行動裝置鑑識與間諜軟體跡證分析；非 LLM 工具。 | 2026-09-22 |
 | [[vercel-labs-json-render\|json-render]] | ⭐17,311 | 以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 | 2026-09-21 |
 | [[ZuodaoTech-everyone-can-use-english\|Enjoy／人人都能用英語]] | ⭐37,792 | 以 Enjoy 網頁與瀏覽器工具配合英語訓練教材的 AI 語言學習專案。 | 2026-09-20 |
 | [[ahmedkhaleel2004-gitdiagram\|GitDiagram]] | ⭐16,469 | GitHub 架構圖、來源片段、圖驗證、Mermaid、私有 repo | 2026-09-19 |

@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-19
+updated: 2026-09-22
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **Codex-X** → 集中管理 Codex 的 MCP 配置與啟停；設定管理介面不等於新的 MCP 協議實作。 詳見 [[yynxxxxx-Codex-X]]。
+
+- **AutoClip** → 以 autoclip mcp 提供 stdio 入口，讓客戶端調用同一影片處理管線；雲端分析會送出字幕。 詳見 [[zhouxiaoka-autoclip]]。
 
 - **TradingView MCP Bridge** → stdio MCP 經本機 CDP 操作圖表；不是官方 API、行情授權或安全沙箱，本機 bridge 也不保證模型端無外傳。詳見 [[tradesdontlie-tradingview-mcp]]。
 
