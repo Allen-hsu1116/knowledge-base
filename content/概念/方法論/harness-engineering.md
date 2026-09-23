@@ -31,6 +31,9 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 
 ## 各框架的做法
 
+- **Univer** → 把 Office 內容操作與驗證接到 Agent；瀏覽器與 Node.js 共用 Facade API，但協作能力需另確認授權。詳見 [[dream-num-univer]]。
+- **AX** → 在任務外層編排工作區、網路政策、沙箱與 suspend／resume；不等同模型推理迴圈。詳見 [[google-ax]]。
+
 - **Hyperresearch** → 以研究階段 Skills、run manifest、預算門檻與 Read／Edit 限權 patcher 約束長流程；內部 benchmark 不等於獨立驗證。
   👉 詳見 [[jordan-gibbs-hyperresearch]]
 

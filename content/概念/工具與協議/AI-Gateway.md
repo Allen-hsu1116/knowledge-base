@@ -28,6 +28,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
 
 ## 各框架的做法
 
+- **Treg（相鄰的工具 Gateway）** → 聚合工具而非模型，提供憑證注入、價格與計量；一般端點不會默默跨供應商切換，不能當作模型 failover 服務。詳見 [[superdesigndev-treg]]。
+
 - [[cloudflare-quiche]] — Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。
 
 - **FreeLLMAPI** → 聚合 34 家供應商的免費額度與自訂 OpenAI 相容端點，依配額、速度、能力與可靠度自動路由並故障切換

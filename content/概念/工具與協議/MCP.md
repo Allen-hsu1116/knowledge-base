@@ -28,6 +28,9 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- **AX** → Workspace 可預接 MCP servers，Gateway 另管出口網路，MCP 本身不提供沙箱隔離。詳見 [[google-ax]]。
+- **Treg** → 提供 curated MCP connector 及團隊工具介面；工具目錄、憑證與計費是平台層而非 MCP 標準。詳見 [[superdesigndev-treg]]。
+
 - **Codex-X** → 集中管理 Codex 的 MCP 配置與啟停；設定管理介面不等於新的 MCP 協議實作。 詳見 [[yynxxxxx-Codex-X]]。
 
 - **AutoClip** → 以 autoclip mcp 提供 stdio 入口，讓客戶端調用同一影片處理管線；雲端分析會送出字幕。 詳見 [[zhouxiaoka-autoclip]]。

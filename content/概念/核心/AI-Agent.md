@@ -28,6 +28,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **Univer** → 提供 Agent 可操作的 Office 文件模型與人類編輯介面；協作與草稿審核依套件授權而定。詳見 [[dream-num-univer]]。
+- **AX** → 以 Task／Workspace／Gateway／Model 宣告式編排叢集任務，沙箱依賴 Agent Substrate。詳見 [[google-ax]]。
+- **Treg** → 工具目錄與憑證代理，集中管理工具存取及計量；不是模型 runtime。詳見 [[superdesigndev-treg]]。
+
 - **Agent-Native**：讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 → [[BuilderIO-agent-native]]
 
 - **Coder** → 控制平面執行原生 Coding Agent，並以模板管理開發工作區。詳見 [[coder-coder]]。

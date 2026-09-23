@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # 專案索引
@@ -141,6 +141,7 @@ updated: 2026-09-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-ax\|AX（Google）]] | ⭐7,605 | 宣告式任務編排、Agent Substrate、工作區、網路政策、suspend/resume | 2026-09-23 |
 | [[huangruiteng-loopx\|LoopX]] | ⭐2.9k | Agent 迴圈工程控制平面, 本地狀態核心, 目標+關卡+待辦+證據+配額, Agent 無關 (Codex/Claude Code/Cursor), Peer Agent 交接, Quota 感知排程, 200+ 小時案例 | 2026-08-07 |
 | [[block-buzz\|Buzz]] | ⭐11.9k | 人類+AI Agent 共建工作空間, Nostr relay, ACP harness (Goose/Codex/Claude Code), buzz-cli, YAML 工作流, NIP-34 Git 整合, Rust | 2026-07-26 |
 | [[gastownhall-gastown\|Gas Town]] | ⭐16.4k | 多 Agent 工作空間, The Mayor 協調, Git-backed hooks, Beads tracking, 20-30 agents, Refinery 合併佇列 | 2026-07-06 |
@@ -356,6 +357,7 @@ updated: 2026-09-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[dream-num-univer\|Univer]] | ⭐15,404 | Office SDK、Agent 文件操作、瀏覽器／Node.js、OSS／Pro 分層 | 2026-09-23 |
 | [[mvt-project-mvt\|MVT（Mobile Verification Toolkit）]] | ⭐13,593 | Android／iOS 行動裝置鑑識與間諜軟體跡證分析；非 LLM 工具。 | 2026-09-22 |
 | [[vercel-labs-json-render\|json-render]] | ⭐17,311 | 以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 | 2026-09-21 |
 | [[ZuodaoTech-everyone-can-use-english\|Enjoy／人人都能用英語]] | ⭐37,792 | 以 Enjoy 網頁與瀏覽器工具配合英語訓練教材的 AI 語言學習專案。 | 2026-09-20 |
@@ -497,6 +499,7 @@ updated: 2026-09-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[superdesigndev-treg\|Treg]] | ⭐2,222 | 工具 registry、憑證代理、MCP、按次計費；附加授權限制 | 2026-09-23 |
 | [[cloudflare-quiche\|quiche]] | ⭐12,018 | Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。 | 2026-09-20 |
 | [[rustfs-rustfs\|RustFS]] | ⭐33,166 | Rust 分散式物件儲存、S3 相容、IAM、KMS、資料湖；非 RAG 引擎 | 2026-09-19 |
 | [[cilium-cilium\|Cilium]] | ⭐25,266 | eBPF、Kubernetes 網路、安全與觀測；非 LLM | 2026-09-18 |

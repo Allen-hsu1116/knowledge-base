@@ -28,6 +28,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- **Treg** → 將 SKILL.md、工具及 secrets 組成共享 bundle；upload 可能上傳敏感內容，須先 scan 並確認範圍。詳見 [[superdesigndev-treg]]。
+
 - **BrowserSkill** → Skill 教導宿主使用 bsk，CLI/daemon 與瀏覽器擴充另行安裝；核對 profile 路徑並保留本地修改。詳見 [[Tencent-BrowserSkill]]。
 
 - **Cloudflare Security Audit Skill** → 將稽核分成六階段，使用覆蓋帳本、獨立 verifier 與三態 findings，需搭配宿主 Agent 及 OS 沙箱。詳見 [[cloudflare-security-audit-skill]]。
