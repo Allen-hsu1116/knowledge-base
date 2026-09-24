@@ -28,6 +28,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **Strands Harness SDK** → 程序內 Agent loop 與預組裝 Harness，支援模型切換、hooks、執行限制及觀測。詳見 [[strands-agents-harness-sdk]]。
+- **PanWatch** → 將 TradingAgents 投研流程整合到持倉監控、排程及 IM 通知；不代表投資績效保證。詳見 [[TNT-Likely-PanWatch]]。
+
 - **Univer** → 提供 Agent 可操作的 Office 文件模型與人類編輯介面；協作與草稿審核依套件授權而定。詳見 [[dream-num-univer]]。
 - **AX** → 以 Task／Workspace／Gateway／Model 宣告式編排叢集任務，沙箱依賴 Agent Substrate。詳見 [[google-ax]]。
 - **Treg** → 工具目錄與憑證代理，集中管理工具存取及計量；不是模型 runtime。詳見 [[superdesigndev-treg]]。

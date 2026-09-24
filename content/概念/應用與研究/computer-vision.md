@@ -2,7 +2,7 @@
 title: 電腦視覺
 slug: computer-vision
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-09-24
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CV 的主要任務涵蓋多個層次：影像分類（識別物體類別，如 R
 - **OCR 文字辨識** — 從影像中提取文字，GPU 加速可達 270img/s
 
 ## 各框架的做法
+
+- **Spirula Studio** → 照片／影片經 SfM、Gaussian Splatting 訓練到網格重建；跨 GPU 廠商 Vulkan 後端，非 LLM。詳見 [[harry7557558-spirula-studio]]。
 
 - **supervision** → 模型無關的 CV 工具箱，支援多種偵測框架和追蹤器
   👉 詳見 [[roboflow-supervision]]

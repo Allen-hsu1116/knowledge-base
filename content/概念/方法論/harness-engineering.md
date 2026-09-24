@@ -31,6 +31,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 
 ## 各框架的做法
 
+- **Strands Harness SDK** → 以預組裝 Harness 起步，再下探 SDK 自訂 loop、工具、sessions 與 hooks，區分預設配置與底層控制。詳見 [[strands-agents-harness-sdk]]。
+
 - **Univer** → 把 Office 內容操作與驗證接到 Agent；瀏覽器與 Node.js 共用 Facade API，但協作能力需另確認授權。詳見 [[dream-num-univer]]。
 - **AX** → 在任務外層編排工作區、網路政策、沙箱與 suspend／resume；不等同模型推理迴圈。詳見 [[google-ax]]。
 

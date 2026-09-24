@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[strands-agents-harness-sdk\|Strands Harness SDK]] | ⭐7,843 | 程序內 Agent loop、預組裝 Harness、Python／TypeScript、hooks 與觀測 | 2026-09-24 |
 | [[yynxxxxx-Codex-X\|Codex-X]] | ⭐3,685 | 集中管理 Codex 的 Provider、提示詞、會話、Skills、MCP 與 TOML 設定。 | 2026-09-22 |
 | [[BuilderIO-agent-native\|Agent-Native]] | ⭐5,215 | 讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 | 2026-09-21 |
 | [[TencentCloud-Octop\|Octop]] | ⭐3,441 | 自架、多使用者、多 Agent、IM、RAG、ACP | 2026-09-18 |
@@ -245,6 +246,7 @@ updated: 2026-09-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[harry7557558-spirula-studio\|Spirula Studio]] | ⭐739 | Vulkan／CUDA 3D Gaussian Splatting、SfM、網格重建；非 LLM | 2026-09-24 |
 | [[zhouxiaoka-autoclip\|AutoClip]] | ⭐8,237 | 以字幕分析找出長影片高光，串接自動剪輯、合集與短影音匯出。 | 2026-09-22 |
 | [[tonhowtf-omniget\|OmniGet]] | ⭐11,666 | 多站桌面下載、yt-dlp、轉錄與閱讀／學習工具 | 2026-09-14 |
 | [[jiji262-douyin-downloader\|Douyin Downloader]] | ⭐11,360 | 抖音批次下載、磁碟增量判斷、完整性檢查與選配 API 轉錄 | 2026-09-14 |
@@ -357,6 +359,7 @@ updated: 2026-09-23
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[TNT-Likely-PanWatch\|PanWatch]] | ⭐1,504 | 自架盯盤、TradingAgents、多市場持倉、排程與通知；未列台股支援 | 2026-09-24 |
 | [[dream-num-univer\|Univer]] | ⭐15,404 | Office SDK、Agent 文件操作、瀏覽器／Node.js、OSS／Pro 分層 | 2026-09-23 |
 | [[mvt-project-mvt\|MVT（Mobile Verification Toolkit）]] | ⭐13,593 | Android／iOS 行動裝置鑑識與間諜軟體跡證分析；非 LLM 工具。 | 2026-09-22 |
 | [[vercel-labs-json-render\|json-render]] | ⭐17,311 | 以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 | 2026-09-21 |

@@ -31,6 +31,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Spirula Studio** → 在本機 GPU 執行 3D 重建與訓練；遮罩模型可能需額外下載，遠端 viewer 應使用 SSH 轉送。詳見 [[harry7557558-spirula-studio]]。
+
 - [[cloudflare-quiche]] — Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。
 
 - **RustFS** → 自架 S3 相容物件儲存，需核對 API、磁碟拓撲與金鑰管理限制。詳見 [[rustfs-rustfs]]。

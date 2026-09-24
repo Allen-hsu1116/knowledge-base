@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-19
+updated: 2026-09-24
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-24（每日 LLM 熱門專案搜尋）
+
+- 新增 [[strands-agents-harness-sdk]]（Agent 框架與工具）、[[TNT-Likely-PanWatch]]（應用）、[[harry7557558-spirula-studio]]（多媒體與爬蟲）。
+- 保存完整 README 與 metadata 快照；逐頁使用十段專案模板並檢查至少 70 行，更新概念 backlinks、projects 與 known-repos。
+- 沿用既有概念，不新增概念頁；Spirula Studio 明確標示非 LLM，PanWatch 未宣稱支援台股或保證投資績效。未安裝或執行候選軟體。
 
 ## 2026-09-18（每日 LLM 熱門專案搜尋）
 
