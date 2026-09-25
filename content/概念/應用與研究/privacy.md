@@ -31,6 +31,8 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 
 ## 各框架的做法
 
+- **Lap** → 相片與 AI 索引採本地優先，但標籤、評分與 Collections 存在應用資料庫，不會自動隨原檔移轉；備份需同時涵蓋媒體與整理資料。詳見 [[julyx10-lap]]。
+
 - **Tinycast** → README 宣稱無 telemetry，AI 預設關閉；啟用外部 AI 或擴充後仍須檢查資料傳送。詳見 [[abue-ammar-tinycast]]。
 
 - **LocalSend** → 以 HTTPS 在區網內傳送檔案與訊息，不需第三方中繼；仍應確認接收對象。

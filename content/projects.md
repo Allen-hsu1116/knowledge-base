@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # 專案索引
@@ -155,6 +155,7 @@ updated: 2026-09-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vectorize-io-hindsight\|Hindsight]] | ⭐27,784 | Agent 記憶、混合召回、證據整合、knowledge pages | 2026-09-25 |
 | [[Tencent-WeKnora\|WeKnora]] | ⭐25,298 | RAG、ReAct、自動 Wiki、可編輯切塊與工作區治理 | 2026-09-17 |
 | [[jordan-gibbs-hyperresearch\|Hyperresearch]] | ⭐2,616 | 研究 Harness、持久 Markdown vault、來源獨立性與引用審核；benchmark 為內部評估 | 2026-09-12 |
 | [[nashsu-llm_wiki\|LLM Wiki（nashsu）]] | ⭐18,105 | 以 Tauri 桌面介面將文件增量編譯成持久 Wiki，整合圖譜與 Agent 查詢 | 2026-09-11 |
@@ -203,6 +204,7 @@ updated: 2026-09-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[leejet-stable-diffusion.cpp\|stable-diffusion.cpp]] | ⭐7,244 | C/C++、ggml、圖像與影片擴散模型、本地推論 | 2026-09-25 |
 | [[higgsfield-ai-higgsfield\|Higgsfield（分散式訓練框架）]] | ⭐4,957 | 透過 GPU 資源編排與 GitHub 工作流管理大型模型訓練實驗。 | 2026-09-20 |
 | [[JustVugg-colibri\|Colibrì]] | ⭐27,465 | 以 VRAM、RAM、NVMe 分層與專家串流執行大型 MoE 的 C 推論引擎 | 2026-09-11 |
 | [[radixark-miles\|Miles]] | ⭐2.6k | 企業級 LLM/VLM 強化學習後訓練, SGLang rollout, Megatron-LM, 非同步 RL, 秒級權重更新, MXFP8/NVFP4, Token-in-token-out, MoE R3, Agent 環境 | 2026-09-05 |
@@ -246,6 +248,7 @@ updated: 2026-09-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FxEmbed-FxEmbed\|FxEmbed]] | ⭐5,365 | X／Bluesky 媒體預覽、Cloudflare Worker、自架；非 LLM | 2026-09-25 |
 | [[harry7557558-spirula-studio\|Spirula Studio]] | ⭐739 | Vulkan／CUDA 3D Gaussian Splatting、SfM、網格重建；非 LLM | 2026-09-24 |
 | [[zhouxiaoka-autoclip\|AutoClip]] | ⭐8,237 | 以字幕分析找出長影片高光，串接自動剪輯、合集與短影音匯出。 | 2026-09-22 |
 | [[tonhowtf-omniget\|OmniGet]] | ⭐11,666 | 多站桌面下載、yt-dlp、轉錄與閱讀／學習工具 | 2026-09-14 |
@@ -302,6 +305,7 @@ updated: 2026-09-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NVIDIA-Model-Optimizer\|NVIDIA Model Optimizer]] | ⭐4,079 | PTQ、QAT／QAD、剪枝、蒸餾、checkpoint 匯出 | 2026-09-25 |
 | [[linshenkx-prompt-optimizer\|Prompt Optimizer]] | ⭐31489 | Prompt 優化, 多模型, 圖片生成, MCP, 多平台部署 | 2026-06-28 |
 | [[mksglu-context-mode\|Context Mode]] | ⭐17358 | Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台 | 2026-06-14 |
 | [[jieba\|jieba 結巴分詞]] | ⭐34,952 | NLP, 中文分詞, 關鍵詞提取 | 2026-05-16 |
@@ -359,6 +363,7 @@ updated: 2026-09-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[julyx10-lap\|Lap]] | ⭐2,874 | 本地相片管理、CLIP 搜尋、人臉分群、隱私；非聊天 LLM | 2026-09-25 |
 | [[TNT-Likely-PanWatch\|PanWatch]] | ⭐1,504 | 自架盯盤、TradingAgents、多市場持倉、排程與通知；未列台股支援 | 2026-09-24 |
 | [[dream-num-univer\|Univer]] | ⭐15,404 | Office SDK、Agent 文件操作、瀏覽器／Node.js、OSS／Pro 分層 | 2026-09-23 |
 | [[mvt-project-mvt\|MVT（Mobile Verification Toolkit）]] | ⭐13,593 | Android／iOS 行動裝置鑑識與間諜軟體跡證分析；非 LLM 工具。 | 2026-09-22 |

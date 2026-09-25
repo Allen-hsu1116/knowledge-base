@@ -28,6 +28,8 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 
 ## 各框架的做法
 
+- **NVIDIA Model Optimizer** → 結合量化、剪枝、蒸餾與 draft module 訓練，產生可交給下游 runtime 的模型；最佳化工具本身不是聊天模型。詳見 [[NVIDIA-Model-Optimizer]]。
+
 - [[higgsfield-ai-higgsfield]] — 透過 GPU 資源編排與 GitHub 工作流管理大型模型訓練實驗。
 
 - [[ruanyf-weekly]] — 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。

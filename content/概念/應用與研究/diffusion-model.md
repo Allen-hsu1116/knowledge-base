@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **stable-diffusion.cpp** → 將 SD、Flux、Qwen Image、Wan 等模型的推論放進 C/C++ 引擎，搭配 LoRA、採樣器及記憶體調整；支援程度依模型與後端而異。詳見 [[leejet-stable-diffusion.cpp]]。
+
 - **Sana** → NVIDIA 高效擴散模型家族，線性注意力 + DC-AE，涵蓋圖片/影片/世界模型
   👉 詳見 [[NVlabs-Sana|Sana]]
 - **LTX-2** → DiT 音影片生成模型，22B 參數，支援 LoRA 訓練和 ComfyUI

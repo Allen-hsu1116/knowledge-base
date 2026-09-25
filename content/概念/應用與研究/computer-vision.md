@@ -29,6 +29,8 @@ CV 的主要任務涵蓋多個層次：影像分類（識別物體類別，如 R
 
 ## 各框架的做法
 
+- **Lap** → 在桌面相片庫以 ONNX Runtime、CLIP 與人臉功能進行本地檢索和分群，屬電腦視覺應用而非聊天 LLM。詳見 [[julyx10-lap]]。
+
 - **Spirula Studio** → 照片／影片經 SfM、Gaussian Splatting 訓練到網格重建；跨 GPU 廠商 Vulkan 後端，非 LLM。詳見 [[harry7557558-spirula-studio]]。
 
 - **supervision** → 模型無關的 CV 工具箱，支援多種偵測框架和追蹤器

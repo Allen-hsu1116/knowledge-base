@@ -28,6 +28,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **Hindsight** → 以 retain／recall／reflect 串起事實擷取、混合召回與記憶推理；「學習」指記憶整合，不等同模型權重更新。詳見 [[vectorize-io-hindsight]]。
+
 - **Strands Harness SDK** → 程序內 Agent loop 與預組裝 Harness，支援模型切換、hooks、執行限制及觀測。詳見 [[strands-agents-harness-sdk]]。
 - **PanWatch** → 將 TradingAgents 投研流程整合到持倉監控、排程及 IM 通知；不代表投資績效保證。詳見 [[TNT-Likely-PanWatch]]。
 

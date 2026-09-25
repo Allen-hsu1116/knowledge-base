@@ -31,6 +31,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **FxEmbed** → Docker 內以 Wrangler 執行 Cloudflare Worker，依 Host header 選擇 realm；改動建置期設定後需重建。詳見 [[FxEmbed-FxEmbed]]。
+
 - **Spirula Studio** → 在本機 GPU 執行 3D 重建與訓練；遮罩模型可能需額外下載，遠端 viewer 應使用 SSH 轉送。詳見 [[harry7557558-spirula-studio]]。
 
 - [[cloudflare-quiche]] — Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。

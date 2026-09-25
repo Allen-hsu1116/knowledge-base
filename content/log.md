@@ -2,10 +2,17 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-24
+updated: 2026-09-25
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-25（每日 LLM 熱門專案搜尋）
+
+- 新增 [[vectorize-io-hindsight]]（記憶與知識管理）、[[leejet-stable-diffusion.cpp]]（模型推論與部署）、[[FxEmbed-FxEmbed]]（多媒體與爬蟲）、[[NVIDIA-Model-Optimizer]]（效能與壓縮）、[[julyx10-lap]]（應用）。
+- 保存完整 README raw 與 GitHub metadata；專案頁採十段格式、至少 70 行，更新既有概念 backlinks、projects 與 known-repos。
+- 不新增概念頁；明確區分擴散模型、非 LLM 的嵌入工具與本地電腦視覺应用。未安裝候選軟體、未執行模型或修改 Hermes 設定。
+- 格式與部署驗證記錄保存於 outputs/2026-09-25-*，以實際工具執行結果為準。
 
 ## 2026-09-24（每日 LLM 熱門專案搜尋）
 
