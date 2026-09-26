@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-21
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **StarNet** → 以太空站映射真實 runtime、能力邊界和多 Agent 交接的 local-first Harness。 詳見 [[androoAGI-starnet]]。
 
 - **Hindsight** → 以 retain／recall／reflect 串起事實擷取、混合召回與記憶推理；「學習」指記憶整合，不等同模型權重更新。詳見 [[vectorize-io-hindsight]]。
 

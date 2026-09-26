@@ -2,7 +2,7 @@
 title: 回測
 slug: backtesting
 created: 2025-06-07
-updated: 2026-09-03
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **AI 自演化** — Agent 自動生成、回測和優化策略的閉環
 
 ## 各框架的做法
+
+- **TSP（tick-stock-panel）** → A 股選股、監控和回測共用資料口徑，LLM 只讀取數；不等同台股或自動交易。 詳見 [[shy3130-tick-stock-panel]]。
 
 - **AlphaEvo** → 策略回測 + 金融預測 + 自演化引擎，自動化策略改進閉環
   👉 詳見 [[ZhuLinsen-alphaevo]]

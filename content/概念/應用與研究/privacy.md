@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-09-18
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -30,6 +30,10 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - **去識別化** — 移除或模糊化資料中的個人識別資訊（PII）
 
 ## 各框架的做法
+
+- **wifit3** → 跨平台 USB Wi-Fi 稽核工具，僅限自有或明確授權網路；不是 AI Agent。 詳見 [[derv82-wifit3]]。
+
+- **OpenBao** → 集中保管 secrets 並管理動態憑證生命週期，與模型或 Agent runtime 分工。 詳見 [[openbao-openbao]]。
 
 - **Lap** → 相片與 AI 索引採本地優先，但標籤、評分與 Collections 存在應用資料庫，不會自動隨原檔移轉；備份需同時涵蓋媒體與整理資料。詳見 [[julyx10-lap]]。
 

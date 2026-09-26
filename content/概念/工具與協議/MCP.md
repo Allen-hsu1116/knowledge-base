@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-22
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **StarNet** → 以太空站映射真實 runtime、能力邊界和多 Agent 交接的 local-first Harness。 詳見 [[androoAGI-starnet]]。
 
 - **AX** → Workspace 可預接 MCP servers，Gateway 另管出口網路，MCP 本身不提供沙箱隔離。詳見 [[google-ax]]。
 - **Treg** → 提供 curated MCP connector 及團隊工具介面；工具目錄、憑證與計費是平台層而非 MCP 標準。詳見 [[superdesigndev-treg]]。

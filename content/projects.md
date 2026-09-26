@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[androoAGI-starnet\|StarNet]] | ⭐478 | 將真實 Agent 工作、權限與交接映射為像素太空站的本地優先 Harness。 | 2026-09-26 |
 | [[strands-agents-harness-sdk\|Strands Harness SDK]] | ⭐7,843 | 程序內 Agent loop、預組裝 Harness、Python／TypeScript、hooks 與觀測 | 2026-09-24 |
 | [[yynxxxxx-Codex-X\|Codex-X]] | ⭐3,685 | 集中管理 Codex 的 Provider、提示詞、會話、Skills、MCP 與 TOML 設定。 | 2026-09-22 |
 | [[BuilderIO-agent-native\|Agent-Native]] | ⭐5,215 | 讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 | 2026-09-21 |
@@ -320,6 +321,7 @@ updated: 2026-09-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[kelseyhightower-kubernetes-the-hard-way\|Kubernetes The Hard Way]] | ⭐50,123 | 手動組裝 Kubernetes 叢集的實作教材，重點是理解元件，不是生產部署。 | 2026-09-26 |
 | [[mihail911-modern-software-dev-assignments\|CS146S Modern Software Developer Assignments]] | ⭐4,555 | Stanford CS146S 的實作作業庫，練習 prompting 與 Agent 輔助軟體開發。 | 2026-09-21 |
 | [[ruanyf-weekly\|科技愛好者周刊]] | ⭐103,129 | 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。 | 2026-09-20 |
 | [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
@@ -363,6 +365,7 @@ updated: 2026-09-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[shy3130-tick-stock-panel\|TSP（tick-stock-panel）]] | ⭐5,129 | 結合 A 股選股、監控、回測與可選 LLM 助手的自架研究工作台。 | 2026-09-26 |
 | [[julyx10-lap\|Lap]] | ⭐2,874 | 本地相片管理、CLIP 搜尋、人臉分群、隱私；非聊天 LLM | 2026-09-25 |
 | [[TNT-Likely-PanWatch\|PanWatch]] | ⭐1,504 | 自架盯盤、TradingAgents、多市場持倉、排程與通知；未列台股支援 | 2026-09-24 |
 | [[dream-num-univer\|Univer]] | ⭐15,404 | Office SDK、Agent 文件操作、瀏覽器／Node.js、OSS／Pro 分層 | 2026-09-23 |
@@ -507,6 +510,8 @@ updated: 2026-09-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[derv82-wifit3\|wifit3]] | ⭐922 | 以使用者空間 USB mini-drivers 實作跨平台 Wi-Fi 授權稽核。 | 2026-09-26 |
+| [[openbao-openbao\|OpenBao]] | ⭐7,731 | 以開放治理維護的 secrets、憑證與金鑰管理系統。 | 2026-09-26 |
 | [[superdesigndev-treg\|Treg]] | ⭐2,222 | 工具 registry、憑證代理、MCP、按次計費；附加授權限制 | 2026-09-23 |
 | [[cloudflare-quiche\|quiche]] | ⭐12,018 | Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。 | 2026-09-20 |
 | [[rustfs-rustfs\|RustFS]] | ⭐33,166 | Rust 分散式物件儲存、S3 相容、IAM、KMS、資料湖；非 RAG 引擎 | 2026-09-19 |

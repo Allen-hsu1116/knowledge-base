@@ -1916,3 +1916,14 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 新增 [[dream-num-univer]]（應用）、[[google-ax]]（Agent 編排與記憶）、[[superdesigndev-treg]]（基礎設施）。
 - 保存 README、metadata、LICENSE；完成 10 段專案頁、概念 backlinks、日期降序索引與 known-repos 更新；無新增概念頁。
 - Treg README 與 LICENSE 的對外服務限制描述不一致，頁面已標示以 LICENSE 正文為準。
+
+
+## 2026-09-26 每日熱門專案收錄
+
+- ingest [[kelseyhightower-kubernetes-the-hard-way]] — 📖 學習資源；README／metadata 快照、專案頁、概念 backlinks、索引與 known-repos 更新。
+- ingest [[openbao-openbao]] — 🏗 基礎設施；README／metadata 快照、專案頁、概念 backlinks、索引與 known-repos 更新。
+- ingest [[shy3130-tick-stock-panel]] — 📊 應用；README／metadata 快照、專案頁、概念 backlinks、索引與 known-repos 更新。
+- ingest [[derv82-wifit3]] — 🏗 基礎設施；README／metadata 快照、專案頁、概念 backlinks、索引與 known-repos 更新。
+- ingest [[androoAGI-starnet]] — 🤖 Agent 框架與工具；README／metadata 快照、專案頁、概念 backlinks、索引與 known-repos 更新。
+
+- 本批皆為專案頁；沒有新增概念頁。Trending 候選含一般基礎設施與安全工具，頁面明確區分非 LLM 定位。

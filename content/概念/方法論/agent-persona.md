@@ -2,7 +2,7 @@
 title: AI Agent 人格與角色設計
 slug: agent-persona
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Agent 的進化分三個層次：工具（你下指令，AI 執行）→ 助理�
 - **避免的陷阱** — Persona 太泛等於沒有 Persona（「你是一個有用的助手」）；Persona 不一致導致 Agent 行為不可預測
 
 ## 各框架的做法
+
+- **StarNet** → 以太空站映射真實 runtime、能力邊界和多 Agent 交接的 local-first Harness。 詳見 [[androoAGI-starnet]]。
 
 - **OpenClaw** → SOUL.md 實作 Persona（身分、個性、價值觀），搭配 SKILL.md 和 AGENTS.md
   👉 詳見 [[openclaw]]

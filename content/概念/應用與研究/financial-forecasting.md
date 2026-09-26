@@ -2,7 +2,7 @@
 title: 金融預測
 slug: financial-forecasting
 created: 2026-05-11
-updated: 2026-09-24
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **多時間尺度** — 從毫秒級高頻交易到季度級資產配置
 
 ## 各框架的做法
+
+- **TSP（tick-stock-panel）** → A 股選股、監控和回測共用資料口徑，LLM 只讀取數；不等同台股或自動交易。 詳見 [[shy3130-tick-stock-panel]]。
 
 - **PanWatch** → 多市場盯盤與 TradingAgents 投研整合；分析結論需核對行情、成本與風險，README 未列台股支援。詳見 [[TNT-Likely-PanWatch]]。
 

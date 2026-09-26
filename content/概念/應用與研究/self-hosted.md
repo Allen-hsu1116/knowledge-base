@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-20
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -30,6 +30,12 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **TSP（tick-stock-panel）** → A 股選股、監控和回測共用資料口徑，LLM 只讀取數；不等同台股或自動交易。 詳見 [[shy3130-tick-stock-panel]]。
+
+- **OpenBao** → 集中保管 secrets 並管理動態憑證生命週期，與模型或 Agent runtime 分工。 詳見 [[openbao-openbao]]。
+
+- **Kubernetes The Hard Way** → 手動建置 Kubernetes 的學習教材；非生產部署方案，也不是 LLM runtime。 詳見 [[kelseyhightower-kubernetes-the-hard-way]]。
 
 - **FxEmbed** → Docker 內以 Wrangler 執行 Cloudflare Worker，依 Host header 選擇 realm；改動建置期設定後需重建。詳見 [[FxEmbed-FxEmbed]]。
 

@@ -2,7 +2,7 @@
 title: 股市追蹤
 slug: stock-tracking
 created: 2026-05-27
-updated: 2026-09-07
+updated: 2026-09-26
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **AI 解讀** — LLM 自動解讀市場動態，生成自然語言分析報告
 
 ## 各框架的做法
+
+- **TSP（tick-stock-panel）** → A 股選股、監控和回測共用資料口徑，LLM 只讀取數；不等同台股或自動交易。 詳見 [[shy3130-tick-stock-panel]]。
 
 - **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化
   👉 詳見 [[Rockyzsu-stock]]
