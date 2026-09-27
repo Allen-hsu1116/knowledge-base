@@ -279,7 +279,6 @@ updated: 2026-09-27
 | [[calesthio-OpenMontage\|OpenMontage]] | ⭐12.1k | Agentic 影片製作, 12 管線, 52 工具, 500+ Agent Skills, Remotion, 多供應商 | 2026-06-23 |
 | [[palmier-io-palmier-pro\|Palmier Pro]] | ⭐7.4k | macOS AI 影片編輯器, Swift 原生, MCP, 時間軸內生成式 AI | 2026-06-23 |
 | [[jamiepine-voicebox\|Voicebox]] | ⭐31021 | AI 語音工作室, 7 TTS 引擎, 語音克隆, 聽寫, MCP, Whisper STT | 2026-06-21 |
-| [[opendataloader-project-opendataloader-pdf\|opendataloader-pdf]] | ⭐25475 | PDF Parsing, RAG, Document Extraction, PDF/UA, OCR | 2026-06-20 |
 | [[Lightricks-LTX-2\|LTX-2]] | ⭐7672 | DiT 音影片生成, 22B, 10 種管線, LoRA 訓練, ComfyUI | 2026-06-20 |
 | [[OpenBMB-VoxCPM\|VoxCPM]] | ⭐31007 | TTS, Tokenizer-Free, Voice Design, 語音克隆, 30 語言, 48kHz, Diffusion AR | 2026-06-20 |
 | [[shuvonsec-claude-bug-bounty\|BugHunter]] | ⭐2757 | Bug Bounty, AI 獵蟲, 滲透測試, Claude Code, 免費離線 | 2026-06-13 |

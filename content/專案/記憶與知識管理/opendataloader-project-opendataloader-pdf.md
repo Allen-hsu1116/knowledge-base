@@ -121,7 +121,7 @@ opendataloader_pdf.convert(
 
 > [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-04）；原欄位 2026-06-20 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
 
-> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-20）；原欄位 2026-06-04 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+> 索引原先重複列入 2026-06-04 與 2026-06-20 兩批；保留最早收錄條目（亦有 2026-06-04 raw 快照），移除較晚重複條目。
 
 ## 來源
 
@@ -136,4 +136,4 @@ opendataloader_pdf.convert(
 | GitHub | https://github.com/opendataloader-project/opendataloader-pdf |
 | Stars | ⭐25475|
 | License | Apache-2.0 |
-| 收錄日期 | 2026-06-20 |
+| 收錄日期 | 2026-06-04 |
