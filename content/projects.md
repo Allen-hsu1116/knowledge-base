@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # 專案索引
@@ -205,6 +205,7 @@ updated: 2026-09-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tensorflow-tensorflow\|TensorFlow]] | ⭐200,458 | 通用機器學習框架、Python／C++ API、模型開發與部署；非專用聊天服務 | 2026-09-27 |
 | [[leejet-stable-diffusion.cpp\|stable-diffusion.cpp]] | ⭐7,244 | C/C++、ggml、圖像與影片擴散模型、本地推論 | 2026-09-25 |
 | [[higgsfield-ai-higgsfield\|Higgsfield（分散式訓練框架）]] | ⭐4,957 | 透過 GPU 資源編排與 GitHub 工作流管理大型模型訓練實驗。 | 2026-09-20 |
 | [[JustVugg-colibri\|Colibrì]] | ⭐27,465 | 以 VRAM、RAM、NVMe 分層與專家串流執行大型 MoE 的 C 推論引擎 | 2026-09-11 |
@@ -510,6 +511,9 @@ updated: 2026-09-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-vscode\|Visual Studio Code / Code - OSS]] | ⭐193,074 | 編輯器、擴充模型、開發容器；原始碼與產品授權分離 | 2026-09-27 |
+| [[llvm-llvm-project\|LLVM Project]] | ⭐40,750 | 編譯器、IR、Clang、LLD 與可重用工具鏈 | 2026-09-27 |
+| [[actions-runner-images\|GitHub Actions Runner Images]] | ⭐13,300 | CI 虛擬機映像、預裝軟體、OS 標籤與版本漂移 | 2026-09-27 |
 | [[derv82-wifit3\|wifit3]] | ⭐922 | 以使用者空間 USB mini-drivers 實作跨平台 Wi-Fi 授權稽核。 | 2026-09-26 |
 | [[openbao-openbao\|OpenBao]] | ⭐7,731 | 以開放治理維護的 secrets、憑證與金鑰管理系統。 | 2026-09-26 |
 | [[superdesigndev-treg\|Treg]] | ⭐2,222 | 工具 registry、憑證代理、MCP、按次計費；附加授權限制 | 2026-09-23 |

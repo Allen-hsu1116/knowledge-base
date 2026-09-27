@@ -1927,3 +1927,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[androoAGI-starnet]] — 🤖 Agent 框架與工具；README／metadata 快照、專案頁、概念 backlinks、索引與 known-repos 更新。
 
 - 本批皆為專案頁；沒有新增概念頁。Trending 候選含一般基礎設施與安全工具，頁面明確區分非 LLM 定位。
+
+## [2026-09-27] ingest | 每日熱門專案
+
+- 新增 [[tensorflow-tensorflow]]：模型推論與部署。
+- 新增 [[microsoft-vscode]]、[[llvm-llvm-project]]、[[actions-runner-images]]：基礎設施。
+- 搜尋回傳五個候選，[[zhaoxuya520-reverse-skill]] 已於 2026-08-01 收錄；保留既有頁面並補回 known-repos 去重鍵，不計為新增。
+- 保存五份 README 與 metadata 快照；四個新專案頁完成模板、概念 backlinks、日期降序索引與 known-repos 更新；無新增概念頁。
+- LLVM 授權以 LICENSE.TXT 核對；VS Code 區分 MIT 原始碼與產品發行授權；一般基礎設施未冒稱 LLM 專用工具。

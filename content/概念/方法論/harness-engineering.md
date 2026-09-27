@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-09-26
+updated: 2026-09-27
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - **AutoDream** — Agent 空閒時整理記憶的功能，類似睡眠，讓 Lifelong Agent 保持記憶連續性
 
 ## 各框架的做法
+
+- **Runner Images** → 提供 CI VM 的環境定義與軟體清單，支援 Harness 驗證環境的溯源；不取代 Agent 權限、任務 loop 或沙箱設計。詳見 [[actions-runner-images]]。
 
 - **StarNet** → 以太空站映射真實 runtime、能力邊界和多 Agent 交接的 local-first Harness。 詳見 [[androoAGI-starnet]]。
 

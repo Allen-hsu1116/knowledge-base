@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-22
+updated: 2026-09-27
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Code - OSS／VS Code** → 編輯器與擴充宿主，可配合 Coding Agent；MIT 原始碼與 Microsoft 發行版授權須分辨。詳見 [[microsoft-vscode]]。
+- **LLVM Project** → Agent 可使用的原生編譯工具鏈，與生成程式碼的模型／CLI 本身不同。詳見 [[llvm-llvm-project]]。
+- **Runner Images** → 核對 CI 映像及預裝工具；固定 OS 標籤仍需另外管理依賴版本。詳見 [[actions-runner-images]]。
 
 - **Codex-X** → 以桌面介面管理 Codex Provider、提示詞與會話，不取代底層 CLI 執行引擎。 詳見 [[yynxxxxx-Codex-X]]。
 
