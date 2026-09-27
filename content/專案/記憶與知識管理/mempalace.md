@@ -2,7 +2,7 @@
 title: MemPalace
 slug: mempalace
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 50,787
 language: zh-TW
 topics: [AI Agent, MCP, 記憶, RAG, 知識圖譜]
@@ -174,6 +174,8 @@ MemPalace 的宮殿結構（Wings → Rooms → Drawers）跟 [[llm-knowledge-ba
 
 ← [[llm-knowledge-base]] · [[project-golem]] · [[hermes-agent]] · [[agent-persona]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-03）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/MemPalace/mempalace)
@@ -187,4 +189,4 @@ MemPalace 的宮殿結構（Wings → Rooms → Drawers）跟 [[llm-knowledge-ba
 | GitHub | https://github.com/MemPalace/mempalace |
 | Stars | ⭐50787|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-03 |

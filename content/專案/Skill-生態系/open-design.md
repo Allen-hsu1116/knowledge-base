@@ -2,7 +2,7 @@
 title: Open Design
 slug: open-design
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 30,632
 language: zh-TW
 topics: [AI Skills, Coding Agent CLI, Prompt Engineering]
@@ -81,6 +81,8 @@ OD 站在四個開源專案的肩膀上：
 
 ← [[AI-Skills]] · [[Coding-Agent-CLI]] · [[MCP]] · [[Prompt-Engineering]] · [[AI-Agent]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-07）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/nexu-io/open-design)
@@ -93,4 +95,4 @@ OD 站在四個開源專案的肩膀上：
 | GitHub | https://github.com/nexu-io/open-design |
 | Stars | ⭐30632|
 | License | Apache-2.0 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-07 |

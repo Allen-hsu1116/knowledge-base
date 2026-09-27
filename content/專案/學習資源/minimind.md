@@ -2,7 +2,7 @@
 title: MiniMind
 slug: minimind
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 49,797
 language: zh-TW
 topics: [LLM, 從零訓練, 教學]
@@ -77,6 +77,8 @@ MiniMind 和 LLMs from Scratch 都主打「從零理解 LLM」，但 MiniMind �
 
 ← [[LLM]] · [[llm-internals]] · [[模型推論與部署]] · [[rasbt-LLMs-from-scratch]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-14）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/jingyaogong/minimind)
@@ -89,4 +91,4 @@ MiniMind 和 LLMs from Scratch 都主打「從零理解 LLM」，但 MiniMind �
 | GitHub | https://github.com/jingyaogong/minimind |
 | Stars | ⭐49797|
 | License | Apache 2.0 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-14 |

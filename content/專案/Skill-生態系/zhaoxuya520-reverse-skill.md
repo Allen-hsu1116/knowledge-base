@@ -2,7 +2,7 @@
 title: reverse-skill
 slug: zhaoxuya520-reverse-skill
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-09-27
 stars: 10.8k
 language: PowerShell
 topics: ["cybersecurity", "reverse-engineering", "ai-skills", "pentesting", "ctf", "llm-security"]
@@ -93,8 +93,12 @@ reverse-skill 的獨特定位是「路由器」而非「執行者」——它不
 
 ## 來源
 
+- raw/2026-09-27-zhaoxuya520-reverse-skill.md
+- raw/2026-09-27-zhaoxuya520-reverse-skill.metadata.json
+
 - [GitHub: zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - raw/2026-08-01-reverse-skill.md
+- 2026-09-27 快照補充：路由核心與 client adapter 分離；README 的 Current status 與 Key files 對規則／測試數有不同數字，因此不將其中任何一組當成確定總數。新素材已整合於既有頁，不另建重複專案。
 
 ---
 

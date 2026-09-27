@@ -2,7 +2,7 @@
 title: Everything Claude Code (ECC)
 slug: affaan-m-everything-claude-code
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 172,098
 language: zh-TW
 topics: [AI Agent, AI Skills, Prompt Security, Token Optimization]
@@ -88,6 +88,8 @@ npx ecc-dashboard
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[Prompt-Engineering]] · [[prompt-security]] · [[Token-Optimization]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-03）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/affaan-m/everything-claude-code)
@@ -100,4 +102,4 @@ npx ecc-dashboard
 | GitHub | https://github.com/affaan-m/everything-claude-code |
 | Stars | ⭐172098|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-03 |

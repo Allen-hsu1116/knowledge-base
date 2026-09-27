@@ -2,7 +2,7 @@
 title: code-review-graph
 slug: tirth8205-code-review-graph
 created: 2026-02-26
-updated: 2026-02-26
+updated: 2026-09-27
 stars: 15,581
 language: zh-TW
 topics: [Knowledge Graph, Token Optimization, MCP]
@@ -104,6 +104,8 @@ code-review-graph 跟 [[cocoindex]] 都是增量式系統，但場景完全不�
 
 ← [[Knowledge-Graph]] · [[Token-Optimization]] · [[MCP]] · [[cocoindex]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-07）；原欄位 2026-02-26、2026-05-07 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-07-tirth8205-code-review-graph.md)
@@ -116,4 +118,4 @@ code-review-graph 跟 [[cocoindex]] 都是增量式系統，但場景完全不�
 | GitHub | https://github.com/tirth8205/code-review-graph |
 | Stars | ⭐15581 |
 | License | 未標示 |
-| 收錄日期 | 2026-02-26 |
+| 收錄日期 | 2026-05-07 |

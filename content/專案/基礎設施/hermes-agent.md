@@ -2,7 +2,7 @@
 title: Hermes Agent
 slug: hermes-agent
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 154,414
 language: zh-TW
 topics: [AI Agent, 學習閉環, 跨 session 記憶]
@@ -84,6 +84,8 @@ Hermes 相容 [[AI-Skills]] 的 agentskills.io 開放標準，跟 [[addyosmani-a
 
 ← [[AI-Skills]] · [[project-golem]] · [[mempalace]] · [[AI-Agent]] · [[nesquena-hermes-webui]] · [[agent-persona]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-02）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/nousresearch/hermes-agent)
@@ -96,4 +98,4 @@ Hermes 相容 [[AI-Skills]] 的 agentskills.io 開放標準，跟 [[addyosmani-a
 | GitHub | https://github.com/nousresearch/hermes-agent |
 | Stars | ⭐154414|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-02 |

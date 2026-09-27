@@ -2,7 +2,7 @@
 title: Prompt Engineering Guide
 slug: dair-ai-Prompt-Engineering-Guide
 created: 2022-12-16
-updated: 2026-09-04
+updated: 2026-09-27
 stars: 75657
 language: MDX
 topics: [prompt-engineering, rag, ai-agents, llms, generative-ai, deep-learning, language-model, chatgpt, openai]
@@ -65,6 +65,8 @@ pnpm dev
 
 ← [[Prompt-Engineering]] · [[rag]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-16）；原欄位 2022-12-16 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/dair-ai/Prompt-Engineering-Guide
@@ -79,4 +81,4 @@ pnpm dev
 | GitHub | https://github.com/dair-ai/Prompt-Engineering-Guide |
 | Stars | ⭐75657|
 | License | MIT |
-| 收錄日期 | 2022-12-16 |
+| 收錄日期 | 2026-06-16 |

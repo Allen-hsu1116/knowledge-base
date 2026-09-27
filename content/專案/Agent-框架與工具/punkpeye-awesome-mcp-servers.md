@@ -2,7 +2,7 @@
 title: Awesome MCP Servers
 slug: punkpeye-awesome-mcp-servers
 created: 2024-11-30
-updated: 2026-06-15
+updated: 2026-09-27
 stars: 89151
 language: Curated List
 topics: [ai, mcp, awesome-list, mcp-servers]
@@ -70,6 +70,8 @@ git clone https://github.com/punkpeye/awesome-mcp-servers.git
 
 ← [[MCP]] · [[AI-Skills]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-15）；原欄位 2024-11-30 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/punkpeye/awesome-mcp-servers
@@ -83,4 +85,4 @@ git clone https://github.com/punkpeye/awesome-mcp-servers.git
 | GitHub | https://github.com/punkpeye/awesome-mcp-servers |
 | Stars | ⭐89151|
 | License | MIT |
-| 收錄日期 | 2024-11-30 |
+| 收錄日期 | 2026-06-15 |

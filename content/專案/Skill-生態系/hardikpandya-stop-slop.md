@@ -2,7 +2,7 @@
 title: Stop Slop
 slug: hardikpandya-stop-slop
 created: 2026-01-11
-updated: 2026-05-28
+updated: 2026-09-27
 stars: 5700
 language: Markdown
 topics: [AI Skills, Prompt Engineering, 寫作品質]
@@ -69,6 +69,8 @@ cd stop-slop
 
 ← [[Prompt-Engineering]] · [[AI-Skills]] · [[AI-Skills]] · [[LLM]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-28）；原欄位 2026-01-11 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/hardikpandya/stop-slop>
@@ -81,4 +83,4 @@ cd stop-slop
 | GitHub | https://github.com/hardikpandya/stop-slop |
 | Stars | ⭐5700|
 | License | 未標示 |
-| 收錄日期 | 2026-01-11 |
+| 收錄日期 | 2026-05-28 |

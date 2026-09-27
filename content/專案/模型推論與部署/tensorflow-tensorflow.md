@@ -2,7 +2,7 @@
 title: "TensorFlow"
 slug: "tensorflow-tensorflow"
 created: "2026-09-27"
-updated: "2026-09-27"
+updated: 2026-09-27
 stars: 200458
 language: "C++"
 topics: ["deep-learning", "deep-neural-networks", "distributed", "machine-learning", "ml", "neural-network", "python", "tensorflow"]
@@ -79,6 +79,8 @@ python -c "import tensorflow as tf; print(tf.constant('Hello, TensorFlow!').nump
 ← [[模型推論與部署]] · [[llm-internals]]
 
 ## 來源
+
+- raw/2026-09-27-tensorflow-tensorflow.metadata.json
 
 - GitHub：https://github.com/tensorflow/tensorflow
 - README：https://github.com/tensorflow/tensorflow/blob/master/README.md

@@ -2,7 +2,7 @@
 title: AIRI
 slug: moeru-ai-airi
 created: 2024-12-01
-updated: 2026-05-26
+updated: 2026-09-27
 stars: 39726
 language: TypeScript
 topics: [AI Agent, 自架平台, Computer-Use]
@@ -63,6 +63,8 @@ pnpm dev
 
 ← [[AI-Agent]] · [[self-hosted]] · [[computer-use-agent]] · [[generative-AI]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-26）；原欄位 2024-12-01 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/moeru-ai/airi>
@@ -76,4 +78,4 @@ pnpm dev
 | GitHub | https://github.com/moeru-ai/airi |
 | Stars | ⭐39726|
 | License | 未標示 |
-| 收錄日期 | 2024-12-01 |
+| 收錄日期 | 2026-05-26 |

@@ -2,7 +2,7 @@
 title: Codex Plugin for Claude Code
 slug: openai-codex-plugin-cc
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 17,527
 language: zh-TW
 topics: [AI Agent, AI Skills, Coding Agent CLI]
@@ -89,6 +89,8 @@ codex-plugin-cc 是 OpenAI 官方的 Claude Code 插件，讓你在 Claude Code 
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[Coding-Agent-CLI]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-05）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/openai/codex-plugin-cc)
@@ -101,4 +103,4 @@ codex-plugin-cc 是 OpenAI 官方的 Claude Code 插件，讓你在 Claude Code 
 | GitHub | https://github.com/openai/codex-plugin-cc |
 | Stars | ⭐17527|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-05 |

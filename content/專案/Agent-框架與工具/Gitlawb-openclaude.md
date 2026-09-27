@@ -2,7 +2,7 @@
 title: OpenClaude
 slug: Gitlawb-openclaude
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 25,668
 language: zh-TW
 topics: [Coding Agent CLI, AI Agent, MCP]
@@ -103,6 +103,8 @@ OpenClaude 是 [[Coding-Agent-CLI]] 的開源實作，多模型路由是 [[AI-Ag
 
 ← [[Coding-Agent-CLI]] · [[AI-Agent]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-04）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/Gitlawb/openclaude)
@@ -115,4 +117,4 @@ OpenClaude 是 [[Coding-Agent-CLI]] 的開源實作，多模型路由是 [[AI-Ag
 | GitHub | https://github.com/Gitlawb/openclaude |
 | Stars | ⭐25668|
 | License | MIT |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-04 |

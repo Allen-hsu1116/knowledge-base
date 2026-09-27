@@ -2,7 +2,7 @@
 title: "Visual Studio Code / Code - OSS"
 slug: "microsoft-vscode"
 created: "2026-09-27"
-updated: "2026-09-27"
+updated: 2026-09-27
 stars: 193074
 language: "TypeScript"
 topics: ["editor", "electron", "microsoft", "typescript", "visual-studio-code"]
@@ -80,6 +80,8 @@ code .
 ← [[Coding-Agent-CLI]] · [[AI-Agent]]
 
 ## 來源
+
+- raw/2026-09-27-microsoft-vscode.metadata.json
 
 - GitHub：https://github.com/microsoft/vscode
 - README：https://github.com/microsoft/vscode/blob/main/README.md

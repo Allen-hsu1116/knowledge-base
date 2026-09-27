@@ -2,7 +2,7 @@
 title: Penpot
 slug: penpot-penpot
 created: 2015-12-29
-updated: 2026-06-18
+updated: 2026-09-27
 stars: 50086
 language: Clojure
 topics: [design, open-source, mcp, self-hosted, design-tokens, svg, css, collaboration]
@@ -70,6 +70,8 @@ docker run -d \
 
 ← [[nexu-io-open-design]] · [[Figma-Skills]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-18）；原欄位 2015-12-29 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/penpot/penpot
@@ -84,4 +86,4 @@ docker run -d \
 | GitHub | https://github.com/penpot/penpot |
 | Stars | ⭐50086|
 | License | MPL-2.0 |
-| 收錄日期 | 2015-12-29 |
+| 收錄日期 | 2026-06-18 |

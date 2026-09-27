@@ -2,7 +2,7 @@
 title: OpenCode
 slug: anomalyco-opencode
 created: 2025-04-30
-updated: 2026-06-14
+updated: 2026-09-27
 stars: 174051
 language: TypeScript
 topics: [Coding Agent CLI, AI Agent, MCP, 子Agent, 工作樹平行]
@@ -76,6 +76,8 @@ brew install --cask opencode-desktop
 
 ← [[Coding-Agent-CLI]] · [[AI-Skills]] · [[pingdotgg-t3code]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-14）；原欄位 2025-04-30 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -89,4 +91,4 @@ brew install --cask opencode-desktop
 | GitHub | https://github.com/anomalyco/opencode |
 | Stars | ⭐174051|
 | License | MIT |
-| 收錄日期 | 2025-04-30 |
+| 收錄日期 | 2026-06-14 |

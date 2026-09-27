@@ -2,7 +2,7 @@
 title: Langfuse
 slug: langfuse-langfuse
 created: 2023-05-18
-updated: 2026-06-17
+updated: 2026-09-27
 stars: 29216
 language: TypeScript
 topics: [evaluation, langchain, llm, llm-evaluation, llm-observability, llmops, monitoring, observability, prompt-engineering, prompt-management, self-hosted]
@@ -78,6 +78,8 @@ result = story()
 
 ← [[Prompt-Engineering]] · [[LLM]] · [[promptfoo-promptfoo]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-17）；原欄位 2023-05-18 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/langfuse/langfuse
@@ -92,4 +94,4 @@ result = story()
 | GitHub | https://github.com/langfuse/langfuse |
 | Stars | ⭐29216|
 | License | MIT (EE 目錄另授權) |
-| 收錄日期 | 2023-05-18 |
+| 收錄日期 | 2026-06-17 |

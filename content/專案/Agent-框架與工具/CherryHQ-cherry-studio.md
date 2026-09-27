@@ -2,7 +2,7 @@
 title: Cherry Studio
 slug: CherryHQ-cherry-studio
 created: 2024-05-24
-updated: 2026-06-15
+updated: 2026-09-27
 stars: 47327
 language: TypeScript
 topics: [ai-agent, agent-skills, claude-code, codex, deepseek, hermes-agent, openclaw, skills, vibe-coding]
@@ -68,6 +68,8 @@ docker run -d -p 8080:8080 cherryhq/cherry-studio
 
 ← [[open-webui-open-webui]] · [[langgenius-dify]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-15）；原欄位 2024-05-24 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/CherryHQ/cherry-studio
@@ -81,4 +83,4 @@ docker run -d -p 8080:8080 cherryhq/cherry-studio
 | GitHub | https://github.com/CherryHQ/cherry-studio |
 | Stars | ⭐47327|
 | License | AGPL-3.0 |
-| 收錄日期 | 2024-05-24 |
+| 收錄日期 | 2026-06-15 |

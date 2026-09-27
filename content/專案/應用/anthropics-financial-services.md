@@ -2,7 +2,7 @@
 title: Anthropic Financial Services
 slug: anthropics-financial-services
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 18,951
 language: zh-TW
 topics: [AI Agent, AI Skills, MCP, 金融服務]
@@ -115,6 +115,8 @@ python3 scripts/check.py
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[virattt-dexter]] · [[HKUDS-Vibe-Trading]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-11）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/anthropics/financial-services)
@@ -127,4 +129,4 @@ python3 scripts/check.py
 | GitHub | https://github.com/anthropics/financial-services |
 | Stars | ⭐18951|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-11 |

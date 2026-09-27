@@ -2,7 +2,7 @@
 title: Awesome DESIGN.md
 slug: VoltAgent-awesome-design-md
 created: 2026-07-10
-updated: 2026-08-09
+updated: 2026-09-27
 stars: 107397
 language: Markdown
 topics: ["awesome-list", "design-md", "design-system", "design-tokens", "figma", "google-stitch", "vibe-coding", "vibe-design", "retro-web"]
@@ -72,6 +72,8 @@ DESIGN.md 與 [[frontend-design|前端設計]] 概念高度相關——它是將
 
 ← [[frontend-design]] · [[Coding-Agent-CLI]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-08-09）；原欄位 2026-07-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: https://github.com/VoltAgent/awesome-design-md
@@ -86,4 +88,4 @@ DESIGN.md 與 [[frontend-design|前端設計]] 概念高度相關——它是將
 | GitHub | https://github.com/VoltAgent/awesome-design-md |
 | Stars | ⭐107397|
 | License | MIT |
-| 收錄日期 | 2026-07-10 |
+| 收錄日期 | 2026-08-09 |

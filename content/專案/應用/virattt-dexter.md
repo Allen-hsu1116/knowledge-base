@@ -2,7 +2,7 @@
 title: Dexter
 slug: virattt-dexter
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 23,560
 language: zh-TW
 topics: [LLM, AI Agent, 金融研究]
@@ -87,6 +87,8 @@ print(report.reasoning_trace)  # 完整推理過程
 
 ← [[LLM]] · [[AI-Agent]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-05）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/virattt/dexter)
@@ -99,4 +101,4 @@ print(report.reasoning_trace)  # 完整推理過程
 | GitHub | https://github.com/virattt/dexter |
 | Stars | ⭐23560|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-05 |

@@ -2,7 +2,7 @@
 title: Google Workspace CLI (gws)
 slug: googleworkspace-cli
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 25,672
 language: zh-TW
 topics: [AI Agent, MCP, AI Skills]
@@ -93,6 +93,8 @@ gws 是 [[AI-Agent]] 操作 Workspace 的工具層，40+ Agent Skills 可透過 
 
 ← [[AI-Agent]] · [[MCP]] · [[AI-Skills]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-03）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/googleworkspace/cli)
@@ -105,4 +107,4 @@ gws 是 [[AI-Agent]] 操作 Workspace 的工具層，40+ Agent Skills 可透過 
 | GitHub | https://github.com/googleworkspace/cli |
 | Stars | ⭐25672|
 | License | Apache 2.0 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-03 |

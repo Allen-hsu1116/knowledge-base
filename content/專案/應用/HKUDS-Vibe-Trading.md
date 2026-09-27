@@ -2,7 +2,7 @@
 title: Vibe-Trading
 slug: HKUDS-Vibe-Trading
 created: 2026-05-06
-updated: 2026-08-09
+updated: 2026-09-27
 stars: 30429
 language: zh-TW
 topics: [AI Agent, AI Skills, MCP, 金融交易, 回測, 量化交易, Shadow Account, Alpha Zoo]
@@ -78,6 +78,8 @@ docker run -p 8000:8000 hkuds/vibe-trading
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[virattt-dexter]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-08-09）；原欄位 2026-05-06 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/HKUDS/Vibe-Trading)
@@ -91,4 +93,4 @@ docker run -p 8000:8000 hkuds/vibe-trading
 | GitHub | https://github.com/HKUDS/Vibe-Trading |
 | Stars | ⭐30429|
 | License | MIT |
-| 收錄日期 | 2026-05-06 |
+| 收錄日期 | 2026-08-09 |

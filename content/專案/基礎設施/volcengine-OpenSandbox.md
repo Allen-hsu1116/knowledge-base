@@ -2,7 +2,7 @@
 title: OpenSandbox
 slug: volcengine-OpenSandbox
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 10,400
 language: zh-TW
 topics: [AI Agent, MCP, Context Database]
@@ -117,6 +117,8 @@ async def main():
 
 ← [[AI-Agent]] · [[MCP]] · [[Context-Database]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-05）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/alibaba/OpenSandbox)
@@ -129,4 +131,4 @@ async def main():
 | GitHub | https://github.com/alibaba/OpenSandbox |
 | Stars | ⭐10400|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-05 |

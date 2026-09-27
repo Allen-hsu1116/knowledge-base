@@ -2,7 +2,7 @@
 title: English Level Up Tips
 slug: byoungd-English-level-up-tips
 created: 2017-05-30
-updated: 2026-05-28
+updated: 2026-09-27
 stars: 46667
 language: Markdown
 topics: [AI Tutoring, 學習指南, 英語]
@@ -65,6 +65,8 @@ cd English-level-up-tips
 
 ← [[AI-Tutoring]] · [[Prompt-Engineering]] · [[self-education]] · [[LLM]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-28）；原欄位 2017-05-30 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/byoungd/English-level-up-tips>
@@ -77,4 +79,4 @@ cd English-level-up-tips
 | GitHub | https://github.com/byoungd/English-level-up-tips |
 | Stars | ⭐46667|
 | License | 未標示 |
-| 收錄日期 | 2017-05-30 |
+| 收錄日期 | 2026-05-28 |

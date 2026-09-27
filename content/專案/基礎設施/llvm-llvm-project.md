@@ -2,7 +2,7 @@
 title: "LLVM Project"
 slug: "llvm-llvm-project"
 created: "2026-09-27"
-updated: "2026-09-27"
+updated: 2026-09-27
 stars: 40750
 language: "LLVM"
 topics: ["llm-internals", "Coding-Agent-CLI"]
@@ -84,6 +84,8 @@ GitHub 主要語言欄位顯示 LLVM 是統計標籤，不代表所有實作檔�
 ← [[llm-internals]] · [[Coding-Agent-CLI]]
 
 ## 來源
+
+- raw/2026-09-27-llvm-llvm-project.metadata.json
 
 - GitHub：https://github.com/llvm/llvm-project
 - README：https://github.com/llvm/llvm-project/blob/main/README.md

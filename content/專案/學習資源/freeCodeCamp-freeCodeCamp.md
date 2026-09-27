@@ -2,7 +2,7 @@
 title: freeCodeCamp
 slug: freeCodeCamp-freeCodeCamp
 created: 2014-12-24
-updated: 2026-06-18
+updated: 2026-09-27
 stars: 449140
 language: TypeScript
 topics: [education, coding, machine-learning, full-stack, self-education, open-source]
@@ -66,6 +66,8 @@ npm run develop
 
 ← [[self-education]] · [[krahets-hello-algo]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-18）；原欄位 2014-12-24 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/freeCodeCamp/freeCodeCamp
@@ -80,4 +82,4 @@ npm run develop
 | GitHub | https://github.com/freeCodeCamp/freeCodeCamp |
 | Stars | ⭐449140|
 | License | BSD-3-Clause（軟體）/ CC BY-SA 4.0（課程） |
-| 收錄日期 | 2014-12-24 |
+| 收錄日期 | 2026-06-18 |

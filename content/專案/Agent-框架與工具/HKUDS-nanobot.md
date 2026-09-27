@@ -2,7 +2,7 @@
 title: nanobot
 slug: HKUDS-nanobot
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 41,527
 language: zh-TW
 topics: [AI Agent, MCP]
@@ -84,6 +84,8 @@ nanobot 支援 [[MCP]] 工具整合，記憶系統可參考 [[Context-Database]]
 
 ← [[AI-Agent]] · [[MCP]] · [[openclaw]] · [[Context-Database]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-03）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/HKUDS/nanobot)
@@ -96,4 +98,4 @@ nanobot 支援 [[MCP]] 工具整合，記憶系統可參考 [[Context-Database]]
 | GitHub | https://github.com/HKUDS/nanobot |
 | Stars | ⭐41527|
 | License | MIT |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-03 |

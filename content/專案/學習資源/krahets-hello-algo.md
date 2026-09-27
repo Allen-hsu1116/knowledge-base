@@ -2,7 +2,7 @@
 title: Hello 算法
 slug: krahets-hello-algo
 created: 2022-11-04
-updated: 2026-06-18
+updated: 2026-09-27
 stars: 127446
 language: Java
 topics: [algorithm, data-structure, education, coding-interview, self-education]
@@ -66,6 +66,8 @@ python chapter_stack_queue/stack.py
 
 ← [[rasbt-LLMs-from-scratch]] · [[self-education]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-18）；原欄位 2022-11-04 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/krahets/hello-algo
@@ -79,4 +81,4 @@ python chapter_stack_queue/stack.py
 | GitHub | https://github.com/krahets/hello-algo |
 | Stars | ⭐127446|
 | License | CC BY-NC-SA 4.0 |
-| 收錄日期 | 2022-11-04 |
+| 收錄日期 | 2026-06-18 |

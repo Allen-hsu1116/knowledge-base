@@ -2,7 +2,7 @@
 title: Flowise
 slug: FlowiseAI-Flowise
 created: 2023-03-31
-updated: 2026-06-17
+updated: 2026-09-27
 stars: 53659
 language: TypeScript
 topics: [agentic-ai, agentic-workflow, agents, chatbot, langchain, large-language-models, low-code, no-code, rag, workflow-automation]
@@ -71,6 +71,8 @@ pnpm start
 
 ← [[rag]] · [[workflow-automation]] · [[n8n-io-n8n]] · [[langflow-ai-langflow]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-17）；原欄位 2023-03-31 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/FlowiseAI/Flowise
@@ -85,4 +87,4 @@ pnpm start
 | GitHub | https://github.com/FlowiseAI/Flowise |
 | Stars | ⭐53659|
 | License | 自訂授權（Flowise AI Inc.） |
-| 收錄日期 | 2023-03-31 |
+| 收錄日期 | 2026-06-17 |

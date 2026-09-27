@@ -2,7 +2,7 @@
 title: Camofox Browser
 slug: jo-inc-camofox-browser
 created: 2026-05-08
-updated: 2026-05-26
+updated: 2026-09-27
 stars: 5829
 language: JavaScript
 topics: [AI Agent, 瀏覽器自動化, 反偵測]
@@ -101,6 +101,8 @@ curl http://localhost:9377/openapi.json
 
 ← [[AI-Agent]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-26）；原欄位 2026-05-08 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/jo-inc/camofox-browser)
@@ -114,4 +116,4 @@ curl http://localhost:9377/openapi.json
 | GitHub | https://github.com/jo-inc/camofox-browser |
 | Stars | ⭐5829|
 | License | 未標示 |
-| 收錄日期 | 2026-05-08 |
+| 收錄日期 | 2026-05-26 |

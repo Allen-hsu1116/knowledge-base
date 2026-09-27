@@ -2,7 +2,7 @@
 title: Plane
 slug: makeplane-plane
 created: 2022-11-19
-updated: 2026-06-19
+updated: 2026-09-27
 stars: 51840
 language: TypeScript
 topics: [project-management, jira-alternative, kanban, open-source, docker, kubernetes]
@@ -71,6 +71,8 @@ Plane 與 [[twentyhq-twenty|Twenty]]（CRM）和 [[frappe-erpnext|ERPNext]]（ER
 
 ← [[twentyhq-twenty]] · [[frappe-erpnext]] · [[self-hosted]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-19）；原欄位 2022-11-19 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/makeplane/plane
@@ -86,4 +88,4 @@ Plane 與 [[twentyhq-twenty|Twenty]]（CRM）和 [[frappe-erpnext|ERPNext]]（ER
 | GitHub | https://github.com/makeplane/plane |
 | Stars | ⭐51840|
 | License | AGPL-3.0 |
-| 收錄日期 | 2022-11-19 |
+| 收錄日期 | 2026-06-19 |

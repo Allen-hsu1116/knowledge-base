@@ -7,7 +7,7 @@ created: 2026-01-23
 language: Python
 topics: [AI Skills, MCP, Prompt Engineering]
 date: 2026-05-26
-updated: 2026-01-23
+updated: 2026-09-27
 ---
 
 # Knowledge Work Plugins — Claude 角色專用插件集
@@ -71,6 +71,8 @@ cd knowledge-work-plugins
 
 ← [[AI-Skills]] · [[MCP]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-26）；原欄位 2026-01-23 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/anthropics/knowledge-work-plugins)
@@ -83,4 +85,4 @@ cd knowledge-work-plugins
 | GitHub | https://github.com/anthropics/knowledge-work-plugins |
 | Stars | ⭐15460|
 | License | 未標示 |
-| 收錄日期 | 2026-01-23 |
+| 收錄日期 | 2026-05-26 |

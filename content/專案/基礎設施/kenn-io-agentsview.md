@@ -2,7 +2,7 @@
 title: agentsview
 slug: kenn-io-agentsview
 created: 2026-02-19
-updated: 2026-06-14
+updated: 2026-09-27
 stars: 2363
 language: Go
 topics: [Coding Agent 分析, Session 智慧, 成本追蹤, 本地優先]
@@ -75,6 +75,8 @@ agentsview usage daily
 
 ← [[Coding-Agent-CLI]] · [[anomalyco-opencode]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-14）；原欄位 2026-02-19 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
@@ -88,4 +90,4 @@ agentsview usage daily
 | GitHub | https://github.com/kenn-io/agentsview |
 | Stars | ⭐2363|
 | License | MIT |
-| 收錄日期 | 2026-02-19 |
+| 收錄日期 | 2026-06-14 |

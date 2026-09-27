@@ -2,7 +2,7 @@
 title: Project Golem
 slug: project-golem
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 630
 language: zh-TW
 topics: [AI Agent, 記憶系統, MCP]
@@ -131,6 +131,8 @@ project-golem-plus/
 
 ← [[agent-persona]] · [[AI-Skills]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-02）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/Arvincreator/project-golem)
@@ -143,4 +145,4 @@ project-golem-plus/
 | GitHub | https://github.com/Arvincreator/project-golem |
 | Stars | ⭐630|
 | License | NOASSERTION |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-02 |

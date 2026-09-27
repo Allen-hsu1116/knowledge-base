@@ -2,7 +2,7 @@
 title: NVlabs Sana
 slug: NVlabs-Sana
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 6361
 language: zh-TW
 topics: [擴散模型, 影片生成, 世界模型]
@@ -101,6 +101,8 @@ Docker 快速部署（SGLang 服務）詳見 https://nvlabs.github.io/Sana/docs/
 
 ← [[模型推論與部署]] · [[AI-video-generation]] · [[generative-AI]] · [[sgl-project-sglang]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-19）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/NVlabs/Sana)
@@ -113,4 +115,4 @@ Docker 快速部署（SGLang 服務）詳見 https://nvlabs.github.io/Sana/docs/
 | GitHub | https://github.com/NVlabs/Sana |
 | Stars | ⭐6361|
 | License | Apache 2.0 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-19 |

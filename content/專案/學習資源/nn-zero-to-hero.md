@@ -2,7 +2,7 @@
 title: nn-zero-to-hero
 slug: nn-zero-to-hero
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 22,343
 language: zh-TW
 topics: [LLM, 神經網路, 教學]
@@ -65,6 +65,8 @@ jupyter notebook
 
 ← [[LLM]] · [[rasbt-LLMs-from-scratch]] · [[andrej-karpathy-ai-how]] · [[kv-cache]] · [[positional-embedding-evolution]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-23）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/karpathy/nn-zero-to-hero)
@@ -77,4 +79,4 @@ jupyter notebook
 | GitHub | https://github.com/karpathy/nn-zero-to-hero |
 | Stars | ⭐22343|
 | License | MIT |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-23 |

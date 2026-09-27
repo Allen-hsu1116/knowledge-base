@@ -2,7 +2,7 @@
 title: iii
 slug: iii-hq-iii
 created: 2025-01-02
-updated: 2026-05-28
+updated: 2026-09-27
 stars: 16876
 language: Rust
 topics: [工作流自動化, 後端平台, Agent 友善]
@@ -67,6 +67,8 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 
 ← [[workflow-automation]] · [[AI-Agent]] · [[czlonkowski-n8n-mcp]] · [[observability]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-28）；原欄位 2025-01-02 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/iii-hq/iii>
@@ -79,4 +81,4 @@ SDK 可用於 Node.js、Python、Rust，支援本機開發與雲端部署。引�
 | GitHub | https://github.com/iii-hq/iii |
 | Stars | ⭐16876|
 | License | Elastic-2.0 (engine) / Apache-2.0 (SDKs) |
-| 收錄日期 | 2025-01-02 |
+| 收錄日期 | 2026-05-28 |

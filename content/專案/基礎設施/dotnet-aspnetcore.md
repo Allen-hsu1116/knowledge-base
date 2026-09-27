@@ -2,7 +2,7 @@
 title: ASP.NET Core
 slug: dotnet-aspnetcore
 created: 2014-03-11
-updated: 2026-06-19
+updated: 2026-09-27
 stars: 38097
 language: C#
 topics: [aspnetcore, dotnet, web-framework, cross-platform, cloud-native]
@@ -81,6 +81,8 @@ ASP.NET Core 與 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] 和 [[krahets-hello-
 
 ← [[freeCodeCamp-freeCodeCamp]] · [[krahets-hello-algo]] · [[codecrafters-io-build-your-own-x]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-19）；原欄位 2014-03-11 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/dotnet/aspnetcore
@@ -96,4 +98,4 @@ ASP.NET Core 與 [[freeCodeCamp-freeCodeCamp|freeCodeCamp]] 和 [[krahets-hello-
 | GitHub | https://github.com/dotnet/aspnetcore |
 | Stars | ⭐38097|
 | License | MIT |
-| 收錄日期 | 2014-03-11 |
+| 收錄日期 | 2026-06-19 |

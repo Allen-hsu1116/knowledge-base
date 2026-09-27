@@ -2,7 +2,7 @@
 title: opendataloader-pdf
 slug: opendataloader-project-opendataloader-pdf
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-27
 stars: 25475
 language: Java
 topics:
@@ -118,6 +118,10 @@ opendataloader_pdf.convert(
 
 
 ← [[rag]] · [[AI-Agent]] · [[document-parsing]] · [[llama-index]]
+
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-04）；原欄位 2026-06-20 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-20）；原欄位 2026-06-04 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
 
 ## 來源
 

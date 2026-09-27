@@ -2,7 +2,7 @@
 title: Promptfoo
 slug: promptfoo-promptfoo
 created: 2023-04-28
-updated: 2026-09-20
+updated: 2026-09-27
 stars: 22198
 language: TypeScript
 topics: [llm, llm-eval, prompt-engineering, red-teaming, pentesting, vulnerability-scanners, rag, ci-cd]
@@ -81,6 +81,8 @@ promptfoo red-team --target openai:gpt-4
 
 ← [[Prompt-Engineering]] · [[prompt-security]] · [[NVIDIA-SkillSpector]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-15）；原欄位 2023-04-28 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/promptfoo/promptfoo
@@ -99,4 +101,4 @@ promptfoo red-team --target openai:gpt-4
 | GitHub | https://github.com/promptfoo/promptfoo |
 | Stars | ⭐22198|
 | License | MIT |
-| 收錄日期 | 2023-04-28 |
+| 收錄日期 | 2026-06-15 |

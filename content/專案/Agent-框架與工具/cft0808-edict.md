@@ -2,7 +2,7 @@
 title: Edict（三省六部）
 slug: cft0808-edict
 created: 2026-02-23
-updated: 2026-02-23
+updated: 2026-09-27
 stars: 15,781
 language: zh-TW
 topics: [AI Agent, AI Skills, MCP]
@@ -96,6 +96,8 @@ python3 dashboard/server.py
 
 ← [[AI-Agent]] · [[RightNow-AI-openfang]] · [[AI-Skills]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-07）；原欄位 2026-02-23、2026-05-07 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-07-cft0808-edict.md)
@@ -108,4 +110,4 @@ python3 dashboard/server.py
 | GitHub | https://github.com/cft0808/edict |
 | Stars | ⭐15781 |
 | License | 未標示 |
-| 收錄日期 | 2026-02-23 |
+| 收錄日期 | 2026-05-07 |

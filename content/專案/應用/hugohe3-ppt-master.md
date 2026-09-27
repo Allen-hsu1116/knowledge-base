@@ -2,7 +2,7 @@
 title: PPT Master
 slug: hugohe3-ppt-master
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 11,300
 language: zh-TW
 topics: [AI, PPT, 可編輯]
@@ -88,6 +88,8 @@ pm.export_mp4("output.mp4")
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[Prompt-Engineering]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-05）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/hugohe3/ppt-master)
@@ -100,4 +102,4 @@ pm.export_mp4("output.mp4")
 | GitHub | https://github.com/hugohe3/ppt-master |
 | Stars | ⭐11300|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-05 |

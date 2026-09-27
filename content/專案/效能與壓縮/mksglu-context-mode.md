@@ -2,7 +2,7 @@
 title: Context Mode
 slug: mksglu-context-mode
 created: 2026-02-23
-updated: 2026-06-14
+updated: 2026-09-27
 stars: 17358
 language: TypeScript
 topics: [Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台]
@@ -82,6 +82,8 @@ npm install -g context-mode
 
 ← [[context-engineering-basics]] · [[Token-Optimization]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-14）；原欄位 2026-02-23 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: [mksglu/context-mode](https://github.com/mksglu/context-mode)
@@ -94,4 +96,4 @@ npm install -g context-mode
 | GitHub | https://github.com/mksglu/context-mode |
 | Stars | ⭐17358|
 | License | ELv2 |
-| 收錄日期 | 2026-02-23 |
+| 收錄日期 | 2026-06-14 |

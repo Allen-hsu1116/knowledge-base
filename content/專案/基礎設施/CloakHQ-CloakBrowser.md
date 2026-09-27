@@ -2,7 +2,7 @@
 title: CloakBrowser
 slug: CloakHQ-CloakBrowser
 created: 2026-02-22
-updated: 2026-02-22
+updated: 2026-09-27
 stars: 28078
 language: zh-TW
 topics: [隱私, 瀏覽器, 反偵測]
@@ -121,6 +121,8 @@ await browser.close();
 
 ← [[網頁爬蟲]] · [[網頁爬蟲]] · [[KeygraphHQ-shannon]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-18）；原欄位 2026-02-22 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/CloakHQ/CloakBrowser)
@@ -133,4 +135,4 @@ await browser.close();
 | GitHub | https://github.com/CloakHQ/CloakBrowser |
 | Stars | ⭐28078|
 | License | 未標示 |
-| 收錄日期 | 2026-02-22 |
+| 收錄日期 | 2026-05-18 |

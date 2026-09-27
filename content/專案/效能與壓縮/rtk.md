@@ -2,7 +2,7 @@
 title: RTK (Rust Token Killer)
 slug: rtk
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 40,072
 language: zh-TW
 topics: [Token Optimization, Prompt Engineering]
@@ -110,6 +110,8 @@ rtk discover
 
 ← [[Token-Optimization]] · [[AI-Agent]] · [[LLM]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-03）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/rtk-ai/rtk)
@@ -122,4 +124,4 @@ rtk discover
 | GitHub | https://github.com/rtk-ai/rtk |
 | Stars | ⭐40072|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-03 |

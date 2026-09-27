@@ -2,7 +2,7 @@
 title: "GitHub Actions Runner Images"
 slug: "actions-runner-images"
 created: "2026-09-27"
-updated: "2026-09-27"
+updated: 2026-09-27
 stars: 13300
 language: "PowerShell"
 topics: ["Coding-Agent-CLI", "harness-engineering"]
@@ -79,6 +79,8 @@ README 的可用標籤與軟體清單會變動；本頁是收錄日快照，不�
 ← [[Coding-Agent-CLI]] · [[harness-engineering]]
 
 ## 來源
+
+- raw/2026-09-27-actions-runner-images.metadata.json
 
 - GitHub：https://github.com/actions/runner-images
 - README：https://github.com/actions/runner-images/blob/main/README.md

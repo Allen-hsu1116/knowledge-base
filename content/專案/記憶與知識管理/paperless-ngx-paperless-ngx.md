@@ -2,7 +2,7 @@
 title: Paperless-ngx
 slug: paperless-ngx-paperless-ngx
 created: 2022-02-12
-updated: 2026-05-26
+updated: 2026-09-27
 stars: 41336
 language: Python
 topics: [文件管理, OCR, 自架平台]
@@ -68,6 +68,8 @@ docker compose exec webserver createsuperuser
 
 ← [[document-parsing]] · [[llm-knowledge-base]] · [[self-hosted]] · [[self-hosted]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-26）；原欄位 2022-02-12 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/paperless-ngx/paperless-ngx>
@@ -81,4 +83,4 @@ docker compose exec webserver createsuperuser
 | GitHub | https://github.com/paperless-ngx/paperless-ngx |
 | Stars | ⭐41336|
 | License | GPL-3.0 |
-| 收錄日期 | 2022-02-12 |
+| 收錄日期 | 2026-05-26 |

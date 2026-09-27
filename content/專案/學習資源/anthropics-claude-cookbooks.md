@@ -2,7 +2,7 @@
 title: Claude Cookbooks
 slug: anthropics-claude-cookbooks
 created: 2023-08-15
-updated: 2026-05-26
+updated: 2026-09-27
 stars: 44023
 language: Jupyter Notebook
 topics: [LLM, Prompt Engineering, RAG, AI Agent]
@@ -68,6 +68,8 @@ jupyter notebook
 
 ← [[Prompt-Engineering]] · [[rag]] · [[AI-Agent]] · [[LLM]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-26）；原欄位 2023-08-15 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/anthropics/claude-cookbooks>
@@ -81,4 +83,4 @@ jupyter notebook
 | GitHub | https://github.com/anthropics/claude-cookbooks |
 | Stars | ⭐44023|
 | License | MIT |
-| 收錄日期 | 2023-08-15 |
+| 收錄日期 | 2026-05-26 |

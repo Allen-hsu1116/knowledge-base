@@ -7,7 +7,7 @@ created: 2026-02-19
 language: Shell
 topics: [AI Skills, Prompt Engineering, 前端設計]
 date: 2026-06-07
-updated: 2026-06-07
+updated: 2026-09-27
 ---
 
 # Taste Skill — 反樣板 AI 前端框架
@@ -79,6 +79,8 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 
 ← [[AI-Skills]] · [[Prompt-Engineering]] · [[frontend-design]] · [[AI-Skills]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-07）；原欄位 2026-02-19 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/Leonxlnx/taste-skill)
@@ -92,4 +94,4 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 | GitHub | https://github.com/Leonxlnx/taste-skill |
 | Stars | ⭐36016|
 | License | MIT |
-| 收錄日期 | 2026-02-19 |
+| 收錄日期 | 2026-06-07 |

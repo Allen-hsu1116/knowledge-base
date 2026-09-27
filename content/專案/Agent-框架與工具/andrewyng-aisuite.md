@@ -2,7 +2,7 @@
 title: aisuite + OpenCoworker
 slug: andrewyng-aisuite
 created: 2024-06-30
-updated: 2026-06-14
+updated: 2026-09-27
 stars: 14114
 language: Python
 topics: [LLM, Multi-Provider, Agent Harness, 桌面代理, BYOK]
@@ -80,6 +80,8 @@ print(response.choices[0].message.content)
 
 ← [[LLM]] · [[Coding-Agent-CLI]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-14）；原欄位 2024-06-30 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
@@ -92,4 +94,4 @@ print(response.choices[0].message.content)
 | GitHub | https://github.com/andrewyng/aisuite |
 | Stars | ⭐14114|
 | License | MIT |
-| 收錄日期 | 2024-06-30 |
+| 收錄日期 | 2026-06-14 |

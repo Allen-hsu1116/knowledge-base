@@ -2,7 +2,7 @@
 title: TimesFM
 slug: google-research-timesfm
 created: 2024-04-29
-updated: 2026-06-19
+updated: 2026-09-27
 stars: 23178
 language: Python
 topics: [time-series, foundation-model, forecasting, google-research, llm]
@@ -88,6 +88,8 @@ TimesFM 與 [[financial-forecasting|金融預測]] 概念高度相關，可用�
 
 ← [[financial-forecasting]] · [[shiyu-coder-Kronos]] · [[TauricResearch-TradingAgents]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-19）；原欄位 2024-04-29 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/google-research/timesfm
@@ -102,4 +104,4 @@ TimesFM 與 [[financial-forecasting|金融預測]] 概念高度相關，可用�
 | GitHub | https://github.com/google-research/timesfm |
 | Stars | ⭐23178|
 | License | Apache-2.0 |
-| 收錄日期 | 2024-04-29 |
+| 收錄日期 | 2026-06-19 |

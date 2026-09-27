@@ -2,7 +2,7 @@
 title: Fincept Terminal
 slug: FinceptTerminal
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 22,646
 language: zh-TW
 topics: [AI Agent, 金融預測, 金融分析]
@@ -65,6 +65,8 @@ Fincept Terminal 與 AI-Trader 類似但更全面：後者偏學術研究，前�
 
 ← [[AI-Agent]] · [[financial-forecasting]] · [[HKUDS-AI-Trader]] · [[HKUDS-AI-Trader]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-23）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/Fincept-Corporation/FinceptTerminal)
@@ -77,4 +79,4 @@ Fincept Terminal 與 AI-Trader 類似但更全面：後者偏學術研究，前�
 | GitHub | https://github.com/Fincept-Corporation/FinceptTerminal |
 | Stars | ⭐22646|
 | License | AGPL-3.0 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-23 |

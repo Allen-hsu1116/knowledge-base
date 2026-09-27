@@ -2,7 +2,7 @@
 title: AutoGen
 slug: microsoft-autogen
 created: 2023-08-18
-updated: 2026-06-17
+updated: 2026-09-27
 stars: 59010
 language: Python
 topics: [agentic, agents, ai, autogen, framework, llm-agent, llm-framework, multi-agent]
@@ -75,6 +75,8 @@ asyncio.run(main())
 
 ← [[AI-Agent]] · [[workflow-automation]] · [[LangChain]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-17）；原欄位 2023-08-18 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/microsoft/autogen
@@ -89,4 +91,4 @@ asyncio.run(main())
 | GitHub | https://github.com/microsoft/autogen |
 | Stars | ⭐59010|
 | License | CC-BY-4.0 (文件) / MIT (程式碼) |
-| 收錄日期 | 2023-08-18 |
+| 收錄日期 | 2026-06-17 |

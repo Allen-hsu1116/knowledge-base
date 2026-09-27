@@ -2,7 +2,7 @@
 title: PyMuPDF4LLM
 slug: pymupdf4llm
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 1,664
 language: zh-TW
 topics: [RAG, 文件解析, OCR]
@@ -110,6 +110,8 @@ pages = loader.load()
 
 ← [[docling]] · [[cocoindex]] · [[microsoft-markitdown]] · [[Knowledge-Graph]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-08）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/pymupdf/pymupdf4llm)
@@ -122,4 +124,4 @@ pages = loader.load()
 | GitHub | https://github.com/pymupdf/pymupdf4llm |
 | Stars | ⭐1664|
 | License | AGPL-3.0 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-08 |

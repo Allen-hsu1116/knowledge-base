@@ -2,7 +2,7 @@
 title: LLM Course
 slug: mlabonne-llm-course
 created: 2023-06-17
-updated: 2026-06-17
+updated: 2026-09-27
 stars: 80186
 language: Jupyter Notebook
 topics: [course, large-language-models, llm, machine-learning, roadmap]
@@ -63,6 +63,8 @@ pip install unsloth  # 高效微調
 
 ← [[LLM]] · [[Prompt-Engineering]] · [[rasbt-LLMs-from-scratch]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-17）；原欄位 2023-06-17 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/mlabonne/llm-course
@@ -78,4 +80,4 @@ pip install unsloth  # 高效微調
 | GitHub | https://github.com/mlabonne/llm-course |
 | Stars | ⭐80186|
 | License | Apache-2.0 |
-| 收錄日期 | 2023-06-17 |
+| 收錄日期 | 2026-06-17 |

@@ -2,7 +2,7 @@
 title: n8n
 slug: n8n-io-n8n
 created: 2019-06-22
-updated: 2026-06-16
+updated: 2026-09-27
 stars: 192675
 language: TypeScript
 topics: [ai, automation, workflow, mcp, low-code, no-code, self-hosted, integration]
@@ -67,6 +67,8 @@ docker run -it --rm --name n8n \
 
 ← [[workflow-automation]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-16）；原欄位 2019-06-22 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/n8n-io/n8n
@@ -81,4 +83,4 @@ docker run -it --rm --name n8n \
 | GitHub | https://github.com/n8n-io/n8n |
 | Stars | ⭐192675|
 | License | Fair-code (Sustainable Use License) |
-| 收錄日期 | 2019-06-22 |
+| 收錄日期 | 2026-06-16 |

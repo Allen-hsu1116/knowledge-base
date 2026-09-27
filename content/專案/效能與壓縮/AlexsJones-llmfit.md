@@ -2,7 +2,7 @@
 title: llmfit
 slug: AlexsJones-llmfit
 created: 2026-02-15
-updated: 2026-02-15
+updated: 2026-09-27
 stars: 26,314
 language: zh-TW
 topics: [LLM, Token Optimization]
@@ -108,6 +108,8 @@ llmfit 對應 [[LLM]] 本地部署流程的「模型選擇」階段。[[Token-Op
 
 ← [[LLM]] · [[Token-Optimization]] · [[MCP]] · [[docling]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-07）；原欄位 2026-02-15、2026-05-07 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-07-AlexsJones-llmfit.md)
@@ -120,4 +122,4 @@ llmfit 對應 [[LLM]] 本地部署流程的「模型選擇」階段。[[Token-Op
 | GitHub | https://github.com/AlexsJones/llmfit |
 | Stars | ⭐26314 |
 | License | 未標示 |
-| 收錄日期 | 2026-02-15 |
+| 收錄日期 | 2026-05-07 |

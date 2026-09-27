@@ -2,7 +2,7 @@
 title: BigBodyCobain Shadowbroker
 slug: BigBodyCobain-Shadowbroker
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 7,555
 language: zh-TW
 topics: [OSINT, AI Agent, 情報平台]
@@ -81,6 +81,8 @@ helm install shadowbroker ./helm/chart --create-namespace --namespace shadowbrok
 
 ← [[sandbox]] · [[網頁爬蟲]] · [[AI-Agent]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-19）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/bigbodycobain/Shadowbroker)
@@ -93,4 +95,4 @@ helm install shadowbroker ./helm/chart --create-namespace --namespace shadowbrok
 | GitHub | https://github.com/bigbodycobain/Shadowbroker |
 | Stars | ⭐7555|
 | License | MIT |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-19 |

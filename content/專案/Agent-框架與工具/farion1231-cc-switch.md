@@ -2,7 +2,7 @@
 title: CC Switch
 slug: farion1231-cc-switch
 created: 2025-08-04
-updated: 2026-06-16
+updated: 2026-09-27
 stars: 101664
 language: Rust
 topics: [ai-tools, claude-code, codex, hermes-agent, mcp, desktop-app, openclaw, opencode, skills-management]
@@ -66,6 +66,8 @@ pnpm tauri dev
 
 ← [[AI-Skills]] · [[hermes-agent]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-16）；原欄位 2025-08-04 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/farion1231/cc-switch
@@ -79,4 +81,4 @@ pnpm tauri dev
 | GitHub | https://github.com/farion1231/cc-switch |
 | Stars | ⭐101664|
 | License | MIT |
-| 收錄日期 | 2025-08-04 |
+| 收錄日期 | 2026-06-16 |

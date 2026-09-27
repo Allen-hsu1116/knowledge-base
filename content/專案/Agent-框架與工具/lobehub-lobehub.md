@@ -2,7 +2,7 @@
 title: LobeHub
 slug: lobehub-lobehub
 created: 2023-05-21
-updated: 2026-06-16
+updated: 2026-09-27
 stars: 78706
 language: TypeScript
 topics: [agent, agent-collaboration, agent-harness, ai, cao, chatgpt, claude, deepseek, gemini, gpt, knowledge-base, mcp, openai, skills]
@@ -69,6 +69,8 @@ pnpm dev
 
 ← [[AI-Skills]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-16）；原欄位 2023-05-21 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/lobehub/lobehub
@@ -83,4 +85,4 @@ pnpm dev
 | GitHub | https://github.com/lobehub/lobehub |
 | Stars | ⭐78706|
 | License | Custom (Source Available) |
-| 收錄日期 | 2023-05-21 |
+| 收錄日期 | 2026-06-16 |

@@ -1935,3 +1935,12 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 搜尋回傳五個候選，[[zhaoxuya520-reverse-skill]] 已於 2026-08-01 收錄；保留既有頁面並補回 known-repos 去重鍵，不計為新增。
 - 保存五份 README 與 metadata 快照；四個新專案頁完成模板、概念 backlinks、日期降序索引與 known-repos 更新；無新增概念頁。
 - LLVM 授權以 LICENSE.TXT 核對；VS Code 區分 MIT 原始碼與產品發行授權；一般基礎設施未冒稱 LLM 專用工具。
+
+## [2026-09-27] lint | 全庫檢查與來源／日期一致性修復
+
+- 檢查 591 篇 wiki：518 專案、60 概念、9 影片、1 論文與 3 索引／日誌；結構 lint 與補充驗證均無剩餘問題。
+- 補入 5 頁對 6 份 raw 的來源引用；reverse-skill 新快照整合至既有頁，618 份 raw 資產均已整理，原始素材不修改。
+- 96 個索引條目的收錄日期與頁面 footer 不一致：統一以 projects.md 索引批次為準，頁面明列原值及校正规則，不將專案建立日當成知識庫收錄日；完整差異與 wiki／Quartz 備份保存在 outputs/lint-2026-09-27-*。
+- 核對 Caveman 官方 README／LICENSING，更新安裝與分元件 MIT／BSL-1.1 授權；Caveman、Token Optimization 與 Ponytail 補上壓縮／安全基準的適用範圍，移除普遍正確性保證。
+- Open Generative AI 區分開源介面、付費模型服務、sd.cpp 本機與 Wan2GP 伺服器配置，標記過時的免費／離線主張並附官方來源。
+- SKILL.md 未提供 merge map，以全部實際 wikilink 目標驗證合併殘鏈；待分類為空。語意檢查涵蓋一致性與高風險主張，不等於逐句上游事實查核。

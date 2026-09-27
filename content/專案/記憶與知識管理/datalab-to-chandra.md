@@ -2,7 +2,7 @@
 title: Chandra
 slug: datalab-to-chandra
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 10,444
 language: zh-TW
 topics: [RAG, OCR, 文件解析]
@@ -94,6 +94,8 @@ ocr_result = OCR("complex_table.pdf")
 
 ← [[docling]] · [[AI-Agent]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-05）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/datalab-to/chandra)
@@ -106,4 +108,4 @@ ocr_result = OCR("complex_table.pdf")
 | GitHub | https://github.com/datalab-to/chandra |
 | Stars | ⭐10444|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-05 |

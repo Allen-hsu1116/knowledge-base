@@ -2,7 +2,7 @@
 title: AutoResearch
 slug: autoresearch
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 81,499
 language: zh-TW
 topics: [AI Agent, AI Skills]
@@ -93,6 +93,8 @@ AutoResearch 代表了 [[AI-Agent]] 工作流的極致形態：從人類做研�
 
 ← [[AI-Skills]] · [[hermes-agent]] · [[AI-Agent]] · [[project-golem]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-03）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/karpathy/autoresearch)
@@ -105,4 +107,4 @@ AutoResearch 代表了 [[AI-Agent]] 工作流的極致形態：從人類做研�
 | GitHub | https://github.com/karpathy/autoresearch |
 | Stars | ⭐81499|
 | License | 未標示 |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-03 |

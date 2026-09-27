@@ -2,7 +2,7 @@
 title: Awesome Claude Skills
 slug: ComposioHQ-awesome-claude-skills
 created: 2025-10-17
-updated: 2026-06-15
+updated: 2026-09-27
 stars: 64593
 language: Python
 topics: [agent-skills, ai-agents, claude, claude-code, codex, cursor, gemini-cli, mcp, workflow-automation]
@@ -66,6 +66,8 @@ claude --plugin-dir ./connect-apps-plugin
 
 ← [[AI-Skills]] · [[AI-Skills]] · [[NVIDIA-SkillSpector]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-15）；原欄位 2025-10-17 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/ComposioHQ/awesome-claude-skills
@@ -79,4 +81,4 @@ claude --plugin-dir ./connect-apps-plugin
 | GitHub | https://github.com/ComposioHQ/awesome-claude-skills |
 | Stars | ⭐64593|
 | License | Apache-2.0 |
-| 收錄日期 | 2025-10-17 |
+| 收錄日期 | 2026-06-15 |

@@ -2,7 +2,7 @@
 title: Ponytail
 slug: DietrichGebert-ponytail
 created: 2026-06-12
-updated: 2026-06-19
+updated: 2026-09-27
 stars: 36775
 language: JavaScript
 topics: [agent-skills, ai-agents, claude, claude-code, prompt-engineering, yagni, token-optimization]
@@ -27,7 +27,7 @@ Ponytail 是由 Dietrich Gebert 開發的 AI Agent Skill/Plugin，核心理念�
 ## 核心特色
 
 - **六階梯思考法**：YAGNI → stdlib → native platform → installed dependency → one line → minimum viable，agent 寫碼前逐階檢查
-- **安全不妥協**：信任邊界驗證、資料遺失處理、安全性、無障礙永遠保留，100% 安全率
+- **安全設計目標**：要求保留信任邊界驗證、資料遺失處理與無障礙；基準測試的安全保持率不代表所有生成程式碼都安全
 - **14 Agent 平台支援**：Claude Code, Codex, Copilot CLI, Pi, OpenCode, Gemini CLI, Antigravity, CodeWhale, OpenClaw, Cursor, Windsurf, Cline, Aider, Zed
 - **實證基準測試**：12 個 feature tickets × n=4 × Haiku 4.5，LOC -54%、tokens -22%、cost -20%、time -27%
 - **四種模式**：lite / full / ultra / off，可用 env var 或 config 設定預設模式
@@ -70,12 +70,16 @@ export PONYTAIL_DEFAULT_MODE=full  # lite/full/ultra/off
 | [[affaan-m-ECC|ECC]] | Context 壓縮 | — | — | — | Skill |
 | [[hardikpandya-stop-slop|stop-slop]] | 寫作品質 | — | — | — | Skill |
 
+**[⚠️ 可能過時] 本頁的 100%／95% 只描述來源中 12 個 feature tickets、n=4、Haiku 4.5 的特定基準測試，不是通用安全率或零漏洞保證；不同工具的壓縮百分比也不能跨不同實驗直接比較。** 原始基準見「來源」的 2026-06-18-agentic.md。
+
 Ponytail 和 [[JuliusBrussee-caveman|Caveman]] 互補：Caveman 控制文字風格，Ponytail 控制程式碼生成邏輯。與 [[Token-Optimization|Token Optimization]] 概念相關，但更聚焦於程式碼品質而非單純壓縮。
 
 ## 相關概念
 
 
 ← [[AI-Skills]] · [[Token-Optimization]] · [[JuliusBrussee-caveman]] · [[affaan-m-ECC]]
+
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-19）；原欄位 2026-06-12 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
 
 ## 來源
 
@@ -90,4 +94,4 @@ Ponytail 和 [[JuliusBrussee-caveman|Caveman]] 互補：Caveman 控制文字風�
 | GitHub | https://github.com/DietrichGebert/ponytail |
 | Stars | ⭐36775|
 | License | MIT |
-| 收錄日期 | 2026-06-12 |
+| 收錄日期 | 2026-06-19 |

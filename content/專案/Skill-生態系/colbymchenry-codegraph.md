@@ -7,7 +7,7 @@ language: TypeScript
 topics: [程式碼智慧, Knowledge Graph, MCP]
 created: 2026-01-18
 added: 2026-05-17
-updated: 2026-09-07
+updated: 2026-09-27
 ---
 
 # CodeGraph
@@ -89,6 +89,8 @@ CodeGraph 對應 [[MCP]] 生態的「程式碼理解」層。跟 [[Coding-Agent-
 
 ← [[Coding-Agent-CLI]] · [[MCP]] · [[Knowledge-Graph]] · [[code-intelligence]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-17）；原欄位 2026-01-18 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-17-colbymchenry-codegraph.md)
@@ -101,4 +103,4 @@ CodeGraph 對應 [[MCP]] 生態的「程式碼理解」層。跟 [[Coding-Agent-
 | GitHub | https://github.com/colbymchenry/codegraph |
 | Stars | ⭐3112|
 | License | 未標示 |
-| 收錄日期 | 2026-01-18 |
+| 收錄日期 | 2026-05-17 |

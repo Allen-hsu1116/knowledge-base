@@ -2,7 +2,7 @@
 title: AlphaSift
 slug: ZhuLinsen-alphasift
 created: 2026-05-21
-updated: 2026-05-28
+updated: 2026-09-27
 stars: 38100
 language: Python
 topics: [多因子選股, 股市掃描, 金融分析]
@@ -69,6 +69,8 @@ python main.py --stocks 600519,hk00700,AAPL
 
 ← [[ZhuLinsen-daily_stock_analysis]] · [[ZhuLinsen-alphaevo]] · [[financial-forecasting]] · [[stock-tracking]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-28）；原欄位 2026-05-21 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/ZhuLinsen/alphasift>
@@ -82,4 +84,4 @@ python main.py --stocks 600519,hk00700,AAPL
 | GitHub | https://github.com/ZhuLinsen/daily_stock_analysis |
 | Stars | ⭐38100|
 | License | MIT |
-| 收錄日期 | 2026-05-21 |
+| 收錄日期 | 2026-05-28 |

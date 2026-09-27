@@ -7,14 +7,14 @@ language: JavaScript
 topics: [生成式 AI, 影片生成, 開源]
 created: 2023-05-09
 added: 2026-05-17
-updated: 2023-05-09
+updated: 2026-09-27
 ---
 
 # Open Generative AI
 
-> ⭐14436 · 開源免費的 AI 圖片與影片生成工作室，支援 200+ 模型，無內容審查、無訂閱費用，可自架。
+> ⭐14436 · 可自架的 AI 媒體工作室，整合雲端模型 API 與可選本機推論；開源介面不等於所有模型免費或離線。
 
-開源免費的 AI 圖片與影片生成工作室，支援 200+ 模型，無內容審查、無訂閱費用，可自架。
+**[⚠️ 可能過時] 舊筆記把「無訂閱」推成模型使用免費、把可自架推成資料必定不離機。2026-09-27 官方 README 明列 MuAPI 雲端請求、檔案上傳與不同本地引擎；使用成本、審查政策與資料邊界取決於所選模型及供應商。** 來源見頁末。
 
 ## 基本資訊
 
@@ -36,11 +36,11 @@ updated: 2023-05-09
 
 ## 詳細簡介
 
-Open Generative AI 是一個全方位的 AI 媒體生成平台，提供圖片、影片、唇形同步和電影工作室四大功能模組。與 Midjourney、Runway 等封閉平台不同，它完全開源、免費、可自架，且不接受任何內容審查或提示詞限制。
+Open Generative AI 是可自架的 AI 媒體生成介面，整合圖片、影片、唇形同步與電影工作流。原始快照列四大模組；官方 README 現已列更多工作室，模型與工作室數會隨版本變化。MIT 應用授權不會取代底層模型或 API 服務條款。
 
 平台的核心特色是整合了超過 200 個生成式模型，涵蓋 Flux、Nano Banana、Midjourney、Kling、Sora、Veo、Seedream、Wan 2.2 等主流模型，使用者可以在單一介面中自由切換和比較不同模型的生成效果。
 
-除了桌面應用外，也提供線上託管版本（muapi.ai），無需安裝即可使用所有功能。桌面版額外支援本地模型推論（sd.cpp 和 Wan2GP 兩種引擎），讓使用者在無網路環境下也能生成圖片和影片。
+除了桌面應用外，也提供線上託管版本（muapi.ai）。sd.cpp 可在應用所在主機推論相容圖片模型；Wan2GP 則是連到使用者自行部署的 GPU 伺服器。只有模型、權重與依賴都準備完成且未使用遠端服務的配置，才能合理談離線運行；Mac 連遠端 Wan2GP 並非完全本機。
 
 ## 核心特色
 
@@ -48,7 +48,7 @@ Open Generative AI 是一個全方位的 AI 媒體生成平台，提供圖片、
 - **200+ 模型聚合** — 整合 Flux、Nano Banana、Midjourney、Kling、Sora、Veo、Seedream、Wan 2.2 等主流模型，使用者在單一介面中自由切換和比較不同模型的生成效果
 - **本地推論引擎** — 桌面應用內建 sd.cpp（C++ 實作，支援 Apple Silicon Metal GPU 加速）用於圖片模型，Wan2GP（需自建 GPU 伺服器）用於影片模型，讓 Mac 使用者也能透過遠端 GPU 來生成影片
 - **AI Agent 整合** — 透過 Generative-Media-Skills 套件，Claude Code、Codex 等 AI coding agent 可以直接從終端機驅動 200+ 模型，實現自動化媒體生成流程
-- **完全開源免費** — 無內容審查、無訂閱費用、可自架，與 Midjourney、Runway 等封閉平台的根本差異
+- **可自架介面** — 應用以 MIT 提供；模型權重、API 用量與硬體成本另計，服務政策依供應商
 
 ## 安裝方式
 
@@ -87,9 +87,9 @@ npm run dev
 ## 是什麼
 
 
-Open Generative AI 是一個開源免費的 AI 媒體生成工作室，把 Midjourney、Runway 等封閉平台的功能整合到單一介面。
+Open Generative AI 是可自架的 AI 媒體生成工作室，在單一介面提供多模型生成工作流，而不是把商用模型變成免費的本機模型。
 
-支援 200+ 生成式模型，涵蓋圖片、影片、唇形同步和電影工作室四大功能模組，無內容審查、無訂閱費用、可自架。桌面應用額外支援本地推論引擎（sd.cpp + Wan2GP），讓 Mac 使用者也能離線生成。
+它涵蓋圖片、影片、唇形同步等流程；原始快照的 200+ 模型與四大工作室是歷史資料，最新可用集合依版本及 API 而定。桌面版可用 sd.cpp 做本機圖片推論，也可連自己的 Wan2GP GPU 伺服器，後者是否離線取決於伺服器部署位置。
 
 ## 怎麼用
 
@@ -120,7 +120,7 @@ npm run dev
 ## 跟其他方案的關係
 
 
-Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway、Stability AI）的根本差異在於：完全開源、免費、可自架、無內容審查。封閉平台要月費且有限制，Open Generative AI 讓你用自己的硬體跑自己的模型。
+Open Generative AI 在 [[generative-AI]] 生態的差異是可自架與修改介面、聚合不同後端；不能由此推論每個後端都免費、無內容政策或可在自己的硬體執行。自架介面、遠端模型 API 與本機推論是不同層次。
 
 跟 [[AI-video-generation]] 專案（如 ComfyUI）相比：ComfyUI 是節點式工作流引擎（需要手動串接節點），Open Generative AI 是工作室式介面（選模型→生成→完成）。兩者定位不同：一個是工程師的瑞士刀，一個是創作者的快速工具。
 
@@ -137,10 +137,13 @@ Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway�
 
 ← [[generative-AI]] · [[AI-video-generation]] · [[AI-Agent]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-17）；原欄位 2023-05-09、2026-05-17 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-17-Anil-matcha-Open-Generative-AI.md)
 - GitHub: https://github.com/Anil-matcha/Open-Generative-AI
+- [2026-09-27 核對：官方 README 的 Local Model Inference、API 與 License](https://github.com/Anil-matcha/Open-Generative-AI/blob/main/README.md)
 
 ---
 
@@ -148,5 +151,5 @@ Open Generative AI 跟 [[generative-AI]] 的其他方案（Midjourney、Runway�
 |------|------|
 | GitHub | https://github.com/Anil-matcha/Open-Generative-AI |
 | Stars | ⭐14436 |
-| License | 未標示 |
-| 收錄日期 | 2023-05-09 |
+| License | MIT（應用）；模型與服務條款另計 |
+| 收錄日期 | 2026-05-17 |

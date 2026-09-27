@@ -2,7 +2,7 @@
 title: antigravity-awesome-skills
 slug: sickn33-antigravity-awesome-skills
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-27
 stars: 36,216
 language: zh-TW
 topics: [AI Skills, MCP, Prompt Engineering]
@@ -78,6 +78,8 @@ test -d ~/.gemini/antigravity/skills && echo "Skills installed"
 
 ← [[AI-Skills]] · [[Prompt-Engineering]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-04）；原欄位 2026-05-10 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/sickn33/antigravity-awesome-skills)
@@ -90,4 +92,4 @@ test -d ~/.gemini/antigravity/skills && echo "Skills installed"
 | GitHub | https://github.com/sickn33/antigravity-awesome-skills |
 | Stars | ⭐36216|
 | License | MIT |
-| 收錄日期 | 2026-05-10 |
+| 收錄日期 | 2026-05-04 |

@@ -2,7 +2,7 @@
 title: Learn Claude Code - Harness Engineering
 slug: shareAI-lab-learn-claude-code
 created: 2025-06-29
-updated: 2026-06-16
+updated: 2026-09-27
 stars: 66678
 language: Python
 topics: [agent, agent-development, ai-agent, claude, claude-code, educational, llm, python, teaching, tutorial]
@@ -71,6 +71,8 @@ python full_harness.py
 
 ← [[affaan-m-ECC]] · [[AI-Skills]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-16）；原欄位 2025-06-29 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/shareAI-lab/learn-claude-code
@@ -83,4 +85,4 @@ python full_harness.py
 | GitHub | https://github.com/shareAI-lab/learn-claude-code |
 | Stars | ⭐66678|
 | License | MIT |
-| 收錄日期 | 2025-06-29 |
+| 收錄日期 | 2026-06-16 |

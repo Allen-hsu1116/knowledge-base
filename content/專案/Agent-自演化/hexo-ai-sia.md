@@ -2,7 +2,7 @@
 title: SIA (Self-Improving AI)
 slug: hexo-ai-sia
 created: 2026-03-25
-updated: 2026-06-14
+updated: 2026-09-27
 stars: 1655
 language: Python
 topics: [Self-Improving AI, Harness + 權重更新, 基準測試驅動]
@@ -72,6 +72,8 @@ sia web
 
 ← [[harness-engineering]] · [[self-correction]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-14）；原欄位 2026-03-25 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: [hexo-ai/sia](https://github.com/hexo-ai/sia)
@@ -85,4 +87,4 @@ sia web
 | GitHub | https://github.com/hexo-ai/sia |
 | Stars | ⭐1655|
 | License | MIT |
-| 收錄日期 | 2026-03-25 |
+| 收錄日期 | 2026-06-14 |

@@ -2,7 +2,7 @@
 title: Hyperframes
 slug: heygen-com-hyperframes
 created: 2026-03-10
-updated: 2026-03-10
+updated: 2026-09-27
 stars: 18,926
 language: zh-TW
 topics: [AI Skills, AI Agent, Prompt Engineering]
@@ -104,6 +104,8 @@ Hyperframes 把 [[AI-Agent]] 的 HTML 能力直接轉換成影片生成能力，
 
 ← [[AI-Agent]] · [[AI-Skills]] · [[MCP]] · [[Prompt-Engineering]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-07）；原欄位 2026-03-10、2026-05-07 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-07-heygen-com-hyperframes.md)
@@ -116,4 +118,4 @@ Hyperframes 把 [[AI-Agent]] 的 HTML 能力直接轉換成影片生成能力，
 | GitHub | https://github.com/heygen-com/hyperframes |
 | Stars | ⭐18926 |
 | License | 未標示 |
-| 收錄日期 | 2026-03-10 |
+| 收錄日期 | 2026-05-07 |

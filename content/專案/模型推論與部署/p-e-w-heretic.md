@@ -2,7 +2,7 @@
 title: Heretic
 slug: p-e-w-heretic
 created: 2025-09-21
-updated: 2026-05-28
+updated: 2026-09-27
 stars: 22010
 language: Python
 topics: [LLM, 模型安全, 審查移除]
@@ -65,6 +65,8 @@ heretic-eval --model path/to/your/model
 
 ← [[LLM]] · [[llm-internals]] · [[Prompt-Engineering]] · [[模型推論與部署]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-28）；原欄位 2025-09-21 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub: <https://github.com/p-e-w/heretic>
@@ -77,4 +79,4 @@ heretic-eval --model path/to/your/model
 | GitHub | https://github.com/p-e-w/heretic |
 | Stars | ⭐22010|
 | License | 未標示 |
-| 收錄日期 | 2025-09-21 |
+| 收錄日期 | 2026-05-28 |

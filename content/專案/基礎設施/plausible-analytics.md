@@ -2,7 +2,7 @@
 title: Plausible Analytics
 slug: plausible-analytics
 created: 2018-12-04
-updated: 2018-12-04
+updated: 2026-09-27
 stars: 27669
 language: zh-TW
 topics: [隱私分析, 網站統計, GDPR 合規]
@@ -107,6 +107,8 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 
 ← [[open-design]] · [[self-hosted]] · [[privacy]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-18）；原欄位 2018-12-04 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [原始資料](../raw/2026-05-18-plausible-analytics.md)
@@ -120,4 +122,4 @@ curl "https://plausible.io/api/v1/export?site_id=yourdomain.com&period=30d" \
 | GitHub | https://github.com/plausible/analytics |
 | Stars | ⭐27669|
 | License | AGPL-3.0 |
-| 收錄日期 | 2018-12-04 |
+| 收錄日期 | 2026-05-18 |

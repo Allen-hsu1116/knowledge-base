@@ -2,7 +2,7 @@
 title: OpenHands
 slug: OpenHands-OpenHands
 created: 2024-03-13
-updated: 2026-06-17
+updated: 2026-09-27
 stars: 77391
 language: Python
 topics: [agent, artificial-intelligence, claude-ai, developer-tools, llm, openai, coding-agent]
@@ -73,6 +73,8 @@ npm run dev
 
 ← [[AI-Agent]] · [[Coding-Agent-CLI]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-06-17）；原欄位 2024-03-13 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/OpenHands/agent-canvas)
@@ -88,4 +90,4 @@ npm run dev
 | GitHub | https://github.com/OpenHands/agent-canvas |
 | Stars | ⭐77391|
 | License | MIT (enterprise 目錄另授權) |
-| 收錄日期 | 2024-03-13 |
+| 收錄日期 | 2026-06-17 |

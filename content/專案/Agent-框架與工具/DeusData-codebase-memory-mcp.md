@@ -2,7 +2,7 @@
 title: Codebase Memory MCP
 slug: DeusData-codebase-memory-mcp
 created: 2026-06-20
-updated: 2026-08-09
+updated: 2026-09-27
 stars: 38261
 language: C
 topics: [claude-code, code-analysis, code-intelligence, knowledge-graph, mcp, mcp-server, model-context-protocol, sqlite, tree-sitter, codex, cursor, windsurf, aider, gemini-cli, graph-visualization, opencode, ast, cypher, hybrid-lsp, cross-repo, dead-code, adr, semantic-search]
@@ -76,6 +76,8 @@ codebase-memory-mcp update
 
 ← [[colbymchenry-codegraph]] · [[Understand-Anything]] · [[tirth8205-code-review-graph]] · [[MCP]]
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-08-09）；原欄位 2026-06-20 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - GitHub：https://github.com/DeusData/codebase-memory-mcp
@@ -90,4 +92,4 @@ codebase-memory-mcp update
 | GitHub | https://github.com/DeusData/codebase-memory-mcp |
 | Stars | ⭐38261|
 | License | MIT |
-| 收錄日期 | 2026-06-20 |
+| 收錄日期 | 2026-08-09 |

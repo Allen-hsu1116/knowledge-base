@@ -2,7 +2,7 @@
 title: 12-Factor Agents
 slug: humanlayer-12-factor-agents
 created: 2025-03-30
-updated: 2025-03-30
+updated: 2026-09-27
 stars: 24159
 language: zh-TW
 topics: [Agent 設計原則, 工程實踐]
@@ -108,6 +108,8 @@ cd 12-factor-agents
 
 關鍵轉念：好的 Agent 不是「給 prompt + tool bag 然後 loop」；而是**大部分是軟體、LLM 只 sprinkled 在對的位置**。
 
+> [⚠️ 日期校正] 本頁「收錄日期」統一採 projects.md 的索引收錄批次（2026-05-18）；原欄位 2025-03-30 與索引不一致，舊值保留於 lint 稽核與備份。這不是上游專案建立日期。
+
 ## 來源
 
 - [GitHub：專案原始碼](https://github.com/humanlayer/12-factor-agents)
@@ -120,4 +122,4 @@ cd 12-factor-agents
 | GitHub | https://github.com/humanlayer/12-factor-agents |
 | Stars | ⭐24159|
 | License | NOASSERTION |
-| 收錄日期 | 2025-03-30 |
+| 收錄日期 | 2026-05-18 |
