@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-26
+updated: 2026-09-28
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **OpenRig** → 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 詳見 [[mvschwarz-openrig]]。
 
 - **StarNet** → 以太空站映射真實 runtime、能力邊界和多 Agent 交接的 local-first Harness。 詳見 [[androoAGI-starnet]]。
 

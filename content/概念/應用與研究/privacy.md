@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-09-26
+updated: 2026-09-28
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - **去識別化** — 移除或模糊化資料中的個人識別資訊（PII）
 
 ## 各框架的做法
+
+- **PipePipe** → 以 NewPipe 硬分叉為基礎的 Android 影音客戶端；不是 LLM 工具。 詳見 [[InfinityLoop1308-PipePipe]]。
 
 - **wifit3** → 跨平台 USB Wi-Fi 稽核工具，僅限自有或明確授權網路；不是 AI Agent。 詳見 [[derv82-wifit3]]。
 

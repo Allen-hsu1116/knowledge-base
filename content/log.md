@@ -1944,3 +1944,12 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 核對 Caveman 官方 README／LICENSING，更新安裝與分元件 MIT／BSL-1.1 授權；Caveman、Token Optimization 與 Ponytail 補上壓縮／安全基準的適用範圍，移除普遍正確性保證。
 - Open Generative AI 區分開源介面、付費模型服務、sd.cpp 本機與 Wan2GP 伺服器配置，標記過時的免費／離線主張並附官方來源。
 - SKILL.md 未提供 merge map，以全部實際 wikilink 目標驗證合併殘鏈；待分類為空。語意檢查涵蓋一致性與高風險主張，不等於逐句上游事實查核。
+
+## 2026-09-28 每日 Trending 收錄
+
+- ingest [[InfinityLoop1308-PipePipe]]：README 與 metadata 快照、專案頁、概念反向連結及分類索引。
+- ingest [[vercel-labs-scriptc]]：README 與 metadata 快照、專案頁、概念反向連結及分類索引。
+- ingest [[mvschwarz-openrig]]：README 與 metadata 快照、專案頁、概念反向連結及分類索引。
+- ingest [[willfaust-Madeira]]：README 與 metadata 快照、專案頁、概念反向連結及分類索引。
+
+本日候選含一般開源工具；專案頁明確區分其與 LLM 的關係，沒有把影音客戶端、編譯器或遊戲相容層誤稱為 LLM 專案。

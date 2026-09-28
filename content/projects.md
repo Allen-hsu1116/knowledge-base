@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mvschwarz-openrig\|OpenRig]] | ⭐976 | 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 | 2026-09-28 |
 | [[androoAGI-starnet\|StarNet]] | ⭐478 | 將真實 Agent 工作、權限與交接映射為像素太空站的本地優先 Harness。 | 2026-09-26 |
 | [[strands-agents-harness-sdk\|Strands Harness SDK]] | ⭐7,843 | 程序內 Agent loop、預組裝 Harness、Python／TypeScript、hooks 與觀測 | 2026-09-24 |
 | [[yynxxxxx-Codex-X\|Codex-X]] | ⭐3,685 | 集中管理 Codex 的 Provider、提示詞、會話、Skills、MCP 與 TOML 設定。 | 2026-09-22 |
@@ -250,6 +251,7 @@ updated: 2026-09-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[InfinityLoop1308-PipePipe\|PipePipe]] | ⭐6,572 | 以 NewPipe 硬分叉為基礎的 Android 影音客戶端；不是 LLM 工具。 | 2026-09-28 |
 | [[FxEmbed-FxEmbed\|FxEmbed]] | ⭐5,365 | X／Bluesky 媒體預覽、Cloudflare Worker、自架；非 LLM | 2026-09-25 |
 | [[harry7557558-spirula-studio\|Spirula Studio]] | ⭐739 | Vulkan／CUDA 3D Gaussian Splatting、SfM、網格重建；非 LLM | 2026-09-24 |
 | [[zhouxiaoka-autoclip\|AutoClip]] | ⭐8,237 | 以字幕分析找出長影片高光，串接自動剪輯、合集與短影音匯出。 | 2026-09-22 |
@@ -365,6 +367,7 @@ updated: 2026-09-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[willfaust-Madeira\|Madeira]] | ⭐814 | 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 | 2026-09-28 |
 | [[shy3130-tick-stock-panel\|TSP（tick-stock-panel）]] | ⭐5,129 | 結合 A 股選股、監控、回測與可選 LLM 助手的自架研究工作台。 | 2026-09-26 |
 | [[julyx10-lap\|Lap]] | ⭐2,874 | 本地相片管理、CLIP 搜尋、人臉分群、隱私；非聊天 LLM | 2026-09-25 |
 | [[TNT-Likely-PanWatch\|PanWatch]] | ⭐1,504 | 自架盯盤、TradingAgents、多市場持倉、排程與通知；未列台股支援 | 2026-09-24 |
@@ -510,6 +513,7 @@ updated: 2026-09-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vercel-labs-scriptc\|scriptc]] | ⭐5,402 | 將 TypeScript／JavaScript 編譯為原生與 WebAssembly 產物的實驗性編譯器。 | 2026-09-28 |
 | [[microsoft-vscode\|Visual Studio Code / Code - OSS]] | ⭐193,074 | 編輯器、擴充模型、開發容器；原始碼與產品授權分離 | 2026-09-27 |
 | [[llvm-llvm-project\|LLVM Project]] | ⭐40,750 | 編譯器、IR、Clang、LLD 與可重用工具鏈 | 2026-09-27 |
 | [[actions-runner-images\|GitHub Actions Runner Images]] | ⭐13,300 | CI 虛擬機映像、預裝軟體、OS 標籤與版本漂移 | 2026-09-27 |

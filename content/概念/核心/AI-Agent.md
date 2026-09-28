@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-26
+updated: 2026-09-28
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **OpenRig** → 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 詳見 [[mvschwarz-openrig]]。
 
 - **Code - OSS／VS Code** → 可擴充的編輯器工作環境；Agent 擴充、模型及工具權限仍須個別設定，不是安裝編輯器就具備所有代理能力。詳見 [[microsoft-vscode]]。
 

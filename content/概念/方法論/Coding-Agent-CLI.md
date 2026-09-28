@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-27
+updated: 2026-09-28
 language: zh-TW
 ---
 
@@ -28,6 +28,12 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Madeira** → 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 詳見 [[willfaust-Madeira]]。
+
+- **OpenRig** → 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 詳見 [[mvschwarz-openrig]]。
+
+- **scriptc** → 將 TypeScript／JavaScript 編譯為原生與 WebAssembly 產物的實驗性編譯器。 詳見 [[vercel-labs-scriptc]]。
 
 - **Code - OSS／VS Code** → 編輯器與擴充宿主，可配合 Coding Agent；MIT 原始碼與 Microsoft 發行版授權須分辨。詳見 [[microsoft-vscode]]。
 - **LLVM Project** → Agent 可使用的原生編譯工具鏈，與生成程式碼的模型／CLI 本身不同。詳見 [[llvm-llvm-project]]。

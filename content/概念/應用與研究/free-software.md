@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-09-16
+updated: 2026-09-28
 language: zh-TW
 ---
 
@@ -30,6 +30,12 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **Madeira** → 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 詳見 [[willfaust-Madeira]]。
+
+- **scriptc** → 將 TypeScript／JavaScript 編譯為原生與 WebAssembly 產物的實驗性編譯器。 詳見 [[vercel-labs-scriptc]]。
+
+- **PipePipe** → 以 NewPipe 硬分叉為基礎的 Android 影音客戶端；不是 LLM 工具。 詳見 [[InfinityLoop1308-PipePipe]]。
 
 - **Ghidra** → Apache-2.0 授權的跨平台逆向工程框架，支援反編譯與 Java／Python 擴充；不是 LLM 產品。詳見 [[NationalSecurityAgency-ghidra]]。
 - **BrewUI** → AGPL-3.0 授權的 Homebrew 官方 macOS GUI；套件管理介面本身不等於 AI 功能。詳見 [[Homebrew-BrewUI]]。
