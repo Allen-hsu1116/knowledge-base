@@ -50,6 +50,8 @@ AI Tutoring 的核心技術包括 Book Engine（活書引擎）和 TutorBot（�
 
 ## 相關概念
 
+- [[byoungd-up]] — 以真實任務、AI 協作與成果證據串起終身學習的開放內容指南。
+
 - [[rag]] — RAG 讓 AI 能基於特定教材回答問題
 - [[Knowledge-Graph]] — 知識圖譜是 AI Tutoring 的知識基礎
 - [[AI-Agent]] — TutorBot 是 Agent 架構的教學應用

@@ -52,6 +52,8 @@ AI Agent 正在改變資料分析的工作方式。傳統流程需要分析師�
 
 ## 相關概念
 
+- [[NawfalMotii79-PLFM_RADAR]] — 以 FPGA、STM32 與 Python GUI 組成的開放相控陣雷達研發專案，非 LLM 工具。
+
 - [[financial-forecasting]] — 金融預測是資料分析的核心應用場景
 - [[visualization]] — 視覺化是資料分析結果的呈現方式
 - [[stock-tracking]] — 股市追蹤產生的數據需要資料分析來解讀

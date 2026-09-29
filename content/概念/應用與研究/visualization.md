@@ -53,6 +53,8 @@ language: zh-TW
 
 ## 相關概念
 
+- [[NawfalMotii79-PLFM_RADAR]] — 以 FPGA、STM32 與 Python GUI 組成的開放相控陣雷達研發專案，非 LLM 工具。
+
 - [[Knowledge-Graph|知識圖譜]] — 知識圖譜提供結構化資料，視覺化是呈現層
 - [[rag|RAG]] — RAG 檢索結果可透過視覺化呈現給使用者
 - [[AI-Agent|AI Agent]] — Agent 使用視覺化工具呈現分析結果

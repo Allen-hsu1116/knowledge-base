@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # 專案索引
@@ -323,6 +323,8 @@ updated: 2026-09-28
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[byoungd-up\|人生進階指南（up）]] | ⭐64,682 | 以真實任務、AI 協作與成果證據串起終身學習的開放內容指南。 | 2026-09-29 |
+| [[cs341-illinois-coursebook\|CS 341 Systems Programming Coursebook]] | ⭐2,515 | 伊利諾大學 CS 341 的 C／Linux 系統程式設計教材與多格式出版原始碼。 | 2026-09-29 |
 | [[kelseyhightower-kubernetes-the-hard-way\|Kubernetes The Hard Way]] | ⭐50,123 | 手動組裝 Kubernetes 叢集的實作教材，重點是理解元件，不是生產部署。 | 2026-09-26 |
 | [[mihail911-modern-software-dev-assignments\|CS146S Modern Software Developer Assignments]] | ⭐4,555 | Stanford CS146S 的實作作業庫，練習 prompting 與 Agent 輔助軟體開發。 | 2026-09-21 |
 | [[ruanyf-weekly\|科技愛好者周刊]] | ⭐103,129 | 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。 | 2026-09-20 |
@@ -367,6 +369,7 @@ updated: 2026-09-28
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NawfalMotii79-PLFM_RADAR\|AERIS-10 / PLFM_RADAR]] | ⭐25,761 | 以 FPGA、STM32 與 Python GUI 組成的開放相控陣雷達研發專案，非 LLM 工具。 | 2026-09-29 |
 | [[willfaust-Madeira\|Madeira]] | ⭐814 | 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 | 2026-09-28 |
 | [[shy3130-tick-stock-panel\|TSP（tick-stock-panel）]] | ⭐5,129 | 結合 A 股選股、監控、回測與可選 LLM 助手的自架研究工作台。 | 2026-09-26 |
 | [[julyx10-lap\|Lap]] | ⭐2,874 | 本地相片管理、CLIP 搜尋、人臉分群、隱私；非聊天 LLM | 2026-09-25 |
@@ -435,6 +438,7 @@ updated: 2026-09-28
 | [[autoresearch]] | ⭐81,499 | AI Agent, AI Skills | 2026-05-03 |
 | [[ZhuLinsen-daily_stock_analysis]] | ⭐38100 | LLM, AI Agent | 2026-05-03 |
 | [[santifer-career-ops]] | ⭐41,864 | AI Agent | 2026-05-03 |
+
 ## 🔄 Agent 自演化
 
 | 專案 | Stars | 概念 | 收錄日期 |

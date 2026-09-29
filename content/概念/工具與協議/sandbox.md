@@ -50,6 +50,8 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 
 ## 相關概念
 
+- [[cs341-illinois-coursebook]] — 伊利諾大學 CS 341 的 C／Linux 系統程式設計教材與多格式出版原始碼。
+
 - [[AI-Agent]] — Agent 需要沙箱來安全執行程式碼
 - [[MCP]] — 沙箱透過 MCP 協議暴露給 Agent
 - [[pentesting]] — 滲透測試需要在沙箱中進行以控制影響範圍

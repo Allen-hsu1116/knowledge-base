@@ -1953,3 +1953,12 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[willfaust-Madeira]]：README 與 metadata 快照、專案頁、概念反向連結及分類索引。
 
 本日候選含一般開源工具；專案頁明確區分其與 LLM 的關係，沒有把影音客戶端、編譯器或遊戲相容層誤稱為 LLM 專案。
+
+
+## 2026-09-29：每日 Trending 收錄
+
+- ingest [[byoungd-up]]：📖 學習資源；保存 README／metadata、專案頁、概念反向連結與索引。
+- ingest [[NawfalMotii79-PLFM_RADAR]]：📊 應用；保存 README／metadata、專案頁、概念反向連結與索引。
+- ingest [[cs341-illinois-coursebook]]：📖 學習資源；保存 README／metadata、專案頁、概念反向連結與索引。
+
+雷達與系統教材為通用 Trending 延伸資源，非 LLM 專案；未新增概念頁。
