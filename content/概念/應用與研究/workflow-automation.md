@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-09-16
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **Openship** → 結合 webhook、建置、部署、路由與 TLS；push-to-deploy 需要公開且常駐的控制平面，見 [[oblien-openship]]。
 
 - **OpenResearch** → 把提出想法、改碼、執行與檢查證據串成 autoresearch 迴圈，透過 Git 實驗樹與不可變來源快照記錄執行；資料與依賴環境仍需自行固定。詳見 [[alphaXiv-OpenResearch]]。
 

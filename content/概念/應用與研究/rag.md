@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-09-19
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **PageIndex** → 使用文件樹與模型推理選擇閱讀路徑，區分 local 文字 PDF 與 Cloud OCR 能力；見 [[VectifyAI-PageIndex]]。
 
 - **RustFS** → 可供管線保存原始文件的 S3 相容物件層；這是基礎設施角色，不自帶檢索、embedding 或生成。詳見 [[rustfs-rustfs]]。
 

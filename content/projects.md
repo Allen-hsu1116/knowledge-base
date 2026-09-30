@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # 專案索引
@@ -157,6 +157,7 @@ updated: 2026-09-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[VectifyAI-PageIndex\|PageIndex]] | ⭐37,384 | 文件樹索引、推理式 RAG、Local／Cloud 功能邊界 | 2026-09-30 |
 | [[vectorize-io-hindsight\|Hindsight]] | ⭐27,784 | Agent 記憶、混合召回、證據整合、knowledge pages | 2026-09-25 |
 | [[Tencent-WeKnora\|WeKnora]] | ⭐25,298 | RAG、ReAct、自動 Wiki、可編輯切塊與工作區治理 | 2026-09-17 |
 | [[jordan-gibbs-hyperresearch\|Hyperresearch]] | ⭐2,616 | 研究 Harness、持久 Markdown vault、來源獨立性與引用審核；benchmark 為內部評估 | 2026-09-12 |
@@ -369,6 +370,7 @@ updated: 2026-09-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[t8y2-dbx\|DBX]] | ⭐22,014 | 多資料庫客戶端、AI SQL、獨立 MCP、連線與寫入權限 | 2026-09-30 |
 | [[NawfalMotii79-PLFM_RADAR\|AERIS-10 / PLFM_RADAR]] | ⭐25,761 | 以 FPGA、STM32 與 Python GUI 組成的開放相控陣雷達研發專案，非 LLM 工具。 | 2026-09-29 |
 | [[willfaust-Madeira\|Madeira]] | ⭐814 | 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 | 2026-09-28 |
 | [[shy3130-tick-stock-panel\|TSP（tick-stock-panel）]] | ⭐5,129 | 結合 A 股選股、監控、回測與可選 LLM 助手的自架研究工作台。 | 2026-09-26 |
@@ -517,6 +519,9 @@ updated: 2026-09-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[rakyll-hey\|hey]] | ⭐20,477 | HTTP 負載測試、每 worker 限速、HTTP/2；非 LLM benchmark | 2026-09-30 |
+| [[oblien-openship\|Openship]] | ⭐13,831 | 自架部署、CI/CD、OpenResty、CLI／MCP、主機權限邊界 | 2026-09-30 |
+| [[NVIDIA-OpenShell\|NVIDIA OpenShell]] | ⭐10,615 | Agent 沙箱、執行期政策、憑證代理、政策變更驗證 | 2026-09-30 |
 | [[vercel-labs-scriptc\|scriptc]] | ⭐5,402 | 將 TypeScript／JavaScript 編譯為原生與 WebAssembly 產物的實驗性編譯器。 | 2026-09-28 |
 | [[microsoft-vscode\|Visual Studio Code / Code - OSS]] | ⭐193,074 | 編輯器、擴充模型、開發容器；原始碼與產品授權分離 | 2026-09-27 |
 | [[llvm-llvm-project\|LLVM Project]] | ⭐40,750 | 編譯器、IR、Clang、LLD 與可重用工具鏈 | 2026-09-27 |

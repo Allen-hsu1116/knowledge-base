@@ -2,7 +2,7 @@
 title: 文件解析
 slug: document-parsing
 created: 2025-06-07
-updated: 2025-06-07
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **品質評估** — ParseBench 五維度：表格保真、圖表數值、內容忠實、格式語義、視覺定位
 
 ## 各框架的做法
+
+- **PageIndex** → 從文字 PDF 版面建立文件樹供後續推理式檢索；代管 OCR 屬 Cloud 功能，見 [[VectifyAI-PageIndex]]。
 
 - **Docling** → IBM 開源文件解析庫，支援多格式、表格保真、圖表數值提取
   👉 詳見 [[docling]]

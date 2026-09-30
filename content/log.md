@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-25
+updated: 2026-09-30
 stars: —
 language: zh-TW
 ---
+
+## 2026-09-30（每日 LLM 熱門專案搜尋）
+
+- 新增 [[VectifyAI-PageIndex]]（記憶與知識管理）、[[t8y2-dbx]]（應用）、[[rakyll-hey]]、[[oblien-openship]]、[[NVIDIA-OpenShell]]（基礎設施）。
+- 保存完整 README 與 metadata 快照，完成十段專案頁、概念 backlinks、日期排序索引與 known-repos 更新；沿用既有概念，未新增概念頁。
+- 區分 local／Cloud 能力、MCP 權限與 host 權限；hey 為一般 HTTP 負載工具，非 LLM benchmark。未安裝或執行候選軟體。
 
 ## 2026-09-25（每日 LLM 熱門專案搜尋）
 

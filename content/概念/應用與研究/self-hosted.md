@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-26
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Openship** → 以桌面或常駐控制平面部署應用，Compose 模式的 Docker socket 具有主機級權限；見 [[oblien-openship]]。
+- **hey（配套測試工具）** → 在已授權的自架 HTTP 端點執行低速負載測試，不等同 LLM token 效能評測；見 [[rakyll-hey]]。
 
 - **TSP（tick-stock-panel）** → A 股選股、監控和回測共用資料口徑，LLM 只讀取數；不等同台股或自動交易。 詳見 [[shy3130-tick-stock-panel]]。
 

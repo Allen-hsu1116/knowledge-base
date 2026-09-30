@@ -2,7 +2,7 @@
 title: 資料分析
 slug: data-analysis
 created: 2026-06-15
-updated: 2026-09-12
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI Agent 正在改變資料分析的工作方式。傳統流程需要分析師�
 - **AI 驅動洞見** — LLM + Agent 自主發現模式、生成假設和解讀結果
 
 ## 各框架的做法
+
+- **DBX** → 資料庫查詢、AI SQL 與獨立 MCP Server；先以唯讀連線檢查模型產生的 SQL，見 [[t8y2-dbx]]。
 
 - **MathModelAgent** → 串接數學建模、程式計算、繪圖與論文排版；模型假設與數值仍需人工重跑驗證。
   👉 詳見 [[jihe520-MathModelAgent]]

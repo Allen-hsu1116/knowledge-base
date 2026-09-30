@@ -2,7 +2,7 @@
 title: 沙箱
 slug: sandbox
 created: 2026-05-18
-updated: 2026-09-22
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 - **MCP 整合**：沙箱透過 MCP 協議暴露給 Claude Code、Cursor 等 AI 工具使用
 
 ## 各框架的做法
+
+- **NVIDIA OpenShell** → 在 runtime 強制檔案、syscall 與網路政策，並代理憑證及審查政策變更；見 [[NVIDIA-OpenShell]]。
 
 - **MVT（Mobile Verification Toolkit）** → MVT 是鑑識工具而非沙箱；處理敏感採集與可疑樣本時，隔離屬分析環境的額外責任。 詳見 [[mvt-project-mvt]]。
 
