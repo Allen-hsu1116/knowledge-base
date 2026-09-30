@@ -2,26 +2,29 @@
 title: Anthropic Skills
 slug: anthropics-skills
 created: 2026-06-08
-updated: 2026-06-08
-stars: 147937
-language: Python
+updated: 2026-09-30
+stars: 179132
+language: zh-TW
 topics: [AI Skills, Frontend Design, Web Testing]
 ---
 
 # Anthropic Skills
 
-> ⭐147937 · Anthropic 官方 Agent Skills 庫，提供結構化的操作指令讓 AI Agent 執行前端設計等任務。
+> ⭐179,132 · Anthropic 官方 Agent Skills 庫，提供結構化的操作指令讓 AI Agent 執行前端設計等任務。
 
 ## 快速導航
 
-
-- 🎨 [[frontend-design]] · 🧪 [[anthropics-skills]] · 🤖 [[AI-Skills]] · [[AI-Skills]]
+- 🤖 [[AI-Skills]] — Agent Skills 的操作知識封裝
+- 🎨 [[frontend-design]] — 前端設計技能
+- 📐 [[agentskills-agentskills]] — Agent Skills 開放規格
 
 ## 是什麼
 
 **Anthropic Skills** 是 Anthropic 官方維護的公開 GitHub 倉庫（[anthropics/skills](https://github.com/anthropics/skills)），旨在為 AI Agent 提供結構化的「技能定義檔」（SKILL.md）。每個技能檔案本質上是一份精心撰寫的 prompt 工程文件，指導 Agent 如何以高品質、可重現的方式完成特定任務。
 
-目前倉庫收錄的核心技能包括 **frontend-design**（前端界面設計指南）和 **webapp-testing**（網頁應用測試工具），涵蓋從設計哲學到測試實作的完整規範。倉庫以 Python 為主要語言，⭐147,937 顆星，是 Agent Skills 領域最具指標性的開源專案之一。
+這不是只有前端設計與測試的 Prompt 清單：每個 Skill 是包含指令、腳本與資源的獨立資料夾，Claude 可依任務動態載入。官方範例涵蓋創意設計、開發測試、MCP 建置、企業溝通與文件處理；文件技能包含 `docx`、`pdf`、`pptx`、`xlsx`，另有 `skill-creator` 等範例。
+
+**授權需逐技能確認**：官方 README 說明許多範例採 Apache-2.0；文件建立／編輯技能屬 source-available，並非開源授權。不能將整個倉庫一概視為 Apache-2.0 或可任意再散布。範例主要供展示與教育，正式使用前仍須在自己的環境測試。
 
 ## 核心特色
 
@@ -40,16 +43,19 @@ git clone https://github.com/anthropics/skills.git
 # 技能檔位於各子目錄的 SKILL.md
 ```
 
-### 2. 在 Claude 專案中使用
+### 2. 使用官方 Claude Code Plugin marketplace
 
-將 `SKILL.md` 加入你的 Claude 專案（`.claude/` 目錄），Agent 會自動讀取並遵循技能規範：
+以下為官方 README 的安裝方式，指令在 Claude Code 中執行；本次僅收錄文件，沒有安裝任何插件。
 
+```text
+/plugin marketplace add anthropics/skills
+/plugin install document-skills@anthropic-agent-skills
+/plugin install example-skills@anthropic-agent-skills
 ```
-your-project/
-├── .claude/
-│   └── SKILL.md    ← 複製 frontend-design 或 webapp-testing 的 SKILL.md
-└── ...
-```
+
+依需求選擇 document-skills 或 example-skills，不必全部安裝。安裝後可在任務中直接要求使用 PDF 等技能。不要把「隨便放一份 `.claude/SKILL.md`」當作官方安裝流程。
+
+Claude.ai 的上傳與使用方式、Claude API 的預建與自訂技能，請以 README 連結的產品文件為準；不能假設不同宿主會自動採用相同路徑與載入規則。
 
 ### 3. Webapp-Testing 實際操作
 
@@ -75,13 +81,12 @@ python scripts/with_server.py \
 
 | 方案 | 定位 | 與 Anthropic Skills 的關係 |
 |------|------|---------------------------|
-| [[AI-Skills|AI Skills 通用概念]] | 概念框架 | Skills 是 AI Skills 概念的官方實作 |
-| [[Nutlope-hallmark|Hallmark]] | 設計 Skill | 受 Anthropic frontend-design 啟發，加入 57 道 slop-test gate 和結構多樣性強制 |
-| [[frontend-design]] | 具體技能 | 倉庫中的前端設計技能定義檔 |
-| [[anthropics-skills]] | 具體技能 | 倉庫中的網頁測試技能定義檔 |
-| [[AI-Skills]] | 生態系 | Skills 是該生態系的標竿專案 |
-| Cursor Rules | 競爭方案 | 同為 Agent 指令系統，但 Skills 更強調結構化與可複製性 |
-| Claude Artifacts | 互補工具 | Skills 定義流程，Artifacts 呈現產出 |
+| [[AI-Skills\|AI Skills 通用概念]] | 操作知識封裝 | 本倉庫是 Anthropic 的實作與範例，不等同所有 Agent Skills 的標準本身 |
+| [[agentskills-agentskills\|Agent Skills 規格]] | 開放格式與互通規範 | 定義格式；anthropics/skills 提供具體技能內容 |
+| [[frontend-design]] | 設計方法論 | 本倉庫包含可用於前端設計的 Skill |
+| [[stanfordnlp-dspy\|DSPy]] | 宣告式 LLM 程式與資料驅動最佳化 | Skills 封裝流程與知識；DSPy 以 metric 搜尋改善，兩者可以互補 |
+| Cursor Rules | Agent 規則設定 | 用途有交集，但技能資料夾還可封裝脚本與參考資源 |
+| Claude Artifacts | 產出呈現工具 | Skills 定義操作方式，Artifacts 用於呈現部分產出 |
 
 ## 相關概念
 
@@ -93,9 +98,11 @@ python scripts/with_server.py \
 - **Playwright**：webapp-testing 技能使用的瀏覽器自動化框架
 - **Reconnaissance-then-Action**：先偵察再行動的測試模式，避免盲猜選擇器
 
-← [[AI-Skills]] · [[frontend-design]] · [[anthropics-skills]] · [[AI-Skills]] · [[agentskills-agentskills]]
+← [[AI-Skills]] · [[frontend-design]] · [[agentskills-agentskills]] · [[Prompt-Engineering]]
 
 ## 來源
+
+- raw/2026-09-30-anthropics-skills.md — 最新 README 快照，含官方安裝流程與混合授權說明。
 
 - https://github.com/anthropics/skills
 - `raw/2026-06-08-anthropics-skills-frontend-design.md`
@@ -107,6 +114,6 @@ python scripts/with_server.py \
 | 欄位 | 資訊 |
 |------|------|
 | GitHub | https://github.com/anthropics/skills |
-| Stars | ⭐147937|
-| License | 未標示 |
+| Stars | ⭐179,132|
+| License | 混合授權：多數範例 Apache-2.0；文件技能 source-available，依各子目錄條款 |
 | 收錄日期 | 2026-06-08 |

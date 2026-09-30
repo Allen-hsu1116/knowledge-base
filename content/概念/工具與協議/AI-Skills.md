@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-18
+updated: 2026-09-30
 language: zh-TW
 ---
 

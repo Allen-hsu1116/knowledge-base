@@ -29,6 +29,10 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 
 ## 各框架的做法
 
+- **DSPy** → 將檢索與生成組合為模組化程式，評測並最佳化任務表現。
+  👉 詳見 [[stanfordnlp-dspy]]
+
+
 - **PageIndex** → 使用文件樹與模型推理選擇閱讀路徑，區分 local 文字 PDF 與 Cloud OCR 能力；見 [[VectifyAI-PageIndex]]。
 
 - **RustFS** → 可供管線保存原始文件的 S3 相容物件層；這是基礎設施角色，不自帶檢索、embedding 或生成。詳見 [[rustfs-rustfs]]。

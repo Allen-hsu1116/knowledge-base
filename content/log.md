@@ -1968,3 +1968,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[cs341-illinois-coursebook]]：📖 學習資源；保存 README／metadata、專案頁、概念反向連結與索引。
 
 雷達與系統教材為通用 Trending 延伸資源，非 LLM 專案；未新增概念頁。
+
+
+## 2026-09-30 使用者指定三個 GitHub 專案
+
+- update：[[WenyuChiou-awesome-agentic-ai-zh]]，更新 README 快照與 Stars，核對雙路線與學習站。
+- update：[[anthropics-skills]]，更新功能範圍、官方插件安裝流程、混合授權並修正重複自連結。
+- ingest：[[stanfordnlp-dspy]]，新增 Signature／Module／GEPA、最小使用範例、資料切分與評測限制。
+- 保存三份不可變 raw 快照；更新專案索引、known-repos 與相關概念反向連結。未安裝插件或執行付費模型呼叫。

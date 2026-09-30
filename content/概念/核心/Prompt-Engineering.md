@@ -2,7 +2,7 @@
 title: Prompt Engineering
 slug: Prompt-Engineering
 created: 2026-06-07
-updated: 2026-09-09
+updated: 2026-09-30
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - **好 prompt 省 token**：結構化 prompt 讓輸出更可預測，也讓 token 使用更高效
 
 ## 各框架的做法
+
+- **DSPy** → 透過 Signature、資料集與 metric 將手動提示詞調整改為可評測的最佳化。
+  👉 詳見 [[stanfordnlp-dspy]]
+
 
 - **i-have-adhd** → 透過結構化規則改善回答的可行動性；輸出簡短不等於事實更正確。
   👉 詳見 [[ayghri-i-have-adhd]]

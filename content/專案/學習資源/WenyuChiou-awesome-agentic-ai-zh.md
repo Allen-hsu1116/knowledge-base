@@ -2,16 +2,16 @@
 title: awesome-agentic-ai-zh
 slug: WenyuChiou-awesome-agentic-ai-zh
 created: 2026-09-02
-updated: 2026-09-07
+updated: 2026-09-30
 language: zh-TW
-stars: 6700
+stars: 7232
 topics: [agentic-ai, learning-resources, cli-agent, production-engineering]
 source: https://github.com/WenyuChiou/awesome-agentic-ai-zh
 ---
 
 # awesome-agentic-ai-zh
 
-> ⭐6.7k · 一套以繁體中文為主、從零基礎一路走到 production-ready Agent 系統的結構化學習地圖；不是單純丟連結的 awesome list，而是把順序、練習與完成條件一起排好。
+> ⭐7,232 · 一套以繁體中文為主、從零基礎一路走到 production-ready Agent 系統的結構化學習地圖；不是單純丟連結的 awesome list，而是把順序、練習與完成條件一起排好。
 
 ## 快速導航
 
@@ -87,13 +87,15 @@ cd awesome-agentic-ai-zh
 - 線上文件：https://wenyuchiou.github.io/awesome-agentic-ai-zh/
 - 語言：繁體中文為主，另有簡體中文與英文
 - 授權：MIT
-- Stars：2026-09-07 GitHub API 查得 6,700
+- Stars：2026-09-30 GitHub API 查得 7,232
 
 ## 相關概念
 
 ← [[AI-Agent]] · [[self-education]] · [[harness-engineering]]
 
 ## 來源
+
+- raw/2026-09-30-WenyuChiou-awesome-agentic-ai-zh.md — 本次官方 README 更新快照；重新核對雙路線與學習站安排。
 
 - raw/2026-09-06-WenyuChiou-awesome-agentic-ai-zh-readme.md — 較早 README 快照，雙路線與安全邊界內容已整理；與下列快照保留各自日期。
 - raw/2026-09-07-WenyuChiou-awesome-agentic-ai-zh.md — 官方 README 原始快照。
@@ -104,6 +106,6 @@ cd awesome-agentic-ai-zh
 | 欄位 | 資訊 |
 |---|---|
 | GitHub | https://github.com/WenyuChiou/awesome-agentic-ai-zh |
-| Stars | ⭐6,700（2026-09-07） |
+| Stars | ⭐7,232（2026-09-30） |
 | License | MIT |
 | 收錄日期 | 2026-09-02 |

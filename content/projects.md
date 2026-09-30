@@ -17,6 +17,7 @@ updated: 2026-09-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[stanfordnlp-dspy\|DSPy]] | ⭐38,435 | 宣告式 LLM 程式、Signature／Module、GEPA 最佳化、RAG／Agent | 2026-09-30 |
 | [[mvschwarz-openrig\|OpenRig]] | ⭐976 | 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 | 2026-09-28 |
 | [[androoAGI-starnet\|StarNet]] | ⭐478 | 將真實 Agent 工作、權限與交接映射為像素太空站的本地優先 Harness。 | 2026-09-26 |
 | [[strands-agents-harness-sdk\|Strands Harness SDK]] | ⭐7,843 | 程序內 Agent loop、預組裝 Harness、Python／TypeScript、hooks 與觀測 | 2026-09-24 |
@@ -331,7 +332,7 @@ updated: 2026-09-30
 | [[ruanyf-weekly\|科技愛好者周刊]] | ⭐103,129 | 以每週科技策展追蹤軟體、AI 與開發者議題的中文閱讀資源。 | 2026-09-20 |
 | [[f-prompts.chat\|prompts.chat]] | ⭐169.0k | 開源 Prompt 資料庫, Web+CLI+API+MCP, 搜尋/投票/分支, 多模型, Docker 自架, MIT+CC0 | 2026-09-04 |
 | [[zyronon-TypeWords\|TypeWords]] | ⭐9.3k | 英文單字與文章練習, 鍵盤輸入, 聽寫, 記憶曲線, 錯題追蹤, 多考試詞庫, Nuxt, 可本機運行 | 2026-09-03 |
-| [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐6,700 | 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收 | 2026-09-02 |
+| [[WenyuChiou-awesome-agentic-ai-zh\|awesome-agentic-ai-zh]] | ⭐7,232 | 繁中 Agentic AI 學習地圖、CLI／Agent 雙路線與驗收 | 2026-09-02 |
 | [[ripienaar-free-for-dev\|free-for.dev]] | ⭐133.9k | 開發者免費服務策展, SaaS/PaaS/IaaS free tier, 雲端與 DevOps 基礎設施, Generative AI, 1600+ 社群貢獻者 | 2026-08-23 |
 | [[microsoft-generative-ai-for-beginners\|Generative AI for Beginners]] | ⭐116.3k | 微軟 21 課 GenAI 入門, LLM, Prompt Engineering, RAG, Function Calling, AI Agent, 微調, Python+TS, 50+ 語言翻譯 | 2026-08-05 |
 | [[Lordog-dive-into-llms\|Dive into LLMs]] | ⭐45k | 上海交通大學大模型教程, 11 主題, 微調/提示/知識編輯/數學推理/水印/越獄/隱寫/多模態/GUI Agent/安全對齊, 華為昇騰國產化 | 2026-07-25 |
@@ -490,7 +491,7 @@ updated: 2026-09-30
 | [[NVIDIA-SkillSpector\|SkillSpector]] | ⭐3496 | Skill 安全掃描, 64 漏洞模式, Prompt Injection, 資料外洩 | 2026-06-13 |
 | [[x1xhlol-system-prompts-and-models-of-ai-tools\|System Prompts Collection]] | ⭐139871 | Prompt Engineering, System Prompts, 安全研究 | 2026-06-12 |
 | [[nexu-io-open-design\|Open Design]] | ⭐61555 | AI Skills, 前端設計, Design System, MCP | 2026-06-08 |
-| [[anthropics-skills\|Anthropic Skills]] | ⭐147937 | AI Skills, Frontend Design, Web Testing | 2026-06-08 |
+| [[anthropics-skills\|Anthropic Skills]] | ⭐179,132 | 官方技能範例、文件處理、SKILL.md、混合授權 | 2026-06-08 |
 | [[nextlevelbuilder-ui-ux-pro-max-skill\|UI UX Pro Max]] | ⭐88842 | AI Skills, Frontend Design, UI/UX | 2026-06-08 |
 | [[openai-skills\|OpenAI Skills]] | ⭐21702 | AI Skills, Figma, Design System | 2026-06-08 |
 | [[vercel-labs-agent-skills\|Vercel Agent Skills]] | ⭐27725 | AI Skills, Web Design, Accessibility | 2026-06-08 |
