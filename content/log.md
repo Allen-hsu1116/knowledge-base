@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-09-30
+updated: 2026-10-01
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-01（每日 LLM 熱門專案搜尋）
+
+- 新增 [[modelcontextprotocol-servers]]（Agent 框架與工具）、[[firebase-firebase-ios-sdk]]（基礎設施）。
+- 保存完整 README、metadata 與 MCP 授權文字；建立十段專案頁、更新相關概念 backlinks、projects 日期排序與 known-repos。
+- 沿用既有概念，未新增概念頁；區分參考 server 與正式環境方案，以及通用 Firebase SDK 與 LLM 功能。未安裝候選專案。
 
 ## 2026-09-30（每日 LLM 熱門專案搜尋）
 

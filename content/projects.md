@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-09-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[modelcontextprotocol-servers\|MCP Servers]] | ⭐90,816 | MCP 參考實作、SDK 示範；非 production-ready | 2026-10-01 |
 | [[stanfordnlp-dspy\|DSPy]] | ⭐38,435 | 宣告式 LLM 程式、Signature／Module、GEPA 最佳化、RAG／Agent | 2026-09-30 |
 | [[mvschwarz-openrig\|OpenRig]] | ⭐976 | 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 | 2026-09-28 |
 | [[androoAGI-starnet\|StarNet]] | ⭐478 | 將真實 Agent 工作、權限與交接映射為像素太空站的本地優先 Harness。 | 2026-09-26 |
@@ -520,6 +521,7 @@ updated: 2026-09-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[firebase-firebase-ios-sdk\|Firebase Apple SDK]] | ⭐6,767 | Apple SDK、Firebase AI Logic、Swift Package Manager | 2026-10-01 |
 | [[rakyll-hey\|hey]] | ⭐20,477 | HTTP 負載測試、每 worker 限速、HTTP/2；非 LLM benchmark | 2026-09-30 |
 | [[oblien-openship\|Openship]] | ⭐13,831 | 自架部署、CI/CD、OpenResty、CLI／MCP、主機權限邊界 | 2026-09-30 |
 | [[NVIDIA-OpenShell\|NVIDIA OpenShell]] | ⭐10,615 | Agent 沙箱、執行期政策、憑證代理、政策變更驗證 | 2026-09-30 |

@@ -2,7 +2,7 @@
 title: Knowledge Graph（知識圖譜）
 slug: Knowledge-Graph
 created: 2026-06-22
-updated: 2026-09-11
+updated: 2026-10-01
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **GraphRAG**：知識圖譜 + RAG 結合，沿語義關聯路徑檢索，比 flat RAG 更精準
 
 ## 各框架的做法
+
+- **MCP Memory reference server** → 展示以知識圖譜保存持久記憶，不應直接當成正式環境資料庫。見 [[modelcontextprotocol-servers]]。
 
 - **LLM Wiki（nashsu）** → 以兩階段 ingest、持久 Markdown、四訊號關聯與 Louvain 社群偵測實作桌面知識庫。
   👉 詳見 [[nashsu-llm_wiki]]

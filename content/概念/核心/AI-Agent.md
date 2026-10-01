@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-09-30
+updated: 2026-10-01
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **MCP 參考 Servers** → 提供工具與資料能力，仍需搭配 Agent／MCP client，並非完整 Agent runtime。見 [[modelcontextprotocol-servers]]。
 
 - **DSPy** → 用 ReAct 與模組組合 Agent loop，並以任務資料和評分函式改善提示詞。
   👉 詳見 [[stanfordnlp-dspy]]

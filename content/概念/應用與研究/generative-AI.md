@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-09-21
+updated: 2026-10-01
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- **Firebase Apple SDK** → 包含 Firebase AI Logic，作為 Apple App 整合生成式 AI 的服務 SDK；非模型訓練或自架推論框架。見 [[firebase-firebase-ios-sdk]]。
 
 - **json-render**：以元件目錄和 JSON 規格約束模型，串流生成可渲染的使用者介面。 → [[vercel-labs-json-render]]
 

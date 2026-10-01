@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-09-30
+updated: 2026-10-01
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **官方參考 Servers** → 展示 SDK、tools/resources/prompts 與各種工具服務；官方明確標示非 production-ready，需自行設計安全控制。見 [[modelcontextprotocol-servers]]。
 
 - **DBX** → 獨立 MCP Server 沿用資料庫連線，提供 allowlist 與三種讀寫模式；見 [[t8y2-dbx]]。
 - **Openship** → 僅將 opt-in routes 暴露為 MCP tools，每次重新檢查權限；部署操作仍具有主機風險，見 [[oblien-openship]]。
