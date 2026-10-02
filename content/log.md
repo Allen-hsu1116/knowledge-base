@@ -1982,3 +1982,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - update：[[anthropics-skills]]，更新功能範圍、官方插件安裝流程、混合授權並修正重複自連結。
 - ingest：[[stanfordnlp-dspy]]，新增 Signature／Module／GEPA、最小使用範例、資料切分與評測限制。
 - 保存三份不可變 raw 快照；更新專案索引、known-repos 與相關概念反向連結。未安裝插件或執行付費模型呼叫。
+
+## [2026-10-02] ingest | 每日 Trending
+
+- [[HunxByts-GhostTrack]]：應用；OSINT 查詢，非 LLM，註明授權與隱私限制。
+- [[tile-ai-tilelang]]：效能與壓縮；kernel DSL、多後端編譯，核對 LICENSE 原文。
+- [[pablostanley-yoinks]]：多媒體與爬蟲；yt-dlp TUI，非 LLM。
+- [[Friedrich-M-UniMate]]：多媒體與爬蟲；文字條件跨骨架動作生成，區分程式碼與資料授權。
+- 保存 README／metadata，建立完整專案頁，更新八個概念反向連結、分類索引與 known-repos。未新增概念頁，也未安裝或執行候選軟體。

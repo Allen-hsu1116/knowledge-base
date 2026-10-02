@@ -2,7 +2,7 @@
 title: 電腦視覺
 slug: computer-vision
 created: 2026-05-18
-updated: 2026-09-24
+updated: 2026-10-02
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CV 的主要任務涵蓋多個層次：影像分類（識別物體類別，如 R
 - **OCR 文字辨識** — 從影像中提取文字，GPU 加速可達 270img/s
 
 ## 各框架的做法
+
+- **UniMate（圖形學相鄰研究）** → 在已知骨架拓樸與文字條件下生成關節動作，而非從影像估計骨架；輸出可經資料管線驅動網格。詳見 [[Friedrich-M-UniMate]]。
 
 - **Lap** → 在桌面相片庫以 ONNX Runtime、CLIP 與人臉功能進行本地檢索和分群，屬電腦視覺應用而非聊天 LLM。詳見 [[julyx10-lap]]。
 

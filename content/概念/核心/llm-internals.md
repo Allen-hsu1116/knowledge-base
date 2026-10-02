@@ -2,7 +2,7 @@
 title: LLM 底層技術
 slug: llm-internals
 created: 2026-06-04
-updated: 2026-09-27
+updated: 2026-10-02
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Positional Embedding 從 Sinusoidal（2017）到 ALiBi（2021）到 RoPE（2022�
 - **快取命中原則**：System prompt 中穩定內容放前面、變動內容放後面，讓 KV Cache 跨對話共用
 
 ## 各框架的做法
+
+- **TileLang** → 使用 Pythonic tile DSL 與 TVM 編譯基礎實作 GEMM、FlashAttention、MLA 等算子；效能需依硬體與形狀驗證。詳見 [[tile-ai-tilelang]]。
 
 - **TensorFlow** → 通用模型框架提供 Python／C++ API；與專用語言模型 serving 引擎分屬不同定位。詳見 [[tensorflow-tensorflow]]。
 - **LLVM Project** → 提供 IR、編譯與最佳化工具鏈；是原生程式與低階運算工具的底層支援，不是 LLM 服務。詳見 [[llvm-llvm-project]]。

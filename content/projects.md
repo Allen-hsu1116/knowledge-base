@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # 專案索引
@@ -254,6 +254,8 @@ updated: 2026-10-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[pablostanley-yoinks\|yoinks]] | ⭐2,939 | yt-dlp 終端 UI、影音下載；非 LLM | 2026-10-02 |
+| [[Friedrich-M-UniMate\|UniMate]] | ⭐1,079 | 文字條件跨骨架動作生成、flow matching、3D 動畫 | 2026-10-02 |
 | [[InfinityLoop1308-PipePipe\|PipePipe]] | ⭐6,572 | 以 NewPipe 硬分叉為基礎的 Android 影音客戶端；不是 LLM 工具。 | 2026-09-28 |
 | [[FxEmbed-FxEmbed\|FxEmbed]] | ⭐5,365 | X／Bluesky 媒體預覽、Cloudflare Worker、自架；非 LLM | 2026-09-25 |
 | [[harry7557558-spirula-studio\|Spirula Studio]] | ⭐739 | Vulkan／CUDA 3D Gaussian Splatting、SfM、網格重建；非 LLM | 2026-09-24 |
@@ -311,6 +313,7 @@ updated: 2026-10-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tile-ai-tilelang\|TileLang]] | ⭐8,113 | Pythonic kernel DSL、TVM、多後端、Attention 算子 | 2026-10-02 |
 | [[NVIDIA-Model-Optimizer\|NVIDIA Model Optimizer]] | ⭐4,079 | PTQ、QAT／QAD、剪枝、蒸餾、checkpoint 匯出 | 2026-09-25 |
 | [[linshenkx-prompt-optimizer\|Prompt Optimizer]] | ⭐31489 | Prompt 優化, 多模型, 圖片生成, MCP, 多平台部署 | 2026-06-28 |
 | [[mksglu-context-mode\|Context Mode]] | ⭐17358 | Context Optimization, 沙箱工具輸出, MCP, 98% 壓縮, 15 平台 | 2026-06-14 |
@@ -372,6 +375,7 @@ updated: 2026-10-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[HunxByts-GhostTrack\|GhostTrack]] | ⭐16,404 | 授權 OSINT 資訊查詢；非 LLM、不代表即時定位 | 2026-10-02 |
 | [[t8y2-dbx\|DBX]] | ⭐22,014 | 多資料庫客戶端、AI SQL、獨立 MCP、連線與寫入權限 | 2026-09-30 |
 | [[NawfalMotii79-PLFM_RADAR\|AERIS-10 / PLFM_RADAR]] | ⭐25,761 | 以 FPGA、STM32 與 Python GUI 組成的開放相控陣雷達研發專案，非 LLM 工具。 | 2026-09-29 |
 | [[willfaust-Madeira\|Madeira]] | ⭐814 | 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 | 2026-09-28 |

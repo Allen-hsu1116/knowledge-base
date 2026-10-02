@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-10-01
+updated: 2026-10-02
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- **UniMate** → 以文字與骨架條件的 flow matching 生成 3D 動作，提供補間、編輯與片段擴展；資料授權與任意 rig 支援仍須分別確認。詳見 [[Friedrich-M-UniMate]]。
 
 - **Firebase Apple SDK** → 包含 Firebase AI Logic，作為 Apple App 整合生成式 AI 的服務 SDK；非模型訓練或自架推論框架。見 [[firebase-firebase-ios-sdk]]。
 
