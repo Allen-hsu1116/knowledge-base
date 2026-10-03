@@ -2,7 +2,7 @@
 title: 可觀測性
 slug: observability
 created: 2026-06-12
-updated: 2026-09-30
+updated: 2026-10-03
 language: zh-TW
 ---
 
@@ -31,6 +31,9 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Sentry** → 以跨語言 SDK 收集錯誤與效能 trace；Python SDK 列有 OpenAI 整合，但不能等同完整 LLM 評測平台。詳見 [[getsentry-sentry]]。
+- **Effect** → 在 TypeScript 應用底座整合 tracing 並提供 OpenTelemetry 套件；本身不是監控後端。詳見 [[Effect-TS-effect]]。
+
 - **hey（配套測試工具）** → 產生受控 HTTP 負載與回應統計，需配合服務端日誌與資源指標；不是 tracing 平台，見 [[rakyll-hey]]。
 
 - **Cilium** → 以 eBPF 提供網路流量與安全可見性，與 Prompt/token 觀測不同層。詳見 [[cilium-cilium]]。
@@ -58,6 +61,8 @@ language: zh-TW
 
 ## 來源
 
+- `raw/2026-10-03-getsentry-sentry.md`
+- `raw/2026-10-03-Effect-TS-effect.md`
 - Langfuse LLM 觀測平台文件
 - 可觀測性工程實踐
 - AI Agent 分析工具趨勢

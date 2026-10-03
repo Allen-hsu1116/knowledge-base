@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 專案索引
@@ -525,6 +525,8 @@ updated: 2026-10-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[getsentry-sentry\|Sentry]] | ⭐45,032 | 錯誤監控、效能追蹤、Python OpenAI 整合；平台為 FSL 授權 | 2026-10-03 |
+| [[Effect-TS-effect\|Effect]] | ⭐16,552 | TypeScript 工程底座、型別化錯誤、並行、AI providers、OpenTelemetry | 2026-10-03 |
 | [[firebase-firebase-ios-sdk\|Firebase Apple SDK]] | ⭐6,767 | Apple SDK、Firebase AI Logic、Swift Package Manager | 2026-10-01 |
 | [[rakyll-hey\|hey]] | ⭐20,477 | HTTP 負載測試、每 worker 限速、HTTP/2；非 LLM benchmark | 2026-09-30 |
 | [[oblien-openship\|Openship]] | ⭐13,831 | 自架部署、CI/CD、OpenResty、CLI／MCP、主機權限邊界 | 2026-09-30 |

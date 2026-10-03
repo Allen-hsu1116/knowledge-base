@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-09-30
+updated: 2026-10-03
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Sentry** → 平台與 self-hosted 部署封裝分離；官方自架 README 定位低流量與概念驗證，應評估資源及維運成本。詳見 [[getsentry-sentry]]。
 
 - **Openship** → 以桌面或常駐控制平面部署應用，Compose 模式的 Docker socket 具有主機級權限；見 [[oblien-openship]]。
 - **hey（配套測試工具）** → 在已授權的自架 HTTP 端點執行低速負載測試，不等同 LLM token 效能評測；見 [[rakyll-hey]]。

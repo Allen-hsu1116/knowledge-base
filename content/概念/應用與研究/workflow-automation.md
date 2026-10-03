@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-09-30
+updated: 2026-10-03
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **Effect** → 以 TypeScript 的型別化錯誤、依賴注入、結構化並行與排程組合流程，並提供 AI provider adapters；不是視覺化工作流產品。詳見 [[Effect-TS-effect]]。
 
 - **Openship** → 結合 webhook、建置、部署、路由與 TLS；push-to-deploy 需要公開且常駐的控制平面，見 [[oblien-openship]]。
 

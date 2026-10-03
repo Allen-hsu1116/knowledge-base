@@ -1990,3 +1990,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - [[pablostanley-yoinks]]：多媒體與爬蟲；yt-dlp TUI，非 LLM。
 - [[Friedrich-M-UniMate]]：多媒體與爬蟲；文字條件跨骨架動作生成，區分程式碼與資料授權。
 - 保存 README／metadata，建立完整專案頁，更新八個概念反向連結、分類索引與 known-repos。未新增概念頁，也未安裝或執行候選軟體。
+
+## [2026-10-03] ingest | 每日 LLM Trending
+
+- [[getsentry-sentry]]：基礎設施；錯誤監控與 trace，Python SDK 明列 OpenAI 整合，核對平台 FSL 與 SDK MIT 的區別。
+- [[Effect-TS-effect]]：基礎設施；TypeScript 應用底座及 AI providers，記錄主分支 v4 LTS 與版本需求。
+- 候選兩筆均完成 README／metadata 保存、專案頁與分類索引；更新 observability、self-hosted、workflow-automation backlinks 及 known-repos。
+- 概念沿用既有頁面，未新增概念，也未安裝或執行候選軟體。
