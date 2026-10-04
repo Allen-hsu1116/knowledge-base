@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cloudflare-cloudflare-os\|Cloudflare OS]] | ⭐10,570 | Workers、Gadgets、Code Mode、Gatekeepers 與延後核准 | 2026-10-04 |
 | [[modelcontextprotocol-servers\|MCP Servers]] | ⭐90,816 | MCP 參考實作、SDK 示範；非 production-ready | 2026-10-01 |
 | [[stanfordnlp-dspy\|DSPy]] | ⭐38,435 | 宣告式 LLM 程式、Signature／Module、GEPA 最佳化、RAG／Agent | 2026-09-30 |
 | [[mvschwarz-openrig\|OpenRig]] | ⭐976 | 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 | 2026-09-28 |
@@ -254,6 +255,7 @@ updated: 2026-10-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[meituan-longcat-LongCat-Video\|LongCat-Video]] | ⭐8,740 | 統一影片生成、影片延續、音訊驅動 Avatar 1.5 | 2026-10-04 |
 | [[pablostanley-yoinks\|yoinks]] | ⭐2,939 | yt-dlp 終端 UI、影音下載；非 LLM | 2026-10-02 |
 | [[Friedrich-M-UniMate\|UniMate]] | ⭐1,079 | 文字條件跨骨架動作生成、flow matching、3D 動畫 | 2026-10-02 |
 | [[InfinityLoop1308-PipePipe\|PipePipe]] | ⭐6,572 | 以 NewPipe 硬分叉為基礎的 Android 影音客戶端；不是 LLM 工具。 | 2026-09-28 |

@@ -1997,3 +1997,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - [[Effect-TS-effect]]：基礎設施；TypeScript 應用底座及 AI providers，記錄主分支 v4 LTS 與版本需求。
 - 候選兩筆均完成 README／metadata 保存、專案頁與分類索引；更新 observability、self-hosted、workflow-automation backlinks 及 known-repos。
 - 概念沿用既有頁面，未新增概念，也未安裝或執行候選軟體。
+
+
+## [2026-10-04] ingest | Cloudflare OS、LongCat-Video
+
+- 收錄兩個搜尋候選專案，保存完整 README 與 metadata 原始快照。
+- Cloudflare OS：Agent 框架與工具；LongCat-Video：多媒體與爬蟲。
+- 建立完整專案頁，更新 AI-Agent、self-hosted、AI-video-generation、generative-AI 反向連結及 known-repos；沿用現有概念，不新增概念頁。

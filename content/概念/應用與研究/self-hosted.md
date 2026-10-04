@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-10-03
+updated: 2026-10-04
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Cloudflare OS** → 可本地試用或部署到自己的 Cloudflare 帳號；自有伺服器 workerd 的完整工具與文件仍列為 coming soon，不宜把試用流程當成正式部署。詳見 [[cloudflare-cloudflare-os]]。
 
 - **Sentry** → 平台與 self-hosted 部署封裝分離；官方自架 README 定位低流量與概念驗證，應評估資源及維運成本。詳見 [[getsentry-sentry]]。
 
