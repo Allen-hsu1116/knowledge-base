@@ -2,7 +2,7 @@
 title: Model Context Protocol Servers
 slug: modelcontextprotocol-servers
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-04
 stars: 90816
 language: zh-TW
 topics: [MCP, AI-Agent, Knowledge-Graph]
@@ -92,6 +92,7 @@ uvx mcp-server-git
 - [LICENSE：授權過渡說明](https://github.com/modelcontextprotocol/servers/blob/main/LICENSE)
 - 原始快照：`raw/2026-10-01-modelcontextprotocol-servers.md`
 - Metadata：`raw/2026-10-01-modelcontextprotocol-servers.metadata.json`
+- 授權過渡原文快照：`raw/2026-10-01-modelcontextprotocol-servers.LICENSE.txt`（新貢獻與既有未再授權貢獻適用不同授權）。
 
 ---
 

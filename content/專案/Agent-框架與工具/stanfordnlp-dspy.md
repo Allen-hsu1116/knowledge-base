@@ -2,7 +2,7 @@
 title: DSPy
 slug: stanfordnlp-dspy
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-04
 stars: 38435
 language: zh-TW
 topics: [AI Agent, Prompt Engineering, RAG, optimization]
@@ -107,9 +107,11 @@ print(result)
 
 ---
 
-- **GitHub**：https://github.com/stanfordnlp/dspy
-- **Stars**：⭐38,435（2026-09-30 GitHub API 快照）
-- **License**：MIT
-- **實作語言**：Python
-- **版本快照**：3.4.0（2026-09-25 發布）
-- **收錄日期**：2026-09-30
+| 欄位 | 資料 |
+| --- | --- |
+| GitHub | https://github.com/stanfordnlp/dspy |
+| Stars | ⭐38,435（2026-09-30 GitHub API 快照） |
+| License | MIT |
+| 實作語言 | Python |
+| 版本快照 | 3.4.0（2026-09-25 發布） |
+| 收錄日期 | 2026-09-30 |

@@ -2004,3 +2004,14 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 收錄兩個搜尋候選專案，保存完整 README 與 metadata 原始快照。
 - Cloudflare OS：Agent 框架與工具；LongCat-Video：多媒體與爬蟲。
 - 建立完整專案頁，更新 AI-Agent、self-hosted、AI-video-generation、generative-AI 反向連結及 known-repos；沿用現有概念，不新增概念頁。
+
+## [2026-10-04] lint | 全庫格式、來源與矛盾修復
+
+- 掃描 614 篇 wiki、660 個 raw 資產；依來源引用標記整理狀態，不改動 raw。
+- [[stanfordnlp-dspy]]：將 metadata footer 統一為 GitHub／Stars／License／收錄日期表格。
+- [[modelcontextprotocol-servers]]：补上既存 LICENSE 快照引用，消除未整理 raw 誤漏。
+- [[Mininglamp-AI-Mano-P]]：依官方 README 修正 CLI 預設雲端與本地模式邊界；區分 CUA 基礎設施與 opencua-72b 模型，補本地設定指令。
+- [[maziyarpanahi-openmed]]：依官方 README 修正無條件資料不外傳說法，補 remote adapters、telemetry、模型授權及臨床驗證限制。
+- [[supertone-inc-supertonic]]：補封存與停止支援狀態、修正語言列表、改採封存版模型下載指令，區分程式與模型授權，修正 Ollama 連結。
+- 結構複驗：無斷鏈／合併殘鏈、孤兒頁、tags、空 frontmatter、未跳脫正文貨幣符號、缺 Stars、模板缺項、日期排序及收錄日期矛盾；待分類區為空。
+- 語意檢查採全庫風險語句與 metadata 掃描，加上上述專案官方來源核對；不等於所有歷史文字均逐句重新查證。詳細審計與備份保存在 outputs/。
