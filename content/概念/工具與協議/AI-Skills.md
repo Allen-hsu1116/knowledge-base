@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-09-30
+updated: 2026-10-05
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **pstack（多 Harness 移植版）** → 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 詳見 [[michael-denyer-pstack-claude]]。
 
 - **Treg** → 將 SKILL.md、工具及 secrets 組成共享 bundle；upload 可能上傳敏感內容，須先 scan 並確認範圍。詳見 [[superdesigndev-treg]]。
 

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tester-army-e2e\|e2e（TesterArmy）]] | ⭐3,118 | 結合自然語言 Agent 操作、明確斷言與動作重播的 Web／行動端測試框架。 | 2026-10-05 |
 | [[cloudflare-cloudflare-os\|Cloudflare OS]] | ⭐10,570 | Workers、Gadgets、Code Mode、Gatekeepers 與延後核准 | 2026-10-04 |
 | [[modelcontextprotocol-servers\|MCP Servers]] | ⭐90,816 | MCP 參考實作、SDK 示範；非 production-ready | 2026-10-01 |
 | [[stanfordnlp-dspy\|DSPy]] | ⭐38,435 | 宣告式 LLM 程式、Signature／Module、GEPA 最佳化、RAG／Agent | 2026-09-30 |
@@ -231,7 +232,7 @@ updated: 2026-10-04
 | [[LMCache-LMCache\|LMCache]] | ⭐8600 | KV Cache 加速, 跨實例共享, TTFT 降低, vLLM | 2026-06-13 |
 | [[lyogavin-airllm\|AirLLM]] | ⭐18902 | LLM, 分層推理, 低 VRAM, 記憶體最佳化 | 2026-06-04 |
 | [[p-e-w-heretic\|Heretic]] | ⭐22010 | LLM, 模型安全, 審查移除 | 2026-05-28 |
-| [[ds4\|DS4]] | ⭐'10277' | LLM, 推論加速, 本地部署, DeepSeek | 2026-05-13 |
+| [[ds4\|DwarfStar（ds4）]] | ⭐23,447 | 特定模型本地推論、Metal／CUDA／ROCm、SSD streaming（2026-10-05 更新） | 2026-05-13 |
 | [[huggingface-transformers\|Hugging Face Transformers]] | ⭐160,425 | LLM, 模型生態 | 2026-05-10 |
 | [[llama-cpp\|llama.cpp]] | ⭐109,260 | LLM, 推論加速, 本地部署 | 2026-05-10 |
 | [[sgl-project-sglang\|SGLang]] | ⭐27,589 | LLM, 推論加速, 多模態 | 2026-05-10 |
@@ -460,6 +461,7 @@ updated: 2026-10-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[michael-denyer-pstack-claude\|pstack（多 Harness 移植版）]] | ⭐1,141 | 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 | 2026-10-05 |
 | [[Tencent-BrowserSkill\|BrowserSkill]] | ⭐4,148 | 真實登入瀏覽器、CLI、擴充、Skill、人類接手 | 2026-09-18 |
 | [[cloudflare-security-audit-skill\|Cloudflare Security Audit Skill]] | ⭐7,247 | 六階段安全稽核、覆蓋帳本、獨立驗證與三態 findings | 2026-09-17 |
 | [[rlaope-oh-my-hermes\|oh-my-hermes]] | ⭐2,040 | Hermes 社群插件、模型路由、專家 Skills、驗證 gate、審核式記憶 | 2026-09-15 |
@@ -527,6 +529,7 @@ updated: 2026-10-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[caddyserver-caddy\|Caddy]] | ⭐76,567 | 以自動 HTTPS、Caddyfile 與動態設定提供自架服務的 HTTP 入口。 | 2026-10-05 |
 | [[getsentry-sentry\|Sentry]] | ⭐45,032 | 錯誤監控、效能追蹤、Python OpenAI 整合；平台為 FSL 授權 | 2026-10-03 |
 | [[Effect-TS-effect\|Effect]] | ⭐16,552 | TypeScript 工程底座、型別化錯誤、並行、AI providers、OpenTelemetry | 2026-10-03 |
 | [[firebase-firebase-ios-sdk\|Firebase Apple SDK]] | ⭐6,767 | Apple SDK、Firebase AI Logic、Swift Package Manager | 2026-10-01 |

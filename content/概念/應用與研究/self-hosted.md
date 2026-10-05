@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-10-04
+updated: 2026-10-05
 language: zh-TW
 ---
 
@@ -30,6 +30,10 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **DwarfStar（antirez/ds4）** → 針對少數大型開放權重模型最佳化的原生本地推論引擎。 詳見 [[ds4]]。
+
+- **Caddy** → 以自動 HTTPS、Caddyfile 與動態設定提供自架服務的 HTTP 入口。 詳見 [[caddyserver-caddy]]。
 
 - **Cloudflare OS** → 可本地試用或部署到自己的 Cloudflare 帳號；自有伺服器 workerd 的完整工具與文件仍列為 coming soon，不宜把試用流程當成正式部署。詳見 [[cloudflare-cloudflare-os]]。
 

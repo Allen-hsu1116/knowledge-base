@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-09-28
+updated: 2026-10-05
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **pstack（多 Harness 移植版）** → 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 詳見 [[michael-denyer-pstack-claude]]。
+
+- **e2e（TesterArmy）** → 結合自然語言 Agent 操作、明確斷言與動作重播的 Web／行動端測試框架。 詳見 [[tester-army-e2e]]。
 
 - **Madeira** → 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 詳見 [[willfaust-Madeira]]。
 

@@ -2015,3 +2015,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - [[supertone-inc-supertonic]]：補封存與停止支援狀態、修正語言列表、改採封存版模型下載指令，區分程式與模型授權，修正 Ollama 連結。
 - 結構複驗：無斷鏈／合併殘鏈、孤兒頁、tags、空 frontmatter、未跳脫正文貨幣符號、缺 Stars、模板缺項、日期排序及收錄日期矛盾；待分類區為空。
 - 語意檢查採全庫風險語句與 metadata 掃描，加上上述專案官方來源核對；不等於所有歷史文字均逐句重新查證。詳細審計與備份保存在 outputs/。
+
+## [2026-10-05] ingest | 每日熱門專案
+
+- [[caddyserver-caddy]]：🏗 基礎設施；README／metadata 快照、專案頁、雙向連結、索引與去重清單。
+- [[ds4]]：🧠 模型推論與部署；README／metadata 快照、專案頁、雙向連結、索引與去重清單。
+- [[tester-army-e2e]]：🤖 Agent 框架與工具；README／metadata 快照、專案頁、雙向連結、索引與去重清單。
+- [[michael-denyer-pstack-claude]]：🛠 Skill 生態系；README／metadata 快照、專案頁、雙向連結、索引與去重清單。
+- 去重校正：antirez/ds4 已於 2026-05-13 收錄為 [[ds4]]，改更新既有頁並补 repo alias；本日實際新增 3 個 repo，更新 1 個。

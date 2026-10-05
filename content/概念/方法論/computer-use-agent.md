@@ -2,7 +2,7 @@
 title: Computer Use Agent
 slug: computer-use-agent
 created: 2026-05-18
-updated: 2026-09-18
+updated: 2026-10-05
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Computer Use Agent（CUA）是 AI Agent 的進階形態，能直接操控圖形�
 - **錯誤恢復** — 偵測操作失敗（彈窗、載入錯誤）並自動調整策略
 
 ## 各框架的做法
+
+- **e2e（TesterArmy）** → 結合自然語言 Agent 操作、明確斷言與動作重播的 Web／行動端測試框架。 詳見 [[tester-army-e2e]]。
 
 - **BrowserSkill** → 用獨立 Agent Window 共用登入狀態，明確借用既有分頁並支援人類接手。詳見 [[Tencent-BrowserSkill]]。
 

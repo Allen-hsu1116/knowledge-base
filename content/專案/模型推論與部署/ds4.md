@@ -1,96 +1,95 @@
 ---
-title: DS4
-slug: ds4
-created: 2026-05-13
-stars: '⭐10277'
-updated: 2026-06-14
-language: zh-TW
-topics: [LLM, 推論加速, 本地部署, DeepSeek]
+title: "DwarfStar（antirez/ds4）"
+slug: "ds4"
+created: "2026-05-13"
+updated: "2026-10-05"
+stars: 23447
+language: "C"
+topics: []
 ---
 
-# DS4 — DeepSeek 4 Flash 本地推論引擎
+# DwarfStar（antirez/ds4）
 
-> ⭐10277 · Redis 創造者 antirez 為 DeepSeek V4 Flash 打造的專用本地推論引擎。不是通用 runner，而是端到端完成的單模型方案。
+> ⭐23.4k · C · 針對少數大型開放權重模型最佳化的原生本地推論引擎。
 
 ## 快速導航
 
-
-- 🧠 **LLM** → [[LLM]]: DS4 是 LLM 推論引擎
-- ⚡ **LLM 底層** → [[llm-internals|LLM 底層技術]]: KV cache 壓縮是底層技術的一環
-- 🖥️ **Ollama** → [[模型推論與部署|Ollama]]: 通用本地部署方案，DS4 是單模型專用方案
-- 🔧 **llama.cpp** → [[llama-cpp|llama.cpp]]: DS4 基於 llama.cpp/GGML 開發路徑
+- [[模型推論與部署]]
+- [[self-hosted]]
 
 ## 是什麼
 
+> 2026-10-05 更新：舊頁的單模型定位與 ROCm 分支描述已過時；以下依最新 README 更新。
 
-DS4（DrawfStar 4）是 antirez 為 DeepSeek V4 Flash 打造的專用本地推論引擎。
+儲存庫名稱仍是 ds4，但目前 README 使用 DwarfStar 名稱。它以少數模型和特定硬體為優先，整合模型載入、提示模板、工具呼叫、KV 狀態、HTTP server 與原生 Coding Agent。
 
-不是通用 GGUF runner，而是完全自包含的單模型引擎，針對 Metal（macOS）和 CUDA（NVIDIA）最佳化。
+它刻意不是通用 GGUF runner，需搭配專案提供的 GGUF。README 列出 DeepSeek、GLM 與 Qwen 系列的特定版本支援，各平台能力不同；應以當期模型與硬體文件核對，不能推論所有同系列權重皆可直接使用。
 
 ## 核心特色
 
-- **DeepSeek V4 Flash 專用最佳化** — 不是通用推論引擎，而是針對 DeepSeek V4 Flash 的架構特性（MoE、KV cache 壓縮、2-bit 量化）做深度最佳化
-- **KV Cache 壓縮** — 極度壓縮的 KV cache，支援磁碟持久化。1M context window 在消費級硬體上也能跑
-- **2-bit 量化** — 特殊量化方式，128GB MacBook 可跑，96GB 也有人成功跑 250k context
-- **端到端完成** — 推論引擎 + HTTP API（ds4-server）+ 特製 GGUF + 測試驗證一體。不是只讓模型「能跑」，而是讓一個本地模型端到端地「完成」
-- **Metal + CUDA 雙後端** — 主要目標 macOS Metal（96GB+ RAM），也支援 NVIDIA CUDA（特別針對 DGX Spark），AMD ROCm 有獨立分支
+- 多硬體後端：Metal 為主要目標，另有 CUDA 與 Strix Halo ROCm 路徑。
+
+- SSD streaming：在 RAM 不足時以 SSD 串流支援較大模型，仍受儲存與記憶體頻寬限制。
+
+- 整合工具鏈：同時提供對話 CLI、原生 ds4-agent 與 ds4-server。
+
+- KV 狀態保存：相容本地快照可減少重建 prompt；影像 session 目前不能保存。
+
+- 多機／多卡路徑：README 描述 RDMA tensor parallelism 與 pipeline parallelism，需特定設定。
 
 ## 怎麼用
 
+以下是 README 的 Apple Silicon Metal 起步流程；一般建議 96GB 以上記憶體，較小機器須先閱讀 SSD streaming 指南。
+
 ```bash
-# 下載預建二進位檔
-# 從 GitHub Releases 下載對應平台版本
-# https://github.com/antirez/ds4/releases
-
-# 啟動伺服器
-./ds4-server --model path/to/model.gguf
-
-# API 呼叫（OpenAI 相容格式）
-curl http://localhost:8080/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -d '{"model":"deepseek-v4-flash","messages":[{"role":"user","content":"Hello"}]}'
+git clone https://github.com/antirez/ds4.git
+cd ds4
+make
+./download_model.sh ds4f-q2
+./ds4 -p "Explain Redis streams in one paragraph."
 ```
 
-### DeepSeek V4 Flash 為什麼值得專用引擎
+### 使用流程
 
-| 優勢 | 說明 |
-|------|------|
-| 更快的推論 | active parameters 更少，比同級 dense 模型快 |
-| 思考更短 | thinking section 長度與問題複雜度成正比，最短可到其他模型的 1/5 |
-| 1M context | 百萬 token 上下文視窗 |
-| KV cache 壓縮 | 極度壓縮的 KV cache，支援磁碟持久化 |
-| 2-bit 量化 | 特殊量化方式，128GB MacBook 可跑 |
+1. 模型下載到 gguf/；需為 context 與 runtime buffers 額外保留記憶體。
+
+2. 啟動 ./ds4-server --ctx 32768 可提供服務，README 的預設位址為 http://127.0.0.1:8000。
+
+3. 使用 ./ds4-agent 可直接執行原生 Agent，不必另開 HTTP server；外部 Coding Agent 則參閱 CLIENTS.md。
+
+### 限制與採用提醒
+
+專案明確標示 beta，版本變化快；README 的速度案例不是跨硬體效能保證。保存的對話與 KV traces 也可能含私密資訊。
+
+以上指令為官方文件範例整理，本次僅完成資料收錄，未執行安裝或產品效能測試。
 
 ## 跟其他方案的關係
 
+以下是功能定位比較，不是相同條件的 benchmark。
 
-DS4 跟 [[模型推論與部署|Ollama]] 的定位根本不同：Ollama 是通用本地部署方案（跑任何 GGUF 模型），DS4 是 DeepSeek V4 Flash 專用引擎（只跑一個模型，但跑得又快又好）。Ollama 是瑞士刀，DS4 是手術刀。
-
-跟 [[llama-cpp|llama.cpp]] 的關係：DS4 基於 llama.cpp/GGML 開發路徑，但做了 DeepSeek V4 Flash 專用的深度最佳化（KV cache 壓縮、2-bit 量化、Metal/CUDA 最佳化）。
-
-跟 [[vLLM]] 的差異：vLLM 是伺服器端推論加速方案，DS4 是本地端專用引擎。一個偏向資料中心，一個偏向個人開發者。
-
-| 方案 | 定位 | 關係 |
-|------|------|------|
-| 本頁專案 | 主要方案 | 直接提供本頁整理的核心能力 |
-| [[模型推論與部署]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
-| [[llama-cpp]] | 相關方案或概念 | 可作為替代、互補或延伸閱讀 |
+| 方案 | 定位 | 關係與取捨 |
+|---|---|---|
+| llama.cpp／GGML | 通用生態與底層工程參考 | ds4 承接相關格式與工程經驗，但不連結 GGML，模型支援較專一 |
+| 雲端推論 API | 由供應者管理硬體 | DwarfStar 把執行搬到自有硬體，需自行承擔資源與維運 |
+| 通用 GGUF runner | 可涵蓋較廣模型範圍 | 此專案要求使用其產出的特定 GGUF |
 
 ## 相關概念
 
-
-← [[LLM]] · [[llm-internals]] · [[模型推論與部署]] · [[llama-cpp]]
+← [[模型推論與部署]] · [[self-hosted]]
 
 ## 來源
 
-- GitHub: https://github.com/antirez/ds4
-- [2026-05-13 素材](../raw/2026-05-13-ds4.md)
+- [GitHub](https://github.com/antirez/ds4)
+- [官方 README](https://github.com/antirez/ds4/blob/main/README.md)
+- 原始快照：`raw/2026-10-05-antirez-ds4.md`
+- Metadata：`raw/2026-10-05-antirez-ds4-metadata.json`
 
 ---
 
 | 欄位 | 資訊 |
-|------|------|
+|---|---|
 | GitHub | https://github.com/antirez/ds4 |
-| Stars | ⭐10277|
-| License | 未標示 |
-| 收錄日期 | 2026-05-13 |
+| Stars | 23,447（2026-10-05 快照） |
+| License | MIT |
+| Language | C |
+| 收錄日期 | 2026-05-13（2026-10-05 更新） |
