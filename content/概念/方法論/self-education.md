@@ -2,7 +2,7 @@
 title: 自主學習
 slug: self-education
 created: 2026-05-11
-updated: 2026-09-30
+updated: 2026-10-06
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **知識庫系統輔助**：用 LLM Wiki 方法把學習素材編譯成個人知識庫，加深理解並留下記錄
 
 ## 各框架的做法
+
+- **AnyPS5（研究案例）** → 可用來研讀 ELF／PE relinking、PRX 動態連結與 SPIR-V shader 轉譯；不是入門課程或通用遊戲相容保證。詳見 [[boykopovar-AnyPS5]]。
 
 - **Kubernetes The Hard Way** → 手動建置 Kubernetes 的學習教材；非生產部署方案，也不是 LLM runtime。 詳見 [[kelseyhightower-kubernetes-the-hard-way]]。
 

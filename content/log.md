@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-06
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-06（每日 LLM 熱門專案搜尋）
+
+- 新增 [[Stremio-stremio-web]]（多媒體與爬蟲）、[[boykopovar-AnyPS5]]、[[DuarteSantos8-openGym]]（應用）、[[M-Abozaid-esp32-c3-adblock]]（基礎設施）。
+- 保存完整 README 與 metadata，建立十段專案頁、更新既有概念 backlinks、收錄日期排序索引與 known-repos；未新增概念頁。
+- openGym 有選用 AI coach 與本地唯讀 MCP；另外三個是通用 Trending 工具，未誤標成 LLM 專案。未安裝候選軟體或刷寫硬體。
 
 ## 2026-10-01（每日 LLM 熱門專案搜尋）
 

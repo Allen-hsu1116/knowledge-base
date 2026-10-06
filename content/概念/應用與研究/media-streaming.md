@@ -2,7 +2,7 @@
 title: 媒體串流
 slug: media-streaming
 created: 2026-06-26
-updated: 2026-10-02
+updated: 2026-10-06
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **AI 內容生成** — AI 影片生成、語音合成、VTuber 等新形態串流應用
 
 ## 各框架的做法
+
+- **Stremio Web** → React 前端搭配 Rust/WASM core 與 addon 目錄；自行部署 UI 不代表帳號同步與影音來源都離線。詳見 [[Stremio-stremio-web]]。
 
 - **yoinks** → 以 Ink 終端 UI 包裝 yt-dlp，選擇解析度或 MP3 後保存影音；屬下載工具而非串流伺服器，僅限有權保存的內容。詳見 [[pablostanley-yoinks]]。
 

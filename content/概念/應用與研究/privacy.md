@@ -2,7 +2,7 @@
 title: 隱私
 slug: privacy
 created: 2026-06-05
-updated: 2026-10-02
+updated: 2026-10-06
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 - **去識別化** — 移除或模糊化資料中的個人識別資訊（PII）
 
 ## 各框架的做法
+
+- **openGym** → 自架保存訓練與體重資料，AI coach 預設關閉；啟用雲端 provider 或 MCP 助理仍要檢查資料外傳。詳見 [[DuarteSantos8-openGym]]。
+- **esp32-c3-adblock** → 以 DNS sinkhole 減少封鎖名單內的廣告／追蹤網域查詢；HTTP Basic Auth 不加密、不能代替 VPN。詳見 [[M-Abozaid-esp32-c3-adblock]]。
 
 - **GhostTrack** → OSINT 查詢可能涉及個資；只限自有或授權資料，不能將號碼資訊視為即時 GPS。詳見 [[HunxByts-GhostTrack]]。
 

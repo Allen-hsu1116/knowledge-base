@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-10-05
+updated: 2026-10-06
 language: zh-TW
 ---
 
@@ -30,6 +30,10 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Stremio Web** → 可以建置或用 Docker 執行官方網頁 UI，但 Stremio API、addon 與內容來源仍有外部依賴。詳見 [[Stremio-stremio-web]]。
+- **openGym** → Docker Compose 自架健身紀錄，JSON 保存於 ./data；手機 passkey 需正確網域與 HTTPS，AI coach／MCP 另行選用。詳見 [[DuarteSantos8-openGym]]。
+- **esp32-c3-adblock** → 在 ESP32-C3 自架 DNS sinkhole；4 MB flash 下 firmware OTA 與大容量名單須取捨，管理端不應暴露公網。詳見 [[M-Abozaid-esp32-c3-adblock]]。
 
 - **DwarfStar（antirez/ds4）** → 針對少數大型開放權重模型最佳化的原生本地推論引擎。 詳見 [[ds4]]。
 

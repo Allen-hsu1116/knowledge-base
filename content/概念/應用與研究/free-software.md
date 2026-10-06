@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-09-28
+updated: 2026-10-06
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **AnyPS5** → GPL-2.0-only 的原生執行檔 relinker 與 PRX 相容函式庫研究；開源授權不授予遊戲或專有資源的使用權。詳見 [[boykopovar-AnyPS5]]。
 
 - **Madeira** → 在未越獄 iPhone 上結合 Wine、FEX 與 DXMT 執行 Windows 遊戲的研究專案。 詳見 [[willfaust-Madeira]]。
 

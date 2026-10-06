@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # 專案索引
@@ -256,6 +256,7 @@ updated: 2026-10-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Stremio-stremio-web\|Stremio Web]] | ⭐14,297 | React／Rust-WASM 官方影音 UI、addons、PWA；非 LLM | 2026-10-06 |
 | [[meituan-longcat-LongCat-Video\|LongCat-Video]] | ⭐8,740 | 統一影片生成、影片延續、音訊驅動 Avatar 1.5 | 2026-10-04 |
 | [[pablostanley-yoinks\|yoinks]] | ⭐2,939 | yt-dlp 終端 UI、影音下載；非 LLM | 2026-10-02 |
 | [[Friedrich-M-UniMate\|UniMate]] | ⭐1,079 | 文字條件跨骨架動作生成、flow matching、3D 動畫 | 2026-10-02 |
@@ -378,6 +379,8 @@ updated: 2026-10-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[boykopovar-AnyPS5\|AnyPS5]] | ⭐4,964 | PS5 執行檔 relinker、PRX 函式庫與 SPIR-V；相容性研究、非 LLM | 2026-10-06 |
+| [[DuarteSantos8-openGym\|openGym]] | ⭐4,225 | 自架健身紀錄、passkeys、選用 AI coach、本地唯讀 MCP | 2026-10-06 |
 | [[HunxByts-GhostTrack\|GhostTrack]] | ⭐16,404 | 授權 OSINT 資訊查詢；非 LLM、不代表即時定位 | 2026-10-02 |
 | [[t8y2-dbx\|DBX]] | ⭐22,014 | 多資料庫客戶端、AI SQL、獨立 MCP、連線與寫入權限 | 2026-09-30 |
 | [[NawfalMotii79-PLFM_RADAR\|AERIS-10 / PLFM_RADAR]] | ⭐25,761 | 以 FPGA、STM32 與 Python GUI 組成的開放相控陣雷達研發專案，非 LLM 工具。 | 2026-09-29 |
@@ -529,6 +532,7 @@ updated: 2026-10-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[M-Abozaid-esp32-c3-adblock\|esp32-c3-adblock]] | ⭐1,347 | ESP32-C3 DNS sinkhole、flash hashes、OTA 容量取捨；非 LLM | 2026-10-06 |
 | [[caddyserver-caddy\|Caddy]] | ⭐76,567 | 以自動 HTTPS、Caddyfile 與動態設定提供自架服務的 HTTP 入口。 | 2026-10-05 |
 | [[getsentry-sentry\|Sentry]] | ⭐45,032 | 錯誤監控、效能追蹤、Python OpenAI 整合；平台為 FSL 授權 | 2026-10-03 |
 | [[Effect-TS-effect\|Effect]] | ⭐16,552 | TypeScript 工程底座、型別化錯誤、並行、AI providers、OpenTelemetry | 2026-10-03 |
