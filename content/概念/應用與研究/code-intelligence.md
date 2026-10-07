@@ -2,7 +2,7 @@
 title: 程式碼智慧
 slug: code-intelligence
 created: 2026-05-07
-updated: 2026-09-19
+updated: 2026-10-07
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **MCP 整合**：透過 MCP 協議讓 AI coding agent 直接查詢程式碼知識圖譜
 
 ## 各框架的做法
+
+- **REA** → 在無原始碼場景透過 CLI／MCP 取得原生與 JavaScript 分析證據；偽碼不等於原始碼。詳見 [[morluto-rea]]。
 
 - **GitDiagram** → 從 README、檔案樹與有界程式片段產生架構圖；路徑驗證不等於所有語意關係皆已證實。詳見 [[ahmedkhaleel2004-gitdiagram]]。
 

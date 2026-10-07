@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[morluto-rea\|REA]] | ⭐9,458 | CLI／MCP 逆向工程工具、原生與 JavaScript 分析、可追溯 Evidence | 2026-10-07 |
 | [[tester-army-e2e\|e2e（TesterArmy）]] | ⭐3,118 | 結合自然語言 Agent 操作、明確斷言與動作重播的 Web／行動端測試框架。 | 2026-10-05 |
 | [[cloudflare-cloudflare-os\|Cloudflare OS]] | ⭐10,570 | Workers、Gadgets、Code Mode、Gatekeepers 與延後核准 | 2026-10-04 |
 | [[modelcontextprotocol-servers\|MCP Servers]] | ⭐90,816 | MCP 參考實作、SDK 示範；非 production-ready | 2026-10-01 |
@@ -317,6 +318,7 @@ updated: 2026-10-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[deepseek-ai-DeepGEMM\|DeepGEMM]] | ⭐8,701 | 低精度 GEMM、DeepJIT、Mega MoE 通訊計算重疊、Indexer kernels | 2026-10-07 |
 | [[tile-ai-tilelang\|TileLang]] | ⭐8,113 | Pythonic kernel DSL、TVM、多後端、Attention 算子 | 2026-10-02 |
 | [[NVIDIA-Model-Optimizer\|NVIDIA Model Optimizer]] | ⭐4,079 | PTQ、QAT／QAD、剪枝、蒸餾、checkpoint 匯出 | 2026-09-25 |
 | [[linshenkx-prompt-optimizer\|Prompt Optimizer]] | ⭐31489 | Prompt 優化, 多模型, 圖片生成, MCP, 多平台部署 | 2026-06-28 |

@@ -2,7 +2,7 @@
 title: LLM 底層技術
 slug: llm-internals
 created: 2026-06-04
-updated: 2026-10-02
+updated: 2026-10-07
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Positional Embedding 從 Sinusoidal（2017）到 ALiBi（2021）到 RoPE（2022�
 - **快取命中原則**：System prompt 中穩定內容放前面、變動內容放後面，讓 KV Cache 跨對話共用
 
 ## 各框架的做法
+
+- **DeepGEMM** → 提供低精度 GEMM、MoE 融合與 indexer kernels；量化精度、layout 轉換與端到端成本仍需驗證。詳見 [[deepseek-ai-DeepGEMM]]。
 
 - **TileLang** → 使用 Pythonic tile DSL 與 TVM 編譯基礎實作 GEMM、FlashAttention、MLA 等算子；效能需依硬體與形狀驗證。詳見 [[tile-ai-tilelang]]。
 

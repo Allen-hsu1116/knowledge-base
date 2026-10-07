@@ -28,6 +28,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- **REA** → 以本地 MCP 暴露逆向工程工具，保留 provider 能力邊界與 Evidence；外部模型仍有自己的資料政策。詳見 [[morluto-rea]]。
+
 - **openGym** → 另附本地唯讀 MCP server 供助理查詢訓練紀錄；預設 Docker build 不包含它，本地工具不代表模型端不外傳。詳見 [[DuarteSantos8-openGym]]。
 
 - **官方參考 Servers** → 展示 SDK、tools/resources/prompts 與各種工具服務；官方明確標示非 production-ready，需自行設計安全控制。見 [[modelcontextprotocol-servers]]。

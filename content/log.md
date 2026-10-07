@@ -2029,3 +2029,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - [[tester-army-e2e]]：🤖 Agent 框架與工具；README／metadata 快照、專案頁、雙向連結、索引與去重清單。
 - [[michael-denyer-pstack-claude]]：🛠 Skill 生態系；README／metadata 快照、專案頁、雙向連結、索引與去重清單。
 - 去重校正：antirez/ds4 已於 2026-05-13 收錄為 [[ds4]]，改更新既有頁並补 repo alias；本日實際新增 3 個 repo，更新 1 個。
+
+
+## [2026-10-07] ingest | REA、DeepGEMM
+
+- 新增 morluto/rea（Agent 框架與工具）、deepseek-ai/DeepGEMM（效能與壓縮）。
+- 儲存完整 README 與 GitHub metadata，建立專案頁；更新五個既有概念頁 backlinks、projects.md 與 known-repos.json；未新增概念頁。

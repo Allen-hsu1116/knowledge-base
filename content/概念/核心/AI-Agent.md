@@ -28,6 +28,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **REA** → 提供 Agent 調查二進位與應用的工具層；Agent 需以證據驗證假設，不能把反編譯結果當成原始碼還原。詳見 [[morluto-rea]]。
+
 - **Cloudflare OS** → 以 Code Mode 操作獨立 Gadgets，Gatekeepers 控制資源權限並將模擬結果與實際副作用核准分離。詳見 [[cloudflare-cloudflare-os]]。
 
 - **MCP 參考 Servers** → 提供工具與資料能力，仍需搭配 Agent／MCP client，並非完整 Agent runtime。見 [[modelcontextprotocol-servers]]。
