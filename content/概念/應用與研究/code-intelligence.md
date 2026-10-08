@@ -2,7 +2,7 @@
 title: 程式碼智慧
 slug: code-intelligence
 created: 2026-05-07
-updated: 2026-10-07
+updated: 2026-10-08
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **MCP 整合**：透過 MCP 協議讓 AI coding agent 直接查詢程式碼知識圖譜
 
 ## 各框架的做法
+
+- **RAD Debugger（互補工具）** → 以原生除錯器觀察執行期狀態，補充靜態程式理解；不是 LLM 或 MCP 工具。詳見 [[EpicGames-raddebugger]]。
 
 - **REA** → 在無原始碼場景透過 CLI／MCP 取得原生與 JavaScript 分析證據；偽碼不等於原始碼。詳見 [[morluto-rea]]。
 

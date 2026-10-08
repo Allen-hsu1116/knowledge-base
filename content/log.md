@@ -2,7 +2,7 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-06
+updated: 2026-10-08
 stars: —
 language: zh-TW
 ---
@@ -2035,3 +2035,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 
 - 新增 morluto/rea（Agent 框架與工具）、deepseek-ai/DeepGEMM（效能與壓縮）。
 - 儲存完整 README 與 GitHub metadata，建立專案頁；更新五個既有概念頁 backlinks、projects.md 與 known-repos.json；未新增概念頁。
+
+## [2026-10-08] ingest | RAD Debugger
+
+- 新增 [[EpicGames-raddebugger]] 至基礎設施；Trending 通用開發工具，非 LLM 專案。
+- 保存完整 README、metadata；完成十段專案頁、雙向連結、projects 日期排序及 known-repos。
+- 沿用既有概念，未新增概念頁；未安裝或執行候選軟體。

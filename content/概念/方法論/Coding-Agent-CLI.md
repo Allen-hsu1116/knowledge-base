@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-05
+updated: 2026-10-08
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **RAD Debugger（外部驗證工具）** → 可由開發者用於原生程式的人工除錯；不是 Coding Agent，未確認官方 Agent／MCP 整合。詳見 [[EpicGames-raddebugger]]。
 
 - **pstack（多 Harness 移植版）** → 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 詳見 [[michael-denyer-pstack-claude]]。
 

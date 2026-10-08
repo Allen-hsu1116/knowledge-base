@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # 專案索引
@@ -534,6 +534,7 @@ updated: 2026-10-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[EpicGames-raddebugger\|RAD Debugger]] | ⭐7,861 | 原生圖形化除錯器、PDB→RDI、RAD Linker；Alpha，非 LLM | 2026-10-08 |
 | [[M-Abozaid-esp32-c3-adblock\|esp32-c3-adblock]] | ⭐1,347 | ESP32-C3 DNS sinkhole、flash hashes、OTA 容量取捨；非 LLM | 2026-10-06 |
 | [[caddyserver-caddy\|Caddy]] | ⭐76,567 | 以自動 HTTPS、Caddyfile 與動態設定提供自架服務的 HTTP 入口。 | 2026-10-05 |
 | [[getsentry-sentry\|Sentry]] | ⭐45,032 | 錯誤監控、效能追蹤、Python OpenAI 整合；平台為 FSL 授權 | 2026-10-03 |
