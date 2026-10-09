@@ -2,10 +2,17 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-09
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-09（每日 LLM 熱門專案搜尋）
+
+- 新增 [[liquidslr-system-design-notes]]（學習資源）、[[storytold-artcraft]]（多媒體與爬蟲）。
+- 保存 README、metadata 及 ArtCraft 開發／授權文件；完成十段專案頁、概念 backlinks、日期排序索引與 known-repos。
+- 沿用既有概念，未新增概念頁；區分一般系統設計教材與 AI 工具，註明 ArtCraft 非 OSI 開源授權。未安裝候選專案。
+
 
 ## 2026-10-06（每日 LLM 熱門專案搜尋）
 

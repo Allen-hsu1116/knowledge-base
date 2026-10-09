@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-10-04
+updated: 2026-10-09
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- ArtCraft → 以 2D／3D 場景與畫布控制生成圖片及影片，整合多供應商；採自訂 fair-source 授權。 詳見 [[storytold-artcraft]]。
 
 - **LongCat-Video** → 以 13.6B 基礎影片模型處理文字／圖片／延續條件，並提供獨立的音訊驅動 Avatar 模型；不是聊天 LLM 或單純權重清單。詳見 [[meituan-longcat-LongCat-Video]]。
 

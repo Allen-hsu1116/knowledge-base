@@ -2,7 +2,7 @@
 title: AI 影片生成
 slug: AI-video-generation
 created: 2026-06-04
-updated: 2026-10-04
+updated: 2026-10-09
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI 影片生成面臨的關鍵挑戰包括時序一致性（保持物體和場�
 - **多技術路線**：擴散模型（主流）、Transformer、混合架構並存
 
 ## 各框架的做法
+
+- ArtCraft → 先安排角色、鏡頭與構圖，再選模型把圖片轉成影片；是創作介面而非新的影片模型。 詳見 [[storytold-artcraft]]。
 
 - **LongCat-Video** → 統一文字、圖片與影片延續生成，Avatar 1.5 另支援音訊驅動人物與蒸餾推論；官方長影片與效能描述仍須依硬體驗證。詳見 [[meituan-longcat-LongCat-Video]]。
 

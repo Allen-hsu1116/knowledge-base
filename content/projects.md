@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # 專案索引
@@ -257,6 +257,7 @@ updated: 2026-10-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[storytold-artcraft\|ArtCraft]] | ⭐7,972 | 2D／3D 視覺構圖、多模型影像生成、自訂 fair-source 授權 | 2026-10-09 |
 | [[Stremio-stremio-web\|Stremio Web]] | ⭐14,297 | React／Rust-WASM 官方影音 UI、addons、PWA；非 LLM | 2026-10-06 |
 | [[meituan-longcat-LongCat-Video\|LongCat-Video]] | ⭐8,740 | 統一影片生成、影片延續、音訊驅動 Avatar 1.5 | 2026-10-04 |
 | [[pablostanley-yoinks\|yoinks]] | ⭐2,939 | yt-dlp 終端 UI、影音下載；非 LLM | 2026-10-02 |
@@ -335,6 +336,7 @@ updated: 2026-10-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[liquidslr-system-design-notes\|System Design Notes]] | ⭐24,620 | 章節式系統設計筆記；非 LLM 框架 | 2026-10-09 |
 | [[byoungd-up\|人生進階指南（up）]] | ⭐64,682 | 以真實任務、AI 協作與成果證據串起終身學習的開放內容指南。 | 2026-09-29 |
 | [[cs341-illinois-coursebook\|CS 341 Systems Programming Coursebook]] | ⭐2,515 | 伊利諾大學 CS 341 的 C／Linux 系統程式設計教材與多格式出版原始碼。 | 2026-09-29 |
 | [[kelseyhightower-kubernetes-the-hard-way\|Kubernetes The Hard Way]] | ⭐50,123 | 手動組裝 Kubernetes 叢集的實作教材，重點是理解元件，不是生產部署。 | 2026-09-26 |
