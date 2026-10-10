@@ -2,7 +2,7 @@
 title: 世界模型
 slug: world-model
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-10
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **因果模擬**：預測行動的後果，而非只模仿統計模式
 
 ## 各框架的做法
+
+- **LingBot-Map（相鄰重建工具）** → README 示範將 LingBot-World 生成的影片重建為三維場景；它本身不預測動作後果，也不是世界生成模型。詳見 [[Robbyant-lingbot-map]]。
 
 - **Sana** → NVIDIA 擴散模型家族，含 Sana-WM（2.6B 可控世界模型，6-DoF 相機控制）
   👉 詳見 [[NVlabs-Sana|Sana]]

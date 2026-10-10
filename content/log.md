@@ -2048,3 +2048,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 新增 [[EpicGames-raddebugger]] 至基礎設施；Trending 通用開發工具，非 LLM 專案。
 - 保存完整 README、metadata；完成十段專案頁、雙向連結、projects 日期排序及 known-repos。
 - 沿用既有概念，未新增概念頁；未安裝或執行候選軟體。
+
+## [2026-10-10] ingest | LingBot-Map、SwiftUI Pro
+
+- 新增 [[Robbyant-lingbot-map]] 至多媒體與爬蟲；屬三維視覺重建，非聊天 LLM。
+- 新增 [[twostraws-SwiftUI-Agent-Skill]] 至 Skill 生態系；SwiftUI 專門領域技能。
+- 保存完整 README／metadata 快照，建立十段專案頁並更新五個既有概念頁的反向連結。
+- 更新 projects.md 與 known-repos.json；沿用 merge map 的既有概念，不新增概念頁。
+- 未安裝或執行候選專案；效能數據僅為官方文件主張。

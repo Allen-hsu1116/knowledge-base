@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # 專案索引
@@ -257,6 +257,7 @@ updated: 2026-10-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Robbyant-lingbot-map\|LingBot-Map]] | ⭐17,701 | 串流三維重建、Geometric Context Transformer、關鍵幀 KV cache；非聊天 LLM | 2026-10-10 |
 | [[storytold-artcraft\|ArtCraft]] | ⭐7,972 | 2D／3D 視覺構圖、多模型影像生成、自訂 fair-source 授權 | 2026-10-09 |
 | [[Stremio-stremio-web\|Stremio Web]] | ⭐14,297 | React／Rust-WASM 官方影音 UI、addons、PWA；非 LLM | 2026-10-06 |
 | [[meituan-longcat-LongCat-Video\|LongCat-Video]] | ⭐8,740 | 統一影片生成、影片延續、音訊驅動 Avatar 1.5 | 2026-10-04 |
@@ -468,6 +469,7 @@ updated: 2026-10-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[twostraws-SwiftUI-Agent-Skill\|SwiftUI Pro]] | ⭐5,431 | SwiftUI 領域技能、現代 API、效能與 VoiceOver 審查、跨 Coding Agent | 2026-10-10 |
 | [[michael-denyer-pstack-claude\|pstack（多 Harness 移植版）]] | ⭐1,141 | 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 | 2026-10-05 |
 | [[Tencent-BrowserSkill\|BrowserSkill]] | ⭐4,148 | 真實登入瀏覽器、CLI、擴充、Skill、人類接手 | 2026-09-18 |
 | [[cloudflare-security-audit-skill\|Cloudflare Security Audit Skill]] | ⭐7,247 | 六階段安全稽核、覆蓋帳本、獨立驗證與三態 findings | 2026-09-17 |

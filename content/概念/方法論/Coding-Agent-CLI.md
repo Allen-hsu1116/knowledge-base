@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-08
+updated: 2026-10-10
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **SwiftUI Pro（領域技能）** → Claude Code 可用 `/swiftui-pro`、Codex 可用 `$swiftui-pro` 啟動局部審查；不取代宿主或 Xcode。詳見 [[twostraws-SwiftUI-Agent-Skill]]。
 
 - **RAD Debugger（外部驗證工具）** → 可由開發者用於原生程式的人工除錯；不是 Coding Agent，未確認官方 Agent／MCP 整合。詳見 [[EpicGames-raddebugger]]。
 
