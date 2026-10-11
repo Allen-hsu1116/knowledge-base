@@ -2063,3 +2063,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 新增 [[flutter-flutter]]，分類：基礎設施。
 - 保存完整 README 與 GitHub metadata；完成十段專案頁、LocalSend／Immich 反向連結、projects 日期排序與 known-repos 去重索引。
 - 一般 Trending 的跨平台 UI SDK，非 LLM／Agent 框架；未新增概念、未安裝 SDK。
+
+## [2026-10-11] lint | 全庫檢查與 DwarfStar 歷史來源修復
+
+- 掃描全庫 wiki、raw 資產、專案／概念模板、frontmatter、連結與合併映射、索引排序和待分類區。
+- ds4 頁補回 raw/2026-05-13-ds4.md 歷史來源，標記已整理；對照 2026-10-05 官方 README 快照，註明舊單模型／ROCm 分支描述過時，澄清不連結 GGML。
+- raw 保持不變；完整檢查與整理狀態保存於 outputs/lint-audit-2026-10-11.json。語意檢查為風險主張與來源交叉核對，非全庫逐句即時事實驗證。

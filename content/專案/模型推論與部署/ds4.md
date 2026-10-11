@@ -2,7 +2,7 @@
 title: "DwarfStar（antirez/ds4）"
 slug: "ds4"
 created: "2026-05-13"
-updated: "2026-10-05"
+updated: "2026-10-11"
 stars: 23447
 language: "C"
 topics: []
@@ -81,6 +81,7 @@ make
 
 - [GitHub](https://github.com/antirez/ds4)
 - [官方 README](https://github.com/antirez/ds4/blob/main/README.md)
+- 歷史整理（已整理）：`raw/2026-05-13-ds4.md`。[⚠️ 可能過時] 此素材的單模型定位、ROCm 獨立分支與「基於 llama.cpp/GGML」描述僅保留作為早期記錄；依下列 2026-10-05 官方 README 快照，目前支援多個指定模型及 Strix Halo ROCm，且不連結 GGML，不能把工程參考關係理解成執行期依賴。
 - 原始快照：`raw/2026-10-05-antirez-ds4.md`
 - Metadata：`raw/2026-10-05-antirez-ds4-metadata.json`
 
