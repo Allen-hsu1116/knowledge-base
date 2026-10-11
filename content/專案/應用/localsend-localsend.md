@@ -2,7 +2,7 @@
 title: LocalSend
 slug: localsend-localsend
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-10-11
 stars: 91323
 language: zh-TW
 topics: [privacy, productivity, file-sharing, flutter]
@@ -84,6 +84,8 @@ HTTPS 不代表可以忽略接收對象確認，也不要把區網服務直接�
 ## 相關概念
 
 ← [[privacy]] · [[productivity]]
+
+- [[flutter-flutter]] — LocalSend 使用的跨平台 UI SDK；屬開發依賴，不是傳檔工具的替代品。
 
 ## 來源
 

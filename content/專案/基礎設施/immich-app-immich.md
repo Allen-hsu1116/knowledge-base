@@ -2,7 +2,7 @@
 title: Immich
 slug: immich-app-immich
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-11
 stars: 105.6k
 language: TypeScript
 topics: ["self-hosted", "photo-gallery", "google-photos-alternative", "flutter", "nestjs"]
@@ -83,6 +83,8 @@ Immich 與 [[paperless-ngx-paperless-ngx|Paperless-ngx]] 都屬自架媒體管�
 
 
 ← [[self-hosted]] · [[media-streaming]] · [[paperless-ngx-paperless-ngx]]
+
+- [[flutter-flutter]] — 行動 App 的 UI SDK；與照片管理後端分屬不同層級，不是自架服務替代品。
 
 ## 來源
 

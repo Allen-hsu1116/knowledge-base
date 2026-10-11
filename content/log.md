@@ -2056,3 +2056,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 保存完整 README／metadata 快照，建立十段專案頁並更新五個既有概念頁的反向連結。
 - 更新 projects.md 與 known-repos.json；沿用 merge map 的既有概念，不新增概念頁。
 - 未安裝或執行候選專案；效能數據僅為官方文件主張。
+
+
+## [2026-10-11] ingest | Flutter
+
+- 新增 [[flutter-flutter]]，分類：基礎設施。
+- 保存完整 README 與 GitHub metadata；完成十段專案頁、LocalSend／Immich 反向連結、projects 日期排序與 known-repos 去重索引。
+- 一般 Trending 的跨平台 UI SDK，非 LLM／Agent 框架；未新增概念、未安裝 SDK。
