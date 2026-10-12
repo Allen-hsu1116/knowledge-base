@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-10-09
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- **Awesome GPT Image 2 Prompts** → 提供電商、廣告、人像、海報等提示詞案例；服務費與第三方素材權利需另行確認。詳見 [[evolinkai-awesome-gpt-image-2-api-and-prompts]]。
 
 - ArtCraft → 以 2D／3D 場景與畫布控制生成圖片及影片，整合多供應商；採自訂 fair-source 授權。 詳見 [[storytold-artcraft]]。
 
@@ -68,6 +70,8 @@ language: zh-TW
 - [[ConardLi-garden-skills]] — 將圖片生成與內容出版流程封裝為跨 Agent Skills
 
 ## 來源
+
+- raw/2026-10-12-evolinkai-awesome-gpt-image-2-api-and-prompts.md
 
 - [[marceloprates-prettymaps|prettymaps]] — 以公開地理資料、圖層規則與程式化樣式產生風格化地圖
 

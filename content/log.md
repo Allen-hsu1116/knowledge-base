@@ -2,10 +2,17 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-09
+updated: 2026-10-12
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-12（每日 LLM 熱門專案搜尋）
+
+- 新增 [[op7418-guizang-ppt-skill]]（Skill 生態系）、[[hypit-ai-hypit]]（多媒體與爬蟲）、[[browser-use-browser-harness]]（Agent 框架與工具）、[[evolinkai-awesome-gpt-image-2-api-and-prompts]]（學習資源）、[[lidge-jun-opencodex]]（基礎設施）。
+- 已先執行指定搜尋腳本；其唯一候選 Apollo-11 經 README／metadata 確認不屬 LLM，排除。複查 Topic 查詢時發現日期篩選結果異常，改用 gh search repos 的 --topic 與 --created 旗標重查七個主題，去重後取 Stars 前五名；未修改排程或搜尋設定。
+- 保存完整 README／metadata 快照及必要授權、安裝文件。大型 README 的 GitHub content 欄位為空時，改用 raw media type 取回全文，沒有用空檔代替。
+- 建立十段專案頁、更新既有概念 backlinks、索引與 known-repos；沿用 merge map，未新增概念頁，未安裝任何候選軟體。
 
 ## 2026-10-09（每日 LLM 熱門專案搜尋）
 

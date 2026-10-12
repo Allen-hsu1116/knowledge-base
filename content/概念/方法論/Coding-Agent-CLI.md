@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-10
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **opencodex** → 保留 Codex、Claude Code 等工具工作流，在代理層替換模型接入；工具呼叫與串流相容性仍需逐項驗證。詳見 [[lidge-jun-opencodex]]。
 
 - **SwiftUI Pro（領域技能）** → Claude Code 可用 `/swiftui-pro`、Codex 可用 `$swiftui-pro` 啟動局部審查；不取代宿主或 Xcode。詳見 [[twostraws-SwiftUI-Agent-Skill]]。
 
@@ -129,6 +131,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[magnitudedev-magnitude\|Magnitude]] — 為多種 Coding Agent 自動選擇並接入本地模型
 
 ## 來源
+
+- raw/2026-10-12-lidge-jun-opencodex.md
 
 - [[chaitanyagiri-munder-difflin\|Munder Difflin]] — 統一包裝 Claude Code、Codex、OpenCode、Kimi、Qwen 等終端 Agent 並提供多 Agent 協作層
 

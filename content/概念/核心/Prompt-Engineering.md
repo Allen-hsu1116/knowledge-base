@@ -2,7 +2,7 @@
 title: Prompt Engineering
 slug: Prompt-Engineering
 created: 2026-06-07
-updated: 2026-09-30
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - **好 prompt 省 token**：結構化 prompt 讓輸出更可預測，也讓 token 使用更高效
 
 ## 各框架的做法
+
+- **Awesome GPT Image 2 Prompts** → 依創作場景整理完整圖像提示詞、範例及來源，適合拆解構圖與限制；它是案例庫而非生成後端。詳見 [[evolinkai-awesome-gpt-image-2-api-and-prompts]]。
 
 - **DSPy** → 透過 Signature、資料集與 metric 將手動提示詞調整改為可評測的最佳化。
   👉 詳見 [[stanfordnlp-dspy]]
@@ -71,4 +73,6 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 - [[f-prompts.chat\|prompts.chat]] — 可搜尋與重用的開源 Prompt 資料庫
 
 ## 來源
+
+- raw/2026-10-12-evolinkai-awesome-gpt-image-2-api-and-prompts.md
 - 知識庫內 Prompt Engineering 相關原始資料與專案頁面

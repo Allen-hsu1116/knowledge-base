@@ -2,7 +2,7 @@
 title: AI 簡報
 slug: AI-presentation
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ AI 簡報實現了多層次自動化：內容生成（AI 分析主題，自動�
 
 ## 各框架的做法
 
+- **Guizang PPT Skill** → 用兩套視覺系統、版型檢查與演講者模式產出單檔 HTML；不是多人協作 PPTX 編輯器。詳見 [[op7418-guizang-ppt-skill]]。
+
 - **Presenton** → 開源 AI 簡報 API，支援多 LLM 模型和 Docker 自架部署
   👉 詳見 [[presenton-presenton|Presenton]]
 - **PPT Master** → AI 生成可編輯 PPT，產出原生 DrawingML 格式，支援動畫和語音旁白
@@ -47,6 +49,8 @@ AI 簡報實現了多層次自動化：內容生成（AI 分析主題，自動�
 - [[workflow-automation|工作流自動化]] — 簡報生成可整合到自動化工作流
 
 ## 來源
+
+- raw/2026-10-12-op7418-guizang-ppt-skill.md
 
 - Presenton、PPT Master、open-slide 等 AI 簡報專案文件
 - 知識庫內簡報生成相關專案頁面

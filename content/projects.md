@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[browser-use-browser-harness\|Browser Harness]] | ⭐18,393 | CDP 真實瀏覽器、可重用 helper、MCP、錄製同意 | 2026-10-12 |
 | [[morluto-rea\|REA]] | ⭐9,458 | CLI／MCP 逆向工程工具、原生與 JavaScript 分析、可追溯 Evidence | 2026-10-07 |
 | [[tester-army-e2e\|e2e（TesterArmy）]] | ⭐3,118 | 結合自然語言 Agent 操作、明確斷言與動作重播的 Web／行動端測試框架。 | 2026-10-05 |
 | [[cloudflare-cloudflare-os\|Cloudflare OS]] | ⭐10,570 | Workers、Gadgets、Code Mode、Gatekeepers 與延後核准 | 2026-10-04 |
@@ -257,6 +258,7 @@ updated: 2026-10-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hypit-ai-hypit\|Hypit]] | ⭐21,204 | Agent 影片工作流、SVML、字幕與素材重用；附加商業授權限制 | 2026-10-12 |
 | [[Robbyant-lingbot-map\|LingBot-Map]] | ⭐17,701 | 串流三維重建、Geometric Context Transformer、關鍵幀 KV cache；非聊天 LLM | 2026-10-10 |
 | [[storytold-artcraft\|ArtCraft]] | ⭐7,972 | 2D／3D 視覺構圖、多模型影像生成、自訂 fair-source 授權 | 2026-10-09 |
 | [[Stremio-stremio-web\|Stremio Web]] | ⭐14,297 | React／Rust-WASM 官方影音 UI、addons、PWA；非 LLM | 2026-10-06 |
@@ -337,6 +339,7 @@ updated: 2026-10-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[evolinkai-awesome-gpt-image-2-api-and-prompts\|Awesome GPT Image 2 Prompts]] | ⭐17,302 | 圖像提示詞案例、來源歸屬、多語策展；非生成後端 | 2026-10-12 |
 | [[liquidslr-system-design-notes\|System Design Notes]] | ⭐24,620 | 章節式系統設計筆記；非 LLM 框架 | 2026-10-09 |
 | [[byoungd-up\|人生進階指南（up）]] | ⭐64,682 | 以真實任務、AI 協作與成果證據串起終身學習的開放內容指南。 | 2026-09-29 |
 | [[cs341-illinois-coursebook\|CS 341 Systems Programming Coursebook]] | ⭐2,515 | 伊利諾大學 CS 341 的 C／Linux 系統程式設計教材與多格式出版原始碼。 | 2026-09-29 |
@@ -469,6 +472,7 @@ updated: 2026-10-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[op7418-guizang-ppt-skill\|Guizang PPT Skill]] | ⭐27,615 | HTML 簡報、双視覺系統、配圖、演講者模式 | 2026-10-12 |
 | [[twostraws-SwiftUI-Agent-Skill\|SwiftUI Pro]] | ⭐5,431 | SwiftUI 領域技能、現代 API、效能與 VoiceOver 審查、跨 Coding Agent | 2026-10-10 |
 | [[michael-denyer-pstack-claude\|pstack（多 Harness 移植版）]] | ⭐1,141 | 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 | 2026-10-05 |
 | [[Tencent-BrowserSkill\|BrowserSkill]] | ⭐4,148 | 真實登入瀏覽器、CLI、擴充、Skill、人類接手 | 2026-09-18 |
@@ -538,6 +542,7 @@ updated: 2026-10-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[lidge-jun-opencodex\|opencodex]] | ⭐17,270 | Coding Agent 本地模型代理、協議轉換、提供者路由與 dashboard | 2026-10-12 |
 | [[flutter-flutter\|Flutter]] | ⭐179,524 | Dart 跨平台 UI SDK、widgets、hot reload、原生整合；非 LLM／Agent 框架 | 2026-10-11 |
 | [[EpicGames-raddebugger\|RAD Debugger]] | ⭐7,861 | 原生圖形化除錯器、PDB→RDI、RAD Linker；Alpha，非 LLM | 2026-10-08 |
 | [[M-Abozaid-esp32-c3-adblock\|esp32-c3-adblock]] | ⭐1,347 | ESP32-C3 DNS sinkhole、flash hashes、OTA 容量取捨；非 LLM | 2026-10-06 |

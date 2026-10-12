@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-10-10
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **Guizang PPT Skill** → 將需求、模板、視覺檢查與排練封裝成簡報技能。詳見 [[op7418-guizang-ppt-skill]]。
+- **Hypit** → 以 Skill 入口協助 Coding Agent 建立可重跑影片 composition；技能安裝不等於所有影片工具與服務已備妥。詳見 [[hypit-ai-hypit]]。
 
 - **SwiftUI Pro** → 將 SwiftUI API、效能與無障礙常見錯誤封裝為跨 Agent 技能；修改仍需編譯與行為驗收。詳見 [[twostraws-SwiftUI-Agent-Skill]]。
 
@@ -112,4 +115,7 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - [[ConardLi-garden-skills]] — 用 release 工程發布跨 Agent 的內容生產技能組
 
 ## 來源
+
+- raw/2026-10-12-op7418-guizang-ppt-skill.md
+- raw/2026-10-12-hypit-ai-hypit.md
 - 知識庫內 AI Skills 相關原始資料與專案頁面

@@ -2,7 +2,7 @@
 title: AI 影片生成
 slug: AI-video-generation
 created: 2026-06-04
-updated: 2026-10-09
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI 影片生成面臨的關鍵挑戰包括時序一致性（保持物體和場�
 - **多技術路線**：擴散模型（主流）、Transformer、混合架構並存
 
 ## 各框架的做法
+
+- **Hypit** → 將素材、字幕及效果編成可修改、重跑的工作流，生成模型是可選素材來源；需注意修改版 Apache 授權的商業限制。詳見 [[hypit-ai-hypit]]。
 
 - ArtCraft → 先安排角色、鏡頭與構圖，再選模型把圖片轉成影片；是創作介面而非新的影片模型。 詳見 [[storytold-artcraft]]。
 
@@ -56,6 +58,8 @@ AI 影片生成面臨的關鍵挑戰包括時序一致性（保持物體和場�
 - [[AI-Agent|AI Agent]] — Agent 驅動生成式模型進行自動化影片生成
 
 ## 來源
+
+- raw/2026-10-12-hypit-ai-hypit.md
 
 - LTX-2、Sana、ViMax、OpenMontage 等影片生成專案文件
 - 知識庫內影片生成相關專案頁面

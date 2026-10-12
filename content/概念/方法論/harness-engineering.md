@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-09-28
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - **AutoDream** — Agent 空閒時整理記憶的功能，類似睡眠，讓 Lifelong Agent 保持記憶連續性
 
 ## 各框架的做法
+
+- **Browser Harness** → 分離受保護核心與可修改 helper 工作區；此處自我改善指工具流程累積，不是模型權重自動訓練。詳見 [[browser-use-browser-harness]]。
 
 - **OpenRig** → 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 詳見 [[mvschwarz-openrig]]。
 
@@ -103,6 +105,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 - [[unclebob-swarm-forge|SwarmForge]] — 用角色、隔離工作區與交接契約建立多 Agent 工程 harness
 
 ## 來源
+
+- raw/2026-10-12-browser-use-browser-harness.md
 
 - Harness Engineering 課程筆記
 - WalkingLabs Harness Engineering 學習資源

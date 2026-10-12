@@ -2,7 +2,7 @@
 title: AI Gateway
 slug: AI-Gateway
 created: 2026-06-04
-updated: 2026-09-20
+updated: 2026-10-12
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
 
 ## 各框架的做法
 
+- **opencodex** → 專注 Coding Agent 的本地協議轉換與模型提供者接入，附 dashboard 及帳號路由；遠端共享需额外認證與傳輸保護。詳見 [[lidge-jun-opencodex]]。
+
 - **Treg（相鄰的工具 Gateway）** → 聚合工具而非模型，提供憑證注入、價格與計量；一般端點不會默默跨供應商切換，不能當作模型 failover 服務。詳見 [[superdesigndev-treg]]。
 
 - [[cloudflare-quiche]] — Cloudflare 以 Rust 實作的 QUIC 與 HTTP/3 協定函式庫。
@@ -51,4 +53,6 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
 - [[Token-Optimization]] — Gateway 的 token 壓縮是 Token 優化的基礎設施層
 
 ## 來源
+
+- raw/2026-10-12-lidge-jun-opencodex.md
 - 知識庫內 AI Gateway 相關原始資料與專案頁面
