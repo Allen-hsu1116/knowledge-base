@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-12
+updated: 2026-10-13
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-13（每日 LLM 熱門專案搜尋）
+
+- 新增 [[microsoft-BitNet]]（模型推論與部署），保存完整 README 與 metadata 快照。
+- 建立十段專案頁、更新模型推論與邊緣 AI 概念 backlinks、projects 索引及 known-repos；沿用既有概念，未新增概念頁。
+- 安裝與 benchmark 指令依官方 README 摘錄，未安裝候選軟體、下載權重或宣稱實測效能。
 
 ## 2026-10-12（每日 LLM 熱門專案搜尋）
 

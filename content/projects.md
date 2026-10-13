@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # 專案索引
@@ -213,6 +213,7 @@ updated: 2026-10-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[microsoft-BitNet\|BitNet（bitnet.cpp）]] | ⭐40,911 | 三元權重、1.58-bit、CPU／GPU kernels、本地推論 | 2026-10-13 |
 | [[tensorflow-tensorflow\|TensorFlow]] | ⭐200,458 | 通用機器學習框架、Python／C++ API、模型開發與部署；非專用聊天服務 | 2026-09-27 |
 | [[leejet-stable-diffusion.cpp\|stable-diffusion.cpp]] | ⭐7,244 | C/C++、ggml、圖像與影片擴散模型、本地推論 | 2026-09-25 |
 | [[higgsfield-ai-higgsfield\|Higgsfield（分散式訓練框架）]] | ⭐4,957 | 透過 GPU 資源編排與 GitHub 工作流管理大型模型訓練實驗。 | 2026-09-20 |

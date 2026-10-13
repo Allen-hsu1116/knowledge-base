@@ -2,7 +2,7 @@
 title: 邊緣裝置 AI
 slug: embedded-AI
 created: 2025-06-07
-updated: 2026-08-22
+updated: 2026-10-13
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **聯邦學習整合**：在保護隱私的前提下，讓多個邊緣裝置協作訓練模型
 
 ## 各框架的做法
+
+- **BitNet（bitnet.cpp）** → 在 x86／ARM CPU 執行相容的 1.58-bit LLM；embedding 模型目前支援矩陣限 x86 I2_S，不代表任意模型皆可無損轉換。詳見 [[microsoft-BitNet]]。
 
 - **Supertonic** → 裝置端 TTS，ONNX Runtime 推論，31 語言 CPU 即時合成
   👉 詳見 [[supertone-inc-supertonic|Supertonic]]
