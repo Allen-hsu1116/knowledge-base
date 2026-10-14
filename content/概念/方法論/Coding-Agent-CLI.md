@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-12
+updated: 2026-10-14
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **xtool（外部建置工具）** → 用 SwiftPM 建置、簽署及安裝 iOS App；不是 Agent，也未確認官方 MCP 整合。詳見 [[xtool-org-xtool]]。
 
 - **opencodex** → 保留 Codex、Claude Code 等工具工作流，在代理層替換模型接入；工具呼叫與串流相容性仍需逐項驗證。詳見 [[lidge-jun-opencodex]]。
 

@@ -2,7 +2,7 @@
 title: SwiftUI Agent Skill（SwiftUI Pro）
 slug: twostraws-SwiftUI-Agent-Skill
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-14
 stars: 5431
 language: 未標示（GitHub primary language 為 null）
 topics: [agent-skills, swiftui, coding-agent, accessibility]
@@ -82,6 +82,8 @@ $swiftui-pro Focus on accessibility
 | Xcode 與測試工具 | 編譯、執行及行為驗證 | 是品質驗收手段，不由技能文字取代 |
 
 比較依據是职责與使用層次，並非不同 Agent 的品質排名。
+
+[[xtool-org-xtool]] 提供 SwiftPM 驅動的 iOS 建置、簽署與裝置部署，是另一種外部驗證工具；不是 SwiftUI Pro 的官方整合，且仍需 Apple SDK 與帳號設定。
 
 ## 相關概念
 

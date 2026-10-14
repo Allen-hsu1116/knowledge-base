@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # 專案索引
@@ -543,6 +543,7 @@ updated: 2026-10-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[xtool-org-xtool\|xtool]] | ⭐9,380 | SwiftPM、跨平台 iOS 建置、簽署與真機部署；非 LLM 專案 | 2026-10-14 |
 | [[lidge-jun-opencodex\|opencodex]] | ⭐17,270 | Coding Agent 本地模型代理、協議轉換、提供者路由與 dashboard | 2026-10-12 |
 | [[flutter-flutter\|Flutter]] | ⭐179,524 | Dart 跨平台 UI SDK、widgets、hot reload、原生整合；非 LLM／Agent 框架 | 2026-10-11 |
 | [[EpicGames-raddebugger\|RAD Debugger]] | ⭐7,861 | 原生圖形化除錯器、PDB→RDI、RAD Linker；Alpha，非 LLM | 2026-10-08 |

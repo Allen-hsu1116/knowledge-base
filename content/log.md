@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-13
+updated: 2026-10-14
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-14（每日 LLM 熱門專案搜尋）
+
+- 搜尋腳本回傳一個新候選，新增 [[xtool-org-xtool]]（基礎設施）；明確標記為通用 Trending 開發工具，而非 LLM 框架。
+- 保存完整 README、metadata、授權與官方安裝／教學快照；建立十段專案頁，更新 backlinks、projects 索引及 known-repos。
+- 未新增概念頁，未安裝候選軟體、登入 Apple 帳號或操作真機。
 
 ## 2026-10-13（每日 LLM 熱門專案搜尋）
 
