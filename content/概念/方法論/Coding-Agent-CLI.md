@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-14
+updated: 2026-10-15
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Rust（外部工具鏈）** → 提供原生編譯與建置基礎，不是 Agent；應固定工具鏈並驗證生成程式。詳見 [[rust-lang-rust]]。
+- **nvm（環境管理）** → 管理 Node.js 版本；cron／CI 要明確載入 shell 環境，不代表具備 Agent 功能。詳見 [[nvm-sh-nvm]]。
 
 - **xtool（外部建置工具）** → 用 SwiftPM 建置、簽署及安裝 iOS App；不是 Agent，也未確認官方 MCP 整合。詳見 [[xtool-org-xtool]]。
 

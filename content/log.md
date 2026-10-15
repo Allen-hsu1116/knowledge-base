@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-14
+updated: 2026-10-15
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-15（每日 LLM 熱門專案搜尋）
+
+- 依指定腳本取得四個新候選，收錄 [[ifixai-ai-iFixAi]]（Agent 框架與工具）、[[rust-lang-rust]]、[[nvm-sh-nvm]]、[[ntdevlabs-tiny11builder]]（基礎設施）。後三者明確標示為通用 Trending 工具，非 LLM 專案。
+- 保存完整 README、metadata 及必要官方安裝／授權文件；建立十段專案頁、更新概念 backlinks、日期排序 projects 與 known-repos。
+- 沿用既有概念，未新增概念頁；沒有安裝候選軟體、執行收費稽核或修改 Windows 映像。iFixAi 的時效宣稱與文件內成本口徑差異均註明限制。
 
 ## 2026-10-14（每日 LLM 熱門專案搜尋）
 

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ifixai-ai-iFixAi\|iFixAi]] | ⭐27,420 | Agent 業務政策稽核、獨立 judge、fixture、證據不足標記 | 2026-10-15 |
 | [[browser-use-browser-harness\|Browser Harness]] | ⭐18,393 | CDP 真實瀏覽器、可重用 helper、MCP、錄製同意 | 2026-10-12 |
 | [[morluto-rea\|REA]] | ⭐9,458 | CLI／MCP 逆向工程工具、原生與 JavaScript 分析、可追溯 Evidence | 2026-10-07 |
 | [[tester-army-e2e\|e2e（TesterArmy）]] | ⭐3,118 | 結合自然語言 Agent 操作、明確斷言與動作重播的 Web／行動端測試框架。 | 2026-10-05 |
@@ -543,6 +544,9 @@ updated: 2026-10-14
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[rust-lang-rust\|Rust]] | ⭐120,035 | 語言、編譯器、ownership、原生工具鏈；非 LLM | 2026-10-15 |
+| [[nvm-sh-nvm\|nvm]] | ⭐95,456 | Node.js 版本管理、POSIX shell、專案環境；非 LLM | 2026-10-15 |
+| [[ntdevlabs-tiny11builder\|Tiny11 Builder]] | ⭐20,230 | WinUI／C#、Windows ISO 製作、Core 風險與授權限制；非 LLM | 2026-10-15 |
 | [[xtool-org-xtool\|xtool]] | ⭐9,380 | SwiftPM、跨平台 iOS 建置、簽署與真機部署；非 LLM 專案 | 2026-10-14 |
 | [[lidge-jun-opencodex\|opencodex]] | ⭐17,270 | Coding Agent 本地模型代理、協議轉換、提供者路由與 dashboard | 2026-10-12 |
 | [[flutter-flutter\|Flutter]] | ⭐179,524 | Dart 跨平台 UI SDK、widgets、hot reload、原生整合；非 LLM／Agent 框架 | 2026-10-11 |

@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-10-06
+updated: 2026-10-15
 language: zh-TW
 ---
 
@@ -30,6 +30,10 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Rust（開發底座）** → 可用於自架服務或 CLI 的實作，語言本身不是部署平台。詳見 [[rust-lang-rust]]。
+- **nvm（環境配套）** → 為 Node 服務維護不同版本；不提供程序管理、監控或安全隔離。詳見 [[nvm-sh-nvm]]。
+- **Tiny11 Builder（映像準備）** → 客製 Windows 安裝媒體，而非自架服務；Core 缺乏更新與防護，不適合作為日常服務主機。詳見 [[ntdevlabs-tiny11builder]]。
 
 - **Stremio Web** → 可以建置或用 Docker 執行官方網頁 UI，但 Stremio API、addon 與內容來源仍有外部依賴。詳見 [[Stremio-stremio-web]]。
 - **openGym** → Docker Compose 自架健身紀錄，JSON 保存於 ./data；手機 passkey 需正確網域與 HTTPS，AI coach／MCP 另行選用。詳見 [[DuarteSantos8-openGym]]。
