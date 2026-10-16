@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-16（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[xerj-org-xerj]]（記憶與知識管理）、[[lightseekorg-tokenspeed]]（模型推論與部署）；保存完整 README、metadata 及 TokenSpeed 官方安裝／啟動文件。
+- 建立十段專案頁，更新既有概念 backlinks、projects 日期排序與 known-repos；未新增概念頁。
+- 區分官方效能宣稱與未執行的實測；說明 XERJ insecure／外送邊界與 TokenSpeed GPU 前置條件。未安裝候選軟體或下載模型。
 
 ## 2026-10-15（每日 LLM 熱門專案搜尋）
 

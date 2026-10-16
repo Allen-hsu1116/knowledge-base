@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # 專案索引
@@ -164,6 +164,7 @@ updated: 2026-10-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[xerj-org-xerj\|XERJ]] | ⭐5,662 | 自動索引、混合檢索、reference coding、MCP | 2026-10-16 |
 | [[VectifyAI-PageIndex\|PageIndex]] | ⭐37,384 | 文件樹索引、推理式 RAG、Local／Cloud 功能邊界 | 2026-09-30 |
 | [[vectorize-io-hindsight\|Hindsight]] | ⭐27,784 | Agent 記憶、混合召回、證據整合、knowledge pages | 2026-09-25 |
 | [[Tencent-WeKnora\|WeKnora]] | ⭐25,298 | RAG、ReAct、自動 Wiki、可編輯切塊與工作區治理 | 2026-09-17 |
@@ -214,6 +215,7 @@ updated: 2026-10-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[lightseekorg-tokenspeed\|TokenSpeed]] | ⭐2,490 | Agent 推論、C++ 排程控制面、Python 執行面、模組化 kernels | 2026-10-16 |
 | [[microsoft-BitNet\|BitNet（bitnet.cpp）]] | ⭐40,911 | 三元權重、1.58-bit、CPU／GPU kernels、本地推論 | 2026-10-13 |
 | [[tensorflow-tensorflow\|TensorFlow]] | ⭐200,458 | 通用機器學習框架、Python／C++ API、模型開發與部署；非專用聊天服務 | 2026-09-27 |
 | [[leejet-stable-diffusion.cpp\|stable-diffusion.cpp]] | ⭐7,244 | C/C++、ggml、圖像與影片擴散模型、本地推論 | 2026-09-25 |

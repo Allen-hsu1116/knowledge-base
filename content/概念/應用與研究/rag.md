@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-09-30
+updated: 2026-10-16
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **XERJ** → 自動索引本地資料，結合全文、向量與混合檢索；預設 lexical embedding 不等同神經語意模型。詳見 [[xerj-org-xerj]]。
 
 - **DSPy** → 將檢索與生成組合為模組化程式，評測並最佳化任務表現。
   👉 詳見 [[stanfordnlp-dspy]]
