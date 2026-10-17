@@ -2100,3 +2100,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 掃描全庫 wiki、raw 資產、專案／概念模板、frontmatter、連結與合併映射、索引排序和待分類區。
 - ds4 頁補回 raw/2026-05-13-ds4.md 歷史來源，標記已整理；對照 2026-10-05 官方 README 快照，註明舊單模型／ROCm 分支描述過時，澄清不連結 GGML。
 - raw 保持不變；完整檢查與整理狀態保存於 outputs/lint-audit-2026-10-11.json。語意檢查為風險主張與來源交叉核對，非全庫逐句即時事實驗證。
+
+## [2026-10-17] ingest | LinkSwift、Indra OCR
+
+- 新增 hmjz100/LinkSwift（應用；非 LLM 工具）與 datalab-to/indra（多媒體與爬蟲；CPU 文件 OCR）。
+- 保存完整 README 與 metadata，建立專案頁，更新四個既有概念 backlinks、projects.md 與 known-repos.json。
+- 不新增概念頁；程式碼／模型授權及正式／開發分支差異已標記。

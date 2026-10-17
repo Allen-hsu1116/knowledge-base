@@ -2,7 +2,7 @@
 title: 文件解析
 slug: document-parsing
 created: 2025-06-07
-updated: 2026-09-30
+updated: 2026-10-17
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **品質評估** — ParseBench 五維度：表格保真、圖表數值、內容忠實、格式語義、視覺定位
 
 ## 各框架的做法
+
+- **Indra OCR** → CPU 優先的文字層＋OCR 管線，輸出閱讀順序、區塊座標與 Markdown；手寫、直排及複雜表格不是強項。詳見 [[datalab-to-indra]]。
 
 - **PageIndex** → 從文字 PDF 版面建立文件樹供後續推理式檢索；代管 OCR 屬 Cloud 功能，見 [[VectifyAI-PageIndex]]。
 

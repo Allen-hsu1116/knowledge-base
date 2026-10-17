@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # 專案索引
@@ -262,6 +262,7 @@ updated: 2026-10-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[datalab-to-indra\|Indra OCR]] | ⭐450 | CPU OCR、文字層抽取、閱讀順序、Markdown／JSON、模型授權限制 | 2026-10-17 |
 | [[hypit-ai-hypit\|Hypit]] | ⭐21,204 | Agent 影片工作流、SVML、字幕與素材重用；附加商業授權限制 | 2026-10-12 |
 | [[Robbyant-lingbot-map\|LingBot-Map]] | ⭐17,701 | 串流三維重建、Geometric Context Transformer、關鍵幀 KV cache；非聊天 LLM | 2026-10-10 |
 | [[storytold-artcraft\|ArtCraft]] | ⭐7,972 | 2D／3D 視覺構圖、多模型影像生成、自訂 fair-source 授權 | 2026-10-09 |
@@ -391,6 +392,7 @@ updated: 2026-10-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hmjz100-LinkSwift\|LinkSwift]] | ⭐23,702 | 網盤下載輔助、使用者腳本、下載器整合；非 LLM 工具、不破解限速 | 2026-10-17 |
 | [[boykopovar-AnyPS5\|AnyPS5]] | ⭐4,964 | PS5 執行檔 relinker、PRX 函式庫與 SPIR-V；相容性研究、非 LLM | 2026-10-06 |
 | [[DuarteSantos8-openGym\|openGym]] | ⭐4,225 | 自架健身紀錄、passkeys、選用 AI coach、本地唯讀 MCP | 2026-10-06 |
 | [[HunxByts-GhostTrack\|GhostTrack]] | ⭐16,404 | 授權 OSINT 資訊查詢；非 LLM、不代表即時定位 | 2026-10-02 |

@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-10-03
+updated: 2026-10-17
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **LinkSwift** → 透過使用者腳本取得網盤下載連結並串接下載器，屬下載環節輔助，不是 AI Agent 或通用工作流平台。詳見 [[hmjz100-LinkSwift]]。
 
 - **Effect** → 以 TypeScript 的型別化錯誤、依賴注入、結構化並行與排程組合流程，並提供 AI provider adapters；不是視覺化工作流產品。詳見 [[Effect-TS-effect]]。
 

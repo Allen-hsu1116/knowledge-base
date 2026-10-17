@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-10-06
+updated: 2026-10-17
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **LinkSwift** → AGPL-3.0 網盤下載輔助腳本；開源不代表破解限速，也不授予下載內容的權利。詳見 [[hmjz100-LinkSwift]]。
 
 - **AnyPS5** → GPL-2.0-only 的原生執行檔 relinker 與 PRX 相容函式庫研究；開源授權不授予遊戲或專有資源的使用權。詳見 [[boykopovar-AnyPS5]]。
 
