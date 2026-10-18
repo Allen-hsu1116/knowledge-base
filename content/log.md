@@ -2106,3 +2106,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 新增 hmjz100/LinkSwift（應用；非 LLM 工具）與 datalab-to/indra（多媒體與爬蟲；CPU 文件 OCR）。
 - 保存完整 README 與 metadata，建立專案頁，更新四個既有概念 backlinks、projects.md 與 known-repos.json。
 - 不新增概念頁；程式碼／模型授權及正式／開發分支差異已標記。
+
+## [2026-10-18] lint | 全庫檢查與來源補齊
+
+- 修正 XERJ 的兩處 RAG 大小寫斷鏈，指向 [[rag]]。
+- Rust 安裝文件、Tiny11 usage 與 NOTICE 補上本地 raw 引用，原始素材保持不變。
+- 依 usage 快照修正 Tiny11 Core 移除全部 servicing 的過度概括，補上過時標記與來源。

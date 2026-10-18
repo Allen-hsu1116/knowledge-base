@@ -2,7 +2,7 @@
 title: "Rust"
 slug: rust-lang-rust
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-18
 stars: 120035
 language: zh-TW
 topics: ["Coding-Agent-CLI", "self-hosted"]
@@ -86,7 +86,7 @@ cargo --version
 - [GitHub：rust-lang/rust](https://github.com/rust-lang/rust)
 - README 快照：`raw/2026-10-15-rust-lang-rust.md`
 - GitHub metadata：`raw/2026-10-15-rust-lang-rust-metadata.json`
-- [官方安裝文件](https://doc.rust-lang.org/book/ch01-01-installation.html)
+- [官方安裝文件](https://doc.rust-lang.org/book/ch01-01-installation.html) — 本地快照：`raw/2026-10-15-rust-install.html`；已整理至本頁 rustup 安裝與工具鏈驗證流程。
 - [編譯器開發指南](https://rustc-dev-guide.rust-lang.org/)
 
 ---

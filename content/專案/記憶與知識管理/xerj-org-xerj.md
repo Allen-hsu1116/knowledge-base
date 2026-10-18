@@ -2,7 +2,7 @@
 title: XERJ
 slug: xerj-org-xerj
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-18
 stars: 5662
 language: zh-TW
 topics: [RAG, MCP, Token Optimization, hybrid-search]
@@ -14,7 +14,7 @@ topics: [RAG, MCP, Token Optimization, hybrid-search]
 
 ## 快速導航
 
-- [[RAG]] — 把外部資料檢索加入生成流程。
+- [[rag|RAG]] — 把外部資料檢索加入生成流程。
 - [[MCP]] — 讓 Agent 經工具介面查詢本地索引。
 - [[Token-Optimization]] — 減少不必要的檔案閱讀。
 
@@ -81,7 +81,7 @@ README 特別指出 scroll 使用有上限的預先快照；超出上限時拒�
 
 ## 相關概念
 
-← [[RAG]] · [[MCP]] · [[Token-Optimization]]
+← [[rag|RAG]] · [[MCP]] · [[Token-Optimization]]
 
 ## 來源
 

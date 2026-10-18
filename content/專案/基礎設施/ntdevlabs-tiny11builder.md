@@ -2,7 +2,7 @@
 title: "Tiny11 Builder"
 slug: ntdevlabs-tiny11builder
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-18
 stars: 20230
 language: zh-TW
 topics: ["self-hosted", "sandbox"]
@@ -29,7 +29,9 @@ Tiny11 Builder 是 Windows 安裝映像製作工具，現行介面為 WinUI 3，
 
 ### 1. 三種裁剪策略
 
-Tiny11 保留更新、Defender 與復原；Core 移除 servicing／復原並停用 Defender；Custom 可逐項選擇。
+Tiny11 保留更新、Defender 與復原；Core 重設元件基底、移除 WinRE 並停用 Windows Update 與 Defender，但仍保留部分 servicing／共用 runtime 檔案；Custom 可逐項選擇。
+
+**[⚠️ 可能過時] 舊筆記把 Core 簡寫成「移除 servicing」，過度概括。** 官方 usage 文件說明它保留部分 servicing 檔案，不能據此推論仍可正常更新或還原；參見來源的 `raw/2026-10-15-tiny11-docs-usage.md`。
 
 ### 2. 官方或本地映像來源
 
@@ -89,8 +91,8 @@ dotnet publish .\src\Tiny11Builder.App\Tiny11Builder.App.csproj -c Release -r wi
 - [GitHub：ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 - README 快照：`raw/2026-10-15-ntdevlabs-tiny11builder.md`
 - GitHub metadata：`raw/2026-10-15-ntdevlabs-tiny11builder-metadata.json`
-- [官方 usage／建置文件](https://github.com/ntdevlabs/tiny11builder/blob/main/docs/usage.md)
-- [授權與散布說明](https://github.com/ntdevlabs/tiny11builder/blob/main/NOTICE.md)
+- [官方 usage／建置文件](https://github.com/ntdevlabs/tiny11builder/blob/main/docs/usage.md) — 快照：`raw/2026-10-15-tiny11-docs-usage.md`；已整理至模式差異、建置與風險說明。
+- [授權與散布說明](https://github.com/ntdevlabs/tiny11builder/blob/main/NOTICE.md) — 快照：`raw/2026-10-15-tiny11-NOTICE.md`；已整理至授權限制與 metadata。
 
 ---
 
