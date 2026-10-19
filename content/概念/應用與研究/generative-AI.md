@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-10-12
+updated: 2026-10-19
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- **Jasna** → 在局部影片修復中提供 LTX 擴散模型路徑；支持者模型需另行授權，不能把生成細節當成原始證據。詳見 [[Kruk2-jasna]]。
 
 - **Awesome GPT Image 2 Prompts** → 提供電商、廣告、人像、海報等提示詞案例；服務費與第三方素材權利需另行確認。詳見 [[evolinkai-awesome-gpt-image-2-api-and-prompts]]。
 

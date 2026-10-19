@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-19
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-19（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[Kruk2-jasna]] 至多媒體與爬蟲；屬電腦視覺與生成式修復，而非 LLM 框架。
+- 保存 README、metadata、官方開發文件；完成十段專案頁、既有概念 backlinks、projects 與 known-repos 更新，未新增概念。
+- 未安裝專案或模型；明確區分公開原始碼授權、支持者模型限制與作者 benchmark。
 
 ## 2026-10-16（每日 LLM 熱門專案搜尋）
 

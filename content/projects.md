@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 
 # 專案索引
@@ -262,6 +262,7 @@ updated: 2026-10-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Kruk2-jasna\|Jasna]] | ⭐2,406 | GPU 局部影片修復、BasicVSR++／LTX、電腦視覺；非聊天 LLM | 2026-10-19 |
 | [[datalab-to-indra\|Indra OCR]] | ⭐450 | CPU OCR、文字層抽取、閱讀順序、Markdown／JSON、模型授權限制 | 2026-10-17 |
 | [[hypit-ai-hypit\|Hypit]] | ⭐21,204 | Agent 影片工作流、SVML、字幕與素材重用；附加商業授權限制 | 2026-10-12 |
 | [[Robbyant-lingbot-map\|LingBot-Map]] | ⭐17,701 | 串流三維重建、Geometric Context Transformer、關鍵幀 KV cache；非聊天 LLM | 2026-10-10 |
