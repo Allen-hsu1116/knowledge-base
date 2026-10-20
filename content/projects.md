@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # 專案索引
@@ -345,6 +345,7 @@ updated: 2026-10-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[withmarbleapp-os-taxonomy\|Marble Skill Taxonomy]] | ⭐6,125 | 教育知識圖譜、微主題、先備 DAG、課綱對齊；非 LLM 框架 | 2026-10-20 |
 | [[evolinkai-awesome-gpt-image-2-api-and-prompts\|Awesome GPT Image 2 Prompts]] | ⭐17,302 | 圖像提示詞案例、來源歸屬、多語策展；非生成後端 | 2026-10-12 |
 | [[liquidslr-system-design-notes\|System Design Notes]] | ⭐24,620 | 章節式系統設計筆記；非 LLM 框架 | 2026-10-09 |
 | [[byoungd-up\|人生進階指南（up）]] | ⭐64,682 | 以真實任務、AI 協作與成果證據串起終身學習的開放內容指南。 | 2026-09-29 |

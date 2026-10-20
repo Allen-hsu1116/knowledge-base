@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-19
+updated: 2026-10-20
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-20（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[withmarbleapp-os-taxonomy]] 至學習資源：教育知識圖譜資料集，非 LLM 框架。
+- 保存完整 README 與 metadata，建立十段專案頁，更新 Knowledge-Graph／RAG backlinks、專案索引與 known-repos；未新增概念。
+- 明確記錄 Agent 撰寫研究的驗證限制與多層授權；未安裝候選專案或執行其程式碼。
 
 ## 2026-10-19（每日 LLM 熱門專案搜尋）
 

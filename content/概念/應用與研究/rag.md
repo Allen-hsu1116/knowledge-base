@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-10-17
+updated: 2026-10-20
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **Marble Skill Taxonomy** → 可作為教育檢索的外部結構化資料來源，但不內建 embedding、檢索或生成；Agent 撰寫的教學紀錄仍需審閱。見 [[withmarbleapp-os-taxonomy]]。
 
 - **Indra OCR** → 為 RAG 提供 CPU 文件前處理與位置資訊，不包含切塊、embedding 或檢索生成。詳見 [[datalab-to-indra]]。
 

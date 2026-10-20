@@ -2,7 +2,7 @@
 title: Knowledge Graph（知識圖譜）
 slug: Knowledge-Graph
 created: 2026-06-22
-updated: 2026-10-01
+updated: 2026-10-20
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **GraphRAG**：知識圖譜 + RAG 結合，沿語義關聯路徑檢索，比 flat RAG 更精準
 
 ## 各框架的做法
+
+- **Marble Skill Taxonomy** → 小學教育微主題與先備關係 DAG 的公開資料集，包含 hard／soft 邊與課綱對齊；不是圖資料庫。見 [[withmarbleapp-os-taxonomy]]。
 
 - **MCP Memory reference server** → 展示以知識圖譜保存持久記憶，不應直接當成正式環境資料庫。見 [[modelcontextprotocol-servers]]。
 
