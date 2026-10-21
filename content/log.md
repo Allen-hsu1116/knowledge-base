@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-21
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-21（每日 LLM 熱門專案搜尋）
+
+- 唯一候選 sickn33/agentic-awesome-skills 與既有 antigravity-awesome-skills 的 GitHub ID 相同（1134426800）；新增 0 個 repo，更名更新 1 頁，不建立重複專案。
+- 更新 [[sickn33-antigravity-awesome-skills]] 的 AAS Core 功能與授權界線，保存完整 README／metadata，更新 backlinks、索引與 known-repos 去重鍵，保留原收錄日期。
+- 未安裝技能或修改宿主設定；沒有新概念。
 
 ## 2026-10-20（每日 LLM 熱門專案搜尋）
 

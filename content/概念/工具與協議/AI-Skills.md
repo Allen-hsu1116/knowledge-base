@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-10-12
+updated: 2026-10-21
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **AAS Core** → 由 Agent 選擇精確技能 ID，Core 提供目錄、結構驗證與計畫預覽；結構通過不等於安全或適用。詳見 [[sickn33-antigravity-awesome-skills]]。
 
 - **Guizang PPT Skill** → 將需求、模板、視覺檢查與排練封裝成簡報技能。詳見 [[op7418-guizang-ppt-skill]]。
 - **Hypit** → 以 Skill 入口協助 Coding Agent 建立可重跑影片 composition；技能安裝不等於所有影片工具與服務已備妥。詳見 [[hypit-ai-hypit]]。

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # 專案索引
@@ -544,7 +544,7 @@ updated: 2026-10-20
 | [[nidhinjs-prompt-master]] | ⭐7,257 | Prompt Engineering, Token Optimization | 2026-05-08 |
 | [[open-design]] | ⭐30,632 | AI Skills, Coding Agent CLI, Prompt Engineering | 2026-05-07 |
 | [[heygen-com-hyperframes]] | ⭐18,926 | AI Skills, AI Agent, Prompt Engineering | 2026-05-07 |
-| [[sickn33-antigravity-awesome-skills]] | ⭐36,216 | AI Skills, MCP, Prompt Engineering | 2026-05-04 |
+| [[sickn33-antigravity-awesome-skills\|AAS Core — Agentic Awesome Skills]] | ⭐48,093 | 技能目錄、本地 MCP、Agent 選擇、stack 驗證與計畫預覽（更名更新） | 2026-05-04 |
 
 ## 🏗 基礎設施
 
