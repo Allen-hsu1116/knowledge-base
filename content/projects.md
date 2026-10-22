@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # 專案索引
@@ -394,6 +394,7 @@ updated: 2026-10-21
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[strelov1-freehire\|freehire]] | ⭐2,388 | 開源求職搜尋、履歷與投遞追蹤、可選 LLM 助理、自架 | 2026-10-22 |
 | [[hmjz100-LinkSwift\|LinkSwift]] | ⭐23,702 | 網盤下載輔助、使用者腳本、下載器整合；非 LLM 工具、不破解限速 | 2026-10-17 |
 | [[boykopovar-AnyPS5\|AnyPS5]] | ⭐4,964 | PS5 執行檔 relinker、PRX 函式庫與 SPIR-V；相容性研究、非 LLM | 2026-10-06 |
 | [[DuarteSantos8-openGym\|openGym]] | ⭐4,225 | 自架健身紀錄、passkeys、選用 AI coach、本地唯讀 MCP | 2026-10-06 |

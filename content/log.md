@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-22（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[strelov1-freehire]] 至「應用」：開源職缺搜尋與求職工作空間，含選用 LLM 助理。
+- 保存 README／metadata，建立十段專案頁，更新 AI-Agent、self-hosted backlinks、projects 與 known-repos；未新增概念。
+- 來源規模與產品能力依上游文件標註，未執行候選專案或存取求職個資。
 
 ## 2026-10-21（每日 LLM 熱門專案搜尋）
 

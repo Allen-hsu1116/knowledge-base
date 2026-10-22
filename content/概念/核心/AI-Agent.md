@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **freehire（求職應用）** → 將聊天、瀏覽、履歷調整與面試練習整合為領域內 Agent；README 明示不提供 shell、不自行產生憑證。詳見 [[strelov1-freehire]]。
 
 - **AAS Core（技能控制平面）** → 宿主 Agent 負責選擇技能，Core 不替候選排名，也不取代 Agent runtime。詳見 [[sickn33-antigravity-awesome-skills]]。
 

@@ -31,6 +31,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **freehire** → 自架 Go／SvelteKit 求職平台，需管理 PostgreSQL、Meilisearch 等服務與獨立 worker；外部 LLM 為選用，履歷及信件資料仍須檢查傳送政策。詳見 [[strelov1-freehire]]。
+
 - **Rust（開發底座）** → 可用於自架服務或 CLI 的實作，語言本身不是部署平台。詳見 [[rust-lang-rust]]。
 - **nvm（環境配套）** → 為 Node 服務維護不同版本；不提供程序管理、監控或安全隔離。詳見 [[nvm-sh-nvm]]。
 - **Tiny11 Builder（映像準備）** → 客製 Windows 安裝媒體，而非自架服務；Core 缺乏更新與防護，不適合作為日常服務主機。詳見 [[ntdevlabs-tiny11builder]]。
