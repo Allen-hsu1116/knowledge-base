@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-22
+updated: 2026-10-24
 ---
 
 # 專案索引
@@ -394,6 +394,7 @@ updated: 2026-10-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Renhuai123-ziwei-doushu\|紫微斗數開源排盤引擎]] | ⭐6,863 | 排盤 Demo、領域語料、RAG 資料來源；AI API 未開源 | 2026-10-24 |
 | [[strelov1-freehire\|freehire]] | ⭐2,388 | 開源求職搜尋、履歷與投遞追蹤、可選 LLM 助理、自架 | 2026-10-22 |
 | [[hmjz100-LinkSwift\|LinkSwift]] | ⭐23,702 | 網盤下載輔助、使用者腳本、下載器整合；非 LLM 工具、不破解限速 | 2026-10-17 |
 | [[boykopovar-AnyPS5\|AnyPS5]] | ⭐4,964 | PS5 執行檔 relinker、PRX 函式庫與 SPIR-V；相容性研究、非 LLM | 2026-10-06 |
@@ -551,6 +552,7 @@ updated: 2026-10-22
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[php-php-src\|PHP Interpreter]] | ⭐41,564 | PHP 直譯器、原始碼建置、擴充與測試；非 LLM 框架 | 2026-10-24 |
 | [[rust-lang-rust\|Rust]] | ⭐120,035 | 語言、編譯器、ownership、原生工具鏈；非 LLM | 2026-10-15 |
 | [[nvm-sh-nvm\|nvm]] | ⭐95,456 | Node.js 版本管理、POSIX shell、專案環境；非 LLM | 2026-10-15 |
 | [[ntdevlabs-tiny11builder\|Tiny11 Builder]] | ⭐20,230 | WinUI／C#、Windows ISO 製作、Core 風險與授權限制；非 LLM | 2026-10-15 |

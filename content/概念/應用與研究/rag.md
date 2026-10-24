@@ -2,7 +2,7 @@
 title: RAG（檢索增強生成）
 slug: rag
 created: 2026-06-03
-updated: 2026-10-20
+updated: 2026-10-24
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 - **引用追溯** — 回答附帶具體文件和段落引用，實現可驗證性
 
 ## 各框架的做法
+
+- **紫微斗數資料集（領域語料）** → 提供確定性生成的文化文本，可供自建 RAG 使用但不附檢索管線；須區分資料授權與非商用引文，不能把命理當成科學事實。見 [[Renhuai123-ziwei-doushu]]。
 
 - **Marble Skill Taxonomy** → 可作為教育檢索的外部結構化資料來源，但不內建 embedding、檢索或生成；Agent 撰寫的教學紀錄仍需審閱。見 [[withmarbleapp-os-taxonomy]]。
 

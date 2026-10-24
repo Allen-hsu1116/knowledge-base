@@ -2,10 +2,17 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-24
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-24（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[php-php-src]] 至「基礎設施」、[[Renhuai123-ziwei-doushu]] 至「應用」。
+- 保存 README 與 metadata，建立十段專案頁，更新 Coding-Agent-CLI、self-hosted、rag backlinks、projects 與 known-repos；未新增概念。
+- PHP 為通用語言執行層，非 LLM 框架；紫微斗數資料僅作文化文本研究，AI 後端未開源，授權須區分程式、資料及非商用引文。
+- 未安裝候選專案、執行其程式或下載全量資料集。
 
 ## 2026-10-22（每日 LLM 熱門專案搜尋）
 
