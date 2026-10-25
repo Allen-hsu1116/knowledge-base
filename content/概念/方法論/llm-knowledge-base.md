@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-09-16
+updated: 2026-10-25
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
 - **Schema 決定一切** — SCHEMA.md 是唯一的前期投入，隨使用共同演化
 
 ## 各框架的做法
+
+- **電子書下載寶庫** → 按標籤整理的電子書連結與搜尋目錄，非 LLM 工具；個別書籍授權須另核對。 詳見 [[jbiaojerry-ebook-treasure-chest]]。
 
 - **Hindsight** → 以保留證據的 observations 與背景更新的 mental models 形成 knowledge pages，可投影成 Markdown。詳見 [[vectorize-io-hindsight]]。
 

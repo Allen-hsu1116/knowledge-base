@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-25
 language: zh-TW
 ---
 
@@ -27,6 +27,14 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **Agent Toolkit for AWS** → AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 詳見 [[aws-agent-toolkit-for-aws]]。
+
+- **Cindy** → 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 詳見 [[makecindy-cindy]]。
+
+- **Microduck** → 以 Rust daemons 執行強化學習動作策略的小型雙足機器人系統，非 LLM Agent。 詳見 [[pollen-robotics-microduck]]。
+
+- **Gemini CLI** → Google 開源終端 Coding Agent；須注意官方已公告部分使用者轉向 Antigravity CLI。 詳見 [[google-gemini-gemini-cli]]。
 
 - **freehire（求職應用）** → 將聊天、瀏覽、履歷調整與面試練習整合為領域內 Agent；README 明示不提供 shell、不自行產生憑證。詳見 [[strelov1-freehire]]。
 

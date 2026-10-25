@@ -2,10 +2,21 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-24
+updated: 2026-10-25
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-25（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[google-gemini-gemini-cli]] 至「🤖 Agent 框架與工具」。
+- 收錄 [[jbiaojerry-ebook-treasure-chest]] 至「📖 學習資源」。
+- 收錄 [[pollen-robotics-microduck]] 至「📊 應用」。
+- 收錄 [[makecindy-cindy]] 至「🤖 Agent 框架與工具」。
+- 收錄 [[aws-agent-toolkit-for-aws]] 至「🛠 Skill 生態系」。
+- 保存完整 README／metadata，完成十段專案頁與概念 backlinks；索引按日期排序，未新增概念頁。
+- Microduck 為 RL 機器人而非 LLM；電子書專案僅收錄索引並標註授權未明。未安裝或執行候選專案。
+
 
 ## 2026-10-24（每日 LLM 熱門專案搜尋）
 

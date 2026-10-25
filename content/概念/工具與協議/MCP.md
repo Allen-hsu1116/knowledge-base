@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-10-06
+updated: 2026-10-25
 language: zh-TW
 ---
 
@@ -27,6 +27,12 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **Agent Toolkit for AWS** → AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 詳見 [[aws-agent-toolkit-for-aws]]。
+
+- **Cindy** → 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 詳見 [[makecindy-cindy]]。
+
+- **Gemini CLI** → Google 開源終端 Coding Agent；須注意官方已公告部分使用者轉向 Antigravity CLI。 詳見 [[google-gemini-gemini-cli]]。
 
 - **REA** → 以本地 MCP 暴露逆向工程工具，保留 provider 能力邊界與 Evidence；外部模型仍有自己的資料政策。詳見 [[morluto-rea]]。
 

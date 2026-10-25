@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-24
+updated: 2026-10-25
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-10-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[makecindy-cindy\|Cindy]] | ⭐4,106 | 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 | 2026-10-25 |
+| [[google-gemini-gemini-cli\|Gemini CLI]] | ⭐108,057 | Google 開源終端 Coding Agent；須注意官方已公告部分使用者轉向 Antigravity CLI。 | 2026-10-25 |
 | [[ifixai-ai-iFixAi\|iFixAi]] | ⭐27,420 | Agent 業務政策稽核、獨立 judge、fixture、證據不足標記 | 2026-10-15 |
 | [[browser-use-browser-harness\|Browser Harness]] | ⭐18,393 | CDP 真實瀏覽器、可重用 helper、MCP、錄製同意 | 2026-10-12 |
 | [[morluto-rea\|REA]] | ⭐9,458 | CLI／MCP 逆向工程工具、原生與 JavaScript 分析、可追溯 Evidence | 2026-10-07 |
@@ -345,6 +347,7 @@ updated: 2026-10-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[jbiaojerry-ebook-treasure-chest\|電子書下載寶庫]] | ⭐22,612 | 按標籤整理的電子書連結與搜尋目錄，非 LLM 工具；個別書籍授權須另核對。 | 2026-10-25 |
 | [[withmarbleapp-os-taxonomy\|Marble Skill Taxonomy]] | ⭐6,125 | 教育知識圖譜、微主題、先備 DAG、課綱對齊；非 LLM 框架 | 2026-10-20 |
 | [[evolinkai-awesome-gpt-image-2-api-and-prompts\|Awesome GPT Image 2 Prompts]] | ⭐17,302 | 圖像提示詞案例、來源歸屬、多語策展；非生成後端 | 2026-10-12 |
 | [[liquidslr-system-design-notes\|System Design Notes]] | ⭐24,620 | 章節式系統設計筆記；非 LLM 框架 | 2026-10-09 |
@@ -394,6 +397,7 @@ updated: 2026-10-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[pollen-robotics-microduck\|Microduck]] | ⭐10,997 | 以 Rust daemons 執行強化學習動作策略的小型雙足機器人系統，非 LLM Agent。 | 2026-10-25 |
 | [[Renhuai123-ziwei-doushu\|紫微斗數開源排盤引擎]] | ⭐6,863 | 排盤 Demo、領域語料、RAG 資料來源；AI API 未開源 | 2026-10-24 |
 | [[strelov1-freehire\|freehire]] | ⭐2,388 | 開源求職搜尋、履歷與投遞追蹤、可選 LLM 助理、自架 | 2026-10-22 |
 | [[hmjz100-LinkSwift\|LinkSwift]] | ⭐23,702 | 網盤下載輔助、使用者腳本、下載器整合；非 LLM 工具、不破解限速 | 2026-10-17 |
@@ -482,6 +486,7 @@ updated: 2026-10-24
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[aws-agent-toolkit-for-aws\|Agent Toolkit for AWS]] | ⭐3,131 | AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 | 2026-10-25 |
 | [[op7418-guizang-ppt-skill\|Guizang PPT Skill]] | ⭐27,615 | HTML 簡報、双視覺系統、配圖、演講者模式 | 2026-10-12 |
 | [[twostraws-SwiftUI-Agent-Skill\|SwiftUI Pro]] | ⭐5,431 | SwiftUI 領域技能、現代 API、效能與 VoiceOver 審查、跨 Coding Agent | 2026-10-10 |
 | [[michael-denyer-pstack-claude\|pstack（多 Harness 移植版）]] | ⭐1,141 | 將 Lauren Tan 的 pstack 工作流移植到 Claude Code、Codex、Pi 等 Coding Agent。 | 2026-10-05 |

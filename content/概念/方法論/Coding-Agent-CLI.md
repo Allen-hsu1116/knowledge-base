@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-24
+updated: 2026-10-25
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Gemini CLI** → Google 開源終端 Coding Agent；須注意官方已公告部分使用者轉向 Antigravity CLI。 詳見 [[google-gemini-gemini-cli]]。
 
 - **PHP（外部語言環境）** → 提供直譯器、擴充與原始碼測試；不是 Agent，生成應用仍需獨立驗證。詳見 [[php-php-src]]。
 

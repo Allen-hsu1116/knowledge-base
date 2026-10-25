@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-25
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **Agent Toolkit for AWS** → AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 詳見 [[aws-agent-toolkit-for-aws]]。
+
+- **Cindy** → 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 詳見 [[makecindy-cindy]]。
 
 - **AAS Core** → 由 Agent 選擇精確技能 ID，Core 提供目錄、結構驗證與計畫預覽；結構通過不等於安全或適用。詳見 [[sickn33-antigravity-awesome-skills]]。
 
