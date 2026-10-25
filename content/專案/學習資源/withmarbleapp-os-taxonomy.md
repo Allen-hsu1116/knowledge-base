@@ -2,7 +2,7 @@
 title: Marble Skill Taxonomy（os-taxonomy）
 slug: withmarbleapp-os-taxonomy
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-25
 stars: 6125
 language: JavaScript
 topics: [Knowledge Graph, Education, Open Data]
@@ -15,7 +15,7 @@ topics: [Knowledge Graph, Education, Open Data]
 ## 快速導航
 
 - [[Knowledge-Graph]] — 以節點與有方向的先備關係組織學習路徑。
-- [[RAG]] — 可作為教育檢索應用的外部資料來源，但不自帶 RAG 管線。
+- [[rag|RAG]] — 可作為教育檢索應用的外部資料來源，但不自帶 RAG 管線。
 
 ## 是什麼
 
@@ -84,7 +84,7 @@ console.log(prereqs);
 
 ## 相關概念
 
-← [[Knowledge-Graph]] · [[RAG]]
+← [[Knowledge-Graph]] · [[rag|RAG]]
 
 ## 來源
 

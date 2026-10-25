@@ -2154,3 +2154,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 修正 XERJ 的兩處 RAG 大小寫斷鏈，指向 [[rag]]。
 - Rust 安裝文件、Tiny11 usage 與 NOTICE 補上本地 raw 引用，原始素材保持不變。
 - 依 usage 快照修正 Tiny11 Core 移除全部 servicing 的過度概括，補上過時標記與來源。
+
+## [2026-10-25] lint | 全庫檢查與 RAG 連結修正
+
+- 掃描全庫頁面模板、frontmatter、來源、索引、Stars、日期排序與合併連結。
+- 修復 withmarbleapp-os-taxonomy 頁面兩處 RAG 大小寫錯誤連結，改指向既有 rag 頁。
+- raw 引用狀態寫入 outputs/lint-audit-2026-10-25.json，不變更原始素材。
+- 矛盾檢查範圍：跨頁 metadata 一致性、全庫高風險主張掃描與近期專案摘要；不等同所有歷史內容的外部事實查核。
