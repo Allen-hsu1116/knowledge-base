@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[JetBrains-thinkrail\|ThinkRail]] | ⭐1,746 | JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 | 2026-10-26 |
 | [[makecindy-cindy\|Cindy]] | ⭐4,106 | 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 | 2026-10-25 |
 | [[google-gemini-gemini-cli\|Gemini CLI]] | ⭐108,057 | Google 開源終端 Coding Agent；須注意官方已公告部分使用者轉向 Antigravity CLI。 | 2026-10-25 |
 | [[ifixai-ai-iFixAi\|iFixAi]] | ⭐27,420 | Agent 業務政策稽核、獨立 judge、fixture、證據不足標記 | 2026-10-15 |
@@ -486,6 +487,7 @@ updated: 2026-10-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[AgriciDaniel-claude-seo\|Claude SEO]] | ⭐20,882 | 把技術 SEO、內容、結構化資料與 AI 搜尋稽核封裝成 Claude Code 插件。 | 2026-10-26 |
 | [[aws-agent-toolkit-for-aws\|Agent Toolkit for AWS]] | ⭐3,131 | AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 | 2026-10-25 |
 | [[op7418-guizang-ppt-skill\|Guizang PPT Skill]] | ⭐27,615 | HTML 簡報、双視覺系統、配圖、演講者模式 | 2026-10-12 |
 | [[twostraws-SwiftUI-Agent-Skill\|SwiftUI Pro]] | ⭐5,431 | SwiftUI 領域技能、現代 API、效能與 VoiceOver 審查、跨 Coding Agent | 2026-10-10 |
@@ -557,6 +559,7 @@ updated: 2026-10-25
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[coollabsio-coolify\|Coolify]] | ⭐64,387 | 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 | 2026-10-26 |
 | [[php-php-src\|PHP Interpreter]] | ⭐41,564 | PHP 直譯器、原始碼建置、擴充與測試；非 LLM 框架 | 2026-10-24 |
 | [[rust-lang-rust\|Rust]] | ⭐120,035 | 語言、編譯器、ownership、原生工具鏈；非 LLM | 2026-10-15 |
 | [[nvm-sh-nvm\|nvm]] | ⭐95,456 | Node.js 版本管理、POSIX shell、專案環境；非 LLM | 2026-10-15 |

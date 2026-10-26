@@ -2161,3 +2161,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 修復 withmarbleapp-os-taxonomy 頁面兩處 RAG 大小寫錯誤連結，改指向既有 rag 頁。
 - raw 引用狀態寫入 outputs/lint-audit-2026-10-25.json，不變更原始素材。
 - 矛盾檢查範圍：跨頁 metadata 一致性、全庫高風險主張掃描與近期專案摘要；不等同所有歷史內容的外部事實查核。
+
+## 2026-10-26 每日熱門專案收錄
+
+- ingest [[coollabsio-coolify]]：README／metadata 原始快照、完整專案頁、概念反向連結及分類索引。
+- ingest [[AgriciDaniel-claude-seo]]：README／metadata 原始快照、完整專案頁、概念反向連結及分類索引。
+- ingest [[JetBrains-thinkrail]]：README／metadata 原始快照、完整專案頁、概念反向連結及分類索引。

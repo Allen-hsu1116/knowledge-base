@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-10-25
+updated: 2026-10-26
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **ThinkRail** → JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 詳見 [[JetBrains-thinkrail]]。
+
+- **Claude SEO** → 把技術 SEO、內容、結構化資料與 AI 搜尋稽核封裝成 Claude Code 插件。 詳見 [[AgriciDaniel-claude-seo]]。
 
 - **Agent Toolkit for AWS** → AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 詳見 [[aws-agent-toolkit-for-aws]]。
 

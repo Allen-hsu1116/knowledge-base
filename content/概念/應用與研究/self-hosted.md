@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-10-24
+updated: 2026-10-26
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Coolify** → 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 詳見 [[coollabsio-coolify]]。
 
 - **PHP（語言執行層）** → 可作自架 Web 應用的基礎，並不提供 LLM 或部署管理平台。詳見 [[php-php-src]]。
 - **紫微斗數開源排盤引擎** → 本地 Demo 可排盤，但 AI API、正式斷語及商業介面未開源；命理不作診斷或決策依據。詳見 [[Renhuai123-ziwei-doushu]]。

@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-10-25
+updated: 2026-10-26
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **ThinkRail** → JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 詳見 [[JetBrains-thinkrail]]。
+
+- **Coolify** → 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 詳見 [[coollabsio-coolify]]。
 
 - **Agent Toolkit for AWS** → AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 詳見 [[aws-agent-toolkit-for-aws]]。
 
