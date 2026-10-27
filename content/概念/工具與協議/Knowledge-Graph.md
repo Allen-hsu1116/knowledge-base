@@ -2,7 +2,7 @@
 title: Knowledge Graph（知識圖譜）
 slug: Knowledge-Graph
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-27
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **GraphRAG**：知識圖譜 + RAG 結合，沿語義關聯路徑檢索，比 flat RAG 更精準
 
 ## 各框架的做法
+
+- **Carrel** → 文件圖譜保留實體、關係、來源、時間與衝突指標；持續學習企業本體的 Agent Loop plugin 尚未實作。詳見 [[FengZhenfei-carrel]]。
 
 - **Marble Skill Taxonomy** → 小學教育微主題與先備關係 DAG 的公開資料集，包含 hard／soft 邊與課綱對齊；不是圖資料庫。見 [[withmarbleapp-os-taxonomy]]。
 

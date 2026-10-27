@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-10-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nightly-labs-openbot\|OpenBot]] | ⭐1,479 | 持久 AI 隊友、桌面工作台與佇列；預覽版全權限，非商用授權。 | 2026-10-27 |
 | [[JetBrains-thinkrail\|ThinkRail]] | ⭐1,746 | JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 | 2026-10-26 |
 | [[makecindy-cindy\|Cindy]] | ⭐4,106 | 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 | 2026-10-25 |
 | [[google-gemini-gemini-cli\|Gemini CLI]] | ⭐108,057 | Google 開源終端 Coding Agent；須注意官方已公告部分使用者轉向 Antigravity CLI。 | 2026-10-25 |
@@ -167,6 +168,7 @@ updated: 2026-10-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FengZhenfei-carrel\|Carrel]] | ⭐643 | 文件解析、混合檢索與選配知識圖譜；Agent Loop 尚未實作。 | 2026-10-27 |
 | [[xerj-org-xerj\|XERJ]] | ⭐5,662 | 自動索引、混合檢索、reference coding、MCP | 2026-10-16 |
 | [[VectifyAI-PageIndex\|PageIndex]] | ⭐37,384 | 文件樹索引、推理式 RAG、Local／Cloud 功能邊界 | 2026-09-30 |
 | [[vectorize-io-hindsight\|Hindsight]] | ⭐27,784 | Agent 記憶、混合召回、證據整合、knowledge pages | 2026-09-25 |
@@ -398,6 +400,7 @@ updated: 2026-10-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[gitroomhq-postiz-app\|Postiz]] | ⭐38,455 | AI 社群排程、分析、CLI／MCP，提供 Cloud 與自架版本。 | 2026-10-27 |
 | [[pollen-robotics-microduck\|Microduck]] | ⭐10,997 | 以 Rust daemons 執行強化學習動作策略的小型雙足機器人系統，非 LLM Agent。 | 2026-10-25 |
 | [[Renhuai123-ziwei-doushu\|紫微斗數開源排盤引擎]] | ⭐6,863 | 排盤 Demo、領域語料、RAG 資料來源；AI API 未開源 | 2026-10-24 |
 | [[strelov1-freehire\|freehire]] | ⭐2,388 | 開源求職搜尋、履歷與投遞追蹤、可選 LLM 助理、自架 | 2026-10-22 |
@@ -487,6 +490,7 @@ updated: 2026-10-26
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[alchaincyf-huashu-design\|Huashu Design]] | ⭐26,758 | 跨 Agent 設計 Skill、方向探索、互動原型與可編輯 PPTX。 | 2026-10-27 |
 | [[AgriciDaniel-claude-seo\|Claude SEO]] | ⭐20,882 | 把技術 SEO、內容、結構化資料與 AI 搜尋稽核封裝成 Claude Code 插件。 | 2026-10-26 |
 | [[aws-agent-toolkit-for-aws\|Agent Toolkit for AWS]] | ⭐3,131 | AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 | 2026-10-25 |
 | [[op7418-guizang-ppt-skill\|Guizang PPT Skill]] | ⭐27,615 | HTML 簡報、双視覺系統、配圖、演講者模式 | 2026-10-12 |

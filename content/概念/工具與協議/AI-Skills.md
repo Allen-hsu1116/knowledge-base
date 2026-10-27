@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-10-26
+updated: 2026-10-27
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **Huashu Design** → 將設計方向探索、品牌參照、互動原型與簡報匯出封裝為技能包，需一併保留素材與腳本。詳見 [[alchaincyf-huashu-design]]。
+- **OpenBot** → 提供持久 Agent 的桌面執行與協作環境；Skills 是可重用知識層，不等於整個工作台。詳見 [[nightly-labs-openbot]]。
 
 - **ThinkRail** → JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 詳見 [[JetBrains-thinkrail]]。
 

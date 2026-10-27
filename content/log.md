@@ -2167,3 +2167,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[coollabsio-coolify]]：README／metadata 原始快照、完整專案頁、概念反向連結及分類索引。
 - ingest [[AgriciDaniel-claude-seo]]：README／metadata 原始快照、完整專案頁、概念反向連結及分類索引。
 - ingest [[JetBrains-thinkrail]]：README／metadata 原始快照、完整專案頁、概念反向連結及分類索引。
+
+## [2026-10-27] ingest | 每日 LLM 熱門專案
+
+- 收錄 [[gitroomhq-postiz-app]]（應用）、[[alchaincyf-huashu-design]]（Skill 生態系）、[[nightly-labs-openbot]]（Agent 框架與工具）、[[FengZhenfei-carrel]]（記憶與知識管理）。
+- 保存完整 README 原始快照及 GitHub metadata；完成十段專案頁、概念 backlinks、日期排序索引與 known-repos 去重。
+- 未新建概念頁；OpenBot 標註非商用授權及全權限預覽風險，Carrel 區分現有檢索與未實作 Agent Loop。
+- 本次僅整理文件，未安裝或啟動候選專案。
