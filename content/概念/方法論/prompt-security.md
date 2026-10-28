@@ -74,5 +74,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 
 ## 來源
 
+- [[togg53192-cmd-jailbreaks]] — 指令衝突、persona 與 workspace policy 的研究素材；非有效性保證。
+
+
 - raw/2026-04-28-cl4r1t4s.md（CL4R1T4S 安全研究）
 - Anthropic steering vector 研究筆記

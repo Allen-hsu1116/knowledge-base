@@ -129,6 +129,9 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 來源
 
+- [[elayadesign-ai-design-skills]] — Landing page 策略、文案與視覺規則，供 Coding Agent 載入。
+
+
 - raw/2026-10-12-op7418-guizang-ppt-skill.md
 - raw/2026-10-12-hypit-ai-hypit.md
 - 知識庫內 AI Skills 相關原始資料與專案頁面

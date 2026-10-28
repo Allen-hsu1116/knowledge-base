@@ -59,6 +59,9 @@ language: zh-TW
 
 ## 來源
 
+- [[elayadesign-ai-design-skills]] — Landing page 策略、文案與視覺規則，供 Coding Agent 載入。
+
+
 - Anthropic Skills frontend-design SKILL.md
 - UI UX Pro Max Design Token 體系
 - Vercel Agent Skills web-design-guidelines

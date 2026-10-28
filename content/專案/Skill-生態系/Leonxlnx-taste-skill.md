@@ -83,6 +83,9 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 
 ## 來源
 
+- [[elayadesign-ai-design-skills]] — Landing page 策略、文案與視覺規則，供 Coding Agent 載入。
+
+
 - [GitHub：專案原始碼](https://github.com/Leonxlnx/taste-skill)
 - [原始資料](../raw/2026-06-07-Leonxlnx-taste-skill.md)
 - raw/2026-05-26-Leonxlnx-taste-skill.md

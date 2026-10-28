@@ -74,5 +74,8 @@ Context Engineering 是 Prompt Engineering 的進階版——不只是寫好提�
 
 ## 來源
 
+- [[togg53192-cmd-jailbreaks]] — 指令衝突、persona 與 workspace policy 的研究素材；非有效性保證。
+
+
 - raw/2026-10-12-evolinkai-awesome-gpt-image-2-api-and-prompts.md
 - 知識庫內 Prompt Engineering 相關原始資料與專案頁面

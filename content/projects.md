@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # 專案索引
@@ -350,6 +350,7 @@ updated: 2026-10-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[togg53192-cmd-jailbreaks\|Jailbreaks]] | ⭐5,545 | 指令衝突、persona 與 workspace policy 的研究素材；非有效性保證。 | 2026-10-28 |
 | [[jbiaojerry-ebook-treasure-chest\|電子書下載寶庫]] | ⭐22,612 | 按標籤整理的電子書連結與搜尋目錄，非 LLM 工具；個別書籍授權須另核對。 | 2026-10-25 |
 | [[withmarbleapp-os-taxonomy\|Marble Skill Taxonomy]] | ⭐6,125 | 教育知識圖譜、微主題、先備 DAG、課綱對齊；非 LLM 框架 | 2026-10-20 |
 | [[evolinkai-awesome-gpt-image-2-api-and-prompts\|Awesome GPT Image 2 Prompts]] | ⭐17,302 | 圖像提示詞案例、來源歸屬、多語策展；非生成後端 | 2026-10-12 |
@@ -490,6 +491,7 @@ updated: 2026-10-27
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[elayadesign-ai-design-skills\|AI Design Skills]] | ⭐9,355 | Landing page 策略、文案與視覺規則，供 Coding Agent 載入。 | 2026-10-28 |
 | [[alchaincyf-huashu-design\|Huashu Design]] | ⭐26,758 | 跨 Agent 設計 Skill、方向探索、互動原型與可編輯 PPTX。 | 2026-10-27 |
 | [[AgriciDaniel-claude-seo\|Claude SEO]] | ⭐20,882 | 把技術 SEO、內容、結構化資料與 AI 搜尋稽核封裝成 Claude Code 插件。 | 2026-10-26 |
 | [[aws-agent-toolkit-for-aws\|Agent Toolkit for AWS]] | ⭐3,131 | AWS 官方提供的 MCP、Skills 與插件組合，讓既有 Coding Agent 操作 AWS。 | 2026-10-25 |

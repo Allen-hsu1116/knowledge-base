@@ -2174,3 +2174,8 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 保存完整 README 原始快照及 GitHub metadata；完成十段專案頁、概念 backlinks、日期排序索引與 known-repos 去重。
 - 未新建概念頁；OpenBot 標註非商用授權及全權限預覽風險，Carrel 區分現有檢索與未實作 Agent Loop。
 - 本次僅整理文件，未安裝或啟動候選專案。
+
+## 2026-10-28 每日熱門專案收錄
+
+- ingest [[elayadesign-ai-design-skills]]：README、metadata、raw、專案頁、概念反向連結、projects 分類與 known-repos 索引。
+- ingest [[togg53192-cmd-jailbreaks]]：README、metadata、raw、專案頁、概念反向連結、projects 分類與 known-repos 索引。
