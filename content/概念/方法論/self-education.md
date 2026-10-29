@@ -2,7 +2,7 @@
 title: 自主學習
 slug: self-education
 created: 2026-05-11
-updated: 2026-10-25
+updated: 2026-10-29
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **知識庫系統輔助**：用 LLM Wiki 方法把學習素材編譯成個人知識庫，加深理解並留下記錄
 
 ## 各框架的做法
+
+- 自學是門手藝：以 Python 與 Notebook 練習閱讀及實作；不是 LLM 教材。 詳見 [[xiaolai-the-craft-of-selfteaching]]。
 
 - **Microduck** → 以 Rust daemons 執行強化學習動作策略的小型雙足機器人系統，非 LLM Agent。 詳見 [[pollen-robotics-microduck]]。
 

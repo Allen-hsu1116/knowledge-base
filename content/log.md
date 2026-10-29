@@ -2179,3 +2179,8 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 
 - ingest [[elayadesign-ai-design-skills]]：README、metadata、raw、專案頁、概念反向連結、projects 分類與 known-repos 索引。
 - ingest [[togg53192-cmd-jailbreaks]]：README、metadata、raw、專案頁、概念反向連結、projects 分類與 known-repos 索引。
+
+## 2026-10-29
+
+- 新增 [[macro-inc-macro]]（應用）與 [[xiaolai-the-craft-of-selfteaching]]（學習資源；非 LLM 專案）。
+- 保存 README / metadata，更新 AI-Agent、MCP、自主學習 backlinks、分類索引與去重清單。

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 # 專案索引
@@ -350,6 +350,7 @@ updated: 2026-10-28
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[xiaolai-the-craft-of-selfteaching\|自學是門手藝]] | ⭐18,509 | Python／Notebook 自學教材；非 LLM 工具 | 2026-10-29 |
 | [[togg53192-cmd-jailbreaks\|Jailbreaks]] | ⭐5,545 | 指令衝突、persona 與 workspace policy 的研究素材；非有效性保證。 | 2026-10-28 |
 | [[jbiaojerry-ebook-treasure-chest\|電子書下載寶庫]] | ⭐22,612 | 按標籤整理的電子書連結與搜尋目錄，非 LLM 工具；個別書籍授權須另核對。 | 2026-10-25 |
 | [[withmarbleapp-os-taxonomy\|Marble Skill Taxonomy]] | ⭐6,125 | 教育知識圖譜、微主題、先備 DAG、課綱對齊；非 LLM 框架 | 2026-10-20 |
@@ -401,6 +402,7 @@ updated: 2026-10-28
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[macro-inc-macro\|Macro]] | ⭐5,423 | 團隊工作空間、雙向引用、共享 AI 記憶與 MCP | 2026-10-29 |
 | [[gitroomhq-postiz-app\|Postiz]] | ⭐38,455 | AI 社群排程、分析、CLI／MCP，提供 Cloud 與自架版本。 | 2026-10-27 |
 | [[pollen-robotics-microduck\|Microduck]] | ⭐10,997 | 以 Rust daemons 執行強化學習動作策略的小型雙足機器人系統，非 LLM Agent。 | 2026-10-25 |
 | [[Renhuai123-ziwei-doushu\|紫微斗數開源排盤引擎]] | ⭐6,863 | 排盤 Demo、領域語料、RAG 資料來源；AI API 未開源 | 2026-10-24 |

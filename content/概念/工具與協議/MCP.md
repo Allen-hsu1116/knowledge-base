@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-10-26
+updated: 2026-10-29
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- Macro：透過託管 MCP 接口向外部 Agent 提供工作空間能力；仍需帳號授權。 詳見 [[macro-inc-macro]]。
 
 - **ThinkRail** → JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 詳見 [[JetBrains-thinkrail]]。
 
