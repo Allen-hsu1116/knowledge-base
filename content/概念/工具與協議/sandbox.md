@@ -2,7 +2,7 @@
 title: 沙箱
 slug: sandbox
 created: 2026-05-18
-updated: 2026-10-15
+updated: 2026-10-30
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ AI Agent 需要沙箱的原因包括：程式碼生成不可控（AI 產生的�
 - **MCP 整合**：沙箱透過 MCP 協議暴露給 Claude Code、Cursor 等 AI 工具使用
 
 ## 各框架的做法
+
+- **OpenBot（CopilotKit）** → AG-UI 接入與政策 gateway，預設使用者容器和選用 Bot 隔離需分清。見 [[CopilotKit-OpenBot]]。
+- **OpenMausBot** → 本機 CLI Agent 搭配核准卡、雲端／Local VM／宿主操作；宿主權限不是 VM 隔離。見 [[milind-soni-OpenMausBot]]。
 
 - **Tiny11 Builder（非沙箱）** → 只準備 Windows ISO；裁剪系統不會產生安全隔離，Core 應在獨立測試 VM 驗證。詳見 [[ntdevlabs-tiny11builder]]。
 

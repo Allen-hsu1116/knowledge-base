@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-25
+updated: 2026-10-30
 stars: —
 language: zh-TW
 ---
+
+## 2026-10-30（每日 LLM 熱門專案搜尋）
+
+- 新收錄 [[CopilotKit-OpenBot]]、[[milind-soni-OpenMausBot]] 至「🤖 Agent 框架與工具」。
+- 保存完整 README 與 metadata；完成十段專案頁、AI-Agent／sandbox backlinks、known-repos 與日期排序索引。未新增概念或執行候選程式。
+
 
 ## 2026-10-25（每日 LLM 熱門專案搜尋）
 

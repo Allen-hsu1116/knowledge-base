@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-10-29
+updated: 2026-10-30
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **OpenBot（CopilotKit）** → AG-UI 接入與政策 gateway，預設使用者容器和選用 Bot 隔離需分清。見 [[CopilotKit-OpenBot]]。
+- **OpenMausBot** → 本機 CLI Agent 搭配核准卡、雲端／Local VM／宿主操作；宿主權限不是 VM 隔離。見 [[milind-soni-OpenMausBot]]。
 
 - Macro：團隊工作空間內的 Agent，以共享 Markdown 記憶與業務工具協作。 詳見 [[macro-inc-macro]]。
 

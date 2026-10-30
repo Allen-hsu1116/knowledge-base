@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 專案索引
@@ -17,6 +17,8 @@ updated: 2026-10-29
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[CopilotKit-OpenBot\|OpenBot（CopilotKit）]] | ⭐8,150 | AG-UI 企業 Agent 模板、政策閘道與稽核 | 2026-10-30 |
+| [[milind-soni-OpenMausBot\|OpenMausBot]] | ⭐7,479 | Local-first 多 Agent 聊天桌面、電腦操作與核准 | 2026-10-30 |
 | [[nightly-labs-openbot\|OpenBot]] | ⭐1,479 | 持久 AI 隊友、桌面工作台與佇列；預覽版全權限，非商用授權。 | 2026-10-27 |
 | [[JetBrains-thinkrail\|ThinkRail]] | ⭐1,746 | JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 | 2026-10-26 |
 | [[makecindy-cindy\|Cindy]] | ⭐4,106 | 整合 Claude Code／Codex、多模型與工具的桌面及行動 Agent 客戶端。 | 2026-10-25 |
