@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # 專案索引
@@ -157,6 +157,7 @@ updated: 2026-10-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Orkas-AI-Orkas\|Orkas]] | ⭐6,217 | 桌面 Commander、多 Agent、CLI 協作、專案與排程 | 2026-11-01 |
 | [[google-ax\|AX（Google）]] | ⭐7,605 | 宣告式任務編排、Agent Substrate、工作區、網路政策、suspend/resume | 2026-09-23 |
 | [[huangruiteng-loopx\|LoopX]] | ⭐2.9k | Agent 迴圈工程控制平面, 本地狀態核心, 目標+關卡+待辦+證據+配額, Agent 無關 (Codex/Claude Code/Cursor), Peer Agent 交接, Quota 感知排程, 200+ 小時案例 | 2026-08-07 |
 | [[block-buzz\|Buzz]] | ⭐11.9k | 人類+AI Agent 共建工作空間, Nostr relay, ACP harness (Goose/Codex/Claude Code), buzz-cli, YAML 工作流, NIP-34 Git 整合, Rust | 2026-07-26 |
@@ -352,6 +353,7 @@ updated: 2026-10-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[bregman-arie-devops-exercises\|DevOps Exercises]] | ⭐85,989 | DevOps／SRE 題庫；自架基礎配套，非 LLM 專案 | 2026-11-01 |
 | [[xiaolai-the-craft-of-selfteaching\|自學是門手藝]] | ⭐18,509 | Python／Notebook 自學教材；非 LLM 工具 | 2026-10-29 |
 | [[togg53192-cmd-jailbreaks\|Jailbreaks]] | ⭐5,545 | 指令衝突、persona 與 workspace policy 的研究素材；非有效性保證。 | 2026-10-28 |
 | [[jbiaojerry-ebook-treasure-chest\|電子書下載寶庫]] | ⭐22,612 | 按標籤整理的電子書連結與搜尋目錄，非 LLM 工具；個別書籍授權須另核對。 | 2026-10-25 |
@@ -404,6 +406,7 @@ updated: 2026-10-30
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vorssaint-vorssaint-utils\|Vorssaint]] | ⭐31,905 | macOS 模組化工具箱、Coding Agent 用量與工作狀態監看 | 2026-11-01 |
 | [[macro-inc-macro\|Macro]] | ⭐5,423 | 團隊工作空間、雙向引用、共享 AI 記憶與 MCP | 2026-10-29 |
 | [[gitroomhq-postiz-app\|Postiz]] | ⭐38,455 | AI 社群排程、分析、CLI／MCP，提供 Cloud 與自架版本。 | 2026-10-27 |
 | [[pollen-robotics-microduck\|Microduck]] | ⭐10,997 | 以 Rust daemons 執行強化學習動作策略的小型雙足機器人系統，非 LLM Agent。 | 2026-10-25 |

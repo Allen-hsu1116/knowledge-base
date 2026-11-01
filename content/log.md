@@ -2190,3 +2190,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 
 - 新增 [[macro-inc-macro]]（應用）與 [[xiaolai-the-craft-of-selfteaching]]（學習資源；非 LLM 專案）。
 - 保存 README / metadata，更新 AI-Agent、MCP、自主學習 backlinks、分類索引與去重清單。
+
+## [2026-11-01] ingest | 每日 LLM 熱門專案
+
+- 收錄 [[bregman-arie-devops-exercises]]（學習資源）、[[vorssaint-vorssaint-utils]]（應用）、[[Orkas-AI-Orkas]]（Agent 編排與記憶）。
+- 保存完整 README／metadata；完成十段專案頁、既有概念 backlinks、分類索引及 known-repos 更新。
+- 不新增概念頁；DevOps Exercises 明確標為非 LLM 配套教材，Vorssaint 區分監看與 Agent 執行，Orkas 區分本地資料與雲端請求、開源及封裝版本。
+- 本次僅整理文件，未安裝或執行收錄軟體。

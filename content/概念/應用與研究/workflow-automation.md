@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-10-17
+updated: 2026-11-01
 language: zh-TW
 ---
 
@@ -28,6 +28,9 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **Orkas** → 專案待辦、Auto-advance 與定時任務串接專家及 CLI Agent；需電腦清醒且應用運作。詳見 [[Orkas-AI-Orkas]]。
+- **Vorssaint（桌面配套）** → 以快捷工具、腳本入口及 Agent 完成通知減少人工切換，不是通用多 Agent 編排器。詳見 [[vorssaint-vorssaint-utils]]。
 
 - **LinkSwift** → 透過使用者腳本取得網盤下載連結並串接下載器，屬下載環節輔助，不是 AI Agent 或通用工作流平台。詳見 [[hmjz100-LinkSwift]]。
 

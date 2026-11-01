@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-10-26
+updated: 2026-11-01
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **DevOps Exercises（學習配套）** → 用 Linux、網路、容器與可觀測性題庫補足自架基礎；不是部署平台或 LLM 工具。詳見 [[bregman-arie-devops-exercises]]。
 
 - **Coolify** → 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 詳見 [[coollabsio-coolify]]。
 

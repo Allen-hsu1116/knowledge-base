@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-10-26
+updated: 2026-11-01
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Vorssaint（觀測配套）** → macOS 面板顯示 Claude、Codex、OpenCode 與 Copilot 狀態及用量；不取代 CLI Agent，估算值亦非帳單。詳見 [[vorssaint-vorssaint-utils]]。
 
 - **ThinkRail** → JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 詳見 [[JetBrains-thinkrail]]。
 
