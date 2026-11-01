@@ -2,7 +2,7 @@
 title: "Postiz"
 slug: "gitroomhq-postiz-app"
 created: "2026-10-27"
-updated: "2026-10-27"
+updated: "2026-11-01"
 stars: 38455
 language: "zh-TW"
 topics: ["AI-Agent", "generative-AI"]
@@ -76,6 +76,7 @@ postiz integrations:list
 
 - GitHub：https://github.com/gitroomhq/postiz-app
 - README 原始快照：`raw/2026-10-27-gitroomhq-postiz-app.md`
+- GitHub metadata 快照（Stars／授權）：`raw/2026-10-27-gitroomhq-postiz-app.metadata.json`
 - https://docs.postiz.com/cli/introduction
 - https://docs.postiz.com/quickstart
 

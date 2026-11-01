@@ -2,7 +2,7 @@
 title: "OpenBot"
 slug: "nightly-labs-openbot"
 created: "2026-10-27"
-updated: "2026-10-27"
+updated: "2026-11-01"
 stars: 1479
 language: "zh-TW"
 topics: ["AI-Agent", "AI-Skills"]
@@ -73,6 +73,7 @@ nix profile install github:nightly-labs/openbot
 
 - GitHub：https://github.com/nightly-labs/openbot
 - README 原始快照：`raw/2026-10-27-nightly-labs-openbot.md`
+- GitHub metadata 快照（Stars；授權以 LICENSE 為準）：`raw/2026-10-27-nightly-labs-openbot.metadata.json`
 - https://github.com/nightly-labs/openbot/blob/main/LICENSE
 
 ---

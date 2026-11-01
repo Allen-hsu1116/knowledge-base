@@ -2,7 +2,7 @@
 title: "Huashu Design"
 slug: "alchaincyf-huashu-design"
 created: "2026-10-27"
-updated: "2026-10-27"
+updated: "2026-11-01"
 stars: 26758
 language: "zh-TW"
 topics: ["AI-Skills", "generative-AI"]
@@ -73,6 +73,7 @@ npx skills add alchaincyf/huashu-design
 
 - GitHub：https://github.com/alchaincyf/huashu-design
 - README 原始快照：`raw/2026-10-27-alchaincyf-huashu-design.md`
+- GitHub metadata 快照（Stars／授權）：`raw/2026-10-27-alchaincyf-huashu-design.metadata.json`
 
 ---
 

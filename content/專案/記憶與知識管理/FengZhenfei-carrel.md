@@ -2,7 +2,7 @@
 title: "Carrel"
 slug: "FengZhenfei-carrel"
 created: "2026-10-27"
-updated: "2026-10-27"
+updated: "2026-11-01"
 stars: 643
 language: "zh-TW"
 topics: ["rag", "Knowledge-Graph"]
@@ -75,6 +75,7 @@ cd carrel
 
 - GitHub：https://github.com/FengZhenfei/carrel
 - README 原始快照：`raw/2026-10-27-FengZhenfei-carrel.md`
+- GitHub metadata 快照（Stars／授權）：`raw/2026-10-27-FengZhenfei-carrel.metadata.json`
 
 ---
 

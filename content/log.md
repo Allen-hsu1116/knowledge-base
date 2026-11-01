@@ -2197,3 +2197,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 保存完整 README／metadata；完成十段專案頁、既有概念 backlinks、分類索引及 known-repos 更新。
 - 不新增概念頁；DevOps Exercises 明確標為非 LLM 配套教材，Vorssaint 區分監看與 Agent 執行，Orkas 區分本地資料與雲端請求、開源及封裝版本。
 - 本次僅整理文件，未安裝或執行收錄軟體。
+
+## [2026-11-01] lint | 全庫檢查與來源追溯補齊
+
+- 掃描全部 wiki 與 raw 素材，核對模板、frontmatter、連結、合併映射、索引排序及美元符號。
+- 為 Carrel、Huashu Design、Postiz、OpenBot 補上四份既存 GitHub metadata 快照引用，標記為已整理；raw 原檔保持不變。
+- 其餘結構檢查無異常，待分類區無項目；語意風險掃描未確認新增矛盾，不代表歷史主張均已逐一外部查證。
