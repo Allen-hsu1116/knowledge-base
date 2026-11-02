@@ -73,6 +73,9 @@ RAG 可緩解 LLM 的三類限制：**知識截止日**、**幻覺問題**與**�
 
 ## 相關概念
 
+- [[patchy631-ai-engineering-hub]] — 以分級實作專案學習 LLM、RAG、Agent 與模型評估的教學資源庫。
+
+
 - [[ibm-stair-searchtome|STAIR（SearchTome）]] — 以完整目錄＋查詢微調生成章節葉節點；SearchTome 檢索實驗，不是端到端問答零幻覺保證。
 
 - [[document-parsing]] — 文件解析是 RAG 管線的前置步驟

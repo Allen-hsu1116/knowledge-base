@@ -53,6 +53,9 @@ Computer Use Agent（CUA）是 AI Agent 的進階形態，能直接操控圖形�
 
 ## 相關概念
 
+- [[hyprwm-Hyprland]] — 可高度客製的動態平鋪 Wayland compositor；屬桌面基礎設施而非 LLM 工具。
+
+
 - [[AI-Agent]] — Computer Use Agent 是 AI Agent 的進階形態
 - [[sandbox]] — 沙箱是 Computer Use Agent 安全執行的基礎
 - [[computer-vision]] — 視覺理解是 CUA 感知螢幕的核心能力

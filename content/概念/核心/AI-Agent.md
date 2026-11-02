@@ -174,6 +174,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 相關概念
 
+- [[public-apis-public-apis]] — 社群維護的公開 API 目錄，供應用與 Agent 工具整合時尋找資料來源。
+
+
 - [[MCP]] — Agent 使用工具的標準介面
 - [[AI-Skills]] — Agent 的結構化操作手冊
 - [[Context-Database]] — Agent 的記憶基礎設施

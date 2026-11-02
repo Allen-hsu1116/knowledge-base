@@ -50,6 +50,9 @@ language: zh-TW
 
 ## 相關概念
 
+- [[FlashML-org-FreeToken]] — 面向消費級異質硬體，以 CPU／GPU 協同與快取管理執行大型 MoE 的推論引擎。
+
+
 - [[模型推論與部署]] — 推論優化是邊緣部署的核心技術
 - [[LLM|大語言模型]] — LLM 量化後可在邊緣裝置運行
 - [[computer-vision|電腦視覺]] — 電腦視覺是邊緣 AI 的重要應用場景

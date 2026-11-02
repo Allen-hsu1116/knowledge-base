@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # 專案索引
@@ -223,6 +223,7 @@ updated: 2026-11-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FlashML-org-FreeToken\|FreeToken]] | ⭐15,409 | 面向消費級異質硬體，以 CPU／GPU 協同與快取管理執行大型 MoE 的推論引擎。 | 2026-11-02 |
 | [[lightseekorg-tokenspeed\|TokenSpeed]] | ⭐2,490 | Agent 推論、C++ 排程控制面、Python 執行面、模組化 kernels | 2026-10-16 |
 | [[microsoft-BitNet\|BitNet（bitnet.cpp）]] | ⭐40,911 | 三元權重、1.58-bit、CPU／GPU kernels、本地推論 | 2026-10-13 |
 | [[tensorflow-tensorflow\|TensorFlow]] | ⭐200,458 | 通用機器學習框架、Python／C++ API、模型開發與部署；非專用聊天服務 | 2026-09-27 |
@@ -270,6 +271,7 @@ updated: 2026-11-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[cjpais-Handy\|Handy]] | ⭐36,559 | 以快捷鍵啟動、本地辨識並貼入文字欄位的開源語音輸入桌面工具。 | 2026-11-02 |
 | [[Kruk2-jasna\|Jasna]] | ⭐2,406 | GPU 局部影片修復、BasicVSR++／LTX、電腦視覺；非聊天 LLM | 2026-10-19 |
 | [[datalab-to-indra\|Indra OCR]] | ⭐450 | CPU OCR、文字層抽取、閱讀順序、Markdown／JSON、模型授權限制 | 2026-10-17 |
 | [[hypit-ai-hypit\|Hypit]] | ⭐21,204 | Agent 影片工作流、SVML、字幕與素材重用；附加商業授權限制 | 2026-10-12 |
@@ -353,6 +355,8 @@ updated: 2026-11-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[patchy631-ai-engineering-hub\|AI Engineering Hub]] | ⭐40,251 | 以分級實作專案學習 LLM、RAG、Agent 與模型評估的教學資源庫。 | 2026-11-02 |
+| [[public-apis-public-apis\|Public APIs]] | ⭐494,614 | 社群維護的公開 API 目錄，供應用與 Agent 工具整合時尋找資料來源。 | 2026-11-02 |
 | [[bregman-arie-devops-exercises\|DevOps Exercises]] | ⭐85,989 | DevOps／SRE 題庫；自架基礎配套，非 LLM 專案 | 2026-11-01 |
 | [[xiaolai-the-craft-of-selfteaching\|自學是門手藝]] | ⭐18,509 | Python／Notebook 自學教材；非 LLM 工具 | 2026-10-29 |
 | [[togg53192-cmd-jailbreaks\|Jailbreaks]] | ⭐5,545 | 指令衝突、persona 與 workspace policy 的研究素材；非有效性保證。 | 2026-10-28 |
@@ -572,6 +576,7 @@ updated: 2026-11-01
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[hyprwm-Hyprland\|Hyprland]] | ⭐39,373 | 可高度客製的動態平鋪 Wayland compositor；屬桌面基礎設施而非 LLM 工具。 | 2026-11-02 |
 | [[coollabsio-coolify\|Coolify]] | ⭐64,387 | 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 | 2026-10-26 |
 | [[php-php-src\|PHP Interpreter]] | ⭐41,564 | PHP 直譯器、原始碼建置、擴充與測試；非 LLM 框架 | 2026-10-24 |
 | [[rust-lang-rust\|Rust]] | ⭐120,035 | 語言、編譯器、ownership、原生工具鏈；非 LLM | 2026-10-15 |

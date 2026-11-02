@@ -75,6 +75,9 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 
 ## 相關概念
 
+- [[patchy631-ai-engineering-hub]] — 以分級實作專案學習 LLM、RAG、Agent 與模型評估的教學資源庫。
+
+
 - [[byoungd-up]] — 以真實任務、AI 協作與成果證據串起終身學習的開放內容指南。
 - [[cs341-illinois-coursebook]] — 伊利諾大學 CS 341 的 C／Linux 系統程式設計教材與多格式出版原始碼。
 

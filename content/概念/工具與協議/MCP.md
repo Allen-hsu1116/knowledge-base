@@ -110,6 +110,9 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 相關概念
 
+- [[public-apis-public-apis]] — 社群維護的公開 API 目錄，供應用與 Agent 工具整合時尋找資料來源。
+
+
 - [[AI-Agent]] — Agent 透過 MCP 使用工具
 - [[AI-Skills]] — Skills 定義「做什麼」，MCP 定義「怎麼連」
 - [[Context-Database]] — Context DB 可透過 MCP 介面提供記憶服務

@@ -72,6 +72,9 @@ language: zh-TW
 
 ## 相關概念
 
+- [[hyprwm-Hyprland]] — 可高度客製的動態平鋪 Wayland compositor；屬桌面基礎設施而非 LLM 工具。
+
+
 - [[free-software\|免費軟體]] — 開源工具降低生產力工具的使用門檻
 - [[workflow-automation\|工作流自動化]] — 自動化是生產力的核心手段
 - [[open-source-business\|開源商業模式]] — 開源生產力工具的商業化

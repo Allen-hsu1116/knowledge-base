@@ -2203,3 +2203,14 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 掃描全部 wiki 與 raw 素材，核對模板、frontmatter、連結、合併映射、索引排序及美元符號。
 - 為 Carrel、Huashu Design、Postiz、OpenBot 補上四份既存 GitHub metadata 快照引用，標記為已整理；raw 原檔保持不變。
 - 其餘結構檢查無異常，待分類區無項目；語意風險掃描未確認新增矛盾，不代表歷史主張均已逐一外部查證。
+
+
+## [2026-11-02] ingest | 每日 Trending
+
+- [[public-apis-public-apis]] → 📖 學習資源
+- [[patchy631-ai-engineering-hub]] → 📖 學習資源
+- [[hyprwm-Hyprland]] → 🏗 基礎設施
+- [[cjpais-Handy]] → 🎯 多媒體與爬蟲
+- [[FlashML-org-FreeToken]] → 🧠 模型推論與部署
+
+完整保存 README 與 metadata；建立專案頁、雙向連結及日期索引。Public APIs 與 Hyprland 為延伸資源，非純 LLM 專案。
