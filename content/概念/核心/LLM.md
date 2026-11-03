@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-10-01
+updated: 2026-11-03
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - **開放生態**：開源模型讓任何人都能部署，形成蓬勃的下游應用生態
 
 ## 各框架的做法
+
+- **nanochat** → 以精簡實驗程式串起 tokenizer、預訓練、微調、評估與對話推論的 LLM 訓練專案。 詳見 [[karpathy-nanochat]]。
 
 - **Firebase Apple SDK** → 透過 FirebaseAI library 提供應用端 AI 整合；SDK、模型及雲端服務是不同層次。見 [[firebase-firebase-ios-sdk]]。
 

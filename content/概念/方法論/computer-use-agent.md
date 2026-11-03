@@ -2,7 +2,7 @@
 title: Computer Use Agent
 slug: computer-use-agent
 created: 2026-05-18
-updated: 2026-10-12
+updated: 2026-11-03
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Computer Use Agent（CUA）是 AI Agent 的進階形態，能直接操控圖形�
 - **錯誤恢復** — 偵測操作失敗（彈窗、載入錯誤）並自動調整策略
 
 ## 各框架的做法
+
+- **agent-desktop** → 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 詳見 [[vercel-labs-agent-desktop]]。
 
 - **Browser Harness** → 以 CDP 連接真實瀏覽器，讓 Agent 在獨立工作區累積操作 helper；錄製截圖與 trace 需事先同意。詳見 [[browser-use-browser-harness]]。
 

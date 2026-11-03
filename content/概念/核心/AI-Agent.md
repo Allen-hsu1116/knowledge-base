@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-01
+updated: 2026-11-03
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **agent-desktop** → 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 詳見 [[vercel-labs-agent-desktop]]。
 
 - **Orkas** → Commander 協調專家與外部 CLI，透過專案、待辦及排程推進工作；local-first 不代表模型請求不出網路。詳見 [[Orkas-AI-Orkas]]。
 

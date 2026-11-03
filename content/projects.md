@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vercel-labs-agent-desktop\|agent-desktop]] | ⭐9,702 | 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 | 2026-11-03 |
 | [[CopilotKit-OpenBot\|OpenBot（CopilotKit）]] | ⭐8,150 | AG-UI 企業 Agent 模板、政策閘道與稽核 | 2026-10-30 |
 | [[milind-soni-OpenMausBot\|OpenMausBot]] | ⭐7,479 | Local-first 多 Agent 聊天桌面、電腦操作與核准 | 2026-10-30 |
 | [[nightly-labs-openbot\|OpenBot]] | ⭐1,479 | 持久 AI 隊友、桌面工作台與佇列；預覽版全權限，非商用授權。 | 2026-10-27 |
@@ -271,6 +272,7 @@ updated: 2026-11-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[kornia-kornia\|Kornia]] | ⭐12,131 | 以 PyTorch 張量實作可微影像處理、資料增強與幾何視覺的函式庫，非聊天 LLM。 | 2026-11-03 |
 | [[cjpais-Handy\|Handy]] | ⭐36,559 | 以快捷鍵啟動、本地辨識並貼入文字欄位的開源語音輸入桌面工具。 | 2026-11-02 |
 | [[Kruk2-jasna\|Jasna]] | ⭐2,406 | GPU 局部影片修復、BasicVSR++／LTX、電腦視覺；非聊天 LLM | 2026-10-19 |
 | [[datalab-to-indra\|Indra OCR]] | ⭐450 | CPU OCR、文字層抽取、閱讀順序、Markdown／JSON、模型授權限制 | 2026-10-17 |
@@ -355,6 +357,7 @@ updated: 2026-11-02
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[karpathy-nanochat\|nanochat]] | ⭐59,891 | 以精簡實驗程式串起 tokenizer、預訓練、微調、評估與對話推論的 LLM 訓練專案。 | 2026-11-03 |
 | [[patchy631-ai-engineering-hub\|AI Engineering Hub]] | ⭐40,251 | 以分級實作專案學習 LLM、RAG、Agent 與模型評估的教學資源庫。 | 2026-11-02 |
 | [[public-apis-public-apis\|Public APIs]] | ⭐494,614 | 社群維護的公開 API 目錄，供應用與 Agent 工具整合時尋找資料來源。 | 2026-11-02 |
 | [[bregman-arie-devops-exercises\|DevOps Exercises]] | ⭐85,989 | DevOps／SRE 題庫；自架基礎配套，非 LLM 專案 | 2026-11-01 |

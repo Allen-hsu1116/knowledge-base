@@ -2,10 +2,18 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-10-30
+updated: 2026-11-03
 stars: —
 language: zh-TW
 ---
+
+## 2026-11-03（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[karpathy-nanochat]] 至「📖 學習資源」。
+- 收錄 [[kornia-kornia]] 至「🎯 多媒體與爬蟲」。
+- 收錄 [[vercel-labs-agent-desktop]] 至「🤖 Agent 框架與工具」。
+- 保存完整 README／metadata、十段專案頁、概念 backlinks、known-repos 與日期排序索引。未新增概念，未安裝或執行候選專案。
+
 
 ## 2026-10-30（每日 LLM 熱門專案搜尋）
 
