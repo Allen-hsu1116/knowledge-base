@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 # 專案索引
@@ -272,6 +272,8 @@ updated: 2026-11-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anomalyco-hex\|Hex]] | ⭐4,587 | 跨平台本地語音聽寫工具，按住快捷鍵說話，再將文字貼入目前應用。 | 2026-11-04 |
+| [[Usagi-org-ai-goofish-monitor\|閒魚智能監控系統]] | ⭐16,374 | Playwright 搭配多模態 AI，定時監控閒魚商品並推送符合條件的結果。 | 2026-11-04 |
 | [[kornia-kornia\|Kornia]] | ⭐12,131 | 以 PyTorch 張量實作可微影像處理、資料增強與幾何視覺的函式庫，非聊天 LLM。 | 2026-11-03 |
 | [[cjpais-Handy\|Handy]] | ⭐36,559 | 以快捷鍵啟動、本地辨識並貼入文字欄位的開源語音輸入桌面工具。 | 2026-11-02 |
 | [[Kruk2-jasna\|Jasna]] | ⭐2,406 | GPU 局部影片修復、BasicVSR++／LTX、電腦視覺；非聊天 LLM | 2026-10-19 |
@@ -505,6 +507,7 @@ updated: 2026-11-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[spotify-portal-ai-plugins\|Spotify Portal AI Plugins]] | ⭐3,040 | 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。 | 2026-11-04 |
 | [[elayadesign-ai-design-skills\|AI Design Skills]] | ⭐9,355 | Landing page 策略、文案與視覺規則，供 Coding Agent 載入。 | 2026-10-28 |
 | [[alchaincyf-huashu-design\|Huashu Design]] | ⭐26,758 | 跨 Agent 設計 Skill、方向探索、互動原型與可編輯 PPTX。 | 2026-10-27 |
 | [[AgriciDaniel-claude-seo\|Claude SEO]] | ⭐20,882 | 把技術 SEO、內容、結構化資料與 AI 搜尋稽核封裝成 Claude Code 插件。 | 2026-10-26 |
@@ -579,6 +582,7 @@ updated: 2026-11-03
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[floci-io-floci\|Floci]] | ⭐28,783 | 本地 AWS 模擬器，為開發、測試與 CI 提供雲端服務相容端點。 | 2026-11-04 |
 | [[hyprwm-Hyprland\|Hyprland]] | ⭐39,373 | 可高度客製的動態平鋪 Wayland compositor；屬桌面基礎設施而非 LLM 工具。 | 2026-11-02 |
 | [[coollabsio-coolify\|Coolify]] | ⭐64,387 | 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 | 2026-10-26 |
 | [[php-php-src\|PHP Interpreter]] | ⭐41,564 | PHP 直譯器、原始碼建置、擴充與測試；非 LLM 框架 | 2026-10-24 |

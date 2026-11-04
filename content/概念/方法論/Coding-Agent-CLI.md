@@ -29,6 +29,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- [[spotify-portal-ai-plugins]] — 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。
+
 - **Vorssaint（觀測配套）** → macOS 面板顯示 Claude、Codex、OpenCode 與 Copilot 狀態及用量；不取代 CLI Agent，估算值亦非帳單。詳見 [[vorssaint-vorssaint-utils]]。
 
 - **ThinkRail** → JetBrains 孵化的 pi Agent IDE，以 Git worktree 與 living specs 組織開發工作。 詳見 [[JetBrains-thinkrail]]。

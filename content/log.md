@@ -2222,3 +2222,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - [[FlashML-org-FreeToken]] → 🧠 模型推論與部署
 
 完整保存 README 與 metadata；建立專案頁、雙向連結及日期索引。Public APIs 與 Hyprland 為延伸資源，非純 LLM 專案。
+
+## [2026-11-04] ingest | 每日熱門專案
+
+- [[floci-io-floci]] → 🏗 基礎設施；保存 README／metadata、完成專案頁及概念反向連結。
+- [[Usagi-org-ai-goofish-monitor]] → 🎯 多媒體與爬蟲；保存 README／metadata、完成專案頁及概念反向連結。
+- [[anomalyco-hex]] → 🎯 多媒體與爬蟲；保存 README／metadata、完成專案頁及概念反向連結。
+- [[spotify-portal-ai-plugins]] → 🛠 Skill 生態系；保存 README／metadata、完成專案頁及概念反向連結。
+- Floci 為非 LLM 的周邊開發基礎設施，明確區分定位；本批無新增概念頁。

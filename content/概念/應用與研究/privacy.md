@@ -31,6 +31,8 @@ AI 時代帶來了新的隱私挑戰。LLM 的訓練資料可能包含敏感資�
 
 ## 各框架的做法
 
+- [[anomalyco-hex]] — 跨平台本地語音聽寫工具，按住快捷鍵說話，再將文字貼入目前應用。
+
 - **openGym** → 自架保存訓練與體重資料，AI coach 預設關閉；啟用雲端 provider 或 MCP 助理仍要檢查資料外傳。詳見 [[DuarteSantos8-openGym]]。
 - **esp32-c3-adblock** → 以 DNS sinkhole 減少封鎖名單內的廣告／追蹤網域查詢；HTTP Basic Auth 不加密、不能代替 VPN。詳見 [[M-Abozaid-esp32-c3-adblock]]。
 

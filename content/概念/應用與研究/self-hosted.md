@@ -31,6 +31,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- [[floci-io-floci]] — 本地 AWS 模擬器，為開發、測試與 CI 提供雲端服務相容端點。
+
 - **DevOps Exercises（學習配套）** → 用 Linux、網路、容器與可觀測性題庫補足自架基礎；不是部署平台或 LLM 工具。詳見 [[bregman-arie-devops-exercises]]。
 
 - **Coolify** → 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 詳見 [[coollabsio-coolify]]。

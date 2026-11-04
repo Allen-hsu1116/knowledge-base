@@ -29,6 +29,10 @@ language: zh-TW
 
 ## 各框架的做法
 
+- [[Usagi-org-ai-goofish-monitor]] — Playwright 搭配多模態 AI，定時監控閒魚商品並推送符合條件的結果。
+
+- [[floci-io-floci]] — 本地 AWS 模擬器，為開發、測試與 CI 提供雲端服務相容端點。
+
 - **Orkas** → 專案待辦、Auto-advance 與定時任務串接專家及 CLI Agent；需電腦清醒且應用運作。詳見 [[Orkas-AI-Orkas]]。
 - **Vorssaint（桌面配套）** → 以快捷工具、腳本入口及 Agent 完成通知減少人工切換，不是通用多 Agent 編排器。詳見 [[vorssaint-vorssaint-utils]]。
 

@@ -28,6 +28,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- [[spotify-portal-ai-plugins]] — 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。
+
 - **Huashu Design** → 將設計方向探索、品牌參照、互動原型與簡報匯出封裝為技能包，需一併保留素材與腳本。詳見 [[alchaincyf-huashu-design]]。
 - **OpenBot** → 提供持久 Agent 的桌面執行與協作環境；Skills 是可重用知識層，不等於整個工作台。詳見 [[nightly-labs-openbot]]。
 
