@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-11-01
+updated: 2026-11-05
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **PR-Agent** → 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 詳見 [[The-PR-Agent-pr-agent]]。
 
 - [[spotify-portal-ai-plugins]] — 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。
 

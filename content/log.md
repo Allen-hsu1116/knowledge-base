@@ -2230,3 +2230,13 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - [[anomalyco-hex]] → 🎯 多媒體與爬蟲；保存 README／metadata、完成專案頁及概念反向連結。
 - [[spotify-portal-ai-plugins]] → 🛠 Skill 生態系；保存 README／metadata、完成專案頁及概念反向連結。
 - Floci 為非 LLM 的周邊開發基礎設施，明確區分定位；本批無新增概念頁。
+
+
+## [2026-11-05] ingest | 每日 LLM 熱門專案
+
+- [[The-PR-Agent-pr-agent]] — 🤖 Agent 框架與工具
+- [[Thysrael-Horizon]] — 📊 應用
+- [[FareedKhan-dev-kimi-k3-in-c]] — 🧠 模型推論與部署
+
+- 已保存 README 與 metadata、建立完整專案頁、更新概念 backlinks、專案索引與 known-repos。
+- 篩除不相關候選：MichaelCade/90DaysOfDevOps（一般 DevOps 學習資源，本次 README 未見 LLM 專屬內容）；JiaFeiMiao-K-Cat/DiscImageStudio（光碟盤面影像與刻錄工具，非 LLM 專案）。未標記為已收錄。

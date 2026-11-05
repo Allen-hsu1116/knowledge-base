@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-03
+updated: 2026-11-05
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **PR-Agent** → 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 詳見 [[The-PR-Agent-pr-agent]]。
 
 - **agent-desktop** → 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 詳見 [[vercel-labs-agent-desktop]]。
 

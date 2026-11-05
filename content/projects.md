@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[The-PR-Agent-pr-agent\|PR-Agent]] | ⭐14,759 | 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 | 2026-11-05 |
 | [[vercel-labs-agent-desktop\|agent-desktop]] | ⭐9,702 | 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 | 2026-11-03 |
 | [[CopilotKit-OpenBot\|OpenBot（CopilotKit）]] | ⭐8,150 | AG-UI 企業 Agent 模板、政策閘道與稽核 | 2026-10-30 |
 | [[milind-soni-OpenMausBot\|OpenMausBot]] | ⭐7,479 | Local-first 多 Agent 聊天桌面、電腦操作與核准 | 2026-10-30 |
@@ -224,6 +225,7 @@ updated: 2026-11-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[FareedKhan-dev-kimi-k3-in-c\|kimi-k3-in-c]] | ⭐10,298 | 以 C99、CPU 與磁碟串流研究大型 MoE 低常駐記憶體推論的專用引擎。 | 2026-11-05 |
 | [[FlashML-org-FreeToken\|FreeToken]] | ⭐15,409 | 面向消費級異質硬體，以 CPU／GPU 協同與快取管理執行大型 MoE 的推論引擎。 | 2026-11-02 |
 | [[lightseekorg-tokenspeed\|TokenSpeed]] | ⭐2,490 | Agent 推論、C++ 排程控制面、Python 執行面、模組化 kernels | 2026-10-16 |
 | [[microsoft-BitNet\|BitNet（bitnet.cpp）]] | ⭐40,911 | 三元權重、1.58-bit、CPU／GPU kernels、本地推論 | 2026-10-13 |
@@ -415,6 +417,7 @@ updated: 2026-11-04
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Thysrael-Horizon\|Horizon]] | ⭐12,491 | 用 profiles 驅動多來源篩選、去重與補充背景的中英文 AI 新聞簡報工具。 | 2026-11-05 |
 | [[vorssaint-vorssaint-utils\|Vorssaint]] | ⭐31,905 | macOS 模組化工具箱、Coding Agent 用量與工作狀態監看 | 2026-11-01 |
 | [[macro-inc-macro\|Macro]] | ⭐5,423 | 團隊工作空間、雙向引用、共享 AI 記憶與 MCP | 2026-10-29 |
 | [[gitroomhq-postiz-app\|Postiz]] | ⭐38,455 | AI 社群排程、分析、CLI／MCP，提供 Cloud 與自架版本。 | 2026-10-27 |

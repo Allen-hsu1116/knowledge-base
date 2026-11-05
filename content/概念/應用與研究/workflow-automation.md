@@ -2,7 +2,7 @@
 title: 工作流自動化
 slug: workflow-automation
 created: 2026-06-15
-updated: 2026-11-01
+updated: 2026-11-05
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **觸發機制** — 事件驅動、定時排程、Webhook、AI 自主發起等多種觸發方式
 
 ## 各框架的做法
+
+- **Horizon** → 用 profiles 驅動多來源篩選、去重與補充背景的中英文 AI 新聞簡報工具。 詳見 [[Thysrael-Horizon]]。
 
 - [[Usagi-org-ai-goofish-monitor]] — Playwright 搭配多模態 AI，定時監控閒魚商品並推送符合條件的結果。
 
