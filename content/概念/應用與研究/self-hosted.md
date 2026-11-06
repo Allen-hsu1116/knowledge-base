@@ -31,6 +31,9 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **LZ4（本地基礎工具）** → 無損壓縮函式庫與 CLI，可作資料處理配套，但不是自架 AI 服務。詳見 [[lz4-lz4]]。
+- **Disc Image Studio（離線工具）** → Windows GUI 與 Linux／macOS 實驗性 CLI 在本機處理光碟圖像；非伺服器或 LLM。詳見 [[JiaFeiMiao-K-Cat-DiscImageStudio]]。
+
 - [[floci-io-floci]] — 本地 AWS 模擬器，為開發、測試與 CI 提供雲端服務相容端點。
 
 - **DevOps Exercises（學習配套）** → 用 Linux、網路、容器與可觀測性題庫補足自架基礎；不是部署平台或 LLM 工具。詳見 [[bregman-arie-devops-exercises]]。

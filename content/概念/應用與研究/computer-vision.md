@@ -2,7 +2,7 @@
 title: 電腦視覺
 slug: computer-vision
 created: 2026-05-18
-updated: 2026-11-03
+updated: 2026-11-06
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CV 的主要任務涵蓋多個層次：影像分類（識別物體類別，如 R
 - **OCR 文字辨識** — 從影像中提取文字，GPU 加速可達 270img/s
 
 ## 各框架的做法
+
+- **Disc Image Studio（相鄰影像處理工具）** → 將影像與光碟幾何標定結合，輸出可產生可見盤面圖案的資料；不是辨識模型或 LLM。詳見 [[JiaFeiMiao-K-Cat-DiscImageStudio]]。
 
 - **Kornia** → 以 PyTorch 張量實作可微影像處理、資料增強與幾何視覺的函式庫，非聊天 LLM。 詳見 [[kornia-kornia]]。
 

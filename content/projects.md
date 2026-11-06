@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[vercel-labs-agent-browser\|agent-browser]] | ⭐45,886 | Rust CLI、瀏覽器快照 refs、CDP、MCP 與逐步操作驗證 | 2026-11-06 |
 | [[The-PR-Agent-pr-agent\|PR-Agent]] | ⭐14,759 | 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 | 2026-11-05 |
 | [[vercel-labs-agent-desktop\|agent-desktop]] | ⭐9,702 | 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 | 2026-11-03 |
 | [[CopilotKit-OpenBot\|OpenBot（CopilotKit）]] | ⭐8,150 | AG-UI 企業 Agent 模板、政策閘道與稽核 | 2026-10-30 |
@@ -173,6 +174,7 @@ updated: 2026-11-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[NVIDIA-auto-ontology\|Auto Ontology]] | ⭐7,338 | 企業語義本體、人工認證、SQL 溯源、MCP 可回答性檢查 | 2026-11-06 |
 | [[FengZhenfei-carrel\|Carrel]] | ⭐643 | 文件解析、混合檢索與選配知識圖譜；Agent Loop 尚未實作。 | 2026-10-27 |
 | [[xerj-org-xerj\|XERJ]] | ⭐5,662 | 自動索引、混合檢索、reference coding、MCP | 2026-10-16 |
 | [[VectifyAI-PageIndex\|PageIndex]] | ⭐37,384 | 文件樹索引、推理式 RAG、Local／Cloud 功能邊界 | 2026-09-30 |
@@ -274,6 +276,7 @@ updated: 2026-11-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[JiaFeiMiao-K-Cat-DiscImageStudio\|Disc Image Studio]] | ⭐7,269 | 光碟可見盤面圖案、標定與實驗性燒錄；非 LLM | 2026-11-06 |
 | [[anomalyco-hex\|Hex]] | ⭐4,587 | 跨平台本地語音聽寫工具，按住快捷鍵說話，再將文字貼入目前應用。 | 2026-11-04 |
 | [[Usagi-org-ai-goofish-monitor\|閒魚智能監控系統]] | ⭐16,374 | Playwright 搭配多模態 AI，定時監控閒魚商品並推送符合條件的結果。 | 2026-11-04 |
 | [[kornia-kornia\|Kornia]] | ⭐12,131 | 以 PyTorch 張量實作可微影像處理、資料增強與幾何視覺的函式庫，非聊天 LLM。 | 2026-11-03 |
@@ -344,6 +347,7 @@ updated: 2026-11-05
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[lz4-lz4\|LZ4]] | ⭐12,384 | 高速無損位元組壓縮、Block／Frame、字典；不是 token 壓縮 | 2026-11-06 |
 | [[deepseek-ai-DeepGEMM\|DeepGEMM]] | ⭐8,701 | 低精度 GEMM、DeepJIT、Mega MoE 通訊計算重疊、Indexer kernels | 2026-10-07 |
 | [[tile-ai-tilelang\|TileLang]] | ⭐8,113 | Pythonic kernel DSL、TVM、多後端、Attention 算子 | 2026-10-02 |
 | [[NVIDIA-Model-Optimizer\|NVIDIA Model Optimizer]] | ⭐4,079 | PTQ、QAT／QAD、剪枝、蒸餾、checkpoint 匯出 | 2026-09-25 |

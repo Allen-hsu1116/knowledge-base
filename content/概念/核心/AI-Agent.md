@@ -28,6 +28,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- **agent-browser** → 外部 Agent 透過瀏覽器 CLI 的 snapshot refs 逐步操作並驗證結果。詳見 [[vercel-labs-agent-browser]]。
+- **Auto Ontology** → 為分析 Agent 提供企業語義定義、可回答性檢查及 SQL 溯源，不以生成草稿取代人工認證。詳見 [[NVIDIA-auto-ontology]]。
+
 - **PR-Agent** → 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 詳見 [[The-PR-Agent-pr-agent]]。
 
 - **agent-desktop** → 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 詳見 [[vercel-labs-agent-desktop]]。

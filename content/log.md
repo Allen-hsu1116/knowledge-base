@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-11-03
+updated: 2026-11-06
 stars: —
 language: zh-TW
 ---
+
+## 2026-11-06（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[vercel-labs-agent-browser]] 至 Agent 框架與工具、[[NVIDIA-auto-ontology]] 至記憶與知識管理。
+- 收錄 [[lz4-lz4]] 至效能與壓縮、[[JiaFeiMiao-K-Cat-DiscImageStudio]] 至多媒體與爬蟲；兩者明確標為非 LLM 工具。
+- 保存完整 README 與 metadata，建立十段專案頁，更新概念 backlinks、日期倒序索引及 known-repos。未新增概念，未安裝或執行候選專案。
 
 ## 2026-11-03（每日 LLM 熱門專案搜尋）
 

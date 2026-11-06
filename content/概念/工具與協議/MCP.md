@@ -28,6 +28,9 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- **agent-browser** → 透過 `agent-browser mcp` 提供 stdio MCP 瀏覽器工具入口。詳見 [[vercel-labs-agent-browser]]。
+- **Auto Ontology** → MCP 以登入使用者權限提供唯讀術語查詢、readiness、answerability 與問答工具。詳見 [[NVIDIA-auto-ontology]]。
+
 - **Horizon** → 用 profiles 驅動多來源篩選、去重與補充背景的中英文 AI 新聞簡報工具。 詳見 [[Thysrael-Horizon]]。
 
 - Macro：透過託管 MCP 接口向外部 Agent 提供工作空間能力；仍需帳號授權。 詳見 [[macro-inc-macro]]。
