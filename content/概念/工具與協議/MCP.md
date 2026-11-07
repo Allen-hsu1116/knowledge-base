@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-11-05
+updated: 2026-11-07
 language: zh-TW
 ---
 
@@ -127,6 +127,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - [[PrefectHQ-fastmcp]] — 最 Pythonic 的 MCP Server/Client 建構框架
 - [[asciimoo-hister]] — 透過 MCP 暴露個人搜尋索引的本地優先服務
 - [[f-prompts.chat\|prompts.chat]] — 以 MCP 暴露 Prompt 搜尋與讀取能力
+
+- [[zed-industries-zed]] — 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。
 
 ## 來源
 - MCP 官方規範與相關原始資料

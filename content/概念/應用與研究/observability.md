@@ -2,7 +2,7 @@
 title: 可觀測性
 slug: observability
 created: 2026-06-12
-updated: 2026-10-03
+updated: 2026-11-07
 language: zh-TW
 ---
 
@@ -58,6 +58,8 @@ language: zh-TW
 - [[sandbox|沙箱]] — 沙箱中的程式執行需要可觀測性追蹤行為
 - [[AI-Agent|AI Agent]] — Agent 的行為和決策需要觀測工具來分析和優化
 - [[LLM]] — LLM 應用帶來新的觀測需求
+
+- [[prometheus-prometheus]] — 以多維時間序列、PromQL 與 HTTP 拉取模型進行系統監控。
 
 ## 來源
 

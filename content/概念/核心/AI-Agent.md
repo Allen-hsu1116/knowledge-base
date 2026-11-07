@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-05
+updated: 2026-11-07
 language: zh-TW
 ---
 
@@ -203,6 +203,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - [[unclebob-swarm-forge|SwarmForge]] — 以隔離 worktree、工程角色與結構化交接管理多 Agent 軟體開發
 - [[henryqin1997-statem|StateM]] — 以 checked transition 和 durable state 提升 Agent 長任務可靠度
 - [[radixark-miles\|Miles]] — 透過 Agent 環境連接器與可驗證 rollout 訓練 coding、computer-use 等多輪 Agent
+
+- [[zed-industries-zed]] — 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。
 
 ## 來源
 - 知識庫內 Agent 相關原始資料與專案頁面

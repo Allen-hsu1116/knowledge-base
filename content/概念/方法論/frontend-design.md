@@ -2,7 +2,7 @@
 title: 前端設計
 slug: frontend-design
 created: 2026-06-08
-updated: 2026-09-21
+updated: 2026-11-07
 language: zh-TW
 ---
 
@@ -56,6 +56,12 @@ language: zh-TW
 - [[AI-Skills]] — Skill 庫的生態系推動設計知識標準化
 - [[Prompt-Engineering]] — System prompt 和 SKILL.md 是設計 Agent 行為的基礎
 - [[ConardLi-garden-skills]] — 以 production-ready Skill 封裝前端設計判斷、實作與驗證流程
+
+- [[react-react]] — 以宣告式元件建立 Web 與原生應用介面的 JavaScript 函式庫。
+
+- [[angular-angular]] — 以 TypeScript 為主的 Web 應用開發平台，提供元件、CLI 與完整工具生態。
+
+- [[rails-rails]] — 以 MVC 組織資料庫驅動 Web 應用的 Ruby 全端框架。
 
 ## 來源
 

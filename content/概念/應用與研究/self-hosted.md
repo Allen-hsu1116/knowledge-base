@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-11-01
+updated: 2026-11-07
 language: zh-TW
 ---
 
@@ -144,6 +144,10 @@ language: zh-TW
 - [[asciimoo-hister]] — 自架個人全文搜尋與瀏覽歷史索引
 - [[magnitudedev-magnitude\|Magnitude]] — 硬體感知、可離線的本地模型推論服務
 - [[f-prompts.chat\|prompts.chat]] — 可自行部署的開源 Prompt 資料庫
+
+- [[prometheus-prometheus]] — 以多維時間序列、PromQL 與 HTTP 拉取模型進行系統監控。
+
+- [[rails-rails]] — 以 MVC 組織資料庫驅動 Web 應用的 Ruby 全端框架。
 
 ## 來源
 

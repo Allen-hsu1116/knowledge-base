@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-11-05
+updated: 2026-11-07
 language: zh-TW
 ---
 
@@ -146,6 +146,12 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - [[PrimeIntellect-ai-prime-agent]] — 自我進化 RLM Agent，持久 IPython + Continual Harness + 內建子 Agent
 - [[akitaonrails-ai-memory\|ai-memory]] — 跨 Coding Agent CLI 的 session 記憶、原生恢復與進度交接層
 - [[magnitudedev-magnitude\|Magnitude]] — 為多種 Coding Agent 自動選擇並接入本地模型
+
+- [[react-react]] — 以宣告式元件建立 Web 與原生應用介面的 JavaScript 函式庫。
+
+- [[angular-angular]] — 以 TypeScript 為主的 Web 應用開發平台，提供元件、CLI 與完整工具生態。
+
+- [[zed-industries-zed]] — 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。
 
 ## 來源
 

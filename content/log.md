@@ -2246,3 +2246,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 
 - 已保存 README 與 metadata、建立完整專案頁、更新概念 backlinks、專案索引與 known-repos。
 - 篩除不相關候選：MichaelCade/90DaysOfDevOps（一般 DevOps 學習資源，本次 README 未見 LLM 專屬內容）；JiaFeiMiao-K-Cat/DiscImageStudio（光碟盤面影像與刻錄工具，非 LLM 專案）。未標記為已收錄。
+
+## 2026-11-07 每日熱門專案收錄
+
+- ingest：[[react-react]] → 🏗 基礎設施；README、metadata、專案頁、backlinks 與索引更新。
+- ingest：[[angular-angular]] → 🏗 基礎設施；README、metadata、專案頁、backlinks 與索引更新。
+- ingest：[[zed-industries-zed]] → 🤖 Agent 框架與工具；README、metadata、專案頁、backlinks 與索引更新。
+- ingest：[[prometheus-prometheus]] → 🏗 基礎設施；README、metadata、專案頁、backlinks 與索引更新。
+- ingest：[[rails-rails]] → 🏗 基礎設施；README、metadata、專案頁、backlinks 與索引更新。

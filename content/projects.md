@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[zed-industries-zed\|Zed]] | ⭐93,629 | 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。 | 2026-11-07 |
 | [[vercel-labs-agent-browser\|agent-browser]] | ⭐45,886 | Rust CLI、瀏覽器快照 refs、CDP、MCP 與逐步操作驗證 | 2026-11-06 |
 | [[The-PR-Agent-pr-agent\|PR-Agent]] | ⭐14,759 | 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 | 2026-11-05 |
 | [[vercel-labs-agent-desktop\|agent-desktop]] | ⭐9,702 | 以 OS accessibility tree 與 snapshot refs 操作桌面應用的跨平台 CLI／C library。 | 2026-11-03 |
@@ -589,6 +590,10 @@ updated: 2026-11-06
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[rails-rails\|Ruby on Rails]] | ⭐59,026 | 以 MVC 組織資料庫驅動 Web 應用的 Ruby 全端框架。 | 2026-11-07 |
+| [[prometheus-prometheus\|Prometheus]] | ⭐67,183 | 以多維時間序列、PromQL 與 HTTP 拉取模型進行系統監控。 | 2026-11-07 |
+| [[angular-angular\|Angular]] | ⭐101,361 | 以 TypeScript 為主的 Web 應用開發平台，提供元件、CLI 與完整工具生態。 | 2026-11-07 |
+| [[react-react\|React]] | ⭐252,257 | 以宣告式元件建立 Web 與原生應用介面的 JavaScript 函式庫。 | 2026-11-07 |
 | [[floci-io-floci\|Floci]] | ⭐28,783 | 本地 AWS 模擬器，為開發、測試與 CI 提供雲端服務相容端點。 | 2026-11-04 |
 | [[hyprwm-Hyprland\|Hyprland]] | ⭐39,373 | 可高度客製的動態平鋪 Wayland compositor；屬桌面基礎設施而非 LLM 工具。 | 2026-11-02 |
 | [[coollabsio-coolify\|Coolify]] | ⭐64,387 | 以 SSH 管理自有伺服器的開源 PaaS，部署應用、資料庫及服務。 | 2026-10-26 |
