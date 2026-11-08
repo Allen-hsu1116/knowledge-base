@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-11-07
+updated: 2026-11-08
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **前端樣式與設計系統** → [[tailwindlabs-tailwindcss]] 提供 utility classes；[[meta-astryx]] 提供 React 元件、主題與人類／Agent 共用 CLI。兩者可搭配，並非模型或自主 Agent。
+- **Ruff（確定性驗證）** → [[astral-sh-ruff]] 執行 Python lint 與格式檢查；可作為生成程式碼回饋，但不能取代測試與型別檢查。
+- **billion-context（上下文配套）** → [[ranxianglei-billion-context]] 用增量摘要及還原延續會話；launcher 與插件的流量接入範圍依宿主而異。
 
 - **PR-Agent** → 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 詳見 [[The-PR-Agent-pr-agent]]。
 

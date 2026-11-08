@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-07
+updated: 2026-11-08
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **billion-context（上下文配套）** → [[ranxianglei-billion-context]] 為長任務提供增量摘要、搜尋與還原，不是獨立 Agent，也不改變模型原生視窗上限。
+- **Astryx（UI 工具配套）** → [[meta-astryx]] 以文件、型別與 CLI 統一人類／Agent 建立 React UI 的方式，不負責代理規劃與模型推論。
 
 - **agent-browser** → 外部 Agent 透過瀏覽器 CLI 的 snapshot refs 逐步操作並驗證結果。詳見 [[vercel-labs-agent-browser]]。
 - **Auto Ontology** → 為分析 Agent 提供企業語義定義、可回答性檢查及 SQL 溯源，不以生成草稿取代人工認證。詳見 [[NVIDIA-auto-ontology]]。

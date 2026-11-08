@@ -2,7 +2,7 @@
 title: 免費軟體
 slug: free-software
 created: 2026-05-27
-updated: 2026-10-17
+updated: 2026-11-08
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ AI 時代進一步推動了免費軟體的普及。Ollama 讓任何人都能在�
 - **AI 工具普及** — Ollama、Open WebUI 等讓 AI 工具也能免費使用
 
 ## 各框架的做法
+
+- **開發基礎設施** → [[tailwindlabs-tailwindcss]]（CSS 框架）、[[astral-sh-ruff]]（Python lint／formatter）與 [[meta-astryx]]（React 設計系統）在收錄快照均採 MIT；開源授權不保證生成程式碼的品質或相容性。
 
 - **LinkSwift** → AGPL-3.0 網盤下載輔助腳本；開源不代表破解限速，也不授予下載內容的權利。詳見 [[hmjz100-LinkSwift]]。
 

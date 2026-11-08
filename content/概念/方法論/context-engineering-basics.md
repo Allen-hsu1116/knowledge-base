@@ -2,7 +2,7 @@
 title: Context Engineering 基本概念
 slug: context-engineering-basics
 created: 2026-05-03
-updated: 2026-09-07
+updated: 2026-11-08
 language: zh-TW
 ---
 
@@ -31,6 +31,8 @@ Context Engineering（上下文工程）是 AI Agent 的核心技術——決定
 - **Context Collapse 風險**：壓縮可能丟失關鍵指令，ACON 可分析壓縮前後差異防範
 
 ## 各框架的做法
+
+- **billion-context** → [[ranxianglei-billion-context]] 在代理／宿主整合層引入 compress、decompress、search_context 與 acp_status，以增量摘要管理長會話。累積處理十億 tokens 不等於單次模型視窗擴至十億；壓縮品質與成本仍需按任務驗證。
 
 - **awesome-agentic-ai-zh** → 繁中 Agentic AI 學習地圖、CLI Power User／Agent Builder 雙路線、練習與驗收
   👉 詳見 [[WenyuChiou-awesome-agentic-ai-zh]]

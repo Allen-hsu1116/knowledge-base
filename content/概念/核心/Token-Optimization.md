@@ -2,7 +2,7 @@
 title: Token Optimization
 slug: Token-Optimization
 created: 2025-06-07
-updated: 2026-11-06
+updated: 2026-11-08
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ Token 優化不只是省錢——它直接影響回應品質。當 context 過�
 - **Cache 重用**：相同前綴的 KV Cache 跨對話共用，穩定內容放前面讓 cache hit 更高，省 50%+ 成本
 
 ## 各框架的做法
+
+- **billion-context** → [[ranxianglei-billion-context]] 以可還原的增量摘要減少活動上下文，並嘗試保留 prefix cache；官方節省率不應直接當成本地實測或通用保證。
 
 - **LZ4（界線比較）** → [[lz4-lz4]] 壓縮的是儲存與傳輸位元組；解壓後文字不變，不等於減少模型輸入 token，不能直接推算 API 費用節省。
 

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-07
+updated: 2026-11-08
 ---
 
 # 專案索引
@@ -161,6 +161,7 @@ updated: 2026-11-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ranxianglei-billion-context\|billion-context]] | ⭐4,615 | 增量上下文壓縮、還原、代理與宿主整合；授權含產品署名附加條款 | 2026-11-08 |
 | [[Orkas-AI-Orkas\|Orkas]] | ⭐6,217 | 桌面 Commander、多 Agent、CLI 協作、專案與排程 | 2026-11-01 |
 | [[google-ax\|AX（Google）]] | ⭐7,605 | 宣告式任務編排、Agent Substrate、工作區、網路政策、suspend/resume | 2026-09-23 |
 | [[huangruiteng-loopx\|LoopX]] | ⭐2.9k | Agent 迴圈工程控制平面, 本地狀態核心, 目標+關卡+待辦+證據+配額, Agent 無關 (Codex/Claude Code/Cursor), Peer Agent 交接, Quota 感知排程, 200+ 小時案例 | 2026-08-07 |
@@ -277,6 +278,7 @@ updated: 2026-11-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[sherlock-project-sherlock\|Sherlock]] | ⭐100,478 | 跨站公開帳號名稱查詢、OSINT、CSV／XLSX；非 LLM，結果需人工核對 | 2026-11-08 |
 | [[JiaFeiMiao-K-Cat-DiscImageStudio\|Disc Image Studio]] | ⭐7,269 | 光碟可見盤面圖案、標定與實驗性燒錄；非 LLM | 2026-11-06 |
 | [[anomalyco-hex\|Hex]] | ⭐4,587 | 跨平台本地語音聽寫工具，按住快捷鍵說話，再將文字貼入目前應用。 | 2026-11-04 |
 | [[Usagi-org-ai-goofish-monitor\|閒魚智能監控系統]] | ⭐16,374 | Playwright 搭配多模態 AI，定時監控閒魚商品並推送符合條件的結果。 | 2026-11-04 |
@@ -590,6 +592,9 @@ updated: 2026-11-07
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tailwindlabs-tailwindcss\|Tailwind CSS]] | ⭐98,474 | Utility-first CSS、響應式與狀態 variants、靜態樣式建置；非 LLM | 2026-11-08 |
+| [[astral-sh-ruff\|Ruff]] | ⭐50,979 | Rust 實作 Python lint／formatter、確定性程式品質檢查；非 Agent | 2026-11-08 |
+| [[meta-astryx\|Astryx]] | ⭐14,532 | Meta React 19+ 設計系統、主題、元件、Agent-friendly CLI；Beta | 2026-11-08 |
 | [[rails-rails\|Ruby on Rails]] | ⭐59,026 | 以 MVC 組織資料庫驅動 Web 應用的 Ruby 全端框架。 | 2026-11-07 |
 | [[prometheus-prometheus\|Prometheus]] | ⭐67,183 | 以多維時間序列、PromQL 與 HTTP 拉取模型進行系統監控。 | 2026-11-07 |
 | [[angular-angular\|Angular]] | ⭐101,361 | 以 TypeScript 為主的 Web 應用開發平台，提供元件、CLI 與完整工具生態。 | 2026-11-07 |

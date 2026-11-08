@@ -2,10 +2,16 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-11-06
+updated: 2026-11-08
 stars: —
 language: zh-TW
 ---
+
+## 2026-11-08（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[sherlock-project-sherlock]] 至多媒體與爬蟲；[[tailwindlabs-tailwindcss]]、[[astral-sh-ruff]]、[[meta-astryx]] 至基礎設施；[[ranxianglei-billion-context]] 至 Agent 編排與記憶。
+- 保存完整 README 與 metadata，建立十段專案頁，更新概念 backlinks、日期倒序索引及 known-repos。未新增概念，未安裝或執行候選專案。
+- Sherlock、Tailwind CSS、Ruff 明確標示非 LLM 工具；billion-context 的 LICENSE 另含產品署名附加條款，不能簡稱純 MIT。
 
 ## 2026-11-06（每日 LLM 熱門專案搜尋）
 
