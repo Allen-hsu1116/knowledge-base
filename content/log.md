@@ -2260,3 +2260,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest：[[zed-industries-zed]] → 🤖 Agent 框架與工具；README、metadata、專案頁、backlinks 與索引更新。
 - ingest：[[prometheus-prometheus]] → 🏗 基礎設施；README、metadata、專案頁、backlinks 與索引更新。
 - ingest：[[rails-rails]] → 🏗 基礎設施；README、metadata、專案頁、backlinks 與索引更新。
+
+## [2026-11-08] lint | 全庫檢查與授權快照溯源
+
+- 掃描 699 篇 wiki、823 份 raw 資產，核對 25 條概念合併映射。
+- billion-context 補上 LICENSE.txt 的來源引用，標記為已整理；保留原始素材不變。
+- 其餘結構、frontmatter、Stars、日期排序、孤兒頁、斷鏈與正文美元符號檢查通過；待分類區為空。
+- 語意檢查涵蓋全庫高風險主張與 metadata 一致性、近期專案摘要；未發現新增確定矛盾，不等同逐句上游事實查核。

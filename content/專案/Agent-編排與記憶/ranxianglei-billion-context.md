@@ -91,6 +91,7 @@ npm install -g billion-context --prefix=~/.local
 - [官方資料 2](https://github.com/ranxianglei/billion-context/blob/master/CLIENTS.md)
 - 原始快照：`raw/2026-11-08-ranxianglei-billion-context.md`
 - Metadata：`raw/2026-11-08-ranxianglei-billion-context.metadata.json`
+- 授權全文快照：`raw/2026-11-08-ranxianglei-billion-context.LICENSE.txt`（含 MIT 本文與產品表面署名附加條款，已整理）
 
 ---
 
