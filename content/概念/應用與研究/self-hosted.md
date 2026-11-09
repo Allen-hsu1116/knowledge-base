@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-11-07
+updated: 2026-11-09
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- [[dsx-ai-factory-nvke]] — 自架 GPU Kubernetes 叢集管理平面，目前為不建議生產使用的 Preview。
 
 - **LZ4（本地基礎工具）** → 無損壓縮函式庫與 CLI，可作資料處理配套，但不是自架 AI 服務。詳見 [[lz4-lz4]]。
 - **Disc Image Studio（離線工具）** → Windows GUI 與 Linux／macOS 實驗性 CLI 在本機處理光碟圖像；非伺服器或 LLM。詳見 [[JiaFeiMiao-K-Cat-DiscImageStudio]]。

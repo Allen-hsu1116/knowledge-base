@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-08
+updated: 2026-11-09
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- [[google-deepmind-mujoco]] — 用於機器人、控制與機器學習研究的多關節接觸物理引擎；不是 LLM。
+
+- [[anthropics-claude-quickstarts]] — Anthropic 官方 Claude 應用起始專案，涵蓋桌面／瀏覽器操作、長任務與 Managed Agents。
 
 - **billion-context（上下文配套）** → [[ranxianglei-billion-context]] 為長任務提供增量摘要、搜尋與還原，不是獨立 Agent，也不改變模型原生視窗上限。
 - **Astryx（UI 工具配套）** → [[meta-astryx]] 以文件、型別與 CLI 統一人類／Agent 建立 React UI 的方式，不負責代理規劃與模型推論。

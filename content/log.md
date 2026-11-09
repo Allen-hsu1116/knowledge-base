@@ -2,10 +2,19 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-11-08
+updated: 2026-11-09
 stars: —
 language: zh-TW
 ---
+
+## 2026-11-09（每日 LLM 熱門專案搜尋）
+
+- 收錄 [[anthropics-claude-quickstarts]] 至「📖 學習資源」。
+- 收錄 [[google-deepmind-mujoco]] 至「📊 應用」。
+- 收錄 [[dsx-ai-factory-nvke]] 至「🏗 基礎設施」。
+- 保存 README／metadata，完成十段專案頁與 backlinks、日期倒序索引和去重索引；未新建概念頁。
+- MuJoCo 標示非 LLM；NVKE 標示 Preview 與預設認證關閉；Claude 子範例授權表述不一致另註明。未安裝或執行候選專案。
+
 
 ## 2026-11-08（每日 LLM 熱門專案搜尋）
 

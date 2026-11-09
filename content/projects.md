@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 # 專案索引
@@ -368,6 +368,7 @@ updated: 2026-11-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[anthropics-claude-quickstarts\|Claude Quickstarts]] | ⭐19,424 | Anthropic 官方 Claude 應用起始專案，涵蓋桌面／瀏覽器操作、長任務與 Managed Agents。 | 2026-11-09 |
 | [[karpathy-nanochat\|nanochat]] | ⭐59,891 | 以精簡實驗程式串起 tokenizer、預訓練、微調、評估與對話推論的 LLM 訓練專案。 | 2026-11-03 |
 | [[patchy631-ai-engineering-hub\|AI Engineering Hub]] | ⭐40,251 | 以分級實作專案學習 LLM、RAG、Agent 與模型評估的教學資源庫。 | 2026-11-02 |
 | [[public-apis-public-apis\|Public APIs]] | ⭐494,614 | 社群維護的公開 API 目錄，供應用與 Agent 工具整合時尋找資料來源。 | 2026-11-02 |
@@ -424,6 +425,7 @@ updated: 2026-11-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-deepmind-mujoco\|MuJoCo]] | ⭐16,420 | 用於機器人、控制與機器學習研究的多關節接觸物理引擎；不是 LLM。 | 2026-11-09 |
 | [[Thysrael-Horizon\|Horizon]] | ⭐12,491 | 用 profiles 驅動多來源篩選、去重與補充背景的中英文 AI 新聞簡報工具。 | 2026-11-05 |
 | [[vorssaint-vorssaint-utils\|Vorssaint]] | ⭐31,905 | macOS 模組化工具箱、Coding Agent 用量與工作狀態監看 | 2026-11-01 |
 | [[macro-inc-macro\|Macro]] | ⭐5,423 | 團隊工作空間、雙向引用、共享 AI 記憶與 MCP | 2026-10-29 |
@@ -592,6 +594,7 @@ updated: 2026-11-08
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[dsx-ai-factory-nvke\|NVIDIA Kubernetes Engine（NVKE）]] | ⭐854 | 自架 GPU Kubernetes 叢集管理平面，目前為不建議生產使用的 Preview。 | 2026-11-09 |
 | [[tailwindlabs-tailwindcss\|Tailwind CSS]] | ⭐98,474 | Utility-first CSS、響應式與狀態 variants、靜態樣式建置；非 LLM | 2026-11-08 |
 | [[astral-sh-ruff\|Ruff]] | ⭐50,979 | Rust 實作 Python lint／formatter、確定性程式品質檢查；非 Agent | 2026-11-08 |
 | [[meta-astryx\|Astryx]] | ⭐14,532 | Meta React 19+ 設計系統、主題、元件、Agent-friendly CLI；Beta | 2026-11-08 |

@@ -2,7 +2,7 @@
 title: 世界模型
 slug: world-model
 created: 2026-06-20
-updated: 2026-10-10
+updated: 2026-11-09
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **因果模擬**：預測行動的後果，而非只模仿統計模式
 
 ## 各框架的做法
+
+- [[google-deepmind-mujoco]] — 用於機器人、控制與機器學習研究的多關節接觸物理引擎；不是 LLM。
 
 - **LingBot-Map（相鄰重建工具）** → README 示範將 LingBot-World 生成的影片重建為三維場景；它本身不預測動作後果，也不是世界生成模型。詳見 [[Robbyant-lingbot-map]]。
 
