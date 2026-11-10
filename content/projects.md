@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 # 專案索引
@@ -176,6 +176,7 @@ updated: 2026-11-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[garrytan-gbrain\|GBrain]] | ⭐32,152 | 可溯源、可修正的跨 Agent 記憶，keyless 檢索、合成與 MCP。 | 2026-11-10 |
 | [[NVIDIA-auto-ontology\|Auto Ontology]] | ⭐7,338 | 企業語義本體、人工認證、SQL 溯源、MCP 可回答性檢查 | 2026-11-06 |
 | [[FengZhenfei-carrel\|Carrel]] | ⭐643 | 文件解析、混合檢索與選配知識圖譜；Agent Loop 尚未實作。 | 2026-10-27 |
 | [[xerj-org-xerj\|XERJ]] | ⭐5,662 | 自動索引、混合檢索、reference coding、MCP | 2026-10-16 |
@@ -425,6 +426,7 @@ updated: 2026-11-09
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[homeassistant-ai-ha-mcp\|HA-MCP]] | ⭐5,975 | Home Assistant MCP server，裝置控制、自動化、儀表板與安全政策。 | 2026-11-10 |
 | [[google-deepmind-mujoco\|MuJoCo]] | ⭐16,420 | 用於機器人、控制與機器學習研究的多關節接觸物理引擎；不是 LLM。 | 2026-11-09 |
 | [[Thysrael-Horizon\|Horizon]] | ⭐12,491 | 用 profiles 驅動多來源篩選、去重與補充背景的中英文 AI 新聞簡報工具。 | 2026-11-05 |
 | [[vorssaint-vorssaint-utils\|Vorssaint]] | ⭐31,905 | macOS 模組化工具箱、Coding Agent 用量與工作狀態監看 | 2026-11-01 |

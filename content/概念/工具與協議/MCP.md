@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-11-07
+updated: 2026-11-10
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- **GBrain** → 以 MCP 提供共享記憶；遠端 source／operation grants 不等於本地檔案與資料庫的隔離。詳見 [[garrytan-gbrain]]。
+- **HA-MCP** → 讓 AI 客戶端管理 Home Assistant；官方偏好 integration／HTTP，stdio 僅建議 demo 與測試。詳見 [[homeassistant-ai-ha-mcp]]。
 
 - **agent-browser** → 透過 `agent-browser mcp` 提供 stdio MCP 瀏覽器工具入口。詳見 [[vercel-labs-agent-browser]]。
 - **Auto Ontology** → MCP 以登入使用者權限提供唯讀術語查詢、readiness、answerability 與問答工具。詳見 [[NVIDIA-auto-ontology]]。

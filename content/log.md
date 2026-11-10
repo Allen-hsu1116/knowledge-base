@@ -7,6 +7,13 @@ stars: —
 language: zh-TW
 ---
 
+## 2026-11-10（每日 LLM 熱門專案搜尋）
+
+- 新增 [[garrytan-gbrain]]：記憶與知識管理。
+- 新增 [[homeassistant-ai-ha-mcp]]：應用。
+- 保存完整 README 與 GitHub metadata；建立專案頁、更新 AI-Agent／MCP backlinks、分類索引與去重索引。
+- 本次沒有新建概念頁；安裝指令僅整理為文件，未安裝來源專案。
+
 ## 2026-11-09（每日 LLM 熱門專案搜尋）
 
 - 收錄 [[anthropics-claude-quickstarts]] 至「📖 學習資源」。
