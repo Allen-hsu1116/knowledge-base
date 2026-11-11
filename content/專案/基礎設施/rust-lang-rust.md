@@ -70,6 +70,7 @@ cargo --version
 | --- | --- | --- |
 | Rust | 語言、編譯器與標準庫 | 建構原生程式；不是 LLM 執行服務 |
 | Cargo | Rust 生態的套件與建置工具 | 與 rustc 分工，不是另一種語言 |
+| [[tokio-rs-topcoat\|Topcoat]] | Rust 全端 Web 框架 | 建立在 Rust／Cargo 之上；實驗性，非 LLM 框架 |
 | [[llvm-llvm-project\|LLVM Project]] | 通用編譯器基礎建設 | 比較的是工具鏈層次，而非 Agent 能力 |
 
 ### 限制與選擇提醒
@@ -80,6 +81,8 @@ cargo --version
 ## 相關概念
 
 ← [[Coding-Agent-CLI]] · [[self-hosted]]
+
+- [[tokio-rs-topcoat]] — Rust 在伺服器渲染與瀏覽器互動上的應用案例。
 
 ## 來源
 

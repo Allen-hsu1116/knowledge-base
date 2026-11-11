@@ -2283,3 +2283,9 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - billion-context 補上 LICENSE.txt 的來源引用，標記為已整理；保留原始素材不變。
 - 其餘結構、frontmatter、Stars、日期排序、孤兒頁、斷鏈與正文美元符號檢查通過；待分類區為空。
 - 語意檢查涵蓋全庫高風險主張與 metadata 一致性、近期專案摘要；未發現新增確定矛盾，不等同逐句上游事實查核。
+
+## [2026-11-11] ingest | Sure、Topcoat
+
+- 新增 we-promise/sure（應用）、tokio-rs/topcoat（基礎設施）。
+- 保存 README 與 metadata，完成專案頁、反向連結、日期排序索引與 known-repos 更新。
+- Topcoat 為通用 Trending 基礎設施，非 LLM 專案；無新增概念頁。

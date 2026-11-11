@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-11-09
+updated: 2026-11-11
 language: zh-TW
 ---
 
@@ -30,6 +30,9 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- **Sure** → 自架個人財務應用，AI 為可選整合；外部模型可能接觸財務資料。詳見 [[we-promise-sure]]。
+- **Topcoat** → 實驗性 Rust 全端 Web 框架，是應用開發底座而非部署平台或 LLM runtime。詳見 [[tokio-rs-topcoat]]。
 
 - [[dsx-ai-factory-nvke]] — 自架 GPU Kubernetes 叢集管理平面，目前為不建議生產使用的 Preview。
 

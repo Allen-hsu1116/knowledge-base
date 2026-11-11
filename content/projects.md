@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 # 專案索引
@@ -426,6 +426,7 @@ updated: 2026-11-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[we-promise-sure\|Sure]] | ⭐11,958 | 自架個人財務管理、可選 AI 助理與 LLM agent 存取。 | 2026-11-11 |
 | [[homeassistant-ai-ha-mcp\|HA-MCP]] | ⭐5,975 | Home Assistant MCP server，裝置控制、自動化、儀表板與安全政策。 | 2026-11-10 |
 | [[google-deepmind-mujoco\|MuJoCo]] | ⭐16,420 | 用於機器人、控制與機器學習研究的多關節接觸物理引擎；不是 LLM。 | 2026-11-09 |
 | [[Thysrael-Horizon\|Horizon]] | ⭐12,491 | 用 profiles 驅動多來源篩選、去重與補充背景的中英文 AI 新聞簡報工具。 | 2026-11-05 |
@@ -596,6 +597,7 @@ updated: 2026-11-10
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tokio-rs-topcoat\|Topcoat]] | ⭐6,817 | 實驗性 Rust 全端 Web 框架，SSR 與瀏覽器互動；非 LLM。 | 2026-11-11 |
 | [[dsx-ai-factory-nvke\|NVIDIA Kubernetes Engine（NVKE）]] | ⭐854 | 自架 GPU Kubernetes 叢集管理平面，目前為不建議生產使用的 Preview。 | 2026-11-09 |
 | [[tailwindlabs-tailwindcss\|Tailwind CSS]] | ⭐98,474 | Utility-first CSS、響應式與狀態 variants、靜態樣式建置；非 LLM | 2026-11-08 |
 | [[astral-sh-ruff\|Ruff]] | ⭐50,979 | Rust 實作 Python lint／formatter、確定性程式品質檢查；非 Agent | 2026-11-08 |

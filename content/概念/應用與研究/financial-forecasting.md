@@ -2,7 +2,7 @@
 title: 金融預測
 slug: financial-forecasting
 created: 2026-05-11
-updated: 2026-09-26
+updated: 2026-11-11
 language: zh-TW
 ---
 
@@ -50,6 +50,8 @@ language: zh-TW
   👉 詳見 [[stefan-jansen-machine-learning-for-trading]]
 
 ## 相關概念
+
+- [[we-promise-sure]] — 個人財務管理與 AI 助理的相鄰應用；不是市場預測或自動交易系統。
 
 - [[agent-trading]] — Agent 交易是金融預測的自主執行層
 - [[backtesting]] — 回測驗證預測策略的歷史表現
