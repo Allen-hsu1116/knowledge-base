@@ -2289,3 +2289,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 新增 we-promise/sure（應用）、tokio-rs/topcoat（基礎設施）。
 - 保存 README 與 metadata，完成專案頁、反向連結、日期排序索引與 known-repos 更新。
 - Topcoat 為通用 Trending 基礎設施，非 LLM 專案；無新增概念頁。
+
+## 2026-11-12 — 每日熱門專案收錄
+
+- ingest [[TheAlgorithms-Java]] → 📖 學習資源；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。
+- ingest [[openai-codex-security]] → 🤖 Agent 框架與工具；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。
+- ingest [[shadcn-improve]] → 🛠 Skill 生態系；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。
+- ingest [[GoogleChrome-modern-web-guidance-src]] → 🛠 Skill 生態系；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。

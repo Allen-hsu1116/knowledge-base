@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-10
+updated: 2026-11-12
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- **improve** → 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 詳見 [[shadcn-improve]]。
+
+- **Codex Security** → OpenAI 的安全掃描 CLI 與 TypeScript SDK，串接發現、驗證及修補流程。 詳見 [[openai-codex-security]]。
 
 - **GBrain** → 為既有 Agent 加入可溯源、可修正及跨客戶端共用的長期記憶，不要求取代 Agent 身分。詳見 [[garrytan-gbrain]]。
 - **HA-MCP** → 將 Home Assistant 查詢與控制提供給 Agent；先驗證連線實例，再授權會影響實體設備的操作。詳見 [[homeassistant-ai-ha-mcp]]。

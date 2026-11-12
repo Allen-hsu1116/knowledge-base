@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-11-08
+updated: 2026-11-12
 language: zh-TW
 ---
 
@@ -28,6 +28,12 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- **Modern Web Guidance（Source）** → 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 詳見 [[GoogleChrome-modern-web-guidance-src]]。
+
+- **improve** → 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 詳見 [[shadcn-improve]]。
+
+- **Codex Security** → OpenAI 的安全掃描 CLI 與 TypeScript SDK，串接發現、驗證及修補流程。 詳見 [[openai-codex-security]]。
 
 - **前端樣式與設計系統** → [[tailwindlabs-tailwindcss]] 提供 utility classes；[[meta-astryx]] 提供 React 元件、主題與人類／Agent 共用 CLI。兩者可搭配，並非模型或自主 Agent。
 - **Ruff（確定性驗證）** → [[astral-sh-ruff]] 執行 Python lint 與格式檢查；可作為生成程式碼回饋，但不能取代測試與型別檢查。

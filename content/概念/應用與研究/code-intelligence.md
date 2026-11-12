@@ -2,7 +2,7 @@
 title: 程式碼智慧
 slug: code-intelligence
 created: 2026-05-07
-updated: 2026-10-08
+updated: 2026-11-12
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **MCP 整合**：透過 MCP 協議讓 AI coding agent 直接查詢程式碼知識圖譜
 
 ## 各框架的做法
+
+- **The Algorithms — Java** → 以 Java 實作演算法的教學資料庫；不是 LLM 框架。 詳見 [[TheAlgorithms-Java]]。
 
 - **RAD Debugger（互補工具）** → 以原生除錯器觀察執行期狀態，補充靜態程式理解；不是 LLM 或 MCP 工具。詳見 [[EpicGames-raddebugger]]。
 

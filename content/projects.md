@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-11
+updated: 2026-11-12
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[openai-codex-security\|Codex Security]] | ⭐11,735 | OpenAI 的安全掃描 CLI 與 TypeScript SDK，串接發現、驗證及修補流程。 | 2026-11-12 |
 | [[zed-industries-zed\|Zed]] | ⭐93,629 | 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。 | 2026-11-07 |
 | [[vercel-labs-agent-browser\|agent-browser]] | ⭐45,886 | Rust CLI、瀏覽器快照 refs、CDP、MCP 與逐步操作驗證 | 2026-11-06 |
 | [[The-PR-Agent-pr-agent\|PR-Agent]] | ⭐14,759 | 社群維護的 AI PR 審查工具，以 CLI、Actions 或 webhook 整合開發流程。 | 2026-11-05 |
@@ -369,6 +370,7 @@ updated: 2026-11-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[TheAlgorithms-Java\|The Algorithms — Java]] | ⭐67,024 | 以 Java 實作演算法的教學資料庫；不是 LLM 框架。 | 2026-11-12 |
 | [[anthropics-claude-quickstarts\|Claude Quickstarts]] | ⭐19,424 | Anthropic 官方 Claude 應用起始專案，涵蓋桌面／瀏覽器操作、長任務與 Managed Agents。 | 2026-11-09 |
 | [[karpathy-nanochat\|nanochat]] | ⭐59,891 | 以精簡實驗程式串起 tokenizer、預訓練、微調、評估與對話推論的 LLM 訓練專案。 | 2026-11-03 |
 | [[patchy631-ai-engineering-hub\|AI Engineering Hub]] | ⭐40,251 | 以分級實作專案學習 LLM、RAG、Agent 與模型評估的教學資源庫。 | 2026-11-02 |
@@ -522,6 +524,8 @@ updated: 2026-11-11
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[GoogleChrome-modern-web-guidance-src\|Modern Web Guidance（Source）]] | ⭐1,756 | 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 | 2026-11-12 |
+| [[shadcn-improve\|improve]] | ⭐10,882 | 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 | 2026-11-12 |
 | [[spotify-portal-ai-plugins\|Spotify Portal AI Plugins]] | ⭐3,040 | 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。 | 2026-11-04 |
 | [[elayadesign-ai-design-skills\|AI Design Skills]] | ⭐9,355 | Landing page 策略、文案與視覺規則，供 Coding Agent 載入。 | 2026-10-28 |
 | [[alchaincyf-huashu-design\|Huashu Design]] | ⭐26,758 | 跨 Agent 設計 Skill、方向探索、互動原型與可編輯 PPTX。 | 2026-10-27 |

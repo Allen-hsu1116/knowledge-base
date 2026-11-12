@@ -2,7 +2,7 @@
 title: 前端設計
 slug: frontend-design
 created: 2026-06-08
-updated: 2026-11-07
+updated: 2026-11-12
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ language: zh-TW
 - **AI Skills 整合** — 設計知識封裝為 SKILL.md，讓 Agent 按品質標準執行設計任務
 
 ## 各框架的做法
+
+- **Modern Web Guidance（Source）** → 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 詳見 [[GoogleChrome-modern-web-guidance-src]]。
 
 - **Agent-Native**：讓 Agent 與 UI 共用 actions、資料及應用狀態的 TypeScript 框架。 → [[BuilderIO-agent-native]]
 

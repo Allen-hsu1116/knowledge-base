@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-10-27
+updated: 2026-11-12
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- **Modern Web Guidance（Source）** → 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 詳見 [[GoogleChrome-modern-web-guidance-src]]。
+
+- **improve** → 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 詳見 [[shadcn-improve]]。
 
 - [[spotify-portal-ai-plugins]] — 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。
 

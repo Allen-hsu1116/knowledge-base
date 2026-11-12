@@ -2,7 +2,7 @@
 title: 自主學習
 slug: self-education
 created: 2026-05-11
-updated: 2026-11-01
+updated: 2026-11-12
 language: zh-TW
 ---
 
@@ -29,6 +29,8 @@ AI 工具改變了自主學習的方式。傳統自主學習的痛點是缺乏�
 - **知識庫系統輔助**：用 LLM Wiki 方法把學習素材編譯成個人知識庫，加深理解並留下記錄
 
 ## 各框架的做法
+
+- **The Algorithms — Java** → 以 Java 實作演算法的教學資料庫；不是 LLM 框架。 詳見 [[TheAlgorithms-Java]]。
 
 - **DevOps Exercises** → 跨主題工程問答與練習；按實際需求選題並以實驗驗證，而非背完所有面試題。詳見 [[bregman-arie-devops-exercises]]。
 
