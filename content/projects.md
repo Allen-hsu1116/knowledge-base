@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[QwenLM-qwen-code\|qwen-code]] | ⭐29,813 | 多協議、多平台開源 Coding Agent，支援終端、SDK 與實驗性共享 daemon。 | 2026-11-13 |
 | [[openai-codex-security\|Codex Security]] | ⭐11,735 | OpenAI 的安全掃描 CLI 與 TypeScript SDK，串接發現、驗證及修補流程。 | 2026-11-12 |
 | [[zed-industries-zed\|Zed]] | ⭐93,629 | 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。 | 2026-11-07 |
 | [[vercel-labs-agent-browser\|agent-browser]] | ⭐45,886 | Rust CLI、瀏覽器快照 refs、CDP、MCP 與逐步操作驗證 | 2026-11-06 |
@@ -231,6 +232,7 @@ updated: 2026-11-12
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ashhart-TensorFold\|TensorFold]] | ⭐1,939 | 以 Zig binary 在 Apple Silicon／NVIDIA GPU 執行原生語言模型推論與 API serving。 | 2026-11-13 |
 | [[FareedKhan-dev-kimi-k3-in-c\|kimi-k3-in-c]] | ⭐10,298 | 以 C99、CPU 與磁碟串流研究大型 MoE 低常駐記憶體推論的專用引擎。 | 2026-11-05 |
 | [[FlashML-org-FreeToken\|FreeToken]] | ⭐15,409 | 面向消費級異質硬體，以 CPU／GPU 協同與快取管理執行大型 MoE 的推論引擎。 | 2026-11-02 |
 | [[lightseekorg-tokenspeed\|TokenSpeed]] | ⭐2,490 | Agent 推論、C++ 排程控制面、Python 執行面、模組化 kernels | 2026-10-16 |

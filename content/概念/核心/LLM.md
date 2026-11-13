@@ -2,7 +2,7 @@
 title: LLM
 slug: LLM
 created: 2026-06-04
-updated: 2026-11-05
+updated: 2026-11-13
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ LLM 的核心能力包括文字生成（寫作、翻譯、摘要、程式碼生�
 - **開放生態**：開源模型讓任何人都能部署，形成蓬勃的下游應用生態
 
 ## 各框架的做法
+
+- [[ashhart-TensorFold]] — 將相容 checkpoint 以原生 binary 提供成 API；模型權重授權與引擎授權需分辨。
 
 - **kimi-k3-in-c** → 以 C99、CPU 與磁碟串流研究大型 MoE 低常駐記憶體推論的專用引擎。 詳見 [[FareedKhan-dev-kimi-k3-in-c]]。
 

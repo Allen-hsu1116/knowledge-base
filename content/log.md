@@ -2,10 +2,18 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-11-09
+updated: 2026-11-13
 stars: —
 language: zh-TW
 ---
+
+## 2026-11-13（每日 LLM 熱門專案搜尋）
+
+- 新增 [[QwenLM-qwen-code]]：Agent 框架與工具。
+- 新增 [[ashhart-TensorFold]]：模型推論與部署。
+- 排除 pookjw/HermesEnabler：Apple Watch 錶面工具，與 LLM／Hermes Agent 無關。
+- 保存 README／metadata；完成十段專案頁、四個概念 backlinks、日期倒序專案索引與 known-repos。未新建概念、未安裝候選軟體。
+
 
 ## 2026-11-10（每日 LLM 熱門專案搜尋）
 
