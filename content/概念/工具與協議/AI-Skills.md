@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-11-12
+updated: 2026-11-15
 language: zh-TW
 ---
 
@@ -123,6 +123,11 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 - **Modern Go Guidelines** → 依 `go.mod` 版本向 Coding Agent 提供 Go 1.0–1.27 的現代語法與標準函式庫指南
   👉 詳見 [[JetBrains-go-modern-guidelines]]
+
+### 相關專案實例
+
+- [[mvanhorn-last30days-skill|last30days]]：以 Agent skill 整合跨平台近期議題研究。
+- [[Graphify-Labs-graphify|Graphify]]：以技能介面建立與查詢專案知識圖譜。
 
 ## 相關概念
 

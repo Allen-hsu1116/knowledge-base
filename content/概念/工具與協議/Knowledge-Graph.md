@@ -2,7 +2,7 @@
 title: Knowledge Graph（知識圖譜）
 slug: Knowledge-Graph
 created: 2026-06-22
-updated: 2026-11-06
+updated: 2026-11-15
 language: zh-TW
 ---
 
@@ -49,6 +49,10 @@ language: zh-TW
   👉 詳見 [[Understand-Anything]]
 - **CodeGraph** → 程式碼知識圖譜 + MCP 整合
   👉 詳見 [[colbymchenry-codegraph|CodeGraph]]
+
+### 相關專案實例
+
+- [[Graphify-Labs-graphify|Graphify]]：將程式碼與文件整理成可查詢的知識圖譜。
 
 ## 相關概念
 

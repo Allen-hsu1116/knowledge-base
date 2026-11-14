@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # 專案索引
@@ -64,7 +64,7 @@ updated: 2026-11-14
 | [[paperclipai-paperclip\|Paperclip]] | ⭐76.5k | AI Agent 編排平台, 多 Agent 公司管理, 組織架構, 預算控制, 治理審批, Heartbeat 排程, BYO Agent, 多公司隔離, 持久狀態 | 2026-08-11 |
 | [[danielmiessler-LifeOS\|LifeOS]] | ⭐17.9k | General AI Harness, Current→Ideal State, Hill-Climbing, Intent Engineering, Euphoric Surprise, TELOS, Harness-Agnostic, 持久記憶, 自改進 | 2026-08-11 |
 | [[langchain-ai-openwiki\|OpenWiki]] | ⭐14.8k | 自我維護 wiki CLI, Deep Agents, Code+Personal 模式, 12 模型供應商, OKF v0.1, Mermaid 圖表, 互動式節點圖, LangSmith 整合 | 2026-08-09 |
-| [[Graphify-Labs-graphify\|Graphify (Graphify-Labs)]] | ⭐104.4k | Knowledge Graph Skill, tree-sitter AST 本地解析, EXTRACTED/INFERRED 邊標籤, 無向量庫, ~40 語言, Leiden 社群偵測, YC S26, 多模態（程式碼/PDF/圖片/影片） | 2026-08-09 |
+| [[Graphify-Labs-graphify\|Graphify (Graphify-Labs)]] | ⭐147623 | 本地 AST 知識圖譜、CLI/Skill/MCP、增量查詢、來源追蹤 | 2026-08-09 |
 | [[headroomlabs-ai-headroom\|Headroom (headroomlabs-ai)]] | ⭐65.5k | Token Optimization, Context 壓縮層, 60-95% JSON 壓縮, 可逆 CCR, 輸出 token 削減, 跨 Agent 記憶, headroom learn, 18+ Agent 相容, MCP, Proxy | 2026-08-09 |
 | [[bojieli-ai-agent-book\|深入理解 AI Agent]] | ⭐34.8k | 開源 AI Agent 教科書, 10 章 95 實驗, Agent=LLM+上下文+工具, MCP 專章, 評估方法論, SFT/RL 決策框架, 13 語言翻譯 | 2026-08-09 |
 | [[DeusData-codebase-memory-mcp\|Codebase Memory MCP]] | ⭐38.3k | 程式碼智慧, Knowledge Graph, MCP, 158 語言, tree-sitter, Hybrid LSP, 43 Agent 支援面, 語義搜尋, Cypher, 跨 repo, 死碼偵測, ADR | 2026-08-09 |
@@ -336,7 +336,7 @@ updated: 2026-11-14
 | [[microsoft-VibeVoice\|VibeVoice]] | ⭐48476 | ASR, TTS, 語音AI, 多語言, 長語音辨識, 串流TTS | 2026-06-07 |
 | [[NVIDIA-cosmos\|NVIDIA Cosmos]] | ⭐9417 | 世界模型, Physical AI, 機器人, 自駕車, 多模態 | 2026-06-06 |
 | [[Open-LLM-VTuber-Open-LLM-VTuber\|Open-LLM-VTuber]] | ⭐8356 | AI 陪伴, VTuber, Live2D, 語音互動, 離線 | 2026-06-03 |
-| [[D4Vinci-Scrapling\|Scrapling]] | ⭐56630 | 網頁爬蟲, 自適應解析, 反偵測, MCP | 2026-06-01 |
+| [[D4Vinci-Scrapling\|Scrapling]] | ⭐102832 | 自適應解析、HTTP/瀏覽器爬取、Spider、MCP、RemoteSession 遷移 | 2026-06-01 |
 | [[OpenMOSS-MOSS-TTS\|MOSS-TTS]] | ⭐2241 | TTS, 語音合成, 語音克隆, 多語言 | 2026-05-29 |
 | [[HKUDS-ViMax\|ViMax]] | ⭐6064 | AI 影片生成, AI Agent, 生成式 AI | 2026-05-22 |
 | [[opentoonz-opentoonz\|OpenToonz]] | ⭐6347 | 2D 動畫, 開源, 生成式 AI | 2026-05-22 |
@@ -420,7 +420,7 @@ updated: 2026-11-14
 | [[datawhalechina-easy-vibe\|Easy-Vibe]] | ⭐14776 | Vibe Coding, AI Tutoring, Coding Education | 2026-05-26 |
 | [[teng-lin-notebooklm-py\|notebooklm-py]] | ⭐15157 | NotebookLM, AI Skills, Research Automation | 2026-05-26 |
 | [[anthropics-claude-cookbooks\|Claude Cookbooks]] | ⭐44023 | LLM, Prompt Engineering, RAG, AI Agent | 2026-05-26 |
-| [[walkinglabs-learn-harness-engineering\|Learn Harness Engineering]] | ⭐1k+ | Harness Engineering, AI Agent, Context Engineering, 課程 | 2026-05-24 |
+| [[walkinglabs-learn-harness-engineering\|Learn Harness Engineering]] | ⭐24803 | Harness Engineering 課程，14 講／8 專案／15 語言，loop 與 graph | 2026-05-24 |
 | [[nn-zero-to-hero\|Neural Networks: Zero to Hero]] | ⭐22,343 | LLM, 神經網路, 教學 | 2026-05-23 |
 | [[rohitg00-ai-engineering-from-scratch\|AI Engineering from Scratch]] | ⭐9567 | LLM, AI Agent, MCP, 教學 | 2026-05-22 |
 | [[microsoft-ai-agents-for-beginners\|AI Agents for Beginners]] | ⭐62542 | AI Agent, 教學課程, MCP | 2026-05-18 |
@@ -586,7 +586,7 @@ updated: 2026-11-14
 | [[Figma-Skills\|Figma Skills]] | ⭐23546 | AI Skills, Figma, 設計脈絡, 設計生成, 程式碼實作 | 2026-06-08 |
 | [[Frontend-Design-Agent-Skills\|Frontend Design Agent Skills]] | ⭐171039 | AI Skills, 前端設計, Design System, Web Design Guidelines | 2026-06-08 |
 | [[Leonxlnx-taste-skill\|Taste Skill]] | ⭐36016 | AI Skills, Prompt Engineering, 前端設計 | 2026-06-07 |
-| [[mvanhorn-last30days-skill\|last30days]] | ⭐27580 | AI Skills, 社群搜尋引擎, OSINT, Agent 整合 | 2026-06-05 |
+| [[mvanhorn-last30days-skill\|last30days]] | ⭐67647 | 跨平台近期研究、來源條件選擇、library/watchlist、公司訊號 | 2026-06-05 |
 | [[pbakaus-impeccable\|Impeccable]] | ⭐32698 | AI Skills, 前端設計, 設計語言, 反模式 | 2026-06-02 |
 | [[hardikpandya-stop-slop\|stop-slop]] | ⭐5700 | AI Skills, Prompt Engineering, 寫作品質 | 2026-05-28 |
 | [[anthropics-knowledge-work-plugins\|Knowledge Work Plugins]] | ⭐15460 | AI Skills, MCP, Prompt Engineering | 2026-05-26 |

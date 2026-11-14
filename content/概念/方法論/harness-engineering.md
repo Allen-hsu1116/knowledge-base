@@ -2,7 +2,7 @@
 title: Harness Engineering 駕馭工程
 slug: harness-engineering
 created: 2026-05-24
-updated: 2026-10-12
+updated: 2026-11-15
 language: zh-TW
 ---
 
@@ -86,6 +86,10 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
   👉 詳見 [[henryqin1997-statem|StateM]]
 - **SwarmForge** → 以獨立 worktree、角色分工、確定性品質工具與 handoff 組織協作；Prompt 提供意圖，工具驗證條件，流程安排核准。專案頁另對照 Uncle Bob 訪談理念與實作界線
   👉 詳見 [[unclebob-swarm-forge|SwarmForge]]
+
+### 相關專案實例
+
+- [[walkinglabs-learn-harness-engineering|Learn Harness Engineering]]：以課程與專案練習執行環境、狀態管理和驗證。
 
 ## 相關概念
 

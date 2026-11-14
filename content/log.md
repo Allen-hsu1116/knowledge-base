@@ -2,10 +2,19 @@
 title: 整理記錄
 slug: log
 created: 2026-06-13
-updated: 2026-11-13
+updated: 2026-11-15
 stars: —
 language: zh-TW
 ---
+
+## 2026-11-15（既有專案最新資料核對）
+
+- 更新 [[D4Vinci-Scrapling]]：重新核對官方 README、預設分支 commit 與 release 狀態，保留舊 raw，新增來源快照。
+- 更新 [[Graphify-Labs-graphify]]：重新核對官方 README、預設分支 commit 與 release 狀態，保留舊 raw，新增來源快照。
+- 更新 [[walkinglabs-learn-harness-engineering]]：重新核對官方 README、預設分支 commit 與 release 狀態，保留舊 raw，新增來源快照。
+- 更新 [[mvanhorn-last30days-skill]]：重新核對官方 README、預設分支 commit 與 release 狀態，保留舊 raw，新增來源快照。
+
+- 本次為文件核對與 Wiki 更新，未安裝或執行上游專案；未新增另兩個交易專案。
 
 ## 2026-11-14（每日 LLM 熱門專案搜尋）
 
