@@ -29,6 +29,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- [[backnotprop-plannotator]] — 審閱計畫、文件與程式差異，作為 Coding Agent 的人類回饋層。
+
 - [[QwenLM-qwen-code]] — 終端、IDE、SDK 與實驗性 daemon 共用開發工作流，源自 Gemini CLI 後獨立演進。
 
 - **Modern Web Guidance（Source）** → 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 詳見 [[GoogleChrome-modern-web-guidance-src]]。

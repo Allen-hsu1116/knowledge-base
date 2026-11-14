@@ -28,6 +28,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 
 ## 各框架的做法
 
+- [[backnotprop-plannotator]] — 以本地 Inbox 集中人類審閱與決策，再將批註送回 Agent session。
+
 - [[QwenLM-qwen-code]] — 多協議 Coding Agent，整合工具、記憶、子 Agent 與多介面；daemon 權限需另外配置。
 
 - **improve** → 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 詳見 [[shadcn-improve]]。

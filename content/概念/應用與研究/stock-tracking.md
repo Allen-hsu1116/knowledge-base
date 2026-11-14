@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- [[tradermonty-claude-trading-skills]] — 將市場廣度、趨勢參與與週度投組檢視組成可重用流程；需核對資料時效與市場適用性。
+
 - **TSP（tick-stock-panel）** → A 股選股、監控和回測共用資料口徑，LLM 只讀取數；不等同台股或自動交易。 詳見 [[shy3130-tick-stock-panel]]。
 
 - **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化

@@ -31,6 +31,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- [[louislam-uptime-kuma]] — 多協議存活探測、狀態頁與通知；與 LLM trace／品質評測互補。
+
 - **Sentry** → 以跨語言 SDK 收集錯誤與效能 trace；Python SDK 列有 OpenAI 整合，但不能等同完整 LLM 評測平台。詳見 [[getsentry-sentry]]。
 - **Effect** → 在 TypeScript 應用底座整合 tracing 並提供 OpenTelemetry 套件；本身不是監控後端。詳見 [[Effect-TS-effect]]。
 

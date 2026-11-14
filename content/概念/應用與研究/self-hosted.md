@@ -31,6 +31,9 @@ language: zh-TW
 
 ## 各框架的做法
 
+- [[louislam-uptime-kuma]] — 自架可用性監控、告警及公開狀態頁，不評估模型回答品質。
+- [[tailscale-tailcat]] — 不依賴控制平面的加密點對點通道，供自架服務受控連線。
+
 - **Sure** → 自架個人財務應用，AI 為可選整合；外部模型可能接觸財務資料。詳見 [[we-promise-sure]]。
 - **Topcoat** → 實驗性 Rust 全端 Web 框架，是應用開發底座而非部署平台或 LLM runtime。詳見 [[tokio-rs-topcoat]]。
 

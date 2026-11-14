@@ -7,6 +7,14 @@ stars: —
 language: zh-TW
 ---
 
+## 2026-11-14（每日 LLM 熱門專案搜尋）
+
+- 新增 [[backnotprop-plannotator]]：Agent 框架與工具。
+- 新增 [[tradermonty-claude-trading-skills]]：Skill 生態系。
+- 新增 [[louislam-uptime-kuma]]、[[tailscale-tailcat]]：基礎設施。
+- 新增 [[Likely7-Veyra-NRVideo]]：多媒體與爬蟲。
+- 保存五份完整 README 與 metadata；建立十段專案頁、雙向概念連結、分類索引與 known-repos。非 LLM 原生工具已明確標示，未安裝任何候選軟體，未新建概念。
+
 ## 2026-11-13（每日 LLM 熱門專案搜尋）
 
 - 新增 [[QwenLM-qwen-code]]：Agent 框架與工具。

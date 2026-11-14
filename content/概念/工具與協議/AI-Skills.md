@@ -28,6 +28,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 
 ## 各框架的做法
 
+- [[tradermonty-claude-trading-skills]] — 以技能索引與工作流 manifest 封裝市場研究、風控和日誌，保留人工決策關卡。
+
 - **Modern Web Guidance（Source）** → 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 詳見 [[GoogleChrome-modern-web-guidance-src]]。
 
 - **improve** → 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 詳見 [[shadcn-improve]]。

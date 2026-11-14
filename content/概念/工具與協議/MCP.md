@@ -28,6 +28,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- [[backnotprop-plannotator]] — 提供 `plannotator inbox mcp`，讓其他 Agent 接入本地待審閱工作台。
+
 - **GBrain** → 以 MCP 提供共享記憶；遠端 source／operation grants 不等於本地檔案與資料庫的隔離。詳見 [[garrytan-gbrain]]。
 - **HA-MCP** → 讓 AI 客戶端管理 Home Assistant；官方偏好 integration／HTTP，stdio 僅建議 demo 與測試。詳見 [[homeassistant-ai-ha-mcp]]。
 

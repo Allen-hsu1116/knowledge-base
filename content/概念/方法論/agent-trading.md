@@ -28,6 +28,8 @@ Agent 交易的優勢在於能整合多種資訊來源並做出即時決策。�
 
 ## 各框架的做法
 
+- [[tradermonty-claude-trading-skills]] — 聚焦投資研究、部位風控與事後檢討，不是訊號服務或自動下單平台。
+
 - **TradingView MCP Bridge** → 協助圖表閱讀與 Pine Script 開發，不提供實盤執行；其免責聲明禁止以擷取資料做自動交易／演算法決策。詳見 [[tradesdontlie-tradingview-mcp]]。
 
 - **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化

@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[backnotprop-plannotator\|Plannotator]] | ⭐10,460 | 本地計畫、產物與程式碼審閱，Inbox 回饋 Agent。 | 2026-11-14 |
 | [[QwenLM-qwen-code\|qwen-code]] | ⭐29,813 | 多協議、多平台開源 Coding Agent，支援終端、SDK 與實驗性共享 daemon。 | 2026-11-13 |
 | [[openai-codex-security\|Codex Security]] | ⭐11,735 | OpenAI 的安全掃描 CLI 與 TypeScript SDK，串接發現、驗證及修補流程。 | 2026-11-12 |
 | [[zed-industries-zed\|Zed]] | ⭐93,629 | 以 Rust 打造的多人協作編輯器，整合原生 Agent、ACP 外部 Agent 與終端工作流程。 | 2026-11-07 |
@@ -282,6 +283,7 @@ updated: 2026-11-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Likely7-Veyra-NRVideo\|Veyra]] | ⭐1,617 | Windows GPU 超解析、降噪、HDR 與補幀；非 LLM 工具。 | 2026-11-14 |
 | [[sherlock-project-sherlock\|Sherlock]] | ⭐100,478 | 跨站公開帳號名稱查詢、OSINT、CSV／XLSX；非 LLM，結果需人工核對 | 2026-11-08 |
 | [[JiaFeiMiao-K-Cat-DiscImageStudio\|Disc Image Studio]] | ⭐7,269 | 光碟可見盤面圖案、標定與實驗性燒錄；非 LLM | 2026-11-06 |
 | [[anomalyco-hex\|Hex]] | ⭐4,587 | 跨平台本地語音聽寫工具，按住快捷鍵說話，再將文字貼入目前應用。 | 2026-11-04 |
@@ -526,6 +528,7 @@ updated: 2026-11-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[tradermonty-claude-trading-skills\|Claude Trading Skills]] | ⭐4,173 | 投資研究、風控與交易日誌 Skills；非自動下單。 | 2026-11-14 |
 | [[GoogleChrome-modern-web-guidance-src\|Modern Web Guidance（Source）]] | ⭐1,756 | 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 | 2026-11-12 |
 | [[shadcn-improve\|improve]] | ⭐10,882 | 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 | 2026-11-12 |
 | [[spotify-portal-ai-plugins\|Spotify Portal AI Plugins]] | ⭐3,040 | 把 Spotify Portal 的目錄查詢、服務摘要與受控操作接入 Coding Agent。 | 2026-11-04 |
@@ -603,6 +606,8 @@ updated: 2026-11-13
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[louislam-uptime-kuma\|Uptime Kuma]] | ⭐93,865 | 自架可用性監控、通知與狀態頁；非 LLM 評測。 | 2026-11-14 |
+| [[tailscale-tailcat\|Tailcat]] | ⭐9,458 | WireGuard 加密通道、NAT 穿透與帶外連線資訊交換。 | 2026-11-14 |
 | [[tokio-rs-topcoat\|Topcoat]] | ⭐6,817 | 實驗性 Rust 全端 Web 框架，SSR 與瀏覽器互動；非 LLM。 | 2026-11-11 |
 | [[dsx-ai-factory-nvke\|NVIDIA Kubernetes Engine（NVKE）]] | ⭐854 | 自架 GPU Kubernetes 叢集管理平面，目前為不建議生產使用的 Preview。 | 2026-11-09 |
 | [[tailwindlabs-tailwindcss\|Tailwind CSS]] | ⭐98,474 | Utility-first CSS、響應式與狀態 variants、靜態樣式建置；非 LLM | 2026-11-08 |
