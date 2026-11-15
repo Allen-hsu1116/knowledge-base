@@ -2321,3 +2321,13 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[openai-codex-security]] → 🤖 Agent 框架與工具；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。
 - ingest [[shadcn-improve]] → 🛠 Skill 生態系；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。
 - ingest [[GoogleChrome-modern-web-guidance-src]] → 🛠 Skill 生態系；保存 README 與 metadata、建立專案頁、更新概念反向連結與索引。
+
+## [2026-11-15] ingest | 每日 LLM 熱門專案
+
+- [[ag-ui-protocol-ag-ui]] → 🤖 Agent 框架與工具。
+- [[Tencent-LoopForge]] → 🔄 Agent 編排與記憶。
+- 保存完整 README 與 metadata；建立完整專案頁、概念反向連結、日期排序索引及 known-repos。
+- LoopForge 的 LICENSE 已另行核對，主專案為 MIT，第三方元件遵循各自條款。
+- 篩除 martin-olivier/airgorah：WiFi 安全稽核工具，README 未見 LLM／Agent 整合，不標記為已收錄。候選快照保存在 outputs/2026-11-15-candidates.json。
+- 本批未新增概念頁。
+

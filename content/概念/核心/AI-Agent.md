@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-13
+updated: 2026-11-15
 language: zh-TW
 ---
 
@@ -27,6 +27,9 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- [[ag-ui-protocol-ag-ui]] — 標準化 Agent 與前端的事件、串流和狀態互動，不取代模型或工具權限。
+- [[Tencent-LoopForge]] — 將 Coding Agent、腳本與人工閘門組成可追溯的軟體交付 SOP。
 
 - [[backnotprop-plannotator]] — 以本地 Inbox 集中人類審閱與決策，再將批註送回 Agent session。
 

@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-11-10
+updated: 2026-11-15
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- [[ag-ui-protocol-ag-ui]] — 作為互補協議，連接 Agent 與使用者應用；MCP 著重工具連接，兩者不是替代關係。
 
 - [[backnotprop-plannotator]] — 提供 `plannotator inbox mcp`，讓其他 Agent 接入本地待審閱工作台。
 

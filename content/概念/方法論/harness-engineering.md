@@ -31,6 +31,8 @@ AI Agent = LLM + Harness。Harness 是 LLM 以外的所有程式和框架——�
 
 ## 各框架的做法
 
+- [[Tencent-LoopForge]] — 以角色、確定性腳本、Docker 工作區與人工閘門控制交付；Docker socket 模式僅適合可信團隊，不提供不可信租戶強隔離。
+
 - **Browser Harness** → 分離受保護核心與可修改 helper 工作區；此處自我改善指工具流程累積，不是模型權重自動訓練。詳見 [[browser-use-browser-harness]]。
 
 - **OpenRig** → 以 YAML 拓樸、穩定角色與 tmux 管理 Claude Code／Codex 團隊的多 Agent Harness。 詳見 [[mvschwarz-openrig]]。

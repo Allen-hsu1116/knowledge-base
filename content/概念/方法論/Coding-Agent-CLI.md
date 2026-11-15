@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-11-13
+updated: 2026-11-15
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 - **斜線指令** — `/review`、`/test`、`/deploy` 等快捷指令，一鍵觸發常見操作
 
 ## 各框架的做法
+
+- [[Tencent-LoopForge]] — 編排 Codex、Claude Code、CodeBuddy 等既有 CLI，補上角色、檢查與核准；Local 版將內建工作流帶入助理。
 
 - [[backnotprop-plannotator]] — 審閱計畫、文件與程式差異，作為 Coding Agent 的人類回饋層。
 

@@ -17,6 +17,7 @@ updated: 2026-11-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ag-ui-protocol-ag-ui\|AG-UI]] | ⭐17,371 | Agent 與前端互動的事件協議、串流及共享狀態；與 MCP 互補。 | 2026-11-15 |
 | [[backnotprop-plannotator\|Plannotator]] | ⭐10,460 | 本地計畫、產物與程式碼審閱，Inbox 回饋 Agent。 | 2026-11-14 |
 | [[QwenLM-qwen-code\|qwen-code]] | ⭐29,813 | 多協議、多平台開源 Coding Agent，支援終端、SDK 與實驗性共享 daemon。 | 2026-11-13 |
 | [[openai-codex-security\|Codex Security]] | ⭐11,735 | OpenAI 的安全掃描 CLI 與 TypeScript SDK，串接發現、驗證及修補流程。 | 2026-11-12 |
@@ -164,6 +165,7 @@ updated: 2026-11-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Tencent-LoopForge\|LoopForge]] | ⭐914 | 自架 Coding Agent 交付工作台、SOP、腳本與人工核准；限可信團隊。 | 2026-11-15 |
 | [[ranxianglei-billion-context\|billion-context]] | ⭐4,615 | 增量上下文壓縮、還原、代理與宿主整合；授權含產品署名附加條款 | 2026-11-08 |
 | [[Orkas-AI-Orkas\|Orkas]] | ⭐6,217 | 桌面 Commander、多 Agent、CLI 協作、專案與排程 | 2026-11-01 |
 | [[google-ax\|AX（Google）]] | ⭐7,605 | 宣告式任務編排、Agent Substrate、工作區、網路政策、suspend/resume | 2026-09-23 |
