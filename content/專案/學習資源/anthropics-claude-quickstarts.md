@@ -2,7 +2,7 @@
 title: Claude Quickstarts
 slug: anthropics-claude-quickstarts
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-15
 stars: 19424
 language: zh-TW
 topics: ["AI-Agent", "computer-use-agent"]
@@ -89,6 +89,7 @@ python autonomous_agent_demo.py --project-dir ./my_project --max-iterations 3
 - [GitHub](https://github.com/anthropics/claude-quickstarts)
 - [官方補充文件](https://github.com/anthropics/claude-quickstarts/tree/main/autonomous-coding)
 - README 原始快照：`raw/2026-11-09-anthropics-claude-quickstarts.md`
+- Autonomous Coding 子專案快照：`raw/2026-11-09-anthropics-claude-quickstarts-autonomous-coding.md`；支援本文的雙 Agent、跨 session 進度與安裝說明，亦保留子目錄授權文字不一致的查核依據。
 - Metadata 快照：`raw/2026-11-09-anthropics-claude-quickstarts.metadata.json`
 - Stars 為 2026-11-09 擷取值；功能以該日 README 為準。
 

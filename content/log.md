@@ -2331,3 +2331,12 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 篩除 martin-olivier/airgorah：WiFi 安全稽核工具，README 未見 LLM／Agent 整合，不標記為已收錄。候選快照保存在 outputs/2026-11-15-candidates.json。
 - 本批未新增概念頁。
 
+## [2026-11-15] lint | 全庫模板與素材溯源檢查
+
+- 掃描 719 篇 wiki、867 份 raw 資產及 25 組概念合併映射。
+- [[Graphify-Labs-graphify]] 補回摘要 Stars，將 footer 的 License、收錄日期拆成標準獨立欄位；保留原始查核數值與日期。
+- [[anthropics-claude-quickstarts]] 補上已用於正文的 autonomous-coding 原始文件引用。
+- [[mvanhorn-last30days-skill]]、[[walkinglabs-learn-harness-engineering]] 補上 metadata／版本證據 JSON 引用。
+- 已引用素材於 outputs/lint-audit-2026-11-15.json 標記 organized，不更動 raw 原檔。語意風險候選與前次相比無新增；機械掃描不等於逐項外部事實查核。
+- 修改前備份：outputs/pre-lint-2026-11-15.tar.gz。
+

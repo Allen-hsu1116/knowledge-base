@@ -130,6 +130,7 @@ python3 skills/last30days/scripts/last30days.py library feed
 - [設定文件](https://github.com/mvanhorn/last30days-skill/blob/f0876504bdfcada40fcf5a4a3ada014c9408b9ed/CONFIGURATION.md)（延伸設定入口）。
 - [最新已發布版本 v3.39.0](https://github.com/mvanhorn/last30days-skill/releases/tag/v3.39.0)；release commit：`f918b496b021fbc4db270ff3442fabf373a4a5f4`。
 - 不可變完整 README 快照：`raw/2026-11-15-mvanhorn-last30days-skill-f0876504bdfc.md`
+- Metadata 與版本查核證據：`raw/2026-11-15-mvanhorn-last30days-skill-f0876504bdfc-evidence.json`。
 - 舊版原始資料保留：`raw/2026-06-05-mvanhorn-last30days-skill.md`
 
 ---

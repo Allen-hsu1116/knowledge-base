@@ -115,6 +115,7 @@ bash tools/audit-harness.sh /path/to/project
 - [L01 修正後案例](https://github.com/walkinglabs/learn-harness-engineering/blob/a9342ff471f2c0e60be0c08b9f4a7c502df4e442/docs/en/lectures/lecture-01-why-capable-agents-still-fail/index.md)
 - [公開 Releases](https://github.com/walkinglabs/learn-harness-engineering/releases)：本次 API 查詢為空清單。
 - 不可變完整 README 快照：`raw/2026-11-15-walkinglabs-learn-harness-engineering-a9342ff471f2.md`
+- Metadata 與版本查核證據：`raw/2026-11-15-walkinglabs-learn-harness-engineering-a9342ff471f2-evidence.json`。
 - 舊版原始資料保留：`raw/2026-05-24-walkinglabs-learn-harness-engineering.md`
 
 ---

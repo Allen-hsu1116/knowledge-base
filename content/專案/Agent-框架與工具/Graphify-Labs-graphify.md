@@ -15,7 +15,7 @@ release: v0.9.108
 
 # Graphify (Graphify-Labs)
 
-> 將程式碼及文件映射成可追蹤來源的知識圖譜，以本地 AST 解析建立結構，再透過 CLI、AI assistant skill 或 MCP 查詢；不以向量資料庫為必要條件。
+> ⭐147623 · 將程式碼及文件映射成可追蹤來源的知識圖譜，以本地 AST 解析建立結構，再透過 CLI、AI assistant skill 或 MCP 查詢；不以向量資料庫為必要條件。
 
 ## 快速導航
 
@@ -153,9 +153,11 @@ CLI 明確給定 `--budget`／`--depth` 會覆蓋各自的專案設定；這些�
 |------|------|
 | GitHub | https://github.com/Graphify-Labs/graphify |
 | Stars | ⭐147623（2026-11-15 查核，會變動） |
-| 主要語言／授權 | Python／Apache-2.0（GitHub metadata 與 README） |
+| 主要語言 | Python |
+| License | Apache-2.0（GitHub metadata 與 README） |
 | 預設分支 | `v8`（分支名稱，不是 release 版本號） |
 | 分支 HEAD SHA | `52cb28218eea0c68d80a9f4b2ae102d2fa63e267` |
 | 最新正式 release | `v0.9.108`，此次 tag 解析到與 HEAD 相同的 SHA |
-| 收錄／更新日期 | 2026-08-09／2026-11-15（CST） |
+| 收錄日期 | 2026-08-09 |
+| 更新日期 | 2026-11-15（CST） |
 | 驗證範圍 | 官方來源唯讀查核；未安裝、執行或重跑 benchmark |
