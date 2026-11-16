@@ -2,7 +2,7 @@
 title: Prompt 安全與越獄
 slug: prompt-security
 created: 2026-06-22
-updated: 2026-10-15
+updated: 2026-11-16
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Prompt Security（Prompt 安全）是研究如何保護 LLM 和 AI Agent 免受�
 - **持續更新** — 攻擊手法不斷進化，防禦必須持續跟進
 
 ## 各框架的做法
+
+- [[NVIDIA-SkillEvaluator]] — NVIDIA 的分層技能評估框架，區分靜態品質、語意重疊與實際 Agent 成效。
 
 - **iFixAi** → 將 prompt injection、越權及破壞性操作納入業務政策稽核；評測不能取代執行期沙箱和權限強制。詳見 [[ifixai-ai-iFixAi]]。
 

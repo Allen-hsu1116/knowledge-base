@@ -2,7 +2,7 @@
 title: LLM 底層技術
 slug: llm-internals
 created: 2026-06-04
-updated: 2026-11-03
+updated: 2026-11-16
 language: zh-TW
 ---
 
@@ -28,6 +28,8 @@ Positional Embedding 從 Sinusoidal（2017）到 ALiBi（2021）到 RoPE（2022�
 - **快取命中原則**：System prompt 中穩定內容放前面、變動內容放後面，讓 KV Cache 跨對話共用
 
 ## 各框架的做法
+
+- [[ggml-org-ggml]] — 低依賴、可攜的 C/C++ 張量運算函式庫，提供量化與多硬體後端。
 
 - **nanochat** → 以精簡實驗程式串起 tokenizer、預訓練、微調、評估與對話推論的 LLM 訓練專案。 詳見 [[karpathy-nanochat]]。
 - **Kornia** → 以 PyTorch 張量實作可微影像處理、資料增強與幾何視覺的函式庫，非聊天 LLM。 詳見 [[kornia-kornia]]。

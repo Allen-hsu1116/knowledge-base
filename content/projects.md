@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # 專案索引
@@ -235,6 +235,7 @@ updated: 2026-11-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[ggml-org-ggml\|ggml]] | ⭐15,908 | 低依賴、可攜的 C/C++ 張量運算函式庫，提供量化與多硬體後端。 | 2026-11-16 |
 | [[ashhart-TensorFold\|TensorFold]] | ⭐1,939 | 以 Zig binary 在 Apple Silicon／NVIDIA GPU 執行原生語言模型推論與 API serving。 | 2026-11-13 |
 | [[FareedKhan-dev-kimi-k3-in-c\|kimi-k3-in-c]] | ⭐10,298 | 以 C99、CPU 與磁碟串流研究大型 MoE 低常駐記憶體推論的專用引擎。 | 2026-11-05 |
 | [[FlashML-org-FreeToken\|FreeToken]] | ⭐15,409 | 面向消費級異質硬體，以 CPU／GPU 協同與快取管理執行大型 MoE 的推論引擎。 | 2026-11-02 |
@@ -530,6 +531,9 @@ updated: 2026-11-15
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-labs-code-stitch-skills\|Stitch Design Skills]] | ⭐9,301 | 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。 | 2026-11-16 |
+| [[elementalsouls-Claude-BugHunter\|Claude-BugHunter]] | ⭐6,450 | 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。 | 2026-11-16 |
+| [[NVIDIA-SkillEvaluator\|SkillEvaluator]] | ⭐1,688 | NVIDIA 的分層技能評估框架，區分靜態品質、語意重疊與實際 Agent 成效。 | 2026-11-16 |
 | [[tradermonty-claude-trading-skills\|Claude Trading Skills]] | ⭐4,173 | 投資研究、風控與交易日誌 Skills；非自動下單。 | 2026-11-14 |
 | [[GoogleChrome-modern-web-guidance-src\|Modern Web Guidance（Source）]] | ⭐1,756 | 把現代 Web API、相容性及實務指引送入 Coding Agent 的技能來源專案。 | 2026-11-12 |
 | [[shadcn-improve\|improve]] | ⭐10,882 | 讓強模型稽核並寫實作計畫，再委派較便宜模型執行的 Agent Skill。 | 2026-11-12 |

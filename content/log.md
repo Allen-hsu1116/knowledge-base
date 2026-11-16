@@ -2340,3 +2340,10 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - 已引用素材於 outputs/lint-audit-2026-11-15.json 標記 organized，不更動 raw 原檔。語意風險候選與前次相比無新增；機械掃描不等於逐項外部事實查核。
 - 修改前備份：outputs/pre-lint-2026-11-15.tar.gz。
 
+
+## 2026-11-16 每日熱門專案
+
+- ingest [[ggml-org-ggml]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。
+- ingest [[google-labs-code-stitch-skills]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。
+- ingest [[elementalsouls-Claude-BugHunter]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。
+- ingest [[NVIDIA-SkillEvaluator]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。

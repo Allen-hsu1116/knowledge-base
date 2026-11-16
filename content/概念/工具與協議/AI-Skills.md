@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-11-15
+updated: 2026-11-16
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- [[google-labs-code-stitch-skills]] — 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。
+- [[elementalsouls-Claude-BugHunter]] — 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。
+- [[NVIDIA-SkillEvaluator]] — NVIDIA 的分層技能評估框架，區分靜態品質、語意重疊與實際 Agent 成效。
 
 - [[tradermonty-claude-trading-skills]] — 以技能索引與工作流 manifest 封裝市場研究、風控和日誌，保留人工決策關卡。
 

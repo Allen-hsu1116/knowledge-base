@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-15
+updated: 2026-11-16
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- [[google-labs-code-stitch-skills]] — 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。
+- [[elementalsouls-Claude-BugHunter]] — 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。
+- [[NVIDIA-SkillEvaluator]] — NVIDIA 的分層技能評估框架，區分靜態品質、語意重疊與實際 Agent 成效。
 
 - [[ag-ui-protocol-ag-ui]] — 標準化 Agent 與前端的事件、串流和狀態互動，不取代模型或工具權限。
 - [[Tencent-LoopForge]] — 將 Coding Agent、腳本與人工閘門組成可追溯的軟體交付 SOP。
