@@ -2,7 +2,7 @@
 title: MCP
 slug: MCP
 created: 2026-05-07
-updated: 2026-11-16
+updated: 2026-11-17
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 - **開源可擴展**：Apache 2.0 授權，TypeScript SDK 和 Python SDK 官方實作
 
 ## 各框架的做法
+
+- [[DeanChensj-jiangshan-map]] — 具時間軸、古地名查詢及 MCP／Agent 接口的互動歷史地圖。
+
+- [[kajisho5-ffmpeg-skill]] — 為 Coding Agent 提供本地 FFmpeg 編輯、機器可讀契約與產物驗證。
 
 - [[google-labs-code-stitch-skills]] — 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。
 

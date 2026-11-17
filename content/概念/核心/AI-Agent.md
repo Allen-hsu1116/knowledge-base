@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-16
+updated: 2026-11-17
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
 - **技能系統**：透過結構化的 SKILL.md 格式定義在特定情境下該怎麼做，讓能力可版本控制和分享
 
 ## 各框架的做法
+
+- [[google-research-paper-orchestra]] — 將研究想法與實驗紀錄轉成 LaTeX 論文稿的多 Agent 寫作流程。
+
+- [[kajisho5-ffmpeg-skill]] — 為 Coding Agent 提供本地 FFmpeg 編輯、機器可讀契約與產物驗證。
 
 - [[google-labs-code-stitch-skills]] — 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。
 - [[elementalsouls-Claude-BugHunter]] — 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。

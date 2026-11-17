@@ -2,7 +2,7 @@
 title: 前端設計
 slug: frontend-design
 created: 2026-06-08
-updated: 2026-11-16
+updated: 2026-11-17
 language: zh-TW
 ---
 
@@ -28,6 +28,10 @@ language: zh-TW
 - **AI Skills 整合** — 設計知識封裝為 SKILL.md，讓 Agent 按品質標準執行設計任務
 
 ## 各框架的做法
+
+- [[DeanChensj-jiangshan-map]] — 具時間軸、古地名查詢及 MCP／Agent 接口的互動歷史地圖。
+
+- [[sveltejs-svelte]] — 編譯式 Web UI 框架，作為 AI 應用前端的開發底座，而非 LLM 框架。
 
 - [[google-labs-code-stitch-skills]] — 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。
 

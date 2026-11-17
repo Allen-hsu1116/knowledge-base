@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-11-11
+updated: 2026-11-17
 language: zh-TW
 ---
 
@@ -30,6 +30,8 @@ language: zh-TW
 - **開源生態** — 大量開源專案提供自架方案，從 AI 到媒體到生產力工具
 
 ## 各框架的做法
+
+- [[getarcaneapp-arcane]] — 以 Web UI 管理 Docker、Compose 與遠端主機的自架管理平台。
 
 - [[louislam-uptime-kuma]] — 自架可用性監控、告警及公開狀態頁，不評估模型回答品質。
 - [[tailscale-tailcat]] — 不依賴控制平面的加密點對點通道，供自架服務受控連線。

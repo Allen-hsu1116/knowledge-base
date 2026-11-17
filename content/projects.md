@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[google-research-paper-orchestra\|PaperOrchestra]] | ⭐1,522 | 將研究想法與實驗紀錄轉成 LaTeX 論文稿的多 Agent 寫作流程。 | 2026-11-17 |
 | [[ag-ui-protocol-ag-ui\|AG-UI]] | ⭐17,371 | Agent 與前端互動的事件協議、串流及共享狀態；與 MCP 互補。 | 2026-11-15 |
 | [[backnotprop-plannotator\|Plannotator]] | ⭐10,460 | 本地計畫、產物與程式碼審閱，Inbox 回饋 Agent。 | 2026-11-14 |
 | [[QwenLM-qwen-code\|qwen-code]] | ⭐29,813 | 多協議、多平台開源 Coding Agent，支援終端、SDK 與實驗性共享 daemon。 | 2026-11-13 |
@@ -435,6 +436,7 @@ updated: 2026-11-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[DeanChensj-jiangshan-map\|江山時序（jiangshan-map）]] | ⭐6,724 | 具時間軸、古地名查詢及 MCP／Agent 接口的互動歷史地圖。 | 2026-11-17 |
 | [[we-promise-sure\|Sure]] | ⭐11,958 | 自架個人財務管理、可選 AI 助理與 LLM agent 存取。 | 2026-11-11 |
 | [[homeassistant-ai-ha-mcp\|HA-MCP]] | ⭐5,975 | Home Assistant MCP server，裝置控制、自動化、儀表板與安全政策。 | 2026-11-10 |
 | [[google-deepmind-mujoco\|MuJoCo]] | ⭐16,420 | 用於機器人、控制與機器學習研究的多關節接觸物理引擎；不是 LLM。 | 2026-11-09 |
@@ -531,6 +533,7 @@ updated: 2026-11-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[kajisho5-ffmpeg-skill\|ffmpeg-skill]] | ⭐6,732 | 為 Coding Agent 提供本地 FFmpeg 編輯、機器可讀契約與產物驗證。 | 2026-11-17 |
 | [[google-labs-code-stitch-skills\|Stitch Design Skills]] | ⭐9,301 | 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。 | 2026-11-16 |
 | [[elementalsouls-Claude-BugHunter\|Claude-BugHunter]] | ⭐6,450 | 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。 | 2026-11-16 |
 | [[NVIDIA-SkillEvaluator\|SkillEvaluator]] | ⭐1,688 | NVIDIA 的分層技能評估框架，區分靜態品質、語意重疊與實際 Agent 成效。 | 2026-11-16 |
@@ -612,6 +615,8 @@ updated: 2026-11-16
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[getarcaneapp-arcane\|Arcane]] | ⭐8,731 | 以 Web UI 管理 Docker、Compose 與遠端主機的自架管理平台。 | 2026-11-17 |
+| [[sveltejs-svelte\|Svelte]] | ⭐88,994 | 編譯式 Web UI 框架，作為 AI 應用前端的開發底座，而非 LLM 框架。 | 2026-11-17 |
 | [[louislam-uptime-kuma\|Uptime Kuma]] | ⭐93,865 | 自架可用性監控、通知與狀態頁；非 LLM 評測。 | 2026-11-14 |
 | [[tailscale-tailcat\|Tailcat]] | ⭐9,458 | WireGuard 加密通道、NAT 穿透與帶外連線資訊交換。 | 2026-11-14 |
 | [[tokio-rs-topcoat\|Topcoat]] | ⭐6,817 | 實驗性 Rust 全端 Web 框架，SSR 與瀏覽器互動；非 LLM。 | 2026-11-11 |

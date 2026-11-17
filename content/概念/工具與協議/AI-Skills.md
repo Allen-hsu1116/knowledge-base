@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-11-16
+updated: 2026-11-17
 language: zh-TW
 ---
 
@@ -27,6 +27,10 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - **與 MCP 互補**：Skills 定義「做什麼」，MCP 定義「怎麼連」，兩者共同構成 Agent 的能力邊界
 
 ## 各框架的做法
+
+- [[DeanChensj-jiangshan-map]] — 具時間軸、古地名查詢及 MCP／Agent 接口的互動歷史地圖。
+
+- [[kajisho5-ffmpeg-skill]] — 為 Coding Agent 提供本地 FFmpeg 編輯、機器可讀契約與產物驗證。
 
 - [[google-labs-code-stitch-skills]] — 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。
 - [[elementalsouls-Claude-BugHunter]] — 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。

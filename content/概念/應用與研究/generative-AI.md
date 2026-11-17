@@ -2,7 +2,7 @@
 title: 生成式 AI
 slug: generative-AI
 created: 2026-06-20
-updated: 2026-10-27
+updated: 2026-11-17
 language: zh-TW
 ---
 
@@ -27,6 +27,8 @@ language: zh-TW
 - **條件生成控制**：透過文字、圖片、相機軌跡等條件實現精細控制
 
 ## 各框架的做法
+
+- [[google-research-paper-orchestra]] — 將研究想法與實驗紀錄轉成 LaTeX 論文稿的多 Agent 寫作流程。
 
 - **Postiz** → 將 AI 文案與媒體能力接到社群排程工作流，自架需自備模型金鑰。詳見 [[gitroomhq-postiz-app]]。
 - **Huashu Design** → 由 Agent 產生 HTML 設計、可編輯簡報與動畫；風格探索與產物驗證不等於訓練新模型。詳見 [[alchaincyf-huashu-design]]。

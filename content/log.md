@@ -2347,3 +2347,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[google-labs-code-stitch-skills]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。
 - ingest [[elementalsouls-Claude-BugHunter]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。
 - ingest [[NVIDIA-SkillEvaluator]]：README 與 metadata 快照、完整專案頁、概念 backlinks、分類索引及 known-repos。
+
+## 2026-11-17 每日熱門專案收錄
+
+- ingest [[sveltejs-svelte]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
+- ingest [[getarcaneapp-arcane]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
+- ingest [[kajisho5-ffmpeg-skill]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
+- ingest [[DeanChensj-jiangshan-map]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
+- ingest [[google-research-paper-orchestra]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
