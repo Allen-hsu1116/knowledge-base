@@ -29,6 +29,10 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Solid** → 以細粒度響應式更新真實 DOM 的宣告式 UI 函式庫。 詳見 [[solidjs-solid]]。
+
+- **jQuery** → 提供 DOM、事件與 AJAX 操作的 JavaScript 函式庫。 詳見 [[jquery-jquery]]。
+
 - [[DeanChensj-jiangshan-map]] — 具時間軸、古地名查詢及 MCP／Agent 接口的互動歷史地圖。
 
 - [[sveltejs-svelte]] — 編譯式 Web UI 框架，作為 AI 應用前端的開發底座，而非 LLM 框架。

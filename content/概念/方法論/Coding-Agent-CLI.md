@@ -29,6 +29,12 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
 
 ## 各框架的做法
 
+- **Solid** → 以細粒度響應式更新真實 DOM 的宣告式 UI 函式庫。 詳見 [[solidjs-solid]]。
+
+- **jQuery** → 提供 DOM、事件與 AJAX 操作的 JavaScript 函式庫。 詳見 [[jquery-jquery]]。
+
+- **uv** → Rust 實作的 Python 套件、環境與專案管理工具。 詳見 [[astral-sh-uv]]。
+
 - [[sveltejs-svelte]] — 編譯式 Web UI 框架，作為 AI 應用前端的開發底座，而非 LLM 框架。
 
 - [[Tencent-LoopForge]] — 編排 Codex、Claude Code、CodeBuddy 等既有 CLI，補上角色、檢查與核准；Local 版將內建工作流帶入助理。

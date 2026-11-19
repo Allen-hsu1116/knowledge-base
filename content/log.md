@@ -2355,3 +2355,12 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[kajisho5-ffmpeg-skill]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
 - ingest [[DeanChensj-jiangshan-map]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
 - ingest [[google-research-paper-orchestra]]：README／metadata 快照、專案頁、雙向連結、分類索引及去重清單更新。
+
+
+## 2026-11-19 — 每日 Trending 收錄
+
+- ingest [[astral-sh-uv]]：🏗 基礎設施；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
+- ingest [[jquery-jquery]]：🏗 基礎設施；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
+- ingest [[appwrite-appwrite]]：🏗 基礎設施；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
+- ingest [[solidjs-solid]]：🏗 基礎設施；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
+- ingest [[openvinotoolkit-openvino]]：🧠 模型推論與部署；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。

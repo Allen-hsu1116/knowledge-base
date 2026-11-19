@@ -31,6 +31,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **Appwrite** → 整合認證、資料庫、儲存與 MCP 的應用後端平台。 詳見 [[appwrite-appwrite]]。
+
 - [[getarcaneapp-arcane]] — 以 Web UI 管理 Docker、Compose 與遠端主機的自架管理平台。
 
 - [[louislam-uptime-kuma]] — 自架可用性監控、告警及公開狀態頁，不評估模型回答品質。

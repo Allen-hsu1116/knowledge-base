@@ -29,6 +29,8 @@ language: zh-TW
 
 ## 各框架的做法
 
+- **OpenVINO** → 用於模型最佳化與跨 CPU、Intel GPU／NPU 推論部署的工具套件。 詳見 [[openvinotoolkit-openvino]]。
+
 - **BitNet（bitnet.cpp）** → 在 x86／ARM CPU 執行相容的 1.58-bit LLM；embedding 模型目前支援矩陣限 x86 I2_S，不代表任意模型皆可無損轉換。詳見 [[microsoft-BitNet]]。
 
 - **Supertonic** → 裝置端 TTS，ONNX Runtime 推論，31 語言 CPU 即時合成

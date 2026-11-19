@@ -28,6 +28,10 @@ MCP 採用沙盒化安全設計——Server 端控制存取權限，Client 端�
 
 ## 各框架的做法
 
+- **Appwrite** → 整合認證、資料庫、儲存與 MCP 的應用後端平台。 詳見 [[appwrite-appwrite]]。
+
+- **uv** → Rust 實作的 Python 套件、環境與專案管理工具。 詳見 [[astral-sh-uv]]。
+
 - [[DeanChensj-jiangshan-map]] — 具時間軸、古地名查詢及 MCP／Agent 接口的互動歷史地圖。
 
 - [[kajisho5-ffmpeg-skill]] — 為 Coding Agent 提供本地 FFmpeg 編輯、機器可讀契約與產物驗證。

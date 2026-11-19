@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 # 專案索引
@@ -236,6 +236,7 @@ updated: 2026-11-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[openvinotoolkit-openvino\|OpenVINO]] | ⭐11,327 | 用於模型最佳化與跨 CPU、Intel GPU／NPU 推論部署的工具套件。 | 2026-11-19 |
 | [[ggml-org-ggml\|ggml]] | ⭐15,908 | 低依賴、可攜的 C/C++ 張量運算函式庫，提供量化與多硬體後端。 | 2026-11-16 |
 | [[ashhart-TensorFold\|TensorFold]] | ⭐1,939 | 以 Zig binary 在 Apple Silicon／NVIDIA GPU 執行原生語言模型推論與 API serving。 | 2026-11-13 |
 | [[FareedKhan-dev-kimi-k3-in-c\|kimi-k3-in-c]] | ⭐10,298 | 以 C99、CPU 與磁碟串流研究大型 MoE 低常駐記憶體推論的專用引擎。 | 2026-11-05 |
@@ -615,6 +616,10 @@ updated: 2026-11-17
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[solidjs-solid\|Solid]] | ⭐36,584 | 以細粒度響應式更新真實 DOM 的宣告式 UI 函式庫。 | 2026-11-19 |
+| [[appwrite-appwrite\|Appwrite]] | ⭐58,227 | 整合認證、資料庫、儲存與 MCP 的應用後端平台。 | 2026-11-19 |
+| [[jquery-jquery\|jQuery]] | ⭐60,008 | 提供 DOM、事件與 AJAX 操作的 JavaScript 函式庫。 | 2026-11-19 |
+| [[astral-sh-uv\|uv]] | ⭐92,220 | Rust 實作的 Python 套件、環境與專案管理工具。 | 2026-11-19 |
 | [[getarcaneapp-arcane\|Arcane]] | ⭐8,731 | 以 Web UI 管理 Docker、Compose 與遠端主機的自架管理平台。 | 2026-11-17 |
 | [[sveltejs-svelte\|Svelte]] | ⭐88,994 | 編譯式 Web UI 框架，作為 AI 應用前端的開發底座，而非 LLM 框架。 | 2026-11-17 |
 | [[louislam-uptime-kuma\|Uptime Kuma]] | ⭐93,865 | 自架可用性監控、通知與狀態頁；非 LLM 評測。 | 2026-11-14 |
