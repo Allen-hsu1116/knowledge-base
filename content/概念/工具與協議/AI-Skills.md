@@ -2,7 +2,7 @@
 title: AI Skills
 slug: AI-Skills
 created: 2026-06-07
-updated: 2026-11-17
+updated: 2026-11-20
 language: zh-TW
 ---
 
@@ -138,6 +138,8 @@ Skills 的跨平台支援是關鍵優勢。同一個 SKILL.md 可以在 Claude C
 - [[Graphify-Labs-graphify|Graphify]]：以技能介面建立與查詢專案知識圖譜。
 
 ## 相關概念
+
+- [[mjmirza-app-store-compliance]] — 將行動應用上架規範整理為 playbook、掃描 guard 與 Coding Agent hooks。
 
 - [[AI-Skills]] — 用自然語言定義 AI 編碼助理的行為規範，Agent Skill 的核心載體
 - [[AI-Skills]] — Skills 正在從個人腳本進化成標準化的共享格式

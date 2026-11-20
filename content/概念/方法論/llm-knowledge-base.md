@@ -2,7 +2,7 @@
 title: LLM 知識庫系統
 slug: llm-knowledge-base
 created: 2026-04-28
-updated: 2026-10-25
+updated: 2026-11-20
 language: zh-TW
 ---
 
@@ -70,6 +70,9 @@ LLM 知識庫系統是一種知識管理方法論，核心觀念是讓 LLM 當�
   👉 詳見 [[akitaonrails-ai-memory|ai-memory]]
 
 ## 相關概念
+
+- [[toeverything-AFFiNE]] — 整合文件、無邊畫布與 AI 的 local-first 知識工作空間。
+- [[XiaoYouChR-Ghost-Downloader-3]] — 多協議、跨平台的下載工具，可支援知識素材蒐集但不是 LLM 框架。
 
 - [[llm-knowledge-base]] — 原始 Gist，方法論的直接來源
 - [[llm-knowledge-base]] — 數位時代中文報導版

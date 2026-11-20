@@ -2364,3 +2364,11 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[appwrite-appwrite]]：🏗 基礎設施；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
 - ingest [[solidjs-solid]]：🏗 基礎設施；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
 - ingest [[openvinotoolkit-openvino]]：🧠 模型推論與部署；README＋metadata、專案頁、概念 backlinks、索引與 known-repos 已更新。
+
+## 2026-11-20 熱門專案收錄
+
+- ingest [[toeverything-AFFiNE]]：README/API 快照、專案頁、概念反向連結與 🧠 記憶與知識管理 索引。
+- ingest [[nginx-nginx]]：README/API 快照、專案頁、概念反向連結與 🏗 基礎設施 索引。
+- ingest [[Tracer-Cloud-opensre]]：README/API 快照、專案頁、概念反向連結與 🤖 Agent 框架與工具 索引。
+- ingest [[XiaoYouChR-Ghost-Downloader-3]]：README/API 快照、專案頁、概念反向連結與 🎯 多媒體與爬蟲 索引。
+- ingest [[mjmirza-app-store-compliance]]：README/API 快照、專案頁、概念反向連結與 🛠 Skill 生態系 索引。

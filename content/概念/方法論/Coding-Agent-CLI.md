@@ -2,7 +2,7 @@
 title: Coding Agent CLI
 slug: Coding-Agent-CLI
 created: 2025-06-07
-updated: 2026-11-17
+updated: 2026-11-20
 language: zh-TW
 ---
 
@@ -154,6 +154,9 @@ CLI 模式的核心優勢在於可組合性和自動化。透過 Agent Routing�
   👉 詳見 [[vercel-labs-portless\|portless]]
 
 ## 相關概念
+
+- [[Tracer-Cloud-opensre]] — 以工具呼叫調查 CI/CD 失敗原因並提出可審查修補的 Agent。
+- [[mjmirza-app-store-compliance]] — 將行動應用上架規範整理為 playbook、掃描 guard 與 Coding Agent hooks。
 
 - [[AI-Agent]] — Coding Agent CLI 是 Agent 在開發領域的實作
 - [[MCP]] — MCP 定義 CLI 如何連接外部工具

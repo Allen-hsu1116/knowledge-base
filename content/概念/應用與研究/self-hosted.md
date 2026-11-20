@@ -2,7 +2,7 @@
 title: 自架（Self-Hosted）
 slug: self-hosted
 created: 2026-06-05
-updated: 2026-11-17
+updated: 2026-11-20
 language: zh-TW
 ---
 
@@ -146,6 +146,10 @@ language: zh-TW
   👉 詳見 [[vercel-labs-portless\|portless]]
 
 ## 相關概念
+
+- [[toeverything-AFFiNE]] — 整合文件、無邊畫布與 AI 的 local-first 知識工作空間。
+- [[nginx-nginx]] — 提供 Web、反向代理、負載平衡與快取的基礎設施，非 LLM 專用工具。
+- [[XiaoYouChR-Ghost-Downloader-3]] — 多協議、跨平台的下載工具，可支援知識素材蒐集但不是 LLM 框架。
 
 - [[self-hosted\|自架 AI 平台]] — 專注於 AI 服務的自架
 - [[open-source-business\|開源商業模式]] — 開源專案的商業化策略

@@ -2,7 +2,7 @@
 title: AI Agent
 slug: AI-Agent
 created: 2026-06-01
-updated: 2026-11-17
+updated: 2026-11-20
 language: zh-TW
 ---
 
@@ -209,6 +209,8 @@ AI 正在從「被問才回答」進化成「有身分、有流程、有記憶�
   👉 詳見 [[henryqin1997-statem|StateM]]
 
 ## 相關概念
+
+- [[Tracer-Cloud-opensre]] — 以工具呼叫調查 CI/CD 失敗原因並提出可審查修補的 Agent。
 
 - [[public-apis-public-apis]] — 社群維護的公開 API 目錄，供應用與 Agent 工具整合時尋找資料來源。
 

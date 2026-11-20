@@ -2,7 +2,7 @@
 title: AI Gateway
 slug: AI-Gateway
 created: 2026-06-04
-updated: 2026-10-12
+updated: 2026-11-20
 language: zh-TW
 ---
 
@@ -48,6 +48,8 @@ AI Gateway 解決的核心問題是多模型管理的複雜度。當團隊同時
   👉 詳見 [[Wei-Shaw-sub2api|Sub2API]]
 
 ## 相關概念
+
+- [[nginx-nginx]] — 提供 Web、反向代理、負載平衡與快取的基礎設施，非 LLM 專用工具。
 
 - [[MCP]] — MCP 定義工具連接方式，Gateway 定義模型路由方式
 - [[Token-Optimization]] — Gateway 的 token 壓縮是 Token 優化的基礎設施層

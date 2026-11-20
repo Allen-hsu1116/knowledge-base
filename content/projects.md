@@ -4,7 +4,7 @@ slug: projects
 language: zh-TW
 stars: —
 created: 2025-06-07
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # 專案索引
@@ -17,6 +17,7 @@ updated: 2026-11-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[Tracer-Cloud-opensre\|OpenSRE]] | ⭐13,125 | 以工具呼叫調查 CI/CD 失敗原因並提出可審查修補的 Agent。 | 2026-11-20 |
 | [[google-research-paper-orchestra\|PaperOrchestra]] | ⭐1,522 | 將研究想法與實驗紀錄轉成 LaTeX 論文稿的多 Agent 寫作流程。 | 2026-11-17 |
 | [[ag-ui-protocol-ag-ui\|AG-UI]] | ⭐17,371 | Agent 與前端互動的事件協議、串流及共享狀態；與 MCP 互補。 | 2026-11-15 |
 | [[backnotprop-plannotator\|Plannotator]] | ⭐10,460 | 本地計畫、產物與程式碼審閱，Inbox 回饋 Agent。 | 2026-11-14 |
@@ -182,6 +183,7 @@ updated: 2026-11-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[toeverything-AFFiNE\|AFFiNE]] | ⭐75,172 | 整合文件、無邊畫布與 AI 的 local-first 知識工作空間。 | 2026-11-20 |
 | [[garrytan-gbrain\|GBrain]] | ⭐32,152 | 可溯源、可修正的跨 Agent 記憶，keyless 檢索、合成與 MCP。 | 2026-11-10 |
 | [[NVIDIA-auto-ontology\|Auto Ontology]] | ⭐7,338 | 企業語義本體、人工認證、SQL 溯源、MCP 可回答性檢查 | 2026-11-06 |
 | [[FengZhenfei-carrel\|Carrel]] | ⭐643 | 文件解析、混合檢索與選配知識圖譜；Agent Loop 尚未實作。 | 2026-10-27 |
@@ -288,6 +290,7 @@ updated: 2026-11-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[XiaoYouChR-Ghost-Downloader-3\|Ghost Downloader 3]] | ⭐12,719 | 多協議、跨平台的下載工具，可支援知識素材蒐集但不是 LLM 框架。 | 2026-11-20 |
 | [[Likely7-Veyra-NRVideo\|Veyra]] | ⭐1,617 | Windows GPU 超解析、降噪、HDR 與補幀；非 LLM 工具。 | 2026-11-14 |
 | [[sherlock-project-sherlock\|Sherlock]] | ⭐100,478 | 跨站公開帳號名稱查詢、OSINT、CSV／XLSX；非 LLM，結果需人工核對 | 2026-11-08 |
 | [[JiaFeiMiao-K-Cat-DiscImageStudio\|Disc Image Studio]] | ⭐7,269 | 光碟可見盤面圖案、標定與實驗性燒錄；非 LLM | 2026-11-06 |
@@ -534,6 +537,7 @@ updated: 2026-11-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[mjmirza-app-store-compliance\|App Store Compliance Playbook]] | ⭐1,842 | 將行動應用上架規範整理為 playbook、掃描 guard 與 Coding Agent hooks。 | 2026-11-20 |
 | [[kajisho5-ffmpeg-skill\|ffmpeg-skill]] | ⭐6,732 | 為 Coding Agent 提供本地 FFmpeg 編輯、機器可讀契約與產物驗證。 | 2026-11-17 |
 | [[google-labs-code-stitch-skills\|Stitch Design Skills]] | ⭐9,301 | 把 Google Stitch 的設計、前端建置與設計系統操作封裝成 Agent Skills。 | 2026-11-16 |
 | [[elementalsouls-Claude-BugHunter\|Claude-BugHunter]] | ⭐6,450 | 面向授權漏洞研究的 Claude Code 技能包，整合方法論、驗證與報告流程。 | 2026-11-16 |
@@ -616,6 +620,7 @@ updated: 2026-11-19
 
 | 專案 | Stars | 概念 | 收錄日期 |
 |------|-------|------|----------|
+| [[nginx-nginx\|NGINX]] | ⭐32,335 | 提供 Web、反向代理、負載平衡與快取的基礎設施，非 LLM 專用工具。 | 2026-11-20 |
 | [[solidjs-solid\|Solid]] | ⭐36,584 | 以細粒度響應式更新真實 DOM 的宣告式 UI 函式庫。 | 2026-11-19 |
 | [[appwrite-appwrite\|Appwrite]] | ⭐58,227 | 整合認證、資料庫、儲存與 MCP 的應用後端平台。 | 2026-11-19 |
 | [[jquery-jquery\|jQuery]] | ⭐60,008 | 提供 DOM、事件與 AJAX 操作的 JavaScript 函式庫。 | 2026-11-19 |
