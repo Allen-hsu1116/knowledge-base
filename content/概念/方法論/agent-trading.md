@@ -35,7 +35,7 @@ Agent 交易的優勢在於能整合多種資訊來源並做出即時決策。�
 - **Rockyzsu/stock** → A 股資料、技術形態選股、Python 策略範例與視覺化
   👉 詳見 [[Rockyzsu-stock]]
 
-- **TradingAgents** → 多 Agent 交易系統，LLM 驅動的研究→交易→風險全流程
+- **TradingAgents** → 多 Agent 金融研究與決策評估；v0.7.1 補強歷史資料時點、決策結算與持倉感知。其網格回測不是完整投組模擬器，不可等同券商下單。
   👉 詳見 [[TauricResearch-TradingAgents]]
 - **AI-Trader** → 全自動交易平台，MCP 整合券商 API
   👉 詳見 [[HKUDS-AI-Trader]]

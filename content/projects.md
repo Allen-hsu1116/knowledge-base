@@ -501,7 +501,7 @@ updated: 2026-11-20
 | [[sansan0-TrendRadar\|TrendRadar]] | ⭐59429 | AI 輿情監控, 多平台聚合, RSS, MCP, 10+ 推送管道 | 2026-06-15 |
 | [[promptfoo-promptfoo\|Promptfoo]] | ⭐22198 | LLM 評測, 紅隊, Prompt Engineering, RAG, CI/CD | 2026-06-15 |
 | [[maziyarpanahi-openmed\|OpenMed]] | ⭐3193 | 醫療 AI, 本地裝置, PII 去識別化, 臨床 NER, MLX | 2026-06-13 |
-| [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐81772 | AI Agent, 多Agent交易, LLM, 金融預測 | 2026-06-02 |
+| [[TauricResearch-TradingAgents\|TradingAgents]] | ⭐123553 | 多 Agent 金融研究、時點資料、決策回測（v0.7.1） | 2026-06-02 |
 | [[DayuanJiang-next-ai-draw-io\|Next AI Draw.io]] | ⭐30250 | AI, draw.io, MCP, 資料視覺化 | 2026-05-28 |
 | [[ZhuLinsen-alphaevo\|AlphaEvo]] | ⭐38100 | 策略回測, 金融預測, 自演化 | 2026-05-28 |
 | [[ZhuLinsen-alphasift\|AlphaSift]] | ⭐38100 | 多因子選股, 股市掃描, 金融分析 | 2026-05-28 |

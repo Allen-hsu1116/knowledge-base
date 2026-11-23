@@ -2372,3 +2372,8 @@ MVT 為通用 Trending 的非 LLM 候選，明確標記行動鑑識定位與知�
 - ingest [[Tracer-Cloud-opensre]]：README/API 快照、專案頁、概念反向連結與 🤖 Agent 框架與工具 索引。
 - ingest [[XiaoYouChR-Ghost-Downloader-3]]：README/API 快照、專案頁、概念反向連結與 🎯 多媒體與爬蟲 索引。
 - ingest [[mjmirza-app-store-compliance]]：README/API 快照、專案頁、概念反向連結與 🛠 Skill 生態系 索引。
+
+
+## 2026-11-23 — update：TradingAgents
+
+更新 [[TauricResearch-TradingAgents]] 至 v0.7.1 release 與 main `9fa1196` 文件／實作快照；補充平行分析師、模型分層、SEC as-filed、持倉、HTML、記憶與網格決策評估；修正模擬交易所表述，標明非完整投組回測。保留舊 raw，新增日期快照；更新專案索引與 [[agent-trading]] 反向連結。未執行付費模型或交易。
